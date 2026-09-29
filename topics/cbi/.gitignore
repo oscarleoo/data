@@ -1,0 +1,10 @@
+_text/
+_tessdata/
+__pycache__/
+.DS_Store
+
+# Too large for git (>50 MB): published as GitHub release assets, see raw/RELEASE_FILES.csv
+raw/dma-budget-address-2022-23.pdf
+raw/grc-mma-permits-2017-12.xls
+raw/grc-mma-permits-2018-12.xls
+raw/grc-mma-permits-2019-12.xls

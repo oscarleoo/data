@@ -1,0 +1,300 @@
+jurisdiction,program_id,indicator,period,unit,value,scale,normalised_value,status,source_id,publisher,published_date,spread_percent,kind,obs_id
+ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,68,million,68000000.0,actual,atg-imf-art4-2025,International Monetary Fund,2025-04,23.4,conflict,o-c53c17bb9d
+ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,68,million,68000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,23.4,conflict,o-978fffb8b8
+ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,86,million,86000000.0,provisional,atg-imf-art4-2023,International Monetary Fund,2024-01,23.4,conflict,o-32c16c793d
+ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,88.8,million,88800000.0,provisional,atg-mof-budget-2023,"Government of Antigua and Barbuda, Ministry of Finance",2023-03-02,23.4,conflict,o-673c6f842b
+ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,62,million,62000000.0,actual,atg-imf-art4-2025,International Monetary Fund,2025-04,7.5,conflict,o-3b818b7e5f
+ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,62,million,62000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,7.5,conflict,o-ace16917df
+ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,67,million,67000000.0,estimate,atg-mof-budget-2024,"Government of Antigua and Barbuda, Ministry of Finance",2023-12-15,7.5,conflict,o-bbb0e8fda8
+ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,74,million,74000000.0,estimate,atg-imf-art4-2025,International Monetary Fund,2025-04,43.1,vintage,o-6ed22be9f1
+ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,74,million,74000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,43.1,vintage,o-b3c112e5a5
+ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,130,million,130000000.0,budget,atg-mof-budget-2024,"Government of Antigua and Barbuda, Ministry of Finance",2023-12-15,43.1,vintage,o-3b6928dc7a
+ATG,atg-cbi,cbi_fiscal_revenue,2025,XCD,157,million,157000000.0,estimate,atg-mof-budget-2026,"Government of Antigua and Barbuda, Ministry of Finance",2025-12-04,0.6,conflict,o-f5d241e55a
+ATG,atg-cbi,cbi_fiscal_revenue,2025,XCD,158,million,158000000.0,estimate,atg-imf-art4-2026,International Monetary Fund,2026-05,0.6,conflict,o-a82afe0a68
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,projection,atg-imf-art4-2026,International Monetary Fund,2026-05,23.6,vintage,o-143724274a
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,budget,atg-mof-budget-2026,"Government of Antigua and Barbuda, Ministry of Finance",2025-12-04,23.6,vintage,o-0ddd9eb734
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,157,million,157000000.0,reported,atg-imidaily-2026-07,IMI Daily,2026-07-02,23.6,vintage,o-82119659e1
+ATG,atg-cbi,passports_issued,2014,persons,233,1,233.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,41.9,revision,o-f32ac906bf
+ATG,atg-cbi,passports_issued,2014,persons,252,1,252.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,41.9,revision,o-5b57ef83f2
+ATG,atg-cbi,passports_issued,2014,persons,252,1,252.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,41.9,revision,o-0ff3b2dcae
+ATG,atg-cbi,passports_issued,2014,persons,401,1,401.0,actual,atg-ciu-6m-2024h1,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2024-07-18,41.9,revision,o-8352c88a61
+ATG,atg-cbi,passports_issued,2015,persons,401,1,401.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,38.8,revision,o-a72eddfbc3
+ATG,atg-cbi,passports_issued,2015,persons,655,1,655.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,38.8,revision,o-2030f37f39
+ATG,atg-cbi,passports_issued,2015,persons,655,1,655.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,38.8,revision,o-e17898f7b3
+ATG,atg-cbi,passports_issued,2015,persons,655,1,655.0,actual,atg-ciu-6m-2024h1,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2024-07-18,38.8,revision,o-ec06ae5c6b
+ATG,atg-cbi,passports_issued,2016,persons,116,1,116.0,actual,atg-ciu-6m-2024h1,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2024-07-18,88.6,revision,o-8c59be8c87
+ATG,atg-cbi,passports_issued,2016,persons,314,1,314.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,88.6,revision,o-b81f438676
+ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,88.6,revision,o-02a5d29e29
+ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,88.6,revision,o-82b6dd72fc
+DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,67.0,million,67000000.0,estimate,dma-imf-art4-2016,International Monetary Fund,2016-07,66.5,conflict,o-167b9907ef
+DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,70.0,million,70000000.0,budget,dma-budget-address-2015-16,"Government of the Commonwealth of Dominica, Ministry of Finance",2015,66.5,conflict,o-0870ab4e52
+DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,72.7,million,72700000.0,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,66.5,conflict,o-075753e0ea
+DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,99.0,million,99000000.0,provisional,dma-budget-address-2016-17,"Government of the Commonwealth of Dominica, Ministry of Finance",2016,66.5,conflict,o-c863b2f119
+DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,200,million,200000000.0,claim,dma-budget-address-2016-17,"Government of the Commonwealth of Dominica, Ministry of Finance",2016,66.5,conflict,o-16eabb8186
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,50.0,million,50000000.0,projection,dma-imf-art4-2016,International Monetary Fund,2016-07,32.5,conflict,o-63d371b1ca
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,136.0,million,136000000.0,projection,dma-imf-art4-2017,International Monetary Fund,2017-12,32.5,conflict,o-2ebbc56eee
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,166.0,million,166000000.0,budget,dma-imf-art4-2016,International Monetary Fund,2016-07,32.5,conflict,o-6a03601f57
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,201.8,million,201800000.0,budget,dma-budget-address-2016-17,"Government of the Commonwealth of Dominica, Ministry of Finance",2016,32.5,conflict,o-7cf52e41bd
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,331.8,million,331800000.0,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,32.5,conflict,o-148bf28430
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,334.0,million,334000000.0,provisional,dma-budget-address-2017-18,"Government of the Commonwealth of Dominica, Ministry of Finance",2017-07-27,32.5,conflict,o-a327fbba2a
+DMA,dma-cbi,cbi_fiscal_revenue,FY2016/17,XCD,491.2,million,491200000.0,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,32.5,conflict,o-ccfba347c5
+DMA,dma-cbi,cbi_fiscal_revenue,FY2017/18,XCD,195.0,million,195000000.0,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,38.2,revision,o-420077f35e
+DMA,dma-cbi,cbi_fiscal_revenue,FY2017/18,XCD,315.4,million,315400000.0,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,38.2,revision,o-5ed2ef16fd
+DMA,dma-cbi,cbi_fiscal_revenue,FY2017/18,XCD,399.9,million,399900000.0,budget,dma-budget-address-2017-18,"Government of the Commonwealth of Dominica, Ministry of Finance",2017-07-27,38.2,revision,o-e7eb71c751
+DMA,dma-cbi,cbi_fiscal_revenue,FY2018/19,XCD,107.9,million,107900000.0,projection,dma-imf-art4-2018,International Monetary Fund,2018-09-05,73.5,vintage,o-9f00f03a73
+DMA,dma-cbi,cbi_fiscal_revenue,FY2018/19,XCD,208.3,million,208300000.0,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,73.5,vintage,o-9c3a4f6218
+DMA,dma-cbi,cbi_fiscal_revenue,FY2018/19,XCD,406.6,million,406600000.0,budget,dma-budget-address-2018-19,"Government of the Commonwealth of Dominica, Ministry of Finance",2018,73.5,vintage,o-249f297c9f
+DMA,dma-cbi,cbi_fiscal_revenue,FY2019/20,XCD,182.4,million,182400000.0,estimate,dma-imf-art4-2024,International Monetary Fund,2024-06-27,56.3,vintage,o-c9a2966091
+DMA,dma-cbi,cbi_fiscal_revenue,FY2019/20,XCD,417.5,million,417500000.0,budget,dma-budget-address-2019-20,"Government of the Commonwealth of Dominica, Ministry of Finance",2019-07-30,56.3,vintage,o-7d038640fe
+DMA,dma-cbi,cbi_fiscal_revenue,FY2021/22,XCD,404.0,million,404000000.0,projection,dma-imf-art4-2021,International Monetary Fund,2022-02-14,11.9,vintage,o-569a971ab3
+DMA,dma-cbi,cbi_fiscal_revenue,FY2021/22,XCD,458.6,million,458600000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,11.9,vintage,o-ee87b024cf
+DMA,dma-cbi,cbi_fiscal_revenue,FY2022/23,XCD,323.6,million,323600000.0,projection,dma-imf-art4-2023,International Monetary Fund,2023-07-05,48.2,vintage,o-77282f3b91
+DMA,dma-cbi,cbi_fiscal_revenue,FY2022/23,XCD,625.3,million,625300000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,48.2,vintage,o-6a7e5c9fa8
+DMA,dma-cbi,cbi_fiscal_revenue,FY2023/24,XCD,331.0,million,331000000.0,provisional,dma-imf-art4-2024,International Monetary Fund,2024-06-27,45.0,revision,o-a23524d41e
+DMA,dma-cbi,cbi_fiscal_revenue,FY2023/24,XCD,602.3,million,602300000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,45.0,revision,o-73ad1f4d41
+DMA,dma-cbi,cbi_fiscal_revenue,FY2024/25,XCD,304.2,million,304200000.0,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,12.7,revision,o-aef000b0f6
+DMA,dma-cbi,cbi_fiscal_revenue,FY2024/25,XCD,585.6,million,585600000.0,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,12.7,revision,o-c6df6e5a5d
+DMA,dma-cbi,cbi_fiscal_revenue,FY2024/25,XCD,670.5,million,670500000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,12.7,revision,o-c3f839f344
+DMA,dma-cbi,cbi_fiscal_revenue,FY2024/25,XCD,760.0,million,760000000.0,budget,dma-budget-address-2024-25,"Government of the Commonwealth of Dominica, Ministry of Finance",2024-07,12.7,revision,o-b8c70aba95
+DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,491.0,million,491000000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,22.7,vintage,o-e478a1dfbd
+DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,569.9,million,569900000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,22.7,vintage,o-de4c14115b
+DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,635.0,million,635000000.0,budget,dma-budget-address-2025-26,"Government of the Commonwealth of Dominica, Ministry of Finance",2025,22.7,vintage,o-f7eb5fdfc3
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2014/15,percent_of_gdp,1.6,1,1.6,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,5.9,revision,o-68bf6356f4
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2014/15,percent_of_gdp,1.7,1,1.7,estimate,dma-imf-art4-2016,International Monetary Fund,2016-07,5.9,revision,o-9b23156c51
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2015/16,percent_of_gdp,4.8,1,4.8,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,7.7,revision,o-b020814ad6
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2015/16,percent_of_gdp,4.9,1,4.9,estimate,dma-imf-art4-2016,International Monetary Fund,2016-07,7.7,revision,o-c2853ecb0d
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2015/16,percent_of_gdp,5.2,1,5.2,estimate,dma-imf-art4-2017,International Monetary Fund,2017-12,7.7,revision,o-edb5294600
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,3.6,1,3.6,projection,dma-imf-art4-2016,International Monetary Fund,2016-07,33.7,revision,o-48bf12fa36
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,9.4,1,9.4,projection,dma-imf-art4-2017,International Monetary Fund,2017-12,33.7,revision,o-687ecd3a24
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,11.9,1,11.9,budget,dma-imf-art4-2016,International Monetary Fund,2016-07,33.7,revision,o-4b84f1918e
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,21.6,1,21.6,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,33.7,revision,o-8e312a66b8
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,32.6,1,32.6,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,33.7,revision,o-d500cf737b
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,13.9,1,13.9,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,34.4,revision,o-3d15781e26
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,21.2,1,21.2,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,34.4,revision,o-e81ece04f6
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,7.8,1,7.8,projection,dma-imf-art4-2018,International Monetary Fund,2018-09-05,40.5,vintage,o-25d51122eb
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,13.1,1,13.1,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,40.5,vintage,o-31cf4f5084
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,11.6,1,11.6,estimate,dma-imf-art4-2021,International Monetary Fund,2022-02-14,4.1,revision,o-e0baa8f899
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,12.1,1,12.1,estimate,dma-imf-art4-2024,International Monetary Fund,2024-06-27,4.1,revision,o-823f478953
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,29.5,1,29.5,provisional,dma-imf-art4-2021,International Monetary Fund,2022-02-14,5.8,revision,o-322c75aa96
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,31.3,1,31.3,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,5.8,revision,o-10a473b838
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,24.5,1,24.5,projection,dma-imf-art4-2021,International Monetary Fund,2022-02-14,2.1,revision,o-50f74f94a8
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,28.6,1,28.6,provisional,dma-imf-art4-2023,International Monetary Fund,2023-07-05,2.1,revision,o-959892f5ce
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,29.2,1,29.2,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,2.1,revision,o-0424407cae
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,18.0,1,18.0,projection,dma-imf-art4-2023,International Monetary Fund,2023-07-05,1.1,conflict,o-50157fc62d
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,36.6,1,36.6,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,1.1,conflict,o-fff3aabbb9
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,36.7,1,36.7,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,1.1,conflict,o-82f0eedc93
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,37,1,37.0,reported,dma-imidaily-2024-09,IMI Daily,2024-09-30,1.1,conflict,o-a0075d8a70
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,18.0,1,18.0,provisional,dma-imf-art4-2024,International Monetary Fund,2024-06-27,45.6,revision,o-8afa3f1565
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,33.0,1,33.0,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,45.6,revision,o-57a0b91275
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,33.1,1,33.1,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,45.6,revision,o-225c58e661
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,15.4,1,15.4,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,13.5,revision,o-e255dfd4b8
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,30.0,1,30.0,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,13.5,revision,o-67a4bb9bb1
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,34.7,1,34.7,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,13.5,revision,o-1546c19e71
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,23.6,1,23.6,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,14.2,vintage,o-0b1269905a
+DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,27.5,1,27.5,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,14.2,vintage,o-fc1babb747
+DMA,dma-cbi,cbi_inflows,2023,USD,177.1,million,177100000.0,estimate,dma-imf-art4-2024,International Monetary Fund,2024-06-27,22.1,revision,o-0982b5d356
+DMA,dma-cbi,cbi_inflows,2023,USD,227.3,million,227300000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,22.1,revision,o-914bf92a32
+DMA,dma-cbi,cbi_inflows,2024,USD,117.6,million,117600000.0,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,6.7,revision,o-f82e239a97
+DMA,dma-cbi,cbi_inflows,2024,USD,220.0,million,220000000.0,provisional,dma-imf-art4-2025,International Monetary Fund,2025-06-12,6.7,revision,o-2eb2fb9fcd
+DMA,dma-cbi,cbi_inflows,2024,USD,235.7,million,235700000.0,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,6.7,revision,o-8c8a40d210
+DMA,dma-cbi,cbi_inflows,2025,USD,199.4,million,199400000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,13.2,vintage,o-642c1776dc
+DMA,dma-cbi,cbi_inflows,2025,USD,229.7,million,229700000.0,provisional,dma-imf-art4-2026,International Monetary Fund,2026-06-02,13.2,vintage,o-6ffd2167ce
+DMA,dma-cbi,cbi_inflows_pct_gdp,2022,percent_of_gdp,33.0,1,33.0,estimate,dma-imf-art4-2024,International Monetary Fund,2024-06-27,0.3,revision,o-1008705ae2
+DMA,dma-cbi,cbi_inflows_pct_gdp,2022,percent_of_gdp,33.1,1,33.1,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,0.3,revision,o-44ab717b9c
+DMA,dma-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,26.9,1,26.9,estimate,dma-imf-art4-2024,International Monetary Fund,2024-06-27,22.7,revision,o-96b3051ad2
+DMA,dma-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,34.5,1,34.5,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,22.7,revision,o-4694ee62e6
+DMA,dma-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,34.8,1,34.8,estimate,dma-imf-art4-2025,International Monetary Fund,2025-06-12,22.7,revision,o-25237c0d92
+DMA,dma-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,16.6,1,16.6,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,7.9,revision,o-55588efcbe
+DMA,dma-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,31.5,1,31.5,provisional,dma-imf-art4-2025,International Monetary Fund,2025-06-12,7.9,revision,o-bf5ccf7639
+DMA,dma-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,34.2,1,34.2,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,7.9,revision,o-d2d1ecc2b3
+DMA,dma-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,26.7,1,26.7,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,13.6,vintage,o-9419e0c65b
+DMA,dma-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,30.9,1,30.9,provisional,dma-imf-art4-2026,International Monetary Fund,2026-06-02,13.6,vintage,o-0ec73752ed
+GRC,grc-golden-visa,applications_pending,2024-12-31,applications,12087,1,12087.0,reported,grc-gtp-2025-02-13,GTP Headlines,2025-02-13,21.6,conflict,o-0cd2c5d163
+GRC,grc-golden-visa,applications_pending,2024-12-31,applications,15420,1,15420.0,actual,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,21.6,conflict,o-62cf1f0db2
+GRC,grc-golden-visa,applications_received,2022,applications,4264,1,4264.0,provisional,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,2.0,revision,o-e497ea64f3
+GRC,grc-golden-visa,applications_received,2022,applications,4353,1,4353.0,actual,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,2.0,revision,o-c28983bb05
+GRC,grc-golden-visa,applications_received,2023,applications,8351,1,8351.0,provisional,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,1.5,revision,o-dc8a73c3a0
+GRC,grc-golden-visa,applications_received,2023,applications,8477,1,8477.0,provisional,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,1.5,revision,o-beaa597f4e
+GRC,grc-golden-visa,applications_received,2024,applications,9289,1,9289.0,reported,grc-gtp-2025-02-13,GTP Headlines,2025-02-13,1.1,conflict,o-53bd7f0255
+GRC,grc-golden-visa,applications_received,2024,applications,9289,1,9289.0,provisional,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,1.1,conflict,o-02d04f48d6
+GRC,grc-golden-visa,applications_received,2024,applications,9372,1,9372.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,1.1,conflict,o-08e0c3b4c2
+GRC,grc-golden-visa,applications_received,2024,applications,9391,1,9391.0,provisional,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,1.1,conflict,o-41e75a3d04
+GRC,grc-golden-visa,applications_received,2025,applications,6978,1,6978.0,provisional,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,0.7,conflict,o-a2bad68968
+GRC,grc-golden-visa,applications_received,2025,applications,7021,1,7021.0,provisional,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,0.7,conflict,o-c5e24e9cc0
+GRC,grc-golden-visa,applications_received,2025,applications,7025,1,7025.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,0.7,conflict,o-d01a691fb3
+GRD,grd-cbi,cbi_fiscal_revenue,2018,XCD,3.3,million,3300000.0,estimate,grd-imf-art4-2019,International Monetary Fund,2019-07,96.6,conflict,o-15fd615569
+GRD,grd-cbi,cbi_fiscal_revenue,2018,XCD,"97,762,549",1,97762549.0,actual,grd-mof-cbistats-2018,"Government of Grenada, Ministry of Finance",2019,96.6,conflict,o-1cbcb6d6f4
+GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,3.1,million,3100000.0,budget,grd-imf-art4-2019,International Monetary Fund,2019-07,96.8,same_source,o-bfeb14b14b
+GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,8.0,million,8000000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.8,same_source,o-994939c35d
+GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,96.1,million,96100000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.8,same_source,o-7e3825b735
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,17.3,million,17300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.0,same_source,o-b925ba4be5
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.0,same_source,o-fe790bd36c
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,83.0,same_source,o-f5a5231596
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,"240,461,920",1,240461920.0,budget,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,47.5,same_source,o-327f7a123b
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,"375,269,871",1,375269871.0,provisional,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,47.5,same_source,o-bb1ffff518
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,47.5,same_source,o-6de65b6a26
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,47.5,same_source,o-fd9e533b2e
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,47.5,same_source,o-a3d6fca9e2
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,47.5,same_source,o-ea4cfa188a
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,458.3,million,458300000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,47.5,same_source,o-fb4a2e6795
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,"280,697,921",1,280697921.0,budget,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,49.5,same_source,o-dd04dcf42c
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,280.7,million,280700000.0,budget,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-ba5c937138
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,398.5,million,398500000.0,estimate,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,49.5,same_source,o-78543bd925
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,451.3,million,451300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,49.5,same_source,o-553c5e810e
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,"472,981,142",1,472981142.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,49.5,same_source,o-c58ec9a346
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,473.0,million,473000000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-5d6357dfe7
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,49.5,same_source,o-4b20117357
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-63a62abd87
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,"553,710,178",1,553710178.0,provisional,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,49.5,same_source,o-d206eb6b87
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,555.8,million,555800000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,49.5,same_source,o-f8b1679fa3
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,"140,417,136",1,140417136.0,budget,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,12.9,conflict,o-e66c2cc906
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,"152,999,122",1,152999122.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,12.9,conflict,o-9b60acfb68
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,"165,906,890",1,165906890.0,provisional,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,12.9,conflict,o-468e8e6659
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,175.6,million,175600000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,12.9,conflict,o-82e6916f53
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,143.8,million,143800000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,17.3,vintage,o-ecc27e56af
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,"173,973,807",1,173973807.0,budget,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,17.3,vintage,o-07a91e889a
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,0.5,1,0.5,reported,grd-imf-art4-2016,International Monetary Fund,2016-05,28.6,revision,o-8317016017
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,0.7,1,0.7,actual,grd-imf-art4-2016,International Monetary Fund,2016-05,28.6,revision,o-af27040fd7
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,0.6,1,0.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.3,revision,o-407b084d99
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,3.6,1,3.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,83.3,revision,o-38712a5786
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,12.0,1,12.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.4,revision,o-c87be382da
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,14.7,1,14.7,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.4,revision,o-84bce4e99e
+GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,4,1,4.0,estimate,grd-imf-art4-2022,International Monetary Fund,2022-05,57.0,revision,o-956a833cc9
+GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,9.3,1,9.3,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,57.0,revision,o-efc1fdb97a
+GRD,grd-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,31.3,1,31.3,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.9,revision,o-3929404316
+GRD,grd-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,31.6,1,31.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,0.9,revision,o-b9f854db98
+GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,29.6,1,29.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,5.1,revision,o-1e76f430f4
+GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,31.2,1,31.2,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,5.1,revision,o-883af41271
+GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,10.2,1,10.2,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,8.1,vintage,o-1a7bb51cbb
+GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,11.1,1,11.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.1,vintage,o-b351fef4e6
+GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,031",1,1031.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,32.9,revision,o-99e3f078a1
+GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,536",1,1536.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,32.9,revision,o-9d3bc4c0ce
+INTL,,passports_issued,to 2025,passports,107000,1,107000.0,estimate,intl-ec-com-2025-792,European Commission,2025-12-19,0.6,revision,o-46f18788cc
+INTL,,passports_issued,to 2025,passports,107625,1,107625.0,estimate,intl-ec-swd-2025-429,European Commission,2025-12-19,0.6,revision,o-f2f94fd50a
+KNA,,sugar_industry_employment,2005,persons,1400,1,1400.0,estimate,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-d6ac0d06ab
+KNA,,sugar_industry_employment,2005,persons,1406,1,1406.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-86419fadf5
+KNA,,sugar_severance_cost,2005,XCD,27.4,million,27400000.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,37.7,conflict,o-29464df62d
+KNA,,sugar_severance_cost,2005,XCD,44,million,44000000.0,reported,kna-sugar-oecs-retraining-2005,Organisation of Eastern Caribbean States Secretariat,2005-10,37.7,conflict,o-058c872e54
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,140146855,1,140146855.0,estimate,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,6.2,revision,o-9ad7ead992
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,149411767,1,149411767.0,actual,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,6.2,revision,o-db44171e72
+KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,168000000,1,168000000.0,budget,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,13.0,conflict,o-dda9b7bc45
+KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,363756282,1,363756282.0,estimate,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,13.0,conflict,o-4173f44f10
+KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,418,million,418000000.0,actual,kna-audit-report-2018,St. Kitts and Nevis National Audit Office,2019-12,13.0,conflict,o-1367509813
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,230000000,1,230000000.0,budget,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,48.1,vintage,o-f1e37627d9
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,442.6,million,442600000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,48.1,vintage,o-409b1f842b
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,442617122,1,442617122.0,actual,kna-mof-estimates-2021-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2020-12,48.1,vintage,o-fb8d3a4738
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,443,million,443000000.0,actual,kna-audit-report-2019,St. Kitts and Nevis National Audit Office,2020-12,48.1,vintage,o-d375d49436
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,443,million,443000000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,48.1,vintage,o-b95dabdc63
+KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,443,million,443000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,48.1,vintage,o-862dcf628b
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,259,million,259000000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,13.1,same_source,o-ded0820035
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,261444997,1,261444997.0,estimate,kna-mof-estimates-2021-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2020-12,13.1,same_source,o-8ebe38704d
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,270,million,270000000.0,actual,kna-audit-report-2020,St. Kitts and Nevis National Audit Office,2021-12,13.1,same_source,o-fbe8da0cfe
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,270.8,million,270800000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,13.1,same_source,o-4b794b070e
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,270807661,1,270807661.0,actual,kna-mof-estimates-2022-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2021-12,13.1,same_source,o-ca5c817a11
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,271,million,271000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,13.1,same_source,o-610e4bbeb8
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,295,million,295000000.0,budget,kna-imf-art4-2021,International Monetary Fund,2021-10,13.1,same_source,o-40ff4ef339
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,295000000,1,295000000.0,budget,kna-mof-estimates-2021-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2020-12,13.1,same_source,o-1c700b8ebb
+KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,298,million,298000000.0,budget,kna-imf-art4-2021,International Monetary Fund,2021-10,13.1,same_source,o-9bf4796533
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,250000000,1,250000000.0,budget,kna-mof-estimates-2022-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2021-12,7.9,conflict,o-1ba5cf61a2
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,350,million,350000000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,7.9,conflict,o-3f9d6f45e5
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,500000000,1,500000000.0,estimate,kna-mof-estimates-2022-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2021-12,7.9,conflict,o-362129b0e0
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,542553639,1,542553639.0,actual,kna-mof-estimates-2023-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,7.9,conflict,o-c3adfcc543
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,542.6,million,542600000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,7.9,conflict,o-74872bc76d
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,543,million,543000000.0,actual,kna-audit-report-2021,St. Kitts and Nevis National Audit Office,2022-12,7.9,conflict,o-ac49dc136f
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,543,million,543000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,7.9,conflict,o-0cb9df5005
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,400000000,1,400000000.0,budget,kna-mof-estimates-2023-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,1.4,conflict,o-1293c9e44b
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669,million,669000000.0,actual,kna-audit-report-2022,St. Kitts and Nevis National Audit Office,2023,1.4,conflict,o-3297b70493
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669,million,669000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,1.4,conflict,o-19645af41e
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669358624,1,669358624.0,actual,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.4,conflict,o-b84eb460b0
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,678.2,million,678200000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,1.4,conflict,o-4381a1fe02
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,678240618,1,678240618.0,estimate,kna-mof-estimates-2023-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,1.4,conflict,o-f12b44db7f
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,518315789,1,518315789.0,budget,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.8,conflict,o-9b6e214fd3
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,610000000,1,610000000.0,estimate,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.8,conflict,o-0033ed9a20
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,620,million,620000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,1.8,conflict,o-c2af9b00e8
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,620754504,1,620754504.0,actual,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,1.8,conflict,o-ab9a6a22f7
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,621,million,621000000.0,actual,kna-audit-report-2023,St. Kitts and Nevis National Audit Office,2024-12,1.8,conflict,o-8c848a6b8f
+KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,244157349,1,244157349.0,actual,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,20.2,revision,o-626f8919a1
+KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,305838741,1,305838741.0,estimate,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,20.2,revision,o-089eb6eca9
+KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,540000000,1,540000000.0,budget,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,20.2,revision,o-436cef5a8c
+KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,124468926,1,124468926.0,estimate,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,74.9,vintage,o-5d38b3b392
+KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,495000000,1,495000000.0,budget,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,74.9,vintage,o-4f4d5a4f58
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,11.6,1,11.6,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,6.5,revision,o-c6de4bc97e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,12.4,1,12.4,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,6.5,revision,o-8884ae579f
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,6.8,1,6.8,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,5.6,revision,o-504bbb5bf7
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,7.2,1,7.2,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,5.6,revision,o-1313ac110e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,3.9,1,3.9,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,31.6,vintage,o-53184d1054
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,5.7,1,5.7,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,31.6,vintage,o-d8837c675c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,3.7,1,3.7,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,74.1,vintage,o-033f3ad97d
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,7.4,1,7.4,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,74.1,vintage,o-aa3eb5a17b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,14.3,1,14.3,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,74.1,vintage,o-6a8dfe9f48
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,1.8,1,1.8,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,4.7,revision,o-49d7c77973
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.1,1,14.1,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,4.7,revision,o-8158f86529
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,4.7,revision,o-471ef33c7c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,4.7,revision,o-2638b0240f
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,4.7,revision,o-d0a3f9b0df
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,9.8,1,9.8,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,13.3,revision,o-d5e05f0bad
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,13.3,revision,o-21866ef513
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,13.3,revision,o-8128bd00b3
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,13.3,revision,o-75acedd97e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,13.3,1,13.3,projection,kna-imf-pr-2021,International Monetary Fund,2021-10-30,2.1,revision,o-9404ae7cb1
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.3,1,23.3,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,2.1,revision,o-e9be74368e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.4,1,23.4,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,2.1,revision,o-27c5a3b011
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.4,1,23.4,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,2.1,revision,o-dc4318a4a5
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.8,1,23.8,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,2.1,revision,o-b90156f61b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.3,1,25.3,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,1.9,revision,o-af7f791b46
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.5,1,25.5,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,1.9,revision,o-b19e7884d4
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.8,1,25.8,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,1.9,revision,o-ff1c94fd07
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.8,1,25.8,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,1.9,revision,o-f79a3bc5ce
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,19.0,1,19.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,3.2,revision,o-1b80c12da5
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,21.5,1,21.5,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,3.2,revision,o-e2195ace55
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,21.7,1,21.7,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,3.2,revision,o-cfbfdef1a4
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,22.2,1,22.2,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,3.2,revision,o-122c6304fb
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,8.1,1,8.1,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,5.8,revision,o-a003977f61
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,8.6,1,8.6,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,5.8,revision,o-88a6dfee0c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,18.0,1,18.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,5.8,revision,o-361880e0fa
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.3,1,5.3,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,66.9,vintage,o-8281a524e5
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,66.9,vintage,o-0929d320aa
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,16,1,16.0,budget,kna-imf-art4-2025,International Monetary Fund,2025-05,66.9,vintage,o-63eca6b3a7
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,16.0,1,16.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,66.9,vintage,o-43d7391692
+KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,54.9,1,54.9,provisional,kna-mof-budget-address-2023,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,3.7,conflict,o-8219163366
+KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,57,1,57.0,actual,kna-audit-report-2021,St. Kitts and Nevis National Audit Office,2022-12,3.7,conflict,o-328dd2acc9
+KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,24,1,24.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-633c7ab4c7
+KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,25,1,25.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-da2d719173
+LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,6.1,revision,o-469390b784
+LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,6.1,revision,o-51ca9000fb
+LCA,lca-cbi,applications_received,FY2020/21,applications,408,1,408.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,6.1,revision,o-f51df7c2b2
+LCA,lca-cbi,applications_rejected,FY2021/22,applications,9,1,9.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,10.0,revision,o-b38bc28eca
+LCA,lca-cbi,applications_rejected,FY2021/22,applications,10,1,10.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,10.0,revision,o-63fbc2f73e
+LCA,lca-cbi,applications_rejected,FY2022/23,applications,6,1,6.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,25.0,revision,o-d20c47d47c
+LCA,lca-cbi,applications_rejected,FY2022/23,applications,8,1,8.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,25.0,revision,o-9c5975cbe7
+LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,42295519,1,42295519.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-7eeb302e24
+LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,47695500,1,47695500.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-2e7e48c1be
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,3.6,million,3600000.0,estimate,lca-imf-art4-2017,International Monetary Fund,2017-03,39.0,revision,o-640ac804a9
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-art4-2018,International Monetary Fund,2018-06,39.0,revision,o-4a37b35ae5
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,16.0,million,16000000.0,budget,lca-imf-art4-2017,International Monetary Fund,2017-03,39.0,revision,o-d389250610
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,16.0,million,16000000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,62.8,vintage,o-9299dbe752
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,estimate,lca-imf-art4-2018,International Monetary Fund,2018-06,62.8,vintage,o-67c98083a6
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,62.8,vintage,o-74b45c4d84
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43.0,million,43000000.0,budget,lca-imf-art4-2018,International Monetary Fund,2018-06,62.8,vintage,o-c519db9c10
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29.0,million,29000000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,56.7,vintage,o-f60a1c6bd0
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,56.7,vintage,o-1e94f0c096
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,4.4,million,4400000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,85.5,revision,o-31087cd8b9
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,30.4,million,30400000.0,estimate,lca-imf-rcf-2020,International Monetary Fund,2020-05,85.5,revision,o-34b8cad3e7
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,85.5,revision,o-9b110627a2
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,22.7,million,22700000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,9.2,vintage,o-63dda6c317
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,9.2,vintage,o-226a6a03d3
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,32.5,million,32500000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,50.0,vintage,o-bf11165eb6
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,65.0,million,65000000.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,50.0,vintage,o-e89fb18b67
+LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,160901673.36,1,160901673.36,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-5ebed2a385
+LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,187568616,1,187568616.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-90edb4a6c8
+LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,27828246,1,27828246.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-1c0963998b
+LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,43011200,1,43011200.0,budget,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-3cca5ef4b5
+LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,58619887,1,58619887.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-5784c86ceb
+LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,64108843,1,64108843.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-f64fba28e1
+LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,86150190,1,86150190.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,same_source,o-6eb79d2e1a
+LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,same_source,o-983e1e3b5b
+LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,reported,lca-slutimes-2026-08,St. Lucia Times,2026-08-07,39.2,same_source,o-d35ee017dd
+LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18621151,1,18621151.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.5,revision,o-3ed95b9b05
+LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,22858260,1,22858260.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.5,revision,o-879889e072
+MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.3,conflict,o-7d17947da8
+MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.3,conflict,o-406863c9c4

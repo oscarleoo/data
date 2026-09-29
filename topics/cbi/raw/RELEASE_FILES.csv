@@ -1,0 +1,5 @@
+raw_file,bytes,sha256,download_url
+raw/dma-budget-address-2022-23.pdf,89395421,f956cc4fefa6d2189cba914da1f6d03077a148d0b4b3c735816d939b8ae81157,https://github.com/oscarleoo/data/releases/download/cbi-raw-2026-09/dma-budget-address-2022-23.pdf
+raw/grc-mma-permits-2017-12.xls,68202496,74d43e17aa724c827b83b002c288df44501309be7c9c058abb6d717bd2fa102b,https://github.com/oscarleoo/data/releases/download/cbi-raw-2026-09/grc-mma-permits-2017-12.xls
+raw/grc-mma-permits-2018-12.xls,88804352,5194861153789e4cef157e1204c181e0aaf80436739173d11fe2938d9c553979,https://github.com/oscarleoo/data/releases/download/cbi-raw-2026-09/grc-mma-permits-2018-12.xls
+raw/grc-mma-permits-2019-12.xls,110755328,211f11992871af0718b1c58607371f3c8b46463ba4cd459e5bf5648dbd9ad880,https://github.com/oscarleoo/data/releases/download/cbi-raw-2026-09/grc-mma-permits-2019-12.xls
