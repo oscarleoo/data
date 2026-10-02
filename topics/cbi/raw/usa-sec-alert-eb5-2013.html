@@ -1,0 +1,975 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"32edb8f179",applicationID:"436723953"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="description" content="The U.S. Securities and Exchange Commission&#039;s Office of Investor Education and Advocacy and U.S. Citizenship and Immigration Services are jointly issuing this Investor Alert to warn individual investors about fraudulent investment scams that exploit the Immigrant Investor Program, also known as &quot;EB-5.&quot;" />
+<meta name="abstract" content="The U.S. Securities and Exchange Commission&#039;s Office of Investor Education and Advocacy and U.S. Citizenship and Immigration Services are jointly issuing this Investor Alert to warn individual investors about fraudulent investment scams that exploit the Immigrant Investor Program, also known as &quot;EB-5.&quot;" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="id" content="90286" />
+<meta name="date" content="2013-10-01T05:00:00" />
+<link rel="shortcut icon" href="/themes/custom/secgov/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://www.sec.gov/oiea/investor-alerts-bulletins/investor-alerts-ia_immigranthtm.html" />
+<link rel="shortlink" href="https://www.sec.gov/node/90286" />
+<link rel="revision" href="https://www.sec.gov/oiea/investor-alerts-bulletins/investor-alerts-ia_immigranthtm.html" />
+<script src="/files/google_tag/primary/google_tag.script.js?rcftc1" defer></script>
+
+    <meta name="origin" content="Drupal" />
+    <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=3.0" />
+    <title>SEC.gov | Investor Alert: Investment Scams Exploit Immigrant Investor Program</title>
+    <script>window.env = "production";</script>
+    <link rel="stylesheet" media="all" href="/files/css/css_MjOeiO7dqEVUIG-2BA8X3Jese-f7fqCVH34bSwu8cls.css" />
+<link rel="stylesheet" media="all" href="/files/css/css_uo7YWdDIQA7uOY9n6WuxvqSDkrfau6RuVRnUmxVeLmE.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/90286","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":".*\\.gov|http:\/\/www.xbrl.org\/utr\/2013-05-17\/utr.xml|http:\/\/www.xbrl.org\/dtr\/type\/numeric-2009-12-16.xsd|http:\/\/www.xbrl.org\/dtr\/type\/nonNumeric-2009-12-16.xsd|https:\/\/secir.secure.force.com\/ombudsman\/OMMSForm","extInclude":"","extCssExclude":".data-exempt","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving the SEC Website. The link you have selected is located on another server. Please click on the OK button below to proceed to the selected site. The SEC does not endorse this web site, its sponsor, or any of the policies, activities, products, or services offered on the site or by any advertiser on the site.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"user":{"uid":0,"permissionsHash":"04c00260856b47a8f01845e15ffeca03669183d8466dd7ddc4290c568154092e"}}</script>
+<script src="/files/js/js_KA-HC6zDhmfLWjKDmLsvqPH22Kcg5N9h6JJTyl6-J2I.js"></script>
+
+  </head>
+  <body class="default-view path-node node--type-secarticle">
+
+    <a href="#main-content" class="visually-hidden focusable" tabindex="1">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD3BKV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+<div class="page-container">
+<div id="page-wrapper">
+  <div id="page" >
+    <div class="page-header" role="banner">
+      <div class="header-content">
+        <div id="global-header" class="region region-header">
+    
+<div id="block-digitalgovsearch" class="block global-header-digitalgov-search">
+  
+    
+        <div class="body"><!--<div class="hide-for-small" id="global-search">
+<form accept-charset="UTF-8" action="//secsearch.sec.gov/search" class="clearfix" id="global-search-form" method="get" name="form_iQueryForm">
+<fieldset><legend></legend> <label class="overlabel" for="global-search-box" style="visibility: visible;">Search SEC.gov</label> <input name="utf8" type="hidden" value="?" /> <input class="affiliate" name="affiliate" type="hidden" value="secsearch" /> <input aria-autocomplete="list" aria-haspopup="true" autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="global-search-box" name="query" role="textbox" tabindex="4" title="Search for" type="text" /> <span aria-hidden="true" class="button-label fa fa-search"> </span><input class="global-search-button" tabindex="5" title="Go" type="submit" value="" /></fieldset>
+</form>
+
+<p class="options"><a class="option-link" href="http://www.sec.gov/edgar/searchedgar/companysearch.html" tabindex="6">Company Filings</a> | <a class="option-link" href="http://www.sec.gov/search/search.htm" tabindex="7">More Search Options</a></p>
+</div>-->
+<div class="block block--search block--search-form" id="global-search" role="search">
+<form accept-charset="UTF-8" action="//secsearch.sec.gov/search" class="clearfix" id="global-search-form" method="get" name="form_iQueryForm">
+<fieldset><legend></legend>
+<div class="search-box-container"><label class="overlabel" for="global-search-box" style="visibility: visible;">Search SEC.gov</label> <input name="utf8" type="hidden" value="?" /> <input class="affiliate" name="affiliate" type="hidden" value="secsearch" /> <input aria-autocomplete="list" aria-haspopup="true" autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="global-search-box" name="query" role="textbox" title="Search for" type="text" /> <span aria-hidden="true" class="button-label fa fa-search"> </span> <input class="global-search-button" title="Go" type="submit" value="" /></div>
+</fieldset>
+</form>
+
+<div class="menu-name-menu-utility-menu">
+<p class="options"><span><a class="option-link" href="http://www.sec.gov/edgar/searchedgar/companysearch.html">Company Filings</a></span> <!--<span><a class="option-link" href="http://www.sec.gov/search/search.htm">More Search Options</a></span>--></p>
+</div>
+</div>
+</div>
+  </div>
+<div id="block-secgov-branding" class="site-branding block region__inner system_branding_block">
+  <div class="block--menu-block">
+    <div class="menu-block-wrapper menu-name-main-menu">
+      
+            
+      
+    <div class="banner-seal">
+    <a href="/" title="SEC Emblem" rel="home" tabindex="2">
+      <img src="/files/sec-logo.png" alt="SEC Emblem" />
+    </a>
+  </div>
+  
+    <div class="banner-org-name">
+      <a href="/" title="U.S. Securities and Exchange Commission" rel="home" tabindex="3">U.S. Securities and <br>Exchange Commission</a>
+  </div>
+   
+
+    <button id="mobile-menu-toggle" class="is-closed" aria-label="Menu Toggle">
+    <span class="svg-icon svg-icon-sm" aria-hidden="true">q</span>
+  </button>
+
+    </div>
+  </div>
+</div>
+  </div>
+
+
+      </div>
+
+      <div class="global-navigation" id="global-navigation">
+
+        <div class="desktop-menu">
+            <div class="navigation-wrapper region region-global-navigation">
+    <div id="block-secgov-main-menu" class="block region__inner main">
+  <div class="block--menu-block">
+    <div class="menu-block-wrapper menu-name-main-menu">
+      
+            
+          
+    
+              <ul id="home-menu" class="menu">
+                          <li class="menu__item is-expanded expanded" >
+                <a href="/about.shtml" title="About" class="menu__link">About</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/careers" title="Careers" class="menu__link">Careers</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/Article/about-commissioners.html" title="Commissioners" class="menu__link">Commissioners</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/contact-information/sec-directory" title="Contact" class="menu__link">Contact</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/reports" title="Reports and Publications" class="menu__link">Reports and Publications</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/answers/about-lawsshtml.html" title="Securities Laws" class="menu__link">Securities Laws</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/about/what-we-do" title="What We Do" class="menu__link">What We Do</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="/divisions.shtml" title="Divisions &amp; Offices" class="menu__link">Divisions &amp; Offices</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/corpfin.shtml" title="Corporation Finance" class="menu__link">Corporation Finance</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/enforce.shtml" title="Enforcement" class="menu__link">Enforcement</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/investment" title="Investment Management" class="menu__link">Investment Management</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/riskfin.shtml" title="Economic and Risk Analysis" class="menu__link">Economic and Risk Analysis</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/marketreg.shtml" title="Trading and Markets" class="menu__link">Trading and Markets</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/alj" title="Office of Administrative Law Judges" class="menu__link">Office of Administrative Law Judges</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/exams" title="Examinations" class="menu__link">Examinations</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/page/sec-regional-offices" title="Regional Offices" class="menu__link">Regional Offices</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions.shtml" title="All Divisions and Offices" class="menu__link">All Divisions and Offices</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="https://www.sec.gov/litigation.shtml" title="Enforcement" class="menu__link">Enforcement</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/litigation/litreleases.shtml" title="Litigation Releases" class="menu__link">Litigation Releases</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/litigation/admin.shtml" title="Administrative Proceedings" class="menu__link">Administrative Proceedings</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/litigation/opinions.shtml" title="Opinions and Adjudicatory Orders" class="menu__link">Opinions and Adjudicatory Orders</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/enforce/friactions.shtml" title="Accounting and Auditing" class="menu__link">Accounting and Auditing</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/litigation/suspensions.shtml" title="Trading Suspensions" class="menu__link">Trading Suspensions</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/newsroom/howinvestigationswork.html" title="How Investigations Work" class="menu__link">How Investigations Work</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/divisions/enforce/receiverships.htm" title="Receiverships" class="menu__link">Receiverships</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="https://www.sec.gov/divisions/enforce/claims.htm" title="Information for Harmed Investors" class="menu__link">Information for Harmed Investors</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="/rules.shtml" title="Regulation" class="menu__link">Regulation</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/rulemaking-index.shtml" title="Rulemaking Index" class="menu__link">Rulemaking Index</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/proposed.shtml" title="Proposed Rules" class="menu__link">Proposed Rules</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/final.shtml" title="Final Rules" class="menu__link">Final Rules</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/interim-final-temp.shtml" title="Interim Final Temporary Rules" class="menu__link">Interim Final Temporary Rules</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/other.shtml" title="Other Orders and Notices" class="menu__link">Other Orders and Notices</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/rules/sro.shtml" title="Self-Regulatory Organizations" class="menu__link">Self-Regulatory Organizations</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/regulation/staff-interpretations" title="Staff Interpretations" class="menu__link">Staff Interpretations</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="/education" title="Education" class="menu__link">Education</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/education/investor-education" title="Investor Education" class="menu__link">Investor Education</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/education/capitalraising" title="Capital Raising " class="menu__link">Capital Raising </a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/education/smallbusiness" title="Small Business " class="menu__link">Small Business </a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/education/glossary" title="Glossaries" class="menu__link">Glossaries</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="/edgar.shtml" title="Filings" class="menu__link">Filings</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/edgar/search-and-access" title="EDGAR – Search &amp; Access" class="menu__link">EDGAR – Search &amp; Access</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/edgar/filer-information" title="EDGAR – Information for Filers" class="menu__link">EDGAR – Information for Filers</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/edgar/searchedgar/companysearch.html" title="Company Filing Search" class="menu__link">Company Filing Search</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/oiea/Article/edgarguide.html" title="How to Search EDGAR" class="menu__link">How to Search EDGAR</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/fast-answers/answerspublicdocshtm.html" title="Requesting Public Documents" class="menu__link">Requesting Public Documents</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/forms" title="Forms List" class="menu__link">Forms List</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/edgar/about" title="About EDGAR" class="menu__link">About EDGAR</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="menu__item is-expanded expanded" >
+                <a href="/page/news" title="News" class="menu__link">News</a>
+                                <ul class="menu">
+                          <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/pressreleases" title="Press Releases" class="menu__link">Press Releases</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/speeches-statements" title="Speeches and Statements" class="menu__link">Speeches and Statements</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/spotlight" title="Spotlight Topics" class="menu__link">Spotlight Topics</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/upcoming-events" title="Upcoming Events" class="menu__link">Upcoming Events</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/sec-webcasts" title="Webcasts" class="menu__link">Webcasts</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/sec-in-the-news" title="SEC in the News" class="menu__link">SEC in the News</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/sec-videos" title="SEC Videos" class="menu__link">SEC Videos</a>
+              </li>
+                    <li class="menu__item is-active is-leaf leaf ">
+                <a href="/news/media-gallery" title="Media Gallery" class="menu__link">Media Gallery</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+  
+    </div>
+  </div>
+</div><nav role="navigation" aria-labelledby="block-secgov-account-menu-menu" id="block-secgov-account-menu">
+            
+  <h2 class="visually-hidden" id="block-secgov-account-menu-menu">User account menu</h2>
+  
+
+        
+              <ul id="user-menu" role="menubar" aria-hidden="false">
+        
+            <li class="login" role="menuitem">
+              <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+
+
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+
+        </div>
+
+        <div class="mobile-menu" style="display: none;">
+          
+              <ul id="main-menu" class="menu">
+                      <li class="menu__item is-expanded expanded">
+      
+        <a href="" class="menu__link">U.S. Securities and Exchange Commission</a>
+                                <ul class="menu">
+                      <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/divisions.shtml" class="menu__link" data-drupal-link-system-path="node/91856">Divisions &amp; Offices</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/litigation.shtml" class="menu__link">Enforcement</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/rules.shtml" class="menu__link">Regulation</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/education" title="Education" class="menu__link" data-drupal-link-system-path="node/261726">Education</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/edgar.shtml" class="menu__link" data-drupal-link-system-path="node/91901">Filings</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/news" class="menu__link">Newsroom</a>
+              </li>
+
+        </ul>
+  
+              </li>
+
+                  <li class="menu__item is-expanded expanded">
+      
+        <a href="/news" class="menu__link">Newsroom</a>
+                                <ul class="menu">
+                      <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/news/pressreleases" class="menu__link" data-drupal-link-system-path="news/pressreleases">Press Releases</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/news/public-statements" class="menu__link">Public Statements</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/news/speeches" class="menu__link">Speehes</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/news/testimony" class="menu__link">Testimony</a>
+              </li>
+
+        </ul>
+  
+              </li>
+
+                  <li class="menu__item is-expanded expanded">
+      
+        <a href="/rss-feeds" class="menu__link">RSS Feeds</a>
+                                <ul class="menu">
+                      <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/rss/pressreleases" class="menu__link">Press Releases</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/rss/public-statements" class="menu__link">Public Statements</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/rss/speeches" class="menu__link">Speeches</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="/rss/testimony" class="menu__link">Testimony</a>
+              </li>
+
+        </ul>
+  
+              </li>
+
+                  <li class="menu__item is-expanded expanded">
+      
+        <a href="" class="menu__link">Social Media</a>
+                                <ul class="menu">
+                      <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="" class="menu__link">@SEC_News</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="" class="menu__link">SEC Channel</a>
+              </li>
+
+                  <li class="menu__item is-active is-leaf leaf">
+      
+        <a href="" class="menu__link">SEC Photostream</a>
+              </li>
+
+        </ul>
+  
+              </li>
+
+        </ul>
+  
+
+
+
+                          <div id="local-nav">
+    <nav role="navigation" aria-labelledby="block-oiea-menu" id="block-oiea">
+            
+  <h2 class="visually-hidden" id="block-oiea-menu">OIEA</h2>
+  
+
+        
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-office-of-investor-education-and-advocacy">
+        <a href="/oiea" class="menu__link">Office of Investor Education and Advocacy</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+  </nav>
+
+  </div>
+
+                  </div>
+
+      </div>
+    </div>
+          <div class="highlighted">
+        <aside role="complementary" class="message section clearfix">
+            <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+        </aside>
+      </div>
+    
+    
+                                
+        
+        
+        
+    
+    <div class="page-content">
+      <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+
+                  
+
+      
+      
+            <div id="sidebar-first" class="sidebar">
+          <aside role="complementary" class="local-nav">
+            <nav role="navigation">
+                          
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-investor-information">
+        <a href="/investor" class="menu__link">Investor Information</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-investor-alerts-and-bulletins">
+        <a href="/investor/alerts" class="menu__link" data-drupal-link-system-path="investor/alerts">Investor Alerts and Bulletins</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-investor-reports/publications">
+        <a href="https://www.sec.gov/investor/pubs.shtml" class="menu__link">Investor Reports/Publications</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-tools-and-calculators">
+        <a href="https://www.sec.gov/investor/tools.shtml" class="menu__link">Tools and Calculators</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-education-resources">
+        <a href="https://www.sec.gov/investor/links.shtml" class="menu__link">Education Resources</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-información-en-español">
+        <a href="https://www.sec.gov/investor/espanol.shtml" class="menu__link">Información en Español</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-contact">
+        <a href="https://www.sec.gov/oiea/Article/contact.html" class="menu__link">Contact</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+                      </nav>
+
+          </aside>
+        </div>
+                    <div id="content-wrapper" class="layout-main">
+
+      <a id="main-content" tabindex="-1"></a>
+
+    
+    		
+    
+    
+              <div id="content" class="content">
+            <div class="main-content region region-content">
+    <div id="block-secgov-content">
+  
+    
+      
+
+  <article data-history-node-id="90286" role="article" about="/oiea/investor-alerts-bulletins/investor-alerts-ia_immigranthtm.html" class="article">
+  
+    
+
+    <div class="article-content">
+                
+
+
+
+
+
+<div id="page-title">
+<h1 class="article-type">
+  
+     
+          
+       
+      
+                  		        <a href="/investor/alerts">
+                     
+                Investor Alerts and Bulletins
+                                 
+            </a>
+                  
+            </h1>
+<!-- Subscribe link, RSS, Email -->
+<div id="addthis-icons">
+  <div class="addthis-wrapper">
+    <div class="hide-for-print appIconsDetail" style="visibility: visible;">
+      <div class="addthis_toolbox addthis_default_style hide-for-small" data-ui-click="true">
+        <a class="addthis_button_print at300b" title="Print Page" href="#" tabindex="0">
+          <span class="fa fa-print"></span>
+        </a>
+        <a class="addthis_button_facebook at300b" title="Share on Facebook" href="#" tabindex="0">
+          <span class="fa fa-facebook"></span>
+        </a>
+        <a class="addthis_button_twitter at300b" title="Tweet Page" href="#" tabindex="0">
+          <span class="fa fa-twitter"></span>
+        </a>
+        <a class="addthis_button_mailto at300b" target="_blank" title="Email Page" href="#" tabindex="0">
+          <span class="fa fa-envelope"></span>
+        </a>
+        <a class="addthis_button_compact at300m" href="#" title="More Sharing Options" tabindex="0">
+          <span class="fa fa-plus"></span>
+        </a>
+      <div class="atclear"></div>
+    </div>
+    <div class="addthis_toolbox addthis_default_style addthis_32x32_style hide-for-medium-up show-for-small addthis_mobile">
+      <a class="addthis_button_facebook at300b" title="Share on Facebook" href="#" tabindex="0">
+        <span class="fa fa-facebook"></span>
+      </a>
+      <a class="addthis_button_twitter at300b" title="Tweet Page" href="#" tabindex="0">
+        <span class="fa fa-twitter"></span>
+      </a>
+      <a class="addthis_button_mailto at300b" target="_blank" title="Email Page" href="#" tabindex="0">
+        <span class="fa fa-envelope"></span>
+      </a>
+    </div>
+    <div class="atclear"></div>
+    </div>
+  </div>
+</div>
+ 
+</div>
+              <div class="content aside investor-alerts-and-bulletins">
+              
+                
+        <div >
+        <h1 class="article-title">Investor Alert: Investment Scams Exploit Immigrant Investor Program</h1>
+                </div>
+
+        
+                  <p class="article-publishdate">
+                            Oct. 1, 2013
+                       </p>
+        
+                <p class="release-number"></p>
+              
+      <div class="article-content-body">
+      
+            <div class="article-body"><p><i>The U.S. Securities and Exchange Commission's Office of Investor Education and Advocacy and U.S. Citizenship and Immigration Services are jointly issuing this Investor Alert to warn individual investors about fraudulent investment scams that exploit the Immigrant Investor Program, also known as </i>"EB-5."</p>
+
+<p>The U.S. Securities and Exchange Commission's ("SEC") Office of Investor Education and Advocacy and U.S. Citizenship and Immigration Services ("USCIS") are aware of investment scams targeting foreign nationals who seek to become permanent lawful U.S. residents through the <a href="http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=facb83453d4a3210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=facb83453d4a3210VgnVCM100000b92ca60aRCRD">Immigrant Investor Program</a> ("EB-5").  In close coordination with USCIS, which administers the EB-5 program, the SEC has taken emergency enforcement action to stop allegedly fraudulent securities offerings made through EB-5.</p>
+
+<p>The EB-5 program provides certain foreign investors who can demonstrate that their investments are creating jobs in this country, with a potential avenue to lawful permanent residency in the United States. Business owners apply to USCIS to be designated as "regional centers" for the EB-5 program.  These regional centers offer investment opportunities in "new commercial enterprises" that may involve securities offerings.  Through EB-5, a foreign investor who invests a certain amount of money that is placed at risk, and creates or preserves a minimum number of jobs in the United States, is eligible to apply for conditional lawful permanent residency.  Toward the end of the two-year period of conditional residency, the foreign investor is eligible to apply to have the conditions on their lawful permanent residency removed, if he or she can establish that the job creation requirements have been met.  Foreign investors who invest through EB-5, however, are not guaranteed a visa or to become lawful permanent residents of the United States. For more details, read the <a href="http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=facb83453d4a3210VgnVCM100000b92ca60aRCRD&amp;vgnextchannel=facb83453d4a3210VgnVCM100000b92ca60aRCRD">EB-5 Immigrant Investor section</a> of USCIS's website at www.uscis.gov.</p>
+
+<p>The fact that a business is designated as a regional center by USCIS does not mean that USCIS, the SEC, or any other government agency has approved the investments offered by the business, or has otherwise expressed a view on the quality of the investment. The SEC and USCIS are aware of attempts to misuse the EB-5 program as a means to carry out fraudulent securities offerings. In a recent case, <i><a href="http://www.sec.gov/News/PressRelease/Detail/PressRelease/1370539854731">SEC v. Marco A. Ramirez, et al.</a></i>, the SEC and USCIS worked together to stop an alleged investment scam in which the SEC claims that the defendants, including the USA Now regional center, falsely promised investors a 5% return on their investment and an opportunity to obtain an EB-5 visa. The promoters allegedly started soliciting investors before USCIS had designated the business as a regional center. The SEC alleged that while the defendants told investors their money would be held in escrow until USCIS approved the business as eligible for EB-5, the defendants misused investor funds for personal use such as funding their Cajun-themed restaurant. According to the SEC's complaint, the investors did not obtain even conditional visas as a result of their investments through the USA Now regional center.</p>
+
+<p>In another case, <a href="http://www.sec.gov/litigation/litreleases/2013/lr22615.htm"><i>SEC v. A Chicago Convention Center, et al.</i></a>,<i> </i>the SEC and USCIS coordinated to halt an alleged $156 million investment fraud. The SEC alleged that an individual and his companies used false and misleading information to solicit investors in the "World's First Zero Carbon Emission Platinum LEED certified" hotel and conference center in Chicago, including falsely claiming that the business had acquired all necessary building permits and that the project was backed by several major hotel chains. According to the SEC's complaint, the defendants promised investors that they would get back any administrative fees they paid for their investments if their EB-5 visa applications were denied.  The defendants allegedly spent more than 90 percent of the administrative fees, including some for personal use, before USCIS adjudicated the visa applications.</p>
+
+<p>As with any investment, it is important to research thoroughly any offering that purports to be affiliated with EB-5. Take these steps:</p>
+
+<ul><li><b><i>Confirm that the regional center has been designated by USCIS.</i></b> If you intend to invest through a regional center, check the <a href="http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=d765ee0f4c014210VgnVCM100000082ca60aRCRD&amp;vgnextchannel=facb83453d4a3210VgnVCM100000b92ca60aRCRD">list</a> of current regional centers on USCIS's website at <a href="http://www.uscis.gov">www.uscis.gov</a>. If the regional center is not on the list, exercise extreme caution. Even if it is on the list, understand that USCIS has not endorsed the regional center or any of the investments it offers.</li>
+	<li><b><i>Obtain copies of documents provided to USCIS.</i></b> Regional centers must file an initial application (Form I-924) to obtain USCIS approval and designation, and must submit an information collection supplement (Form I-924A) at the end of every calendar year. Ask the regional center for copies of these forms and supporting documentation provided to USCIS.</li>
+	<li><b><i>Request investment information in writing.</i></b> Ask for a copy of the investment offering memorandum or private placement memorandum from the issuer.  Examine it carefully and research similar projects in evaluating the proposal. Follow up with any questions you may have. If you do not understand the information in the document or the issuer is unwilling or unable to answer your questions to your satisfaction, do not invest.</li>
+	<li><b><i>Ask if promoters are being paid</i></b><b>.</b> If there are supposedly unaffiliated consultants, lawyers, or agencies recommending or endorsing the investment, ask how much money or what type of benefits they expect to receive in connection with recommending the investment. Be skeptical of information from promoters that is inconsistent with the investment offering memorandum or private placement memorandum from the issuer.</li>
+	<li><b><i>Seek independent verification</i></b><b>. </b>Confirm whether claims made about the investment are true.  For example, if the investment involves construction of commercial real estate, check county records to see if the issuer has obtained the proper permits and whether state and local property tax assessments correspond with the values the regional center attributes to the property. If other companies have purportedly signed onto the project, go directly to those companies for confirmation. </li>
+	<li><b><i>Examine structural risk</i></b>. Understand that you may be investing in a new commercial enterprise that has no assets and has been established to loan funds to a company that will use the funds to develop projects. Carefully examine loan documents and offering statements to determine if the loan is secured by any collateral pledged to investors.</li>
+	<li><b><i>Consider the developer's incentives</i></b>. EB-5 regional center principals and developers often make capital investments in the projects they manage.  Recognize that if principals and developers do not make an equity investment in the project, their financial incentives may not be linked to the success of the project.</li>
+	<li><b><i>Look for warning signs of fraud</i></b><b>.</b> Beware if you spot any of these hallmarks of fraud:
+	<ul><li><b>Promises of a visa or becoming a lawful permanent resident</b>. Investing through EB-5 makes you eligible <i>to apply for</i> a conditional visa, but there is no guarantee that USCIS will grant you a conditional visa or subsequently remove the conditions on your lawful permanent residency. USCIS carefully reviews each case and denies cases where eligibility rules are not met. Guarantees of the receipt or timing of a visa or green card are warning signs of fraud.</li>
+		<li><b>Guaranteed investment returns or no investment risk.</b> Money invested through EB-5 must be at risk for the purpose of generating a return. If you are guaranteed investment returns or told you will get back a portion of the money you invested, be suspicious.</li>
+		<li><b>Overly consistent high investment returns.</b> Investments tend to go up and down over time, particularly those that offer high returns.  Be suspicious of an investment that claims to provide, or continues to generate, high rates of return regardless of overall market conditions.</li>
+		<li><b>Unregistered investments.</b>  Even though a regional center may be designated as a regional center by USCIS, most new commercial enterprise investment opportunities offered through regional centers are not registered with the SEC or any state regulator.  When an offering is unregistered, the issuer may not provide investors with access to key information about the company's management, products, services, and finances that registration requires. In such circumstances, investors should obtain additional information about the company to help ensure that the investment opportunity is <i>bona fide</i>.</li>
+		<li><b>Unlicensed sellers.</b> Federal and state securities laws require investment professionals and their firms who offer and sell investments to be licensed or registered.  Designation as a regional center does not satisfy this requirement.  Many fraudulent investment schemes involve unlicensed individuals or unregistered firms.</li>
+		<li><b>Layers of companies run by the same individuals</b>. Some EB-5 regional center investments are structured through layers of different companies that are managed by the same individuals. In such circumstances, confirm that conflicts of interest have been fully disclosed and are minimized.</li>
+	</ul></li>
+</ul><p>If your investment through EB-5 turns out to be in a fraudulent securities offering, you may lose both your money and your path to lawful permanent residency in the United States.<b> Carefully vet any EB-5 offering before investing your money and your hope of becoming a lawful permanent resident of the United States.</b></p>
+
+<p>USCIS and the SEC have in recent years built a strong partnership with an emphasis on fostering EB-5 program integrity. The two agencies coordinate on issues at the case-specific and programmatic levels, and have participated in joint public engagement events to raise awareness among EB-5 developers and investors as to these issues. This Investor Alert is another example of our coordinated efforts regarding EB-5 program integrity.</p>
+
+<p>Additional Resources</p>
+
+<ul><li>View Document in <a href="http://www.sec.gov/investor/alerts/ia_immigrantch.pdf">CHINESE (TRADITIONAL)</a>,<br />
+	available at sec.gov/investor/alerts/ia_immigrantch.pdf.</li>
+	<li>View Document in <a href="http://www.sec.gov/investor/alerts/ia_immigrantko.pdf">KOREAN</a>,<br />
+	available at sec.gov/investor/alerts/ia_immigrantko.pdf.</li>
+	<li>View Document in <a href="http://www.sec.gov/investor/alerts/ia_immigrantsp.pdf">SPANISH</a>,<br />
+	available at sec.gov/investor/alerts/ia_immigrantsp.pdf.</li>
+	<li><a href="http://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process/terminated-regional-centers">USCIS List of EB-5 Terminated Regional Centers</a></li>
+	<li><a href="http://www.sec.gov/News/PressRelease/Detail/PressRelease/1370539854731">SEC Press Release: <i>SEC v. Marco A. Ramirez, et al.</i></a>,<br />
+	available at sec.gov/News/PressRelease/Detail/PressRelease/1370539854731.</li>
+	<li><a href="http://www.sec.gov/litigation/litreleases/2013/lr22615.htm">SEC Litigation Release: <i>SEC v. A Chicago Convention Center, et al.</i></a>,<br />
+	available at sec.gov/litigation/litreleases/2013/lr22615.htm.</li>
+	<li><a href="/investor/alerts/socialmediaandfraud.pdf">SEC Investor Alert: Social Media and Investing – Avoiding Fraud</a>,<br />
+	available at sec.gov/investor/alerts/socialmediaandfraud.pdf.</li>
+	<li><a href="/investor/alerts/affinityfraud.pdf">SEC Investor Bulletin: Affinity Fraud</a>,<br />
+	available at sec.gov/investor/alerts/affinityfraud.pdf.</li>
+	<li><a href="http://investor.gov/investing-basics/avoiding-fraud">SEC Article: Avoiding Fraud</a>,<br />
+	available at Investor.gov/investing-basics/avoiding-fraud.</li>
+</ul><p>To report a possible securities fraud, ask a question, or report a problem concerning your investments, your investment account, or a financial professional, please visit <a href="http://www.sec.gov/complaint/select.shtml">http://www.sec.gov/complaint/select.shtml</a>.</p>
+
+<p>To receive the latest Investor Alerts and Bulletins from the SEC's Office of Investor Education and Advocacy, sign up for <a href="http://www.sec.gov/rss/investor/alertsandbulletins.xml">our RSS feed</a> at sec.gov/rss/investor/alertsandbulletins.xml or for <a href="http://www.sec.gov/news/press/subscribe_updates.htm">email</a> at sec.gov/news/press/subscribe_updates.htm. You can also follow us on Twitter @SEC_Investor_Ed, or visit <a href="http://www.investor.gov">Investor.gov</a>, the SEC's website dedicated to individual investors.</p>
+
+<p align="center"> </p>
+
+<p> </p>
+
+<span data-embed-button="media_embed" data-entity-embed-display="view_mode:media.embed" data-entity-type="media" data-entity-uuid="3dce0921-2b36-4387-8fce-799347bd10fd" data-langcode="en" class="embedded-entity"><div class="media media--type-image-media media--view-mode-embed">
+  
+        <div class="field_media_image">    <img src="/files/2017-02/oieadisclaimer2009.gif" width="500" height="95" alt="The Office of Investor Education and Advocacy has provided this information as a service to investors. It is neither a legal interpretation nor a statement of SEC policy. If you have questions conce" loading="lazy" typeof="foaf:Image" /></div>
+  </div>
+</span>
+</div>
+      
+                          </div>
+
+              
+        
+                <div class="article-more-topics">
+          
+        </div>
+                              </div>
+
+          <div id="sidebar-second">
+		
+                <div class="block related-materials">
+          
+        </div>
+              </div>
+            </div>
+
+    <div class="article-date modified">
+          Modified: Oct. 9, 2013
+      </div>
+  
+</article>
+
+  </div>
+
+  </div>
+
+
+        </div>
+      
+        
+      
+      </div>
+
+      
+    </div>
+    </div>
+    
+          <footer class="page-footer">        
+                  <div class="page-footer-top">
+              <div class="region region-footer-top">
+    
+<div id="block-globalfooterstayconnectedfooter" class="block stay-connected-footer">
+  
+    
+        <div class="body"><p class="data-exempt" id="stay-connected-footer"><span>STAY CONNECTED</span><br class="new-line" />
+<a href="/news/socialmedia.shtml"><span class="fa fa-lg fa-twitter"><span class="visually-hidden">1</span></span> <span class="hide-for-small">Twitter</span></a> <a href="/news/socialmedia.shtml"><span class="fa fa-lg fa-facebook"><span class="visually-hidden">2</span></span> <span class="hide-for-small">Facebook</span></a> <a href="/about/secrss.shtml"><span class="fa fa-lg fa-rss"><span class="visually-hidden">3</span></span><span class="hide-for-small">RSS</span></a> <a href="/news/socialmedia.shtml"><span class="fa fa-lg fa-youtube-play"><span class="visually-hidden">4</span></span><span class="hide-for-small">YouTube</span></a><br class="hide-for-medium-up" />
+<a href="/news/socialmedia.shtml"><span class="fa fa-lg fa-linkedin"><span class="visually-hidden">6</span></span><span class="hide-for-small">LinkedIn</span></a> <!--<a href="//www.pinterest.com/secgov"><span class="fa fa-lg fa-pinterest-p"><span class="visually-hidden">7</span></span> <span class="hide-for-small">Pinterest</span></a>--> <a href="//public.govdelivery.com/accounts/USSEC/subscriber/new"><span class="fa fa-lg fa-envelope"><span class="visually-hidden">8</span></span> <span class="hide-for-small">Email Updates</span> </a></p>
+</div>
+  </div>
+
+  </div>
+
+
+          </div>
+                
+        <div class="page-footer-cols">
+          <div>
+    <nav role="navigation" aria-labelledby="block-aboutthesec-menu" id="block-aboutthesec">
+            
+  <h2 id="block-aboutthesec-menu">About The SEC</h2>
+  
+
+        
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-budget-&amp;-performance">
+        <a href="/about/offices/ofm/ofm-documents.htm" class="menu__link" data-drupal-link-system-path="node/111606">Budget &amp; Performance</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-careers">
+        <a href="/careers" class="menu__link" data-drupal-link-system-path="node/41311">Careers</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-commission-votes">
+        <a href="/about/commission-votes.shtml" class="menu__link" data-drupal-link-system-path="node/111231">Commission Votes</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-contact">
+        <a href="/contact-information/sec-directory" class="menu__link" data-drupal-link-system-path="node/102846">Contact</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-contracts">
+        <a href="/page/oacqsectionlanding" class="menu__link" data-drupal-link-system-path="node/3841">Contracts</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-data-resources">
+        <a href="/sec-data-resources" class="menu__link" data-drupal-link-system-path="node/191566">Data Resources</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-governmenttransparency-menu" id="block-governmenttransparency">
+            
+  <h2 id="block-governmenttransparency-menu">Transparency</h2>
+  
+
+        
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-accessibility-&amp;-disability">
+        <a href="/disability/sec_access.htm" class="menu__link" data-drupal-link-system-path="node/111766">Accessibility &amp; Disability</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-diversity-&amp;-inclusion">
+        <a href="/diversity-and-inclusion-sec" class="menu__link" data-drupal-link-system-path="node/279356">Diversity &amp; Inclusion</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-foia">
+        <a href="/page/office-foia-services" class="menu__link" data-drupal-link-system-path="node/41166">FOIA</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-inspector-general">
+        <a href="/oig" class="menu__link" data-drupal-link-system-path="node/41456">Inspector General</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-no-fear-act-&amp;-eeo-data">
+        <a href="/page/eeosectionlanding" class="menu__link" data-drupal-link-system-path="node/3781">No FEAR Act &amp; EEO Data</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-ombudsman">
+        <a href="/ombudsman" class="menu__link" data-drupal-link-system-path="node/96081">Ombudsman</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-whistleblower-protection">
+        <a href="/whistleblower" class="menu__link" data-drupal-link-system-path="node/99851">Whistleblower Protection</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-otherwebsites-menu" id="block-otherwebsites">
+            
+  <h2 id="block-otherwebsites-menu">Websites</h2>
+  
+
+        
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-investor.gov">
+        <a href="https://www.investor.gov" class="menu__link">Investor.gov</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-related-sites">
+        <a href="/links" class="menu__link" data-drupal-link-system-path="node/100276">Related Sites</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-usa.gov">
+        <a href="https://www.usa.gov" class="menu__link">USA.gov</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-siteinformation-menu" id="block-siteinformation">
+            
+  <h2 id="block-siteinformation-menu">Site Information</h2>
+  
+
+        
+              <ul id="section-menu" class="menu">
+              <li class="menu__item is-active is-leaf leaf item-plain-writing">
+        <a href="/plainwriting.shtml" class="menu__link" data-drupal-link-system-path="node/111701">Plain Writing</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-privacy-&amp;-security">
+        <a href="/privacy.htm" class="menu__link" data-drupal-link-system-path="node/111706">Privacy &amp; Security</a>
+              </li>
+
+          <li class="menu__item is-active is-leaf leaf item-site-map">
+        <a href="/sitemap.shtml" class="menu__link" data-drupal-link-system-path="node/111831">Site Map</a>
+              </li>
+
+        </ul>
+  
+
+
+
+
+
+  </nav>
+
+  </div>
+
+
+        </div>
+      </footer>
+        
+                <script>
+        if (typeof dataLayer != "undefined") dataLayer.push({"pageType": "/investor/alerts/ia_immigrant.htm"});
+      </script>
+        </div>
+</div>
+</div>
+
+
+  </div>
+
+    
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i>Return to Top</a>
+
+    <div class="overlap">
+  <!-- Subscribe link, RSS, Email -->
+  <div id="addthis-icons-508" class="visibly-hidden">
+    <div class="addthis-wrapper">
+      <div class="appIconsDetail hide">
+        <div class="addthis_toolbox addthis_default_style hide-for-small">
+          <a class="addthis_button_print at300b" title="Print Page" href="#">
+            <span class="fa fa-print"></span>
+          </a>
+          <a class="addthis_button_facebook at300b" title="Share on Facebook" href="#">
+            <span class="fa fa-facebook"></span>
+          </a>
+          <a class="addthis_button_twitter at300b" title="Tweet Page" href="#">
+            <span class="fa fa-twitter"></span>
+          </a>
+          <a class="addthis_button_mailto at300b" target="_blank" title="Email Page" href="#">
+            <span class="fa fa-envelope"></span>
+          </a>
+          <a class="addthis_button_compact at300m" href="#" title="More Sharing Options">
+            <span class="fa fa-plus"></span>
+          </a>
+        <div class="atclear"></div>
+      </div>
+      <div class="addthis_toolbox hide">
+        <a class="addthis_button_facebook at300b" title="Share on Facebook" href="#">
+          <span class="fa fa-facebook"></span>
+        </a>
+        <a class="addthis_button_twitter at300b" title="Tweet Page" href="#">
+          <span class="fa fa-twitter"></span>
+        </a>
+        <a class="addthis_button_mailto at300b" target="_blank" title="Email Page" href="#">
+          <span class="fa fa-envelope"></span>
+        </a>
+      </div>
+      <div class="atclear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <script src="/files/js/js_cxwHJ1ZS1Gl37wd33EnTu37FNGXqtMNz9_MAcGsxHH4.js"></script>
+<script src="/themes/custom/secgov/js/third-party/addthis_widget.js?rcftc1" async></script>
+<script src="/files/js/js_bWWSMJ2-ZxkOB5_jV4N-DJ06hPNOuf1OkXczzrFk9NM.js"></script>
+<script src="/themes/custom/secgov/js/oasb-wizard-tool.js?rcftc1"></script>
+<script src="/files/js/js_-pMugFThsb_vxuHRYCEWQddqGpPXWCjHpuN0WoNdzrc.js"></script>
+
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"32edb8f179","applicationID":"436723953","transactionName":"ZQZSMBQEXxZZARJeXlxMcQcSDF4LFxIHUFRtAFEHDgA=","queueTime":0,"applicationTime":44,"atts":"SUFRRlweTBg=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+  </html>

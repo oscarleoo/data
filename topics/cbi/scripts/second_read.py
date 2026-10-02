@@ -38,10 +38,20 @@ FIELDS = ["obs_id", "value", "value_high", "scale", "column_label", "page_found"
 FRACTIONS = {"\u00bd": ".5", "\u00bc": ".25", "\u00be": ".75"}
 
 
+WORDS = {w: i for i, w in enumerate("zero one two three four five six seven eight nine ten eleven twelve "
+                                     "thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
+
+
 def readings(v):
     """Every plausible number a printed value can mean: '4.264' is 4,264 in a Greek table,
     '496,8' is 496.8 in an EU regulation, '4\u00bd' is 4.5, '1.7%' is 1.7."""
-    t = re.sub(r"\s", "", str(v or "")).rstrip("%")
+    raw = str(v or "").strip().lower()
+    if raw in WORDS:
+        return [float(WORDS[raw])]
+    if raw in ("-", "\u2013", "\u2014", "nil"):
+        return [0.0]
+    raw = re.sub(r"^(fewer|less|more) than |^over |^about |^around |^approximately ", "", raw)
+    t = re.sub(r"\s", "", raw).rstrip("%")
     for k, f in FRACTIONS.items():
         t = t.replace(k, f)
     out = []
@@ -65,17 +75,28 @@ def half_unit(v, scale):
     return 0.5 * 10 ** -decimals * SCALES.get(scale or "1", 1)
 
 
+def scale_of(s):
+    s = (s or "").lower()
+    for k in ("billion", "million", "thousand"):
+        if k in s:
+            return SCALES[k]
+    return 1
+
+
 def compare(first, second):
     a, bs = number(first["value"]), readings(second.get("value"))
     if not bs:
         return "not_found"
     if a is None:
         return "differ"
-    sa, sb = SCALES.get(first.get("scale") or "1", 1), SCALES.get(second.get("scale") or "1", 1)
-    for b in bs:
-        tol = max(half_unit(first["value"], first.get("scale")), half_unit(b, second.get("scale"))) + 1e-9
-        if abs(a * sa - b * sb) <= tol:
-            return "agree"
+    sa, sb = scale_of(first.get("scale")), scale_of(second.get("scale"))
+    # a range ("fewer than 20", stored as 0 to 20) agrees when the other reading gives its bound
+    candidates = [a] + ([number(first["value_high"])] if first.get("value_high") else [])
+    for a_ in candidates:
+        for b in bs:
+            tol = max(half_unit(first["value"], first.get("scale")), half_unit(b, second.get("scale"))) + 1e-9
+            if abs(a_ * sa - b * sb) <= tol:
+                return "agree"
     if any(abs(a - b) <= 1e-9 * max(1, abs(a)) for b in bs):
         return "scale_differs"
     return "differ"

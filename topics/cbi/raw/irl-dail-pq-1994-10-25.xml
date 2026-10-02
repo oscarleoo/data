@@ -1,0 +1,669 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 ./akomantoso30.xsd ">
+  <debate name="Official Report">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="/akn/ie/debateRecord/dail/1994-10-25/debate/dbsect_10"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/1994-10-25/debate"/>
+          <FRBRdate date="1994-10-25" name="#generation"/>
+          <FRBRauthor href="/ie/oireachtas/house/dail/27"/>
+          <FRBRcountry value="ie"/>
+          <FRBRname value="debate"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/ie/debateRecord/dail/1994-10-25/debate/mul@/dbsect_10"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/1994-10-25/debate/mul@"/>
+          <FRBRdate date="1994-10-25" name="#reported"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+          <FRBRlanguage language="mul"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/ie/debateRecord/dail/1994-10-25/debate/mul@/dbsect_10.xml"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/1994-10-25/debate/mul@.akn"/>
+          <FRBRdate date="2020-06-25" name="#publication"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+        </FRBRManifestation>
+      </identification>
+      <analysis source="#source">
+        <otherAnalysis xmlns:oir="https://data.oireachtas.ie/ns/1.0" source="#source">
+          <oir:volumeReference eId="#vol_446" showAs="Vol. 446" href="ie/oireachtas/debateRecord/vol/446"/>
+          <oir:numberReference eId="#no_3" showAs="No. 3" href="ie/oireachtas/debateRecord/vol/446/no/3"/>
+          <oir:column eId="col_493" showAs="Col. 493" refersTo="#dbsect_1" href="ie/oireachtas/debateRecord/vol/446/col/493"/>
+          <oir:column eId="col_494" showAs="Col. 494" refersTo="#spk_4" href="ie/oireachtas/debateRecord/vol/446/col/494"/>
+          <oir:column eId="col_495" showAs="Col. 495" refersTo="#dbsect_2" href="ie/oireachtas/debateRecord/vol/446/col/495"/>
+          <oir:column eId="col_496" showAs="Col. 496" refersTo="#dbsect_3" href="ie/oireachtas/debateRecord/vol/446/col/496"/>
+          <oir:column eId="col_497" showAs="Col. 497" refersTo="#spk_26" href="ie/oireachtas/debateRecord/vol/446/col/497"/>
+          <oir:column eId="col_498" showAs="Col. 498" refersTo="#spk_26" href="ie/oireachtas/debateRecord/vol/446/col/498"/>
+          <oir:column eId="col_499" showAs="Col. 499" refersTo="#spk_26" href="ie/oireachtas/debateRecord/vol/446/col/499"/>
+          <oir:column eId="col_500" showAs="Col. 500" refersTo="#spk_26" href="ie/oireachtas/debateRecord/vol/446/col/500"/>
+          <oir:column eId="col_501" showAs="Col. 501" refersTo="#spk_26" href="ie/oireachtas/debateRecord/vol/446/col/501"/>
+          <oir:column eId="col_502" showAs="Col. 502" refersTo="#spk_28" href="ie/oireachtas/debateRecord/vol/446/col/502"/>
+          <oir:column eId="col_503" showAs="Col. 503" refersTo="#spk_30" href="ie/oireachtas/debateRecord/vol/446/col/503"/>
+          <oir:column eId="col_504" showAs="Col. 504" refersTo="#spk_37" href="ie/oireachtas/debateRecord/vol/446/col/504"/>
+          <oir:column eId="col_505" showAs="Col. 505" refersTo="#spk_39" href="ie/oireachtas/debateRecord/vol/446/col/505"/>
+          <oir:column eId="col_506" showAs="Col. 506" refersTo="#dbsect_3" href="ie/oireachtas/debateRecord/vol/446/col/506"/>
+          <oir:column eId="col_507" showAs="Col. 507" refersTo="#spk_54" href="ie/oireachtas/debateRecord/vol/446/col/507"/>
+          <oir:column eId="col_508" showAs="Col. 508" refersTo="#spk_60" href="ie/oireachtas/debateRecord/vol/446/col/508"/>
+          <oir:column eId="col_509" showAs="Col. 509" refersTo="#spk_63" href="ie/oireachtas/debateRecord/vol/446/col/509"/>
+          <oir:column eId="col_510" showAs="Col. 510" refersTo="#dbsect_4" href="ie/oireachtas/debateRecord/vol/446/col/510"/>
+          <oir:column eId="col_511" showAs="Col. 511" refersTo="#spk_65" href="ie/oireachtas/debateRecord/vol/446/col/511"/>
+          <oir:column eId="col_512" showAs="Col. 512" refersTo="#dbsect_5" href="ie/oireachtas/debateRecord/vol/446/col/512"/>
+          <oir:column eId="col_513" showAs="Col. 513" refersTo="#spk_70" href="ie/oireachtas/debateRecord/vol/446/col/513"/>
+          <oir:column eId="col_514" showAs="Col. 514" refersTo="#spk_72" href="ie/oireachtas/debateRecord/vol/446/col/514"/>
+          <oir:column eId="col_515" showAs="Col. 515" refersTo="#dbsect_5" href="ie/oireachtas/debateRecord/vol/446/col/515"/>
+          <oir:column eId="col_516" showAs="Col. 516" refersTo="#dbsect_6" href="ie/oireachtas/debateRecord/vol/446/col/516"/>
+          <oir:column eId="col_517" showAs="Col. 517" refersTo="#spk_79" href="ie/oireachtas/debateRecord/vol/446/col/517"/>
+          <oir:column eId="col_518" showAs="Col. 518" refersTo="#spk_80" href="ie/oireachtas/debateRecord/vol/446/col/518"/>
+          <oir:column eId="col_519" showAs="Col. 519" refersTo="#spk_83" href="ie/oireachtas/debateRecord/vol/446/col/519"/>
+          <oir:column eId="col_520" showAs="Col. 520" refersTo="#spk_84" href="ie/oireachtas/debateRecord/vol/446/col/520"/>
+          <oir:column eId="col_521" showAs="Col. 521" refersTo="#spk_86" href="ie/oireachtas/debateRecord/vol/446/col/521"/>
+          <oir:column eId="col_522" showAs="Col. 522" refersTo="#spk_92" href="ie/oireachtas/debateRecord/vol/446/col/522"/>
+          <oir:column eId="col_523" showAs="Col. 523" refersTo="#spk_98" href="ie/oireachtas/debateRecord/vol/446/col/523"/>
+          <oir:column eId="col_524" showAs="Col. 524" refersTo="#dbsect_8" href="ie/oireachtas/debateRecord/vol/446/col/524"/>
+          <oir:column eId="col_525" showAs="Col. 525" refersTo="#spk_104" href="ie/oireachtas/debateRecord/vol/446/col/525"/>
+          <oir:column eId="col_526" showAs="Col. 526" refersTo="#spk_104" href="ie/oireachtas/debateRecord/vol/446/col/526"/>
+          <oir:column eId="col_527" showAs="Col. 527" refersTo="#spk_106" href="ie/oireachtas/debateRecord/vol/446/col/527"/>
+          <oir:column eId="col_528" showAs="Col. 528" refersTo="#spk_108" href="ie/oireachtas/debateRecord/vol/446/col/528"/>
+          <oir:column eId="col_529" showAs="Col. 529" refersTo="#spk_110" href="ie/oireachtas/debateRecord/vol/446/col/529"/>
+          <oir:column eId="col_530" showAs="Col. 530" refersTo="#spk_112" href="ie/oireachtas/debateRecord/vol/446/col/530"/>
+          <oir:column eId="col_531" showAs="Col. 531" refersTo="#spk_115" href="ie/oireachtas/debateRecord/vol/446/col/531"/>
+          <oir:column eId="col_532" showAs="Col. 532" refersTo="#spk_117" href="ie/oireachtas/debateRecord/vol/446/col/532"/>
+          <oir:column eId="col_533" showAs="Col. 533" refersTo="#dbsect_9" href="ie/oireachtas/debateRecord/vol/446/col/533"/>
+          <oir:column eId="col_534" showAs="Col. 534" refersTo="#spk_121" href="ie/oireachtas/debateRecord/vol/446/col/534"/>
+          <oir:column eId="col_535" showAs="Col. 535" refersTo="#spk_123" href="ie/oireachtas/debateRecord/vol/446/col/535"/>
+          <oir:column eId="col_536" showAs="Col. 536" refersTo="#spk_127" href="ie/oireachtas/debateRecord/vol/446/col/536"/>
+          <oir:column eId="col_537" showAs="Col. 537" refersTo="#spk_129" href="ie/oireachtas/debateRecord/vol/446/col/537"/>
+          <oir:column eId="col_538" showAs="Col. 538" refersTo="#dbsect_10" href="ie/oireachtas/debateRecord/vol/446/col/538"/>
+          <oir:column eId="col_539" showAs="Col. 539" refersTo="#dbsect_10" href="ie/oireachtas/debateRecord/vol/446/col/539"/>
+          <oir:column eId="col_540" showAs="Col. 540" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/540"/>
+          <oir:column eId="col_541" showAs="Col. 541" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/541"/>
+          <oir:column eId="col_542" showAs="Col. 542" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/542"/>
+          <oir:column eId="col_543" showAs="Col. 543" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/543"/>
+          <oir:column eId="col_544" showAs="Col. 544" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/544"/>
+          <oir:column eId="col_545" showAs="Col. 545" refersTo="#spk_131" href="ie/oireachtas/debateRecord/vol/446/col/545"/>
+          <oir:column eId="col_546" showAs="Col. 546" refersTo="#dbsect_10" href="ie/oireachtas/debateRecord/vol/446/col/546"/>
+          <oir:column eId="col_547" showAs="Col. 547" refersTo="#spk_137" href="ie/oireachtas/debateRecord/vol/446/col/547"/>
+          <oir:column eId="col_548" showAs="Col. 548" refersTo="#dbsect_10" href="ie/oireachtas/debateRecord/vol/446/col/548"/>
+          <oir:column eId="col_549" showAs="Col. 549" refersTo="#dbsect_10" href="ie/oireachtas/debateRecord/vol/446/col/549"/>
+          <oir:column eId="col_550" showAs="Col. 550" refersTo="#spk_151" href="ie/oireachtas/debateRecord/vol/446/col/550"/>
+          <oir:column eId="col_551" showAs="Col. 551" refersTo="#spk_155" href="ie/oireachtas/debateRecord/vol/446/col/551"/>
+          <oir:column eId="col_552" showAs="Col. 552" refersTo="#dbsect_11" href="ie/oireachtas/debateRecord/vol/446/col/552"/>
+          <oir:column eId="col_553" showAs="Col. 553" refersTo="#spk_160" href="ie/oireachtas/debateRecord/vol/446/col/553"/>
+          <oir:column eId="col_554" showAs="Col. 554" refersTo="#spk_160" href="ie/oireachtas/debateRecord/vol/446/col/554"/>
+          <oir:column eId="col_555" showAs="Col. 555" refersTo="#spk_160" href="ie/oireachtas/debateRecord/vol/446/col/555"/>
+          <oir:column eId="col_556" showAs="Col. 556" refersTo="#dbsect_11" href="ie/oireachtas/debateRecord/vol/446/col/556"/>
+          <oir:column eId="col_557" showAs="Col. 557" refersTo="#dbsect_11" href="ie/oireachtas/debateRecord/vol/446/col/557"/>
+          <oir:column eId="col_558" showAs="Col. 558" refersTo="#spk_174" href="ie/oireachtas/debateRecord/vol/446/col/558"/>
+          <oir:column eId="col_559" showAs="Col. 559" refersTo="#spk_178" href="ie/oireachtas/debateRecord/vol/446/col/559"/>
+          <oir:column eId="col_560" showAs="Col. 560" refersTo="#dbsect_11" href="ie/oireachtas/debateRecord/vol/446/col/560"/>
+          <oir:column eId="col_561" showAs="Col. 561" refersTo="#spk_189" href="ie/oireachtas/debateRecord/vol/446/col/561"/>
+          <oir:column eId="col_562" showAs="Col. 562" refersTo="#dbsect_11" href="ie/oireachtas/debateRecord/vol/446/col/562"/>
+          <oir:column eId="col_563" showAs="Col. 563" refersTo="#spk_195" href="ie/oireachtas/debateRecord/vol/446/col/563"/>
+          <oir:column eId="col_564" showAs="Col. 564" refersTo="#spk_199" href="ie/oireachtas/debateRecord/vol/446/col/564"/>
+          <oir:column eId="col_565" showAs="Col. 565" refersTo="#dbsect_25" href="ie/oireachtas/debateRecord/vol/446/col/565"/>
+          <oir:column eId="col_566" showAs="Col. 566" refersTo="#dbsect_26" href="ie/oireachtas/debateRecord/vol/446/col/566"/>
+          <oir:column eId="col_567" showAs="Col. 567" refersTo="#dbsect_28" href="ie/oireachtas/debateRecord/vol/446/col/567"/>
+          <oir:column eId="col_568" showAs="Col. 568" refersTo="#spk_321" href="ie/oireachtas/debateRecord/vol/446/col/568"/>
+          <oir:column eId="col_569" showAs="Col. 569" refersTo="#spk_322" href="ie/oireachtas/debateRecord/vol/446/col/569"/>
+          <oir:column eId="col_570" showAs="Col. 570" refersTo="#spk_323" href="ie/oireachtas/debateRecord/vol/446/col/570"/>
+          <oir:column eId="col_571" showAs="Col. 571" refersTo="#dbsect_32" href="ie/oireachtas/debateRecord/vol/446/col/571"/>
+          <oir:column eId="col_572" showAs="Col. 572" refersTo="#spk_325" href="ie/oireachtas/debateRecord/vol/446/col/572"/>
+          <oir:column eId="col_573" showAs="Col. 573" refersTo="#dbsect_33" href="ie/oireachtas/debateRecord/vol/446/col/573"/>
+          <oir:column eId="col_574" showAs="Col. 574" refersTo="#dbsect_35" href="ie/oireachtas/debateRecord/vol/446/col/574"/>
+          <oir:column eId="col_575" showAs="Col. 575" refersTo="#spk_328" href="ie/oireachtas/debateRecord/vol/446/col/575"/>
+          <oir:column eId="col_576" showAs="Col. 576" refersTo="#spk_329" href="ie/oireachtas/debateRecord/vol/446/col/576"/>
+          <oir:column eId="col_577" showAs="Col. 577" refersTo="#spk_329" href="ie/oireachtas/debateRecord/vol/446/col/577"/>
+          <oir:column eId="col_578" showAs="Col. 578" refersTo="#para_762" href="ie/oireachtas/debateRecord/vol/446/col/578"/>
+          <oir:column eId="col_579" showAs="Col. 579" refersTo="#para_767" href="ie/oireachtas/debateRecord/vol/446/col/579"/>
+          <oir:column eId="col_580" showAs="Col. 580" refersTo="#dbsect_40" href="ie/oireachtas/debateRecord/vol/446/col/580"/>
+          <oir:column eId="col_581" showAs="Col. 581" refersTo="#spk_333" href="ie/oireachtas/debateRecord/vol/446/col/581"/>
+          <oir:column eId="col_582" showAs="Col. 582" refersTo="#spk_335" href="ie/oireachtas/debateRecord/vol/446/col/582"/>
+          <oir:column eId="col_583" showAs="Col. 583" refersTo="#para_781" href="ie/oireachtas/debateRecord/vol/446/col/583"/>
+          <oir:column eId="col_584" showAs="Col. 584" refersTo="#spk_338" href="ie/oireachtas/debateRecord/vol/446/col/584"/>
+          <oir:column eId="col_585" showAs="Col. 585" refersTo="#dbsect_47" href="ie/oireachtas/debateRecord/vol/446/col/585"/>
+          <oir:column eId="col_586" showAs="Col. 586" refersTo="#spk_341" href="ie/oireachtas/debateRecord/vol/446/col/586"/>
+          <oir:column eId="col_587" showAs="Col. 587" refersTo="#dbsect_50" href="ie/oireachtas/debateRecord/vol/446/col/587"/>
+          <oir:column eId="col_588" showAs="Col. 588" refersTo="#dbsect_51" href="ie/oireachtas/debateRecord/vol/446/col/588"/>
+          <oir:column eId="col_589" showAs="Col. 589" refersTo="#para_807" href="ie/oireachtas/debateRecord/vol/446/col/589"/>
+          <oir:column eId="col_590" showAs="Col. 590" refersTo="#para_811" href="ie/oireachtas/debateRecord/vol/446/col/590"/>
+          <oir:column eId="col_591" showAs="Col. 591" refersTo="#spk_351" href="ie/oireachtas/debateRecord/vol/446/col/591"/>
+          <oir:column eId="col_592" showAs="Col. 592" refersTo="#dbsect_59" href="ie/oireachtas/debateRecord/vol/446/col/592"/>
+          <oir:column eId="col_593" showAs="Col. 593" refersTo="#spk_353" href="ie/oireachtas/debateRecord/vol/446/col/593"/>
+          <oir:column eId="col_594" showAs="Col. 594" refersTo="#para_829" href="ie/oireachtas/debateRecord/vol/446/col/594"/>
+          <oir:column eId="col_595" showAs="Col. 595" refersTo="#spk_357" href="ie/oireachtas/debateRecord/vol/446/col/595"/>
+          <oir:column eId="col_596" showAs="Col. 596" refersTo="#dbsect_65" href="ie/oireachtas/debateRecord/vol/446/col/596"/>
+          <oir:column eId="col_597" showAs="Col. 597" refersTo="#spk_359" href="ie/oireachtas/debateRecord/vol/446/col/597"/>
+          <oir:column eId="col_598" showAs="Col. 598" refersTo="#spk_359" href="ie/oireachtas/debateRecord/vol/446/col/598"/>
+          <oir:column eId="col_599" showAs="Col. 599" refersTo="#spk_361" href="ie/oireachtas/debateRecord/vol/446/col/599"/>
+          <oir:column eId="col_600" showAs="Col. 600" refersTo="#spk_361" href="ie/oireachtas/debateRecord/vol/446/col/600"/>
+          <oir:column eId="col_601" showAs="Col. 601" refersTo="#dbsect_69" href="ie/oireachtas/debateRecord/vol/446/col/601"/>
+          <oir:column eId="col_602" showAs="Col. 602" refersTo="#dbsect_69" href="ie/oireachtas/debateRecord/vol/446/col/602"/>
+          <oir:column eId="col_603" showAs="Col. 603" refersTo="#para_1079" href="ie/oireachtas/debateRecord/vol/446/col/603"/>
+          <oir:column eId="col_604" showAs="Col. 604" refersTo="#spk_363" href="ie/oireachtas/debateRecord/vol/446/col/604"/>
+          <oir:column eId="col_605" showAs="Col. 605" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/605"/>
+          <oir:column eId="col_606" showAs="Col. 606" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/606"/>
+          <oir:column eId="col_607" showAs="Col. 607" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/607"/>
+          <oir:column eId="col_608" showAs="Col. 608" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/608"/>
+          <oir:column eId="col_609" showAs="Col. 609" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/609"/>
+          <oir:column eId="col_610" showAs="Col. 610" refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/446/col/610"/>
+          <oir:column eId="col_611" showAs="Col. 611" refersTo="#dbsect_72" href="ie/oireachtas/debateRecord/vol/446/col/611"/>
+          <oir:column eId="col_612" showAs="Col. 612" refersTo="#dbsect_72" href="ie/oireachtas/debateRecord/vol/446/col/612"/>
+          <oir:column eId="col_613" showAs="Col. 613" refersTo="#spk_368" href="ie/oireachtas/debateRecord/vol/446/col/613"/>
+          <oir:column eId="col_614" showAs="Col. 614" refersTo="#spk_369" href="ie/oireachtas/debateRecord/vol/446/col/614"/>
+          <oir:column eId="col_615" showAs="Col. 615" refersTo="#dbsect_78" href="ie/oireachtas/debateRecord/vol/446/col/615"/>
+          <oir:column eId="col_616" showAs="Col. 616" refersTo="#para_1753" href="ie/oireachtas/debateRecord/vol/446/col/616"/>
+          <oir:column eId="col_617" showAs="Col. 617" refersTo="#spk_374" href="ie/oireachtas/debateRecord/vol/446/col/617"/>
+          <oir:column eId="col_618" showAs="Col. 618" refersTo="#spk_375" href="ie/oireachtas/debateRecord/vol/446/col/618"/>
+          <oir:column eId="col_619" showAs="Col. 619" refersTo="#para_1770" href="ie/oireachtas/debateRecord/vol/446/col/619"/>
+          <oir:column eId="col_620" showAs="Col. 620" refersTo="#dbsect_84" href="ie/oireachtas/debateRecord/vol/446/col/620"/>
+          <oir:column eId="col_621" showAs="Col. 621" refersTo="#spk_377" href="ie/oireachtas/debateRecord/vol/446/col/621"/>
+          <oir:column eId="col_622" showAs="Col. 622" refersTo="#spk_378" href="ie/oireachtas/debateRecord/vol/446/col/622"/>
+          <oir:column eId="col_623" showAs="Col. 623" refersTo="#spk_378" href="ie/oireachtas/debateRecord/vol/446/col/623"/>
+          <oir:column eId="col_624" showAs="Col. 624" refersTo="#dbsect_87" href="ie/oireachtas/debateRecord/vol/446/col/624"/>
+          <oir:column eId="col_625" showAs="Col. 625" refersTo="#para_1790" href="ie/oireachtas/debateRecord/vol/446/col/625"/>
+          <oir:column eId="col_626" showAs="Col. 626" refersTo="#spk_382" href="ie/oireachtas/debateRecord/vol/446/col/626"/>
+          <oir:column eId="col_627" showAs="Col. 627" refersTo="#para_1801" href="ie/oireachtas/debateRecord/vol/446/col/627"/>
+          <oir:column eId="col_628" showAs="Col. 628" refersTo="#spk_385" href="ie/oireachtas/debateRecord/vol/446/col/628"/>
+          <oir:column eId="col_629" showAs="Col. 629" refersTo="#spk_387" href="ie/oireachtas/debateRecord/vol/446/col/629"/>
+          <oir:column eId="col_630" showAs="Col. 630" refersTo="#spk_387" href="ie/oireachtas/debateRecord/vol/446/col/630"/>
+          <oir:column eId="col_631" showAs="Col. 631" refersTo="#dbsect_94" href="ie/oireachtas/debateRecord/vol/446/col/631"/>
+          <oir:column eId="col_632" showAs="Col. 632" refersTo="#dbsect_94" href="ie/oireachtas/debateRecord/vol/446/col/632"/>
+          <oir:column eId="col_633" showAs="Col. 633" refersTo="#spk_387" href="ie/oireachtas/debateRecord/vol/446/col/633"/>
+          <oir:column eId="col_634" showAs="Col. 634" refersTo="#dbsect_95" href="ie/oireachtas/debateRecord/vol/446/col/634"/>
+          <oir:column eId="col_635" showAs="Col. 635" refersTo="#dbsect_97" href="ie/oireachtas/debateRecord/vol/446/col/635"/>
+          <oir:column eId="col_636" showAs="Col. 636" refersTo="#dbsect_98" href="ie/oireachtas/debateRecord/vol/446/col/636"/>
+          <oir:column eId="col_637" showAs="Col. 637" refersTo="#dbsect_100" href="ie/oireachtas/debateRecord/vol/446/col/637"/>
+          <oir:column eId="col_638" showAs="Col. 638" refersTo="#dbsect_101" href="ie/oireachtas/debateRecord/vol/446/col/638"/>
+          <oir:column eId="col_639" showAs="Col. 639" refersTo="#dbsect_102" href="ie/oireachtas/debateRecord/vol/446/col/639"/>
+          <oir:column eId="col_640" showAs="Col. 640" refersTo="#dbsect_103" href="ie/oireachtas/debateRecord/vol/446/col/640"/>
+          <oir:column eId="col_641" showAs="Col. 641" refersTo="#dbsect_104" href="ie/oireachtas/debateRecord/vol/446/col/641"/>
+          <oir:column eId="col_642" showAs="Col. 642" refersTo="#spk_398" href="ie/oireachtas/debateRecord/vol/446/col/642"/>
+          <oir:column eId="col_643" showAs="Col. 643" refersTo="#para_2039" href="ie/oireachtas/debateRecord/vol/446/col/643"/>
+          <oir:column eId="col_644" showAs="Col. 644" refersTo="#spk_401" href="ie/oireachtas/debateRecord/vol/446/col/644"/>
+          <oir:column eId="col_645" showAs="Col. 645" refersTo="#para_2047" href="ie/oireachtas/debateRecord/vol/446/col/645"/>
+          <oir:column eId="col_646" showAs="Col. 646" refersTo="#spk_404" href="ie/oireachtas/debateRecord/vol/446/col/646"/>
+          <oir:column eId="col_647" showAs="Col. 647" refersTo="#para_2055" href="ie/oireachtas/debateRecord/vol/446/col/647"/>
+          <oir:column eId="col_648" showAs="Col. 648" refersTo="#dbsect_113" href="ie/oireachtas/debateRecord/vol/446/col/648"/>
+          <oir:column eId="col_649" showAs="Col. 649" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/649"/>
+          <oir:column eId="col_650" showAs="Col. 650" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/650"/>
+          <oir:column eId="col_651" showAs="Col. 651" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/651"/>
+          <oir:column eId="col_652" showAs="Col. 652" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/652"/>
+          <oir:column eId="col_653" showAs="Col. 653" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/653"/>
+          <oir:column eId="col_654" showAs="Col. 654" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/654"/>
+          <oir:column eId="col_655" showAs="Col. 655" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/655"/>
+          <oir:column eId="col_656" showAs="Col. 656" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/656"/>
+          <oir:column eId="col_657" showAs="Col. 657" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/657"/>
+          <oir:column eId="col_658" showAs="Col. 658" refersTo="#spk_408" href="ie/oireachtas/debateRecord/vol/446/col/658"/>
+          <oir:column eId="col_659" showAs="Col. 659" refersTo="#dbsect_114" href="ie/oireachtas/debateRecord/vol/446/col/659"/>
+          <oir:column eId="col_660" showAs="Col. 660" refersTo="#para_3079" href="ie/oireachtas/debateRecord/vol/446/col/660"/>
+          <oir:column eId="col_661" showAs="Col. 661" refersTo="#dbsect_116" href="ie/oireachtas/debateRecord/vol/446/col/661"/>
+          <oir:column eId="col_662" showAs="Col. 662" refersTo="#dbsect_116" href="ie/oireachtas/debateRecord/vol/446/col/662"/>
+          <oir:column eId="col_663" showAs="Col. 663" refersTo="#dbsect_117" href="ie/oireachtas/debateRecord/vol/446/col/663"/>
+          <oir:column eId="col_664" showAs="Col. 664" refersTo="#dbsect_117" href="ie/oireachtas/debateRecord/vol/446/col/664"/>
+          <oir:column eId="col_665" showAs="Col. 665" refersTo="#dbsect_119" href="ie/oireachtas/debateRecord/vol/446/col/665"/>
+          <oir:column eId="col_666" showAs="Col. 666" refersTo="#para_3241" href="ie/oireachtas/debateRecord/vol/446/col/666"/>
+          <oir:column eId="col_667" showAs="Col. 667" refersTo="#dbsect_123" href="ie/oireachtas/debateRecord/vol/446/col/667"/>
+          <oir:column eId="col_668" showAs="Col. 668" refersTo="#dbsect_123" href="ie/oireachtas/debateRecord/vol/446/col/668"/>
+          <oir:column eId="col_669" showAs="Col. 669" refersTo="#spk_419" href="ie/oireachtas/debateRecord/vol/446/col/669"/>
+          <oir:column eId="col_670" showAs="Col. 670" refersTo="#spk_421" href="ie/oireachtas/debateRecord/vol/446/col/670"/>
+          <oir:column eId="col_671" showAs="Col. 671" refersTo="#para_3439" href="ie/oireachtas/debateRecord/vol/446/col/671"/>
+          <oir:column eId="col_672" showAs="Col. 672" refersTo="#para_3443" href="ie/oireachtas/debateRecord/vol/446/col/672"/>
+          <oir:column eId="col_673" showAs="Col. 673" refersTo="#spk_427" href="ie/oireachtas/debateRecord/vol/446/col/673"/>
+          <oir:column eId="col_674" showAs="Col. 674" refersTo="#para_3450" href="ie/oireachtas/debateRecord/vol/446/col/674"/>
+          <oir:column eId="col_675" showAs="Col. 675" refersTo="#para_3456" href="ie/oireachtas/debateRecord/vol/446/col/675"/>
+          <oir:column eId="col_676" showAs="Col. 676" refersTo="#dbsect_137" href="ie/oireachtas/debateRecord/vol/446/col/676"/>
+          <oir:column eId="col_677" showAs="Col. 677" refersTo="#spk_435" href="ie/oireachtas/debateRecord/vol/446/col/677"/>
+          <oir:column eId="col_678" showAs="Col. 678" refersTo="#dbsect_139" href="ie/oireachtas/debateRecord/vol/446/col/678"/>
+          <oir:column eId="col_679" showAs="Col. 679" refersTo="#para_3471" href="ie/oireachtas/debateRecord/vol/446/col/679"/>
+          <oir:column eId="col_680" showAs="Col. 680" refersTo="#para_3476" href="ie/oireachtas/debateRecord/vol/446/col/680"/>
+          <oir:column eId="col_681" showAs="Col. 681" refersTo="#dbsect_142" href="ie/oireachtas/debateRecord/vol/446/col/681"/>
+          <oir:column eId="col_682" showAs="Col. 682" refersTo="#dbsect_145" href="ie/oireachtas/debateRecord/vol/446/col/682"/>
+          <oir:column eId="col_683" showAs="Col. 683" refersTo="#dbsect_146" href="ie/oireachtas/debateRecord/vol/446/col/683"/>
+          <oir:column eId="col_684" showAs="Col. 684" refersTo="#para_3498" href="ie/oireachtas/debateRecord/vol/446/col/684"/>
+          <oir:column eId="col_685" showAs="Col. 685" refersTo="#dbsect_150" href="ie/oireachtas/debateRecord/vol/446/col/685"/>
+          <oir:column eId="col_686" showAs="Col. 686" refersTo="#dbsect_151" href="ie/oireachtas/debateRecord/vol/446/col/686"/>
+          <oir:column eId="col_687" showAs="Col. 687" refersTo="#spk_453" href="ie/oireachtas/debateRecord/vol/446/col/687"/>
+          <oir:column eId="col_688" showAs="Col. 688" refersTo="#dbsect_154" href="ie/oireachtas/debateRecord/vol/446/col/688"/>
+          <oir:column eId="col_689" showAs="Col. 689" refersTo="#spk_459" href="ie/oireachtas/debateRecord/vol/446/col/689"/>
+          <oir:column eId="col_690" showAs="Col. 690" refersTo="#dbsect_156" href="ie/oireachtas/debateRecord/vol/446/col/690"/>
+          <oir:column eId="col_691" showAs="Col. 691" refersTo="#dbsect_158" href="ie/oireachtas/debateRecord/vol/446/col/691"/>
+          <oir:column eId="col_692" showAs="Col. 692" refersTo="#spk_464" href="ie/oireachtas/debateRecord/vol/446/col/692"/>
+          <oir:column eId="col_693" showAs="Col. 693" refersTo="#dbsect_160" href="ie/oireachtas/debateRecord/vol/446/col/693"/>
+          <oir:column eId="col_694" showAs="Col. 694" refersTo="#spk_466" href="ie/oireachtas/debateRecord/vol/446/col/694"/>
+          <oir:column eId="col_695" showAs="Col. 695" refersTo="#dbsect_163" href="ie/oireachtas/debateRecord/vol/446/col/695"/>
+          <oir:column eId="col_696" showAs="Col. 696" refersTo="#dbsect_165" href="ie/oireachtas/debateRecord/vol/446/col/696"/>
+          <oir:column eId="col_697" showAs="Col. 697" refersTo="#spk_471" href="ie/oireachtas/debateRecord/vol/446/col/697"/>
+          <oir:column eId="col_698" showAs="Col. 698" refersTo="#spk_471" href="ie/oireachtas/debateRecord/vol/446/col/698"/>
+          <oir:column eId="col_699" showAs="Col. 699" refersTo="#dbsect_166" href="ie/oireachtas/debateRecord/vol/446/col/699"/>
+          <oir:column eId="col_700" showAs="Col. 700" refersTo="#spk_472" href="ie/oireachtas/debateRecord/vol/446/col/700"/>
+          <oir:column eId="col_701" showAs="Col. 701" refersTo="#spk_473" href="ie/oireachtas/debateRecord/vol/446/col/701"/>
+          <oir:column eId="col_702" showAs="Col. 702" refersTo="#dbsect_169" href="ie/oireachtas/debateRecord/vol/446/col/702"/>
+          <oir:column eId="col_703" showAs="Col. 703" refersTo="#para_3594" href="ie/oireachtas/debateRecord/vol/446/col/703"/>
+          <oir:column eId="col_704" showAs="Col. 704" refersTo="#para_3598" href="ie/oireachtas/debateRecord/vol/446/col/704"/>
+          <oir:column eId="col_705" showAs="Col. 705" refersTo="#dbsect_173" href="ie/oireachtas/debateRecord/vol/446/col/705"/>
+          <oir:column eId="col_706" showAs="Col. 706" refersTo="#spk_480" href="ie/oireachtas/debateRecord/vol/446/col/706"/>
+          <oir:column eId="col_707" showAs="Col. 707" refersTo="#spk_481" href="ie/oireachtas/debateRecord/vol/446/col/707"/>
+          <oir:column eId="col_708" showAs="Col. 708" refersTo="#dbsect_177" href="ie/oireachtas/debateRecord/vol/446/col/708"/>
+          <oir:column eId="col_709" showAs="Col. 709" refersTo="#para_3676" href="ie/oireachtas/debateRecord/vol/446/col/709"/>
+          <oir:column eId="col_710" showAs="Col. 710" refersTo="#spk_485" href="ie/oireachtas/debateRecord/vol/446/col/710"/>
+          <oir:column eId="col_711" showAs="Col. 711" refersTo="#dbsect_181" href="ie/oireachtas/debateRecord/vol/446/col/711"/>
+          <oir:column eId="col_712" showAs="Col. 712" refersTo="#dbsect_183" href="ie/oireachtas/debateRecord/vol/446/col/712"/>
+          <oir:column eId="col_713" showAs="Col. 713" refersTo="#spk_489" href="ie/oireachtas/debateRecord/vol/446/col/713"/>
+          <oir:column eId="col_714" showAs="Col. 714" refersTo="#dbsect_185" href="ie/oireachtas/debateRecord/vol/446/col/714"/>
+          <oir:column eId="col_715" showAs="Col. 715" refersTo="#dbsect_187" href="ie/oireachtas/debateRecord/vol/446/col/715"/>
+          <oir:column eId="col_716" showAs="Col. 716" refersTo="#spk_494" href="ie/oireachtas/debateRecord/vol/446/col/716"/>
+          <oir:column eId="col_717" showAs="Col. 717" refersTo="#dbsect_190" href="ie/oireachtas/debateRecord/vol/446/col/717"/>
+          <oir:column eId="col_718" showAs="Col. 718" refersTo="#dbsect_192" href="ie/oireachtas/debateRecord/vol/446/col/718"/>
+          <oir:column eId="col_719" showAs="Col. 719" refersTo="#spk_498" href="ie/oireachtas/debateRecord/vol/446/col/719"/>
+          <oir:column eId="col_720" showAs="Col. 720" refersTo="#spk_499" href="ie/oireachtas/debateRecord/vol/446/col/720"/>
+          <oir:column eId="col_721" showAs="Col. 721" refersTo="#spk_500" href="ie/oireachtas/debateRecord/vol/446/col/721"/>
+          <oir:column eId="col_722" showAs="Col. 722" refersTo="#spk_500" href="ie/oireachtas/debateRecord/vol/446/col/722"/>
+          <oir:column eId="col_723" showAs="Col. 723" refersTo="#dbsect_196" href="ie/oireachtas/debateRecord/vol/446/col/723"/>
+          <oir:column eId="col_724" showAs="Col. 724" refersTo="#spk_502" href="ie/oireachtas/debateRecord/vol/446/col/724"/>
+          <oir:column eId="col_725" showAs="Col. 725" refersTo="#spk_503" href="ie/oireachtas/debateRecord/vol/446/col/725"/>
+          <oir:column eId="col_726" showAs="Col. 726" refersTo="#dbsect_200" href="ie/oireachtas/debateRecord/vol/446/col/726"/>
+          <oir:column eId="col_727" showAs="Col. 727" refersTo="#dbsect_202" href="ie/oireachtas/debateRecord/vol/446/col/727"/>
+          <oir:column eId="col_728" showAs="Col. 728" refersTo="#spk_508" href="ie/oireachtas/debateRecord/vol/446/col/728"/>
+          <oir:column eId="col_729" showAs="Col. 729" refersTo="#spk_510" href="ie/oireachtas/debateRecord/vol/446/col/729"/>
+          <oir:column eId="col_730" showAs="Col. 730" refersTo="#para_3903" href="ie/oireachtas/debateRecord/vol/446/col/730"/>
+          <oir:column eId="col_731" showAs="Col. 731" refersTo="#para_3908" href="ie/oireachtas/debateRecord/vol/446/col/731"/>
+          <oir:column eId="col_732" showAs="Col. 732" refersTo="#para_3913" href="ie/oireachtas/debateRecord/vol/446/col/732"/>
+          <oir:column eId="col_733" showAs="Col. 733" refersTo="#spk_516" href="ie/oireachtas/debateRecord/vol/446/col/733"/>
+          <oir:column eId="col_734" showAs="Col. 734" refersTo="#spk_517" href="ie/oireachtas/debateRecord/vol/446/col/734"/>
+          <oir:column eId="col_735" showAs="Col. 735" refersTo="#spk_518" href="ie/oireachtas/debateRecord/vol/446/col/735"/>
+          <oir:column eId="col_736" showAs="Col. 736" refersTo="#para_333" href="ie/oireachtas/debateRecord/vol/446/col/736"/>
+          <oir:column eId="col_737" showAs="Col. 737" refersTo="#spk_210" href="ie/oireachtas/debateRecord/vol/446/col/737"/>
+          <oir:column eId="col_738" showAs="Col. 738" refersTo="#dbsect_13" href="ie/oireachtas/debateRecord/vol/446/col/738"/>
+          <oir:column eId="col_739" showAs="Col. 739" refersTo="#dbsect_15" href="ie/oireachtas/debateRecord/vol/446/col/739"/>
+          <oir:column eId="col_740" showAs="Col. 740" refersTo="#spk_232" href="ie/oireachtas/debateRecord/vol/446/col/740"/>
+          <oir:column eId="col_741" showAs="Col. 741" refersTo="#spk_240" href="ie/oireachtas/debateRecord/vol/446/col/741"/>
+          <oir:column eId="col_742" showAs="Col. 742" refersTo="#dbsect_17" href="ie/oireachtas/debateRecord/vol/446/col/742"/>
+          <oir:column eId="col_743" showAs="Col. 743" refersTo="#spk_251" href="ie/oireachtas/debateRecord/vol/446/col/743"/>
+          <oir:column eId="col_744" showAs="Col. 744" refersTo="#spk_251" href="ie/oireachtas/debateRecord/vol/446/col/744"/>
+          <oir:column eId="col_745" showAs="Col. 745" refersTo="#spk_252" href="ie/oireachtas/debateRecord/vol/446/col/745"/>
+          <oir:column eId="col_746" showAs="Col. 746" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/746"/>
+          <oir:column eId="col_747" showAs="Col. 747" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/747"/>
+          <oir:column eId="col_748" showAs="Col. 748" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/748"/>
+          <oir:column eId="col_749" showAs="Col. 749" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/749"/>
+          <oir:column eId="col_750" showAs="Col. 750" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/750"/>
+          <oir:column eId="col_751" showAs="Col. 751" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/751"/>
+          <oir:column eId="col_752" showAs="Col. 752" refersTo="#spk_253" href="ie/oireachtas/debateRecord/vol/446/col/752"/>
+          <oir:column eId="col_753" showAs="Col. 753" refersTo="#dbsect_18" href="ie/oireachtas/debateRecord/vol/446/col/753"/>
+          <oir:column eId="col_754" showAs="Col. 754" refersTo="#spk_260" href="ie/oireachtas/debateRecord/vol/446/col/754"/>
+          <oir:column eId="col_755" showAs="Col. 755" refersTo="#spk_260" href="ie/oireachtas/debateRecord/vol/446/col/755"/>
+          <oir:column eId="col_756" showAs="Col. 756" refersTo="#spk_261" href="ie/oireachtas/debateRecord/vol/446/col/756"/>
+          <oir:column eId="col_757" showAs="Col. 757" refersTo="#spk_263" href="ie/oireachtas/debateRecord/vol/446/col/757"/>
+          <oir:column eId="col_758" showAs="Col. 758" refersTo="#spk_265" href="ie/oireachtas/debateRecord/vol/446/col/758"/>
+          <oir:column eId="col_759" showAs="Col. 759" refersTo="#spk_268" href="ie/oireachtas/debateRecord/vol/446/col/759"/>
+          <oir:column eId="col_760" showAs="Col. 760" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/760"/>
+          <oir:column eId="col_761" showAs="Col. 761" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/761"/>
+          <oir:column eId="col_762" showAs="Col. 762" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/762"/>
+          <oir:column eId="col_763" showAs="Col. 763" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/763"/>
+          <oir:column eId="col_764" showAs="Col. 764" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/764"/>
+          <oir:column eId="col_765" showAs="Col. 765" refersTo="#spk_269" href="ie/oireachtas/debateRecord/vol/446/col/765"/>
+          <oir:column eId="col_766" showAs="Col. 766" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/766"/>
+          <oir:column eId="col_767" showAs="Col. 767" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/767"/>
+          <oir:column eId="col_768" showAs="Col. 768" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/768"/>
+          <oir:column eId="col_769" showAs="Col. 769" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/769"/>
+          <oir:column eId="col_770" showAs="Col. 770" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/770"/>
+          <oir:column eId="col_771" showAs="Col. 771" refersTo="#spk_270" href="ie/oireachtas/debateRecord/vol/446/col/771"/>
+          <oir:column eId="col_772" showAs="Col. 772" refersTo="#spk_271" href="ie/oireachtas/debateRecord/vol/446/col/772"/>
+          <oir:column eId="col_773" showAs="Col. 773" refersTo="#spk_271" href="ie/oireachtas/debateRecord/vol/446/col/773"/>
+          <oir:column eId="col_774" showAs="Col. 774" refersTo="#spk_271" href="ie/oireachtas/debateRecord/vol/446/col/774"/>
+          <oir:column eId="col_775" showAs="Col. 775" refersTo="#spk_271" href="ie/oireachtas/debateRecord/vol/446/col/775"/>
+          <oir:column eId="col_776" showAs="Col. 776" refersTo="#spk_272" href="ie/oireachtas/debateRecord/vol/446/col/776"/>
+          <oir:column eId="col_777" showAs="Col. 777" refersTo="#dbsect_19" href="ie/oireachtas/debateRecord/vol/446/col/777"/>
+          <oir:column eId="col_778" showAs="Col. 778" refersTo="#spk_281" href="ie/oireachtas/debateRecord/vol/446/col/778"/>
+          <oir:column eId="col_779" showAs="Col. 779" refersTo="#spk_282" href="ie/oireachtas/debateRecord/vol/446/col/779"/>
+          <oir:column eId="col_780" showAs="Col. 780" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/780"/>
+          <oir:column eId="col_781" showAs="Col. 781" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/781"/>
+          <oir:column eId="col_782" showAs="Col. 782" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/782"/>
+          <oir:column eId="col_783" showAs="Col. 783" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/783"/>
+          <oir:column eId="col_784" showAs="Col. 784" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/784"/>
+          <oir:column eId="col_785" showAs="Col. 785" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/785"/>
+          <oir:column eId="col_786" showAs="Col. 786" refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/446/col/786"/>
+          <oir:column eId="col_787" showAs="Col. 787" refersTo="#spk_286" href="ie/oireachtas/debateRecord/vol/446/col/787"/>
+          <oir:column eId="col_788" showAs="Col. 788" refersTo="#spk_287" href="ie/oireachtas/debateRecord/vol/446/col/788"/>
+          <oir:column eId="col_789" showAs="Col. 789" refersTo="#spk_288" href="ie/oireachtas/debateRecord/vol/446/col/789"/>
+          <oir:column eId="col_790" showAs="Col. 790" refersTo="#spk_292" href="ie/oireachtas/debateRecord/vol/446/col/790"/>
+          <oir:column eId="col_791" showAs="Col. 791" refersTo="#spk_292" href="ie/oireachtas/debateRecord/vol/446/col/791"/>
+          <oir:column eId="col_792" showAs="Col. 792" refersTo="#spk_293" href="ie/oireachtas/debateRecord/vol/446/col/792"/>
+          <oir:column eId="col_793" showAs="Col. 793" refersTo="#spk_293" href="ie/oireachtas/debateRecord/vol/446/col/793"/>
+          <oir:column eId="col_794" showAs="Col. 794" refersTo="#spk_293" href="ie/oireachtas/debateRecord/vol/446/col/794"/>
+          <oir:column eId="col_795" showAs="Col. 795" refersTo="#spk_293" href="ie/oireachtas/debateRecord/vol/446/col/795"/>
+          <oir:column eId="col_796" showAs="Col. 796" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/796"/>
+          <oir:column eId="col_797" showAs="Col. 797" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/797"/>
+          <oir:column eId="col_798" showAs="Col. 798" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/798"/>
+          <oir:column eId="col_799" showAs="Col. 799" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/799"/>
+          <oir:column eId="col_800" showAs="Col. 800" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/800"/>
+          <oir:column eId="col_801" showAs="Col. 801" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/801"/>
+          <oir:column eId="col_802" showAs="Col. 802" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/802"/>
+          <oir:column eId="col_803" showAs="Col. 803" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/803"/>
+          <oir:column eId="col_804" showAs="Col. 804" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/804"/>
+          <oir:column eId="col_805" showAs="Col. 805" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/805"/>
+          <oir:column eId="col_806" showAs="Col. 806" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/806"/>
+          <oir:column eId="col_807" showAs="Col. 807" refersTo="#spk_294" href="ie/oireachtas/debateRecord/vol/446/col/807"/>
+          <oir:column eId="col_808" showAs="Col. 808" refersTo="#spk_297" href="ie/oireachtas/debateRecord/vol/446/col/808"/>
+          <oir:column eId="col_809" showAs="Col. 809" refersTo="#spk_297" href="ie/oireachtas/debateRecord/vol/446/col/809"/>
+          <oir:column eId="col_810" showAs="Col. 810" refersTo="#spk_297" href="ie/oireachtas/debateRecord/vol/446/col/810"/>
+          <oir:column eId="col_811" showAs="Col. 811" refersTo="#spk_297" href="ie/oireachtas/debateRecord/vol/446/col/811"/>
+          <oir:column eId="col_812" showAs="Col. 812" refersTo="#spk_297" href="ie/oireachtas/debateRecord/vol/446/col/812"/>
+          <oir:column eId="col_813" showAs="Col. 813" refersTo="#spk_298" href="ie/oireachtas/debateRecord/vol/446/col/813"/>
+          <oir:column eId="col_814" showAs="Col. 814" refersTo="#spk_304" href="ie/oireachtas/debateRecord/vol/446/col/814"/>
+          <oir:column eId="col_815" showAs="Col. 815" refersTo="#spk_307" href="ie/oireachtas/debateRecord/vol/446/col/815"/>
+          <oir:column eId="col_816" showAs="Col. 816" refersTo="#spk_307" href="ie/oireachtas/debateRecord/vol/446/col/816"/>
+          <oir:column eId="col_817" showAs="Col. 817" refersTo="#spk_308" href="ie/oireachtas/debateRecord/vol/446/col/817"/>
+          <oir:column eId="col_818" showAs="Col. 818" refersTo="#spk_309" href="ie/oireachtas/debateRecord/vol/446/col/818"/>
+          <oir:column eId="col_819" showAs="Col. 819" refersTo="#spk_309" href="ie/oireachtas/debateRecord/vol/446/col/819"/>
+          <oir:column eId="col_820" showAs="Col. 820" refersTo="#spk_310" href="ie/oireachtas/debateRecord/vol/446/col/820"/>
+          <oir:column eId="col_821" showAs="Col. 821" refersTo="#spk_310" href="ie/oireachtas/debateRecord/vol/446/col/821"/>
+          <oir:column eId="col_822" showAs="Col. 822" refersTo="#spk_313" href="ie/oireachtas/debateRecord/vol/446/col/822"/>
+          <oir:column eId="col_823" showAs="Col. 823" refersTo="#spk_313" href="ie/oireachtas/debateRecord/vol/446/col/823"/>
+          <oir:column eId="col_824" showAs="Col. 824" refersTo="#spk_314" href="ie/oireachtas/debateRecord/vol/446/col/824"/>
+          <oir:column eId="col_825" showAs="Col. 825" refersTo="#spk_315" href="ie/oireachtas/debateRecord/vol/446/col/825"/>
+          <oir:column eId="col_826" showAs="Col. 826" refersTo="#spk_315" href="ie/oireachtas/debateRecord/vol/446/col/826"/>
+          <oir:column eId="col_827" showAs="Col. 827" refersTo="#spk_315" href="ie/oireachtas/debateRecord/vol/446/col/827"/>
+          <oir:column eId="col_828" showAs="Col. 828" refersTo="#spk_316" href="ie/oireachtas/debateRecord/vol/446/col/828"/>
+          <oir:column eId="col_829" showAs="Col. 829" refersTo="#spk_316" href="ie/oireachtas/debateRecord/vol/446/col/829"/>
+          <oir:column eId="col_830" showAs="Col. 830" refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/446/col/830"/>
+          <oir:column eId="col_831" showAs="Col. 831" refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/446/col/831"/>
+          <oir:column eId="col_832" showAs="Col. 832" refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/446/col/832"/>
+        </otherAnalysis>
+      </analysis>
+      <references source="#source">
+        <TLCOrganization eId="source" href="" showAs="Houses of the Oireachtas"/>
+        <TLCConcept eId="generation" href="/ie/oireachtas/ontology#Generation" showAs="Generation"/>
+        <TLCConcept eId="publication" href="/ie/oireachtas/ontology#Publication" showAs="Publication"/>
+        <TLCConcept eId="reported" href="/ie/oireachtas/ontology#Reported" showAs="Reported"/>
+        <TLCPerson eId="AvrilDoyle" href="/ie/oireachtas/member/id/Avril-Doyle.D.1982-12-14" showAs="Avril Doyle"/>
+        <TLCPerson eId="DinnyMcGinley" href="/ie/oireachtas/member/id/Dinny-McGinley.D.1982-03-09" showAs="Dinny McGinley"/>
+        <TLCPerson eId="EamonGilmore" href="/ie/oireachtas/member/id/Eamon-Gilmore.D.1989-06-29" showAs="Eamon Gilmore"/>
+        <TLCPerson eId="FrancesFitzgerald" href="/ie/oireachtas/member/id/Frances-Fitzgerald.D.1992-12-14" showAs="Frances Fitzgerald"/>
+        <TLCPerson eId="GayMitchell" href="/ie/oireachtas/member/id/Gay-Mitchell.D.1981-06-30" showAs="Gay Mitchell"/>
+        <TLCPerson eId="JimMitchell" href="/ie/oireachtas/member/id/Jim-Mitchell.D.1977-07-05" showAs="Jim Mitchell"/>
+        <TLCPerson eId="JoeJacob" href="/ie/oireachtas/member/id/Joe-Jacob.D.1987-03-10" showAs="Joe Jacob"/>
+        <TLCPerson eId="JohnBruton" href="/ie/oireachtas/member/id/John-Bruton.D.1969-07-02" showAs="John Bruton"/>
+        <TLCPerson eId="LizODonnell" href="/ie/oireachtas/member/id/Liz-O'Donnell.D.1992-12-14" showAs="Liz O'Donnell"/>
+        <TLCPerson eId="MaireGeoghehanQuinn" href="/ie/oireachtas/member/id/Máire-Geoghegan-Quinn.D.1975-03-04" showAs="Máire Geoghegan-Quinn"/>
+        <TLCPerson eId="PJSheenan" href="/ie/oireachtas/member/id/P-J-Sheehan.D.1981-06-30" showAs="P. J. Sheehan"/>
+        <TLCPerson eId="PatRabbitte" href="/ie/oireachtas/member/id/Pat-Rabbitte.D.1989-06-29" showAs="Pat Rabbitte"/>
+        <TLCPerson eId="PaulBradford" href="/ie/oireachtas/member/id/Paul-Bradford.S.1987-04-25" showAs="Paul Bradford"/>
+        <TLCPerson eId="PaulConnaughton" href="/ie/oireachtas/member/id/Paul-Connaughton.S.1977-10-27" showAs="Paul Connaughton"/>
+        <TLCPerson eId="PhilipHogan" href="/ie/oireachtas/member/id/Phil-Hogan.S.1987-04-25" showAs="Phil Hogan"/>
+        <TLCPerson eId="RichardBruton" href="/ie/oireachtas/member/id/Richard-Bruton.S.1981-10-08" showAs="Richard Bruton"/>
+        <TLCPerson eId="RobertMolloy" href="/ie/oireachtas/member/id/Robert-Molloy.D.1965-04-21" showAs="Robert Molloy"/>
+        <TLCPerson eId="SeanBarrett" href="/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30" showAs="Seán Barrett"/>
+        <TLCRole eId="Leas-Cheann_Comhairle" href="/ie/oireachtas/role/office/leas-cheann_comhairle" showAs="Leas-Cheann Comhairle"/>
+        <TLCRole eId="Minister_for_Justice" href="/ie/oireachtas/role/minister/justice" showAs="Minister for Justice"/>
+        </references>
+    </meta>
+    <preface>
+      <block name="title_ga">
+        <docTitle>DÍOSPÓIREACHTAÍ PARLAIMINTE</docTitle>
+      </block>
+      <block name="title_en">
+        <docTitle>PARLIAMENTARY DEBATES</docTitle>
+      </block>
+      <block name="proponent_ga">
+        <docProponent>DÁIL ÉIREANN</docProponent>
+      </block>
+      <block name="status_ga">
+        <docStatus>TUAIRISC OIFIGIÚIL</docStatus>
+      </block>
+      <block name="status_en">
+        <docStatus>(OFFICIAL REPORT)</docStatus>
+      </block>
+      <block name="date_ga">
+        <docDate date="1994-10-25">Dé Máirt, 25 Deireadh Fómhair 1994</docDate>
+      </block>
+      <block name="date_en">
+        <docDate date="1994-10-25">Tuesday, 25 October 1994</docDate>
+      </block>
+      <block name="volume">
+        <docNumber refersTo="#vol_446">Vol. 446</docNumber>
+      </block>
+      <block name="number">
+        <docNumber refersTo="#no_3">No. 3</docNumber>
+      </block>
+    </preface>
+    <debateBody><debateSection name="question" eId="dbsect_10">
+        <heading>Ceisteanna—Questions.   Oral Answers. - Citizenship Applications.</heading>
+        <question by="#DinnyMcGinley" to="#Minister_for_Justice" eId="pq_26">
+          <p eId="para_208">
+      34
+      <b>Mr. McGinley</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1931/94]
+    </p>
+        </question>
+        <question by="#PhilipHogan" to="#Minister_for_Justice" eId="pq_27">
+          <p eId="para_209">
+      45
+      <b>Mr. Hogan</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June, 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1927/94]
+    </p>
+        </question>
+        <question by="#PJSheenan" to="#Minister_for_Justice" eId="pq_28">
+          <p eId="para_210">
+      51
+      <b>Mr. Sheehan</b>
+      asked the 
+      <b>Minister for Justice</b>
+      if the terms of reference for the advisory group to examine applications for citizenship have been agreed by the Government.
+      [1919/94]
+    </p>
+        </question>
+        <question by="#JimMitchell" to="#Minister_for_Justice" eId="pq_29">
+          <p eId="para_211">
+      57
+      <b>Mr. J. Mitchell</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June, 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1932/94]
+    </p>
+        </question>
+        <question by="#RichardBruton" to="#Minister_for_Justice" eId="pq_30">
+          <p eId="para_212">
+      58
+      <b>Mr. R. Bruton</b>
+      asked the 
+      <b>Minister for Justice</b>
+      when the terms of reference for the group which will advise her on the question of investment based on naturalisation are likely to be published.
+      [1916/94]
+    </p>
+        </question>
+        <question by="#PaulBradford" to="#Minister_for_Justice" eId="pq_31">
+          <p eId="para_213">
+      69
+      <b>Mr. Bradford</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June, 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1928/94]
+    </p>
+        </question>
+        <question by="#PaulConnaughton" to="#Minister_for_Justice" eId="pq_32">
+          <p eId="para_214">
+      72
+      <b>Mr. Connaughton</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June, 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1933/94]
+    </p>
+        </question>
+        <question by="#FrancesFitzgerald" to="#Minister_for_Justice" eId="pq_33">
+          <p eId="para_215">
+      83
+      <b>Ms F. Fitzgerald</b>
+      asked the 
+      <b>Minister for Justice</b>
+      when she asked the interdepartmental committee set up to examine procedures in the aliens division of her Department to examine the issue of the granting of citizenship under the business migration scheme.
+      [1935/94]
+    </p>
+        </question>
+        <question by="#SeanBarrett" to="#Minister_for_Justice" eId="pq_34">
+          <p eId="para_216">
+      87
+      <b>Mr. Barrett</b>
+      asked the 
+      <b>Minister for Justice</b>
+      if applications for citizenship based on investment have been approved since 1 June 1994; and, if so, the number of such applications.
+      [1918/94]
+    </p>
+        </question>
+        <question by="#PJSheenan" to="#Minister_for_Justice" eId="pq_35">
+          <p eId="para_217">
+      88
+      <b>Mr. Sheehan</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1929/94]
+    </p>
+        </question>
+        <question by="#AvrilDoyle" to="#Minister_for_Justice" eId="pq_36">
+          <p eId="para_218">
+      89
+      <b>Mrs. Doyle</b>
+      asked the 
+      <b>Minister for Justice,</b>
+      arising from her reply to parliamentary questions 66, 74 and 75 of 14 June, 1994, the number of the 39 applications for citizenship in the years 1992 to 1994 that were approved on the basis of drop payments or soft loans to Irish companies rather than shareholding investment.
+      [1930/94]
+    </p>
+        </question>
+        <question by="#PatRabbitte" to="#Minister_for_Justice" eId="pq_37">
+          <p eId="para_219">
+      101
+      <b>Mr. Rabbitte</b>
+      asked the 
+      <b>Minister for Justice</b>
+      the number of applications for naturalisation received so far this year under the business migration scheme; the number granted; if she has received the report of the interdepartmental committee which was charged with examining the scheme; the changes, if any, she plans to make in regard to the operation of the business migration scheme; and if she will make a statement on the matter.
+      [1943/94]
+    </p>
+        </question>
+        <question by="#JohnBruton" to="#Minister_for_Justice" eId="pq_38">
+          <p eId="para_220">
+      178
+      <b>Mr. J. Bruton</b>
+      asked the 
+      <b>Minister for Justice</b>
+      when the Government decision was made on the working rules for the granting of citizenship referred to by her in the Official Report of Debates Vol. 443, No. 8. Column 1785.
+      [2179/94]
+    </p>
+        </question>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_131">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_221">I propose to take Questions Nos. 34, 45, 51, 57, 58, 69, 72, 83, 87, 88, 89, 101 and 178 together.</p>
+          <p eId="para_222">I would like to take the opportunity in answering these questions, all of which relate to the issue of investment-linked naturalisation, to report back to the House on developments in relation  to matters which I outlined on 15 June 1994 in response to questions on this issue.</p>
+          <p eId="para_223">On that occasion, I referred to the advisory group on investment-linked naturalisation which the Government had, at my request, earlier established. I made this request to the Government because I considered it important that I have available in respect of such applications the advice of appropriately qualified people.  The group consists of representatives of my Department, the Department of Foreign Affairs, Enterprise and Employment, Finance and the Government agency engaged in the support and development of indigenous industry, Forbairt.</p>
+          <p eId="para_224">In establishing the group, the Government also decided that the Minister for Justice should bring its terms of reference to Government at an early date.</p>
+          <p eId="para_225">In June, I informed the House that a Cabinet sub-committee consisting of the Tánaiste and Minister for Foreign Affairs, the Minister for Enterprise and Employment and the Minister for Justice had been formed specially to advise the Government on the terms of reference for the advisory group.  I undertook to make the terms of reference of the advisory group known publicly when they had been settled by the Government.  I am now pleased to say that the Government has approved the terms of reference for the group and they are as follows:</p>
+          <p eId="para_226">First, to consider applications for naturalisation based on investment in the State received by the Minister for Justice and referred to the group and to make recommendations to the Minister based on the group's assessment of the job-creating or job-maintenance capacity of the investment; second, the group will examine each application for naturalisation based on investment, with the assistance of evaluation/advice from relevant agencies where necessary and, in making its recommendations, will apply the following criteria:— (a) substantial  residence must be purchased and retained in ownership for a period of at least five years with an undertaking to reside in the State for a minimum of 60 days in the two years following naturalisation; (b) the level of investment must involve a net contribution of at least £1 million per applicant; (c) where the investment is in the form of a loan it shall be for a duration of at least seven years at an interest rate not greater than 1 per cent below the representative Government bond yield on the secondary market, or not greater than 1 per cent below DIBOR, whichever is lower.  The loan shall be made by the applicant direct to the firm concerned, without involvement by any intermediary.</p>
+          <p eId="para_227">The terms of reference continue:</p>
+          <p eId="para_228">The loan arrangement shall be transparent and open to scrutiny and shall be such as to prevent the loan being factored or sold on.  The loan shall not be secured by the assets of the company in which the investjyment is to be made; (d) as ordinary naturalisation would be for life, the duration of the investment should be for a significant period: at the very least five years; (e) the number of jobs created or maintained must be readily quantifiable and arise from the investment only; (f) audited and certified confirmation of the investment to be available to the group from an established auditing firm of accountants to the effect that the investment has taken place in accordance with the rules of the scheme for naturalisation; (g) the investment will be monitored by Forfás to ensure that the conditions of the investment are being maintained and, in the event that they are not, will inform the group who, in turn, will inform the Minister for Justice with a view to revocation of citizenship; (h) police certificate of character must be provided by authorities in country of origin — and, if required, from the police in any country where the applicant has resided or carried on business or  maintained substantial investments — together with express permission to the authorities in Ireland to inquire behind it, and (i) annual certification by the established auditing firm of accountants to Forfás that the investment is being maintained for the appropriate period.</p>
+          <p eId="para_229">The Government has also decided that the scheme of investment-based naturalisation should be put on a statutory basis and that priority should be given to the preparation of the necessary legislation.</p>
+          <p eId="para_230">The task of examining this proposed legislation was given in June to the interdepartmental committee established in 1993 to examine policy and practice with regard to non-nationals. The committee has been asked to consider the Government decision in the context of its comprehensive review of legislation in this area generally. The committee will report on the matter when it has reviewed all aspects of it.</p>
+          <p eId="para_231">In the meantime, and to ensure valuable job-creating investment opportunities are not lost to the State, the Government has agreed that the Minister for Justice may continue to make decisions on investment-based naturalisation applications acting on the recommendations of the advisory group which will operate on the basis of the terms of reference to which I have just referred and which have, of course, the approval of the Government.</p>
+          <p eId="para_232">There is a further matter which I wish to bring to the attention of the House. In my response on 15 June, I also indicated that no further investment-based naturalisation would be decided by me until the advisory group was fully operational and in position to give me its advice on each case.</p>
+          <p eId="para_233">As I indicated to the House in June, seven applications for naturalisation on the basis of investment had been granted at that stage in 1994.  However, there were also on hand 29 applications which had been approved in principle.  The Government decided that the papers in relation to the 29 applications should be referred to the Attorney General for advice as to whether there existed a legal obligation to naturalise these applicants.  The Attorney General advised that I was legally bound to grant the applications provided all the necessary conditions were met.</p>
+          <p eId="para_234">The necessary conditions of course were specific to each application but in general required that this investment has been made, that a residence has been purchased and that the applicant has given an undertaking to spend a reasonable amount of time in the State. The conditions also include the statutory requirement that an oath of loyalty and fidelity to the State be sworn in the prescribed manner and that the statutory naturalisation fee be paid.</p>
+          <p eId="para_235">Accordingly, I propose to issue certificates of naturalisation to the applicants concerned if they satisfy me that they have fulfilled all the necessary requirements.  The list of persons naturalised will be published in <i>Iris Oifigiúil</i> in the prescribed manner.</p>
+          <p eId="para_236">Pending the enactment of specific legislation in the matter all future applications including the remaining applications on hand of course, will now be dealt with as I have indicated, that is, they will be examined by the advisory group which will, acting on the basis of the approved terms of reference, make recommendations to me as to whether the application should be granted or not.</p>
+          <p eId="para_237">Now, turning to some of the more specific aspects of the questions, of the 39 applicants approved in the periods 1992, 1993 and up to 15 June, 25 of these applications were based on low interest loan facilities given to Irish-based companies and a further two applications were based on combined low interest loan facilities and share investments.  However, in researching this question, officials of my Department have informed me the figure given to me previously for 1992 of 17 applications granted in fact, should have  been 20.  The additional three applicants were granted on the basis of investment in forestry.</p>
+          <p eId="para_238">A total of 22 applications have been received to date in 1994.  One application only has been approved since 1 June 1994.  This application was based on a £1 million investment which a company in County Limerick needed to save approximately 100 jobs and to create an additional 82 jobs.  I received representations from a broad range of political interests in support of this case. The circumstances were so compelling and, in an effort to secure the employment of the 100 employees, I asked the advisory group in August to meet and consider the application operating on the basis of the approved terms of reference.</p>
+          <p eId="para_239">I would obviously have preferred not to take this step until after I had an opportunity to announce the terms of reference to the House, but on balance I felt that Deputies would not thank me for sticking too rigidly to protocol at the risk of seeing approximately 100 people lose their jobs in County Limerick.</p>
+          <p eId="para_240">Deputy Bruton has asked me specifically when the Government decision was made on the working rules for the granting of citizenship as referred to by me in the House on 15 June last. However, I would remind the Deputy of exactly what I said on that occasion which, in fact, is accurately reflected in the Dáil Official Report.  I said that the scheme which we had then is the scheme which has existed since the Government decided that inward-based investment should constitute grounds for deeming the investment to have qualified for naturalisation on the basis of what the legislation describes as "Irish associations".</p>
+          <p eId="para_241">The Department of Justice itself had adopted certain working rules, the more important which were that an investment of about £500,000 would be required and that the applicants would demonstrate an intention of residing in the State by purchasing a residence.  Although these working rules were submitted to the Government, the Government decision was that the question of granting or refusing naturalisation in individual cases should be left in the absolute discretion of the Minister for Justice.  Despite this, Justice Ministers operated on the basis that investments of the order mentioned would be required and that intention to reside in the country for a reasonable period — to be evidenced, basically, by the purchase of a residence — would also be required.</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_132">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_242">In reply to a previous question put by me on this matter the Minister informed the House that to be eligible under this scheme it is necessary to have a residence and to live here.  I note the Minister has not taken Question No. 43 in relation to 11 Arabs on the Glenmore House soccer team in County Meath but it will be taken later. Given the Minister's comprehensive reply I wish to ask a number of supplementary questions.  Will she indicate how many jobs have been generated by the business migration scheme during the past eight years and how the Government measures its success? Given that 39 applications have been granted to date, will the Minister indicate if it is a worth while scheme and if it has worked well?  Will she indicate the level of investment in companies under that scheme to date and if such investment was made by way of share capital or soft loans?  Will the Minister agree that the proposed ethics commission under the Ethics in Public Office Bill should be allowed consider all applicants who have been naturalised and granted payments since the introduction of the scheme?  Will she inform the House how many of those applicants were intimately known by the Minister for the Environment, other Ministers or TDs?</p>
+        </speech>
+        <speech by="#JoeJacob" as="#Leas-Cheann_Comhairle" eId="spk_133">
+          <from>An Leas-Cheann Comhairle</from>
+          <p eId="para_243">I ask the Deputy to be brief as I wish to accommodate other Deputies.</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_134">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_244">The Minister took ten minutes to reply to a dozen questions.</p>
+        </speech>
+        <speech by="#JoeJacob" as="#Leas-Cheann_Comhairle" eId="spk_135">
+          <from>An Leas-Cheann Comhairle</from>
+          <p eId="para_245">The Chair does not have control over Ministers' replies.</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_136">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_246">It should not have control over parliamentary questioning either.  That is the purpose for which we are here.  Will the Minister agree that the files opened under this scheme during the past eight years should be passed to the proposed ethics commission and it should report to the House on the matter because of widespread concern about the manner in which the scheme has operated and, in particular, how it has benefited a member of the Government, a matter about which the House will hear more?</p>
+        </speech>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_137">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_247">I gave a comprehensive reply because a number of Deputies asked details about the new scheme, its terms of reference and the qualifying conditions for naturalisation based on investment here.  The new scheme has been introduced because people, including members of the Government, were concerned that there was not the required level of openness and transparency.  I do not have answers to Deputy Mitchell's questions in regard to the number of jobs created or the measure of the success of the scheme. The new scheme has been set up to provide such answers.  It will indicate how many jobs will be created as a result of specific investments not because of a grant given by the IDA, Forfás or Fobairt.  The information requested by Deputy Mitchell and others will be available in respect of future applications that come before the Minister for Justice that will be referred to the advisory group for decision.</p>
+          <p eId="para_248">In regard to whether the scheme was worthwhile, whenever the scheme was discussed in the House I gathered that all Opposition Members were opposed to it, that it had not operated well and  that it lacked openness and transparency. I gave a commitment in the House that I would not make decisions in relation to new applications until such time as I informed the House of the new terms of reference.  Shortly after I gave that commitment, a company in County Limerick identified a proposed overseas investor who wished to be naturalised on the basis of his investment in that company.  It is interesting that many people took the time to telephone me, to speak to me personally, to telephone a number of my colleagues and to put in writing requests that I should in extraordinary and exceptional circumstances such as this case support the application and do what I told the House I would not do. They encouraged me in every possible way to make a positive decision in relation to that company.  I resisted those entreaties until such time as it became apparent that many Opposition Members were concerned about that investment and because I considered that 100 jobs in the company would be lost if I did not make a decision.</p>
+        </speech>
+        <speech by="#LizODonnell" eId="spk_138">
+          <from>Ms O'Donnell</from>
+          <p eId="para_249">It did not benefit a member of the Cabinet.</p>
+        </speech>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_139">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_250">That scheme must have been fairly worth while if members of Deputy Mitchell's party and, in particular, members of the Progressive Democrats at a high level were prepared to make representations to me.</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_140">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_251">That scheme was far more beneficial to members of the Cabinet than to the Opposition.</p>
+        </speech>
+        <speech by="#JoeJacob" as="#Leas-Cheann_Comhairle" eId="spk_141">
+          <from>An Leas-Cheann Comhairle</from>
+          <p eId="para_252">I wish to accommodate the two Deputies offering. I call Deputy Liz O'Donnell.</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_142">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_253">The scheme was a million times better for members of the Cabinet than it was for members of the Opposition.</p>
+        </speech>
+        <speech by="#LizODonnell" eId="spk_143">
+          <from>Ms O'Donnell</from>
+          <p eId="para_254">I believe the Minister was being facetious and disingenuous in her last statement.  Will she indicate if the advisory group which sought to improve the business migration scheme made a fundamental recommendation in that regard, namely, that a member of the Cabinet should not avail of the scheme for the purpose of investing in his or her company?  Surely the original complaint about the scheme arose because it was abused by a member of the Government.</p>
+        </speech>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_144">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_255">I disagree with Deputy O'Donnell.  It has been made crystal clear by me, members of the Government and particularly by the individual concerned, the Taoiseach, that he personally was not a beneficiary as a result of an investment made in a family-owned company.</p>
+        </speech>
+        <speech by="#LizODonnell" eId="spk_145">
+          <from>Ms O'Donnell</from>
+          <p eId="para_256">His wife was.</p>
+        </speech>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_146">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_257">During a debate of the Select Committee on Legislation and Security I said it would be a terrible tragedy if, for example, a law company were deprived of support under a scheme such as this purely on the basis that one of its former partners had become a member of the Government. One company cannot be treated differently from another.  It would be grossly unfair to a company and its employees to exclude it from the scheme because its previous managing director had entered politics and became a member of the Cabinet.</p>
+        </speech>
+        <speech by="#RobertMolloy" eId="spk_147">
+          <from>Mr. Molloy</from>
+          <p eId="para_258">That is total rubbish.</p>
+        </speech>
+        <speech by="#LizODonnell" eId="spk_148">
+          <from>Ms O'Donnell</from>
+          <p eId="para_259">Is the Minister denying that there was a conflict between self-interest and public interest?</p>
+        </speech>
+        <speech by="#GayMitchell" eId="spk_149">
+          <from>Mr. G. Mitchell</from>
+          <p eId="para_260">The Minister did not answer my question in respect of the number of applicants who were intimately known by members of the Government.</p>
+        </speech>
+        <speech by="#EamonGilmore" eId="spk_150">
+          <from>Mr. Gilmore</from>
+          <p eId="para_261">Will the Minister indicate how many of the 25 cases of soft loans would have qualified under the new criteria she announced today and if the soft loan arrangement made by the investor with the Taoiseach's family firm would have qualified under those arrangements?  Will the Minister accept that most people value their citizenship and are concerned that citizenship is for sale at any price?  Will she agree that, instead of introducing legislation to govern the business migration scheme, it would be better to introduce legislation to provide for a uniform system of dealing with all applications for citizenship, irrespective of whether they come from a penniless migrant or a wealthy investor?</p>
+        </speech>
+        <speech by="#MaireGeoghehanQuinn" eId="spk_151">
+          <from>Mrs. Geoghegan-Quinn</from>
+          <p eId="para_262">The primary use made of this scheme, and I presume will be made of the scheme in future under the new terms of reference, criteria and conditions, is to save existing jobs and to create new jobs in a company. Under the old scheme there was no requirement to quantify the number of jobs saved or created.  Under the new scheme there will be a condition whereby the number of jobs retained or created will have to be specifically quantified and that will exclude any grant facility that might be made available to the company.</p>
+          <p eId="para_263">On the soft loan arrangements, I do not have the information as to how many of the 25 cases would have qualified under the new scheme.  I do not have the companies' names or the type or amount of loan made in each case. Deputy Gilmore will agree that in the last 20 months many changes were made by the Department of Justice in the area of immigration and naturalisation. The Refugee Bill is being discussed by the Select Committee on Legislation and Security.  The terms of reference, conditions and criteria of the new scheme will be set down in law. When I became Minister for Justice I said I was unhappy with the way we dealt with the general naturalisation of individuals.  I felt this system should be  more open and transparent, and that is the intention in all legislation in this area.</p>
+        </speech>
+      </debateSection>
+      </debateBody></debate>
+</akomaNtoso>

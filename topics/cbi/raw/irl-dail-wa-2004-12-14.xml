@@ -1,0 +1,503 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 ./akomantoso30.xsd ">
+  <debate name="Official Report">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2004-12-14/writtens/dbsect_217"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2004-12-14/writtens"/>
+          <FRBRdate date="2004-12-14" name="#generation"/>
+          <FRBRauthor href="/ie/oireachtas/house/dail/29"/>
+          <FRBRcountry value="ie"/>
+          <FRBRname value="writtens"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2004-12-14/writtens/mul@/dbsect_217"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2004-12-14/writtens/mul@"/>
+          <FRBRdate date="2004-12-14" name="#reported"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+          <FRBRlanguage language="mul"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2004-12-14/writtens/mul@/dbsect_217.xml"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2004-12-14/writtens/mul@.akn"/>
+          <FRBRdate date="2020-06-25" name="#publication"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+        </FRBRManifestation>
+      </identification>
+      <analysis source="#source">
+        <parliamentary>
+          <voting eId="vote_3" href="#sum_31">
+            <count eId="vote_3-count_1" value="30" refersTo="#ta" href="#qty_5"/>
+            <count eId="vote_3-count_2" value="64" refersTo="#nil" href="#qty_6"/>
+          </voting>
+          </parliamentary>
+        <otherAnalysis xmlns:oir="https://data.oireachtas.ie/ns/1.0" source="#source">
+          <oir:volumeReference href="ie/oireachtas/debateRecord/vol/595" eId="#vol_595" showAs="Vol. 595"/>
+          <oir:numberReference href="ie/oireachtas/debateRecord/vol/595/no/2" eId="#no_2" showAs="No. 2"/>
+          <oir:column refersTo="#None" href="ie/oireachtas/debateRecord/vol/595/col/241" eId="col_241" showAs="Col. 241"/>
+          <oir:column refersTo="#para_6" href="ie/oireachtas/debateRecord/vol/595/col/242" eId="col_242" showAs="Col. 242"/>
+          <oir:column refersTo="#para_11" href="ie/oireachtas/debateRecord/vol/595/col/243" eId="col_243" showAs="Col. 243"/>
+          <oir:column refersTo="#para_17" href="ie/oireachtas/debateRecord/vol/595/col/244" eId="col_244" showAs="Col. 244"/>
+          <oir:column refersTo="#dbsect_3" href="ie/oireachtas/debateRecord/vol/595/col/245" eId="col_245" showAs="Col. 245"/>
+          <oir:column refersTo="#para_30" href="ie/oireachtas/debateRecord/vol/595/col/246" eId="col_246" showAs="Col. 246"/>
+          <oir:column refersTo="#para_37" href="ie/oireachtas/debateRecord/vol/595/col/247" eId="col_247" showAs="Col. 247"/>
+          <oir:column refersTo="#para_43" href="ie/oireachtas/debateRecord/vol/595/col/248" eId="col_248" showAs="Col. 248"/>
+          <oir:column refersTo="#para_52" href="ie/oireachtas/debateRecord/vol/595/col/249" eId="col_249" showAs="Col. 249"/>
+          <oir:column refersTo="#para_54" href="ie/oireachtas/debateRecord/vol/595/col/250" eId="col_250" showAs="Col. 250"/>
+          <oir:column refersTo="#dbsect_4" href="ie/oireachtas/debateRecord/vol/595/col/251" eId="col_251" showAs="Col. 251"/>
+          <oir:column refersTo="#para_70" href="ie/oireachtas/debateRecord/vol/595/col/252" eId="col_252" showAs="Col. 252"/>
+          <oir:column refersTo="#dbsect_5" href="ie/oireachtas/debateRecord/vol/595/col/253" eId="col_253" showAs="Col. 253"/>
+          <oir:column refersTo="#dbsect_5" href="ie/oireachtas/debateRecord/vol/595/col/254" eId="col_254" showAs="Col. 254"/>
+          <oir:column refersTo="#dbsect_5" href="ie/oireachtas/debateRecord/vol/595/col/255" eId="col_255" showAs="Col. 255"/>
+          <oir:column refersTo="#para_131" href="ie/oireachtas/debateRecord/vol/595/col/256" eId="col_256" showAs="Col. 256"/>
+          <oir:column refersTo="#para_136" href="ie/oireachtas/debateRecord/vol/595/col/257" eId="col_257" showAs="Col. 257"/>
+          <oir:column refersTo="#para_143" href="ie/oireachtas/debateRecord/vol/595/col/258" eId="col_258" showAs="Col. 258"/>
+          <oir:column refersTo="#para_147" href="ie/oireachtas/debateRecord/vol/595/col/259" eId="col_259" showAs="Col. 259"/>
+          <oir:column refersTo="#para_154" href="ie/oireachtas/debateRecord/vol/595/col/260" eId="col_260" showAs="Col. 260"/>
+          <oir:column refersTo="#para_160" href="ie/oireachtas/debateRecord/vol/595/col/261" eId="col_261" showAs="Col. 261"/>
+          <oir:column refersTo="#spk_89" href="ie/oireachtas/debateRecord/vol/595/col/262" eId="col_262" showAs="Col. 262"/>
+          <oir:column refersTo="#spk_89" href="ie/oireachtas/debateRecord/vol/595/col/263" eId="col_263" showAs="Col. 263"/>
+          <oir:column refersTo="#spk_89" href="ie/oireachtas/debateRecord/vol/595/col/264" eId="col_264" showAs="Col. 264"/>
+          <oir:column refersTo="#para_184" href="ie/oireachtas/debateRecord/vol/595/col/265" eId="col_265" showAs="Col. 265"/>
+          <oir:column refersTo="#para_189" href="ie/oireachtas/debateRecord/vol/595/col/266" eId="col_266" showAs="Col. 266"/>
+          <oir:column refersTo="#spk_89" href="ie/oireachtas/debateRecord/vol/595/col/267" eId="col_267" showAs="Col. 267"/>
+          <oir:column refersTo="#dbsect_13" href="ie/oireachtas/debateRecord/vol/595/col/268" eId="col_268" showAs="Col. 268"/>
+          <oir:column refersTo="#para_209" href="ie/oireachtas/debateRecord/vol/595/col/269" eId="col_269" showAs="Col. 269"/>
+          <oir:column refersTo="#para_212" href="ie/oireachtas/debateRecord/vol/595/col/270" eId="col_270" showAs="Col. 270"/>
+          <oir:column refersTo="#para_221" href="ie/oireachtas/debateRecord/vol/595/col/271" eId="col_271" showAs="Col. 271"/>
+          <oir:column refersTo="#para_228" href="ie/oireachtas/debateRecord/vol/595/col/272" eId="col_272" showAs="Col. 272"/>
+          <oir:column refersTo="#dbsect_15" href="ie/oireachtas/debateRecord/vol/595/col/273" eId="col_273" showAs="Col. 273"/>
+          <oir:column refersTo="#dbsect_15" href="ie/oireachtas/debateRecord/vol/595/col/274" eId="col_274" showAs="Col. 274"/>
+          <oir:column refersTo="#spk_163" href="ie/oireachtas/debateRecord/vol/595/col/275" eId="col_275" showAs="Col. 275"/>
+          <oir:column refersTo="#spk_165" href="ie/oireachtas/debateRecord/vol/595/col/276" eId="col_276" showAs="Col. 276"/>
+          <oir:column refersTo="#spk_167" href="ie/oireachtas/debateRecord/vol/595/col/277" eId="col_277" showAs="Col. 277"/>
+          <oir:column refersTo="#dbsect_18" href="ie/oireachtas/debateRecord/vol/595/col/278" eId="col_278" showAs="Col. 278"/>
+          <oir:column refersTo="#spk_186" href="ie/oireachtas/debateRecord/vol/595/col/279" eId="col_279" showAs="Col. 279"/>
+          <oir:column refersTo="#spk_189" href="ie/oireachtas/debateRecord/vol/595/col/280" eId="col_280" showAs="Col. 280"/>
+          <oir:column refersTo="#spk_194" href="ie/oireachtas/debateRecord/vol/595/col/281" eId="col_281" showAs="Col. 281"/>
+          <oir:column refersTo="#spk_196" href="ie/oireachtas/debateRecord/vol/595/col/282" eId="col_282" showAs="Col. 282"/>
+          <oir:column refersTo="#dbsect_19" href="ie/oireachtas/debateRecord/vol/595/col/283" eId="col_283" showAs="Col. 283"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/284" eId="col_284" showAs="Col. 284"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/285" eId="col_285" showAs="Col. 285"/>
+          <oir:column refersTo="#spk_209" href="ie/oireachtas/debateRecord/vol/595/col/285" eId="col_285" showAs="Col. 285"/>
+          <oir:column refersTo="#spk_211" href="ie/oireachtas/debateRecord/vol/595/col/285" eId="col_285" showAs="Col. 285"/>
+          <oir:column refersTo="#spk_209" href="ie/oireachtas/debateRecord/vol/595/col/286" eId="col_286" showAs="Col. 286"/>
+          <oir:column refersTo="#spk_211" href="ie/oireachtas/debateRecord/vol/595/col/286" eId="col_286" showAs="Col. 286"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/287" eId="col_287" showAs="Col. 287"/>
+          <oir:column refersTo="#spk_214" href="ie/oireachtas/debateRecord/vol/595/col/287" eId="col_287" showAs="Col. 287"/>
+          <oir:column refersTo="#spk_211" href="ie/oireachtas/debateRecord/vol/595/col/287" eId="col_287" showAs="Col. 287"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/287" eId="col_287" showAs="Col. 287"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/287" eId="col_287" showAs="Col. 287"/>
+          <oir:column refersTo="#spk_213" href="ie/oireachtas/debateRecord/vol/595/col/288" eId="col_288" showAs="Col. 288"/>
+          <oir:column refersTo="#spk_214" href="ie/oireachtas/debateRecord/vol/595/col/288" eId="col_288" showAs="Col. 288"/>
+          <oir:column refersTo="#spk_211" href="ie/oireachtas/debateRecord/vol/595/col/288" eId="col_288" showAs="Col. 288"/>
+          <oir:column refersTo="#spk_214" href="ie/oireachtas/debateRecord/vol/595/col/289" eId="col_289" showAs="Col. 289"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/289" eId="col_289" showAs="Col. 289"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/289" eId="col_289" showAs="Col. 289"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/289" eId="col_289" showAs="Col. 289"/>
+          <oir:column refersTo="#spk_214" href="ie/oireachtas/debateRecord/vol/595/col/290" eId="col_290" showAs="Col. 290"/>
+          <oir:column refersTo="#spk_218" href="ie/oireachtas/debateRecord/vol/595/col/290" eId="col_290" showAs="Col. 290"/>
+          <oir:column refersTo="#spk_221" href="ie/oireachtas/debateRecord/vol/595/col/291" eId="col_291" showAs="Col. 291"/>
+          <oir:column refersTo="#spk_233" href="ie/oireachtas/debateRecord/vol/595/col/292" eId="col_292" showAs="Col. 292"/>
+          <oir:column refersTo="#spk_246" href="ie/oireachtas/debateRecord/vol/595/col/293" eId="col_293" showAs="Col. 293"/>
+          <oir:column refersTo="#dbsect_20" href="ie/oireachtas/debateRecord/vol/595/col/294" eId="col_294" showAs="Col. 294"/>
+          <oir:column refersTo="#dbsect_27" href="ie/oireachtas/debateRecord/vol/595/col/295" eId="col_295" showAs="Col. 295"/>
+          <oir:column refersTo="#dbsect_27" href="ie/oireachtas/debateRecord/vol/595/col/296" eId="col_296" showAs="Col. 296"/>
+          <oir:column refersTo="#dbsect_27" href="ie/oireachtas/debateRecord/vol/595/col/297" eId="col_297" showAs="Col. 297"/>
+          <oir:column refersTo="#spk_276" href="ie/oireachtas/debateRecord/vol/595/col/298" eId="col_298" showAs="Col. 298"/>
+          <oir:column refersTo="#spk_276" href="ie/oireachtas/debateRecord/vol/595/col/299" eId="col_299" showAs="Col. 299"/>
+          <oir:column refersTo="#spk_279" href="ie/oireachtas/debateRecord/vol/595/col/300" eId="col_300" showAs="Col. 300"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/301" eId="col_301" showAs="Col. 301"/>
+          <oir:column refersTo="#spk_283" href="ie/oireachtas/debateRecord/vol/595/col/302" eId="col_302" showAs="Col. 302"/>
+          <oir:column refersTo="#spk_283" href="ie/oireachtas/debateRecord/vol/595/col/303" eId="col_303" showAs="Col. 303"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/304" eId="col_304" showAs="Col. 304"/>
+          <oir:column refersTo="#spk_285" href="ie/oireachtas/debateRecord/vol/595/col/305" eId="col_305" showAs="Col. 305"/>
+          <oir:column refersTo="#spk_287" href="ie/oireachtas/debateRecord/vol/595/col/306" eId="col_306" showAs="Col. 306"/>
+          <oir:column refersTo="#spk_287" href="ie/oireachtas/debateRecord/vol/595/col/307" eId="col_307" showAs="Col. 307"/>
+          <oir:column refersTo="#spk_295" href="ie/oireachtas/debateRecord/vol/595/col/308" eId="col_308" showAs="Col. 308"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/309" eId="col_309" showAs="Col. 309"/>
+          <oir:column refersTo="#spk_298" href="ie/oireachtas/debateRecord/vol/595/col/310" eId="col_310" showAs="Col. 310"/>
+          <oir:column refersTo="#spk_299" href="ie/oireachtas/debateRecord/vol/595/col/311" eId="col_311" showAs="Col. 311"/>
+          <oir:column refersTo="#spk_299" href="ie/oireachtas/debateRecord/vol/595/col/312" eId="col_312" showAs="Col. 312"/>
+          <oir:column refersTo="#spk_299" href="ie/oireachtas/debateRecord/vol/595/col/313" eId="col_313" showAs="Col. 313"/>
+          <oir:column refersTo="#spk_304" href="ie/oireachtas/debateRecord/vol/595/col/314" eId="col_314" showAs="Col. 314"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/315" eId="col_315" showAs="Col. 315"/>
+          <oir:column refersTo="#spk_305" href="ie/oireachtas/debateRecord/vol/595/col/315" eId="col_315" showAs="Col. 315"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/315" eId="col_315" showAs="Col. 315"/>
+          <oir:column refersTo="#spk_305" href="ie/oireachtas/debateRecord/vol/595/col/316" eId="col_316" showAs="Col. 316"/>
+          <oir:column refersTo="#spk_305" href="ie/oireachtas/debateRecord/vol/595/col/317" eId="col_317" showAs="Col. 317"/>
+          <oir:column refersTo="#dbsect_41" href="ie/oireachtas/debateRecord/vol/595/col/317" eId="col_317" showAs="Col. 317"/>
+          <oir:column refersTo="#spk_310" href="ie/oireachtas/debateRecord/vol/595/col/318" eId="col_318" showAs="Col. 318"/>
+          <oir:column refersTo="#spk_312" href="ie/oireachtas/debateRecord/vol/595/col/319" eId="col_319" showAs="Col. 319"/>
+          <oir:column refersTo="#spk_312" href="ie/oireachtas/debateRecord/vol/595/col/320" eId="col_320" showAs="Col. 320"/>
+          <oir:column refersTo="#spk_312" href="ie/oireachtas/debateRecord/vol/595/col/321" eId="col_321" showAs="Col. 321"/>
+          <oir:column refersTo="#spk_311" href="ie/oireachtas/debateRecord/vol/595/col/322" eId="col_322" showAs="Col. 322"/>
+          <oir:column refersTo="#dbsect_46" href="ie/oireachtas/debateRecord/vol/595/col/323" eId="col_323" showAs="Col. 323"/>
+          <oir:column refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/595/col/324" eId="col_324" showAs="Col. 324"/>
+          <oir:column refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/595/col/325" eId="col_325" showAs="Col. 325"/>
+          <oir:column refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/595/col/326" eId="col_326" showAs="Col. 326"/>
+          <oir:column refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/595/col/327" eId="col_327" showAs="Col. 327"/>
+          <oir:column refersTo="#spk_317" href="ie/oireachtas/debateRecord/vol/595/col/328" eId="col_328" showAs="Col. 328"/>
+          <oir:column refersTo="#spk_318" href="ie/oireachtas/debateRecord/vol/595/col/329" eId="col_329" showAs="Col. 329"/>
+          <oir:column refersTo="#spk_319" href="ie/oireachtas/debateRecord/vol/595/col/330" eId="col_330" showAs="Col. 330"/>
+          <oir:column refersTo="#spk_319" href="ie/oireachtas/debateRecord/vol/595/col/331" eId="col_331" showAs="Col. 331"/>
+          <oir:column refersTo="#spk_321" href="ie/oireachtas/debateRecord/vol/595/col/332" eId="col_332" showAs="Col. 332"/>
+          <oir:column refersTo="#spk_321" href="ie/oireachtas/debateRecord/vol/595/col/333" eId="col_333" showAs="Col. 333"/>
+          <oir:column refersTo="#spk_320" href="ie/oireachtas/debateRecord/vol/595/col/334" eId="col_334" showAs="Col. 334"/>
+          <oir:column refersTo="#spk_324" href="ie/oireachtas/debateRecord/vol/595/col/335" eId="col_335" showAs="Col. 335"/>
+          <oir:column refersTo="#spk_324" href="ie/oireachtas/debateRecord/vol/595/col/336" eId="col_336" showAs="Col. 336"/>
+          <oir:column refersTo="#spk_325" href="ie/oireachtas/debateRecord/vol/595/col/337" eId="col_337" showAs="Col. 337"/>
+          <oir:column refersTo="#spk_327" href="ie/oireachtas/debateRecord/vol/595/col/338" eId="col_338" showAs="Col. 338"/>
+          <oir:column refersTo="#spk_329" href="ie/oireachtas/debateRecord/vol/595/col/339" eId="col_339" showAs="Col. 339"/>
+          <oir:column refersTo="#dbsect_46" href="ie/oireachtas/debateRecord/vol/595/col/340" eId="col_340" showAs="Col. 340"/>
+          <oir:column refersTo="#spk_334" href="ie/oireachtas/debateRecord/vol/595/col/341" eId="col_341" showAs="Col. 341"/>
+          <oir:column refersTo="#spk_335" href="ie/oireachtas/debateRecord/vol/595/col/342" eId="col_342" showAs="Col. 342"/>
+          <oir:column refersTo="#spk_335" href="ie/oireachtas/debateRecord/vol/595/col/343" eId="col_343" showAs="Col. 343"/>
+          <oir:column refersTo="#spk_337" href="ie/oireachtas/debateRecord/vol/595/col/344" eId="col_344" showAs="Col. 344"/>
+          <oir:column refersTo="#spk_339" href="ie/oireachtas/debateRecord/vol/595/col/345" eId="col_345" showAs="Col. 345"/>
+          <oir:column refersTo="#spk_341" href="ie/oireachtas/debateRecord/vol/595/col/346" eId="col_346" showAs="Col. 346"/>
+          <oir:column refersTo="#spk_342" href="ie/oireachtas/debateRecord/vol/595/col/347" eId="col_347" showAs="Col. 347"/>
+          <oir:column refersTo="#spk_343" href="ie/oireachtas/debateRecord/vol/595/col/348" eId="col_348" showAs="Col. 348"/>
+          <oir:column refersTo="#spk_345" href="ie/oireachtas/debateRecord/vol/595/col/349" eId="col_349" showAs="Col. 349"/>
+          <oir:column refersTo="#spk_346" href="ie/oireachtas/debateRecord/vol/595/col/350" eId="col_350" showAs="Col. 350"/>
+          <oir:column refersTo="#spk_347" href="ie/oireachtas/debateRecord/vol/595/col/351" eId="col_351" showAs="Col. 351"/>
+          <oir:column refersTo="#spk_349" href="ie/oireachtas/debateRecord/vol/595/col/352" eId="col_352" showAs="Col. 352"/>
+          <oir:column refersTo="#spk_349" href="ie/oireachtas/debateRecord/vol/595/col/353" eId="col_353" showAs="Col. 353"/>
+          <oir:column refersTo="#spk_351" href="ie/oireachtas/debateRecord/vol/595/col/354" eId="col_354" showAs="Col. 354"/>
+          <oir:column refersTo="#spk_352" href="ie/oireachtas/debateRecord/vol/595/col/355" eId="col_355" showAs="Col. 355"/>
+          <oir:column refersTo="#spk_353" href="ie/oireachtas/debateRecord/vol/595/col/356" eId="col_356" showAs="Col. 356"/>
+          <oir:column refersTo="#spk_355" href="ie/oireachtas/debateRecord/vol/595/col/357" eId="col_357" showAs="Col. 357"/>
+          <oir:column refersTo="#spk_356" href="ie/oireachtas/debateRecord/vol/595/col/358" eId="col_358" showAs="Col. 358"/>
+          <oir:column refersTo="#spk_358" href="ie/oireachtas/debateRecord/vol/595/col/359" eId="col_359" showAs="Col. 359"/>
+          <oir:column refersTo="#spk_359" href="ie/oireachtas/debateRecord/vol/595/col/360" eId="col_360" showAs="Col. 360"/>
+          <oir:column refersTo="#spk_363" href="ie/oireachtas/debateRecord/vol/595/col/361" eId="col_361" showAs="Col. 361"/>
+          <oir:column refersTo="#spk_364" href="ie/oireachtas/debateRecord/vol/595/col/362" eId="col_362" showAs="Col. 362"/>
+          <oir:column refersTo="#spk_365" href="ie/oireachtas/debateRecord/vol/595/col/363" eId="col_363" showAs="Col. 363"/>
+          <oir:column refersTo="#spk_367" href="ie/oireachtas/debateRecord/vol/595/col/364" eId="col_364" showAs="Col. 364"/>
+          <oir:column refersTo="#spk_369" href="ie/oireachtas/debateRecord/vol/595/col/365" eId="col_365" showAs="Col. 365"/>
+          <oir:column refersTo="#spk_370" href="ie/oireachtas/debateRecord/vol/595/col/366" eId="col_366" showAs="Col. 366"/>
+          <oir:column refersTo="#dbsect_47" href="ie/oireachtas/debateRecord/vol/595/col/367" eId="col_367" showAs="Col. 367"/>
+          <oir:column refersTo="#spk_376" href="ie/oireachtas/debateRecord/vol/595/col/367" eId="col_367" showAs="Col. 367"/>
+          <oir:column refersTo="#spk_377" href="ie/oireachtas/debateRecord/vol/595/col/367" eId="col_367" showAs="Col. 367"/>
+          <oir:column refersTo="#dbsect_47" href="ie/oireachtas/debateRecord/vol/595/col/367" eId="col_367" showAs="Col. 367"/>
+          <oir:column refersTo="#spk_376" href="ie/oireachtas/debateRecord/vol/595/col/368" eId="col_368" showAs="Col. 368"/>
+          <oir:column refersTo="#spk_377" href="ie/oireachtas/debateRecord/vol/595/col/368" eId="col_368" showAs="Col. 368"/>
+          <oir:column refersTo="#spk_377" href="ie/oireachtas/debateRecord/vol/595/col/369" eId="col_369" showAs="Col. 369"/>
+          <oir:column refersTo="#dbsect_47" href="ie/oireachtas/debateRecord/vol/595/col/369" eId="col_369" showAs="Col. 369"/>
+          <oir:column refersTo="#para_1235" href="ie/oireachtas/debateRecord/vol/595/col/370" eId="col_370" showAs="Col. 370"/>
+          <oir:column refersTo="#para_1240" href="ie/oireachtas/debateRecord/vol/595/col/371" eId="col_371" showAs="Col. 371"/>
+          <oir:column refersTo="#para_1247" href="ie/oireachtas/debateRecord/vol/595/col/372" eId="col_372" showAs="Col. 372"/>
+          <oir:column refersTo="#para_1252" href="ie/oireachtas/debateRecord/vol/595/col/373" eId="col_373" showAs="Col. 373"/>
+          <oir:column refersTo="#para_1260" href="ie/oireachtas/debateRecord/vol/595/col/374" eId="col_374" showAs="Col. 374"/>
+          <oir:column refersTo="#para_1264" href="ie/oireachtas/debateRecord/vol/595/col/375" eId="col_375" showAs="Col. 375"/>
+          <oir:column refersTo="#para_1269" href="ie/oireachtas/debateRecord/vol/595/col/376" eId="col_376" showAs="Col. 376"/>
+          <oir:column refersTo="#para_1273" href="ie/oireachtas/debateRecord/vol/595/col/377" eId="col_377" showAs="Col. 377"/>
+          <oir:column refersTo="#para_1278" href="ie/oireachtas/debateRecord/vol/595/col/378" eId="col_378" showAs="Col. 378"/>
+          <oir:column refersTo="#para_1285" href="ie/oireachtas/debateRecord/vol/595/col/379" eId="col_379" showAs="Col. 379"/>
+          <oir:column refersTo="#spk_387" href="ie/oireachtas/debateRecord/vol/595/col/379" eId="col_379" showAs="Col. 379"/>
+          <oir:column refersTo="#para_1285" href="ie/oireachtas/debateRecord/vol/595/col/380" eId="col_380" showAs="Col. 380"/>
+          <oir:column refersTo="#spk_387" href="ie/oireachtas/debateRecord/vol/595/col/381" eId="col_381" showAs="Col. 381"/>
+          <oir:column refersTo="#para_1293" href="ie/oireachtas/debateRecord/vol/595/col/382" eId="col_382" showAs="Col. 382"/>
+          <oir:column refersTo="#para_1300" href="ie/oireachtas/debateRecord/vol/595/col/383" eId="col_383" showAs="Col. 383"/>
+          <oir:column refersTo="#pq_28" href="ie/oireachtas/debateRecord/vol/595/col/384" eId="col_384" showAs="Col. 384"/>
+          <oir:column refersTo="#para_1311" href="ie/oireachtas/debateRecord/vol/595/col/385" eId="col_385" showAs="Col. 385"/>
+          <oir:column refersTo="#para_1319" href="ie/oireachtas/debateRecord/vol/595/col/386" eId="col_386" showAs="Col. 386"/>
+          <oir:column refersTo="#para_1325" href="ie/oireachtas/debateRecord/vol/595/col/387" eId="col_387" showAs="Col. 387"/>
+          <oir:column refersTo="#para_1333" href="ie/oireachtas/debateRecord/vol/595/col/388" eId="col_388" showAs="Col. 388"/>
+          <oir:column refersTo="#para_1380" href="ie/oireachtas/debateRecord/vol/595/col/389" eId="col_389" showAs="Col. 389"/>
+          <oir:column refersTo="#spk_400" href="ie/oireachtas/debateRecord/vol/595/col/390" eId="col_390" showAs="Col. 390"/>
+          <oir:column refersTo="#dbsect_70" href="ie/oireachtas/debateRecord/vol/595/col/391" eId="col_391" showAs="Col. 391"/>
+          <oir:column refersTo="#spk_404" href="ie/oireachtas/debateRecord/vol/595/col/392" eId="col_392" showAs="Col. 392"/>
+          <oir:column refersTo="#spk_405" href="ie/oireachtas/debateRecord/vol/595/col/393" eId="col_393" showAs="Col. 393"/>
+          <oir:column refersTo="#para_1419" href="ie/oireachtas/debateRecord/vol/595/col/394" eId="col_394" showAs="Col. 394"/>
+          <oir:column refersTo="#para_1425" href="ie/oireachtas/debateRecord/vol/595/col/395" eId="col_395" showAs="Col. 395"/>
+          <oir:column refersTo="#para_1430" href="ie/oireachtas/debateRecord/vol/595/col/396" eId="col_396" showAs="Col. 396"/>
+          <oir:column refersTo="#para_1437" href="ie/oireachtas/debateRecord/vol/595/col/397" eId="col_397" showAs="Col. 397"/>
+          <oir:column refersTo="#para_1443" href="ie/oireachtas/debateRecord/vol/595/col/398" eId="col_398" showAs="Col. 398"/>
+          <oir:column refersTo="#dbsect_85" href="ie/oireachtas/debateRecord/vol/595/col/399" eId="col_399" showAs="Col. 399"/>
+          <oir:column refersTo="#pq_62" href="ie/oireachtas/debateRecord/vol/595/col/400" eId="col_400" showAs="Col. 400"/>
+          <oir:column refersTo="#para_1463" href="ie/oireachtas/debateRecord/vol/595/col/401" eId="col_401" showAs="Col. 401"/>
+          <oir:column refersTo="#para_1469" href="ie/oireachtas/debateRecord/vol/595/col/402" eId="col_402" showAs="Col. 402"/>
+          <oir:column refersTo="#para_1503" href="ie/oireachtas/debateRecord/vol/595/col/403" eId="col_403" showAs="Col. 403"/>
+          <oir:column refersTo="#para_1528" href="ie/oireachtas/debateRecord/vol/595/col/404" eId="col_404" showAs="Col. 404"/>
+          <oir:column refersTo="#pq_74" href="ie/oireachtas/debateRecord/vol/595/col/405" eId="col_405" showAs="Col. 405"/>
+          <oir:column refersTo="#dbsect_99" href="ie/oireachtas/debateRecord/vol/595/col/406" eId="col_406" showAs="Col. 406"/>
+          <oir:column refersTo="#para_1599" href="ie/oireachtas/debateRecord/vol/595/col/407" eId="col_407" showAs="Col. 407"/>
+          <oir:column refersTo="#para_1615" href="ie/oireachtas/debateRecord/vol/595/col/408" eId="col_408" showAs="Col. 408"/>
+          <oir:column refersTo="#para_1622" href="ie/oireachtas/debateRecord/vol/595/col/409" eId="col_409" showAs="Col. 409"/>
+          <oir:column refersTo="#para_1629" href="ie/oireachtas/debateRecord/vol/595/col/410" eId="col_410" showAs="Col. 410"/>
+          <oir:column refersTo="#pq_90" href="ie/oireachtas/debateRecord/vol/595/col/411" eId="col_411" showAs="Col. 411"/>
+          <oir:column refersTo="#para_1643" href="ie/oireachtas/debateRecord/vol/595/col/412" eId="col_412" showAs="Col. 412"/>
+          <oir:column refersTo="#para_1649" href="ie/oireachtas/debateRecord/vol/595/col/413" eId="col_413" showAs="Col. 413"/>
+          <oir:column refersTo="#para_1657" href="ie/oireachtas/debateRecord/vol/595/col/414" eId="col_414" showAs="Col. 414"/>
+          <oir:column refersTo="#para_1663" href="ie/oireachtas/debateRecord/vol/595/col/415" eId="col_415" showAs="Col. 415"/>
+          <oir:column refersTo="#para_1668" href="ie/oireachtas/debateRecord/vol/595/col/416" eId="col_416" showAs="Col. 416"/>
+          <oir:column refersTo="#para_1676" href="ie/oireachtas/debateRecord/vol/595/col/417" eId="col_417" showAs="Col. 417"/>
+          <oir:column refersTo="#para_1682" href="ie/oireachtas/debateRecord/vol/595/col/418" eId="col_418" showAs="Col. 418"/>
+          <oir:column refersTo="#para_1688" href="ie/oireachtas/debateRecord/vol/595/col/419" eId="col_419" showAs="Col. 419"/>
+          <oir:column refersTo="#spk_467" href="ie/oireachtas/debateRecord/vol/595/col/419" eId="col_419" showAs="Col. 419"/>
+          <oir:column refersTo="#para_1689" href="ie/oireachtas/debateRecord/vol/595/col/420" eId="col_420" showAs="Col. 420"/>
+          <oir:column refersTo="#para_1748" href="ie/oireachtas/debateRecord/vol/595/col/420" eId="col_420" showAs="Col. 420"/>
+          <oir:column refersTo="#pq_116" href="ie/oireachtas/debateRecord/vol/595/col/421" eId="col_421" showAs="Col. 421"/>
+          <oir:column refersTo="#spk_472" href="ie/oireachtas/debateRecord/vol/595/col/421" eId="col_421" showAs="Col. 421"/>
+          <oir:column refersTo="#para_1755" href="ie/oireachtas/debateRecord/vol/595/col/422" eId="col_422" showAs="Col. 422"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/423" eId="col_423" showAs="Col. 423"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/424" eId="col_424" showAs="Col. 424"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/425" eId="col_425" showAs="Col. 425"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/426" eId="col_426" showAs="Col. 426"/>
+          <oir:column refersTo="#spk_472" href="ie/oireachtas/debateRecord/vol/595/col/427" eId="col_427" showAs="Col. 427"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/427" eId="col_427" showAs="Col. 427"/>
+          <oir:column refersTo="#dbsect_127" href="ie/oireachtas/debateRecord/vol/595/col/427" eId="col_427" showAs="Col. 427"/>
+          <oir:column refersTo="#para_2587" href="ie/oireachtas/debateRecord/vol/595/col/428" eId="col_428" showAs="Col. 428"/>
+          <oir:column refersTo="#dbsect_127" href="ie/oireachtas/debateRecord/vol/595/col/429" eId="col_429" showAs="Col. 429"/>
+          <oir:column refersTo="#spk_475" href="ie/oireachtas/debateRecord/vol/595/col/429" eId="col_429" showAs="Col. 429"/>
+          <oir:column refersTo="#dbsect_128" href="ie/oireachtas/debateRecord/vol/595/col/429" eId="col_429" showAs="Col. 429"/>
+          <oir:column refersTo="#para_2605" href="ie/oireachtas/debateRecord/vol/595/col/430" eId="col_430" showAs="Col. 430"/>
+          <oir:column refersTo="#para_2626" href="ie/oireachtas/debateRecord/vol/595/col/430" eId="col_430" showAs="Col. 430"/>
+          <oir:column refersTo="#dbsect_128" href="ie/oireachtas/debateRecord/vol/595/col/431" eId="col_431" showAs="Col. 431"/>
+          <oir:column refersTo="#para_2722" href="ie/oireachtas/debateRecord/vol/595/col/432" eId="col_432" showAs="Col. 432"/>
+          <oir:column refersTo="#para_2728" href="ie/oireachtas/debateRecord/vol/595/col/433" eId="col_433" showAs="Col. 433"/>
+          <oir:column refersTo="#para_2735" href="ie/oireachtas/debateRecord/vol/595/col/434" eId="col_434" showAs="Col. 434"/>
+          <oir:column refersTo="#para_2760" href="ie/oireachtas/debateRecord/vol/595/col/435" eId="col_435" showAs="Col. 435"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/436" eId="col_436" showAs="Col. 436"/>
+          <oir:column refersTo="#para_2810" href="ie/oireachtas/debateRecord/vol/595/col/437" eId="col_437" showAs="Col. 437"/>
+          <oir:column refersTo="#dbsect_138" href="ie/oireachtas/debateRecord/vol/595/col/437" eId="col_437" showAs="Col. 437"/>
+          <oir:column refersTo="#spk_491" href="ie/oireachtas/debateRecord/vol/595/col/437" eId="col_437" showAs="Col. 437"/>
+          <oir:column refersTo="#para_2814" href="ie/oireachtas/debateRecord/vol/595/col/438" eId="col_438" showAs="Col. 438"/>
+          <oir:column refersTo="#pq_139" href="ie/oireachtas/debateRecord/vol/595/col/438" eId="col_438" showAs="Col. 438"/>
+          <oir:column refersTo="#dbsect_138" href="ie/oireachtas/debateRecord/vol/595/col/439" eId="col_439" showAs="Col. 439"/>
+          <oir:column refersTo="#spk_494" href="ie/oireachtas/debateRecord/vol/595/col/440" eId="col_440" showAs="Col. 440"/>
+          <oir:column refersTo="#para_2873" href="ie/oireachtas/debateRecord/vol/595/col/441" eId="col_441" showAs="Col. 441"/>
+          <oir:column refersTo="#para_2878" href="ie/oireachtas/debateRecord/vol/595/col/442" eId="col_442" showAs="Col. 442"/>
+          <oir:column refersTo="#para_2884" href="ie/oireachtas/debateRecord/vol/595/col/443" eId="col_443" showAs="Col. 443"/>
+          <oir:column refersTo="#para_2890" href="ie/oireachtas/debateRecord/vol/595/col/444" eId="col_444" showAs="Col. 444"/>
+          <oir:column refersTo="#para_2896" href="ie/oireachtas/debateRecord/vol/595/col/445" eId="col_445" showAs="Col. 445"/>
+          <oir:column refersTo="#dbsect_151" href="ie/oireachtas/debateRecord/vol/595/col/445" eId="col_445" showAs="Col. 445"/>
+          <oir:column refersTo="#spk_507" href="ie/oireachtas/debateRecord/vol/595/col/445" eId="col_445" showAs="Col. 445"/>
+          <oir:column refersTo="#dbsect_149" href="ie/oireachtas/debateRecord/vol/595/col/446" eId="col_446" showAs="Col. 446"/>
+          <oir:column refersTo="#para_2923" href="ie/oireachtas/debateRecord/vol/595/col/446" eId="col_446" showAs="Col. 446"/>
+          <oir:column refersTo="#dbsect_151" href="ie/oireachtas/debateRecord/vol/595/col/447" eId="col_447" showAs="Col. 447"/>
+          <oir:column refersTo="#para_2942" href="ie/oireachtas/debateRecord/vol/595/col/448" eId="col_448" showAs="Col. 448"/>
+          <oir:column refersTo="#spk_513" href="ie/oireachtas/debateRecord/vol/595/col/449" eId="col_449" showAs="Col. 449"/>
+          <oir:column refersTo="#para_2946" href="ie/oireachtas/debateRecord/vol/595/col/449" eId="col_449" showAs="Col. 449"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/450" eId="col_450" showAs="Col. 450"/>
+          <oir:column refersTo="#dbsect_157" href="ie/oireachtas/debateRecord/vol/595/col/450" eId="col_450" showAs="Col. 450"/>
+          <oir:column refersTo="#para_2988" href="ie/oireachtas/debateRecord/vol/595/col/451" eId="col_451" showAs="Col. 451"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/452" eId="col_452" showAs="Col. 452"/>
+          <oir:column refersTo="#spk_519" href="ie/oireachtas/debateRecord/vol/595/col/453" eId="col_453" showAs="Col. 453"/>
+          <oir:column refersTo="#spk_523" href="ie/oireachtas/debateRecord/vol/595/col/453" eId="col_453" showAs="Col. 453"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/454" eId="col_454" showAs="Col. 454"/>
+          <oir:column refersTo="#dbsect_163" href="ie/oireachtas/debateRecord/vol/595/col/454" eId="col_454" showAs="Col. 454"/>
+          <oir:column refersTo="#dbsect_163" href="ie/oireachtas/debateRecord/vol/595/col/455" eId="col_455" showAs="Col. 455"/>
+          <oir:column refersTo="#pq_172" href="ie/oireachtas/debateRecord/vol/595/col/455" eId="col_455" showAs="Col. 455"/>
+          <oir:column refersTo="#para_3095" href="ie/oireachtas/debateRecord/vol/595/col/456" eId="col_456" showAs="Col. 456"/>
+          <oir:column refersTo="#para_3111" href="ie/oireachtas/debateRecord/vol/595/col/456" eId="col_456" showAs="Col. 456"/>
+          <oir:column refersTo="#para_3114" href="ie/oireachtas/debateRecord/vol/595/col/457" eId="col_457" showAs="Col. 457"/>
+          <oir:column refersTo="#pq_177" href="ie/oireachtas/debateRecord/vol/595/col/458" eId="col_458" showAs="Col. 458"/>
+          <oir:column refersTo="#dbsect_167" href="ie/oireachtas/debateRecord/vol/595/col/459" eId="col_459" showAs="Col. 459"/>
+          <oir:column refersTo="#dbsect_167" href="ie/oireachtas/debateRecord/vol/595/col/460" eId="col_460" showAs="Col. 460"/>
+          <oir:column refersTo="#dbsect_167" href="ie/oireachtas/debateRecord/vol/595/col/461" eId="col_461" showAs="Col. 461"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/461" eId="col_461" showAs="Col. 461"/>
+          <oir:column refersTo="#para_3350" href="ie/oireachtas/debateRecord/vol/595/col/462" eId="col_462" showAs="Col. 462"/>
+          <oir:column refersTo="#para_3352" href="ie/oireachtas/debateRecord/vol/595/col/463" eId="col_463" showAs="Col. 463"/>
+          <oir:column refersTo="#para_3360" href="ie/oireachtas/debateRecord/vol/595/col/464" eId="col_464" showAs="Col. 464"/>
+          <oir:column refersTo="#para_3366" href="ie/oireachtas/debateRecord/vol/595/col/465" eId="col_465" showAs="Col. 465"/>
+          <oir:column refersTo="#para_3373" href="ie/oireachtas/debateRecord/vol/595/col/466" eId="col_466" showAs="Col. 466"/>
+          <oir:column refersTo="#para_3377" href="ie/oireachtas/debateRecord/vol/595/col/467" eId="col_467" showAs="Col. 467"/>
+          <oir:column refersTo="#para_3382" href="ie/oireachtas/debateRecord/vol/595/col/468" eId="col_468" showAs="Col. 468"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/469" eId="col_469" showAs="Col. 469"/>
+          <oir:column refersTo="#para_3449" href="ie/oireachtas/debateRecord/vol/595/col/470" eId="col_470" showAs="Col. 470"/>
+          <oir:column refersTo="#para_3456" href="ie/oireachtas/debateRecord/vol/595/col/471" eId="col_471" showAs="Col. 471"/>
+          <oir:column refersTo="#spk_546" href="ie/oireachtas/debateRecord/vol/595/col/471" eId="col_471" showAs="Col. 471"/>
+          <oir:column refersTo="#spk_547" href="ie/oireachtas/debateRecord/vol/595/col/471" eId="col_471" showAs="Col. 471"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/472" eId="col_472" showAs="Col. 472"/>
+          <oir:column refersTo="#pq_197" href="ie/oireachtas/debateRecord/vol/595/col/472" eId="col_472" showAs="Col. 472"/>
+          <oir:column refersTo="#para_3511" href="ie/oireachtas/debateRecord/vol/595/col/472" eId="col_472" showAs="Col. 472"/>
+          <oir:column refersTo="#dbsect_179" href="ie/oireachtas/debateRecord/vol/595/col/473" eId="col_473" showAs="Col. 473"/>
+          <oir:column refersTo="#spk_552" href="ie/oireachtas/debateRecord/vol/595/col/474" eId="col_474" showAs="Col. 474"/>
+          <oir:column refersTo="#para_3530" href="ie/oireachtas/debateRecord/vol/595/col/475" eId="col_475" showAs="Col. 475"/>
+          <oir:column refersTo="#para_3537" href="ie/oireachtas/debateRecord/vol/595/col/476" eId="col_476" showAs="Col. 476"/>
+          <oir:column refersTo="#para_3543" href="ie/oireachtas/debateRecord/vol/595/col/477" eId="col_477" showAs="Col. 477"/>
+          <oir:column refersTo="#pq_215" href="ie/oireachtas/debateRecord/vol/595/col/478" eId="col_478" showAs="Col. 478"/>
+          <oir:column refersTo="#para_3561" href="ie/oireachtas/debateRecord/vol/595/col/479" eId="col_479" showAs="Col. 479"/>
+          <oir:column refersTo="#para_3567" href="ie/oireachtas/debateRecord/vol/595/col/480" eId="col_480" showAs="Col. 480"/>
+          <oir:column refersTo="#para_3605" href="ie/oireachtas/debateRecord/vol/595/col/481" eId="col_481" showAs="Col. 481"/>
+          <oir:column refersTo="#para_3611" href="ie/oireachtas/debateRecord/vol/595/col/482" eId="col_482" showAs="Col. 482"/>
+          <oir:column refersTo="#spk_567" href="ie/oireachtas/debateRecord/vol/595/col/483" eId="col_483" showAs="Col. 483"/>
+          <oir:column refersTo="#spk_567" href="ie/oireachtas/debateRecord/vol/595/col/484" eId="col_484" showAs="Col. 484"/>
+          <oir:column refersTo="#dbsect_196" href="ie/oireachtas/debateRecord/vol/595/col/485" eId="col_485" showAs="Col. 485"/>
+          <oir:column refersTo="#spk_570" href="ie/oireachtas/debateRecord/vol/595/col/485" eId="col_485" showAs="Col. 485"/>
+          <oir:column refersTo="#para_3649" href="ie/oireachtas/debateRecord/vol/595/col/486" eId="col_486" showAs="Col. 486"/>
+          <oir:column refersTo="#para_3718" href="ie/oireachtas/debateRecord/vol/595/col/486" eId="col_486" showAs="Col. 486"/>
+          <oir:column refersTo="#para_3719" href="ie/oireachtas/debateRecord/vol/595/col/487" eId="col_487" showAs="Col. 487"/>
+          <oir:column refersTo="#dbsect_201" href="ie/oireachtas/debateRecord/vol/595/col/487" eId="col_487" showAs="Col. 487"/>
+          <oir:column refersTo="#spk_573" href="ie/oireachtas/debateRecord/vol/595/col/487" eId="col_487" showAs="Col. 487"/>
+          <oir:column refersTo="#para_3721" href="ie/oireachtas/debateRecord/vol/595/col/488" eId="col_488" showAs="Col. 488"/>
+          <oir:column refersTo="#dbsect_201" href="ie/oireachtas/debateRecord/vol/595/col/488" eId="col_488" showAs="Col. 488"/>
+          <oir:column refersTo="#dbsect_202" href="ie/oireachtas/debateRecord/vol/595/col/488" eId="col_488" showAs="Col. 488"/>
+          <oir:column refersTo="#spk_575" href="ie/oireachtas/debateRecord/vol/595/col/489" eId="col_489" showAs="Col. 489"/>
+          <oir:column refersTo="#para_3790" href="ie/oireachtas/debateRecord/vol/595/col/490" eId="col_490" showAs="Col. 490"/>
+          <oir:column refersTo="#para_3796" href="ie/oireachtas/debateRecord/vol/595/col/491" eId="col_491" showAs="Col. 491"/>
+          <oir:column refersTo="#dbsect_207" href="ie/oireachtas/debateRecord/vol/595/col/492" eId="col_492" showAs="Col. 492"/>
+          <oir:column refersTo="#spk_583" href="ie/oireachtas/debateRecord/vol/595/col/493" eId="col_493" showAs="Col. 493"/>
+          <oir:column refersTo="#spk_584" href="ie/oireachtas/debateRecord/vol/595/col/493" eId="col_493" showAs="Col. 493"/>
+          <oir:column refersTo="#spk_584" href="ie/oireachtas/debateRecord/vol/595/col/494" eId="col_494" showAs="Col. 494"/>
+          <oir:column refersTo="#spk_584" href="ie/oireachtas/debateRecord/vol/595/col/495" eId="col_495" showAs="Col. 495"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/495" eId="col_495" showAs="Col. 495"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/496" eId="col_496" showAs="Col. 496"/>
+          <oir:column refersTo="#para_3961" href="ie/oireachtas/debateRecord/vol/595/col/497" eId="col_497" showAs="Col. 497"/>
+          <oir:column refersTo="#para_3969" href="ie/oireachtas/debateRecord/vol/595/col/498" eId="col_498" showAs="Col. 498"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/499" eId="col_499" showAs="Col. 499"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/500" eId="col_500" showAs="Col. 500"/>
+          <oir:column refersTo="#spk_594" href="ie/oireachtas/debateRecord/vol/595/col/501" eId="col_501" showAs="Col. 501"/>
+          <oir:column refersTo="#para_4114" href="ie/oireachtas/debateRecord/vol/595/col/502" eId="col_502" showAs="Col. 502"/>
+          <oir:column refersTo="#para_4150" href="ie/oireachtas/debateRecord/vol/595/col/503" eId="col_503" showAs="Col. 503"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/504" eId="col_504" showAs="Col. 504"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/505" eId="col_505" showAs="Col. 505"/>
+          <oir:column refersTo="#spk_600" href="ie/oireachtas/debateRecord/vol/595/col/506" eId="col_506" showAs="Col. 506"/>
+          <oir:column refersTo="#para_4323" href="ie/oireachtas/debateRecord/vol/595/col/507" eId="col_507" showAs="Col. 507"/>
+          <oir:column refersTo="#para_4358" href="ie/oireachtas/debateRecord/vol/595/col/508" eId="col_508" showAs="Col. 508"/>
+          <oir:column refersTo="#para_4395" href="ie/oireachtas/debateRecord/vol/595/col/509" eId="col_509" showAs="Col. 509"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/510" eId="col_510" showAs="Col. 510"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/511" eId="col_511" showAs="Col. 511"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/512" eId="col_512" showAs="Col. 512"/>
+          <oir:column refersTo="#spk_608" href="ie/oireachtas/debateRecord/vol/595/col/513" eId="col_513" showAs="Col. 513"/>
+          <oir:column refersTo="#para_4605" href="ie/oireachtas/debateRecord/vol/595/col/514" eId="col_514" showAs="Col. 514"/>
+          <oir:column refersTo="#para_4641" href="ie/oireachtas/debateRecord/vol/595/col/515" eId="col_515" showAs="Col. 515"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/516" eId="col_516" showAs="Col. 516"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/517" eId="col_517" showAs="Col. 517"/>
+          <oir:column refersTo="#spk_614" href="ie/oireachtas/debateRecord/vol/595/col/518" eId="col_518" showAs="Col. 518"/>
+          <oir:column refersTo="#para_4810" href="ie/oireachtas/debateRecord/vol/595/col/519" eId="col_519" showAs="Col. 519"/>
+          <oir:column refersTo="#para_4815" href="ie/oireachtas/debateRecord/vol/595/col/520" eId="col_520" showAs="Col. 520"/>
+          <oir:column refersTo="#para_4818" href="ie/oireachtas/debateRecord/vol/595/col/521" eId="col_521" showAs="Col. 521"/>
+          <oir:column refersTo="#para_4822" href="ie/oireachtas/debateRecord/vol/595/col/522" eId="col_522" showAs="Col. 522"/>
+          <oir:column refersTo="#spk_620" href="ie/oireachtas/debateRecord/vol/595/col/523" eId="col_523" showAs="Col. 523"/>
+          <oir:column refersTo="#para_4844" href="ie/oireachtas/debateRecord/vol/595/col/524" eId="col_524" showAs="Col. 524"/>
+          <oir:column refersTo="#para_4849" href="ie/oireachtas/debateRecord/vol/595/col/525" eId="col_525" showAs="Col. 525"/>
+          <oir:column refersTo="#para_4853" href="ie/oireachtas/debateRecord/vol/595/col/526" eId="col_526" showAs="Col. 526"/>
+          <oir:column refersTo="#para_4859" href="ie/oireachtas/debateRecord/vol/595/col/527" eId="col_527" showAs="Col. 527"/>
+          <oir:column refersTo="#para_4864" href="ie/oireachtas/debateRecord/vol/595/col/528" eId="col_528" showAs="Col. 528"/>
+          <oir:column refersTo="#para_4870" href="ie/oireachtas/debateRecord/vol/595/col/529" eId="col_529" showAs="Col. 529"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/530" eId="col_530" showAs="Col. 530"/>
+          <oir:column refersTo="#para_4911" href="ie/oireachtas/debateRecord/vol/595/col/531" eId="col_531" showAs="Col. 531"/>
+          <oir:column refersTo="#para_4917" href="ie/oireachtas/debateRecord/vol/595/col/532" eId="col_532" showAs="Col. 532"/>
+          <oir:column refersTo="#para_4921" href="ie/oireachtas/debateRecord/vol/595/col/533" eId="col_533" showAs="Col. 533"/>
+          <oir:column refersTo="#para_4927" href="ie/oireachtas/debateRecord/vol/595/col/534" eId="col_534" showAs="Col. 534"/>
+          <oir:column refersTo="#pq_300" href="ie/oireachtas/debateRecord/vol/595/col/535" eId="col_535" showAs="Col. 535"/>
+          <oir:column refersTo="#para_4940" href="ie/oireachtas/debateRecord/vol/595/col/536" eId="col_536" showAs="Col. 536"/>
+          <oir:column refersTo="#para_4946" href="ie/oireachtas/debateRecord/vol/595/col/537" eId="col_537" showAs="Col. 537"/>
+          <oir:column refersTo="#para_4952" href="ie/oireachtas/debateRecord/vol/595/col/538" eId="col_538" showAs="Col. 538"/>
+          <oir:column refersTo="#para_4958" href="ie/oireachtas/debateRecord/vol/595/col/539" eId="col_539" showAs="Col. 539"/>
+          <oir:column refersTo="#para_4964" href="ie/oireachtas/debateRecord/vol/595/col/540" eId="col_540" showAs="Col. 540"/>
+          <oir:column refersTo="#para_4972" href="ie/oireachtas/debateRecord/vol/595/col/541" eId="col_541" showAs="Col. 541"/>
+          <oir:column refersTo="#para_5000" href="ie/oireachtas/debateRecord/vol/595/col/542" eId="col_542" showAs="Col. 542"/>
+          <oir:column refersTo="#para_5007" href="ie/oireachtas/debateRecord/vol/595/col/543" eId="col_543" showAs="Col. 543"/>
+          <oir:column refersTo="#para_5014" href="ie/oireachtas/debateRecord/vol/595/col/544" eId="col_544" showAs="Col. 544"/>
+          <oir:column refersTo="#para_5020" href="ie/oireachtas/debateRecord/vol/595/col/545" eId="col_545" showAs="Col. 545"/>
+          <oir:column refersTo="#dbsect_254" href="ie/oireachtas/debateRecord/vol/595/col/546" eId="col_546" showAs="Col. 546"/>
+          <oir:column refersTo="#para_5032" href="ie/oireachtas/debateRecord/vol/595/col/547" eId="col_547" showAs="Col. 547"/>
+          <oir:column refersTo="#para_5037" href="ie/oireachtas/debateRecord/vol/595/col/548" eId="col_548" showAs="Col. 548"/>
+          <oir:column refersTo="#para_5043" href="ie/oireachtas/debateRecord/vol/595/col/549" eId="col_549" showAs="Col. 549"/>
+          <oir:column refersTo="#pq_329" href="ie/oireachtas/debateRecord/vol/595/col/550" eId="col_550" showAs="Col. 550"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/551" eId="col_551" showAs="Col. 551"/>
+          <oir:column refersTo="#dbsect_266" href="ie/oireachtas/debateRecord/vol/595/col/552" eId="col_552" showAs="Col. 552"/>
+          <oir:column refersTo="#para_5071" href="ie/oireachtas/debateRecord/vol/595/col/553" eId="col_553" showAs="Col. 553"/>
+          <oir:column refersTo="#pq_340" href="ie/oireachtas/debateRecord/vol/595/col/554" eId="col_554" showAs="Col. 554"/>
+          <oir:column refersTo="#para_5088" href="ie/oireachtas/debateRecord/vol/595/col/555" eId="col_555" showAs="Col. 555"/>
+          <oir:column refersTo="#spk_678" href="ie/oireachtas/debateRecord/vol/595/col/556" eId="col_556" showAs="Col. 556"/>
+          <oir:column refersTo="#para_5115" href="ie/oireachtas/debateRecord/vol/595/col/557" eId="col_557" showAs="Col. 557"/>
+          <oir:column refersTo="#para_5124" href="ie/oireachtas/debateRecord/vol/595/col/558" eId="col_558" showAs="Col. 558"/>
+          <oir:column refersTo="#para_5129" href="ie/oireachtas/debateRecord/vol/595/col/559" eId="col_559" showAs="Col. 559"/>
+          <oir:column refersTo="#dbsect_278" href="ie/oireachtas/debateRecord/vol/595/col/560" eId="col_560" showAs="Col. 560"/>
+          <oir:column refersTo="#para_5143" href="ie/oireachtas/debateRecord/vol/595/col/561" eId="col_561" showAs="Col. 561"/>
+          <oir:column refersTo="#spk_691" href="ie/oireachtas/debateRecord/vol/595/col/561" eId="col_561" showAs="Col. 561"/>
+          <oir:column refersTo="#spk_692" href="ie/oireachtas/debateRecord/vol/595/col/561" eId="col_561" showAs="Col. 561"/>
+          <oir:column refersTo="#para_5148" href="ie/oireachtas/debateRecord/vol/595/col/562" eId="col_562" showAs="Col. 562"/>
+          <oir:column refersTo="#para_5164" href="ie/oireachtas/debateRecord/vol/595/col/562" eId="col_562" showAs="Col. 562"/>
+          <oir:column refersTo="#spk_692" href="ie/oireachtas/debateRecord/vol/595/col/563" eId="col_563" showAs="Col. 563"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/563" eId="col_563" showAs="Col. 563"/>
+          <oir:column refersTo="#para_5184" href="ie/oireachtas/debateRecord/vol/595/col/564" eId="col_564" showAs="Col. 564"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/565" eId="col_565" showAs="Col. 565"/>
+          <oir:column refersTo="#spk_698" href="ie/oireachtas/debateRecord/vol/595/col/565" eId="col_565" showAs="Col. 565"/>
+          <oir:column refersTo="#spk_699" href="ie/oireachtas/debateRecord/vol/595/col/565" eId="col_565" showAs="Col. 565"/>
+          <oir:column refersTo="#spk_700" href="ie/oireachtas/debateRecord/vol/595/col/565" eId="col_565" showAs="Col. 565"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/566" eId="col_566" showAs="Col. 566"/>
+          <oir:column refersTo="#dbsect_289" href="ie/oireachtas/debateRecord/vol/595/col/566" eId="col_566" showAs="Col. 566"/>
+          <oir:column refersTo="#para_5225" href="ie/oireachtas/debateRecord/vol/595/col/566" eId="col_566" showAs="Col. 566"/>
+          <oir:column refersTo="#para_5243" href="ie/oireachtas/debateRecord/vol/595/col/566" eId="col_566" showAs="Col. 566"/>
+          <oir:column refersTo="#para_5264" href="ie/oireachtas/debateRecord/vol/595/col/567" eId="col_567" showAs="Col. 567"/>
+          <oir:column refersTo="#para_5270" href="ie/oireachtas/debateRecord/vol/595/col/568" eId="col_568" showAs="Col. 568"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/569" eId="col_569" showAs="Col. 569"/>
+          <oir:column refersTo="#spk_706" href="ie/oireachtas/debateRecord/vol/595/col/569" eId="col_569" showAs="Col. 569"/>
+          <oir:column refersTo="#para_5277" href="ie/oireachtas/debateRecord/vol/595/col/570" eId="col_570" showAs="Col. 570"/>
+          <oir:column refersTo="#spk_707" href="ie/oireachtas/debateRecord/vol/595/col/570" eId="col_570" showAs="Col. 570"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/571" eId="col_571" showAs="Col. 571"/>
+          <oir:column refersTo="#para_5316" href="ie/oireachtas/debateRecord/vol/595/col/572" eId="col_572" showAs="Col. 572"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/573" eId="col_573" showAs="Col. 573"/>
+          <oir:column refersTo="#para_5332" href="ie/oireachtas/debateRecord/vol/595/col/574" eId="col_574" showAs="Col. 574"/>
+          <oir:column refersTo="#dbsect_56" href="ie/oireachtas/debateRecord/vol/595/col/575" eId="col_575" showAs="Col. 575"/>
+          <oir:column refersTo="#dbsect_305" href="ie/oireachtas/debateRecord/vol/595/col/575" eId="col_575" showAs="Col. 575"/>
+          <oir:column refersTo="#para_5339" href="ie/oireachtas/debateRecord/vol/595/col/576" eId="col_576" showAs="Col. 576"/>
+        </otherAnalysis>
+      </analysis>
+      <references source="#source">
+        <TLCOrganization eId="source" href="" showAs="Houses of the Oireachtas"/>
+        <TLCConcept eId="generation" href="/ie/oireachtas/ontology#Generation" showAs="Generation"/>
+        <TLCConcept eId="publication" href="/ie/oireachtas/ontology#Publication" showAs="Publication"/>
+        <TLCConcept eId="reported" href="/ie/oireachtas/ontology#Reported" showAs="Reported"/>
+        <TLCPerson eId="JoeCostelloLAB" href="/ie/oireachtas/member/id/Joe-Costello.S.1989-10-01" showAs="Joe Costello"/>
+        <TLCPerson eId="MichaelMcDowellPD" href="/ie/oireachtas/member/id/Michael-McDowell.D.1987-03-10" showAs="Michael McDowell"/>
+        <TLCRole eId="Minister_for_Justice,_Equality_and_Law_Reform" href="/ie/oireachtas/role/minister/justice__equality__law_reform" showAs="Minister for Justice, Equality and Law Reform"/>
+        </references>
+    </meta>
+    <preface>
+      <block name="title_ga">
+        <docTitle>DÍOSPÓIREACHTAÍ PARLAIMINTE</docTitle>
+      </block>
+      <block name="title_en">
+        <docTitle>PARLIAMENTARY DEBATES</docTitle>
+      </block>
+      <block name="proponent_ga">
+        <docProponent>DÁIL ÉIREANN</docProponent>
+      </block>
+      <block name="status_ga">
+        <docStatus>TUAIRISC OIFIGIÚIL</docStatus>
+      </block>
+      <block name="status_en">
+        <docStatus>(OFFICIAL REPORT)</docStatus>
+      </block>
+      <block name="date_ga">
+        <docDate date="2004-12-14">Dé Máirt, 14 Nollaig 2004</docDate>
+      </block>
+      <block name="date_en">
+        <docDate date="2004-12-14">Tuesday, 14 December 2004</docDate>
+      </block>
+      <block name="volume">
+        <docNumber refersTo="#vol_595">Vol. 595</docNumber>
+      </block>
+      <block name="number">
+        <docNumber refersTo="#no_2">No. 2</docNumber>
+      </block>
+    </preface>
+    <debateBody><debateSection name="writtenAnswer" eId="dbsect_217">
+          <heading>Citizenship Applications.</heading>
+          <question by="#JoeCostelloLAB" to="#Minister_for_Justice,_Equality_and_Law_Reform" eId="pq_276">
+            <p eId="para_4817">
+        299
+        <b>Mr. Costello</b>
+         asked the 
+        <b>Minister for Justice, Equality and Law Reform</b>
+        if he will report on the contents of the report commissioned by a person (details supplied) on the investment for naturalisation schemes and the contents of the review established; the number of persons who were granted passports under the scheme in each year since it began; the amount that was paid to the Exchequer or invested in business here in return for each passport; the name and address and beneficial owner of each business which benefited from the scheme; and if he will make a statement on the matter.
+        [33010/04]
+      </p>
+          </question>
+          <speech by="#MichaelMcDowellPD" as="#Minister_for_Justice,_Equality_and_Law_Reform" eId="spk_618">
+            <from>Minister for Justice, Equality and Law Reform (Mr. McDowell)</from>
+            <p eId="para_4818">The report to which the Deputy refers was presented to the then Minister for Justice in January 1995, which is over seven years before I assumed office. In response to Parliamentary Question No. 5 of 17 October 2002, I took the unprecedented step of reporting my findings to the Dáil on the situation giving rise to the commissioning of that report. My response was based not alone on an examination of the report itself but on an examination of the entirety of the original file which I retrieved from the Moriarty tribunal specifically for that purpose.</p>
+            <p eId="para_4819">Furthermore, I sought further legal advice on the matter from the Attorney General and in my response to Parliamentary Question No. 193 of 13 May 2003, I set out in general terms the nature of that advice in so far as it related to the possibility of revoking the certificates of naturalisation in question. I refer the Deputy to the response to Parliamentary Question No. 1 of 25 June 1998 which sets out the outcome of the review carried out by my predecessor on the investment based naturalisation scheme. The report of the review group on investment based naturalisation which I published in August 2002 contains a comprehensive analysis of the investment based naturalisation scheme. It states in paragraph 2.14 that over £100 million worth of investments were made. It has never been the practice of my predecessors in office, irrespective of political persuasion, to disclose publicly the details of the affairs of individuals or companies with whom the Department has transacted business on the assumption of confidentiality. I am not in a position to depart from that practice. Files relating to the naturalisation of 128 persons under the investment based naturalisation scheme are currently with the Moriarty tribunal. My Department has co-operated with the tribunal and that co-operation is recent and ongoing.</p>
+            <p eId="para_4820">There were a total of 107 primary investors naturalised under the investment based naturalisation scheme together with 76 spouses and minor children. In that context, the issuance of passports is a matter for the Minister for Foreign Affairs. It has never been the practice in my Department to keep records of the passports issued to or renewed in respect of citizens who have been naturalised, whether under the investment based scheme or otherwise. The fact that any one of the 183 citizens referred to has not applied for a passport or has not applied for a renewal of a passport does not in any way derogate from his or her rights as an Irish citizen.</p>
+            <p eId="para_4821">On coming into office as Minister for Justice, Equality and Law Reform, I secured Government approval to abolish the scheme of investment based citizenship, which continued the process set in train by my predecessor, Deputy O'Donoghue, to wind up the scheme. The Nationality and Citizenship Bill 2004, which has been passed by both Houses of the Oireachtas and which is currently with the President, contains a provision to ensure that the scheme of investment based naturalisation will not be reinstituted and to rule out and any future such scheme.</p>
+          </speech>
+        </debateSection>
+        </debateBody></debate>
+</akomaNtoso>

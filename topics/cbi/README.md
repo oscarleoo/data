@@ -1,10 +1,14 @@
 # Citizenship and residence by investment: a sourced dataset
 
-Numbers on citizenship-by-investment (CBI) and golden-visa programmes in the
-five Eastern Caribbean countries (Antigua and Barbuda, Dominica, Grenada,
-Saint Kitts and Nevis, Saint Lucia), Malta, Greece and Turkey, with the
-context around them: the end of the sugar industry in Saint Kitts, and EU,
-UK and US visa and anti-money-laundering decisions.
+Numbers on the programmes that sell citizenship (citizenship by investment)
+or residence ("golden visas") to people who invest or donate money:
+35 citizenship and 26 residence programmes, current and closed, in
+35 countries. They include the Eastern Caribbean islands, Vanuatu, Malta,
+Cyprus, Turkey, Egypt, Jordan, Nauru, São Tomé and Príncipe, Portugal, Spain,
+Greece, Italy, Hungary, Latvia, the UAE, the US EB-5 programme, Panama,
+Singapore, and the closed UK, Irish and Australian schemes. The data also has
+the context around them: the end of the sugar industry in Saint Kitts, court
+rulings, scandals, and EU, UK and US visa and money-laundering decisions.
 
 The data is incomplete and often uncertain, because governments publish
 little, change definitions, and revise their numbers heavily. So this dataset
@@ -14,20 +18,23 @@ and whether it's an outturn, an estimate, a budget or a forecast. When sources
 disagree, the disagreement is part of the data.
 
 Maintained by Oscar Leo ([oscarleo.com](https://oscarleo.com)). Last research
-pass: 28 September 2026.
+pass: 2 October 2026. A second pass covering the remaining residence
+programmes is planned (see `docs/WAVE2_PLAN.md`).
 
 ## What's in it
 
 | | rows |
 |---|---|
-| Numbers (`data/observations.csv`) | 1,124 |
-| Sources (`data/sources.csv`) | 348, of which 312 have a stored copy in `raw/` |
-| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 137 |
-| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 199 |
-| Programmes (`data/programs.csv`) | 13 |
-| Indicators and their definitions (`data/indicators.csv`) | 65 |
+| Numbers (`data/observations.csv`) | 4,121 |
+| Sources (`data/sources.csv`) | 973, of which 862 have a stored copy in `raw/` |
+| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 517 |
+| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 562 |
+| Programmes (`data/programs.csv`) | 61 (35 citizenship, 26 residence) |
+| Indicators and their definitions (`data/indicators.csv`) | 110 |
 
-Numbers per jurisdiction: Saint Kitts and Nevis 359, Grenada 138, Malta 129, Dominica 124, Saint Lucia 118, Antigua and Barbuda 103, Greece 84, Turkey 42, international 20, Vanuatu 6, Montenegro 1.
+Numbers per jurisdiction (ISO codes): USA 834, PRT 452, LVA 429, KNA 359, IRL 231, PAN 181, GRD 138, MLT 129, DMA 124, LCA 118, ESP 115, ATG 103, VUT 98, GBR 97, AUS 86, GRC 84, AUT 73, CYP 73, HUN 71, MNE 70, TUR 42, SGP 31, BGR 25, COM 23, MKD 23, INTL 20, ARE 18, MDA 14, EGY 13, ITA 12, TON 12, JOR 10, NRU 6, KHM 5, STP 1, VCT 1.
+
+When a source splits a number (by nationality, investment route, applicant type), the split is in the `breakdown` column, for example `nationality=CHN` or `route=real_estate;nationality=RUS`.
 
 The full column-by-column description is in [docs/DATA_MODEL.md](docs/DATA_MODEL.md).
 
@@ -72,10 +79,10 @@ sorts each case into one of these groups:
 
 | kind | meaning | cases |
 |---|---|---|
-| `vintage` | a budget or forecast that differs from the later outturn | 23 |
-| `revision` | one publisher changing its own figure in later documents (common in IMF reports) | 47 |
-| `same_source` | one document giving two values, usually for two definitions | 10 |
-| `conflict` | different publishers disagreeing about what happened | 18 |
+| `vintage` | a budget or forecast that differs from the later outturn | 27 |
+| `revision` | one publisher changing its own figure in later documents (common in IMF reports) | 85 |
+| `same_source` | one document giving two values, usually for two definitions | 14 |
+| `conflict` | different publishers disagreeing about what happened | 58 |
 
 A few examples of what this shows:
 
@@ -94,6 +101,14 @@ A few examples of what this shows:
   series changes between its own six-monthly reports: 2016 appears as 1,016,
   314 and 116 in different editions (the last is probably a dropped digit in
   the unit's own chart).
+- **Spain.** Answers to parliament count 6,272 property-route visas for
+  2013–2023; government press releases in 2024 claim 14,576 "golden visas"
+  for the same years without saying what they count.
+- **Montenegro.** National figures give 1,113 applications and 869
+  approvals; the European Commission's figures use different, undefined
+  units.
+- **Portugal.** A widely repeated €6.45 billion raised is property
+  investment only; the official total across all routes is €7.32 billion.
 
 ## How the numbers were checked
 
@@ -103,26 +118,31 @@ A few examples of what this shows:
   even if the original moves or changes. News articles and industry reports are
   linked, with an archive link where we have one, and not stored.
 - `scripts/verify_quotes.py` looks for every quote in the text of the stored
-  copy. Results are in `reports/quotes.csv`: of the 1,460 quoted rows, 1,376 cite a stored document; 1,217 of those quotes were found verbatim, 107 matched loosely (a table row put back together from its cells), 51 were checked by eye, and 1 points to a stored file that turned out to be the wrong page. The other 84 cite news and industry sources, which are linked rather than stored.
-  Quotes from image-only tables were compared with the rendered page by eye.
-  `data/quote_checks.csv` records who checked each one, when, and what they saw.
+  copy (with OCR in 18 languages for scans). Of the 5,200 quoted rows,
+  4,893 cite a stored document: 3,928 quotes were found verbatim,
+  459 matched as a table row put back together from its cells,
+  72 were checked by eye against the page image, and 432
+  (quotes rebuilt from table cells or chart labels) had the number itself
+  confirmed by the blind second reading below. 2 point to a stored
+  file that turned out not to be the page the quote comes from, and say so.
+  The other 307 cite news and industry sources, linked rather than
+  stored. Results are in `reports/quotes.csv`; by-eye checks are recorded in
+  `data/quote_checks.csv`.
 - **A blind second reading.** A different AI model (Claude Sonnet 5) was
-  given each number's document, page, indicator and period, but not the
-  value, and read the number itself. It read 875 numbers from stored
-  documents. 840 came out the same. Most first-pass differences were tables
-  that print a budget, a projection and an actual figure for the same year,
-  and went away once the reader was told the status. The remaining 35 were
-  checked on the page: in 31 the first reading was right (the second reader
-  took a neighbouring row or column, used the wrong fiscal-year convention, or
-  couldn't choose between components, as with Malta's split of revenue
-  between the budget and the development fund), and in 4 the document itself
-  prints two different figures, which the row notes now say. No value in the
-  dataset had to be corrected. The 185 FAOSTAT rows were checked cell by cell
-  by a script instead. Readings are in `data/second_read.csv`, rulings in
+  given each number's document, page, indicator, period and kind of figure,
+  but not the value, and read the number itself. It read 3,318
+  numbers: 3,267 came out the same. The other 51
+  were checked on the page: in 42 the first reading was right (the
+  second reader took a neighbouring row or column, used the wrong fiscal-year
+  convention, or wasn't told which programme a row belonged to), and in
+  9 the document itself prints two different figures, which the
+  row notes say. No value had to be corrected; the pass did correct page
+  numbers (29 so far) and turned "fewer than N" figures into ranges.
+  Numbers from structured files (spreadsheets, XML, JSON) were sampled
+  rather than all read twice; the FAOSTAT rows were checked cell by cell by
+  a script. Readings are in `data/second_read.csv`, rulings in
   `data/second_read_resolutions.csv`, and the comparison in
   `reports/second_read.csv`.
-- The same pass checks page numbers. Eleven locations were off by one page
-  (mostly in Dominica's budget addresses) and have been corrected.
 - `scripts/check.py` validates the tables (types, references, checksums) and
   writes `reports/validation.txt`.
 
@@ -147,6 +167,11 @@ publishing a number, open the stored document at the given location.
 - **Greece**: detailed permit statistics, but no official figures on the
   value invested. Widely quoted totals are application counts multiplied
   by the minimum threshold.
+- **UAE, Egypt, Jordan, Singapore, Cambodia**: no regular official
+  statistics; counts come from ministers' statements, single decrees or
+  rounded multi-year totals.
+- **Residence programmes** rarely say how many permit holders later became
+  citizens, and few publish the money actually invested.
 - **Real-estate money** (paid to developers rather than the state) is
   almost nowhere published, so total inflows are rarely known.
 - Every official document is stored. Five news articles could not be

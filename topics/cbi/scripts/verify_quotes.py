@@ -17,6 +17,8 @@ Writes reports/quotes.csv with one result per row:
 
 Scanned PDFs (no text layer) are OCR'd with tesseract; the text_from column
 says "ocr" for those, since OCR can misread digits.
+    read_twice  the quote isn't verbatim (a table rebuilt from its cells, a chart
+                label) but a blind second reading confirmed the number itself
     no_copy     no stored copy of the source
     checked     someone compared the quote with the page by eye and it matches
     wrong_copy  the stored file isn't the document the quote comes from
@@ -53,7 +55,13 @@ OCR_MARK = "__ocr__\n"
 
 
 TESSDATA = os.path.join(HERE, "_tessdata")  # eng, osd and tur models (tessdata_fast), not published
-LANGS = {"TUR": "tur+eng"}
+# OCR languages by jurisdiction (models in _tessdata, from tessdata_fast)
+LANGS = {
+    "TUR": "tur+eng", "PAN": "spa+eng", "ESP": "spa+eng", "ARG": "spa+eng", "PRT": "por+eng", "STP": "por+eng",
+    "GRC": "ell+eng", "CYP": "ell+eng", "EGY": "ara+eng", "JOR": "ara+eng", "ARE": "ara+eng", "HUN": "hun+eng",
+    "LVA": "lav+eng", "BGR": "bul+eng", "MDA": "ron+eng", "ITA": "ita+eng", "MNE": "srp_latn+srp+eng",
+    "MKD": "mkd+eng", "KHM": "khm+eng", "AUT": "deu+eng", "COM": "fra+eng",
+}
 
 
 def ocr(path, lang="eng"):
@@ -93,11 +101,19 @@ def extract(path, lang="eng"):
                                           text=True, timeout=300).stdout
             if len(text.strip()) < 500:
                 text = OCR_MARK + ocr(path, lang)
-        elif ext in ("xls", "xlsx"):
+        elif ext in ("xls", "xlsx", "ods"):
             import pandas as pd
-            sheets = pd.read_excel(path, sheet_name=None, header=None)
+            sheets = pd.read_excel(path, sheet_name=None, header=None, engine="odf" if ext == "ods" else None)
             text = "\n".join(df.astype(str).to_csv(sep=" ", index=False, header=False)
                              for df in sheets.values())
+            if ext == "xlsx":
+                # pivot tables keep their data in a cache the sheets don't show; read its values too
+                import zipfile
+                with zipfile.ZipFile(path) as z:
+                    for name in z.namelist():
+                        if name.startswith("xl/pivotCache/"):
+                            xml = z.read(name).decode("utf-8", "ignore")
+                            text += "\n" + " ".join(re.findall(r'\bv="([^"]*)"', xml))
         else:
             import html
             with open(path, "rb") as f:
@@ -129,10 +145,10 @@ def found(quote, haystack):
 
 def loose(quote, haystack, window=2500):
     tokens = {t.strip(".,:;'\"()/-") for t in normalise(quote).split()}
-    tokens = [t for t in tokens if len(t) >= 2]
+    tokens = sorted(t for t in tokens if len(t) >= 2)  # sorted: the same choice every run
     if not tokens:
         return False
-    rarest = min(tokens, key=lambda t: haystack.count(t))
+    rarest = min(tokens, key=lambda t: (haystack.count(t), -len(t), t))
     start = 0
     for _ in range(300):
         pos = haystack.find(rarest, start)
@@ -213,6 +229,12 @@ def main():
     # keyed on what was checked rather than the row id, which changes if a row is edited
     checks = {(c["source_id"], c["location"], c["quote"]): c for c in read("quote_checks.csv")} \
         if os.path.exists(os.path.join(DATA, "quote_checks.csv")) else {}
+    # numbers a blind second reading confirmed (see second_read.py)
+    confirmed = set()
+    sr = os.path.join(HERE, "reports", "second_read.csv")
+    if os.path.exists(sr):
+        with open(sr, newline="", encoding="utf-8") as f:
+            confirmed = {r["obs_id"] for r in csv.DictReader(f) if r["final"] in ("confirmed", "first_correct")}
     texts = {}
     out = []
     for table, idcol in (("observations.csv", "obs_id"), ("program_terms.csv", "term_id"),
@@ -245,6 +267,8 @@ def main():
                     # a scanned page inside a PDF that has text on other pages
                     result = "found" if found(quote, ocr_text(raw)) else "loose"
                     text_from = "ocr"
+                elif r[idcol] in confirmed:
+                    result = "read_twice"
                 else:
                     result = "not_found"
             page_check = ""

@@ -1,0 +1,86 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 ./akomantoso30.xsd ">
+  <debate name="Official Report">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2005-11-22/writtens/dbsect_358"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2005-11-22/writtens"/>
+          <FRBRdate date="2005-11-22" name="#generation"/>
+          <FRBRauthor href="/ie/oireachtas/house/dail/29"/>
+          <FRBRcountry value="ie"/>
+          <FRBRname value="writtens"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2005-11-22/writtens/mul@/dbsect_358"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2005-11-22/writtens/mul@"/>
+          <FRBRdate date="2005-11-22" name="#reported"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+          <FRBRlanguage language="mul"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/ie/debateRecord/dail/2005-11-22/writtens/mul@/dbsect_358.xml"/>
+          <FRBRuri value="/akn/ie/debateRecord/dail/2005-11-22/writtens/mul@.akn"/>
+          <FRBRdate date="2020-06-25" name="#publication"/>
+          <FRBRauthor href="/ie/oireachtas/role/debates"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#source">
+        <TLCOrganization eId="source" href="" showAs="Houses of the Oireachtas"/>
+        <TLCConcept eId="generation" href="/ie/oireachtas/ontology#Generation" showAs="Generation"/>
+        <TLCConcept eId="publication" href="/ie/oireachtas/ontology#Publication" showAs="Publication"/>
+        <TLCConcept eId="reported" href="/ie/oireachtas/ontology#Reported" showAs="Reported"/>
+        <TLCPerson eId="AengusOSnodaighSF" href="/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06" showAs="Aengus Ó Snodaigh"/>
+        <TLCPerson eId="MichaelMcDowellPD" href="/ie/oireachtas/member/id/Michael-McDowell.D.1987-03-10" showAs="Michael McDowell"/>
+        <TLCRole eId="Minister_for_Justice,_Equality_and_Law_Reform" href="/ie/oireachtas/role/minister/justice__equality__law_reform" showAs="Minister for Justice, Equality and Law Reform"/>
+        </references>
+    </meta>
+    <preface>
+      <block name="title_ga">
+        <docTitle>DÍOSPÓIREACHTAÍ PARLAIMINTE</docTitle>
+      </block>
+      <block name="title_en">
+        <docTitle>PARLIAMENTARY DEBATES</docTitle>
+      </block>
+      <block name="proponent_ga">
+        <docProponent>DÁIL ÉIREANN</docProponent>
+      </block>
+      <block name="status_ga">
+        <docStatus>TUAIRISC OIFIGIÚIL</docStatus>
+      </block>
+      <block name="status_en">
+        <docStatus>(OFFICIAL REPORT)</docStatus>
+      </block>
+      <block name="date_ga">
+        <docDate date="2005-11-22">Dé Máirt, 22 Samhain 2005</docDate>
+      </block>
+      <block name="date_en">
+        <docDate date="2005-11-22">Tuesday, 22 November 2005</docDate>
+      </block>
+      <block name="volume">
+        <docNumber refersTo="#vol_610">Vol. 610</docNumber>
+      </block>
+      <block name="number">
+        <docNumber refersTo="#no_4">No. 4</docNumber>
+      </block>
+    </preface>
+    <debateBody><debateSection name="writtenAnswer" eId="dbsect_358">
+          <heading>Passports for Investment Scheme.</heading>
+          <question by="#AengusOSnodaighSF" to="#Minister_for_Justice,_Equality_and_Law_Reform" eId="pq_465">
+            <p eId="para_4992">
+        512
+        <b>Aengus Ó Snodaigh</b>
+         asked the 
+        <b>Minister for Justice, Equality and Law Reform</b>
+        the individual beneficiaries of the passport for investment scheme; the years they benefited; and the specific grounds on which they received passports.
+        [35772/05]
+      </p>
+          </question>
+          <speech by="#MichaelMcDowellPD" as="#Minister_for_Justice,_Equality_and_Law_Reform" eId="spk_974">
+            <from>Minister for Justice, Equality and Law Reform (Mr. McDowell)</from>
+            <p eId="para_4993">A total of 107 primary investors, together with 76 spouses and minor children, were naturalised under the investment-based naturalisation scheme between 1989 and 2004.</p>
+            <p eId="para_4994">It has been the practice of successive Ministers for Justice not to publish details of individual naturalisation cases other than those which are required by law, that is, the publication in <i>Iris Oifigiúil</i> of the name and address of the applicant, the date naturalised and whether he or she was an adult or minor. This policy is in place for a very good reason and I do not intend to depart from it. Applicants linked to investments and for that matter all applicants have an expectation that there will be no additional form of publicity about their applications other than that which is prescribed by law.</p>
+            <p eId="para_4995">As the Deputy will be aware, the investment-based naturalisation scheme was abolished in April 1998 and in the Irish Nationality and Citizenship Act 2004, I introduced provisions to ensure that this scheme would not be reinstituted and to rule out any future such scheme.</p>
+          </speech>
+        </debateSection>
+        </debateBody></debate>
+</akomaNtoso>

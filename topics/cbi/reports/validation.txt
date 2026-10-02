@@ -1,6 +1,5 @@
+WARN   source bgr-economy-2022-02-17: media source without an archive link
+WARN   source bgr-economy-2022-03-25: media source without an archive link
 WARN   source dma-caribbean360-2026-08: media source without an archive link
 WARN   source grc-gtp-2025-02-13: media source without an archive link
-WARN   source kna-imidaily-2024-12-10: media source without an archive link
-WARN   source tur-hurriyet-2022-05-11: media source without an archive link
-WARN   source tur-hurriyet-2026-08-04: media source without an archive link
-WARN   source tur-turizmekonomi-2026-08: media source without an archive link
+WARN   source mkd-makfax-zarrab-2017: media source without an archive link

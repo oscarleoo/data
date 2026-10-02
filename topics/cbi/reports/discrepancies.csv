@@ -26,6 +26,23 @@ ATG,atg-cbi,passports_issued,2016,persons,116,1,116.0,actual,atg-ciu-6m-2024h1,"
 ATG,atg-cbi,passports_issued,2016,persons,314,1,314.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,88.6,revision,o-b81f438676
 ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,88.6,revision,o-02a5d29e29
 ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,88.6,revision,o-82b6dd72fc
+AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10321,1,10321.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.2,revision,o-4ede003b68
+AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10451,1,10451.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.2,revision,o-b5179c1968
+AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.0,revision,o-221ba9249d
+AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23223,1,23223.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.0,revision,o-40c05b0b6a
+AUS,aus-biip,applications_received,FY2014/15,persons,12107,1,12107.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.0,revision,o-65ca02680e
+AUS,aus-biip,applications_received,FY2014/15,persons,12225,1,12225.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.0,revision,o-d6a7309cc9
+AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.2,revision,o-1ad8f7abff
+AUS,aus-biip,applications_received,FY2017/18,persons,16816,1,16816.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,15.2,revision,o-604605b2e7
+COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,33.6,million,33600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-e8dca58755
+COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,45.6,million,45600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-13428e5331
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,1.4,1,1.4,budget,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-a98cf229af
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,3,1,3.0,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-0e64521d37
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-af83db0cb7
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-5341330f0c
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,estimate,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef
+COM,com-ecp,passports_issued,2008-2017,passports,47950,1,47950.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,0.1,conflict,o-2f5a85790a
+COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-reuters-2018-03-23,Reuters,2018-03-23,0.1,conflict,o-e5f6e475d8
 DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,67.0,million,67000000.0,estimate,dma-imf-art4-2016,International Monetary Fund,2016-07,66.5,conflict,o-167b9907ef
 DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,70.0,million,70000000.0,budget,dma-budget-address-2015-16,"Government of the Commonwealth of Dominica, Ministry of Finance",2015,66.5,conflict,o-0870ab4e52
 DMA,dma-cbi,cbi_fiscal_revenue,FY2015/16,XCD,72.7,million,72700000.0,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,66.5,conflict,o-075753e0ea
@@ -109,6 +126,16 @@ DMA,dma-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,31.5,1,31.5,provisional,dma-
 DMA,dma-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,34.2,1,34.2,estimate,dma-imf-art4-2026,International Monetary Fund,2026-06-02,7.9,revision,o-d2d1ecc2b3
 DMA,dma-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,26.7,1,26.7,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,13.6,vintage,o-9419e0c65b
 DMA,dma-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,30.9,1,30.9,provisional,dma-imf-art4-2026,International Monetary Fund,2026-06-02,13.6,vintage,o-0ec73752ed
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2013,visas,1,1,1.0,actual,esp-congreso-resp-184-6938-2024,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes y Asuntos Constitucionales (Congreso de los Diputados, XV Legislatura)",2024-05-17,50.0,conflict,o-8bd5ad7405
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2013,visas,2,1,2.0,actual,esp-congreso-resp-184-44882-2019,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes (Congreso de los Diputados, XII Legislatura)",2019-03-04,50.0,conflict,o-11e6029eb1
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2014,visas,487,1,487.0,actual,esp-congreso-resp-184-6938-2024,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes y Asuntos Constitucionales (Congreso de los Diputados, XV Legislatura)",2024-05-17,0.4,conflict,o-d468d5ac14
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2014,visas,489,1,489.0,actual,esp-congreso-resp-184-44882-2019,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes (Congreso de los Diputados, XII Legislatura)",2019-03-04,0.4,conflict,o-777a80305b
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2016,visas,660,1,660.0,actual,esp-congreso-resp-184-6938-2024,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes y Asuntos Constitucionales (Congreso de los Diputados, XV Legislatura)",2024-05-17,0.2,conflict,o-d6166a5764
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2016,visas,661,1,661.0,actual,esp-congreso-resp-184-44882-2019,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes (Congreso de los Diputados, XII Legislatura)",2019-03-04,0.2,conflict,o-da64bcce84
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2017,visas,575,1,575.0,actual,esp-congreso-resp-184-44882-2019,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes (Congreso de los Diputados, XII Legislatura)",2019-03-04,0.2,conflict,o-e7f19e99a4
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2017,visas,576,1,576.0,actual,esp-congreso-resp-184-6938-2024,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes y Asuntos Constitucionales (Congreso de los Diputados, XV Legislatura)",2024-05-17,0.2,conflict,o-5975cfa05b
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2018,visas,599,1,599.0,actual,esp-congreso-resp-184-44882-2019,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes (Congreso de los Diputados, XII Legislatura)",2019-03-04,1.5,conflict,o-17d94a154e
+ESP,esp-golden-visa,investor_visas_issued [route=real_estate],2018,visas,608,1,608.0,actual,esp-congreso-resp-184-6938-2024,"Gobierno de España, Secretaría de Estado de Relaciones con las Cortes y Asuntos Constitucionales (Congreso de los Diputados, XV Legislatura)",2024-05-17,1.5,conflict,o-197c0ad51b
 GRC,grc-golden-visa,applications_pending,2024-12-31,applications,12087,1,12087.0,reported,grc-gtp-2025-02-13,GTP Headlines,2025-02-13,21.6,conflict,o-0cd2c5d163
 GRC,grc-golden-visa,applications_pending,2024-12-31,applications,15420,1,15420.0,actual,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,21.6,conflict,o-62cf1f0db2
 GRC,grc-golden-visa,applications_received,2022,applications,4264,1,4264.0,provisional,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,2.0,revision,o-e497ea64f3
@@ -169,8 +196,83 @@ GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,10.2,1,10.2,estimate,grd-imf
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,11.1,1,11.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.1,vintage,o-b351fef4e6
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,031",1,1031.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,32.9,revision,o-99e3f078a1
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,536",1,1536.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,32.9,revision,o-9d3bc4c0ce
+HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19838,1,19838.0,reported,hun-444-revocations-2018,444.hu,2018-12-06,0.2,conflict,o-e43b14fe23
+HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19885,1,19885.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.2,conflict,o-68ed04f55c
+HUN,hun-residency-bond,residence_permits_issued [applicant=investor],2013-2017,persons,6538,1,6538.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.7,same_source,o-b0596cc007
+HUN,hun-residency-bond,residence_permits_issued [applicant=investor],2013-2017,persons,6585,1,6585.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.7,same_source,o-c425108d6a
 INTL,,passports_issued,to 2025,passports,107000,1,107000.0,estimate,intl-ec-com-2025-792,European Commission,2025-12-19,0.6,revision,o-46f18788cc
 INTL,,passports_issued,to 2025,passports,107625,1,107625.0,estimate,intl-ec-swd-2025-429,European Commission,2025-12-19,0.6,revision,o-f2f94fd50a
+IRL,irl-ibn,applications_approved,1992,applications,17,1,17.0,actual,irl-dail-wa-1994-06-14,Houses of the Oireachtas,1994-06-14,15.0,revision,o-e3fa100678
+IRL,irl-ibn,applications_approved,1992,applications,20,1,20.0,actual,irl-dail-pq-1994-10-25,Houses of the Oireachtas,1994-10-25,15.0,revision,o-d1258728d8
+IRL,irl-iip,applications_approved,2015,applications,67,1,67.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,4.3,revision,o-eb8e10c834
+IRL,irl-iip,applications_approved,2015,applications,70,1,70.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,4.3,revision,o-f6568be0d6
+IRL,irl-iip,applications_approved,2017,applications,360,1,360.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.7,revision,o-d2b5fc91b7
+IRL,irl-iip,applications_approved,2017,applications,369,1,369.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.7,revision,o-5c4d51b1d8
+IRL,irl-iip,applications_approved,2017,applications,370,1,370.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,2.7,revision,o-9741cf5d68
+IRL,irl-iip,applications_approved,2018,applications,145,1,145.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,19.9,revision,o-b08f08b998
+IRL,irl-iip,applications_approved,2018,applications,155,1,155.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,19.9,revision,o-aa4057327a
+IRL,irl-iip,applications_approved,2018,applications,181,1,181.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,19.9,revision,o-96411de52c
+IRL,irl-iip,applications_approved,2019,applications,222,1,222.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,6.3,revision,o-d317185b39
+IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,6.3,revision,o-39d991d75a
+IRL,irl-iip,applications_approved,2020,applications,267,1,267.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-a41327b141
+IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-4912d3a70b
+IRL,irl-iip,applications_approved,2021,applications,264,1,264.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.8,revision,o-fbf4829516
+IRL,irl-iip,applications_approved,2021,applications,266,1,266.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.8,revision,o-1cd74f3ee7
+IRL,irl-iip,applications_approved,2022,applications,306,1,306.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.3,revision,o-7f87b6ab80
+IRL,irl-iip,applications_approved,2022,applications,307,1,307.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.3,revision,o-b7b563dc46
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,10.0,conflict,o-c3bf47ffa5
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,10.0,conflict,o-6d2bfa34a2
+IRL,irl-iip,applications_received,2013,applications,20,1,20.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,10.0,conflict,o-5a6212fec3
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,9.1,conflict,o-dbf0a1e25d
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,9.1,conflict,o-4fb228bf79
+IRL,irl-iip,applications_received,2014,applications,33,1,33.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,9.1,conflict,o-706f50ba12
+IRL,irl-iip,applications_received,2015,applications,66,1,66.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,12.0,conflict,o-3b0978daf9
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,12.0,conflict,o-530ca1bb6a
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,12.0,conflict,o-37f8cc4b72
+IRL,irl-iip,applications_received,2016,applications,329,1,329.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,1.5,conflict,o-6c6d07a4f3
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.5,conflict,o-16cf74e45d
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.5,conflict,o-80589f0673
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.6,revision,o-5299e47c4f
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.6,revision,o-58a66c35f9
+IRL,irl-iip,applications_received,2017,applications,326,1,326.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,0.6,revision,o-539ae97cb2
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.2,revision,o-832bb5ec12
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.2,revision,o-1352a71eb1
+IRL,irl-iip,applications_received,2018,applications,424,1,424.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,0.2,revision,o-d73040c8b6
+IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-d5440b2025
+IRL,irl-iip,applications_received,2019,applications,445,1,445.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-6c82311832
+IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-14b64eb20f
+IRL,irl-iip,applications_received,2021,applications,259,1,259.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-8978353835
+IRL,irl-iip,applications_received,2022,applications,1316,1,1316.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.0,revision,o-19cff1757e
+IRL,irl-iip,applications_received,2022,applications,1343,1,1343.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.0,revision,o-037e97cbef
+IRL,irl-iip,applications_received [nationality=CHN],2018,applications,297,1,297.0,reported,irl-doj-iip-review-phase1,Ernst & Young for the Irish Naturalisation and Immigration Service,2020-04-24,27.9,conflict,o-1d58f1888e
+IRL,irl-iip,applications_received [nationality=CHN],2018,applications,412,1,412.0,provisional,irl-oir-wa-2022-03-22,Houses of the Oireachtas,2022-03-22,27.9,conflict,o-c9da2bb6c3
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,40.0,conflict,o-be31db8dfc
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,40.0,conflict,o-0bf756bec5
+IRL,irl-iip,rbi_investment_total,2012,EUR,2500000,1,2500000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,40.0,conflict,o-b4db785e5f
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.6,conflict,o-d400fff515
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.6,conflict,o-8f2bd8ddfb
+IRL,irl-iip,rbi_investment_total,2013,EUR,12650000,1,12650000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.6,conflict,o-e22dd2ea81
+IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,78.9,conflict,o-771b207b69
+IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,78.9,conflict,o-ca6e98b3a1
+IRL,irl-iip,rbi_investment_total,2014,EUR,13950000,1,13950000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,78.9,conflict,o-0a2753d239
+IRL,irl-iip,rbi_investment_total,2015,EUR,36250000,1,36250000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,5.4,conflict,o-a35e81dcc6
+IRL,irl-iip,rbi_investment_total,2015,EUR,36800000,1,36800000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.4,conflict,o-a382b55511
+IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.4,conflict,o-0b0863e812
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,87.0,conflict,o-2d34261ca7
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,87.0,conflict,o-26c3973f44
+IRL,irl-iip,rbi_investment_total,2016,EUR,144300000,1,144300000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,87.0,conflict,o-78549707cb
+IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.6,revision,o-9381540ac4
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.6,revision,o-f2fa160e5d
+IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.1,revision,o-b5a8118ba0
+IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.1,revision,o-dbec29bcf9
+IRL,irl-iip,rbi_investment_total,2019,EUR,194200000,1,194200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.2,revision,o-687298ecbd
+IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.2,revision,o-52d745ac3c
+IRL,irl-iip,rbi_investment_total,2020,EUR,186200000,1,186200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.0,revision,o-6f7c9d19c9
+IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.0,revision,o-bdfa53d74f
+IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-53c5d3f6bc
+IRL,irl-iip,rbi_investment_total,2021,EUR,187700000,1,187700000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-b16abfa026
+IRL,irl-iip,rbi_investment_total,2022,EUR,205900000,1,205900000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.5,revision,o-6ae4ce7d4f
+IRL,irl-iip,rbi_investment_total,2022,EUR,206900000,1,206900000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.5,revision,o-0d59157937
 KNA,,sugar_industry_employment,2005,persons,1400,1,1400.0,estimate,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-d6ac0d06ab
 KNA,,sugar_industry_employment,2005,persons,1406,1,1406.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-86419fadf5
 KNA,,sugar_severance_cost,2005,XCD,27.4,million,27400000.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,37.7,conflict,o-29464df62d
@@ -298,3 +400,119 @@ LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18621151,1,18621151.0,actual,lca-ciu-
 LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,22858260,1,22858260.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.5,revision,o-879889e072
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.3,conflict,o-7d17947da8
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.3,conflict,o-406863c9c4
+MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
+MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-mediterannews-2026-09-11,MediteranNews,2026-09-11,50.0,conflict,o-9f4399fce9
+PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,207,1,207.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,4.2,revision,o-f7ddbf54b9
+PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,216,1,216.0,provisional,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,4.2,revision,o-2faf3e126d
+PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,120,1,120.0,provisional,pan-mici-press-2025-01-23,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-01-23,9.1,revision,o-88da900d16
+PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,132,1,132.0,provisional,pan-mici-press-2025-02-26,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-26,9.1,revision,o-31a42fea6c
+PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,115.6,million,115600000.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,3.7,revision,o-d03224048f
+PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,120,million,120000000.0,claim,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,3.7,revision,o-6a702957f2
+PRT,prt-golden-visa,dependants_approved,2013,persons,563,1,563.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-c9683b194f
+PRT,prt-golden-visa,dependants_approved,2013,persons,576,1,576.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-5338f7145f
+PRT,prt-golden-visa,main_applicants_approved,2013,persons,476,1,476.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-216c826b75
+PRT,prt-golden-visa,main_applicants_approved,2013,persons,494,1,494.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-088bc5096a
+PRT,prt-golden-visa,main_applicants_approved [route=real_estate],2013,persons,446,1,446.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.9,revision,o-02f8ec3ef7
+PRT,prt-golden-visa,main_applicants_approved [route=real_estate],2013,persons,464,1,464.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.9,revision,o-7c7d5b62ac
+PRT,prt-golden-visa,rbi_investment_total,2012-10/2023-09,EUR,6451,million,6451000000.0,reported,prt-eco-gv-record-2026,ECO,2026-09-25,11.9,conflict,o-3acb79ae70
+PRT,prt-golden-visa,rbi_investment_total,2012-10/2023-09,EUR,7318438201.77,1,7318438201.77,actual,prt-sef-ari-map-2012-2023-09,Serviço de Estrangeiros e Fronteiras (SEF),2023-10,11.9,conflict,o-3d8e2e13e5
+PRT,prt-golden-visa,rbi_investment_total,2013,EUR,304002774.99,1,304002774.99,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-70a8c7243c
+PRT,prt-golden-visa,rbi_investment_total,2013,EUR,304588774.99,1,304588774.99,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-f9995ae042
+PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,269775097.81,1,269775097.81,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-d4f1b39044
+PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,270361097.81,1,270361097.81,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-133478ef7d
+SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24000,1,24000.0,estimate,sgp-parl-oa-gip-2023,Parliament of Singapore (Official Report / Hansard),2023-02-23,2.8,conflict,o-96bf846137
+SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24699,1,24699.0,actual,sgp-edb-gip-mr-2023,Singapore Economic Development Board (EDB),2023-03-02,2.8,conflict,o-b3bdec04bd
+USA,usa-eb5,applications_received,FY2010,applications,1953,1,1953.0,actual,usa-uscis-data-i526-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,0.1,revision,o-3748a8f566
+USA,usa-eb5,applications_received,FY2010,applications,1955,1,1955.0,actual,usa-uscis-data-i526-i829-fy1991-2013,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2013-08-14,0.1,revision,o-a0a4a02684
+USA,usa-eb5,applications_received,FY2018,applications,6424,1,6424.0,actual,usa-uscis-data-i526-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,3.0,conflict,o-f8b2e524fd
+USA,usa-eb5,applications_received,FY2018,applications,6626,1,6626.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,3.0,conflict,o-fc13514fe4
+USA,usa-eb5,applications_received,FY2019,applications,4007,1,4007.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,4.5,conflict,o-f627b8d746
+USA,usa-eb5,applications_received,FY2019,applications,4194,1,4194.0,actual,usa-uscis-data-i526-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,4.5,conflict,o-e61bc09039
+USA,usa-eb5,applications_received,FY2020,applications,4062,1,4062.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,7.2,conflict,o-d80044857b
+USA,usa-eb5,applications_received,FY2020,applications,4378,1,4378.0,actual,usa-uscis-data-allforms-fy2020q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2021-01,7.2,conflict,o-222230acde
+USA,usa-eb5,applications_received,FY2021,applications,794,1,794.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,2.5,conflict,o-31a84673de
+USA,usa-eb5,applications_received,FY2021,applications,814,1,814.0,actual,usa-uscis-data-allforms-fy2021q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-01,2.5,conflict,o-100890e722
+USA,usa-eb5,applications_received,FY2022,applications,654,1,654.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,21.1,conflict,o-77eb1de815
+USA,usa-eb5,applications_received,FY2022,applications,829,1,829.0,actual,usa-uscis-data-allforms-fy2022q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-12,21.1,conflict,o-5a529d1cd7
+USA,usa-eb5,applications_received [form=I-526E],FY2023,applications,2431,1,2431.0,actual,usa-uscis-data-allforms-fy2023q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2023-12,0.0,revision,o-ec13de3e60
+USA,usa-eb5,applications_received [form=I-526E],FY2023,applications,2432,1,2432.0,actual,usa-uscis-data-i526-cob-fy2022-2024,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2025-10,0.0,revision,o-c858671d4c
+USA,usa-eb5,applications_received [form=I-526E],FY2024,applications,4567,1,4567.0,actual,usa-uscis-data-allforms-fy2024q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2024-12,1.1,revision,o-b2a12316ff
+USA,usa-eb5,applications_received [form=I-526E],FY2024,applications,4620,1,4620.0,actual,usa-uscis-data-i526-cob-fy2022-2024,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2025-10,1.1,revision,o-b724895dcb
+USA,usa-eb5,applications_received [form=I-526],FY2024,applications,281,1,281.0,actual,usa-uscis-data-allforms-fy2024q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2024-12,0.4,revision,o-20f51fd3e0
+USA,usa-eb5,applications_received [form=I-526],FY2024,applications,282,1,282.0,actual,usa-uscis-data-i526-cob-fy2022-2024,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2025-10,0.4,revision,o-ec99093d99
+USA,usa-eb5,conditions_removal_petitions_received,FY2018,applications,3283,1,3283.0,actual,usa-uscis-data-i829-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,3.6,conflict,o-0c3a1ceda9
+USA,usa-eb5,conditions_removal_petitions_received,FY2018,applications,3407,1,3407.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,3.6,conflict,o-9d759defb2
+USA,usa-eb5,conditions_removal_petitions_received,FY2019,applications,3756,1,3756.0,actual,usa-uscis-data-i829-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,1.2,conflict,o-31033eab00
+USA,usa-eb5,conditions_removal_petitions_received,FY2019,applications,3803,1,3803.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,1.2,conflict,o-1deab0ccd1
+USA,usa-eb5,conditions_removal_petitions_received,FY2020,applications,3096,1,3096.0,actual,usa-uscis-data-allforms-fy2020q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2021-01,4.7,conflict,o-a4610c079a
+USA,usa-eb5,conditions_removal_petitions_received,FY2020,applications,3249,1,3249.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,4.7,conflict,o-cfdf3dbc6c
+USA,usa-eb5,conditions_removal_petitions_received,FY2021,applications,3228,1,3228.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,2.2,conflict,o-93ef89c840
+USA,usa-eb5,conditions_removal_petitions_received,FY2021,applications,3301,1,3301.0,actual,usa-uscis-data-allforms-fy2021q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-01,2.2,conflict,o-0f885b9ae5
+USA,usa-eb5,conditions_removal_petitions_received,FY2022,applications,1241,1,1241.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,2.3,conflict,o-7d9ba6d233
+USA,usa-eb5,conditions_removal_petitions_received,FY2022,applications,1270,1,1270.0,actual,usa-uscis-data-allforms-fy2022q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-12,2.3,conflict,o-dd66680dd2
+USA,usa-eb5,conditions_removal_petitions_received,FY2023,applications,1169,1,1169.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.1,conflict,o-3243d43b59
+USA,usa-eb5,conditions_removal_petitions_received,FY2023,applications,1170,1,1170.0,actual,usa-uscis-data-allforms-fy2023q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2023-12,0.1,conflict,o-9f85eb9409
+USA,usa-eb5,conditions_removal_petitions_received,FY2024,applications,4133,1,4133.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.5,conflict,o-471c4d9912
+USA,usa-eb5,conditions_removal_petitions_received,FY2024,applications,4152,1,4152.0,actual,usa-uscis-data-allforms-fy2024q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2024-12,0.5,conflict,o-84f8ba5433
+USA,usa-eb5,conditions_removal_petitions_received,FY2025,applications,4394,1,4394.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.2,conflict,o-514227322e
+USA,usa-eb5,conditions_removal_petitions_received,FY2025,applications,4402,1,4402.0,actual,usa-uscis-data-allforms-fy2025q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2026-03,0.2,conflict,o-b63e5248c2
+USA,usa-eb5,investor_funds_misappropriated,2016-04-14,USD,50,million,50000000.0,claim,usa-sec-pr-2016-69,U.S. Securities and Exchange Commission,2016-04-14,75.0,same_source,o-dbeb5f9426
+USA,usa-eb5,investor_funds_misappropriated,2016-04-14,USD,200,million,200000000.0,claim,usa-sec-pr-2016-69,U.S. Securities and Exchange Commission,2016-04-14,75.0,same_source,o-937f191e3f
+VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,"2,028.5",million,2028500000.0,budget,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-0f22ea0f2b
+VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,"3,492.9",million,3492900000.0,provisional,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-8762b3b321
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,"6,504.6",million,6504600000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-de82317455
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,"12,191,471,678",1,12191471678.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,2.9,conflict,o-9b00abb359
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,"12,558",million,12558000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,2.9,conflict,o-b2c194c95f
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,"12,558.3",million,12558300000.0,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-d6fcbdd2d1
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,"9,120.3",million,9120300000.0,budget,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-a85445c51e
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,"13,491,436,604",1,13491436604.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,6.0,conflict,o-627aeb1c58
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,"14,351.8",million,14351800000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-9823820ed4
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,"14,352",million,14352000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,6.0,conflict,o-7446cd7ba4
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,"14,352",million,14352000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,6.0,conflict,o-bb72147c31
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"11,549.4",million,11549400000.0,budget,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,9.5,conflict,o-16ce21f756
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"11,647",million,11647000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.5,conflict,o-494674a4e9
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"11,647",million,11647000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,9.5,conflict,o-760be282de
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"11,647",million,11647000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,9.5,conflict,o-f738ae97b6
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"11,852,673,367",1,11852673367.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,9.5,conflict,o-987e6d61e7
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"12,851.0",million,12851000000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,9.5,conflict,o-7f716b4259
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,"12,871.4",million,12871400000.0,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.5,conflict,o-3471426878
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"7,663.2",million,7663200000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,9.7,conflict,o-0caac6fac2
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"7,924,407,151",1,7924407151.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,9.7,conflict,o-d51d3e5553
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"8,482",million,8482000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.7,conflict,o-1adbbe43a2
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"8,482",million,8482000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,9.7,conflict,o-d293e8ed38
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"8,482",million,8482000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,9.7,conflict,o-0ca7f8f7ce
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"8,483.1",million,8483100000.0,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.7,conflict,o-fc4ebd1711
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,"9,659.6",million,9659600000.0,budget,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.7,conflict,o-99e7f4b706
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"7,004",million,7004000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,16.6,conflict,o-9ae714c8ca
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"7,004",million,7004000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,16.6,conflict,o-f98d6aa7ed
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"7,133",million,7133000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,16.6,conflict,o-e84b4bc5d2
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"7,517,226,501",1,7517226501.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,16.6,conflict,o-510a1654dd
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"8,115.0",million,8115000000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,16.6,conflict,o-db8e5ae811
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"8,399.1",million,8399100000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,16.6,conflict,o-f9ad975f55
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,"9,112.9",million,9112900000.0,budget,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,16.6,conflict,o-66f76ba21d
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"3,936",million,3936000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,0.6,conflict,o-9e9725a3d3
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"9,339",million,9339000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,0.6,conflict,o-f61d3f8fc1
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"9,390.7",million,9390700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,0.6,conflict,o-dd7f69f9e9
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"9,399.2",million,9399200000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,0.6,conflict,o-a5eb07e841
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"10,983.8",million,10983800000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,0.6,conflict,o-ad8746c7db
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,"11,303.8",million,11303800000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,0.6,conflict,o-9974662309
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,"2,057,855,613",1,2057855613.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,39.1,conflict,o-2368d2d66f
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,"3,381.7",million,3381700000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,39.1,conflict,o-8a33e57d20
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,"7,471",million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,49.3,vintage,o-7f6d7b69a5
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,"7,629.5",million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,49.3,vintage,o-a280ba5905
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,"7,729.7",million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,49.3,vintage,o-4166c17480
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,"14,732.7",million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,49.3,vintage,o-9cef5dabb0
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,"12,374.7",million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,20.2,vintage,o-2fc5e4eb33
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,"15,503.7",million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,20.2,vintage,o-0bf3c3c5fd
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.0,1,11.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,1.8,revision,o-5d3021aa08
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,1.8,revision,o-b077a2c0e7
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,1.8,revision,o-5a16fffe31
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,6.7,revision,o-3ed1c51962
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.2,1,7.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,6.7,revision,o-5dfe7b2cdd
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.5,1,7.5,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,6.7,revision,o-940ec18b09
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.3,1,5.3,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,1.9,revision,o-1586a0061a
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.4,1,5.4,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,1.9,revision,o-503e4686ec
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.8,1,5.8,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,1.9,revision,o-9721600d22
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,2.9,1,2.9,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,58.6,vintage,o-c384f4ecb4
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-2b16549235
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-fb28a2a537
