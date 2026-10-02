@@ -30,7 +30,7 @@ from collections import Counter
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(HERE, "data")
-SCALES = {"1": 1, "": 1, "thousand": 1e3, "million": 1e6, "billion": 1e9}
+SCALES = {"1": 1, "": 1, "thousand": 1e3, "million": 1e6, "billion": 1e9, "trillion": 1e12}
 FIELDS = ["obs_id", "value", "value_high", "scale", "column_label", "page_found", "verbatim",
           "confidence", "comment", "reader", "read_on", "round", "given_status"]
 
@@ -51,6 +51,7 @@ def readings(v):
     if raw in ("-", "\u2013", "\u2014", "nil"):
         return [0.0]
     raw = re.sub(r"^(fewer|less|more) than |^over |^about |^around |^approximately ", "", raw)
+    raw = raw.replace("'", "").replace("\u2019", "").rstrip("+")  # 5'003 (Swiss), 119+
     t = re.sub(r"\s", "", raw).rstrip("%")
     for k, f in FRACTIONS.items():
         t = t.replace(k, f)
@@ -76,11 +77,13 @@ def half_unit(v, scale):
 
 
 def scale_of(s):
-    s = (s or "").lower()
-    for k in ("billion", "million", "thousand"):
+    s = (s or "").strip().lower()
+    words = {"trillion": 1e12, "triliun": 1e12, "billion": 1e9, "bilion": 1e9, "miliar": 1e9, "milliard": 1e9,
+             "million": 1e6, "juta": 1e6, "thousand": 1e3, "ribu": 1e3}
+    for k, v in words.items():
         if k in s:
-            return SCALES[k]
-    return 1
+            return v
+    return {"t": 1e12, "tn": 1e12, "bn": 1e9, "b": 1e9, "m": 1e6, "mn": 1e6, "k": 1e3}.get(s, 1)
 
 
 def compare(first, second):

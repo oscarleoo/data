@@ -2,11 +2,11 @@
 
 Numbers on the programmes that sell citizenship (citizenship by investment)
 or residence ("golden visas") to people who invest or donate money:
-35 citizenship and 26 residence programmes, current and closed, in
-35 countries. They include the Eastern Caribbean islands, Vanuatu, Malta,
-Cyprus, Turkey, Egypt, Jordan, Nauru, São Tomé and Príncipe, Portugal, Spain,
-Greece, Italy, Hungary, Latvia, the UAE, the US EB-5 programme, Panama,
-Singapore, and the closed UK, Irish and Australian schemes. The data also has
+37 citizenship and 85 residence programmes, current and closed, in
+71 countries and territories: the Caribbean, Vanuatu and the Pacific,
+Europe, the Gulf, Asia, Oceania, the Americas and Africa, including the
+US EB-5 programme, the old and new Hong Kong schemes, and the closed UK, Irish,
+Dutch and Australian schemes. The data also has
 the context around them: the end of the sugar industry in Saint Kitts, court
 rulings, scandals, and EU, UK and US visa and money-laundering decisions.
 
@@ -18,21 +18,21 @@ and whether it's an outturn, an estimate, a budget or a forecast. When sources
 disagree, the disagreement is part of the data.
 
 Maintained by Oscar Leo ([oscarleo.com](https://oscarleo.com)). Last research
-pass: 2 October 2026. A second pass covering the remaining residence
-programmes is planned (see `docs/WAVE2_PLAN.md`).
+pass: 2 October 2026. Remaining gaps and a consistency audit are planned
+(see `docs/WAVE2_PLAN.md`).
 
 ## What's in it
 
 | | rows |
 |---|---|
-| Numbers (`data/observations.csv`) | 4,121 |
-| Sources (`data/sources.csv`) | 973, of which 862 have a stored copy in `raw/` |
-| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 517 |
-| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 562 |
-| Programmes (`data/programs.csv`) | 61 (35 citizenship, 26 residence) |
-| Indicators and their definitions (`data/indicators.csv`) | 110 |
+| Numbers (`data/observations.csv`) | 5,873 |
+| Sources (`data/sources.csv`) | 1,322, of which 1,157 have a stored copy in `raw/` |
+| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 762 |
+| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 717 |
+| Programmes (`data/programs.csv`) | 122 (37 citizenship, 85 residence) |
+| Indicators and their definitions (`data/indicators.csv`) | 121 |
 
-Numbers per jurisdiction (ISO codes): USA 834, PRT 452, LVA 429, KNA 359, IRL 231, PAN 181, GRD 138, MLT 129, DMA 124, LCA 118, ESP 115, ATG 103, VUT 98, GBR 97, AUS 86, GRC 84, AUT 73, CYP 73, HUN 71, MNE 70, TUR 42, SGP 31, BGR 25, COM 23, MKD 23, INTL 20, ARE 18, MDA 14, EGY 13, ITA 12, TON 12, JOR 10, NRU 6, KHM 5, STP 1, VCT 1.
+Numbers per jurisdiction (ISO codes): USA 834, HKG 553, PRT 452, LVA 429, NZL 425, KNA 359, AUS 256, IRL 231, CAN 211, PAN 181, MLT 162, GRD 138, DMA 124, LCA 118, ESP 115, ATG 103, VUT 98, GBR 97, PHL 85, GRC 84, AUT 73, CYP 73, HUN 71, MNE 70, BMU 60, MYS 56, BRA 42, TUR 42, SGP 31, BGR 25, COM 23, MKD 23, INTL 20, THA 20, ARE 18, KOR 14, MDA 14, CHE 13, EGY 13, IDN 12, ITA 12, TON 12, OMN 11, JOR 10, EST 9, SAU 9, LUX 7, MUS 6, NRU 6, KHM 5, MCO 5, BHR 4, BHS 3, NLD 2, FRA 1, SLE 1, STP 1, VCT 1.
 
 When a source splits a number (by nationality, investment route, applicant type), the split is in the `breakdown` column, for example `nationality=CHN` or `route=real_estate;nationality=RUS`.
 
@@ -79,10 +79,10 @@ sorts each case into one of these groups:
 
 | kind | meaning | cases |
 |---|---|---|
-| `vintage` | a budget or forecast that differs from the later outturn | 27 |
+| `vintage` | a budget or forecast that differs from the later outturn | 30 |
 | `revision` | one publisher changing its own figure in later documents (common in IMF reports) | 85 |
-| `same_source` | one document giving two values, usually for two definitions | 14 |
-| `conflict` | different publishers disagreeing about what happened | 58 |
+| `same_source` | one document giving two values, usually for two definitions | 15 |
+| `conflict` | different publishers disagreeing about what happened | 67 |
 
 A few examples of what this shows:
 
@@ -118,24 +118,24 @@ A few examples of what this shows:
   even if the original moves or changes. News articles and industry reports are
   linked, with an archive link where we have one, and not stored.
 - `scripts/verify_quotes.py` looks for every quote in the text of the stored
-  copy (with OCR in 18 languages for scans). Of the 5,200 quoted rows,
-  4,893 cite a stored document: 3,928 quotes were found verbatim,
-  459 matched as a table row put back together from its cells,
-  72 were checked by eye against the page image, and 432
+  copy (with OCR in 29 languages for scans). Of the 7,352 quoted rows,
+  6,920 cite a stored document: 5,636 quotes were found verbatim,
+  735matched as a table row put back together from its cells,
+  81 were checked by eye against the page image, and 465
   (quotes rebuilt from table cells or chart labels) had the number itself
   confirmed by the blind second reading below. 2 point to a stored
   file that turned out not to be the page the quote comes from, and say so.
-  The other 307 cite news and industry sources, linked rather than
+  The other 432 cite news and industry sources, linked rather than
   stored. Results are in `reports/quotes.csv`; by-eye checks are recorded in
   `data/quote_checks.csv`.
 - **A blind second reading.** A different AI model (Claude Sonnet 5) was
   given each number's document, page, indicator, period and kind of figure,
-  but not the value, and read the number itself. It read 3,318
-  numbers: 3,267 came out the same. The other 51
-  were checked on the page: in 42 the first reading was right (the
+  but not the value, and read the number itself. It read 4,866
+  numbers: 4,782 came out the same. The other 84
+  were checked on the page: in 73 the first reading was right (the
   second reader took a neighbouring row or column, used the wrong fiscal-year
-  convention, or wasn't told which programme a row belonged to), and in
-  9 the document itself prints two different figures, which the
+  convention, or read the next block of a spreadsheet), and in
+  11 the document itself prints two different figures, which the
   row notes say. No value had to be corrected; the pass did correct page
   numbers (29 so far) and turned "fewer than N" figures into ranges.
   Numbers from structured files (spreadsheets, XML, JSON) were sampled

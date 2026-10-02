@@ -1,5 +1,13 @@
 WARN   source bgr-economy-2022-02-17: media source without an archive link
 WARN   source bgr-economy-2022-03-25: media source without an archive link
+WARN   source bhs-rtc-accelerated-2011: media source without an archive link
 WARN   source dma-caribbean360-2026-08: media source without an archive link
 WARN   source grc-gtp-2025-02-13: media source without an archive link
-WARN   source mkd-makfax-zarrab-2017: media source without an archive link
+WARN   source intl-techcabal-africa-cbi-2026: media source without an archive link
+WARN   source mlt-doi-pr180521-2018: official document without a stored copy
+WARN   source mlt-pq-camilleri-2025-02: official document without a stored copy
+WARN   source mys-moha-mm2h-statement-2021: official document without a stored copy
+WARN   source omn-observer-irp-463-2022: media source without an archive link
+WARN   source sau-arabnews-first-batch-2019: media source without an archive link
+WARN   source sau-prc-portal: official document without a stored copy
+WARN   source tha-tpc-ar-2025: official document without a stored copy

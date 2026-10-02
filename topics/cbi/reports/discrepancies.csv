@@ -34,6 +34,14 @@ AUS,aus-biip,applications_received,FY2014/15,persons,12107,1,12107.0,actual,aus-
 AUS,aus-biip,applications_received,FY2014/15,persons,12225,1,12225.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.0,revision,o-d6a7309cc9
 AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.2,revision,o-1ad8f7abff
 AUS,aus-biip,applications_received,FY2017/18,persons,16816,1,16816.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,15.2,revision,o-604605b2e7
+AUS,aus-siv,main_applicants_approved,FY2013/14,persons,282,1,282.0,actual,aus-aph-se14-446-2014,"Parliament of Australia, Senate Legal and Constitutional Affairs Legislation Committee (answer by the Department of Immigration and Border Protection)",2014,1.4,conflict,o-6ab8c364c8
+AUS,aus-siv,main_applicants_approved,FY2013/14,persons,286,1,286.0,actual,aus-dha-foi-170600834-2017,Department of Home Affairs (Freedom of Information disclosure log),2017,1.4,conflict,o-2fa1a65a71
+AUS,aus-siv,main_applicants_approved,FY2018/19,persons,183,1,183.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,4.2,conflict,o-aee065b4cc
+AUS,aus-siv,main_applicants_approved,FY2018/19,persons,191,1,191.0,actual,aus-dha-foi-201101057-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,4.2,conflict,o-742a955407
+AUS,aus-siv,main_applicants_approved,FY2019/20,persons,130,1,130.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,3.7,conflict,o-e04f94eda5
+AUS,aus-siv,main_applicants_approved,FY2019/20,persons,135,1,135.0,actual,aus-dha-foi-201101057-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,3.7,conflict,o-95323b84ea
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,283.2,million,283200000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,21.9,conflict,o-c2e6932b63
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,362610096,1,362610096.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,21.9,conflict,o-77b7f9d20c
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,33.6,million,33600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-e8dca58755
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,45.6,million,45600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-13428e5331
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,1.4,1,1.4,budget,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-a98cf229af
@@ -196,6 +204,16 @@ GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,10.2,1,10.2,estimate,grd-imf
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,11.1,1,11.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.1,vintage,o-b351fef4e6
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,031",1,1031.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,32.9,revision,o-99e3f078a1
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,"1,536",1,1536.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,32.9,revision,o-9d3bc4c0ce
+HKG,hkg-cies,rbi_investment_total,2003-10/2009-11,HKD,36.6,billion,36600000000.0,actual,hkg-legco-lcq13-cies-2009,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2009-12-02,8.8,conflict,o-f2eb645446
+HKG,hkg-cies,rbi_investment_total,2003-10/2009-11,HKD,40124.8,million,40124800000.0,actual,hkg-legco-se-paper-cies-2010,"Security Bureau, Hong Kong SAR Government (paper to the Legislative Council Panel on Security)",2010-01-05,8.8,conflict,o-ff515978ad
+HKG,hkg-cies,rbi_investment_total [route=real_estate],2003-10/2009-11,HKD,10.4,billion,10400000000.0,actual,hkg-legco-lcq13-cies-2009,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2009-12-02,10.9,conflict,o-4a7c4b9f8b
+HKG,hkg-cies,rbi_investment_total [route=real_estate],2003-10/2009-11,HKD,11671.5,million,11671500000.0,actual,hkg-legco-se-paper-cies-2010,"Security Bureau, Hong Kong SAR Government (paper to the Legislative Council Panel on Security)",2010-01-05,10.9,conflict,o-d434209f62
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-02-28,HKD,10548,million,10548000000.0,actual,hkg-legco-lcq9-new-cies-2025,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2025-03-26,60.9,vintage,o-5da2ec74c2
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-02-28,HKD,27,billion,27000000000.0,projection,hkg-legco-lcq9-new-cies-2025,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2025-03-26,60.9,vintage,o-38efc8df57
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-04-30,HKD,16485,million,16485000000.0,actual,hkg-investhk-pr-new-cies-first-year-2025,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2025-05-25,55.4,vintage,o-9de3e25ecd
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-04-30,HKD,37,billion,37000000000.0,projection,hkg-investhk-pr-new-cies-first-year-2025,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2025-05-25,55.4,vintage,o-1f990d4545
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,55636,million,55636000000.0,actual,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-658d3ca1b1
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,95,billion,95000000000.0,projection,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-a62bbc3afe
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19838,1,19838.0,reported,hun-444-revocations-2018,444.hu,2018-12-06,0.2,conflict,o-e43b14fe23
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19885,1,19885.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.2,conflict,o-68ed04f55c
 HUN,hun-residency-bond,residence_permits_issued [applicant=investor],2013-2017,persons,6538,1,6538.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.7,same_source,o-b0596cc007
@@ -402,12 +420,20 @@ MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-or
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.3,conflict,o-406863c9c4
 MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
 MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-mediterannews-2026-09-11,MediteranNews,2026-09-11,50.0,conflict,o-9f4399fce9
+MYS,mys-mm2h,applications_approved,2002-2018-11,applications,43466,1,43466.0,actual,mys-parl-pq-lisan22-2019,"Dewan Rakyat, Parlimen Malaysia (jawapan Menteri Pelancongan, Seni dan Budaya)",2019-10-23,1.1,same_source,o-7661158735
+MYS,mys-mm2h,applications_approved,2002-2018-11,applications,43943,1,43943.0,actual,mys-parl-pq-lisan22-2019,"Dewan Rakyat, Parlimen Malaysia (jawapan Menteri Pelancongan, Seni dan Budaya)",2019-10-23,1.1,same_source,o-3169980afb
 PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,207,1,207.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,4.2,revision,o-f7ddbf54b9
 PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,216,1,216.0,provisional,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,4.2,revision,o-2faf3e126d
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,120,1,120.0,provisional,pan-mici-press-2025-01-23,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-01-23,9.1,revision,o-88da900d16
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,132,1,132.0,provisional,pan-mici-press-2025-02-26,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-26,9.1,revision,o-31a42fea6c
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,115.6,million,115600000.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,3.7,revision,o-d03224048f
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,120,million,120000000.0,claim,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,3.7,revision,o-6a702957f2
+PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1237,1,1237.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.9,conflict,o-4e49575392
+PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1248,1,1248.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.9,conflict,o-88a94de175
+PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,339,1,339.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.3,conflict,o-f2e501c09f
+PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,340,1,340.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.3,conflict,o-05c4248206
+PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,772,1,772.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.4,conflict,o-4512a7a23a
+PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,783,1,783.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.4,conflict,o-dd819744ad
 PRT,prt-golden-visa,dependants_approved,2013,persons,563,1,563.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-c9683b194f
 PRT,prt-golden-visa,dependants_approved,2013,persons,576,1,576.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-5338f7145f
 PRT,prt-golden-visa,main_applicants_approved,2013,persons,476,1,476.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-216c826b75

@@ -61,6 +61,10 @@ LANGS = {
     "GRC": "ell+eng", "CYP": "ell+eng", "EGY": "ara+eng", "JOR": "ara+eng", "ARE": "ara+eng", "HUN": "hun+eng",
     "LVA": "lav+eng", "BGR": "bul+eng", "MDA": "ron+eng", "ITA": "ita+eng", "MNE": "srp_latn+srp+eng",
     "MKD": "mkd+eng", "KHM": "khm+eng", "AUT": "deu+eng", "COM": "fra+eng",
+    "SAU": "ara+eng", "BHR": "ara+eng", "OMN": "ara+eng", "QAT": "ara+eng", "THA": "tha+eng", "KOR": "kor+eng",
+    "IDN": "ind+eng", "MYS": "msa+eng", "BRA": "por+eng", "CRI": "spa+eng", "URY": "spa+eng", "DOM": "spa+eng",
+    "CAN": "fra+eng", "LTU": "lit+eng", "EST": "est+eng", "HRV": "hrv+eng", "NLD": "nld+eng", "CHE": "deu+fra+eng",
+    "MCO": "fra+eng", "LUX": "fra+deu+eng", "FRA": "fra+eng", "MUS": "fra+eng", "HKG": "chi_tra+eng", "TWN": "chi_tra+eng",
 }
 
 
