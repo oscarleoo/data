@@ -47,6 +47,7 @@ any number, where it came from, how reliable it is, and what other sources say.
 | `jurisdiction` | ISO alpha-3 |
 | `program_id` | from `programs.csv`, when the number is about one program |
 | `indicator` | from `indicators.csv`, e.g. `cbi_inflows` |
+| `breakdown` | empty for a total; otherwise the split as `key=value`: `nationality=CHN` (ISO alpha-3), `route=real_estate`, `applicant=family`, `sex=F`. When the source splits two ways at once, join them with `;` in this order: route, applicant, nationality, sex (e.g. `route=real_estate;nationality=RUS`) |
 | `period` | what the number covers: `2023`, `FY2023/24`, `2023-Q1`, `2014-2023` |
 | `period_basis` | `calendar_year`, `fiscal_year`, `cumulative`, `as_of_date`… |
 | `value` | the number as given (no rounding, no conversion); for a range, the low end |

@@ -22,7 +22,7 @@ COLUMNS = {
     "sources.csv": ["source_id", "title", "publisher", "author", "source_type", "jurisdiction",
                     "published_date", "accessed_date", "url", "archive_url", "raw_file", "sha256",
                     "covers", "notes"],
-    "observations.csv": ["obs_id", "jurisdiction", "program_id", "indicator", "period",
+    "observations.csv": ["obs_id", "jurisdiction", "program_id", "indicator", "breakdown", "period",
                          "period_basis", "value", "value_high", "unit", "scale", "status", "source_id",
                          "location", "quote", "notes", "superseded_by", "added_date", "added_by"],
     "program_terms.csv": ["term_id", "program_id", "route", "valid_from", "valid_to", "min_amount",
@@ -96,8 +96,10 @@ def main():
 
         for o in doc.get("observations", []):
             o = dict(o)
-            o["obs_id"] = content_id("o", o, ["source_id", "jurisdiction", "program_id", "indicator",
-                                              "period", "value", "unit", "location"])
+            fields = ["source_id", "jurisdiction", "program_id", "indicator", "period", "value", "unit", "location"]
+            if o.get("breakdown"):  # only part of the id when used, so older rows keep their ids
+                fields.append("breakdown")
+            o["obs_id"] = content_id("o", o, fields)
             o.setdefault("added_date", added)
             o.setdefault("added_by", by)
             tables["observations.csv"][o["obs_id"]] = o

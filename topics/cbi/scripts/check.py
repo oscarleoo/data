@@ -140,7 +140,7 @@ def main():
         if v is None:
             continue
         o["_normalised"] = v * SCALES.get(o.get("scale") or "1", 1)
-        groups[(o["jurisdiction"], o.get("program_id", ""), o["indicator"], o["period"], o["unit"])].append(o)
+        groups[(o["jurisdiction"], o.get("program_id", ""), o["indicator"] + (f' [{o["breakdown"]}]' if o.get("breakdown") else ""), o["period"], o["unit"])].append(o)
 
     os.makedirs(REPORTS, exist_ok=True)
     rows = []
