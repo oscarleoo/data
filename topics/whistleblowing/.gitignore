@@ -1,0 +1,7 @@
+_text/
+_tessdata/
+__pycache__/
+.DS_Store
+
+# Too large for git (>50 MB) or not redistributable: listed here as they come up
+_tessdata
