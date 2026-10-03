@@ -5323,3 +5323,164 @@ o-9f014c6e8d,"35,400",,1,,HTML chapter text,"formal approval had been given for 
 o-3732a753a6,316.9,,billion,,HTML chapter text,the total investment amounting to HK$316.9 billion,high,,claude-sonnet-5,2026-10-03,1,no
 o-dadf2d4f79,"35,000",,1,,HTML chapter text,"formal approval had been given for about 35,000 applicants",medium,"Printed as ""about 35,000""",claude-sonnet-5,2026-10-03,1,no
 o-e7ab0901c9,316.9,,billion,,HTML chapter text,bringing in a total investment amounting to $316.9 billion,high,Printed with $ (HKD in context),claude-sonnet-5,2026-10-03,1,no
+o-b8c03a1573,1.356,,1,"ΣΥΝΟΛΟ ΕΠΕΝΔΥΤΗ, ΣΥΝΟΛΟ 2020",PDF p. 6,ΣΥΝΟΛΟ 2020 1.151 205 1.356,medium,Table 7c is permits by month of application filing (initial 1.151 + renewals 205 = 1.356); table does not say 'approved' explicitly. Total column given.,claude-sonnet-5,2026-10-03,1,no
+o-582630c774,1.081,,1,"ΣΥΝΟΛΟ ΕΠΕΝΔΥΤΗ, ΣΥΝΟΛΟ 2021",PDF p. 6,ΣΥΝΟΛΟ 2021 824 257 1.081,medium,Initial 824 + renewals 257 = 1.081; footnote says monthly data are continually updated.,claude-sonnet-5,2026-10-03,1,no
+o-9759f9ac72,4.814,,1,"ΣΥΝΟΛΟ (all filing years), ΓΕΝΙΚΑ ΣΥΝΟΛΟ ΕΚΚΡΕΜΟΤΗΤΩΝ (Πίνακας 11)",PDF p. 8,ΓΕΝΙΚΑ ΣΥΝΟΛΟ ΕΚΚΡΕΜΟΤΗΤΩΝ 22 115 382 998 3.297 4.814,medium,"Table 11 is pending by filing year; 4.814 is total over all years (2021 filing year alone: 3.297). Table is for Dec 2021, includes family members.",claude-sonnet-5,2026-10-03,1,no
+o-251da39fe0,19.157,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ (Πίνακας 7β) ΣΥΝΟΛΟ,PDF p. 5,"ΣΥΝΟΛΟ 19.157 100,00%",high,,claude-sonnet-5,2026-10-03,1,no
+o-a6f154ddc7,1.833,,1,ΑΝΑΝΕΩΣΗ (Πίνακας 7β) ΣΥΝΟΛΟ,PDF p. 5,"ΣΥΝΟΛΟ 1.833 100,00%",high,,claude-sonnet-5,2026-10-03,1,no
+o-61a4d47391,9.610,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ ΣΥΝΟΛΟ,PDF p. 5,"ΣΥΝΟΛΟ 9.610 100,00%",high,,claude-sonnet-5,2026-10-03,1,no
+o-9758e73fe1,618,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΤΟΥΡΚΙΑ 618 6,43%",high,,claude-sonnet-5,2026-10-03,1,no
+o-eb33789ad7,596,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΡΩΣΙΑ 596 6,20%",high,,claude-sonnet-5,2026-10-03,1,no
+o-293ef10b87,304,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΛΙΒΑΝΟΣ 304 3,16%",high,,claude-sonnet-5,2026-10-03,1,no
+o-12fd51a0b9,250,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΑΙΓΥΠΤΟΣ 250 2,60%",high,,claude-sonnet-5,2026-10-03,1,no
+o-47c3d5207d,194,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΙΡΑΝ 194 2,02%",high,,claude-sonnet-5,2026-10-03,1,no
+o-c641ae40a8,135,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΙΡΑΚ 135 1,40%",high,,claude-sonnet-5,2026-10-03,1,no
+o-147ece299e,112,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΟΥΚΡΑΝΙΑ 112 1,17%",high,,claude-sonnet-5,2026-10-03,1,no
+o-e522393a79,86,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΙΟΡΔΑΝΙΑ 86 0,89%",high,,claude-sonnet-5,2026-10-03,1,no
+o-3379b1adae,103,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΗΝ. ΠΟΛΙΤΕΙΕΣ ΑΜΕΡΙΚΗΣ - ΗΠΑ 103 1,07%",high,,claude-sonnet-5,2026-10-03,1,no
+o-754c5d135f,6.405,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,"ΚΙΝΑ 6.405 66,65%",high,,claude-sonnet-5,2026-10-03,1,no
+o-d01a667846,1.168,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ ΣΥΝΟΛΟ,PDF p. 5,"ΣΥΝΟΛΟ 1.168 100,00%",high,,claude-sonnet-5,2026-10-03,1,no
+o-356091f9f6,40,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΤΟΥΡΚΙΑ 40 3,42%",high,,claude-sonnet-5,2026-10-03,1,no
+o-a9229e76b9,329,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΡΩΣΙΑ 329 28,17%",high,,claude-sonnet-5,2026-10-03,1,no
+o-85b12c10b2,64,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΛΙΒΑΝΟΣ 64 5,48%",high,,claude-sonnet-5,2026-10-03,1,no
+o-f549771f9f,72,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΑΙΓΥΠΤΟΣ 72 6,16%",high,,claude-sonnet-5,2026-10-03,1,no
+o-7fa78bfead,36,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΙΡΑΝ 36 3,08%",high,,claude-sonnet-5,2026-10-03,1,no
+o-ef18fe1f9b,52,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΙΡΑΚ 52 4,45%",high,,claude-sonnet-5,2026-10-03,1,no
+o-58df34ef23,49,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΟΥΚΡΑΝΙΑ 49 4,20%",high,,claude-sonnet-5,2026-10-03,1,no
+o-ada61d47aa,30,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΙΟΡΔΑΝΙΑ 30 2,57%",high,,claude-sonnet-5,2026-10-03,1,no
+o-af1e56143f,305,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,"ΚΙΝΑ 305 26,11%",high,,claude-sonnet-5,2026-10-03,1,no
+o-eed22b6681,153,,1,FAMILIARES REAGRUPADOS,PDF p. 1,153 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-4ceb56fbf0,93,,1,AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,PDF p. 1,93 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-d08e916ac1,21,,1,top nationalities line,PDF p. 1,21 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-5fa269f726,11,,1,top nationalities line,PDF p. 1,11 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-9bc20e94a3,10,,1,top nationalities line,PDF p. 1,10 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-96394d1d07,10,,1,top nationalities line,PDF p. 1,10 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-53f17a04a2,8,,1,top nationalities line,PDF p. 1,8 LÍBANO,high,,claude-sonnet-5,2026-10-03,1,no
+o-9272176bd2,75,,1,AQUISIÇÃO DE BENS IMÓVEIS,PDF p. 1,75 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-b0626c885b,18,,1,TRANSFERÊNCIA DE CAPITAIS,PDF p. 1,18 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-187de4d710,44,,1,SUBALÍNEA 3,PDF p. 1,SUBALÍNEA 3 44 ARI,medium,"Infographic does not name the route; mapped via subparagraph (sub 3 = real estate purchase, sub 4 = rehabilitation by order of listing under real estate) - mapping is my inference.",claude-sonnet-5,2026-10-03,1,no
+o-54542ec4f8,31,,1,SUBALÍNEA 4,PDF p. 1,SUBALÍNEA 4 31 ARI,medium,"Infographic does not name the route; mapped via subparagraph (sub 3 = real estate purchase, sub 4 = rehabilitation by order of listing under real estate) - mapping is my inference.",claude-sonnet-5,2026-10-03,1,no
+o-65b2ec3e86,18,,1,SUBALÍNEA 7,PDF p. 1,SUBALÍNEA 7 18 ARI,low,"Only SUBALÍNEA 7 (capital transfer, 18 ARI) is shown; no line named investment fund. Taking sub 7 as the closest match is an inference.",claude-sonnet-5,2026-10-03,1,no
+o-17947b2306,0,,1,CRIAÇÃO DE POSTOS DE TRABALHO,PDF p. 1,CRIAÇÃO DE POSTOS DE TRABALHO 0 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-96059be340,"36 914 327,38",,1,INVESTIMENTO TOTAL (aquisição de bens imóveis),PDF p. 1,"36 914 327,38 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-7efd0d67e1,"6 494 500,00",,1,INVESTIMENTO TOTAL (transferência de capitais),PDF p. 1,"6 494 500,00€ INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-2dba64c3e0,"25 791 114,00",,1,SUBALÍNEA 3,PDF p. 1,"SUBALÍNEA 3 44 ARI 25 791 114,00 €",medium,"Infographic does not name the route; mapped via subparagraph (sub 3 = real estate purchase, sub 4 = rehabilitation by order of listing under real estate) - mapping is my inference.",claude-sonnet-5,2026-10-03,1,no
+o-6318859b82,"11 123 213,38",,1,SUBALÍNEA 4,PDF p. 1,"SUBALÍNEA 4 31 ARI 11 123 213,38€",medium,"Infographic does not name the route; mapped via subparagraph (sub 3 = real estate purchase, sub 4 = rehabilitation by order of listing under real estate) - mapping is my inference.",claude-sonnet-5,2026-10-03,1,no
+o-d3402fce15,"6 494 500,00",,1,SUBALÍNEA 7,PDF p. 1,"SUBALÍNEA 7 18 ARI 6 494 500,00 €",low,Only SUBALÍNEA 7 shown; mapping to investment fund is inference.,claude-sonnet-5,2026-10-03,1,no
+o-a984ed51ae,"43 408 827,38",,1,INVESTIMENTO TOTAL JANEIRO 2023,PDF p. 1,"43 408 827,38 INVESTIMENTO TOTAL JANEIRO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-1a449ebc55,15 417,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'","15 417 entrant applications were approved, including 13 111 for Formal Approval and 2 306 for Approval-in-Principle",high,Includes both formal approval and approval-in-principle.,claude-sonnet-5,2026-10-03,1,no
+o-0cec9a900e,19 984,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'","19 984 entrant applications, together with 35 823 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-7c1ca69799,35 823,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'",35 823 related dependant applications,high,Dependant applications.,claude-sonnet-5,2026-10-03,1,no
+o-f64fe067ee,2 306,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'",2 306 for Approval-in-Principle,medium,Text gives 2 306 approvals-in-principle among those approved as at 31 Dec 2011; not explicitly labelled 'outstanding'.,claude-sonnet-5,2026-10-03,1,no
+o-bbb6b9e34b,13 111,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'",13 111 for Formal Approval,medium,Took formal approvals (13 111) as granted residence; total approved incl. AIP is 15 417.,claude-sonnet-5,2026-10-03,1,no
+o-ac1ec2c9f4,94.9,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme'",The amount of investments made under the Scheme totalled $ 94.9 billion,high,Stated in HK$ billion (the text says $).,claude-sonnet-5,2026-10-03,1,no
+o-8afb44af77,"1,500",,1,text,"Chapter text, section 'Capital Investment Entrant Scheme (CIES)'","approval-in-principle was also granted to about 1,500 applicants",medium,Approximate ('about'); not labelled outstanding.,claude-sonnet-5,2026-10-03,1,no
+o-dd5743671a,"33,000",,1,text,"Chapter text, section 'Capital Investment Entrant Scheme (CIES)'","formal approval was given to about 33,000 applicants",medium,Approximate ('about').,claude-sonnet-5,2026-10-03,1,no
+o-c0eef6c10b,290,,1,text,"Chapter text, section 'Capital Investment Entrant Scheme (CIES)'",bringing in a total investment amounting to $290 billion,high,HK$ billion as printed '$290 billion'.,claude-sonnet-5,2026-10-03,1,no
+o-e0681a2987,868,,1,"Uplaćeno/Odobreno, row Ukupno",PDF p. 2,Ukupno 1113 0 0 0 5 869 1 0 868 239,medium,Column 'Uplaćeno/Odobreno' = 868; column 'PV/MUP odobrio' = 869 (one of those is at 'Prenos sredstava'). Chose 868 as approved.,claude-sonnet-5,2026-10-03,1,no
+o-bbfe494886,239,,1,"Odbijeno, row Ukupno",PDF p. 2,Ukupno 1113 ... 868 239,high,,claude-sonnet-5,2026-10-03,1,no
+o-923e451b0a,"43.575.344,62",,1,administrative fees (administrativnih taksi),PDF p. 3,"ukupan iznos uplaćenih sredstava u svrhu administrativnih taksi od početka realizacije Programa do dana 31. jula 2026. godine, iznosi 43.575.344,62 eura",medium,Printed as 'since start of the Programme' to 31 July 2026; the document does not give 2019 as start. Administrative fees only; may not equal all CBI-unit fees.,claude-sonnet-5,2026-10-03,1,no
+o-b2931b2169,"251.222.956,09",,1,tourism projects paid to investors,PDF p. 3,"uplaćen investitorima ... u oblasti turizma ... iznosi 251.222.956,09 eura",medium,"Cumulative from start of Programme to 31 July 2026; amount paid to investors for tourism development projects (escrow balance 2.085.000,00 separate).",claude-sonnet-5,2026-10-03,1,no
+o-e24e0927f8,72,,1,FAMILIARES REAGRUPADOS,PDF p. 1,72 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-ba500b3f16,64,,1,AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,PDF p. 1,64 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-259dfd9127,12,,1,EUA,PDF p. 1,12 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-bc6b0a50c4,9,,1,CHINA,PDF p. 1,9 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-363725699e,8,,1,BRASIL,PDF p. 1,8 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-f48654268d,6,,1,RÚSSIA,PDF p. 1,6 RÚSSIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-69f703273d,5,,1,TURQUIA,PDF p. 1,5 TURQUIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-bc265f58ac,42,,1,AQUISIÇÃO DE BENS IMÓVEIS ARI,PDF p. 1,42 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-9016eb389c,22,,1,TRANSFERÊNCIA DE CAPITAIS ARI,PDF p. 1,22 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-3cc9f1b435,17,,1,SUBALÍNEA 3 ARI,PDF p. 1,SUBPARAGRAPH 3 17 ARI,medium,Real estate purchase subparagraph 3 assumed to be route real_estate,claude-sonnet-5,2026-10-03,1,no
+o-bb8cfc73da,25,,1,SUBALÍNEA 4 ARI,PDF p. 1,SUBPARAGRAPH 4 25 ARI,medium,Subparagraph 4 under real estate assumed to be rehabilitation; infographic does not label it,claude-sonnet-5,2026-10-03,1,no
+o-665ecf2dea,3,,1,SUBALÍNEA 3 (sub 1) ARI,PDF p. 1,"SUBPARAGRAPH 1 3 ARI 3 800 000,00 €",medium,Capital transfer subparagraph 1 (3 ARI); subparagraph label ambiguous in layout,claude-sonnet-5,2026-10-03,1,no
+o-5e6d5a63ae,19,,1,SUBALÍNEA 7 ARI,PDF p. 1,SUBPARAGRAPH 7 19 ARI,medium,Subparagraph 7 under capital transfer assumed to be investment fund,claude-sonnet-5,2026-10-03,1,no
+o-4703b55ac8,"22 359 272,00 €",,1,INVESTIMENTO TOTAL,PDF p. 1,"42 ARI 22 359 272,00 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-bb44f17fbf,"10 477 284,40 €",,1,INVESTIMENTO TOTAL,PDF p. 1,"22 ARI 10 477 284,40 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-df8f289695,"13 499 370,00 €",,1,Subparagraph 3,PDF p. 1,"17 ARI 13 499 370,00 €",medium,Mapping of subparagraph 3 to real_estate assumed,claude-sonnet-5,2026-10-03,1,no
+o-5eecbc6df1,"8 859 902,00 €",,1,Subparagraph 4,PDF p. 1,"25 ARI 8 859 902,00 €",medium,Mapping of subparagraph 4 to rehabilitation assumed,claude-sonnet-5,2026-10-03,1,no
+o-831d8e88cb,"3 800 000,00 €",,1,Subparagraph 1,PDF p. 1,"3 ARI 3 800 000,00 €",medium,Mapping assumed,claude-sonnet-5,2026-10-03,1,no
+o-5a80835fcf,"6 677 284,40 €",,1,Subparagraph 7,PDF p. 1,"19 ARI 6 677 284,40 €",medium,Mapping of subparagraph 7 to investment fund assumed,claude-sonnet-5,2026-10-03,1,no
+o-f6ca51218b,"32 836 556,40 €",,1,INVESTIMENTO TOTAL AGOSTO 2023,PDF p. 1,"32 836 556,40 € INVESTIMENTO TOTAL AGOSTO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-d2ab82da4d,7 823,,1,entrant applications approved,html section 'Capital Investment Entrant Scheme',"7 823 entrant applications were approved, including 6 689 for Formal Approval and 1 134 for Approval-in-Principle",high,,claude-sonnet-5,2026-10-03,1,no
+o-ae8f5ecebe,11 034,,1,entrant applications received,html section 'Capital Investment Entrant Scheme',"11 034 entrant applications, together with 20 357 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-5e0ad128f0,20 357,,1,related dependant applications received,html section 'Capital Investment Entrant Scheme',"20 357 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-8cdbf97d5b,1 134,,1,Approval-in-Principle,html section 'Capital Investment Entrant Scheme',1 134 for Approval-in-Principle,medium,Approval-in-Principle count among approved as at 31 March 2010; text does not say 'outstanding',claude-sonnet-5,2026-10-03,1,no
+o-669397c3e9,7 823,,1,entrant applications approved,html section 'Capital Investment Entrant Scheme',7 823 entrant applications were approved,medium,"Counts applications (entrants), used as persons",claude-sonnet-5,2026-10-03,1,no
+o-8ab6abee4c,47.3,,billion,amount of investments,html section 'Capital Investment Entrant Scheme',The amount of investments made under the Scheme totalled $47.3 billion,high,,claude-sonnet-5,2026-10-03,1,no
+o-0f7f9b82fc,0,,1,2014-2015 Actual,PDF p. 44,"071 Citizenship by Investment fee   0   12,000,000   0   24,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-b9d931e57a,"12,000,000",,1,2015-2016 Approved Estimates,PDF p. 44,"071 Citizenship by Investment fee   0   12,000,000   0   24,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-f79ac21319,0,,1,2015-2016 Revised Estimates,PDF p. 44,"071 Citizenship by Investment fee   0   12,000,000   0   24,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-8a1bb82a88,"24,000,000",,1,2016-2017 Draft Estimates,PDF p. 44,"071 Citizenship by Investment fee   0   12,000,000   0   24,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-1bd267e50c,"293,436,274",,1,2015 Actuals,PDF p. 16,"Citizenship by Investment 170,000,000 191,163,365 150,000,000 293,436,274",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-53a6729002,"191,163,365",,1,2016 Projections,PDF p. 16,"Citizenship by Investment 170,000,000 191,163,365 150,000,000 293,436,274",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-584d6c690a,"170,000,000",,1,2017 Estimates,PDF p. 16,"Citizenship by Investment 170,000,000 191,163,365 150,000,000 293,436,274",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-5de4ccdf87,"23,007,696",,1,Actual 2014/15,PDF p. 5,"Economic Citizenship Programme 23,007,696 70,000,000 99,047,300 201,806,400",high,,claude-sonnet-5,2026-10-03,1,no
+o-32aa5ad369,"99,047,300",,1,Projected 2015/16,PDF p. 5,"Economic Citizenship Programme 23,007,696 70,000,000 99,047,300 201,806,400",high,,claude-sonnet-5,2026-10-03,1,no
+o-e2df874317,"201,806,400",,1,Estimate 2016/17,PDF p. 5,"Economic Citizenship Programme 23,007,696 70,000,000 99,047,300 201,806,400",high,,claude-sonnet-5,2026-10-03,1,no
+o-67e060e390,"1,345",,1,approval-in-principle,html section 'Capital Investment Entrant Scheme',"As at 31 December 2015, formal approval was given to 28,243 applicants ... approval-in-principle was also granted to 1,345 entrant applicants, bringing in a total investment of up to $243.6 billion",medium,"Text says AIP granted to 1,345 entrant applicants as at 31 Dec 2015",claude-sonnet-5,2026-10-03,1,no
+o-a7cd890620,"28,243",,1,formal approval,html section 'Capital Investment Entrant Scheme',"As at 31 December 2015, formal approval was given to 28,243 applicants ... approval-in-principle was also granted to 1,345 entrant applicants, bringing in a total investment of up to $243.6 billion",medium,"Formal approval count only; AIP (1,345) stated separately and not included",claude-sonnet-5,2026-10-03,1,no
+o-f86d473a18,243.6,,billion,total investment,html section 'Capital Investment Entrant Scheme',"As at 31 December 2015, formal approval was given to 28,243 applicants ... approval-in-principle was also granted to 1,345 entrant applicants, bringing in a total investment of up to $243.6 billion",medium,Printed as 'up to $243.6 billion' (HKD),claude-sonnet-5,2026-10-03,1,no
+o-0f19a78de1,"14,212,675",,1,2009 Actual,PDF p. 16,"Citizenship by Investment 20,000,000 39,858,865 14,212,675",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-1cd8800afd,"39,858,865",,1,2010 Projections,PDF p. 16,"Citizenship by Investment 20,000,000 39,858,865 14,212,675",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-60ca90c4ce,"20,000,000",,1,2011 Estimates,PDF p. 16,"Citizenship by Investment 20,000,000 39,858,865 14,212,675",high,Table in $ (XCD),claude-sonnet-5,2026-10-03,1,no
+o-d6c4027806,19 bin 630,,1,Genel Gerekçe text,PDF p. 3,19 bin 630 yabancı uyruklu kişi ... 30 bin 358 adet taşınmaz edinerek uygunluk belgesi almaya hak kazandığı,high,"Printed '19 bin 630' = 19,630 persons",claude-sonnet-5,2026-10-03,1,no
+o-7debbc3875,30 bin 358,,1,Genel Gerekçe text,PDF p. 3,19 bin 630 yabancı uyruklu kişi ... 30 bin 358 adet taşınmaz edinerek uygunluk belgesi almaya hak kazandığı,high,"Printed '30 bin 358' = 30,358 properties",claude-sonnet-5,2026-10-03,1,no
+o-0432ccf8f2,"961,80",,million,Összeg millió EUR-ban,PDF p. 60,"Összesen 351 182,03 961,80",high,"Letelepedési kötvény total, million EUR; HUF column 351 182,03 million",claude-sonnet-5,2026-10-03,1,no
+o-7ba67c5b60,336,,million,text,PDF p. 24,Letelepedési Kötvény harmadik sorozatának 336 millió eurós lejárata valósult meg 2020-ban,high,"Third series of Residency Bond, 336 million EUR matured in 2020",claude-sonnet-5,2026-10-03,1,no
+o-0ce0462738,546,,1,CY 2021,PDF p. 60,able to enroll a total of 546 principal retiree-applicants in CY 2021 and 944 ... in CY 2020,high,,claude-sonnet-5,2026-10-03,1,no
+o-d8b0373fcc,52,,1,FY2025-26 approved,PDF p. 7,52 have been approved and 9 rejected,high,,claude-sonnet-5,2026-10-03,1,no
+o-ac4fc36d7e,103,,1,FY2025-26 received,PDF p. 7,received 103 applications,high,,claude-sonnet-5,2026-10-03,1,no
+o-6f168d66f7,9,,1,FY2025-26 rejected,PDF p. 7,52 have been approved and 9 rejected,high,,claude-sonnet-5,2026-10-03,1,no
+o-8f97846c40,3.7,,million,total funds received,PDF p. 7,total funds received reached $3.7 million against a total budget of $9 million,high,"Printed as ""$""; currency not stated on this page",claude-sonnet-5,2026-10-03,1,no
+o-c2c037d4bb,90,,1,Tabela 1 last row / text,PDF p. 3-4,rješenja o prijemu ... 90 (pasoši),medium,"OCR; table numbers mostly unreadable but text p.3-4 gives 90 approved with passports. Report period ends 30.09.2021, not 30.06.2021 as in the requested period.",claude-sonnet-5,2026-10-03,1,no
+o-5c6c566cba,303,,1,text p.3,PDF p. 3-4,predato 303 zahtjeva za sticanje crnogorskog državljanstva,medium,OCR text; count to 30.09.2021 (not 30.06.2021). Counts requests submitted; may include family members.,claude-sonnet-5,2026-10-03,1,no
+o-ea4b810832,,,1,,PDF p. 3-4,,low,Not found: no rejected count seen in OCR text or readable table cells (table numbers unreadable).,claude-sonnet-5,2026-10-03,1,no
+o-c2f0ec43ff,"224,333,596",,1,Actual 2018/19,PDF p. 30,"Economic Citizenship Programme 224,333,596",high,,claude-sonnet-5,2026-10-03,1,no
+o-8f2da59431,"151,129,461",,1,Projected 2019/20,PDF p. 30,"Economic Citizenship Programme ... 151,129,461",high,,claude-sonnet-5,2026-10-03,1,no
+o-f1ff48da34,"309,550,000",,1,Estimate 2020/21,PDF p. 30,"Economic Citizenship Programme ... 309,550,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-0f15ecd69b,"12,468,152",,1,2008 Actual,PDF p. 9,"Citizenship by Investment ... 12,468,152",high,,claude-sonnet-5,2026-10-03,1,no
+o-ce49b1f04e,"8,147,397",,1,2009 Approved Estimates,PDF p. 9,"Citizenship by Investment ... 8,147,397",high,,claude-sonnet-5,2026-10-03,1,no
+o-f58b8a98a5,"27,317,601",,1,2010 Estimates,PDF p. 9,"Citizenship by Investment ... 27,317,601",high,,claude-sonnet-5,2026-10-03,1,no
+o-5fc96c2a8c,"325,408,073",,1,2014 Actuals,PDF p. 17,"Citizenship by Investment 150,000,000 284,628,449 325,408,073",high,,claude-sonnet-5,2026-10-03,1,no
+o-0df09c5e20,"284,628,449",,1,2015 Projections,PDF p. 17,"Citizenship by Investment 150,000,000 284,628,449 325,408,073",high,,claude-sonnet-5,2026-10-03,1,no
+o-a2afeae11e,"150,000,000",,1,2016 Estimates,PDF p. 17,"Citizenship by Investment 150,000,000 284,628,449 325,408,073",high,,claude-sonnet-5,2026-10-03,1,no
+o-a1d0147a62,"5,185,000",,1,Actual Provisional 2017,PDF p. 80,"18001 CBI Fees 5,185,000 2,835,000 5,441,881",high,,claude-sonnet-5,2026-10-03,1,no
+o-30da3c5765,"5,441,881",,1,Estimates 2018,PDF p. 80,"18001 CBI Fees 5,185,000 2,835,000 5,441,881",high,,claude-sonnet-5,2026-10-03,1,no
+o-36cbaabcd0,"3,276",,1,2019,PDF p. 57,"enroll a total of 944 principal retiree-applicants in CY 2020 and 3,276 ... in CY 2019",high,,claude-sonnet-5,2026-10-03,1,no
+o-055269dac0,944,,1,2020,PDF p. 57,enroll a total of 944 principal retiree-applicants in CY 2020,high,,claude-sonnet-5,2026-10-03,1,no
+o-6b22eab09a,"553,25",,million,Összeg millió EUR-ban,PDF p. 50,"Letelepedési kötvény Összesen 174 212,89 / 553,25",high,"Table has HUF million 174 212,89 and EUR million 553,25; EUR column given. Összesen row at end of settlement-bond table (2018/T, 2019/T).",claude-sonnet-5,2026-10-03,1,no
+o-8a1ea37f82,90,,1,"Tabela 1, row 8 / text",PDF p. 4,Aplikacije koje su prošle sve provjere i za koju je izdato rješenje o prijemu u crnogorsko državljanstvo i izdat pasoš ... 90,high,"scan, OCR; text on p.3-4 also says the number is 90",claude-sonnet-5,2026-10-03,1,no
+o-95ccd709a1,303,,1,"Tabela 1, row 1 (total submitted)",PDF p. 3-4,predato 303 zahtjeva za sticanje crnogorskog državljanstva ... Ukupno podnijetih aplikacija,high,"scan, OCR; p.3 text prints 303; table cell OCR read 303",claude-sonnet-5,2026-10-03,1,no
+o-7921ac6998,24,,1,"Tabela 1, row 5 (Odbijene aplikacije)",PDF p. 4,Odbijene aplikacije zbog negativnog mišljenja Agenta za ocjenu međunarodne podobnosti ... 24,medium,"scan; the number cell was read only from OCR of a cropped band, row label partly garbled",claude-sonnet-5,2026-10-03,1,no
+o-99bf9bb1ab,"182,355,035",,1,Actual 2019/2020,PDF p. 32,"Economic Citizenship Programme 182,355,035 309,550,000 296,573,154 463,354,283",high,,claude-sonnet-5,2026-10-03,1,no
+o-491eb8bc04,"296,573,154",,1,Projected 2020/2021,PDF p. 32,"Economic Citizenship Programme 182,355,035 309,550,000 296,573,154 463,354,283",high,,claude-sonnet-5,2026-10-03,1,no
+o-5671689e7d,"463,354,283",,1,Estimate 2012/2022 (misprint),PDF p. 32,"Economic Citizenship Programme 182,355,035 309,550,000 296,573,154 463,354,283",high,,claude-sonnet-5,2026-10-03,1,no
+o-ee9d9744f9,"1,526",,1,CIES paragraph,HTML chapter text,"approval-in-principle was also granted to 1,526 applicants",medium,"Text says approval-in-principle was granted to 1,526 applicants as at 31 Dec 2016 (not explicitly ""outstanding"")",claude-sonnet-5,2026-10-03,1,no
+o-f03773fa6b,"30,910",,1,CIES paragraph,HTML chapter text,"formal approval was given to 30,910 applicants to reside in Hong Kong",high,,claude-sonnet-5,2026-10-03,1,no
+o-fc2eac4490,270. 8,,billion,CIES paragraph,HTML chapter text,bringing in a total investment of up to $270. 8 billion,high,"printed with a space after the point: ""$270. 8 billion""",claude-sonnet-5,2026-10-03,1,no
+o-18376d1306,"about 35,000",,1,CIES paragraph,HTML chapter text,"formal approval had been given for about 35,000 applicants to reside in Hong Kong",high,"rounded figure (""about"")",claude-sonnet-5,2026-10-03,1,no
+o-f4c7c39d2d,316.8,,billion,CIES paragraph,HTML chapter text,total investment amounting to $316.8 billion,high,,claude-sonnet-5,2026-10-03,1,no
+o-ae5f01590e,21.4,,billion,Executive/para 15,PDF p. 9 (printed p. 7),total investment inflow from these programmes was estimated to be at least EUR 21.4 billion,high,"location says p.7 = printed page; found on PDF p. 9; ""at least""; EU Member States only",claude-sonnet-5,2026-10-03,1,no
+o-c36e44e076,132 000,,1,Executive/para 15,PDF p. 9 (printed p. 7),"between 2011 and 2019, over 132 000 people secured residence or citizenship in EU Member States",high,"""over 132 000""; found on PDF p. 9",claude-sonnet-5,2026-10-03,1,no
+o-4c0dca6aa3,"107,50",,million,Összeg millió EUR-ban,PDF p. 38,"Letelepedési kötvény ... Összesen 31 917,83 107,50",high,"million EUR; HUF column 31 917,83 million",claude-sonnet-5,2026-10-03,1,no
+o-2936cc0721,"619,050,095",,1,Projected 2024/2025,PDF p. 36,"Citizenship by Investment Programme (total) ... 622,115,570 760,000,000 619,050,095 635,000,000",medium,"scan, OCR; components sum to 619,050,096 (1 rounding)",claude-sonnet-5,2026-10-03,1,no
+o-660d5a3d9f,"635,000,000",,1,Estimate 2025/2026,PDF p. 36,"Citizenship by Investment Programme (total) ... 619,050,095 635,000,000 572,000,000",high,"scan, OCR; components sum exactly to 635,000,000",claude-sonnet-5,2026-10-03,1,no
+o-3f25476a3d,"24,042,264",,1,Actual Provisional 2021,PDF p. 86,"18001 CBI Fees 24,042,264 13,648,845 25,712,200",high,,claude-sonnet-5,2026-10-03,1,no
+o-8794f653ca,"25,712,200",,1,Estimates 2022,PDF p. 86,"18001 CBI Fees 24,042,264 13,648,845 25,712,200",high,,claude-sonnet-5,2026-10-03,1,no
+o-5ca20032b2,"1,900",,1,Note 24.2 text,PDF p. 58,"were able to enrol a total of 1,900 principal retiree-applicants in CY 2022",high,,claude-sonnet-5,2026-10-03,1,no
+o-abf3c46adf,303,,1,Para 3.16,PDF p. 78,the VDs of 303 retirees with cancelled membership were refunded,medium,Counts retirees with cancelled membership whose deposits were refunded in CY 2022,claude-sonnet-5,2026-10-03,1,no
+o-b3f7af154d,"5,935,546",,1,2016-2017 Actual,PDF p. 46,"071 Citizenship by Investment fee 5,935,546",high,,claude-sonnet-5,2026-10-03,1,no
+o-fee53cb6d6,"21,408,825",,1,2017-2018 Revised Estimates,PDF p. 46,"071 Citizenship by Investment fee ... 21,408,825",high,,claude-sonnet-5,2026-10-03,1,no
+o-2a471cd01e,"29,032,560",,1,2018-2019 Draft Estimates,PDF p. 46,"071 Citizenship by Investment fee ... 29,032,560",high,,claude-sonnet-5,2026-10-03,1,no
+o-8c26c09e42,"5,935,546",,1,2016-2017 Revised Estimates,PDF p. 44,"071 Citizenship by Investment fee 0 24,000,000 5,935,546",high,,claude-sonnet-5,2026-10-03,1,no
+o-3268f39c97,"43,011,200",,1,2017-2018 Estimates,PDF p. 44,"071 Citizenship by Investment fee ... 43,011,200",high,,claude-sonnet-5,2026-10-03,1,no
+o-ad421eec2a,"2,661,825",,1,Actual 2022-23,PDF p. 8,"National Economic Fund 2,661,825",medium,Grants line labelled National Economic Fund (NEF); no separate nef_contribution label,claude-sonnet-5,2026-10-03,1,no
+o-faa445217c,113,,1,Tabela 1 row 10,PDF p. 4,Aplikacije koje su prosle sve provjere i za koje je izdato rjesenje o prijemu u crnogorsko drzavljanstvo i izdat pasos 113,medium,OCR (scan); text also says 113; period to 31 Dec 2021,claude-sonnet-5,2026-10-03,1,no
+o-ffd6d48aad,601,,1,Tabela 1 row 1,PDF p. 4,predato 601 zahtjev; Ukupno podnijetih aplikacija ... 601,high,OCR (scan),claude-sonnet-5,2026-10-03,1,no
+o-3af344061f,33,,1,Tabela 1 row 6,PDF p. 4,Odbijene aplikacije zbog negativnog misljenja Agenta za ocjenu medunarodne podobnosti (Due Diligence) 33,medium,"OCR (scan); 33 read from OCR, consistent: rows 2-10 sum to 601",claude-sonnet-5,2026-10-03,1,no
+o-be32017d01,"447,968,115",,1,Actual 2020/2021,PDF p. 75,"Citizenship by Investment Programme 447,968,115",high,,claude-sonnet-5,2026-10-03,1,no
+o-6d7f965603,"452,690,895",,1,Projected 2021/2022,PDF p. 75,"Citizenship by Investment Programme 447,968,115 463,354,284 452,690,895 492,154,103",high,"Columns: Actual 2020/21, Estimate 2021/22, Projected 2021/22, Estimate 2022/23",claude-sonnet-5,2026-10-03,1,no
+o-cf76375c30,"492,154,103",,1,Estimate 2022/2023,PDF p. 75,"Citizenship by Investment Programme ... 492,154,103",high,,claude-sonnet-5,2026-10-03,1,no
+o-093ca10df0,"889,60",,million,Osszeg millio EUR-ban,PDF p. 52,"Osszesen 278 551,55 889,60 (Letelepedesi kotveny)",high,Table in million EUR; scale million; 889.60 million EUR as of 2015 table (maturities 2018-2020),claude-sonnet-5,2026-10-03,1,no
+o-ff43dfa0dd,"over 35,400",,1,text,HTML chapter 2,"formal approval had been given for over 35,400 applicants to reside in Hong Kong",high,"""over"" qualifier; as at 31 Dec 2022; CIES suspended 15 Jan 2015",claude-sonnet-5,2026-10-03,1,no
+o-c0f591fe3f,316.9,,billion,text,HTML chapter 2,bringing the total investment amounting to $316.9 billion,high,"HK$ (printed ""$""); scale billion",claude-sonnet-5,2026-10-03,1,no

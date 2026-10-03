@@ -2,8 +2,8 @@
 
 Numbers on the programmes that sell citizenship (citizenship by investment)
 or residence ("golden visas") to people who invest or donate money:
-37 citizenship and 85 residence programmes, current and closed, in
-71 countries and territories: the Caribbean, Vanuatu and the Pacific,
+41 citizenship and 87 residence programmes, current and closed, in
+75 countries and territories: the Caribbean, Vanuatu and the Pacific,
 Europe, the Gulf, Asia, Oceania, the Americas and Africa, including the
 US EB-5 programme, the old and new Hong Kong schemes, and the closed UK, Irish,
 Dutch and Australian schemes. The data also has
@@ -18,21 +18,23 @@ and whether it's an outturn, an estimate, a budget or a forecast. When sources
 disagree, the disagreement is part of the data.
 
 Maintained by Oscar Leo ([oscarleo.com](https://oscarleo.com)). Last research
-pass: 2 October 2026. Remaining gaps and a consistency audit are planned
-(see `docs/WAVE2_PLAN.md`).
+pass: 3 October 2026, followed by a consistency audit (see "Corrections" in
+`docs/DATA_MODEL.md`). What we looked for and could not find is listed in
+`docs/GAPS.md` and in each research file's `gaps`.
 
 ## What's in it
 
 | | rows |
 |---|---|
-| Numbers (`data/observations.csv`) | 5,873 |
-| Sources (`data/sources.csv`) | 1,322, of which 1,157 have a stored copy in `raw/` |
-| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 762 |
-| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 717 |
-| Programmes (`data/programs.csv`) | 122 (37 citizenship, 85 residence) |
+| Numbers (`data/observations.csv`) | 6,563 |
+| Sources (`data/sources.csv`) | 1,443, of which 1,267 have a stored copy in `raw/` |
+| Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 776 |
+| Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 771 |
+| Programmes (`data/programs.csv`) | 128 (41 citizenship, 87 residence) |
+| Headline price per programme, checked by hand (`data/headline_prices.csv`) | 128 |
 | Indicators and their definitions (`data/indicators.csv`) | 121 |
 
-Numbers per jurisdiction (ISO codes): USA 834, HKG 553, PRT 452, LVA 429, NZL 425, KNA 359, AUS 256, IRL 231, CAN 211, PAN 181, MLT 162, GRD 138, DMA 124, LCA 118, ESP 115, ATG 103, VUT 98, GBR 97, PHL 85, GRC 84, AUT 73, CYP 73, HUN 71, MNE 70, BMU 60, MYS 56, BRA 42, TUR 42, SGP 31, BGR 25, COM 23, MKD 23, INTL 20, THA 20, ARE 18, KOR 14, MDA 14, CHE 13, EGY 13, IDN 12, ITA 12, TON 12, OMN 11, JOR 10, EST 9, SAU 9, LUX 7, MUS 6, NRU 6, KHM 5, MCO 5, BHR 4, BHS 3, NLD 2, FRA 1, SLE 1, STP 1, VCT 1.
+Numbers per jurisdiction (ISO codes): USA 834, PRT 646, HKG 606, LVA 462, NZL 425, KNA 390, AUS 256, IRL 249, CAN 211, PAN 181, MLT 175, DMA 165, GRD 157, LCA 150, GBR 138, ESP 127, GRC 120, ATG 112, MNE 105, VUT 99, PHL 91, HUN 90, CYP 83, AUT 74, MYS 64, BMU 60, BRA 56, INTL 46, TUR 44, BGR 37, SGP 31, COM 23, MKD 23, THA 23, ARE 18, NRU 16, KOR 14, MDA 14, CHE 13, EGY 13, IDN 12, ITA 12, TON 12, OMN 11, JOR 10, EST 9, SAU 9, KHM 7, LUX 7, MUS 6, SVK 6, MCO 5, BHR 4, BHS 3, NLD 2, POL 2, FRA 1, MHL 1, SLE 1, STP 1, VCT 1.
 
 When a source splits a number (by nationality, investment route, applicant type), the split is in the `breakdown` column, for example `nationality=CHN` or `route=real_estate;nationality=RUS`.
 
@@ -118,24 +120,25 @@ A few examples of what this shows:
   even if the original moves or changes. News articles and industry reports are
   linked, with an archive link where we have one, and not stored.
 - `scripts/verify_quotes.py` looks for every quote in the text of the stored
-  copy (with OCR in 29 languages for scans). Of the 7,352 quoted rows,
-  6,920 cite a stored document: 5,636 quotes were found verbatim,
-  735matched as a table row put back together from its cells,
-  81 were checked by eye against the page image, and 465
+  copy (with OCR in 29 languages for scans). Of the 8,110 quoted rows,
+  7,550 cite a stored document: 6,118 quotes were found verbatim,
+  868 matched as a table row put back together from its cells,
+  96 were checked by eye against the page image or text, and 465
   (quotes rebuilt from table cells or chart labels) had the number itself
   confirmed by the blind second reading below. 2 point to a stored
-  file that turned out not to be the page the quote comes from, and say so.
-  The other 432 cite news and industry sources, linked rather than
+  file that turned out not to be the page the quote comes from, and say so;
+  1 is a web page the script can't read, checked by hand.
+  The other 560 cite news, NGO and industry sources, linked rather than
   stored. Results are in `reports/quotes.csv`; by-eye checks are recorded in
   `data/quote_checks.csv`.
 - **A blind second reading.** A different AI model (Claude Sonnet 5) was
   given each number's document, page, indicator, period and kind of figure,
-  but not the value, and read the number itself. It read 4,866
-  numbers: 4,782 came out the same. The other 84
-  were checked on the page: in 73 the first reading was right (the
+  but not the value, and read the number itself. It read 5,445
+  numbers: 5,333 came out the same. The other 112
+  were checked on the page: in 95 the first reading was right (the
   second reader took a neighbouring row or column, used the wrong fiscal-year
-  convention, or read the next block of a spreadsheet), and in
-  11 the document itself prints two different figures, which the
+  convention, misread a scan, or wrote the same figure differently), and in
+  17 the document itself prints two different figures, which the
   row notes say. No value had to be corrected; the pass did correct page
   numbers (29 so far) and turned "fewer than N" figures into ranges.
   Numbers from structured files (spreadsheets, XML, JSON) were sampled
