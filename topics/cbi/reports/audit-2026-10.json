@@ -1,0 +1,3035 @@
+{
+ "fixes": [
+  {
+   "table": "observations",
+   "id": "o-9f1f3f3c90",
+   "field": "value",
+   "current": "1,583",
+   "proposed": "1583",
+   "reason": "Format only: the value is stored with thousands separators ('1,583'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-a133c0080f",
+   "field": "value",
+   "current": "1,676",
+   "proposed": "1676",
+   "reason": "Format only: the value is stored with thousands separators ('1,676'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-7c9351d1da",
+   "field": "value",
+   "current": "54,632,288.60",
+   "proposed": "54632288.60",
+   "reason": "Format only: the value is stored with thousands separators ('54,632,288.60'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-08f54e1e2f",
+   "field": "value",
+   "current": "64,395,831.00",
+   "proposed": "64395831.00",
+   "reason": "Format only: the value is stored with thousands separators ('64,395,831.00'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-1cbcb6d6f4",
+   "field": "value",
+   "current": "97,762,549",
+   "proposed": "97762549",
+   "reason": "Format only: the value is stored with thousands separators ('97,762,549'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-ba6af38b66",
+   "field": "value",
+   "current": "78,822,511",
+   "proposed": "78822511",
+   "reason": "Format only: the value is stored with thousands separators ('78,822,511'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-327f7a123b",
+   "field": "value",
+   "current": "240,461,920",
+   "proposed": "240461920",
+   "reason": "Format only: the value is stored with thousands separators ('240,461,920'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-bb1ffff518",
+   "field": "value",
+   "current": "375,269,871",
+   "proposed": "375269871",
+   "reason": "Format only: the value is stored with thousands separators ('375,269,871'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-c58ec9a346",
+   "field": "value",
+   "current": "472,981,142",
+   "proposed": "472981142",
+   "reason": "Format only: the value is stored with thousands separators ('472,981,142'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-dd04dcf42c",
+   "field": "value",
+   "current": "280,697,921",
+   "proposed": "280697921",
+   "reason": "Format only: the value is stored with thousands separators ('280,697,921'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-d206eb6b87",
+   "field": "value",
+   "current": "553,710,178",
+   "proposed": "553710178",
+   "reason": "Format only: the value is stored with thousands separators ('553,710,178'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9b60acfb68",
+   "field": "value",
+   "current": "152,999,122",
+   "proposed": "152999122",
+   "reason": "Format only: the value is stored with thousands separators ('152,999,122'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-e66c2cc906",
+   "field": "value",
+   "current": "140,417,136",
+   "proposed": "140417136",
+   "reason": "Format only: the value is stored with thousands separators ('140,417,136'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-468e8e6659",
+   "field": "value",
+   "current": "165,906,890",
+   "proposed": "165906890",
+   "reason": "Format only: the value is stored with thousands separators ('165,906,890'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-07a91e889a",
+   "field": "value",
+   "current": "173,973,807",
+   "proposed": "173973807",
+   "reason": "Format only: the value is stored with thousands separators ('173,973,807'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-123c566bfb",
+   "field": "value",
+   "current": "70,200,000",
+   "proposed": "70200000",
+   "reason": "Format only: the value is stored with thousands separators ('70,200,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-2997e378da",
+   "field": "value",
+   "current": "77,287,500",
+   "proposed": "77287500",
+   "reason": "Format only: the value is stored with thousands separators ('77,287,500'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f77a96f77f",
+   "field": "value",
+   "current": "116,910,000",
+   "proposed": "116910000",
+   "reason": "Format only: the value is stored with thousands separators ('116,910,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-b350d818a9",
+   "field": "value",
+   "current": "152,550,000",
+   "proposed": "152550000",
+   "reason": "Format only: the value is stored with thousands separators ('152,550,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-631c8ac17d",
+   "field": "value",
+   "current": "169,087,500",
+   "proposed": "169087500",
+   "reason": "Format only: the value is stored with thousands separators ('169,087,500'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-ffb27ff7be",
+   "field": "value",
+   "current": "252,855,000",
+   "proposed": "252855000",
+   "reason": "Format only: the value is stored with thousands separators ('252,855,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-79108e1e98",
+   "field": "value",
+   "current": "281,610,000",
+   "proposed": "281610000",
+   "reason": "Format only: the value is stored with thousands separators ('281,610,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-48af1fc7b4",
+   "field": "value",
+   "current": "274,860,000",
+   "proposed": "274860000",
+   "reason": "Format only: the value is stored with thousands separators ('274,860,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-b5dda8733a",
+   "field": "value",
+   "current": "1,128,747,211",
+   "proposed": "1128747211",
+   "reason": "Format only: the value is stored with thousands separators ('1,128,747,211'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-64f8befef8",
+   "field": "value",
+   "current": "562,005,854",
+   "proposed": "562005854",
+   "reason": "Format only: the value is stored with thousands separators ('562,005,854'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-555603b18a",
+   "field": "value",
+   "current": "211,216,473",
+   "proposed": "211216473",
+   "reason": "Format only: the value is stored with thousands separators ('211,216,473'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-13d7392a08",
+   "field": "value",
+   "current": "7,000",
+   "proposed": "7000",
+   "reason": "Format only: the value is stored with thousands separators ('7,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-1f89c39f12",
+   "field": "value",
+   "current": "8,000",
+   "proposed": "8000",
+   "reason": "Format only: the value is stored with thousands separators ('8,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-d022bf99c7",
+   "field": "value",
+   "current": "1,111",
+   "proposed": "1111",
+   "reason": "Format only: the value is stored with thousands separators ('1,111'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-69e1985e7c",
+   "field": "value",
+   "current": "1,272",
+   "proposed": "1272",
+   "reason": "Format only: the value is stored with thousands separators ('1,272'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-fffa22b8f2",
+   "field": "value",
+   "current": "1,058",
+   "proposed": "1058",
+   "reason": "Format only: the value is stored with thousands separators ('1,058'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-c095705f68",
+   "field": "value",
+   "current": "2,011",
+   "proposed": "2011",
+   "reason": "Format only: the value is stored with thousands separators ('2,011'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-99e3f078a1",
+   "field": "value",
+   "current": "1,031",
+   "proposed": "1031",
+   "reason": "Format only: the value is stored with thousands separators ('1,031'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9d3bc4c0ce",
+   "field": "value",
+   "current": "1,536",
+   "proposed": "1536",
+   "reason": "Format only: the value is stored with thousands separators ('1,536'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-8a1c638100",
+   "field": "value",
+   "current": "1,112",
+   "proposed": "1112",
+   "reason": "Format only: the value is stored with thousands separators ('1,112'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-2aef1c01ec",
+   "field": "value",
+   "current": "1,166",
+   "proposed": "1166",
+   "reason": "Format only: the value is stored with thousands separators ('1,166'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-b2d4a1f307",
+   "field": "value",
+   "current": "5,443",
+   "proposed": "5443",
+   "reason": "Format only: the value is stored with thousands separators ('5,443'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-a72dbcd41d",
+   "field": "value",
+   "current": "1,124",
+   "proposed": "1124",
+   "reason": "Format only: the value is stored with thousands separators ('1,124'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-634324f2bc",
+   "field": "value",
+   "current": "633,113,827",
+   "proposed": "633113827",
+   "reason": "Format only: the value is stored with thousands separators ('633,113,827'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-694fa62d50",
+   "field": "value",
+   "current": "768,723,071",
+   "proposed": "768723071",
+   "reason": "Format only: the value is stored with thousands separators ('768,723,071'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-4c2b55c08a",
+   "field": "value",
+   "current": "414,636,631",
+   "proposed": "414636631",
+   "reason": "Format only: the value is stored with thousands separators ('414,636,631'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-80bb2ce35e",
+   "field": "value",
+   "current": "222,810,282",
+   "proposed": "222810282",
+   "reason": "Format only: the value is stored with thousands separators ('222,810,282'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f01f077251",
+   "field": "value",
+   "current": "1,643.4",
+   "proposed": "1643.4",
+   "reason": "Format only: the value is stored with thousands separators ('1,643.4'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-5def556cda",
+   "field": "value",
+   "current": "2,659.4",
+   "proposed": "2659.4",
+   "reason": "Format only: the value is stored with thousands separators ('2,659.4'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-8762b3b321",
+   "field": "value",
+   "current": "3,492.9",
+   "proposed": "3492.9",
+   "reason": "Format only: the value is stored with thousands separators ('3,492.9'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-0f22ea0f2b",
+   "field": "value",
+   "current": "2,028.5",
+   "proposed": "2028.5",
+   "reason": "Format only: the value is stored with thousands separators ('2,028.5'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-11230e6d7a",
+   "field": "value",
+   "current": "9,995.1",
+   "proposed": "9995.1",
+   "reason": "Format only: the value is stored with thousands separators ('9,995.1'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-b2c194c95f",
+   "field": "value",
+   "current": "12,558",
+   "proposed": "12558",
+   "reason": "Format only: the value is stored with thousands separators ('12,558'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9b00abb359",
+   "field": "value",
+   "current": "12,191,471,678",
+   "proposed": "12191471678",
+   "reason": "Format only: the value is stored with thousands separators ('12,191,471,678'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-d6fcbdd2d1",
+   "field": "value",
+   "current": "12,558.3",
+   "proposed": "12558.3",
+   "reason": "Format only: the value is stored with thousands separators ('12,558.3'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-de82317455",
+   "field": "value",
+   "current": "6,504.6",
+   "proposed": "6504.6",
+   "reason": "Format only: the value is stored with thousands separators ('6,504.6'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-94ae6469e5",
+   "field": "value",
+   "current": "5,364.6",
+   "proposed": "5364.6",
+   "reason": "Format only: the value is stored with thousands separators ('5,364.6'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-7446cd7ba4",
+   "field": "value",
+   "current": "14,352",
+   "proposed": "14352",
+   "reason": "Format only: the value is stored with thousands separators ('14,352'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-bb72147c31",
+   "field": "value",
+   "current": "14,352",
+   "proposed": "14352",
+   "reason": "Format only: the value is stored with thousands separators ('14,352'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-627aeb1c58",
+   "field": "value",
+   "current": "13,491,436,604",
+   "proposed": "13491436604",
+   "reason": "Format only: the value is stored with thousands separators ('13,491,436,604'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-bf3b7ed331",
+   "field": "value",
+   "current": "1,845,830",
+   "proposed": "1845830",
+   "reason": "Format only: the value is stored with thousands separators ('1,845,830'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-23c684e307",
+   "field": "value",
+   "current": "10,000",
+   "proposed": "10000",
+   "reason": "Format only: the value is stored with thousands separators ('10,000'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9823820ed4",
+   "field": "value",
+   "current": "14,351.8",
+   "proposed": "14351.8",
+   "reason": "Format only: the value is stored with thousands separators ('14,351.8'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-a85445c51e",
+   "field": "value",
+   "current": "9,120.3",
+   "proposed": "9120.3",
+   "reason": "Format only: the value is stored with thousands separators ('9,120.3'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-5d0c1db212",
+   "field": "value",
+   "current": "7,094.2",
+   "proposed": "7094.2",
+   "reason": "Format only: the value is stored with thousands separators ('7,094.2'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-494674a4e9",
+   "field": "value",
+   "current": "11,647",
+   "proposed": "11647",
+   "reason": "Format only: the value is stored with thousands separators ('11,647'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-760be282de",
+   "field": "value",
+   "current": "11,647",
+   "proposed": "11647",
+   "reason": "Format only: the value is stored with thousands separators ('11,647'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f738ae97b6",
+   "field": "value",
+   "current": "11,647",
+   "proposed": "11647",
+   "reason": "Format only: the value is stored with thousands separators ('11,647'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-987e6d61e7",
+   "field": "value",
+   "current": "11,852,673,367",
+   "proposed": "11852673367",
+   "reason": "Format only: the value is stored with thousands separators ('11,852,673,367'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-7f716b4259",
+   "field": "value",
+   "current": "12,851.0",
+   "proposed": "12851.0",
+   "reason": "Format only: the value is stored with thousands separators ('12,851.0'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-16ce21f756",
+   "field": "value",
+   "current": "11,549.4",
+   "proposed": "11549.4",
+   "reason": "Format only: the value is stored with thousands separators ('11,549.4'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-3471426878",
+   "field": "value",
+   "current": "12,871.4",
+   "proposed": "12871.4",
+   "reason": "Format only: the value is stored with thousands separators ('12,871.4'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-55b85e7a09",
+   "field": "value",
+   "current": "5,652.5",
+   "proposed": "5652.5",
+   "reason": "Format only: the value is stored with thousands separators ('5,652.5'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-1adbbe43a2",
+   "field": "value",
+   "current": "8,482",
+   "proposed": "8482",
+   "reason": "Format only: the value is stored with thousands separators ('8,482'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-d293e8ed38",
+   "field": "value",
+   "current": "8,482",
+   "proposed": "8482",
+   "reason": "Format only: the value is stored with thousands separators ('8,482'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-0ca7f8f7ce",
+   "field": "value",
+   "current": "8,482",
+   "proposed": "8482",
+   "reason": "Format only: the value is stored with thousands separators ('8,482'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-d51d3e5553",
+   "field": "value",
+   "current": "7,924,407,151",
+   "proposed": "7924407151",
+   "reason": "Format only: the value is stored with thousands separators ('7,924,407,151'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-fc4ebd1711",
+   "field": "value",
+   "current": "8,483.1",
+   "proposed": "8483.1",
+   "reason": "Format only: the value is stored with thousands separators ('8,483.1'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-99e7f4b706",
+   "field": "value",
+   "current": "9,659.6",
+   "proposed": "9659.6",
+   "reason": "Format only: the value is stored with thousands separators ('9,659.6'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-0caac6fac2",
+   "field": "value",
+   "current": "7,663.2",
+   "proposed": "7663.2",
+   "reason": "Format only: the value is stored with thousands separators ('7,663.2'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-5cac423d18",
+   "field": "value",
+   "current": "4,705.9",
+   "proposed": "4705.9",
+   "reason": "Format only: the value is stored with thousands separators ('4,705.9'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-e84b4bc5d2",
+   "field": "value",
+   "current": "7,133",
+   "proposed": "7133",
+   "reason": "Format only: the value is stored with thousands separators ('7,133'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9ae714c8ca",
+   "field": "value",
+   "current": "7,004",
+   "proposed": "7004",
+   "reason": "Format only: the value is stored with thousands separators ('7,004'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f98d6aa7ed",
+   "field": "value",
+   "current": "7,004",
+   "proposed": "7004",
+   "reason": "Format only: the value is stored with thousands separators ('7,004'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f9ad975f55",
+   "field": "value",
+   "current": "8,399.1",
+   "proposed": "8399.1",
+   "reason": "Format only: the value is stored with thousands separators ('8,399.1'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-510a1654dd",
+   "field": "value",
+   "current": "7,517,226,501",
+   "proposed": "7517226501",
+   "reason": "Format only: the value is stored with thousands separators ('7,517,226,501'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9f89729f8a",
+   "field": "value",
+   "current": "209,004,219",
+   "proposed": "209004219",
+   "reason": "Format only: the value is stored with thousands separators ('209,004,219'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-db8e5ae811",
+   "field": "value",
+   "current": "8,115.0",
+   "proposed": "8115.0",
+   "reason": "Format only: the value is stored with thousands separators ('8,115.0'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-66f76ba21d",
+   "field": "value",
+   "current": "9,112.9",
+   "proposed": "9112.9",
+   "reason": "Format only: the value is stored with thousands separators ('9,112.9'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9e9725a3d3",
+   "field": "value",
+   "current": "3,936",
+   "proposed": "3936",
+   "reason": "Format only: the value is stored with thousands separators ('3,936'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-f61d3f8fc1",
+   "field": "value",
+   "current": "9,339",
+   "proposed": "9339",
+   "reason": "Format only: the value is stored with thousands separators ('9,339'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-a5eb07e841",
+   "field": "value",
+   "current": "9,399.2",
+   "proposed": "9399.2",
+   "reason": "Format only: the value is stored with thousands separators ('9,399.2'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-ad8746c7db",
+   "field": "value",
+   "current": "10,983.8",
+   "proposed": "10983.8",
+   "reason": "Format only: the value is stored with thousands separators ('10,983.8'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9974662309",
+   "field": "value",
+   "current": "11,303.8",
+   "proposed": "11303.8",
+   "reason": "Format only: the value is stored with thousands separators ('11,303.8'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-dd7f69f9e9",
+   "field": "value",
+   "current": "9,390.7",
+   "proposed": "9390.7",
+   "reason": "Format only: the value is stored with thousands separators ('9,390.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-2368d2d66f",
+   "field": "value",
+   "current": "2,057,855,613",
+   "proposed": "2057855613",
+   "reason": "Format only: the value is stored with thousands separators ('2,057,855,613'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9b217a0dde",
+   "field": "value",
+   "current": "893,356,263",
+   "proposed": "893356263",
+   "reason": "Format only: the value is stored with thousands separators ('893,356,263'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-8a33e57d20",
+   "field": "value",
+   "current": "3,381.7",
+   "proposed": "3381.7",
+   "reason": "Format only: the value is stored with thousands separators ('3,381.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-7f6d7b69a5",
+   "field": "value",
+   "current": "7,471",
+   "proposed": "7471",
+   "reason": "Format only: the value is stored with thousands separators ('7,471'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-a280ba5905",
+   "field": "value",
+   "current": "7,629.5",
+   "proposed": "7629.5",
+   "reason": "Format only: the value is stored with thousands separators ('7,629.5'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-4166c17480",
+   "field": "value",
+   "current": "7,729.7",
+   "proposed": "7729.7",
+   "reason": "Format only: the value is stored with thousands separators ('7,729.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-9cef5dabb0",
+   "field": "value",
+   "current": "14,732.7",
+   "proposed": "14732.7",
+   "reason": "Format only: the value is stored with thousands separators ('14,732.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-3a0780d1e2",
+   "field": "value",
+   "current": "9,413.1",
+   "proposed": "9413.1",
+   "reason": "Format only: the value is stored with thousands separators ('9,413.1'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-2fc5e4eb33",
+   "field": "value",
+   "current": "12,374.7",
+   "proposed": "12374.7",
+   "reason": "Format only: the value is stored with thousands separators ('12,374.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-0bf3c3c5fd",
+   "field": "value",
+   "current": "15,503.7",
+   "proposed": "15503.7",
+   "reason": "Format only: the value is stored with thousands separators ('15,503.7'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-bd8a81722a",
+   "field": "value",
+   "current": "11,028.4",
+   "proposed": "11028.4",
+   "reason": "Format only: the value is stored with thousands separators ('11,028.4'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-0fd5945253",
+   "field": "value",
+   "current": "1,800",
+   "proposed": "1800",
+   "reason": "Format only: the value is stored with thousands separators ('1,800'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-8a5ebb375f",
+   "field": "value",
+   "current": "2,200",
+   "proposed": "2200",
+   "reason": "Format only: the value is stored with thousands separators ('2,200'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-b41621a354",
+   "field": "value",
+   "current": "1,200",
+   "proposed": "1200",
+   "reason": "Format only: the value is stored with thousands separators ('1,200'), unlike every other row; the number itself is unchanged."
+  },
+  {
+   "table": "observations",
+   "id": "o-74b3b3d6db",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-47d5208ccc",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-7b55648d3a",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-3c836fa0a5",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-241d926b20",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-0570d1fbfb",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-0cbc783d13",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-d5476fd3f7",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-dbd41f6846",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-066e5fa3e3",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-a2a1443f19",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-c39e677b73",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-fc2af1f8ac",
+   "field": "status",
+   "current": "actual",
+   "proposed": "provisional",
+   "reason": "FY2026/27 (July 2026-June 2027) was not closed when the source was published (7 Sep 2026); the row's own note says 'Partial year: decisions in July-August 2026 only'. 'actual' is only for a closed period; the US EB-5 part-year rows use 'provisional' for the same situation."
+  },
+  {
+   "table": "observations",
+   "id": "o-5e4ef6a404",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€402,823,876 to the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-6d1b2f992c",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€19,971,900, the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-d8853f4d44",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€83,306,249 the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-6b9fa3fd8b",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€68,000,445 the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-274c97fb35",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€45,519,300 the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-f0cfc24195",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€8,568,000 to the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-e602a7cc5e",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€19,023,000 to the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-21ec3ea7ed",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€39,168,000 to the Consolidated Fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-95854f37a3",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('€10 million were directed to the consolidated fund') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-4544f677c0",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('generated €46 million in consolidated funds') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-9c9095e437",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('generated €51 million for the consolidated fund and in the NDSF') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-1cbcb6d6f4",
+   "field": "indicator",
+   "current": "cbi_fiscal_revenue",
+   "proposed": "cbi_transfers_to_government",
+   "reason": "The quote ('8. CBI Payments to Treasury') is the programme agency's payment to the treasury/government funds, which is the definition of cbi_transfers_to_government ('Money remitted by the CBI unit to the treasury or a government fund'), not revenue as booked in the fiscal accounts. Saint Lucia's identical 'Government distribution - Consolidated Fund' rows (o-5784c86ceb, o-6eb79d2e1a) already use cbi_transfers_to_government; Malta's NDSF share is likewise recorded distributor-side under its own indicator."
+  },
+  {
+   "table": "observations",
+   "id": "o-877fdf4b22",
+   "field": "indicator",
+   "current": "main_applicants_approved",
+   "proposed": "applicant_nationality_share",
+   "reason": "The value is a percentage share ('China 85.7', 'Hong Kong 3.3'; notes: 'Share of SIV primary grants ... percentage of total'), not a count of main applicants. applicant_nationality_share is defined for exactly this (share of approved main applicants by nationality, base stated in notes)."
+  },
+  {
+   "table": "observations",
+   "id": "o-4099168ebc",
+   "field": "indicator",
+   "current": "main_applicants_approved",
+   "proposed": "applicant_nationality_share",
+   "reason": "The value is a percentage share ('China 85.7', 'Hong Kong 3.3'; notes: 'Share of SIV primary grants ... percentage of total'), not a count of main applicants. applicant_nationality_share is defined for exactly this (share of approved main applicants by nationality, base stated in notes)."
+  },
+  {
+   "table": "observations",
+   "id": "o-2c5b6afcef",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the row's note says 'currency not stated (likely US$ conversion)'. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "observations",
+   "id": "o-285c1a84fb",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the row's note says 'currency not stated'. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "observations",
+   "id": "o-2eafe0350b",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the row's note says 'Currency not stated in the article'. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "observations",
+   "id": "o-c0cd6772a1",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the row's note says ''$' read as USD ... not explicitly stated'. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "observations",
+   "id": "o-b54f2fd968",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the quote prints only '$971 million' and nothing in the row confirms US dollars. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "observations",
+   "id": "o-37b16b4311",
+   "field": "unit",
+   "current": "USD",
+   "proposed": "unspecified",
+   "reason": "The quote shows only a bare '$' and the quote prints only '$1bn' and nothing in the row confirms US dollars. The brief says never to assume '$' means US dollars; other bare-'$' media rows (Tonga, Comoros revenue, Antigua inflows) use 'unspecified'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-98c2cba205",
+   "field": "currency",
+   "current": "XCD",
+   "proposed": "unspecified",
+   "reason": "Quote ('two related parties, with a minimum investment of $200,000 each', 2019 regulations) prints only '$'; the row's own note says it could be US$ (marketed as US$200,000 each), and EC$200,000 (about US$74,000) is implausible next to a US$400,000 real-estate minimum. The 2018 education row from the same series (t-fea847c47d) already uses 'unspecified'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-b0445cc8ef",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-07-31",
+   "reason": "Open-ended EC$1,080,000 real-estate minimum, but the 2024 regulations replaced it: t-9f8da8a4d9 quotes 'The full purchase price of the real estate shall be at least three hundred thousand (US$300,000.00)' from 1 Aug 2024."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-5d502dd722",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-01-24",
+   "reason": "2014 schedule (US$100,000 single) is open-ended, but S.R.O. 1 of 2024, gazetted 25 Jan 2024, set new amounts (t-8f3e3a3b6a, valid_from 2024-01-25; then US$200,000 from 28 Jun 2024, t-ca498986c6)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-a233fda94a",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-01-24",
+   "reason": "2014 real-estate rule is open-ended, but the 2024 regulations restated it (t-31a73db611 from 2024-01-25, t-0c2ddb08dd from 2024-06-28)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-75290d5bd3",
+   "field": "route",
+   "current": "real_estate",
+   "proposed": "fee_government",
+   "reason": "Not an investment minimum: quote '(i) US$25,000 for the main applicant' is the government fee on the real-estate route; the note says 'the investment minimum itself was not changed'. Labelled real_estate it reads as a US$25,000 property price."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-13f74c8cdc",
+   "field": "route",
+   "current": "real_estate",
+   "proposed": "fee_government",
+   "reason": "Quote 'seventy-five thousand United States dollars for the main applicant' is the government fee; the note says 'Fee in addition to the US$200,000 investment'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-28fd2302cc",
+   "field": "route",
+   "current": "real_estate",
+   "proposed": "levy",
+   "reason": "Quote: 'The levy will be charged at a rate of US$5,000.00 per investor'; the note says 'Not a minimum investment'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-7254398bc4",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2021-06-30",
+   "reason": "Application charge row is open-ended, but the Premium Investor stream closed to new applications from 1 July 2021 (event e-6df2090835, term t-8a1da0eb59 valid_to 2021-06-30; programme ended 2021-06-30)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-7dcc680ee5",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2016-05",
+   "reason": "Comoros sales were suspended when President Azali took office in May 2016 (event e-5a0fc1779f: 'has suspended citizenship sales since coming to power in May 2016'); the KMF 1 million price row is still open-ended."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-8757c1f6aa",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2016-05",
+   "reason": "Same reason as t-7dcc680ee5: prices paid for passports under a programme suspended in May 2016 (event e-5a0fc1779f)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-f6a6cc91a1",
+   "field": "valid_to",
+   "current": "2023-01-01",
+   "proposed": "2022-12-31",
+   "reason": "Overlaps the next row (t-24ae8f56cd, CHF 421,700 valid_from 2023-01-01). Elsewhere valid_to is the last day of validity."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-24ae8f56cd",
+   "field": "valid_to",
+   "current": "2026-01-01",
+   "proposed": "2025-12-31",
+   "reason": "Overlaps the next row (t-a336fd097b, CHF 435,000, 'in force 1 Jan 2026')."
+  },
+  {
+   "table": "events",
+   "id": "e-784734a508",
+   "field": "category",
+   "current": "launch",
+   "proposed": "rule_change",
+   "reason": "Programme launched 2009 (programs.launched; RN 84/2009 term t-b36bc285bf). This event is the addition of the real-estate route by RN 36/2018, not the programme's launch."
+  },
+  {
+   "table": "events",
+   "id": "e-fa3a0fa82c",
+   "field": "category",
+   "current": "launch",
+   "proposed": "rule_change",
+   "reason": "Programme launched 11 Jul 2007 (event e-a02a37ad3d, programs.launched 2007-07-11). The 24 May 2013 decision set new criteria under art. 111A(2) ('λήφθηκε στις 24.5.2013 η Απόφαση του ΥΣ'); a second 'launch' event for the same programme contradicts the launch date."
+  },
+  {
+   "table": "programs",
+   "id": "com-ecp",
+   "field": "ended",
+   "current": "2016",
+   "proposed": "2016-05",
+   "reason": "Closure event e-5a0fc1779f: 'has suspended citizenship sales since coming to power in May 2016'."
+  },
+  {
+   "table": "programs",
+   "id": "egy-deposit-residence",
+   "field": "status",
+   "current": "repealed",
+   "proposed": "closed",
+   "reason": "Status vocabulary: every other ended programme uses 'closed'. The notes already say it was repealed by Law 140/2019."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-7585397073",
+   "field": "valid_from",
+   "current": "2025",
+   "proposed": "2025-07-22",
+   "reason": "Duplicate of t-45af9b2823 (same EUR 60,000 admin fee, same quote). t-45af9b2823's note says it gives the exact start date for this row: published 22 Jul 2025. With valid_from '2025' this row overlaps t-bb9f955eae (EUR 50,000, 1 Jan to 22 Jul 2025). Alternatively mark it superseded by t-45af9b2823."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-1997040d49",
+   "field": "valid_from",
+   "current": "2025",
+   "proposed": "2025-07-22",
+   "reason": "Duplicate of t-402edb0154 (EUR 37,000 contribution, same quote), whose note says it is the 'Exact start date for t-1997040d49'. As it stands it overlaps the EUR 30,000/60,000 rows valid 1 Jan to 22 Jul 2025 (t-3368afc184, t-4dcdf8ae1d)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-d3bca67861",
+   "field": "valid_from",
+   "current": "2025",
+   "proposed": "2025-01-01",
+   "reason": "Duplicate of t-3b9ef6b84f (EUR 375,000, same quote), whose note says it is the 'Exact start date (1 Jan 2025, reg. 1(2)) for the row the dataset already has with valid_from 2025 (t-d3bca67861)'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-2209dabf38",
+   "field": "valid_from",
+   "current": "2025",
+   "proposed": "2025-01-01",
+   "reason": "Duplicate of t-0165e1528d (EUR 14,000 lease), whose note says it is the 'Exact start date for t-2209dabf38'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-5068ab1cdb",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-12-31",
+   "reason": "The EUR 350,000 MPRP purchase threshold has no end date. t-3b9ef6b84f (in force 1 Jan 2025) says the EUR 375,000 rule 'Replaced EUR 350,000 (Malta) / EUR 300,000 (south and Gozo)' and that applications filed before 1 Jan 2025 stay under the old rules."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-44fbf87afe",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-12-31",
+   "reason": "The EUR 12,000 MPRP lease threshold has no end date. t-0165e1528d (from 1 Jan 2025) says EUR 14,000 'Replaced EUR 12,000 (Malta) / EUR 10,000 (south and Gozo)'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-64b7151ed1",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-12-31",
+   "reason": "The EUR 28,000 contribution (owned property) has no end date, but the 2025 rules quoted in t-3368afc184 set 'a contribution of thirty thousand euro (€30,000) ... where the necessary title ... is a qualifying owned property' from 1 Jan 2025."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-0a95961a35",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-12-31",
+   "reason": "The EUR 58,000 contribution (rented property) has no end date, but t-4dcdf8ae1d quotes the 2025 rules setting EUR 60,000 for rented property from 1 Jan 2025."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-f7084a1d8d",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2024-12-31",
+   "reason": "The EUR 40,000 MPRP admin fee has no end date, but t-bb9f955eae quotes the rules in force from 1 Jan 2025 setting 'a non-refundable administration fee in respect of the main applicant of fifty thousand euro (€50,000)'."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-5004739fa3",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2026-01-28",
+   "reason": "Website capture of the USD 105,000 single-applicant price has no end date, but the 2024 Schedule it matches (t-eb23d6f895) was replaced on 29 Jan 2026 ('Schedule 1 is deleted and substituted', event e-a91071bb6e) by USD 115,000 (t-0147dd025b)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-37b35475e7",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2023-07-26",
+   "reason": "SGF donation row (USD 150,000) is undated and so looks current. t-876430fd1a (S.R.O. 26 of 2023, from 27 Jul 2023) notes 'SISC replaced the SGF', and event e-458e8278e5 ('SISC replaces SGF') is dated 27 Jul 2023. valid_from remains unknown (in force in 2021 per the note)."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-4fa0f6b9a9",
+   "field": "valid_to",
+   "current": "",
+   "proposed": "2023-07-26",
+   "reason": "Family SGF row (USD 195,000), same reason as t-37b35475e7: the SGF was replaced by the SISC from 27 Jul 2023 (t-876430fd1a, e-458e8278e5)."
+  },
+  {
+   "table": "events",
+   "id": "e-30ededf9ae",
+   "field": "category",
+   "current": "closure",
+   "proposed": "rule_change",
+   "reason": "The quote is about a bill: 'le projet de loi tend à abroger le titre de séjour pour investisseur'. The description says it was still in committee in Sep 2026 and the programme is 'active'. Tabling a bill is not a closure (the Moldovan bill event e-af403b05ae uses rule_change)."
+  },
+  {
+   "table": "events",
+   "id": "e-fb21531ac5",
+   "field": "category",
+   "current": "closure",
+   "proposed": "rule_change",
+   "reason": "The quote records a decision to abolish ('Het kabinet heeft dan ook besloten om deze regeling af te schaffen'), not the end; the scheme actually ended on 17 Apr 2024 (e-3af853fb2a, programs.ended)."
+  },
+  {
+   "table": "events",
+   "id": "e-17b442559d",
+   "field": "category",
+   "current": "closure",
+   "proposed": "rule_change",
+   "reason": "The quote says the government decided to freeze the programme temporarily ('membekukan Program MM2H buat sementara waktu'); it reopened in Oct 2021 and programs.csv has status active with no end date."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-0fb17c5835",
+   "field": "currency",
+   "current": "$ (currency not stated)",
+   "proposed": "unspecified",
+   "reason": "The quote gives only '$' ('an investor has to pay a $40,000 fee and invest $260,000'), so the currency is unknown. Five other rows with the same situation (atg-cbi, blz-ecp, ton-passport-sales) use the code 'unspecified'; one code for 'currency not stated' keeps the column machine-readable. The 'currency not stated' explanation can stay in notes."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-432ab22ab3",
+   "field": "currency",
+   "current": "$ (currency not stated)",
+   "proposed": "unspecified",
+   "reason": "The quote gives only '$' ('a non-refundable fee of $40,500'), so the currency is unknown. Five other rows with the same situation (atg-cbi, blz-ecp, ton-passport-sales) use the code 'unspecified'; one code for 'currency not stated' keeps the column machine-readable. The 'currency not stated' explanation can stay in notes."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-999e822a7f",
+   "field": "currency",
+   "current": "$ (currency not stated)",
+   "proposed": "unspecified",
+   "reason": "The quote gives only '$' ('priced at $162,000'), so the currency is unknown. Five other rows with the same situation (atg-cbi, blz-ecp, ton-passport-sales) use the code 'unspecified'; one code for 'currency not stated' keeps the column machine-readable. The 'currency not stated' explanation can stay in notes."
+  }
+ ],
+ "headline_prices": [
+  {
+   "program_id": "aia-rbi",
+   "amount": 750000,
+   "currency": "USD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-e4b7a5fcfd",
+    "t-76e5e3d790",
+    "t-a307d3f8d2"
+   ],
+   "note": "Approved real estate of US$750,000. The regulation gives this for 'up to a family of four', and no lower figure exists for a single applicant. On paper the Capital Development Fund route is cheaper (US$150,000 single, t-76e5e3d790), but in December 2022 the Executive Council recorded that it 'was not available ... because the fund was not established' (e-880c0f7f74). The 2024 amending Act and Regulations were not retrieved, so it is unknown whether the fund route works today. If it does, the headline should become US$150,000 (donation). Fees excluded: permit fee US$10,000 and due diligence."
+  },
+  {
+   "program_id": "are-citizenship-nomination",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "No price: citizenship is by nomination only, and nobody can apply or buy it (programme notes)."
+  },
+  {
+   "program_id": "are-golden-visa",
+   "amount": 2000000,
+   "currency": "AED",
+   "route": "real_estate",
+   "term_ids": [
+    "t-9f9f5c41e7",
+    "t-fd0fbb05c4",
+    "t-71cdab8332",
+    "t-18eefc9e12"
+   ],
+   "note": "Property worth at least AED 2 million (10-year golden residence, Res. 65/2022, in force 3 Oct 2022; Dubai and Abu Dhabi pages agree). The same AED 2 million applies to a bank deposit or a company share (t-9712802f47, t-accf082b73). Mortgaged or off-plan property counts if AED 2 million has been paid. Government fees excluded (about AED 9,885 in Dubai)."
+  },
+  {
+   "program_id": "arg-cbi",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "No amount: the Ministry of Economy has not published what counts as a 'relevant investment' (no resolution found up to 1 Oct 2026). There are no term rows."
+  },
+  {
+   "program_id": "arg-investor-residence",
+   "amount": 1500000,
+   "currency": "ARS",
+   "route": "business",
+   "term_ids": [
+    "t-fa7c0bc2ee"
+   ],
+   "note": "ARS 1,500,000 productive, commercial or service investment, fixed in nominal pesos in 2010 (Decree 616/2010); no later update found. After years of inflation it is worth very little in other currencies, so the figure may be out of date in practice."
+  },
+  {
+   "program_id": "atg-cbi",
+   "amount": 230000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-fb4f5962fd"
+   ],
+   "note": "National Development Fund contribution of US$230,000 for a single applicant or a family (2024 regulations, from 1 Aug 2024; the CIU page still gives it in Sep 2026). Alternatives: real estate US$300,000 (t-9f8da8a4d9), UWI Fund US$260,000 (t-3f8135c77e, for a family of at least six; the CIU says it includes fees), business US$1.5m (t-b589105440). Fees excluded: processing US$10,000, due diligence US$8,500."
+  },
+  {
+   "program_id": "aus-biip",
+   "amount": 2500000,
+   "currency": "AUD",
+   "route": "investor",
+   "term_ids": [
+    "t-261b980ed0"
+   ],
+   "note": "On closure (31 Jul 2024 per the visa website, 1 Jul 2024 per the Migration Program report), the Investor stream required an AUD 2.5 million complying investment for those invited on or after 1 July 2021, family included. Other BIIP streams (business innovation, entrepreneur) had no fixed investment. The Significant Investor stream (AUD 5m) is recorded separately as aus-siv."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "No term rows: the programme notes say the investment thresholds over time have not been sourced."
+  },
+  {
+   "program_id": "aus-piv",
+   "amount": 15000000,
+   "currency": "AUD",
+   "route": "complying_premium_investment",
+   "term_ids": [
+    "t-8a1da0eb59"
+   ],
+   "note": "Complying premium investment of at least AUD 15 million, by Austrade invitation only. This was the rule when the stream closed (applications up to 30 Jun 2021)."
+  },
+  {
+   "program_id": "aus-siv",
+   "amount": 5000000,
+   "currency": "AUD",
+   "route": "complying_investment",
+   "term_ids": [
+    "t-3ba387df6b"
+   ],
+   "note": "Complying significant investment of at least AUD 5 million (20/30/50 split from 1 July 2021), family included. This was the rule when the stream closed on 31 Jul 2024."
+  },
+  {
+   "program_id": "aut-special-interest",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "No price: discretionary naturalisation for 'extraordinary achievements', with no published investment amount."
+  },
+  {
+   "program_id": "bgr-cbi",
+   "amount": 500000,
+   "currency": "EUR",
+   "route": "investment",
+   "term_ids": [
+    "t-de2b625424",
+    "t-9673f014e5",
+    "t-c92ed66ac3"
+   ],
+   "note": "The cheapest route was the ordinary art. 12a route: about EUR 500,000 (in law BGN 1 million), then 5 years of investor permanent residence. The source is the Commission's 2019 description (t-de2b625424). Most actual grants (46 of 50 in 2013-Jan 2019) used the art. 14a fast track, which required the investment to be raised to BGN 2 million (about EUR 1m; t-9673f014e5, t-7f8c9280f1). From 2021 there was also BGN 1 million in a priority-project company with a 1-year wait (t-c92ed66ac3). All routes were repealed 1 Apr 2022."
+  },
+  {
+   "program_id": "bgr-investor-residence",
+   "amount": 1000000,
+   "currency": "BGN",
+   "route": "concession",
+   "term_ids": [
+    "t-f5071a2e40",
+    "t-354ecb0aa5",
+    "t-baac4512cc"
+   ],
+   "note": "BGN 1,000,000 in concession rights (the most used route), Bulgarian collective investment schemes or Bulgarian AIFs (items 6(b)-(d), consolidated text as at 2 Oct 2026). Other routes: BGN 2m in listed securities or a priority project; BGN 6m in an unlisted company."
+  },
+  {
+   "program_id": "bhr-golden-residency",
+   "amount": 130000,
+   "currency": "BHD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-9240da1fe4"
+   ],
+   "note": "Property worth at least BHD 130,000 (cut from BHD 200,000 on 26 Nov 2025, per an NPRA press release; the legal instrument was not found). Property is the only investment route. Fees excluded: BHD 300 per person, BHD 5 application."
+  },
+  {
+   "program_id": "bhs-epr",
+   "amount": 1000000,
+   "currency": "BSD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-ce37f17e39",
+    "t-677347dbab"
+   ],
+   "note": "BS$1 million in real estate or Central Bank zero-coupon bonds (or a mix), held 10 years. The rule has applied since 1 Jan 2025. The statute says only 'dollars' (Bahamian dollars, at par with US$). Fees excluded: BS$20,000-25,000 certificate fee."
+  },
+  {
+   "program_id": "blz-ecp",
+   "amount": 25000,
+   "currency": "unspecified",
+   "route": "economic_citizenship",
+   "term_ids": [
+    "t-4eedef48f5"
+   ],
+   "note": "Weak evidence. The US State Department reported two buyers paying '$25,000 apiece' in December 2001, shortly before sales ended in January 2002. No official price schedule was found, and the currency is not stated (presumably US$). Consider leaving it empty if only official schedules are wanted."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "amount": 2500000,
+   "currency": "BMD",
+   "route": "any_qualifying_investment",
+   "term_ids": [
+    "t-bc7b254ed4"
+   ],
+   "note": "BD$2.5 million in any qualifying investment (real estate, business, charity, Sinking Fund, Trust Fund), with spouse and dependants included. The government-bond option was removed on 9 June 2024. Fees excluded: BD$2,625 certificate fee."
+  },
+  {
+   "program_id": "bra-investor-residence",
+   "amount": 500000,
+   "currency": "BRL",
+   "route": "business",
+   "term_ids": [
+    "t-228e4e68f5",
+    "t-8a30e99c1e",
+    "t-ffff9c8657"
+   ],
+   "note": "R$500,000 of the applicant's own foreign funds invested in a Brazilian company (RN 118/2015, kept by RN 13/2017). The real-estate route needs R$1,000,000, or R$700,000 in the North and Northeast (RN 36/2018, later RN 46). A lower amount for innovation projects is reported by law firms but was not confirmed."
+  },
+  {
+   "program_id": "brb-serp",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [
+    "t-844324b1a7"
+   ],
+   "note": "Not determinable from official sources. The only amount (US$2m investment plus US$5m net worth, Category 1) comes from a business magazine, and the notes mention a cheaper Category 2 (US$300,000 real estate) with no term row. No official text with thresholds was found."
+  },
+  {
+   "program_id": "can-iip",
+   "amount": 800000,
+   "currency": "CAD",
+   "route": "government_loan",
+   "term_ids": [
+    "t-8ddb8539e3"
+   ],
+   "note": "C$800,000 interest-free loan to the federal government, repaid after 5 years (net worth C$1.6m; family included). These were the terms from 1 Dec 2010 until the law ended the programme on 19 Jun 2014. Intake had already stopped on 1 Jul 2012. It is a refundable loan, not a payment; most investors financed it through banks."
+  },
+  {
+   "program_id": "can-iivc",
+   "amount": 2000000,
+   "currency": "CAD",
+   "route": "venture_capital_fund",
+   "term_ids": [
+    "t-40656cded9"
+   ],
+   "note": "C$2,000,000 into a venture capital fund, repayment not guaranteed (net worth C$10m). Intake ran 28 Jan-30 Dec 2015."
+  },
+  {
+   "program_id": "can-qc-investor",
+   "amount": 1200000,
+   "currency": "CAD",
+   "route": "government_loan",
+   "term_ids": [
+    "t-f7f008961c",
+    "t-34bd71f90b"
+   ],
+   "note": "Since 1 Jan 2024 both are required: a C$1,000,000 five-year placement with IQ Immigrants Investisseurs, refundable without interest (t-f7f008961c), plus a non-refundable C$200,000 contribution (t-34bd71f90b). The total outlay is C$1.2m. Before 2024 it was a C$1.2m placement alone (t-e5d8f200e2)."
+  },
+  {
+   "program_id": "che-lump-sum-taxation",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [
+    "t-a336fd097b"
+   ],
+   "note": "No investment price: this is a tax regime. The federal minimum taxable expenditure base is CHF 435,000 from 2026 (t-a336fd097b), but that is a tax base, not an amount invested or donated, and cantons set their own minimums."
+  },
+  {
+   "program_id": "che-wealthy-residence-permit",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "No federal amount: each canton sets its own minimum tax expectation. There are no term rows."
+  },
+  {
+   "program_id": "com-ecp",
+   "amount": 1000000,
+   "currency": "KMF",
+   "route": "economic_citizenship",
+   "term_ids": [
+    "t-7dcc680ee5",
+    "t-1dad1be5d1",
+    "t-8757c1f6aa"
+   ],
+   "note": "Weak evidence. The IMF says citizenship was granted 'in exchange for KMF 1 million; about US$3,000' per person. This looks like the official fee rather than what buyers paid. Most sales were bulk deals with the UAE (EUR 4,600 per passport under the 2011 agreement, t-1dad1be5d1). The parliamentary report puts individual prices at EUR 25,000-200,000 (t-8757c1f6aa). Sales were suspended in May 2016."
+  },
+  {
+   "program_id": "cri-inversionista",
+   "amount": 150000,
+   "currency": "USD",
+   "route": "unspecified",
+   "term_ids": [
+    "t-815a54c566",
+    "t-39ca44e5c4"
+   ],
+   "note": "US$150,000 under Ley 9996, in force 14 Jul 2021. Caveat: the law sets this amount 'for the period set by this law', and its benefits ran only five years (to about July 2026). It is unresolved whether the minimum has gone back to US$200,000 (t-39ca44e5c4) since then. Investment can be in real estate, shares, securities, productive projects and other assets."
+  },
+  {
+   "program_id": "cym-cdi",
+   "amount": 1000000,
+   "currency": "KYD",
+   "route": "business",
+   "term_ids": [
+    "t-0684e733b5"
+   ],
+   "note": "CI$1 million in an employment-generating business that the holder manages. Fees excluded: CI$20,000 issue fee."
+  },
+  {
+   "program_id": "cym-pim-permanent",
+   "amount": 2000000,
+   "currency": "KYD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-e1afb1aa35"
+   ],
+   "note": "CI$2 million in developed real estate (since 26 May 2017; still the prescribed sum). Fees excluded: CI$100,000 issue fee (draft CI$200,000)."
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "amount": 1000000,
+   "currency": "KYD",
+   "route": "real_estate_and_investment",
+   "term_ids": [
+    "t-174a4d1002"
+   ],
+   "note": "CI$1 million on Grand Cayman, of which at least CI$500,000 must be in developed real estate. The applicant also needs CI$120,000 annual income or a CI$400,000 deposit. Regional discount: CI$500,000 on Cayman Brac or Little Cayman (CI$250,000 real estate), noted in the same row. Fees excluded: CI$20,000."
+  },
+  {
+   "program_id": "cym-sbp",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [
+    "t-5d2f75c0da"
+   ],
+   "note": "No minimum investment: the requirement is a qualifying business with premises and four resident staff. Only the CI$5,000 issue fee is fixed."
+  },
+  {
+   "program_id": "cyp-cip",
+   "amount": 2200000,
+   "currency": "EUR",
+   "route": "investment",
+   "term_ids": [
+    "t-e5a592f8b1",
+    "t-ab40ed5f97",
+    "t-06b47e9e39",
+    "t-92d5cbff51"
+   ],
+   "note": "At closure (regulations ΚΔΠ 379/2020, applications up to 31 Oct 2020) the applicant needed all three: an investment of at least EUR 2,000,000 (t-e5a592f8b1), two donations of EUR 100,000 each (t-ab40ed5f97, t-06b47e9e39), and a permanent home in Cyprus worth at least EUR 500,000 plus VAT (t-92d5cbff51). The EUR 2.2m assumes the home can be part of a real-estate investment, as earlier decisions allowed (t-2344c31f0c note). If it cannot, the total is about EUR 2.7m plus VAT. The Audit Office says applicants who filed before 18 Aug 2020 were treated under the 2019 rules (EUR 2m plus EUR 150,000 in donations). Fees excluded: EUR 7,000."
+  },
+  {
+   "program_id": "cyp-golden-visa",
+   "amount": 300000,
+   "currency": "EUR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-bc444f6973",
+    "t-725d1984c5",
+    "t-77a1478ff3",
+    "t-5642d28aff"
+   ],
+   "note": "EUR 300,000. For a new home bought from a developer this is plus VAT; the same EUR 300,000 applies to company share capital, Cypriot fund units and commercial property (criteria in force 2 May 2023). The applicant must also show EUR 50,000 a year of income (t-9741560c6c), which is not an investment."
+  },
+  {
+   "program_id": "dma-cbi",
+   "amount": 200000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-ca498986c6",
+    "t-6fced32012"
+   ],
+   "note": "Economic Diversification Fund contribution of US$200,000 for a main applicant (S.R.O. 8 of 2024, from 28 Jun 2024; confirmed by the CBIU brochure). The real-estate route is also US$200,000 (t-0c2ddb08dd), but it adds a US$75,000 government fee. Fees excluded."
+  },
+  {
+   "program_id": "dom-investor-residence",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Not determinable: the minimum amount has not been confirmed. The migration director cited US$250,000 in 2021, and advisers cite US$200,000. There are no term rows."
+  },
+  {
+   "program_id": "egy-cbi",
+   "amount": 250000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-76d448e8fe"
+   ],
+   "note": "Non-refundable USD 250,000 paid to the Treasury (PM Decree 876/2023, in force 3 Mar 2023; instalments over a year allowed). Alternatives: property USD 300,000 (t-9ddc766426), a refundable USD 500,000 deposit (t-59d92cd291), or a USD 350,000 project plus USD 100,000 to the Treasury. Fees excluded: USD 10,000 application fee."
+  },
+  {
+   "program_id": "egy-deposit-residence",
+   "amount": 7000000,
+   "currency": "EGP",
+   "route": "deposit",
+   "term_ids": [
+    "t-30e8d343de"
+   ],
+   "note": "Bank deposit of at least EGP 7 million under Law 173/2018. After 5 years the deposit passed to the Treasury on naturalisation. Repealed by Law 140/2019; no permit is known to have been issued."
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "amount": 500000,
+   "currency": "EUR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-ec8d030e0a"
+   ],
+   "note": "Property of at least EUR 500,000 per applicant, free of charges (art. 64 b) Ley 14/2013). This was the rule until the route was abolished (last day 2 Apr 2025). Alternatives: EUR 1m in shares, deposits or funds; EUR 2m in public debt."
+  },
+  {
+   "program_id": "est-business-residence",
+   "amount": 16000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-f4afa99ac8",
+    "t-d58fbc6b83",
+    "t-e74d31e3a1"
+   ],
+   "note": "The cheapest route is EUR 16,000 of capital invested by a sole proprietor (enterprise permit). That is an entrepreneur permit and requires running the business. A company shareholder needs EUR 65,000 (t-d58fbc6b83). The passive large-investor permit, the closest to a 'golden visa', needs EUR 1,000,000 (t-e74d31e3a1, from 18 Jan 2017). The main session may prefer the EUR 1m figure for comparability."
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "amount": 300000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-5c7fbf887f"
+   ],
+   "note": "Economic investment of at least EUR 300,000 in France that creates or saves jobs within four years (current ANEF checklist)."
+  },
+  {
+   "program_id": "gbr-tier1-investor",
+   "amount": 2000000,
+   "currency": "GBP",
+   "route": "securities",
+   "term_ids": [
+    "t-4a048f3844"
+   ],
+   "note": "GBP 2 million invested in UK companies' share or loan capital. Government bonds were excluded from 29 Mar 2019. This was the rule when the route closed on 17 Feb 2022."
+  },
+  {
+   "program_id": "grc-golden-visa",
+   "amount": 400000,
+   "currency": "EUR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-f8c1c20052",
+    "t-75612cd3c5",
+    "t-a4e6f5b664",
+    "t-3d28093051"
+   ],
+   "note": "A single property of at least 120 m2 worth EUR 400,000 outside the high-demand areas (Law 5100/2024, for deposits after 31 Aug 2024). The figure is EUR 800,000 in Attica, Thessaloniki, Mykonos, Santorini and larger islands (t-75612cd3c5). Niche routes cost EUR 250,000 anywhere: commercial-to-residential conversions and listed buildings (t-a4e6f5b664, t-3d28093051). Financial investment permits (type B.4) are a separate permit type: EUR 350,000 in funds (t-646e3c9019), EUR 500,000 in deposits or bonds."
+  },
+  {
+   "program_id": "grd-cbi",
+   "amount": 235000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-9c1e80edfe"
+   ],
+   "note": "National Transformation Fund contribution from 1 Jul 2024; the same amount covers a main applicant with up to 3 dependants, so a single applicant pays it too. Real-estate alternatives cost more: US$270,000 share in an approved unit (t-9682e1c20a) or US$350,000 whole investment (t-31e639c14c), each plus a US$50,000 government contribution (t-e32287fd40). Older rows t-d2fbafe7c0 (US$200,000) and t-3c00a0005e (US$150,000, to 30 Jun 2024) are superseded."
+  },
+  {
+   "program_id": "grd-ecp",
+   "amount": 39000,
+   "currency": "USD",
+   "route": "economic_citizenship",
+   "term_ids": [
+    "t-83a2d6e873"
+   ],
+   "note": "Price on closure (suspended Nov 2001). Rests only on an industry blog ('The prices for Grenada passport was only $39,000 going back to 1997'), which puts the total including fees at $50,000; unverified, and who it covered is not stated. Treat as low reliability."
+  },
+  {
+   "program_id": "hkg-cies",
+   "amount": 10000000,
+   "currency": "HKD",
+   "route": "financial_assets",
+   "term_ids": [
+    "t-6570ed9164"
+   ],
+   "note": "Threshold on the day the scheme was suspended (15 Jan 2015): HK$10m in permissible financial assets; real estate no longer counted after 14 Oct 2010. Covers spouse and minor children."
+  },
+  {
+   "program_id": "hkg-new-cies",
+   "amount": 30000000,
+   "currency": "HKD",
+   "route": "total_investment",
+   "term_ids": [
+    "t-7d004e9183",
+    "t-3b1dcc9ae3",
+    "t-5c9951861a"
+   ],
+   "note": "HK$30m in total: at least HK$27m in permissible assets (real estate counts for at most HK$10m) plus HK$3m in the CIES Investment Portfolio. Applicant also needs HK$30m net assets."
+  },
+  {
+   "program_id": "hrv-business-residence",
+   "amount": 26544.56,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-2c36d4a9be"
+   ],
+   "note": "Not a passive investment: the applicant must own at least 51% of a company or craft, invest at least EUR 26,544.56 in founding it and employ three Croatian citizens full-time. Start date of the euro amount not checked."
+  },
+  {
+   "program_id": "hun-guest-investor",
+   "amount": 250000,
+   "currency": "EUR",
+   "route": "investment_fund",
+   "term_ids": [
+    "t-41ce865a16"
+   ],
+   "note": "Units of a qualified Hungarian real estate fund, held 5 years. Alternatives: EUR 1,000,000 donation to a foundation-run university (t-0acf83b0be); the EUR 500,000 property route (t-bfb4bb20e7) was removed from 30 Dec 2024 and seems never to have operated."
+  },
+  {
+   "program_id": "hun-residency-bond",
+   "amount": 300000,
+   "currency": "EUR",
+   "route": "bonds",
+   "term_ids": [
+    "t-518ad14957"
+   ],
+   "note": "Price at closure (31 Mar 2017): EUR 300,000 face value of residency bonds per applicant, for applications filed after 1 Jan 2015 (EUR 250,000 before, t-36b425f7c7). Intermediaries' service fees (reported EUR 45,000-60,000) excluded."
+  },
+  {
+   "program_id": "idn-golden-visa",
+   "amount": 350000,
+   "currency": "USD",
+   "route": "bonds_shares_deposits_5y",
+   "term_ids": [
+    "t-1fcc5cf672"
+   ],
+   "note": "Individual investor not founding a company, 5-year permit: US$350,000 in Indonesian government bonds, listed shares or deposits. 10-year permit US$700,000 (t-64b3f7d8b6); founding a company US$2.5m. Thresholds as stated by Immigration in Feb 2026; the regulation itself was not read."
+  },
+  {
+   "program_id": "irl-ibn",
+   "amount": 1000000,
+   "currency": "IEP",
+   "route": "business_investment",
+   "term_ids": [
+    "t-c8ad1c1a9d",
+    "t-a0845a4852"
+   ],
+   "note": "Rule in force when the scheme ended: a net investment of at least IR£1 million per applicant (from Oct 1994), held 5 years, plus a residence in Ireland. New applications stopped 4 Sep 1996; formal end 20 Apr 1998."
+  },
+  {
+   "program_id": "irl-iip",
+   "amount": 500000,
+   "currency": "EUR",
+   "route": "donation",
+   "term_ids": [
+    "t-e0acc7f94c"
+   ],
+   "note": "At closure (15 Feb 2023) the cheapest route was a EUR 500,000 philanthropic endowment by one individual. EUR 400,000 each where 5 or more investors pool for one project (t-77f124e2e0). Investment routes cost EUR 1m (enterprise t-12eb30ac09, approved fund t-0ec540d544) or EUR 2m (REIT); most investors used the enterprise route. Investors also needed EUR 2m net worth."
+  },
+  {
+   "program_id": "ita-investor-visa",
+   "amount": 250000,
+   "currency": "EUR",
+   "route": "startup_equity",
+   "term_ids": [
+    "t-918988bc23"
+   ],
+   "note": "Cheapest route: EUR 250,000 in an Italian innovative start-up, held 2 years. Others: EUR 500,000 in an Italian company or venture-capital fund (t-3b80f5d965), EUR 1m donation (t-66ee841f28), EUR 2m government bonds (t-83df76feae). Applicant must also show EUR 1m available funds (EUR 2m for bonds)."
+  },
+  {
+   "program_id": "jor-cbi",
+   "amount": 500000,
+   "currency": "JOD",
+   "route": "business_outside_capital",
+   "term_ids": [
+    "t-d85946c393"
+   ],
+   "note": "Rules from 2 Jul 2025 (decision 4375): new project outside Amman with at least JOD 500,000 invested and 10 Jordanian jobs; first a 3-year temporary passport, citizenship after 3 years of compliance. The passive route is JOD 1m in new shares held 3 years (t-bb292d0da6); a new project in Amman needs JOD 700,000 (t-bcdb28d059). Lower thresholds for investors with existing projects (JOD 350,000 outside Amman, t-0822b326c4) were not chosen because they apply only to investments already held for 3 years. Amounts in JOD from 2025 (USD before)."
+  },
+  {
+   "program_id": "jor-property-residence",
+   "amount": 200000,
+   "currency": "JOD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-65ad7c9b3d"
+   ],
+   "note": "New residential property bought from a licensed developer, held 5 years; spouse and children included."
+  },
+  {
+   "program_id": "khm-cbi",
+   "amount": 4000000000,
+   "currency": "KHR",
+   "route": "business_investment",
+   "term_ids": [
+    "t-5f058e913c"
+   ],
+   "note": "Sub-decree 225 (from 1 Dec 2025): own capital of at least 4 billion riel spent on a project in a priority sector listed in the annexes; donation route 12 billion riel (t-a5a25d1684). Also 12 months' legal residence for investors (2018 law). Amounts for 2018-2025 (sub-decree 112) not found."
+  },
+  {
+   "program_id": "kna-cbi",
+   "amount": 250000,
+   "currency": "USD",
+   "route": "donation_sisc",
+   "term_ids": [
+    "t-9612f1ef63"
+   ],
+   "note": "Sustainable Island State Contribution from 8 Jul 2024: US$250,000 for a main applicant or a family of up to four; still listed on 28 Sep 2026. Public benefit option also US$250,000 (t-69fe4cd14c); approved real estate US$325,000 (t-fb847390c5). The CIU announced a move away from contribution routes during 2026 (e-ff2a74727e); no new rule recorded yet. Several undated older rows (SIDF, SGF, US$400,000 real estate) need end dates (see contradictions)."
+  },
+  {
+   "program_id": "kor-public-investment-immigration",
+   "amount": 1500000000,
+   "currency": "KRW",
+   "route": "fund_general",
+   "term_ids": [
+    "t-e37d1304c4"
+   ],
+   "note": "General public-project fund route from 29 Jun 2023 (F-2, then F-5 after 5 years); immediate F-5 route 3bn won (t-04e78a8eb5). Principal returned without interest after five years."
+  },
+  {
+   "program_id": "kor-real-estate-immigration",
+   "amount": 1000000000,
+   "currency": "KRW",
+   "route": "real_estate",
+   "term_ids": [
+    "t-e50a3d8d06"
+   ],
+   "note": "Tourism/resort property in the five designated areas from 1 May 2023. The designation was extended by three years from May 2023 (to about April 2026); whether it was extended again was not checked, so 'today' may not hold."
+  },
+  {
+   "program_id": "lca-cbi",
+   "amount": 240000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-ee3d2933ca"
+   ],
+   "note": "National Economic Fund from 1 Jul 2024; the amount covers an applicant with up to three dependants, so a single applicant pays the same. Alternatives: enterprise Option 3 US$250,000 (t-df72f95314), real estate US$300,000 (t-1125ad0c7c), National Action Bond US$300,000 (t-19c9485fef)."
+  },
+  {
+   "program_id": "ltu-investor-residence",
+   "amount": 14000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-ec4c7d6be9"
+   ],
+   "note": "Not a passive investment: EUR 14,000 of own money in a Lithuanian company with at least EUR 28,000 equity, active 6 months, paying staff at least twice the average wage, applicant manager or holding a third of shares. Alternative EUR 260,000 with five jobs (t-6a1b173be9). Start date of the amounts not established."
+  },
+  {
+   "program_id": "lux-investor-residence",
+   "amount": 500000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-c3c1499b84",
+    "t-18facdbe27"
+   ],
+   "note": "EUR 500,000 in an existing (held 5 years) or new (held 3 years) Luxembourg company. Alternatives EUR 3m in an investment structure, EUR 20m deposit. Repeal bill 8586 pending in Sep 2026."
+  },
+  {
+   "program_id": "lva-investor-residence",
+   "amount": 50000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-3d03cd7af5"
+   ],
+   "note": "Under the new Immigration Law from 15 Sep 2026 only the business route remains usable: EUR 50,000 in a company with up to 50 employees (2-year permit), plus a EUR 10,000 state payment (a fee, t-8b87d829d3). The new EUR 150,000 state-fund route (t-2cd2f2a778) was not yet operational. The EUR 250,000 property and EUR 280,000 bank routes ended 14 Sep 2026; the state-securities route ended 19 May 2026."
+  },
+  {
+   "program_id": "mco-residence",
+   "amount": null,
+   "currency": null,
+   "route": "",
+   "term_ids": [],
+   "note": "No program_terms rows: the ordinance sets no amount. The EUR 500,000 bank deposit mentioned in the programme note is a practice reported by officials and media, not a recorded rule."
+  },
+  {
+   "program_id": "mda-cbi",
+   "amount": 100000,
+   "currency": "EUR",
+   "route": "donation",
+   "term_ids": [
+    "t-7db730a485"
+   ],
+   "note": "Price at closure (1 Sep 2020; moratorium on new applications from summer 2019): EUR 100,000 contribution to the Public Investment Fund for Sustainable Development, from a press summary; the regulation HG 786/2017 was not read and CJI describes the minimum as EUR 250,000. Strategic-sector investment route EUR 250,000 (t-809faa7c5e)."
+  },
+  {
+   "program_id": "mkd-economic-interest",
+   "amount": 200000,
+   "currency": "EUR",
+   "route": "investment_fund",
+   "term_ids": [
+    "t-c55a5e87e1"
+   ],
+   "note": "EUR 200,000 per person in a private investment fund, held 2 years (from 14 Dec 2019). Direct investment route EUR 400,000 plus 10 jobs (t-f29e478627). Discretionary Government decision; a June 2026 draft would remove fixed amounts."
+  },
+  {
+   "program_id": "mlt-grp",
+   "amount": 220000,
+   "currency": "EUR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-b4e1cad840",
+    "t-1c19c07cc4"
+   ],
+   "note": "Lowest purchase price: EUR 220,000 in Gozo or the south of Malta; EUR 275,000 elsewhere in Malta (t-1c19c07cc4). Renting instead (EUR 8,750/9,600 a year) is allowed. A tax status, not an immigration permit; minimum tax EUR 15,000 a year. Applies to applications up to 31 Dec 2026; from 2027 the Individual Tax Programme needs EUR 700,000 (t-8a6bce70f6)."
+  },
+  {
+   "program_id": "mlt-hnwi-non-eu",
+   "amount": 400000,
+   "currency": "EUR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-851c93eed4"
+   ],
+   "note": "Price at closure (30 Jun 2013): property bought for at least EUR 400,000; leasing at EUR 20,000 a year was an alternative. Minimum tax EUR 25,000 a year."
+  },
+  {
+   "program_id": "mlt-iip",
+   "amount": 1150000,
+   "currency": "EUR",
+   "route": "donation + investment + real_estate",
+   "term_ids": [
+    "t-f82f9554fc",
+    "t-da7599ab66",
+    "t-1385634541"
+   ],
+   "note": "At closure (31 Jul 2020) all three were required together: EUR 650,000 contribution (includes a EUR 10,000 non-refundable deposit), EUR 150,000 in stocks/bonds held 5 years, and a home bought for at least EUR 350,000 held 5 years. Renting at EUR 16,000 a year for 5 years (t-1d63d4db9e) could replace the purchase, in which case the money invested or donated is EUR 800,000."
+  },
+  {
+   "program_id": "mlt-mec",
+   "amount": 1310000,
+   "currency": "EUR",
+   "route": "donation + real_estate",
+   "term_ids": [
+    "t-3efad396c2",
+    "t-dbec474010",
+    "t-bef20b76de"
+   ],
+   "note": "At closure (Act XXI of 2025, 24 Jul 2025): EUR 600,000 contribution after 36 months' residence (EUR 750,000 after 12 months, t-db49859676), EUR 10,000 donation to an NGO, and a home bought for at least EUR 700,000 held 5 years. Renting at EUR 16,000 a year (t-ab38b2cdd0) could replace the purchase, in which case the money donated is EUR 610,000."
+  },
+  {
+   "program_id": "mlt-mprp",
+   "amount": 412000,
+   "currency": "EUR",
+   "route": "real_estate + donation",
+   "term_ids": [
+    "t-3b9ef6b84f",
+    "t-402edb0154"
+   ],
+   "note": "Purchase route: home of at least EUR 375,000 (Malta or Gozo, from 1 Jan 2025) plus EUR 37,000 government contribution (from 22 Jul 2025). Renting at EUR 14,000 a year (t-0165e1528d) replaces the purchase, leaving EUR 37,000 contribution plus rent. Excludes the EUR 60,000 administration fee (t-45af9b2823); applicants must also hold EUR 500,000 in assets (proof, not payment). The 2021 rules also required a EUR 2,000 NGO donation; not checked for 2025."
+  },
+  {
+   "program_id": "mlt-mrvp",
+   "amount": 550000,
+   "currency": "EUR",
+   "route": "donation + bonds + real_estate",
+   "term_ids": [
+    "t-61281fca32",
+    "t-6c52d373ab",
+    "t-0f00d235c2"
+   ],
+   "note": "At closure (29 Mar 2021): EUR 30,000 contribution (of which EUR 5,500 is paid up front as a non-refundable administrative fee; excluding it gives EUR 544,500), EUR 250,000 qualifying investment (government stocks) and a home bought for at least EUR 270,000 in Gozo or the south of Malta (EUR 320,000 elsewhere, t-17631e09cc, making EUR 600,000). Renting (EUR 10,000/12,000 a year) could replace the purchase."
+  },
+  {
+   "program_id": "mne-cbi",
+   "amount": 450000,
+   "currency": "EUR",
+   "route": "real_estate + donation",
+   "term_ids": [
+    "t-ed53f4fa5f",
+    "t-ec69fd13de",
+    "t-70384f04a9"
+   ],
+   "note": "At closure (31 Dec 2022): EUR 250,000 in a listed development project in the north or centre, plus EUR 100,000 to the fund for less developed municipalities, plus EUR 100,000 to the Innovation Fund (added from 31 Dec 2021). In Podgorica or on the coast the project minimum was EUR 450,000 (t-cf43bc8c78), i.e. EUR 650,000 in total. Fees of EUR 15,000 excluded."
+  },
+  {
+   "program_id": "mus-family-op",
+   "amount": 250000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-c3b7836d4f"
+   ],
+   "note": "Non-refundable contribution to the COVID-19 Projects Development Fund; covers the whole family unit. The criteria are absent from the EDB Act schedule as consolidated to 13 Aug 2026, so whether the route is still open is uncertain."
+  },
+  {
+   "program_id": "mus-investor-naturalisation",
+   "amount": 500000,
+   "currency": "USD",
+   "route": "investment",
+   "term_ids": [
+    "t-7e00580f7e"
+   ],
+   "note": "Not a priced programme: an investment of at least US$500,000 (1999 amendment) lets the Minister, at discretion, accept 2 years' residence instead of the normal requirement. Whether still in force, or whether another sum was prescribed, was not established."
+  },
+  {
+   "program_id": "mus-investor-permit",
+   "amount": 100000,
+   "currency": "USD",
+   "route": "business",
+   "term_ids": [
+    "t-d708a4db2a"
+   ],
+   "note": "From 13 Aug 2026 the only investor option: US$100,000 initial investment in a business with turnover targets. The US$50,000 option (t-a491f63889) ended then."
+  },
+  {
+   "program_id": "mus-property-residence",
+   "amount": 375000,
+   "currency": "USD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-9fdb19aab4",
+    "t-cba1788a08"
+   ],
+   "note": "Residential property under the IRS/RES/IHS/PDS/Smart City schemes or a G+2 apartment, at least US$375,000. Buyers over 50 can use senior-living PDS property above US$200,000 (t-ba6043def5)."
+  },
+  {
+   "program_id": "mus-retired-permit",
+   "amount": null,
+   "currency": null,
+   "route": "",
+   "term_ids": [],
+   "note": "No investment required: the permit rests on transferring income (US$2,000 a month or US$24,000 a year, t-9b14eddf33), not on investing or donating."
+  },
+  {
+   "program_id": "mys-mm2h",
+   "amount": null,
+   "currency": null,
+   "route": "",
+   "term_ids": [],
+   "note": "Not set because the Silver tier (cheapest standard tier, from June 2024) needs two items in different currencies: a US$150,000 fixed deposit (t-7ed6899447) plus a compulsory home purchase of at least RM600,000 (t-b3249beabf). The Special Economic Zone category needs only US$65,000 (US$32,000 aged 50+) but requires a Forest City home whose minimum price is not recorded."
+  },
+  {
+   "program_id": "mys-pvip",
+   "amount": 1000000,
+   "currency": "MYR",
+   "route": "fixed_deposit",
+   "term_ids": [
+    "t-d9120dc29d"
+   ],
+   "note": "RM1m fixed deposit (half withdrawable after a year); RM200,000 participation fee excluded. Industry source only, and the programme's current status is not confirmed."
+  },
+  {
+   "program_id": "nld-investor-residence",
+   "amount": 1250000,
+   "currency": "EUR",
+   "route": "business",
+   "term_ids": [
+    "t-8cf32bae1d"
+   ],
+   "note": "Price at closure (17 Apr 2024): EUR 1,250,000 invested in an innovative Dutch company or SEED fund."
+  },
+  {
+   "program_id": "nru-citizen-investor",
+   "amount": null,
+   "currency": null,
+   "route": "",
+   "term_ids": [],
+   "note": "No program_terms rows: the 1997 Act left the amount to Cabinet and no Cabinet determination was found."
+  },
+  {
+   "program_id": "nru-ecrcp",
+   "amount": 90000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-68fd5fe991",
+    "t-e8c2fb139e"
+   ],
+   "note": "Temporary 'Iruwa Initiative' discount for the main applicant, valid to 31 Dec 2026. The standard contribution is US$115,000 (t-0147dd025b, from 29 Jan 2026). Application, due diligence and Program Office fees excluded."
+  },
+  {
+   "program_id": "nzl-aip",
+   "amount": 5000000,
+   "currency": "NZD",
+   "route": "growth",
+   "term_ids": [
+    "t-d2fcb8060f"
+   ],
+   "note": "Growth category since 1 April 2025: at least NZ$5 million in managed funds or direct investments approved by Invest New Zealand, held 3 years. Balanced category needs NZ$10 million (t-2e35e2757f). Application fee and levy excluded."
+  },
+  {
+   "program_id": "nzl-investor-1",
+   "amount": 10000000,
+   "currency": "NZD",
+   "route": "investment",
+   "term_ids": [
+    "t-80cf6f7cbb"
+   ],
+   "note": "Closed to new applications 27 July 2022; NZ$10 million for three years was the amount on that day, unchanged since 2009."
+  },
+  {
+   "program_id": "nzl-investor-2",
+   "amount": 3000000,
+   "currency": "NZD",
+   "route": "investment",
+   "term_ids": [
+    "t-bf1d6fbd55"
+   ],
+   "note": "Closed 27 July 2022; NZ$3 million minimum (four years) since 22 May 2017. Points-based, so the minimum alone did not guarantee an invitation."
+  },
+  {
+   "program_id": "omn-investor-residence",
+   "amount": 200000,
+   "currency": "OMR",
+   "route": "investment_any",
+   "term_ids": [
+    "t-ebc45dc692"
+   ],
+   "note": "10-Year Golden Residency launched 31 Aug 2025: single OMR 200,000 threshold across seven routes (property, company, bonds, shares, deposit...), family included. Source is Invest Oman's page; the legal instrument was not found, and whether the older OMR 250,000 five-year category (t-7ae298c102) survives is unknown."
+  },
+  {
+   "program_id": "pan-friendly-nations",
+   "amount": 200000,
+   "currency": "PAB",
+   "route": "real_estate",
+   "term_ids": [
+    "t-7fac8bf918",
+    "t-a013de09c8"
+   ],
+   "note": "Since 7 Aug 2021: property of at least B/.200,000 or a three-year fixed deposit of B/.200,000 (same amount). Not purely an investment programme: nationals of listed countries can qualify instead with a job and work permit (t-620fe3da7b), with no investment. B/. at par with USD."
+  },
+  {
+   "program_id": "pan-macro-investor",
+   "amount": 160000,
+   "currency": "PAB",
+   "route": "business",
+   "term_ids": [
+    "t-4e4ba2904e"
+   ],
+   "note": "B/.160,000 share capital per applicant under DE 320 of 2008; later amendments and current status not checked (programme status is empty and the category disappears from SNM tables after 2021), so treat as the last known amount."
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "amount": 300000,
+   "currency": "PAB",
+   "route": "real_estate",
+   "term_ids": [
+    "t-2b6fc0b222",
+    "t-d0090088e5"
+   ],
+   "note": "Under DE 17 of 2026 (from 16 Sept 2026): B/.300,000 for a first-sale (new) property or a presale contract; secondary-market property needs B/.500,000 (t-08807a143d), securities B/.500,000, deposits B/.750,000 (B/.500,000 at state banks). Fees and repatriation deposit excluded."
+  },
+  {
+   "program_id": "pan-solvencia-economica",
+   "amount": 300000,
+   "currency": "PAB",
+   "route": "real_estate",
+   "term_ids": [
+    "t-845006da05",
+    "t-d0e7a11271",
+    "t-057239c352"
+   ],
+   "note": "B/.300,000 in property, a three-year deposit, or a mix (DE 320 of 2008). Amendments after 2008 were not checked."
+  },
+  {
+   "program_id": "phl-sirv",
+   "amount": 75000,
+   "currency": "USD",
+   "route": "investment",
+   "term_ids": [
+    "t-ad0a281aaa"
+   ],
+   "note": "US$75,000 in a listed company, IPP project or manufacturing/services; spouse and children under 21 included at the same amount. Validity dates not given in the source."
+  },
+  {
+   "program_id": "phl-srrv",
+   "amount": 15000,
+   "currency": "USD",
+   "route": "deposit_classic_pensioner_age50plus",
+   "term_ids": [
+    "t-96b299c7ec",
+    "t-c53daef1de"
+   ],
+   "note": "Refundable visa deposit, not a spend. Lowest general amount under the August 2025 Expanded SRRV is US$15,000 for a retiree aged 50+ with a pension (US$800/month); without a pension US$30,000 (t-c53daef1de); aged 40-49 US$25,000/50,000. The Courtesy deposit of US$1,500 (t-1d9dbb7c12) is only for retired diplomats and similar, so not the main route."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "amount": 500000,
+   "currency": "EUR",
+   "route": "investment_fund",
+   "term_ids": [
+    "t-9939a06a8e"
+   ],
+   "note": "Main route today: EUR 500,000 in units of non-real-estate Portuguese investment funds (Law 56/2023, from 7 Oct 2023), the route most applicants now use since real estate and capital transfer were removed. Research and job-creating company routes are also EUR 500,000 (t-d3f6b6811b, t-5ccea19610). The cheapest money route is EUR 250,000 for arts production or cultural heritage (t-0963153d54), up to 20% less in low-density areas; it is a niche donation route, so it is not used as the headline (same choice as Greece, where the EUR 250,000 conversion/listed-building routes are niche). Permit fees (EUR 8,418.90 in 2026) excluded."
+  },
+  {
+   "program_id": "qat-permanent-residence",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Not an investment programme (residence-based card, max 100 a year); no price exists."
+  },
+  {
+   "program_id": "qat-property-residence",
+   "amount": 730000,
+   "currency": "QAR",
+   "route": "real_estate",
+   "term_ids": [
+    "t-d5dd992b18",
+    "t-f61f16f4cf"
+   ],
+   "note": "Property worth QAR 730,000 in designated areas gives residence while owned; QAR 3,650,000 adds permanent-residency benefits (t-7645b3885d). One source says 'more than' 730,000. Cabinet Decision 28/2020 text not stored."
+  },
+  {
+   "program_id": "sau-premium-residency",
+   "amount": 800000,
+   "currency": "SAR",
+   "route": "fee_permanent",
+   "term_ids": [
+    "t-eef0a1cf1e",
+    "t-0c03e381a0"
+   ],
+   "note": "The scheme's signature product is bought, not invested: a one-time SAR 800,000 payment for permanent premium residency (no investment required); treated here as the price because it is the payment that buys the status, not an add-on fee. Cheaper alternatives: fixed-term residency at SAR 100,000 a year (t-0bd17b63ec); entrepreneur product SAR 400,000 (t-d73d302300, needs a startup and endorsement). Investment products since 2024: property SAR 4 million (t-d664e88ec1), business SAR 7 million plus 10 jobs. Sources are press reports from 2019; current fee not verified."
+  },
+  {
+   "program_id": "sgp-fis",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Closed 15 Apr 2012; investment terms not found in any source read, no term rows."
+  },
+  {
+   "program_id": "sgp-gip",
+   "amount": 10000000,
+   "currency": "SGD",
+   "route": "business",
+   "term_ids": [
+    "t-2cdc84ad46"
+   ],
+   "note": "Option A since 15 Mar 2023: S$10 million in a new or existing business. Option B is S$25 million in a GIP-select fund; Option C a family office with S$200 million AUM and S$50 million deployed. Applicants must also pass business track-record tests (e.g. S$200m turnover)."
+  },
+  {
+   "program_id": "stp-cbi",
+   "amount": 90000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-ebd2a8007a",
+    "t-9775d27a74"
+   ],
+   "note": "Non-refundable contribution to the National Transformation Fund, single applicant (Decree-Law 07/2025); USD 95,000 for a family of 2-4. Due diligence USD 5,000 and document fees excluded."
+  },
+  {
+   "program_id": "syc-eden-island-residence",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Only the permit fee (SCR 150,000) is recorded; no official minimum property price found."
+  },
+  {
+   "program_id": "syc-investor-citizenship",
+   "amount": 1000000,
+   "currency": "USD",
+   "route": "business",
+   "term_ids": [
+    "t-98142edb80"
+   ],
+   "note": "USD 1 million in a Seychelles business, but also 11 years' aggregate residence, an exam and sponsors: not a quick citizenship route."
+  },
+  {
+   "program_id": "syc-investor-pr",
+   "amount": 1000000,
+   "currency": "USD",
+   "route": "business",
+   "term_ids": [
+    "t-3e02d315c5"
+   ],
+   "note": "USD 1 million (or rupee equivalent) in a Seychelles business plus one year's residence. Permit fee SCR 150,000 excluded."
+  },
+  {
+   "program_id": "tca-investor-residence-permit",
+   "amount": 500000,
+   "currency": "USD",
+   "route": "home_or_business",
+   "term_ids": [
+    "t-415548536e"
+   ],
+   "note": "US$500,000 in a home or business on Providenciales or West Caicos (standard). On Grand Turk and the family islands US$250,000 (in the same row's notes, reg 24(4)(a)(ii); no separate term row)."
+  },
+  {
+   "program_id": "tca-prc-investment",
+   "amount": 1000000,
+   "currency": "USD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-e5cc3e45c1",
+    "t-1f7eeb56f4"
+   ],
+   "note": "US$1 million in a home (or home/business) on Providenciales and other main islands. Regional discount: US$300,000 for a home on Grand Turk and family islands (t-dc88f33503). Certificate fee US$25,000 excluded."
+  },
+  {
+   "program_id": "tha-ltr-wgc",
+   "amount": 500000,
+   "currency": "USD",
+   "route": "investment",
+   "term_ids": [
+    "t-06ad473671"
+   ],
+   "note": "US$500,000 in Thai government bonds, companies or property, plus US$1 million in assets (which may include it; t-71c5501c54). Amount as published 2025-26; whether the same at launch not checked."
+  },
+  {
+   "program_id": "tha-privilege",
+   "amount": 650000,
+   "currency": "THB",
+   "route": "membership_fee_bronze",
+   "term_ids": [
+    "t-3c03d03791"
+   ],
+   "note": "A non-refundable membership fee, not an investment; it is what buys the long-stay visa, so it is the price. Bronze (5 years) THB 650,000; Gold THB 900,000 (t-fe90282c4d)."
+  },
+  {
+   "program_id": "ton-passport-sales",
+   "amount": 20000,
+   "currency": "unspecified",
+   "route": "economic_citizenship",
+   "term_ids": [
+    "t-daf5128fd6"
+   ],
+   "note": "Press report (NYT 1992): '$20,000' for a single applicant, $35,000 family of four; currency not stated. Dates of this price and of closure not known."
+  },
+  {
+   "program_id": "tur-cbi",
+   "amount": 400000,
+   "currency": "USD",
+   "route": "real_estate",
+   "term_ids": [
+    "t-95f49947be"
+   ],
+   "note": "USD 400,000 in built property (since 13 June 2022; only built/condominium units since 12 Dec 2023), held 3 years. Deposit, bonds, funds, capital and pension routes are USD 500,000."
+  },
+  {
+   "program_id": "twn-apr-investment",
+   "amount": 15000000,
+   "currency": "TWD",
+   "route": "business_investment",
+   "term_ids": [
+    "t-410045b554"
+   ],
+   "note": "More than NT$15 million in a profitable business with jobs for 5 nationals for 3 years; bonds route NT$30 million. Start date of the route not established."
+  },
+  {
+   "program_id": "twn-hkmo-investment-residence",
+   "amount": 6000000,
+   "currency": "TWD",
+   "route": "business_investment",
+   "term_ids": [
+    "t-f66fe2ef08"
+   ],
+   "note": "Only for Hong Kong and Macao residents: NT$6 million or more, approved by the authority."
+  },
+  {
+   "program_id": "ury-tax-residence-investment",
+   "amount": 3500000,
+   "currency": "UI",
+   "route": "real_estate",
+   "term_ids": [
+    "t-2b7ae0d109"
+   ],
+   "note": "Tax residence, not an immigration permit: real estate over 3,500,000 UI (inflation-indexed units) bought from 1 July 2020, plus 60 days' presence a year."
+  },
+  {
+   "program_id": "usa-eb5",
+   "amount": 800000,
+   "currency": "USD",
+   "route": "investment_tea",
+   "term_ids": [
+    "t-9ec0ef1453"
+   ],
+   "note": "USD 800,000 in a targeted employment area or infrastructure project (most investors use it); standard amount USD 1,050,000 (t-d0d0ff4593). Automatic inflation adjustment due for petitions from 1 Jan 2027, amount not yet published."
+  },
+  {
+   "program_id": "usa-gold-card",
+   "amount": 1000000,
+   "currency": "USD",
+   "route": "donation",
+   "term_ids": [
+    "t-59161c59f6"
+   ],
+   "note": "USD 1 million unrestricted gift by an individual (each family member needs their own gift per trumpcard.gov); USD 15,000 I-140G fee per person excluded."
+  },
+  {
+   "program_id": "vct-ecp",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Closed April 2001 with no passports issued; no prices recorded."
+  },
+  {
+   "program_id": "vut-1990s",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "1990s passport sales: no terms found."
+  },
+  {
+   "program_id": "vut-cbi",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Umbrella id for figures covering several schemes; see vut-dsp, vut-vcp, vut-ciip."
+  },
+  {
+   "program_id": "vut-ciip",
+   "amount": 260000,
+   "currency": "USD",
+   "route": "government_fee",
+   "term_ids": [
+    "t-3f0f95efd4",
+    "t-585de70725"
+   ],
+   "note": "Citizenship Office lists USD 260,000 as the 'Citizenship Fee' for applicant, spouse and one child (a single applicant pays the same). Ambiguous: the IMF (2014-15) described USD 260,000 as a returnable investment plus a $40,000 fee, and a Dec 2024 press release mentions a mandatory USD 50,000 investment component without saying whether it is in addition (t-137dcfd780)."
+  },
+  {
+   "program_id": "vut-dsp",
+   "amount": 130000,
+   "currency": "USD",
+   "route": "agent_price_minimum",
+   "term_ids": [
+    "t-883335b491",
+    "t-084fa2b620"
+   ],
+   "note": "Order 33 of 2019: government share USD 80,000 for a single person (t-084fa2b620), but licensed agents must charge at least USD 130,000, so USD 130,000 is the least an applicant can lawfully pay; the website still shows USD 130,000 (t-aa4d74a593). Due diligence USD 5,000 excluded. If the headline should count only money reaching the government, use USD 80,000."
+  },
+  {
+   "program_id": "vut-hkpr",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Closed 2015. Programme notes cite 300,000 vatu in a Vanuatu company (IMF), but no program_terms row records it; add a term row first."
+  },
+  {
+   "program_id": "vut-reo",
+   "amount": null,
+   "currency": null,
+   "route": null,
+   "term_ids": [],
+   "note": "Prices not found; no term rows."
+  },
+  {
+   "program_id": "vut-vcp",
+   "amount": 130000,
+   "currency": "USD",
+   "route": "agent_price_minimum",
+   "term_ids": [
+    "t-997d6e9d68",
+    "t-06db51306e"
+   ],
+   "note": "Same as DSP (2020 directive): government minimum contribution USD 80,000, minimum selling price USD 130,000 for a single applicant."
+  },
+  {
+   "program_id": "vut-verp",
+   "amount": 162000,
+   "currency": "unspecified",
+   "route": "donation",
+   "term_ids": [
+    "t-999e822a7f"
+   ],
+   "note": "Closed March 2017. Media report (ABC, 2015): priced at '$162,000', currency not stated; a $40,500 non-refundable fee was also reported."
+  }
+ ],
+ "contradictions": [
+  {
+   "what": "IMF tables that repeat the authorities' past outturns are recorded with different statuses by different agents: 35 IMF rows are 'actual' (Antigua, Grenada, St Kitts, Saint Lucia CBI revenue, Malta balance excl. IIP), while comparable relayed figures are 'reported' (Grenada contingency fund o-cd3c911398, St Kitts SIDF income o-4f982ea8a5) or 'provisional' because second-hand (Nauru o-c2c5183c1f). The brief says second-hand figures are 'reported'.",
+   "ids": [
+    "o-5e4aba519e",
+    "o-907bc44d22",
+    "o-88dec29848",
+    "o-b95dabdc63",
+    "o-74b45c4d84",
+    "o-625b498078",
+    "o-cd3c911398",
+    "o-4f982ea8a5",
+    "o-c2c5183c1f"
+   ],
+   "suggestion": "Decide one rule for IMF columns labelled as outturns (not 'Est.'/'Proj.'/'Prel.'): either keep 'actual' (an official international body's table of official data) and change o-cd3c911398/o-c2c5183c1f to match, or make all 35 'reported'. Write the rule in DATA_MODEL.md."
+  },
+  {
+   "what": "Application indicators used to count people. About 130 rows of applications_received, applications_rejected, applications_approved and applications_pending_incl_family have unit 'persons' (people included in the applications), although the definitions count applications (main applicants). Affected: nzl-aip (61 rows), nzl-investor-1/-2 declined (22), mys-mm2h approvals by nationality and 'warga asing' (21), aus-biip lodgements and pipeline (25), can-iip pipeline (5). Within the same New Zealand table, people in approved applications are recorded as residence_permits_issued but people in declined applications as applications_rejected.",
+   "ids": [
+    "o-7dd5b4a808",
+    "o-8631a8b8ca",
+    "o-40d4841553",
+    "o-0cbc783d13",
+    "o-bf56bc61b0",
+    "o-908c8b405e",
+    "o-65ca02680e",
+    "o-4ede003b68",
+    "o-57d9858b5c",
+    "o-a2a1443f19"
+   ],
+   "suggestion": "Either add a breakdown applicant=all_persons (main applicants plus family) to these rows and say in DATA_MODEL.md that unit=persons on an application indicator means people in applications, or create person-count indicators (persons_in_applications_received / _rejected). Treat the New Zealand approved/declined people the same way."
+  },
+  {
+   "what": "First grants to main investors are recorded under two indicators. Greece, Portugal and Latvia use main_applicants_approved for initial permits to main investors; Spain (main investors' visas and authorisations), the UK Tier 1 (main-applicant visas), UAE (20 investors), Luxembourg (6 investors) and Oman (22 investors) use residence_permits_issued for the same kind of count. The two definitions overlap ('Permits issued to investors (and family members if noted)' vs 'Main applicants granted ... residence').",
+   "ids": [
+    "o-9901931d84",
+    "o-3b460e0e86",
+    "o-a69d7d6fba",
+    "o-6f144910ea"
+   ],
+   "suggestion": "Tighten the definitions: main_applicants_approved for first grants to main applicants only; residence_permits_issued for permit counts that include family members or renewals, or where the source does not say. Then move the main-investor-only rows for esp, gbr, are, lux, omn (or the Greek/Portuguese ones) so that one programme type is counted one way."
+  },
+  {
+   "what": "Singapore GIP route shares (50%, 40%, 10% of ~450 PR grants) and an annual average (60 per year) are stored under main_applicants_approved with units 'percent_of_total' and 'persons_per_year'. A count indicator holding shares and averages will be summed or charted wrongly.",
+   "ids": [
+    "o-91fde1f809",
+    "o-eaea530c80",
+    "o-ecfcef651b",
+    "o-045f904816"
+   ],
+   "suggestion": "Add an indicator for route shares (e.g. main_applicants_route_share, percent, breakdown route=), or drop the share rows and keep the count; record the 60-per-year average with period_basis 'annual_average' (already used elsewhere) and unit 'persons'."
+  },
+  {
+   "what": "Rounded official figures ('around', 'about', 'more than') get different statuses: Hong Kong 'around 8,200 investors' and 'around $58 billion' are 'actual' (o-d5e56152d5, o-7471e6b376); Singapore ministers' 'about 200' and 'around 450' are 'estimate'; St Kitts PM's rounded revenue figures are 'claim'; Turkish ministers' committee statements are 'provisional'.",
+   "ids": [
+    "o-d5e56152d5",
+    "o-7471e6b376",
+    "o-71a555b579",
+    "o-300a90c667",
+    "o-862dcf628b",
+    "o-779b3f1c8e"
+   ],
+   "suggestion": "One rule for official but rounded or oral figures (e.g. status of the underlying count, with 'rounded' in notes; 'claim' only for unverifiable political statements)."
+  },
+  {
+   "what": "passports_issued uses unit 'passports' in 38 rows and 'persons' in 27 for the same indicator (unit_kind persons); citizenships_revoked has one row in 'passports' (o-0842acdd81) and dependants_approved two in 'permits'.",
+   "ids": [
+    "o-04b6e4b6ee",
+    "o-1876279ec4",
+    "o-fb8e56c34a",
+    "o-0842acdd81",
+    "o-5bbfb6aaaa"
+   ],
+   "suggestion": "Normalise the unit to the indicator's unit_kind (persons) and keep 'passports'/'permits' wording in notes, or declare 'passports' an allowed unit for passports_issued."
+  },
+  {
+   "what": "Australian masked cells '<5' are stored as value 0, value_high 5, although the same tables print true zeros as 0, so a masked cell means 1-4 (the note on o-2610ed79a7 says 'between one and four'; o-417c551d23 says another table counts exactly one).",
+   "ids": [
+    "o-2610ed79a7",
+    "o-417c551d23",
+    "o-8768744b71",
+    "o-e22a814252",
+    "o-f23f79910a",
+    "o-fa80d86e9c",
+    "o-c02b094fe3",
+    "o-8914bd6a7e"
+   ],
+   "suggestion": "Record masked '<5' as value 1, value_high 4 where the table shows zeros separately, and say so in DATA_MODEL.md; keep 0-N for 'fewer than N' wording elsewhere."
+  },
+  {
+   "what": "rbi_investment_total is defined as investment made, but several series count investment approved or committed rather than transferred: Ireland IIP 'total amount in approved applications' and 'approved investment of almost €1.252 billion' (o-b4db785e5f, o-579848cc85, o-fd1c40e864), New Zealand AIP 'committed investment from approved applications' (o-dbd14c42db).",
+   "ids": [
+    "o-b4db785e5f",
+    "o-579848cc85",
+    "o-d509bf80d3",
+    "o-fd1c40e864",
+    "o-dbd14c42db",
+    "o-9827425bf4"
+   ],
+   "suggestion": "Either widen the definition ('made or committed under approved applications, as the source defines') or move approved-but-not-necessarily-invested amounts to rbi_investment_intended, and state which in notes."
+  },
+  {
+   "what": "Media rows that pass on a projection or budget keep status 'reported', so they look like outturns in charts: Malaysia PVIP 'expects to collect RM206 million' (o-3aac5f25fb, note: 'An expectation ... not money collected'); Antigua 2026 'Budget projects EC$157 million' (o-82119659e1, which its own note says is probably a misreading of the 2025 outturn).",
+   "ids": [
+    "o-3aac5f25fb",
+    "o-82119659e1"
+   ],
+   "suggestion": "For second-hand forward-looking figures use 'projection'/'budget' and say 'reported by media' in notes (or add a rule that 'reported' never applies to plans); consider superseding o-82119659e1 by the primary atg-mof-budget-2026 rows."
+  },
+  {
+   "what": "Two closure dates for the BIIP: 1 July 2024 (2024-25 Migration Program report) and 31 July 2024 (visa website). programs.ended, aus-siv and the terms use 31 July.",
+   "ids": [
+    "aus-biip",
+    "e-a773f1c11a",
+    "e-02671ad72e",
+    "t-261b980ed0"
+   ],
+   "suggestion": "Keep 31 Jul 2024 (the visa-website date, matching aus-siv) and keep both events. The notes already explain the difference."
+  },
+  {
+   "what": "Antigua EC$ rows from the 2013 regulations are still open-ended although later rules changed the amounts: NDF EC$675,000 (t-306f4fa48a) versus the 2017 offer (t-3fb86660c9, t-d857fa8672) and US$230,000 from 1 Aug 2024 (t-fb4f5962fd); business EC$4,000,000 (t-ca6b40fea3) next to the current US$1,500,000 (t-b589105440).",
+   "ids": [
+    "t-306f4fa48a",
+    "t-ca6b40fea3",
+    "t-b589105440",
+    "t-fb4f5962fd"
+   ],
+   "suggestion": "Read reg. 5-6 of atg-cbi-regs-2024 and set valid_to (probably 2024-07-31) on the superseded EC$ rows."
+  },
+  {
+   "what": "Antigua regulations print amounts with '$'. Some rows read this as EC$ (t-306f4fa48a, t-b0445cc8ef, t-ca6b40fea3), while others from the same series leave it unspecified (t-fea847c47d) or call it XCD despite saying it may be US$ (t-98c2cba205).",
+   "ids": [
+    "t-fea847c47d",
+    "t-98c2cba205",
+    "t-306f4fa48a"
+   ],
+   "suggestion": "Apply one rule: EC$ where the amount matches the official US$ figure at 2.70; 'unspecified' where it does not."
+  },
+  {
+   "what": "Dominica IMF-description rows (US$100,000) are open-ended although the fund contribution has been US$200,000 since 28 Jun 2024.",
+   "ids": [
+    "t-f401b6a7ce",
+    "t-0fe3ee8236",
+    "t-ca498986c6"
+   ],
+   "suggestion": "Give them a valid_to (the IMF report date, or 2024-06-27), or mark them as descriptive snapshots."
+  },
+  {
+   "what": "Bahamas: the administrative 'accelerated consideration' rows predate the programme's launch date (2021-07-01). t-735c46d8d3 (US$1.5m from 2011) is open-ended, and t-e1ebb4b896 (US$750,000) has no start date. Together with the US$1m statutory row from 2025 they give overlapping thresholds.",
+   "ids": [
+    "bhs-epr",
+    "t-735c46d8d3",
+    "t-e1ebb4b896",
+    "t-ce37f17e39"
+   ],
+   "suggestion": "Either move launched back to 2011 (administrative scheme) or set t-735c46d8d3 valid_to to 2021-06-30 if the policy lapsed when s.17A took effect. The official MOFA page still mentions BS$1.5m, so check before changing."
+  },
+  {
+   "what": "UAE federal portal row says real-estate golden visas last 5 years, while the Dubai and Abu Dhabi pages say 10 years.",
+   "ids": [
+    "t-186da74ff0",
+    "t-fd0fbb05c4",
+    "t-18eefc9e12"
+   ],
+   "suggestion": "Keep as is; it is a source disagreement. Prefer the emirate pages and the Res. 65/2022 summary (t-9f9f5c41e7) for the duration."
+  },
+  {
+   "what": "Costa Rica: it is unclear whether the US$150,000 minimum (Ley 9996) still applies after its five-year window ended in July 2026, or whether US$200,000 (2012 regulation) is back.",
+   "ids": [
+    "t-815a54c566",
+    "t-39ca44e5c4",
+    "e-5f8a852d2b"
+   ],
+   "suggestion": "Check DGME practice after July 2026 and set valid_to on t-815a54c566 if the threshold reverted."
+  },
+  {
+   "what": "Inconsistent meaning of programs.ended. Some programmes record the first day of closure: esp-golden-visa 2025-04-03 (its terms end 2025-04-02), cyp-cip 2020-11-01 (applications until 31 Oct). Others record the last day applications were taken: aus-piv 2021-06-30, can-iivc 2015-12-30, gbr-tier1-investor 2022-02-17.",
+   "ids": [
+    "esp-golden-visa",
+    "cyp-cip",
+    "aus-piv",
+    "can-iivc",
+    "gbr-tier1-investor"
+   ],
+   "suggestion": "Define 'ended' in DATA_MODEL.md (suggest: last day new applications were accepted) and align the dates."
+  },
+  {
+   "what": "Term quotes that do not contain the amount recorded; the amount appears only in the notes.",
+   "ids": [
+    "t-b210bc03ee",
+    "t-af75965433",
+    "t-59d92cd291"
+   ],
+   "suggestion": "Replace each quote with the sentence that states the amount (e.g. for t-59d92cd291 the decree text 'إيداع مبلغ خمسمائة ألف دولار أمريكى' cited in its note)."
+  },
+  {
+   "what": "Launch dates missing although notes or events give one. aus-business-skills-investor: notes say the first version was established in 1992. bgr-investor-residence: items from 2005/2009. Also missing for can-qc-investor, cym-cdi, cym-pim-residency, cyp-golden-visa, est-business-residence (Commission: 2009), fra-passeport-talent-investor (law of 7 Mar 2016), brb-serp, cri-inversionista, che-*, dom-investor-residence.",
+   "ids": [
+    "aus-business-skills-investor",
+    "bgr-investor-residence",
+    "est-business-residence",
+    "fra-passeport-talent-investor",
+    "can-qc-investor",
+    "cyp-golden-visa"
+   ],
+   "suggestion": "Fill launched only where a document gives the date (e.g. fra 2016-03 from the law; est 2009 per the Commission, as a year), and leave the rest empty."
+  },
+  {
+   "what": "Cyprus CIP: programs.ended is 2020-11-01, but the closure-category event e-418fdc0e62 (last approvals 31 Jul 2021) is also tagged closure. are-golden-visa likewise has two 'launch' events (2019-02-03 legal effect; 2019-05-21 Golden Card).",
+   "ids": [
+    "cyp-cip",
+    "e-418fdc0e62",
+    "are-golden-visa",
+    "e-0ceb678e00"
+   ],
+   "suggestion": "Acceptable. Optionally recategorise e-418fdc0e62 and e-0ceb678e00 as context or rule_change, so each programme has one launch event and one closure event."
+  },
+  {
+   "what": "An events row references program_id 'mlt-cbi', which is not in programs.csv (outside group A; noticed in passing).",
+   "ids": [
+    "mlt-cbi"
+   ],
+   "suggestion": "Map it to mlt-iip or mlt-mec, or leave program_id empty."
+  },
+  {
+   "what": "irl-ibn: programs.launched is 1988 but the only launch event is April 1989 (Government decision); the programme note itself says sources disagree (1988 in the Department's review, 1989 by the 2000 Minister).",
+   "ids": [
+    "irl-ibn",
+    "e-24f4871508"
+   ],
+   "suggestion": "Keep 1988 with the note, or set launched to 1989-04 to match the documented decision; either way state the choice in notes."
+  },
+  {
+   "what": "mkd-economic-interest: programs.launched is 2005-02-10 (first criteria decree) but the event categorised 'launch' is dated 1992 (the law), while the 2005 decree event is 'rule_change'.",
+   "ids": [
+    "mkd-economic-interest",
+    "e-cb3b6647f2",
+    "e-cdbcbbcf70"
+   ],
+   "suggestion": "Make the categories match the chosen launch date: either recategorise e-cb3b6647f2 as legal and e-cdbcbbcf70 as launch, or set launched to 1992."
+  },
+  {
+   "what": "grd-ecp: launched 1997 rests on an event saying a 1997 amendment made an existing scheme 'more attractive', so the scheme predates 1997. ended is 2001-11 while the closure event is dated 2001-11-15.",
+   "ids": [
+    "grd-ecp",
+    "e-49afbb2f54",
+    "e-9e13f93ad4"
+   ],
+   "suggestion": "Leave launched empty or note that 1997 is the amendment, not the start; set ended to 2001-11-15 if the UNGA statement date is accepted as the decision date."
+  },
+  {
+   "what": "kor-real-estate-immigration: status active, but its only current term says the designated areas were extended for three years from 1 May 2023 (to about April 2026) and a later extension was not checked.",
+   "ids": [
+    "kor-real-estate-immigration",
+    "t-e50a3d8d06",
+    "e-9b27ce5ff9"
+   ],
+   "suggestion": "Verify whether the areas were re-designated in 2026; until then add a note that status after April 2026 is unconfirmed."
+  },
+  {
+   "what": "Programmes with empty status: mus-family-op (its only term ends 2026-08-13 because the criteria were dropped from the EDB schedule), mus-investor-naturalisation (in-force status unknown) and mys-pvip (no official page found).",
+   "ids": [
+    "mus-family-op",
+    "mus-investor-naturalisation",
+    "mys-pvip",
+    "t-c3b7836d4f"
+   ],
+   "suggestion": "Fill status with a value the dataset uses for unconfirmed cases, or 'active'/'closed' once checked; mus-family-op leans towards closed or suspended from 13 Aug 2026."
+  },
+  {
+   "what": "grd-cbi: older price rows have no end date and so look current next to the 2024 rows: t-d2fbafe7c0 (NTF US$200,000 from 2014-08), t-5c56bfa09b (real estate US$250,000 from 2014-08), t-9975964d3b (real estate US$350,000 from 2015-07). t-9682e1c20a and t-81658909f7 are two rows for the same US$270,000 share threshold.",
+   "ids": [
+    "t-d2fbafe7c0",
+    "t-5c56bfa09b",
+    "t-9975964d3b",
+    "t-3c00a0005e",
+    "t-9682e1c20a",
+    "t-81658909f7"
+   ],
+   "suggestion": "Give the 2014/2015 rows an end date once the date of the change is found (at the latest 2024-06-30); keep one of the two share rows or mark the SRO 12 one superseded by the SRO 15 correction."
+  },
+  {
+   "what": "kna-cbi: seven more rows besides the two SGF rows proposed as fixes have neither valid_from nor valid_to, so they look current: SIDF US$250,000/300,000 (t-15127d4ead, t-5ff3596510, t-bb772bae96), real estate US$400,000 (t-b0f22cc0f9, t-6ae7dff680, t-888ac2109f) and real-estate share US$200,000 (t-70f932f1cf). Current real estate minimum is US$325,000 (t-fb847390c5).",
+   "ids": [
+    "t-15127d4ead",
+    "t-5ff3596510",
+    "t-bb772bae96",
+    "t-b0f22cc0f9",
+    "t-6ae7dff680",
+    "t-888ac2109f",
+    "t-70f932f1cf"
+   ],
+   "suggestion": "Set valid_from to the snapshot dates (2013 report, 20 May 2014 FinCEN, 2021) and valid_to where the replacing rule is documented (e.g. real estate rows end by 2022-12-31 if t-34b419ac49's US$200,000 from 1 Jan 2023 replaced them)."
+  },
+  {
+   "what": "jor-cbi: combined routes record only one component in min_amount: t-1c6c6489a3 and t-36e63849a8 (USD 1m deposit plus USD 1m bonds, USD 2m total) and t-153ed85a24 (USD 1m shares plus USD 750,000 in SMEs). Also launched 2018 is only reported; no 2018 decision or launch event.",
+   "ids": [
+    "t-1c6c6489a3",
+    "t-36e63849a8",
+    "t-153ed85a24",
+    "jor-cbi"
+   ],
+   "suggestion": "Either record the total in min_amount with the split in notes, or say plainly in applies_to that the amount is one of two required parts. Keep launched 2018 flagged as reported."
+  },
+  {
+   "what": "khm-cbi: event e-8c8b0db861 (thresholds raised to 4bn/12bn riel) quotes only the repeal clause naming Sub-decree 112 of 2018, which does not show the new amounts.",
+   "ids": [
+    "e-8c8b0db861",
+    "t-5f058e913c",
+    "t-a5a25d1684"
+   ],
+   "suggestion": "Use the price wording already quoted in t-5f058e913c / t-a5a25d1684 as the event quote."
+  },
+  {
+   "what": "lca-cbi: event e-c24c6a2af8 (signing the regional memorandum, 3 Jun 2024) is categorised price_change, but prices changed on 1 Jul 2024 (e-81e6e3b418).",
+   "ids": [
+    "e-c24c6a2af8",
+    "e-81e6e3b418"
+   ],
+   "suggestion": "Recategorise as rule_change."
+  },
+  {
+   "what": "mlt-mec: ended is 2025-07-24 (Act XXI of 2025) while the programme note says new applications reportedly stopped on 29 Apr 2025 (CJEU judgment), unverified.",
+   "ids": [
+    "mlt-mec",
+    "e-01d186469d",
+    "e-3f6d38cc83"
+   ],
+   "suggestion": "Keep 2025-07-24 unless a primary source for the April stop is found; the note already explains."
+  },
+  {
+   "what": "Programmes with launched empty although a date is known from notes: hrv-business-residence (Commission: since 2011), ltu-investor-residence (Commission: 2004), mus-property-residence (2015 rule at the latest).",
+   "ids": [
+    "hrv-business-residence",
+    "ltu-investor-residence",
+    "mus-property-residence"
+   ],
+   "suggestion": "Leave empty unless a legal act is found; dates from the Commission report are second-hand."
+  },
+  {
+   "what": "Tonga programme is 'closed' but has no end date; press says sales ran 1983-1991, while the US State Department said Tonga still sold economic citizenship in 2000.",
+   "ids": [
+    "programs:ton-passport-sales",
+    "e-1aefd44b03",
+    "e-a7d4627168"
+   ],
+   "suggestion": "Keep ended empty but say in notes that the end is unknown (between 1991 and after 2000), or set ended to the latest year with evidence of sales once a source confirms it."
+  },
+  {
+   "what": "pan-macro-investor has an empty status.",
+   "ids": [
+    "programs:pan-macro-investor"
+   ],
+   "suggestion": "Set status to a value the model allows for 'not verified' (or 'active' with a note that the 2008 rule was not seen repealed); notes say approvals continued to 2021 and the category vanished from SNM tables after."
+  },
+  {
+   "what": "sgp-gip launched 2004 (MTI), but an event and a 2005 statement refer to GIP rules changed in 1996.",
+   "ids": [
+    "programs:sgp-gip",
+    "e-ed78ef47a8",
+    "e-cabc8a9223"
+   ],
+   "suggestion": "Either move launched to before 1996 (date unknown) or keep 2004 and flag in notes that the scheme existed earlier; the 1996 event contradicts a 2004 start."
+  },
+  {
+   "what": "vut-vcp launched 2017-03, but its launch event is the 2016 regulations (Order No. 220 of 2016).",
+   "ids": [
+    "programs:vut-vcp",
+    "e-53de91ae50"
+   ],
+   "suggestion": "Recategorise e-53de91ae50 as rule_change (regulations made) or set launched to 2016; the 2017-03 date comes from a Treasury statement that VDSP and VCP replaced VERP by then."
+  },
+  {
+   "what": "pan-friendly-nations launched 2012-05-16 (DE 343, not seen) but its launch event and first term start 2012-06-18 (DE 416).",
+   "ids": [
+    "programs:pan-friendly-nations",
+    "e-a6686c1dba",
+    "t-0e69be01b0"
+   ],
+   "suggestion": "Acceptable as explained in notes; optionally add an event for DE 343 or align launched to the documented decree."
+  },
+  {
+   "what": "tha-privilege launched 2003 is 'from general knowledge ... not checked against a document'; no event or source supports it.",
+   "ids": [
+    "programs:tha-privilege"
+   ],
+   "suggestion": "Leave launched empty until a source is found, or find one; it breaks the 'every claim traceable' rule."
+  },
+  {
+   "what": "usa-eb5 event e-2eb406bc82 is categorised 'closure' but concerns only the Regional Center Program lapse (30 June 2021); EB-5 itself stayed open (standalone route), and the programme is active.",
+   "ids": [
+    "e-2eb406bc82",
+    "programs:usa-eb5"
+   ],
+   "suggestion": "Change category to rule_change (or note 'regional center program only') so automated status checks do not read it as the programme closing."
+  },
+  {
+   "what": "vut-ciip: USD 260,000 is called a returnable investment by the IMF (t-290f68296b) but a 'Citizenship Fee' by the Citizenship Office (t-3f0f95efd4), with a separate USD 50,000 investment component mentioned in 2024 (t-137dcfd780).",
+   "ids": [
+    "t-290f68296b",
+    "t-3f0f95efd4",
+    "t-585de70725",
+    "t-137dcfd780"
+   ],
+   "suggestion": "Keep both rows; note in the programme notes that the nature of the USD 260,000 changed or is described inconsistently."
+  },
+  {
+   "what": "Non-currency units in the currency column: 'jobs' (prt-golden-visa, tur-cbi employment rows) and 'UI' (Unidad Indexada; ISO 4217 code is UYI).",
+   "ids": [
+    "t-b9e3e97f7e",
+    "t-83fe24dc86",
+    "t-769e1daa4b",
+    "t-9e28ffea15",
+    "t-283cc40766",
+    "t-49bd1e8bf5",
+    "t-8c40b8d159",
+    "t-2b7ae0d109"
+   ],
+   "suggestion": "Decide one convention for job-count routes and indexed units (e.g. currency empty with the job count in min_amount and 'jobs' explained in applies_to); optional switch UI to UYI."
+  }
+ ]
+}

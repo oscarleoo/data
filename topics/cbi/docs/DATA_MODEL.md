@@ -74,6 +74,25 @@ any number, where it came from, how reliable it is, and what other sources say.
 | `reported` | a secondary report of someone else's figure | a newspaper citing the ministry |
 | `claim` | an unverified statement | a politician's or industry figure |
 
+Rules applied across the dataset:
+
+- An official international body's table that repeats a government's past
+  outturns (an IMF table column not marked estimate, projection or
+  preliminary) is `actual`; the notes say it is relayed.
+- A rounded or spoken official figure ("about 450", "more than 35,400") takes
+  the status of the figure it rounds; the notes say it is rounded. `claim` is
+  for statements nobody can check.
+- A plan or forecast passed on by the press is `budget` or `projection`, never
+  `reported`, so it can't be mistaken for an outturn.
+- On an application indicator, unit `persons` means people included in the
+  applications (main applicants and family); unit `applications` counts
+  applications.
+- Masked small counts are recorded as a range: Australian "<5" cells (which
+  print true zeros as 0) are `value` 1, `value_high` 4; "fewer than N" wording
+  elsewhere is 0 to N.
+- A bare "$" is never read as US dollars: the unit or currency is
+  `unspecified` unless the document says which dollar.
+
 ### `indicators.csv`: what numbers mean
 
 `indicator`, `name`, `definition`, `unit_kind`, `notes`. Definitions matter
@@ -84,6 +103,11 @@ only what reaches the government, or only fees. Each is its own indicator.
 
 `program_id`, `jurisdiction`, `name`, `kind` (`citizenship`, `residency`),
 `launched`, `ended`, `status`, `notes`, `source_ids`.
+
+`ended` is the last day new applications were accepted. `status` is `active`,
+`closed`, `not_operational` (a legal basis but no operating programme or price)
+or empty when the current state could not be confirmed. `launched` is filled
+only from a document.
 
 ### `program_terms.csv`: what it costs, and when
 
@@ -98,6 +122,22 @@ One row per route and period of validity: `program_id`, `route`
 `program_id`, `category` (`launch`, `price_change`, `rule_change`,
 `visa_access`, `legal`, `scandal`, `closure`, `context`), `title`,
 `description`, `source_id`, `location`, `quote`.
+
+## Corrections
+
+Reviewed fixes to merged rows live in `data/corrections.csv` (`table`, `id`,
+`field`, `value`, `reason`, `by`; field `_delete` removes a row).
+`scripts/merge.py` applies them after merging the inbox, so re-merging never
+undoes a fix, and every change to a row keeps its reason.
+
+## Headline prices
+
+`data/headline_prices.csv` gives, per programme, the minimum a single
+applicant must invest or donate on the main route today (or on the day a
+closed programme stopped taking applications), excluding fees, with the
+`term_id`s it rests on and a note on the choice. It was set by hand from the
+rules, because an automatic minimum mixes up family prices, add-on fees and
+discounted niche routes. Empty amounts say why in the note.
 
 ## Disagreements
 

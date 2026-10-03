@@ -13,6 +13,7 @@ import glob
 import hashlib
 import json
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -131,6 +132,28 @@ def main():
 
         print(f"{slug}: {len(doc.get('sources', []))} sources, {len(doc.get('observations', []))} observations, "
               f"{len(doc.get('program_terms', []))} terms, {len(doc.get('events', []))} events")
+
+    # Numbers are stored plain: "1,583" -> "1583" (only thousands separators occur).
+    for name, cols in (("observations.csv", ["value", "value_high"]), ("program_terms.csv", ["min_amount"])):
+        for r in tables[name].values():
+            for c in cols:
+                v = str(r.get(c) or "")
+                if re.fullmatch(r"-?\d{1,3}(,\d{3})+(\.\d+)?", v):
+                    r[c] = v.replace(",", "")
+
+    # Reviewed corrections (data/corrections.csv) are applied last, so re-merging
+    # the inbox never undoes them. Field "_delete" removes the row.
+    for c in read("corrections.csv"):
+        name = c["table"] + ".csv"
+        row = tables[name].get(c["id"])
+        if row is None:
+            sys.exit(f"corrections.csv: no {c['table']} row {c['id']}")
+        if c["field"] == "_delete":
+            del tables[name][c["id"]]
+            continue
+        if c["field"] not in COLUMNS[name] or c["field"] == keys[name]:
+            sys.exit(f"corrections.csv: can't set {c['field']} on {c['table']}")
+        row[c["field"]] = c["value"]
 
     write("sources.csv", tables["sources.csv"].values(), ["jurisdiction", "source_id"])
     write("observations.csv", tables["observations.csv"].values(),

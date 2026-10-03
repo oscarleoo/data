@@ -4905,3 +4905,421 @@ o-5a4fa2cd9c,"39,295",,1,text,"PDF p. 2, answer para 2","2011 sehingga September
 o-155a3c7278,18.3,,billion,text,"PDF p. 2, answer para 3",anggaran RM18.3 bilion,high,"MYR; Malay ""bilion"" = billion (10^9); estimate of total contribution incl. visa fees, fixed deposits, residential property",claude-sonnet-5,2026-09-28,1,no
 o-d11e91fab0,12 000,,1,text,para 2,clearing the over 12 000 CIES applications under processing,medium,"""over 12 000"" (lower bound, not exact)",claude-sonnet-5,2026-09-28,1,no
 o-8a04e63b1a,20,,1,2020,Appendix 5 table,"Entry Visas / Entry Permits under 'Capital Investment Entrant Scheme' 1,567 312 20",high,,claude-sonnet-5,2026-09-28,1,no
+o-deb8874dfd,3 719,,1,Antigua and Barbuda,PDF p. 45,Total applications received Antigua and Barbuda 3 719 (2014-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-2bb8fd1eea,685,,1,Antigua and Barbuda,PDF p. 45,685 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-5b1e5256a3,739,,1,Antigua and Barbuda,PDF p. 45,739 (2024 until 30/6),high,,claude-sonnet-5,2026-10-03,1,no
+o-6e19fa7d52,157,,1,Antigua and Barbuda,PDF p. 45,157 (2014-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-7172cf6af3,24,,1,Antigua and Barbuda,PDF p. 45,24 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-c3cb7be547,23,,1,Antigua and Barbuda,PDF p. 45,23 (2024),high,,claude-sonnet-5,2026-10-03,1,no
+o-2c94ef129e,7 205,,1,Antigua and Barbuda,PDF p. 45,7 205 (2014-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-cb393bef2d,1 191,,1,Antigua and Barbuda,PDF p. 45,1 191 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-91c0d6beff,198,,1,Antigua and Barbuda,PDF p. 45,198 (2024 until 30/6),high,,claude-sonnet-5,2026-10-03,1,no
+o-81de04e162,13 161,,1,Dominica,PDF p. 45,13 161 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-49012ca811,4 068,,1,Dominica,PDF p. 45,4 068 in 2023,high,,claude-sonnet-5,2026-10-03,1,no
+o-5005a0ca08,2 981,,1,Dominica,PDF p. 45,2 981 in 2024 (until 30/6),high,,claude-sonnet-5,2026-10-03,1,no
+o-dce19ce46c,420,,1,Dominica,PDF p. 45,420 (2019-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-9348108c33,210,,1,Dominica,PDF p. 45,210 (2023),medium,"Dominica rejections column prints both ""210 (2023)"" and, a line below, ""180 (2023)"" (second likely a mislabelled 2024). Took 210 as the 2023 figure.",claude-sonnet-5,2026-10-03,1,no
+o-0685895e65,34 596,,1,Dominica,PDF p. 45,"34 596 (2018-2022, 2022 data being verified)",high,,claude-sonnet-5,2026-10-03,1,no
+o-ec3fb9c5d3,9 539,,1,Dominica,PDF p. 45,9 539 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-9949c30b68,5 484,,1,Dominica,PDF p. 45,5 484 (2024 until 30/6),high,,claude-sonnet-5,2026-10-03,1,no
+o-25159683f5,around 2 300,,1,text,PDF p. 46,in 2023 Grenada still had a considerable number (around 2 300) of pending applications from Russian nationals,medium,"Approximate figure (""around""), text not table; Russian nationals only",claude-sonnet-5,2026-10-03,1,no
+o-f43bcc1830,3 151,,1,Grenada,PDF p. 45,3 151 (2014-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-82cb09dcb8,1 251,,1,Grenada,PDF p. 45,1 251 (2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-7212adaec5,2 297,,1,Grenada,PDF p. 45,2 297 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-a4ad97e6fa,138,,1,Grenada,PDF p. 45,138 (2024 until 31/07),high,,claude-sonnet-5,2026-10-03,1,no
+o-db48c7bf09,204,,1,Grenada,PDF p. 45,204 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-a22cbae085,59,,1,Grenada,PDF p. 45,59 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-9f67244a26,34,,1,Grenada,PDF p. 45,34 (2024),high,,claude-sonnet-5,2026-10-03,1,no
+o-8e13917b0f,6 479,,1,Grenada,PDF p. 45,6 479 (2014-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-6cc17bbf9d,1 918,,1,text,PDF p. 45,Iran (1 918),high,,claude-sonnet-5,2026-10-03,1,no
+o-2f3467e327,1 099,,1,text,PDF p. 45,China (1 099),high,,claude-sonnet-5,2026-10-03,1,no
+o-3b258a8195,747,,1,text,PDF p. 45,Syria (747),high,,claude-sonnet-5,2026-10-03,1,no
+o-08557a42b2,425,,1,text,PDF p. 45,Iraq (425),high,,claude-sonnet-5,2026-10-03,1,no
+o-c1a36b13e8,308,,1,text,PDF p. 45,Nigeria (308),high,,claude-sonnet-5,2026-10-03,1,no
+o-75c073b1f2,149,,1,text,PDF p. 45,Lebanon (149),high,,claude-sonnet-5,2026-10-03,1,no
+o-2f45a2e192,17 668,,1,Saint Kitts and Nevis,PDF p. 45,17 668 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-3c3b97067c,1 987,,1,Saint Kitts and Nevis,PDF p. 45,1 987 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-728864c128,98,,1,Saint Kitts and Nevis,PDF p. 45,98 (2024 until 30/6),high,,claude-sonnet-5,2026-10-03,1,no
+o-0e962b4870,532,,1,Saint Kitts and Nevis,PDF p. 45,532 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-378782abdb,207,,1,Saint Kitts and Nevis,PDF p. 45,207 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-4b8d1e8f13,4,,1,Saint Kitts and Nevis,PDF p. 45,4 (2024),high,,claude-sonnet-5,2026-10-03,1,no
+o-03d97c31a8,35 577,,1,Saint Kitts and Nevis,PDF p. 45,35 577 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-55be41f2fc,2 013,,1,Saint Lucia,PDF p. 45,2 013 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-24d0d28d6c,4 076,,1,Saint Lucia,PDF p. 45,4 076 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-3bba941298,1 226,,1,Saint Lucia,PDF p. 45,1 226 (2024 until 30/4),high,,claude-sonnet-5,2026-10-03,1,no
+o-905fd46f9d,70,,1,Saint Lucia,PDF p. 45,70 (2015-2022),high,,claude-sonnet-5,2026-10-03,1,no
+o-6aedfe59c9,28,,1,Saint Lucia,PDF p. 45,28 (2023),high,,claude-sonnet-5,2026-10-03,1,no
+o-3c26e71d73,81,,1,Saint Lucia,PDF p. 45,81 (2024),high,,claude-sonnet-5,2026-10-03,1,no
+o-09acba0aa0,"16,804,926",,1,Actual 2020/21,PDF p. 42,"004 Surplus Revenue From CIP 16,804,926",high,,claude-sonnet-5,2026-10-03,1,no
+o-e5af3ceafd,"5,752,767",,1,Actual 2020/21,PDF p. 42,"005 Contribution from National Economic Fund 5,752,767",high,,claude-sonnet-5,2026-10-03,1,no
+o-d0cbcf01f2,"5,373,732",,1,Revised Estimates 2021/22,PDF p. 42,"004 Surplus Revenue From CIP ... 5,373,732",high,,claude-sonnet-5,2026-10-03,1,no
+o-a2b8216135,"35,000,000",,1,Approved Estimates 2021/22,PDF p. 42,"005 Contribution from National Economic Fund 35,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-39ece03d41,"35,500,000",,1,Revised Estimates 2021/22,PDF p. 42,"005 Contribution from National Economic Fund 35,500,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-a19248c1d6,"65,000,000",,1,Budget Estimates 2022/23,PDF p. 42,"005 Contribution from National Economic Fund 65,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-2a1e0c4351,"17,011,602",,1,Actual 2011/12,PDF p. 3,"D31 F100 F11 16501 Economic Citizenship Programme 61,600,000 50,000,000 50,000,000 26,000,000 50,000,000 17,011,602",high,,claude-sonnet-5,2026-10-03,1,no
+o-185c5c1fb0,"26,000,000",,1,Estimate 2012/13,PDF p. 3,"D31 F100 F11 16501 Economic Citizenship Programme 61,600,000 50,000,000 50,000,000 26,000,000 50,000,000 17,011,602",high,Fourth numeric column headed Estimate 2012/13,claude-sonnet-5,2026-10-03,1,no
+o-694c90eecd,"50,000,000",,1,Projected 2012/13,PDF p. 3,"D31 F100 F11 16501 Economic Citizenship Programme 61,600,000 50,000,000 50,000,000 26,000,000 50,000,000 17,011,602",high,Fifth numeric column headed Projected 2012/13,claude-sonnet-5,2026-10-03,1,no
+o-e6c6ca40c0,"61,600,000",,1,Estimate 2013/14,PDF p. 3,"D31 F100 F11 16501 Economic Citizenship Programme 61,600,000 50,000,000 50,000,000 26,000,000 50,000,000 17,011,602",high,,claude-sonnet-5,2026-10-03,1,no
+o-6456925b76,"458,646,969",,1,Actual 2021/2022,PDF p. 36,"Citizenship by Investment Programme 458,646,969 492,154,103 622,170,022 617,400,000 611,900,000 568,900,000",medium,"Page 33 summary has no CBI line; figure is the total Citizenship by Investment Programme line on PDF p. 36 (item 16501 alone is a smaller component: 20,045,522 / 134,096,684 / 133,068,598).",claude-sonnet-5,2026-10-03,1,no
+o-04f4e8a012,"622,170,022",,1,Projected 2022/2023,PDF p. 36,"Citizenship by Investment Programme 458,646,969 492,154,103 622,170,022 617,400,000 611,900,000 568,900,000",medium,"Page 33 summary has no CBI line; figure is the total Citizenship by Investment Programme line on PDF p. 36 (item 16501 alone is a smaller component: 20,045,522 / 134,096,684 / 133,068,598).",claude-sonnet-5,2026-10-03,1,no
+o-bcf88d6c35,"617,400,000",,1,Estimate 2023/2024,PDF p. 36,"Citizenship by Investment Programme 458,646,969 492,154,103 622,170,022 617,400,000 611,900,000 568,900,000",medium,"Page 33 summary has no CBI line; figure is the total Citizenship by Investment Programme line on PDF p. 36 (item 16501 alone is a smaller component: 20,045,522 / 134,096,684 / 133,068,598).",claude-sonnet-5,2026-10-03,1,no
+o-0a6256f434,"88,812,489",,1,2011 Actuals,PDF p. 15,"Citizenship by Investment 70,000,000 141,002,887 88,812,489",high,Read from rendered page image,claude-sonnet-5,2026-10-03,1,no
+o-eb488fb0b8,"141,002,887",,1,2012 Projections,PDF p. 15,"Citizenship by Investment 70,000,000 141,002,887 88,812,489",high,Read from rendered page image,claude-sonnet-5,2026-10-03,1,no
+o-bd148f7179,"70,000,000",,1,2013 Estimates,PDF p. 15,"Citizenship by Investment 70,000,000 141,002,887 88,812,489",high,Read from rendered page image,claude-sonnet-5,2026-10-03,1,no
+o-43a29a2d08,"27,828,246",,1,2017-2018 Actual,PDF p. 41,"040 Citizenship by Investment fee 27,828,246 29,032,560 66,373,417 65,549,069 64,516,800 61,936,128",high,,claude-sonnet-5,2026-10-03,1,no
+o-8239c8a1dd,"66,373,417",,1,2018-2019 Revised,PDF p. 41,"040 Citizenship by Investment fee 27,828,246 29,032,560 66,373,417 65,549,069 64,516,800 61,936,128",high,"Columns: 2018-2019 Approved 29,032,560; 2018-2019 Revised 66,373,417",claude-sonnet-5,2026-10-03,1,no
+o-1b40f4be54,"65,549,069",,1,2019-2020 Draft,PDF p. 41,"040 Citizenship by Investment fee 27,828,246 29,032,560 66,373,417 65,549,069 64,516,800 61,936,128",high,,claude-sonnet-5,2026-10-03,1,no
+o-9bee3351f9,"267,520,714",,1,Actual 2015/16,PDF p. 5,"Economic Citizenship Programme 267,520,714 201,806,400 506,931,907 399,996,296 417,196,137 435,135,571",high,,claude-sonnet-5,2026-10-03,1,no
+o-8943dccda0,"506,931,907",,1,Projected 2016/17,PDF p. 5,"Economic Citizenship Programme 267,520,714 201,806,400 506,931,907 399,996,296 417,196,137 435,135,571",high,"Estimate 2016/17 is 201,806,400; Projected 2016/17 is 506,931,907",claude-sonnet-5,2026-10-03,1,no
+o-67d4ae78e7,"399,996,296",,1,Estimate 2017/18,PDF p. 5,"Economic Citizenship Programme 267,520,714 201,806,400 506,931,907 399,996,296 417,196,137 435,135,571",high,,claude-sonnet-5,2026-10-03,1,no
+o-d892b141c4,531,,1,2013-2014 column span,PDF p. 26,ES 531 (figures cover only 30 Sep 2013 to 31 Dec 2014),high,Printed page numbers are one lower than PDF pages; found on PDF p. 26,claude-sonnet-5,2026-10-03,1,no
+o-e16c60e0b5,773,,1,2012,PDF p. 28,UK 773 960 1773 681 813 274,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-133a62def2,960,,1,2013,PDF p. 28,960,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-edca5c5147,1773,,1,2014,PDF p. 28,1773,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-21c3bc8d73,681,,1,2015,PDF p. 28,681,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-f7b01deb17,813,,1,2016,PDF p. 28,813,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-fb667011ed,274,,1,2017,PDF p. 28,274,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-d78b5fac74,8413,,1,spans 2013-2017 (single merged cell),PDF p. 27,"HU 8413 in merged cell, first column 'Not available'",high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-4e0be201b3,67,,1,2015,PDF p. 27,IE 67 317 334,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-7f4716709a,317,,1,2016,PDF p. 27,317,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-31ad99893d,334,,1,2017,PDF p. 27,334,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-8a9b6f0ef1,2890,,1,2012,PDF p. 27,LV 2890 4438 5822 1101 692 161,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-62ee54552d,4438,,1,2013,PDF p. 27,4438,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-6cbc5d3afb,5822,,1,2014,PDF p. 27,5822,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-4ec01d56a4,1101,,1,2015,PDF p. 27,1101,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-856c8afa68,692,,1,2016,PDF p. 27,692,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-c25eea1fe9,161,,1,2017,PDF p. 27,161,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-4f79b4a74e,770,,1,2016,PDF p. 27,PL ... 770 1600,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-7f0467d583,1600,,1,2017,PDF p. 27,1600,high,Printed page numbers are one lower than PDF pages; found on PDF p. 27,claude-sonnet-5,2026-10-03,1,no
+o-7398622735,2,,1,2012,PDF p. 28,PT 2 494 1526 766 1414 1351,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-2857ef1b7b,494,,1,2013,PDF p. 28,494,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-5365969179,1526,,1,2014,PDF p. 28,1526,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-f1cca18143,766,,1,2015,PDF p. 28,766,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-e24a3e9997,1414,,1,2016,PDF p. 28,1414,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-6e6dc0d135,1351,,1,2017,PDF p. 28,1351,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-e19f2f468c,22,,1,2012,PDF p. 28,SK 22 21 27 17 38 73; footnote: permanent residence only,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-1b25791412,21,,1,2013,PDF p. 28,21,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-3ef3163892,27,,1,2014,PDF p. 28,27,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-ffc3e11098,17,,1,2015,PDF p. 28,17,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-4f90d7e17c,38,,1,2016,PDF p. 28,38,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-d1da7df86e,73,,1,2017,PDF p. 28,73,high,Printed page numbers are one lower than PDF pages; found on PDF p. 28,claude-sonnet-5,2026-10-03,1,no
+o-3e6c22d690,72%,,1,Latvian text slide,PDF p. 16,2012.gadā Krievijas Federācijas pilsoņu īpatsvars starp TUA pieteicējiem bija 72%,high,,claude-sonnet-5,2026-10-03,1,no
+o-c3e08936b7,"68,9%",,1,Latvian text slide,PDF p. 16,"2013.gadā –68,9%",high,,claude-sonnet-5,2026-10-03,1,no
+o-cb824aff73,67%,,1,Latvian text slide,PDF p. 16,2014.gadā – 67%,high,,claude-sonnet-5,2026-10-03,1,no
+o-18393b218e,56%,,1,Latvian text slide,PDF p. 16,2015.gadā – 56%,high,,claude-sonnet-5,2026-10-03,1,no
+o-c963e9347e,58%,,1,Latvian text slide,PDF p. 16,2016.gada 1.pusgadā -58%,high,,claude-sonnet-5,2026-10-03,1,no
+o-b37b72e496,17 218,,1,Latvian text slide,PDF p. 12,"saņēmusi 17 218 personu, tajā skaitā 7 183 investoru un 10 035 viņu ģimenes locekļu, iesniegumus",high,Total persons incl. family,claude-sonnet-5,2026-10-03,1,no
+o-14fb7c574b,7 183,,1,Latvian text slide,PDF p. 12,7 183 investoru,high,,claude-sonnet-5,2026-10-03,1,no
+o-48279e1d23,10 035,,1,Latvian text slide,PDF p. 12,10 035 viņu ģimenes locekļu,high,,claude-sonnet-5,2026-10-03,1,no
+o-1c47b336e6,2532,,1,Latvian text slide,PDF p. 14,2014. gadā tādu bija 2532 (bez ģimenes locekļiem),high,Number of TUA requesters excl. family,claude-sonnet-5,2026-10-03,1,no
+o-019163acde,398,,1,Latvian text slide,PDF p. 14,2015. gadā tikai - 398,high,Number of TUA requesters excl. family,claude-sonnet-5,2026-10-03,1,no
+o-24d6adae10,323,,1,Latvian text slide,PDF p. 12,323 gadījumos TUA izsniegšana atteikta,high,,claude-sonnet-5,2026-10-03,1,no
+o-ddf982b1ea,25,,1,Latvian text slide,PDF p. 17,2016. gadā pirmreizējās TUA atteiktas 25 personām,high,First-time permits refused to 25 persons; repeat (atkārtotās) refused a further 11,claude-sonnet-5,2026-10-03,1,no
+o-12e0bd69a9,2 620,,1,Latvian text slide,PDF p. 12,anulētas 2 620 TUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-ed80bfcb64,16 737,,1,Latvian text slide,PDF p. 12,izsniegtas 16 737 TUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-e4409dbde7,25,,1,Latvian text slide,PDF p. 15,DP pieņēma lēmumu anulēt TUA 25 personām,medium,Security police decided to annul permits of 25 persons in 2015 (after re-checks); same slide says DP proposed refusing 38 foreigners,claude-sonnet-5,2026-10-03,1,no
+o-8abd3248dd,13 783,,1,Latvian text slide,PDF p. 12,Uz 2016.gada 1.jūliju derīgas TUA bija 13 783 personām,high,,claude-sonnet-5,2026-10-03,1,no
+o-6115ee36bf,11,,1,Latvian text slide,PDF p. 17,atkārtotās atteiktas vēl 11 personām,medium,11 repeat-permit refusals; separately 3 refusals on re-registration of 5-year holders. Picked 11.,claude-sonnet-5,2026-10-03,1,no
+o-066e498932,"27,997",,1,,"HTML chapter text, CIES section","27,997 entrant applications were approved, including 25,504 for Formal Approval and 2,493 for Approval-in-Principle",high,,claude-sonnet-5,2026-10-03,1,no
+o-7f75126b92,"41,802",,1,,"HTML chapter text, CIES section","41,802 entrant applications, together with 73,321 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-408ee8a6c0,"73,321",,1,,"HTML chapter text, CIES section","73,321 related dependant applications",high,,claude-sonnet-5,2026-10-03,1,no
+o-bc1fe62b48,"2,493",,1,,"HTML chapter text, CIES section","2,493 for Approval-in-Principle",medium,"AIP count within the approved total, as at 31 Dec 2014",claude-sonnet-5,2026-10-03,1,no
+o-589174fd5e,"25,504",,1,,"HTML chapter text, CIES section","25,504 for Formal Approval",medium,"Document gives 27,997 approved entrant applications = 25,504 formal + 2,493 AIP; picked formal approvals as admitted main applicants",claude-sonnet-5,2026-10-03,1,no
+o-8359e2cf92,216.1,,billion,,"HTML chapter text, CIES section",The amount of investments made under the Scheme totalled $216.1 billion,high,HK$ (printed '$'),claude-sonnet-5,2026-10-03,1,no
+o-6d7dcebb50,about 40,,1,,"HTML chapter text, CIES section",approval-in-principle had also been granted to about 40 applicants,medium,Approximate figure ('about 40'),claude-sonnet-5,2026-10-03,1,no
+o-c109104351,"about 35,000",,1,,"HTML chapter text, CIES section","formal approval had been given for about 35,000 applicants",medium,Approximate figure,claude-sonnet-5,2026-10-03,1,no
+o-8994403d43,316.6,,billion,,"HTML chapter text, CIES section",a total investment amounting to $316.6 billion,high,HK$ (printed '$'),claude-sonnet-5,2026-10-03,1,no
+o-9f923d2eba,"491,155,897",,1,Actual 2016/17,PDF p. 32 (printed p. 25),"Citizenship by Investment Programme 491,155,897",high,,claude-sonnet-5,2026-10-03,1,no
+o-a0e2c3c0ba,"315,404,263",,1,Projected 2017/18,PDF p. 32 (printed p. 25),"Citizenship by Investment Programme 315,404,263",high,,claude-sonnet-5,2026-10-03,1,no
+o-5cea8b261f,"406,640,526",,1,Estimate 2018/19,PDF p. 32 (printed p. 25),"Citizenship by Investment Programme 406,640,526",high,,claude-sonnet-5,2026-10-03,1,no
+o-464a1aabee,"3,100,000",,1,Actual Provisional 2016,PDF p. 50 (printed Page 10),"18001 CBI Fees 3,100,000",high,"Item 18001 CBI Fees; separate line 'CBI Committee' 3,454,466 under dividends not used",claude-sonnet-5,2026-10-03,1,no
+o-7f0ae37e70,"8,437,500",,1,Approved Estimates 2016,PDF p. 50 (printed Page 10),"18001 CBI Fees 8,437,500",high,"Item 18001 CBI Fees; separate line 'CBI Committee' 3,454,466 under dividends not used",claude-sonnet-5,2026-10-03,1,no
+o-0aeac1bd84,"2,835,000",,1,Estimates 2017,PDF p. 50 (printed Page 10),"18001 CBI Fees 2,835,000",high,"Item 18001 CBI Fees; separate line 'CBI Committee' 3,454,466 under dividends not used",claude-sonnet-5,2026-10-03,1,no
+o-6201842f8d,"28,107,819",,1,2019-2020 Actual,PDF p. 40,"040 Citizenship by Investment fee 28,107,819",high,"Dept of Finance, Accountant General, code 3143",claude-sonnet-5,2026-10-03,1,no
+o-dbed2ebfaa,"3,000,000",,1,2019-2020 Actual,PDF p. 40,"004 Surplus Revenue from CIP Unit 3,000,000",high,code 3441 Voluntary Transfers - Current,claude-sonnet-5,2026-10-03,1,no
+o-c066a6586c,"7,758,308",,1,2020-2021 Revised Estimates,PDF p. 40,"004 Surplus Revenue from CIP Unit 3,000,000 0 7,758,308",high,third numeric column,claude-sonnet-5,2026-10-03,1,no
+o-94c480e1f9,"3,740,599",,1,2025-26 YTD Actual,PDF p. 45,"1016 - Citizenship Investment Program - 9,000,000 9,000,000 3,740,599 9,000,000",high,Text on p. 9 says $3.4 million; table differs,claude-sonnet-5,2026-10-03,1,no
+o-4e24fbed9f,3.4,,million,text,PDF p. 9,"Against a budget estimate of $9 million, actual receipts totalled $3.4 million for FY 2025-26",high,"Text, not a table; differs from table 1.17 YTD 3,740,599",claude-sonnet-5,2026-10-03,1,no
+o-0ebf14f582,"9,000,000",,1,2026-27 Approved Budget,PDF p. 45,"1016 - Citizenship Investment Program - 9,000,000 9,000,000 3,740,599 9,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-450bd80f97,"1 297,65",,million,Összeg millió EUR-ban,PDF p. 56,"Összesen 428 899,28 1 297,65",high,"Total of Letelepedési kötvény table; HUF column 428 899,28 million Ft",claude-sonnet-5,2026-10-03,1,no
+o-77be35cfb6,"445,5",,million,"text, Devizalejáratok",PDF p. 22,"a Letelepedési Kötvény második sorozatának 445,5 millió eurós lejárata valósult meg 2019-ben",high,"Maturity of the second series of the Residency Bond, EUR million",claude-sonnet-5,2026-10-03,1,no
+o-848e9b05d1,"625,338,931",,1,Actual 2022/2023 (third column),PDF p. 65 (printed p. 26),"Economic Citizenship Programme 458,646,969 492,154,103 625,338,931",high,Line is headed 'Economic Citizenship Programme' in this edition,claude-sonnet-5,2026-10-03,1,no
+o-93e6489d62,"1,378",,1,"notes, Marketers' fee",PDF p. 62,"able to enrol a total of 1,378 principal retiree-applicants in CY 2023",high,"Principal retiree-applicants enrolled by accredited marketers in CY 2023 (1,900 in 2022)",claude-sonnet-5,2026-10-03,1,no
+o-1fa199a015,192,,1,Familiares reagrupados,PDF p. 1,192 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-087953b3e5,179,,1,Autorizações de residência concedidas,PDF p. 1,179 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-39fef4324b,47,,1,EUA,PDF p. 1,47 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-c014da8b48,26,,1,Reino Unido,PDF p. 1,26 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-db90f29d06,17,,1,China,PDF p. 1,17 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-15be87d980,14,,1,India,PDF p. 1,14 INDIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-479aedf284,13,,1,Turquia,PDF p. 1,13 TURQUIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-e5a7e7b274,114,,1,Aquisição de bens imóveis (ARI),PDF p. 1,114 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-91f93bda93,65,,1,Transferência de capitais (ARI),PDF p. 1,65 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-3dc5ad8cde,63,,1,Subalínea 3,PDF p. 1,SUBALÍNEA 3 63 ARI,medium,Mapped subparagraph 3 to plain real estate purchase,claude-sonnet-5,2026-10-03,1,no
+o-afa4e42c0e,51,,1,Subalínea 4,PDF p. 1,SUBALÍNEA 4 51 ARI,medium,Mapped subparagraph 4 to real estate rehabilitation,claude-sonnet-5,2026-10-03,1,no
+o-0deec3d74e,3,,1,Subalínea 1,PDF p. 1,SUBALÍNEA 1 3 ARI,medium,Mapped subparagraph 1 to capital transfer; English label misprinted,claude-sonnet-5,2026-10-03,1,no
+o-ac568b89ce,5,,1,Subalínea 5,PDF p. 1,SUBALÍNEA 5 5 ARI,medium,Mapped subparagraph 5 to research; English label says 'SUBPARAGRAPH 1' (misprint),claude-sonnet-5,2026-10-03,1,no
+o-b8eaaeebce,1,,1,Subalínea 6,PDF p. 1,SUBALÍNEA 6 1 ARI,medium,Mapped subparagraph 6 to culture,claude-sonnet-5,2026-10-03,1,no
+o-44d38e2624,54,,1,Subalínea 7,PDF p. 1,SUBALÍNEA 7 54 ARI,medium,Mapped subparagraph 7 to investment fund,claude-sonnet-5,2026-10-03,1,no
+o-c98cc049f9,2,,1,Subalínea 8,PDF p. 1,SUBALÍNEA 8 2 ARI,medium,Mapped subparagraph 8 to business,claude-sonnet-5,2026-10-03,1,no
+o-26b81eb256,"54 750 340,80",,1,Investimento total (real estate),PDF p. 1,"114 ARI 54 750 340,80 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-44d5ac6a2b,"25 136 294,50",,1,Investimento total (capital transfer),PDF p. 1,"65 ARI 25 136 294,50 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-61327db50a,"37 616 600,00",,1,Subalínea 3,PDF p. 1,"63 ARI 37 616 600,00 €",medium,subparagraph 3 = real estate,claude-sonnet-5,2026-10-03,1,no
+o-2f2119c27d,"17 133 740,80",,1,Subalínea 4,PDF p. 1,"51 ARI 17 133 740,80 €",medium,subparagraph 4 = rehabilitation,claude-sonnet-5,2026-10-03,1,no
+o-c4fe3df928,"3 381 519,00",,1,Subalínea 1,PDF p. 1,"3 ARI 3 381 519,00 €",medium,subparagraph 1 = capital transfer,claude-sonnet-5,2026-10-03,1,no
+o-36202f5fd3,"1 750 000,00",,1,Subalínea 5,PDF p. 1,"5 ARI 1 750 000,00 €",medium,subparagraph 5 = research,claude-sonnet-5,2026-10-03,1,no
+o-0a82a1d41d,"200 000,00",,1,Subalínea 6,PDF p. 1,"1 ARI 200 000,00 €",medium,subparagraph 6 = culture,claude-sonnet-5,2026-10-03,1,no
+o-88cd163a5f,"19 104 775,50",,1,Subalínea 7,PDF p. 1,"54 ARI 19 104 775,50 €",medium,subparagraph 7 = investment fund,claude-sonnet-5,2026-10-03,1,no
+o-1da88c617a,"700 000,00",,1,Subalínea 8,PDF p. 1,"2 ARI 700 000,00 €",medium,subparagraph 8 = business,claude-sonnet-5,2026-10-03,1,no
+o-7105783c39,"79 886 635,30",,1,Investimento total junho 2023,PDF p. 1,"79 886 635,30 € INVESTIMENTO TOTAL JUNHO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-36258b2f38,869,,1,Rješenje o prijemu (text) / PV/MUP odobrio,PDF p. 1,Za 869 zahtjeva su ... donijeta rješenje o prijemu u crnogorsko državljanstvo,high,"Also in table on p. 2, Ukupno row, columns PV/MUP odobrio and Uplaćeno/Odobreno = 869",claude-sonnet-5,2026-10-03,1,no
+o-52636baef5,216,,1,Uplaćeno/Odobreno (PV/MUP odobrio),PDF p. 2,Apex Capital Partners 287 ... 216 ... 216 70,high,Table 'Prikaz primljenih aplikacija...'; both approval columns show 216,claude-sonnet-5,2026-10-03,1,no
+o-5308a71f56,431,,1,Uplaćeno/Odobreno (PV/MUP odobrio),PDF p. 2,Henley & Partners 531 ... 431 ... 431 97,high,Table 'Prikaz primljenih aplikacija...'; both approval columns show 431,claude-sonnet-5,2026-10-03,1,no
+o-6ee33439ae,222,,1,Uplaćeno/Odobreno (PV/MUP odobrio),PDF p. 2,Arton Group 295 ... 222 ... 222 72,high,Table 'Prikaz primljenih aplikacija...'; both approval columns show 222,claude-sonnet-5,2026-10-03,1,no
+o-e33ed0b074,5,,1,Kod PV/MUP (in decision procedure at interior ministry),PDF p. 1,za ukupno 5 zahtjeva ... nalaze u proceduri odlučivanja od strane ministarstva nadležnog za unutrašnje poslove,medium,Pending = 5 requests at PV/MUP (table Ukupno row also 5); all other pipeline stages 0,claude-sonnet-5,2026-10-03,1,no
+o-bb1da7bca2,1.113,,1,Predato zahtjeva (text) / Primljeno aplikacija,PDF p. 1,predato je ukupno 1.113 zahtjeva ... zaključno sa 31. decembrom 2022,high,Table total on p. 2 prints 1113,claude-sonnet-5,2026-10-03,1,no
+o-8bee9336a3,287,,1,Primljeno aplikacija,PDF p. 2,Apex Capital Partners doo Podgorica 287,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-bb2bf3b6ac,531,,1,Primljeno aplikacija,PDF p. 2,Henley & Partners Government Services LTD Jersey 531,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-4e88ef0815,295,,1,Primljeno aplikacija,PDF p. 2,Arton Group GmbH Austrija 295,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-31c023be58,239,,1,Odbijeno,PDF p. 2,odbijenih zahtjeva ... iznosi 239,high,Same figure in table Ukupno row; sentence starts at bottom of p. 1 and ends on p. 2,claude-sonnet-5,2026-10-03,1,no
+o-30e8726bd1,70,,1,Odbijeno,PDF p. 2,Apex ... 216 70,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-20bdb1dfe6,97,,1,Odbijeno,PDF p. 2,Henley ... 431 97,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-02b14fb672,72,,1,Odbijeno,PDF p. 2,Arton ... 222 72,high,Table 'Prikaz primljenih aplikacija...'; ,claude-sonnet-5,2026-10-03,1,no
+o-bdd0c0f5fb,"33.300.000,00",,1,Uplaćeno ukupno (donacija) 01.01-31.12.2023,PDF p. 2,"u periodu od 01.01.2023 - 31.12.2023. godine ... uplaćeno je ukupno 33.300.000,00 €",high,"Donations for development of less developed local governments, paid to Investment Agency account",claude-sonnet-5,2026-10-03,1,no
+o-c15840fd4b,"43.575.344,62",,1,Administrativne takse (cumulative to 1 Sep 2026),PDF p. 4,"ukupan iznos uplaćenih sredstava u svrhu administrativnih taksi ... iznosi 43.575.344,62 eura",high,"Administrative fees paid, from Central Treasury Account data",claude-sonnet-5,2026-10-03,1,no
+o-056a11e194,"251.472.956,09",,1,"Uplaćeno investitorima, turizam",PDF p. 4,"ukupan iznos sredstava uplaćen investitorima ... turizma ... iznosi 251.472.956,09 eura",high,"Cumulative to 1 Sep 2026; separate 1.835.000,00 still in escrow",claude-sonnet-5,2026-10-03,1,no
+o-54e8f8c2bd,"500.000,00",,1,Poljoprivreda i prerađivačka industrija,PDF p. 4,"uplaćen iznos od 500.000,00 eura",high,Cumulative to 1 Sep 2026,claude-sonnet-5,2026-10-03,1,no
+o-b8b68cff60,"31.400.000,00",,1,Fond za inovacije Crne Gore,PDF p. 4,"uplaćen Fondu za inovacije ... iznosi 31.400.000,00 eura",medium,Mapped development fund to Innovation Fund; the document also lists donations to a less-developed-municipalities account (e.g. 6.700.000 etc. transfers) which may be the intended fund; cumulative to 1 Sep 2026,claude-sonnet-5,2026-10-03,1,no
+o-9d4cf6e072,"32.999.849,80",,1,Prenos na Centralni račun državnog trezora,PDF p. 2,"na dan 13. januar 2023. godine, prenijeta na Centralni račun državnog trezora, u iznosu od 32.999.849,80 €",high,Transfer on 13 Jan 2023 from Investment Agency account to treasury,claude-sonnet-5,2026-10-03,1,no
+o-cd86b736aa,23 039,,1,entrant applications approved,"Chapter text, section 'Capital Investment Entrant Scheme'","23 039 entrant applications were approved, including 20 649 for Formal Approval and 2 390 for Approval-in-Principle",high,,claude-sonnet-5,2026-10-03,1,no
+o-fc12867f2c,35 719,,1,entrant applications received,"Chapter text, section 'Capital Investment Entrant Scheme'","35 719 entrant applications, together with 62 066 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-0e4a45bec5,62 066,,1,related dependant applications received,"Chapter text, section 'Capital Investment Entrant Scheme'","62 066 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-34c2c8cefc,2 390,,1,Approval-in-Principle (included in the 23 039 approved),"Chapter text, section 'Capital Investment Entrant Scheme'",including 20 649 for Formal Approval and 2 390 for Approval-in-Principle,medium,Document gives 2 390 as the Approval-in-Principle count among approved entrant applications as at 31 Dec 2013; it does not use the word 'outstanding',claude-sonnet-5,2026-10-03,1,no
+o-102ae1ec86,23 039,,1,entrant applications approved,"Chapter text, section 'Capital Investment Entrant Scheme'",23 039 entrant applications were approved,high,Counts entrants (main applicants); includes 2 390 Approval-in-Principle,claude-sonnet-5,2026-10-03,1,no
+o-e84199811a,167.3,,billion,amount of investments made under the Scheme,"Chapter text, section 'Capital Investment Entrant Scheme'",The amount of investments made under the Scheme totalled $167.3 billion,high,HK$; scale as stated in text,claude-sonnet-5,2026-10-03,1,no
+o-71c13db400,"67,000,716",,1,2018-2019 Actual,PDF p. 36,"040 Citizenship by Investment fee 67,000,716",high,"Printed page label 44, Department of Finance, Accountant General; XCD",claude-sonnet-5,2026-10-03,1,no
+o-c7e134f470,"28,107,819",,1,2019-2020 Revised Estimates,PDF p. 36,"040 Citizenship by Investment fee 67,000,716 65,549,069 28,107,819",high,"Approved estimate column is 65,549,069; revised is 28,107,819",claude-sonnet-5,2026-10-03,1,no
+o-e7bb911a3d,0,,1,2020-2021 Draft Estimates,PDF p. 36,"040 Citizenship by Investment fee ... 28,107,819 0 0 0",high,Printed as 0,claude-sonnet-5,2026-10-03,1,no
+o-b6b1068e9d,"3,000,000",,1,2019-2020 Revised Estimates,PDF p. 36,"004 Surplus Revenue from CIP Unit 0 0 3,000,000 0 0 0",high,"Approved column 0; revised 3,000,000",claude-sonnet-5,2026-10-03,1,no
+o-dab8765c0f,"42,072,043",,1,2010 Actuals,PDF p. 13,"Citizenship by Investment 25,000,000 68,564,445 42,072,043",high,"Table 2.2 Fiscal Operations, $ (XCD), Non Tax Revenue",claude-sonnet-5,2026-10-03,1,no
+o-30336ed2fd,"68,564,445",,1,2011 Projections,PDF p. 13,"Citizenship by Investment 25,000,000 68,564,445 42,072,043",high,,claude-sonnet-5,2026-10-03,1,no
+o-4a1b442b10,"25,000,000",,1,2012 Estimates,PDF p. 13,"Citizenship by Investment 25,000,000 68,564,445 42,072,043",high,,claude-sonnet-5,2026-10-03,1,no
+o-08a42e0541,262,,1,Familiares reagrupados,PDF p. 1,262 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-9c0ed6adb5,163,,1,ARI granted,PDF p. 1,163 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-f798cd9898,28,,1,,PDF p. 1,28 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-d865bf9f35,23,,1,,PDF p. 1,23 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-dadf7a7284,16,,1,,PDF p. 1,16 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-20c6efc6a3,11,,1,,PDF p. 1,11 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-0bdc83af09,11,,1,,PDF p. 1,11 ÀFRICA DO SUL,high,,claude-sonnet-5,2026-10-03,1,no
+o-732371d2f6,119,,1,Aquisição de bens imóveis,PDF p. 1,119 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-6612e13e30,44,,1,Transferência de capitais,PDF p. 1,44 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-5602addf9a,49,,1,Subalínea 3,PDF p. 1,SUBALÍNEA 3 49 ARI,medium,Mapped to subparagraph 3 (purchase of property),claude-sonnet-5,2026-10-03,1,no
+o-2117fcc447,70,,1,Subalínea 4,PDF p. 1,SUBALÍNEA 4 70 ARI,medium,Mapped to subparagraph 4 (rehabilitation),claude-sonnet-5,2026-10-03,1,no
+o-56899ad049,7,,1,Subalínea 1,PDF p. 1,SUBALÍNEA 1 7 ARI,medium,Mapped to subparagraph 1 (capital transfer),claude-sonnet-5,2026-10-03,1,no
+o-5e766fd9e6,37,,1,Subalínea 7,PDF p. 1,SUBALÍNEA 7 37 ARI,medium,Mapped to subparagraph 7 (fund units),claude-sonnet-5,2026-10-03,1,no
+o-e02362a28b,0,,1,Job creation,PDF p. 1,CRIAÇÃO DE POSTOS DE TRABALHO 0 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-3038cd5966,"57 226 580,00",,1,"Investimento total, real estate",PDF p. 1,"119 ARI 57 226 580,00 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-555a040686,"21 269 240,24",,1,"Investimento total, capital transfer",PDF p. 1,"44 ARI 21 269 240,24 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-0e2f225a1f,"33 439 523,20",,1,Subalínea 3,PDF p. 1,"49 ARI 33 439 523,20 €",medium,subparagraph 3,claude-sonnet-5,2026-10-03,1,no
+o-5d52447414,"23 787 056,80",,1,Subalínea 4,PDF p. 1,"70 ARI 23 787 056,80 €",medium,subparagraph 4,claude-sonnet-5,2026-10-03,1,no
+o-a95d952b44,"7 200 404,60",,1,Subalínea 1,PDF p. 1,"7 ARI 7 200 404,60 €",medium,subparagraph 1,claude-sonnet-5,2026-10-03,1,no
+o-12efb90b77,"14 068 835,64",,1,Subalínea 7,PDF p. 1,"37 ARI 14 068 835,64 €",medium,subparagraph 7,claude-sonnet-5,2026-10-03,1,no
+o-0fb63c800b,"78 495 820,24",,1,Total investment March 2023,PDF p. 1,"78 495 820,24 € INVESTIMENTO TOTAL MARÇO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-af001ab5de,208,,1,,PDF p. 1,208 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-e8a2df0c2a,180,,1,,PDF p. 1,180 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-cf6ca9cf53,31,,1,,PDF p. 1,31 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-fc24df7fea,30,,1,,PDF p. 1,30 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-a137c56980,26,,1,,PDF p. 1,26 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-7745c60b4d,16,,1,,PDF p. 1,16 ÌNDIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-acb13b9624,14,,1,,PDF p. 1,14 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-086a528ce7,110,,1,Aquisição de bens imóveis,PDF p. 1,110 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-0454095042,70,,1,Transferência de capitais,PDF p. 1,70 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-c8845da822,51,,1,Subalínea 3,PDF p. 1,SUBALÍNEA 3 51 ARI,medium,subparagraph 3,claude-sonnet-5,2026-10-03,1,no
+o-6264cb56d2,59,,1,Subalínea 4,PDF p. 1,SUBALÍNEA 4 59 ARI,medium,subparagraph 4,claude-sonnet-5,2026-10-03,1,no
+o-a8355f1c41,2,,1,Subalínea 1,PDF p. 1,SUBALÍNEA 1 2 ARI,medium,subparagraph 1,claude-sonnet-5,2026-10-03,1,no
+o-a7b208ac2d,68,,1,Subalínea 7,PDF p. 1,SUBALÍNEA 7 68 ARI,medium,subparagraph 7,claude-sonnet-5,2026-10-03,1,no
+o-de05978191,"56 764 074,74",,1,,PDF p. 1,"110 ARI 56 764 074,74 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-7df834b406,"26 269 696,52",,1,,PDF p. 1,"70 ARI 26 269 696,52 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-444940262d,"36 893 982,44",,1,Subalínea 3,PDF p. 1,"51 ARI 36 893 982,44 €",medium,subparagraph 3,claude-sonnet-5,2026-10-03,1,no
+o-4434c95a26,"19 870 092,30",,1,Subalínea 4,PDF p. 1,"59 ARI 19 870 092,30 €",medium,subparagraph 4,claude-sonnet-5,2026-10-03,1,no
+o-13f0a08cc7,"2 000 000,00",,1,Subalínea 1,PDF p. 1,"2 ARI 2 000 000,00 €",medium,subparagraph 1,claude-sonnet-5,2026-10-03,1,no
+o-b85bc55d24,"24 269 696,52",,1,Subalínea 7,PDF p. 1,"68 ARI 24 269 696,52 €",medium,subparagraph 7,claude-sonnet-5,2026-10-03,1,no
+o-13add2c5b9,"83 033 771,26",,1,,PDF p. 1,"83 033 771,26 € INVESTIMENTO TOTAL MAIO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-4009dfecfd,490,,1,Residence permits obtained through RBI scheme,PDF p. 19,Bulgaria (2009-2017) 35 141 490 31 1%,high,,claude-sonnet-5,2026-10-03,1,no
+o-2025144d5d,2.5 %,,1,"CBI/RBI investment, net inflow (% of GDP)",PDF p. 40,Cyprus – CBI 19 213 8 480 136 2.5 %,high,,claude-sonnet-5,2026-10-03,1,no
+o-b3e30e6730,3 336,,1,text,PDF p. 18,3 336 naturalisations were processed through the CBI scheme,high,,claude-sonnet-5,2026-10-03,1,no
+o-174c9477e9,4 800 000 000,,1,Total amount invested in the schemes (in €),PDF p. 37,Cyprus – CBI 2008-2017 4 800 000 000,high,,claude-sonnet-5,2026-10-03,1,no
+o-f8b2f570d1,480,,million,2017 investments through CBI/RBI schemes (estimation) (in million €),PDF p. 40,Cyprus – CBI ... 480 136,high,Table in million EUR; estimation per footnote 136,claude-sonnet-5,2026-10-03,1,no
+o-61c62d8ad2,9 217 474 822,,1,Total amount invested in the schemes (in €),PDF p. 37,Total (low estimation) 2008-2018 9 217 474 822,high,,claude-sonnet-5,2026-10-03,1,no
+o-18b1ee9a7a,209 650 000,,1,Total amount invested (in €),PDF p. 37,Ireland 120 2012-2016 209 650 000,high,,claude-sonnet-5,2026-10-03,1,no
+o-bd0e12f527,380,,1,Residence permits obtained through RBI scheme,PDF p. 19,Ireland (2012-2016) 176 038 380 32 0.2 %,high,,claude-sonnet-5,2026-10-03,1,no
+o-9988a0f226,14 047,,1,Residence permits obtained through RBI scheme,PDF p. 19,Latvia (2012-2016) 35 486 14 047 33 40 %,high,,claude-sonnet-5,2026-10-03,1,no
+o-0ef6af1544,0.58 %,,1,"CBI/RBI investment, net inflow (% of GDP)",PDF p. 40,Malta – CBI 11 126 64 73 0.58 %,high,,claude-sonnet-5,2026-10-03,1,no
+o-4b4c184501,947,,1,text,PDF p. 18,"From 2014 to 2016, 947 citizenships were granted through the CBI scheme",high,,claude-sonnet-5,2026-10-03,1,no
+o-94a1968c20,203 673 427,,1,Total amount invested (in €),PDF p. 37,Malta – CBI 121 2013-2018 203 673 427,high,,claude-sonnet-5,2026-10-03,1,no
+o-9d0d3d95ae,3.5,,billion,text,PDF p. 43,"from 2012 to 2018, €3.5 billion was invested in property through its RBI scheme",high,Printed in text as billions,claude-sonnet-5,2026-10-03,1,no
+o-4e6bb4765b,4 004 151 395,,1,Total amount invested (in €),PDF p. 37,Portugal 122 2013-2018 4 004 151 395,high,,claude-sonnet-5,2026-10-03,1,no
+o-5c99378017,17 687,,1,Residence permits obtained through RBI scheme,PDF p. 19,Portugal (2013-2018) 116 371 17 687 34 9%,high,,claude-sonnet-5,2026-10-03,1,no
+o-a8ec7b2429,"315,404,263",,1,Actual 2017/18,PDF p. 34,"Economic Citizenship Programme 315,404,263",high,,claude-sonnet-5,2026-10-03,1,no
+o-f3c51737d8,"226,029,364",,1,Projected 2018/19,PDF p. 34,"Economic Citizenship Programme ... 226,029,364",high,"Two 2018/19 columns: Estimate 406,640,526 and Projected 226,029,364; took Projected as asked",claude-sonnet-5,2026-10-03,1,no
+o-0eeec5a4bd,"417,500,000",,1,Estimate 2019/20,PDF p. 34,"Economic Citizenship Programme ... 417,500,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-f0ab73b23f,"12,703,992",,1,Actual Provisional 2020,PDF p. 80,"18001 CBI Fees 12,703,992",high,,claude-sonnet-5,2026-10-03,1,no
+o-a8ddf47306,"4,126,285",,1,Approved Estimates 2020,PDF p. 80,"18001 CBI Fees ... 4,126,285",high,,claude-sonnet-5,2026-10-03,1,no
+o-c43cdfd5d6,"13,648,845",,1,Estimates 2021,PDF p. 80,"18001 CBI Fees ... 13,648,845",high,,claude-sonnet-5,2026-10-03,1,no
+o-b239dc7a93,"276,932,002",,1,2013 Actuals,PDF p. 14,"Citizenship by Investment ... 276,932,002",high,,claude-sonnet-5,2026-10-03,1,no
+o-f23aa1356b,"293,280,816",,1,2014 Projections,PDF p. 14,"Citizenship by Investment ... 293,280,816",high,,claude-sonnet-5,2026-10-03,1,no
+o-a18f792e5a,"200,000,000",,1,2015 Estimates,PDF p. 14,"Citizenship by Investment 200,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-521026aa9b,37,,1,PDF p. 5,prošle sve provjere i za koju je izdato rješenje o prijemu ... i izdat pasoš 37,medium,"Approved = applications with decision of admission and passport issued; as of 15.03.2021 (footnote), not 2021-05. Row 7 has 2 more ready for decision.",,claude-sonnet-5,2026-10-03,1,no
+o-adb163d987,131,,1,PDF p. 5,Ukupno podnijetih aplikacija Agenciji za investicije ... 131,high,As of 15.03.2021 per footnote.,,claude-sonnet-5,2026-10-03,1,no
+o-1006baafe0,12,,1,PDF p. 5,Odbijene aplikacije zbog negativnog mišljenja Agenta ... 12,high,As of 15.03.2021 per footnote.,,claude-sonnet-5,2026-10-03,1,no
+o-6b36353b67,3,6,1,PDF p. 38,rejection rate is extremely low (between 3 and 6 %),medium,"Range 3 to 6 %; applies to the five Eastern Caribbean schemes, not an as-of date.",,claude-sonnet-5,2026-10-03,1,no
+o-c871f9cdaf,10 500,,1,PDF p. 36,Vanuatu had issued over 10 500 passports,high,Printed as 'over 10 500'; by March 2021.,,claude-sonnet-5,2026-10-03,1,no
+o-828c4ecc83,"554,70",,million,PDF p. 61,"Összesen 204 684,30 554,70",high,"Million EUR; HUF column 204 684,30 million Ft. Check scale: million.",,claude-sonnet-5,2026-10-03,1,no
+o-ac66433816,407,,million,PDF p. 24,Letelepedési Kötvények 407 millió eurós lejárata,high,million EUR,,claude-sonnet-5,2026-10-03,1,no
+o-2d779aab09,0,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2008 | *Total | 0,high,,claude-sonnet-5,2026-10-03,1,no
+o-a069b0a5ad,8,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2009 | *Total | 8,high,,claude-sonnet-5,2026-10-03,1,no
+o-c84c5d357b,16,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2010 | *Total | 16,high,,claude-sonnet-5,2026-10-03,1,no
+o-a25c7b7645,13,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2011 | *Total | 13,high,,claude-sonnet-5,2026-10-03,1,no
+o-3fcdbbfc7d,83,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2012 | *Total | 83,high,,claude-sonnet-5,2026-10-03,1,no
+o-63f895620d,17,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2012 | China | 17,high,,claude-sonnet-5,2026-10-03,1,no
+o-7d98b29c57,35,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2012 | Russia | 35,high,,claude-sonnet-5,2026-10-03,1,no
+o-d0dec17c18,128,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2013 | *Total | 128,high,,claude-sonnet-5,2026-10-03,1,no
+o-e4dfef3eb1,27,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2013 | China | 27,high,,claude-sonnet-5,2026-10-03,1,no
+o-d946264447,40,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2013 | Russia | 40,high,,claude-sonnet-5,2026-10-03,1,no
+o-7ca4e8a86e,129,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2014 | *Total | 129,high,,claude-sonnet-5,2026-10-03,1,no
+o-bbcb3703e7,20,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2014 | China | 20,high,,claude-sonnet-5,2026-10-03,1,no
+o-5c644aa322,57,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2014 | Russia | 57,high,,claude-sonnet-5,2026-10-03,1,no
+o-79dc2dc920,170,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2015 | *Total | 170,high,,claude-sonnet-5,2026-10-03,1,no
+o-eecd44f299,19,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2015 | China | 19,high,,claude-sonnet-5,2026-10-03,1,no
+o-4f99b221ca,71,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2015 | Russia | 71,high,,claude-sonnet-5,2026-10-03,1,no
+o-741fc4c2de,251,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2016 | *Total | 251,high,,claude-sonnet-5,2026-10-03,1,no
+o-39d581acda,89,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2016 | China | 89,high,,claude-sonnet-5,2026-10-03,1,no
+o-b95270588d,77,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2016 | Russia | 77,high,,claude-sonnet-5,2026-10-03,1,no
+o-6bb0cbf327,371,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2017 | *Total | 371,high,,claude-sonnet-5,2026-10-03,1,no
+o-267cc48022,128,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2017 | China | 128,high,,claude-sonnet-5,2026-10-03,1,no
+o-b3a2e8aad9,108,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2017 | Russia | 108,high,,claude-sonnet-5,2026-10-03,1,no
+o-f3fffc3552,468,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2018 | *Total | 468,high,,claude-sonnet-5,2026-10-03,1,no
+o-3f32e55d36,166,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2018 | China | 166,high,,claude-sonnet-5,2026-10-03,1,no
+o-b2889bbe46,120,,1,5 years aggregate of pre PBS categories and Tier 1 High Value Migrant Investors,se_03,2018 | Russia | 120,high,,claude-sonnet-5,2026-10-03,1,no
+o-d4f95b908c,169,,1,,PDF p. 1,169 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-426fa87b17,101,,1,,PDF p. 1,101 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-ece336caf8,16,,1,,PDF p. 1,16 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-982de6f56c,13,,1,,PDF p. 1,13 FILIPINAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-98530f3c20,10,,1,,PDF p. 1,10 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-b30672bd79,9,,1,,PDF p. 1,9 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-25c8ffbade,9,,1,,PDF p. 1,9 ÁFRICA DO SUL,high,,claude-sonnet-5,2026-10-03,1,no
+o-0a1bd99232,61,,1,,PDF p. 1,"61 ARI 41 044 909,52 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-94fff6eb83,40,,1,,PDF p. 1,"40 ARI 16 175 129,04 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-7800956f83,39,,1,,PDF p. 1,"SUBALÍNEA 3 39 ARI 33 193 513,64 €",medium,subparagraph 3 assumed = real_estate,claude-sonnet-5,2026-10-03,1,no
+o-d03f2bd127,22,,1,,PDF p. 1,"SUBALÍNEA 4 22 ARI 7 851 395,88 €",medium,subparagraph 4 assumed = rehabilitation,claude-sonnet-5,2026-10-03,1,no
+o-c2a49cce5a,3,,1,,PDF p. 1,"SUBALÍNEA 1 3 ARI 3 199 960,00 €",medium,subparagraph 1 assumed = capital_transfer,claude-sonnet-5,2026-10-03,1,no
+o-c64b2c9c50,37,,1,,PDF p. 1,"SUBALÍNEA 7 37 ARI 12 975 169,04 €",medium,subparagraph 7 assumed = investment_fund,claude-sonnet-5,2026-10-03,1,no
+o-8909789acd,"41 044 909,52",,1,EUR,PDF p. 1,"41 044 909,52 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-e61473baee,"16 175 129,04",,1,EUR,PDF p. 1,"16 175 129,04 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-fbbe604131,"33 193 513,64",,1,EUR,PDF p. 1,"33 193 513,64 €",medium,subparagraph 3 assumed,claude-sonnet-5,2026-10-03,1,no
+o-de1cc10dec,"7 851 395,88",,1,EUR,PDF p. 1,"7 851 395,88 €",medium,subparagraph 4 assumed,claude-sonnet-5,2026-10-03,1,no
+o-c986de50c3,"3 199 960,00",,1,EUR,PDF p. 1,"3 199 960,00 €",medium,subparagraph 1 assumed,claude-sonnet-5,2026-10-03,1,no
+o-a7a0e07b31,"12 975 169,04",,1,EUR,PDF p. 1,"12 975 169,04 €",medium,subparagraph 7 assumed,claude-sonnet-5,2026-10-03,1,no
+o-63e252d8bf,"57 220 038,56",,1,EUR,PDF p. 1,"57 220 038,56 € INVESTIMENTO TOTAL JULHO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-1b71d03c90,167,,1,Familiares reagrupados,PDF p. 1,167 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-8c07d56899,116,,1,ARI granted,PDF p. 1,116 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-d53ef43e98,28,,1,,PDF p. 1,28 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-437e10d238,15,,1,,PDF p. 1,15 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-9c263ea275,14,,1,,PDF p. 1,14 REINO UNIDO,high,,claude-sonnet-5,2026-10-03,1,no
+o-87a45ca96f,7,,1,,PDF p. 1,7 ÁFRICA DO SUL,high,,claude-sonnet-5,2026-10-03,1,no
+o-92c1f3a617,7,,1,,PDF p. 1,7 LÍBANO,high,,claude-sonnet-5,2026-10-03,1,no
+o-69655187ef,83,,1,Aquisição de bens imóveis,PDF p. 1,"83 ARI 51 011 641,48 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-0ee235560d,33,,1,Transferência de capitais,PDF p. 1,"33 ARI 12 260 000,00 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-99fa9182f5,46,,1,,PDF p. 1,"SUBALÍNEA 3 46 ARI 37 644 660,20 €",medium,mapping subparagraph 3 to real_estate assumed,claude-sonnet-5,2026-10-03,1,no
+o-4213451dee,37,,1,,PDF p. 1,"SUBALÍNEA 4 37 ARI 13 366 981,48 €",medium,mapping subparagraph 4 to rehabilitation assumed,claude-sonnet-5,2026-10-03,1,no
+o-28481576af,1,,1,,PDF p. 1,"SUBALÍNEA 1 1 ARI 1 010 000,00 €",medium,mapping subparagraph 1 to capital_transfer assumed,claude-sonnet-5,2026-10-03,1,no
+o-b84ef5c8a0,1,,1,,PDF p. 1,"SUBALÍNEA 6 1 ARI 250 000,00 €",medium,mapping subparagraph 6 to culture assumed,claude-sonnet-5,2026-10-03,1,no
+o-3cf7367941,30,,1,,PDF p. 1,"SUBALÍNEA 7 30 ARI 10 500 000,00 €",medium,mapping subparagraph 7 to investment_fund assumed,claude-sonnet-5,2026-10-03,1,no
+o-811a984871,1,,1,,PDF p. 1,"SUBALÍNEA 8 1 ARI 500 000,00 €",medium,mapping subparagraph 8 to business assumed,claude-sonnet-5,2026-10-03,1,no
+o-d591924a15,0,,1,Job creation,PDF p. 1,CRIAÇÃO DE POSTOS DE TRABALHO 0 ARI,high,,claude-sonnet-5,2026-10-03,1,no
+o-465d184ad4,"51 011 641,48",,1,EUR,PDF p. 1,"51 011 641,48 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-39406e9291,"12 260 000,00",,1,EUR,PDF p. 1,"12 260 000,00 €",high,,claude-sonnet-5,2026-10-03,1,no
+o-05ca24115e,"37 644 660,20",,1,EUR,PDF p. 1,"37 644 660,20 €",medium,subparagraph 3 assumed,claude-sonnet-5,2026-10-03,1,no
+o-ff0ea2c349,"13 366 981,48",,1,EUR,PDF p. 1,"13 366 981,48 €",medium,subparagraph 4 assumed,claude-sonnet-5,2026-10-03,1,no
+o-6728efcb9c,"1 010 000,00",,1,EUR,PDF p. 1,"1 010 000,00 €",medium,subparagraph 1 assumed,claude-sonnet-5,2026-10-03,1,no
+o-60c2c78258,"250 000,00",,1,EUR,PDF p. 1,"250 000,00 €",medium,subparagraph 6 assumed,claude-sonnet-5,2026-10-03,1,no
+o-9aa64e6e26,"10 500 000,00",,1,EUR,PDF p. 1,"10 500 000,00 €",medium,subparagraph 7 assumed,claude-sonnet-5,2026-10-03,1,no
+o-bda7bbf847,"500 000,00",,1,EUR,PDF p. 1,"500 000,00 €",medium,subparagraph 8 assumed,claude-sonnet-5,2026-10-03,1,no
+o-564864901c,"63 271 641,48",,1,EUR,PDF p. 1,"63 271 641,48 € INVESTIMENTO TOTAL ABRIL 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-08f06e11a1,18 639,,1,,"HTML chapter text, Capital Investment Entrant Scheme","18 639 entrant applications were approved, including 16 915 for Formal Approval and 1 724 for Approval-in-Principle",high,,claude-sonnet-5,2026-10-03,1,no
+o-b72ae733f0,26 492,,1,,"HTML chapter text, Capital Investment Entrant Scheme","26 492 entrant applications, together with 46 404 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-edaf560ea5,46 404,,1,,"HTML chapter text, Capital Investment Entrant Scheme","46 404 related dependant applications, were received",high,,claude-sonnet-5,2026-10-03,1,no
+o-746f7c6aa2,1 724,,1,,"HTML chapter text, Capital Investment Entrant Scheme",1 724 for Approval-in-Principle,medium,Approvals-in-principle among approved applications as at 31 Dec 2012; text does not say outstanding explicitly,claude-sonnet-5,2026-10-03,1,no
+o-fd85de91b5,18 639,,1,,"HTML chapter text, Capital Investment Entrant Scheme",18 639 entrant applications were approved,medium,Entrants approved incl. 16 915 formal approval + 1 724 AIP; formal-only would be 16 915,claude-sonnet-5,2026-10-03,1,no
+o-d6f1093c63,129.8,,billion,,"HTML chapter text, Capital Investment Entrant Scheme",The amount of investments made under the Scheme totalled $ 129.8 billion,high,HK$,claude-sonnet-5,2026-10-03,1,no
+o-88a03adea0,209,,1,,PDF p. 1,209 FAMILIARES REAGRUPADOS,high,,claude-sonnet-5,2026-10-03,1,no
+o-24dd1531cb,130,,1,,PDF p. 1,130 AUTORIZAÇÕES DE RESIDÊNCIA CONCEDIDAS,high,,claude-sonnet-5,2026-10-03,1,no
+o-1568d36539,23,,1,,PDF p. 1,23 CHINA,high,,claude-sonnet-5,2026-10-03,1,no
+o-da92277c17,21,,1,,PDF p. 1,21 EUA,high,,claude-sonnet-5,2026-10-03,1,no
+o-189691486b,14,,1,,PDF p. 1,14 TURQUIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-08fd523621,12,,1,,PDF p. 1,12 ÍNDIA,high,,claude-sonnet-5,2026-10-03,1,no
+o-c36e3641f3,9,,1,,PDF p. 1,9 BRASIL,high,,claude-sonnet-5,2026-10-03,1,no
+o-e481fd7f4d,87,,1,,PDF p. 1,87 ARI AQUISIÇÃO DE BENS IMÓVEIS,high,,claude-sonnet-5,2026-10-03,1,no
+o-f3912faa5d,43,,1,,PDF p. 1,43 ARI TRANSFERÊNCIA DE CAPITAIS,high,,claude-sonnet-5,2026-10-03,1,no
+o-aac7dbfb12,37,,1,,PDF p. 1,SUBALÍNEA 3 37 ARI,medium,Subparagraph 3 taken as real estate purchase; sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-4bc3663bcd,50,,1,,PDF p. 1,SUBALÍNEA 4 50 ARI,medium,Subparagraph 4 taken as rehabilitation; sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-8fb4147532,1,,1,,PDF p. 1,SUBALÍNEA 1 1 ARI,medium,Subparagraph 1 taken as capital transfer; sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-259d201301,39,,1,,PDF p. 1,SUBALÍNEA 7 39 ARI,medium,Subparagraph 7 taken as investment fund units; sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-069a1c2b65,3,,1,,PDF p. 1,SUBALÍNEA 8 3 ARI,medium,Subparagraph 8 taken as business/SME capital; sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-da39f64086,0,,1,,PDF p. 1,CRIAÇÃO DE POSTOS DE TRABALHO 0 ARI,high,Job creation route,claude-sonnet-5,2026-10-03,1,no
+o-6b802d48a5,"39 394 805,26",,1,EUR,PDF p. 1,"87 ARI 39 394 805,26 € INVESTIMENTO TOTAL",high,,claude-sonnet-5,2026-10-03,1,no
+o-c7223466bb,"15 902 556,00",,1,,PDF p. 1,"43 ARI 15 902 556,00€",high,,claude-sonnet-5,2026-10-03,1,no
+o-d9c8487535,"22 241 803,20",,1,,PDF p. 1,"SUBALÍNEA 3 37 ARI 22 241 803,20 €",medium,sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-31c43a4e89,"17 153 002,06",,1,,PDF p. 1,"SUBALÍNEA 4 50 ARI 17 153 002,06 €",medium,sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-9857e22777,"1 000 000,00",,1,,PDF p. 1,"SUBALÍNEA 1 1 ARI 1 000 000,00 €",medium,sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-28034f0c43,"13 852 556,00",,1,,PDF p. 1,"SUBALÍNEA 7 39 ARI 13 852 556,00 €",medium,sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-b4c0a7b49b,"1 050 000,00",,1,,PDF p. 1,"SUBALÍNEA 8 3 ARI 1 050 000,00 €",medium,sub-paragraph mapping to route inferred from Law 23/2007 art. 90-A numbering,claude-sonnet-5,2026-10-03,1,no
+o-1f9e65ea17,"55 297 361,26",,1,,PDF p. 1,"55 297 361,26 € INVESTIMENTO TOTAL FEVEREIRO 2023",high,,claude-sonnet-5,2026-10-03,1,no
+o-bcfa8bc102,5 064,,1,,PDF p. 26,Cyprus ... 5 064 versus 3 705 respectively,high,,claude-sonnet-5,2026-10-03,1,no
+o-1addbc7ec8,6.3,,billion,,PDF p. 26,more investment (€6.3 billion versus €1.2 billion respectively),high,,claude-sonnet-5,2026-10-03,1,no
+o-42e58c6882,2.7,,billion,,PDF p. 26,"Spain (12 104 residence permits, estimated investment of €2.7 billion)",high,,claude-sonnet-5,2026-10-03,1,no
+o-45f39153be,12 104,,1,,PDF p. 26,Spain (12 104 residence permits,high,,claude-sonnet-5,2026-10-03,1,no
+o-c4dd31aea5,1.9,,billion,,PDF p. 26,Greece (22 802 residence permits and €1.9 billion),high,,claude-sonnet-5,2026-10-03,1,no
+o-b7ef1c6db4,22 802,,1,,PDF p. 26,Greece (22 802 residence permits,high,,claude-sonnet-5,2026-10-03,1,no
+o-9d4ba3ef68,3 811,,1,CBI schemes,PDF p. 27,Applications 3 811 38 369 42 180,high,,claude-sonnet-5,2026-10-03,1,no
+o-74fc004cca,38 369,,1,RBI schemes,PDF p. 27,Applications 3 811 38 369 42 180,high,,claude-sonnet-5,2026-10-03,1,no
+o-6945c9dd84,42 180,,1,Total,PDF p. 27,Applications 3 811 38 369 42 180,high,,claude-sonnet-5,2026-10-03,1,no
+o-f6ed04d2bf,7 497,,million,CBI schemes,PDF p. 27,"Investment (€, millions) 7 497 13 877 21 374",high,,claude-sonnet-5,2026-10-03,1,no
+o-30eeeb5b72,13 877,,million,RBI schemes,PDF p. 27,"Investment (€, millions) 7 497 13 877 21 374",high,,claude-sonnet-5,2026-10-03,1,no
+o-2e08c8b720,21 374,,million,Total,PDF p. 27,"Investment (€, millions) 7 497 13 877 21 374",high,,claude-sonnet-5,2026-10-03,1,no
+o-037b592efa,21.8,,billion,,PDF p. 159,generated over €21.8 billion in revenue,high,"Back cover says ""over""; differs from Table 3 total 21 374 million",claude-sonnet-5,2026-10-03,1,no
+o-671ba9fca6,8 769,,1,CBI schemes,PDF p. 27,Total individuals including family members 8 769 123 374 132 143,high,,claude-sonnet-5,2026-10-03,1,no
+o-02bbb98ace,123 374,,1,RBI schemes,PDF p. 27,Total individuals including family members 8 769 123 374 132 143,high,,claude-sonnet-5,2026-10-03,1,no
+o-1380deb08d,132 143,,1,Total,PDF p. 27,Total individuals including family members 8 769 123 374 132 143,high,,claude-sonnet-5,2026-10-03,1,no
+o-dea4f23dd4,3 705,,1,,PDF p. 26,5 064 versus 3 705 respectively (Cyprus versus Malta),high,,claude-sonnet-5,2026-10-03,1,no
+o-d7d69bde7f,1.2,,billion,,PDF p. 26,€6.3 billion versus €1.2 billion respectively (Cyprus versus Malta),high,,claude-sonnet-5,2026-10-03,1,no
+o-8f945778c2,5.0,,billion,,PDF p. 26,"Portugal (22 214 residence permits, estimated investment of €5.0 billion)",high,,claude-sonnet-5,2026-10-03,1,no
+o-8c67e43a42,22 214,,1,,PDF p. 26,Portugal (22 214 residence permits,high,,claude-sonnet-5,2026-10-03,1,no
+o-72bdc5a876,995,,1,Total (n. abs),PDF p. 129,2011 995 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-731452288a,6.638,,1,Total (n. abs),PDF p. 128,foram concedidas 6.638 autorizações de residência para investidores em atividades produtivas,high,,claude-sonnet-5,2026-10-03,1,no
+o-f916afdb45,1.165,,1,Total (n. abs),PDF p. 129,2012 1.165 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-769f86d9be,1.171,,1,Total (n. abs),PDF p. 129,2013 1.171 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-cd36ecb33d,1.012,,1,Total (n. abs),PDF p. 129,2014 1.012 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-8b0c76c85b,835,,1,Total (n. abs),PDF p. 129,2015 835 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-a15bf63312,178,,1,Total (n. abs),PDF p. 129,2016 178 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-c4a8e4cdb3,134,,1,Total (n. abs),PDF p. 129,2017 134 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-c5d844e40b,367,,1,Total (n. abs),PDF p. 129,2018 367 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-6a0dec4998,354,,1,Total (n. abs),PDF p. 129,2019 354 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-66b9889f87,214,,1,Total (n. abs),PDF p. 134,Entre janeiro de 2019 e junho de 2022 foram concedidas 214 autorizações de residência para investimento imobiliário,high,,claude-sonnet-5,2026-10-03,1,no
+o-0a5fec55c2,165,,1,Total (n. abs),PDF p. 129,2020 165 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-eb1235fba8,173,,1,Total (n. abs),PDF p. 129,2021 173 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-9a31f67001,89,,1,Total (n. abs),PDF p. 129,2022 (jan-jun) 89 100,high,,claude-sonnet-5,2026-10-03,1,no
+o-de9bf48a48,600,,1,,HTML chapter text,approval-in-principle was also granted to about 600 applicants,medium,"Printed as ""about 600""",claude-sonnet-5,2026-10-03,1,no
+o-afa4fcec8c,"35,000",,1,,HTML chapter text,"formal approval was given to about 35,000 applicants",medium,"Printed as ""about 35,000""",claude-sonnet-5,2026-10-03,1,no
+o-05e7877e3c,313.4,,billion,,HTML chapter text,bringing in a total investment amounting to $313.4 billion,high,Printed with $ (HKD in context),claude-sonnet-5,2026-10-03,1,no
+o-323a81e217,"141,002,887",,1,2012 Actuals,PDF p. 14,"Citizenship by Investment 100,000,000 247,570,375 141,002,887",high,,claude-sonnet-5,2026-10-03,1,no
+o-0827860ad5,"247,570,375",,1,2013 Projections,PDF p. 14,"Citizenship by Investment 100,000,000 247,570,375 141,002,887",high,,claude-sonnet-5,2026-10-03,1,no
+o-1b19c10d36,"100,000,000",,1,2014 Estimates,PDF p. 14,"Citizenship by Investment 100,000,000 247,570,375 141,002,887",high,,claude-sonnet-5,2026-10-03,1,no
+o-24eab84514,"240,000",,1,2024-25 YTD Actual,PDF p. 24,"1016 - Citizenship Investment Program 9,000,000 9,000,000 240,000 9,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-c74b52dc17,"9,000,000",,1,2024-25 Approved Budget,PDF p. 24,"1016 - Citizenship Investment Program 9,000,000 9,000,000 240,000 9,000,000",high,"Revised Budget also 9,000,000",claude-sonnet-5,2026-10-03,1,no
+o-34737f98e1,"9,000,000",,1,2025-26 Approved Budget,PDF p. 24,"1016 - Citizenship Investment Program 9,000,000 9,000,000 240,000 9,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-d15c4718e9,"622,115,570",,1,Actual 2023/2024,PDF p. 63,"Citizenship by Investment Programme 625,338,931 617,400,000 622,115,570 760,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-6735607454,"760,000,000",,1,Estimate 2024/2025,PDF p. 63,"Citizenship by Investment Programme 625,338,931 617,400,000 622,115,570 760,000,000",high,,claude-sonnet-5,2026-10-03,1,no
+o-9f014c6e8d,"35,400",,1,,HTML chapter text,"formal approval had been given for over 35,400 applicants",medium,"Printed as ""over 35,400""",claude-sonnet-5,2026-10-03,1,no
+o-3732a753a6,316.9,,billion,,HTML chapter text,the total investment amounting to HK$316.9 billion,high,,claude-sonnet-5,2026-10-03,1,no
+o-dadf2d4f79,"35,000",,1,,HTML chapter text,"formal approval had been given for about 35,000 applicants",medium,"Printed as ""about 35,000""",claude-sonnet-5,2026-10-03,1,no
+o-e7ab0901c9,316.9,,billion,,HTML chapter text,bringing in a total investment amounting to $316.9 billion,high,Printed with $ (HKD in context),claude-sonnet-5,2026-10-03,1,no
