@@ -267,13 +267,13 @@
    "source_type": "government",
    "jurisdiction": "CAN",
    "published_date": "2026-08-11",
-   "accessed_date": "2026-10-03",
+   "accessed_date": "2026-10-04",
    "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/offshore-tax-informant-program.html",
    "archive_url": "",
-   "raw_file": "",
+   "raw_file": "raw/can-cra-otip-overview-2026.html",
    "sha256": "",
    "covers": "Programme description; page modified 2026-08-11, no closure notice.",
-   "notes": "download blocked: canada.ca refused scripted (curl) connections (HTTP/2 stream reset); read through WebFetch. No statistics on the page."
+   "notes": "scripted download blocked: canada.ca refused scripted (curl) connections (HTTP/2 stream reset); read through WebFetch. No statistics on the page. Stored copy saved through a browser on 2026-10-04 (the site blocks scripted downloads)."
   },
   {
    "source_id": "can-cra-otip-outcomes-2026",
@@ -283,13 +283,13 @@
    "source_type": "government",
    "jurisdiction": "CAN",
    "published_date": "2026-08-11",
-   "accessed_date": "2026-10-03",
+   "accessed_date": "2026-10-04",
    "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/report-offshore-tax-cheating-how-reward.html",
    "archive_url": "",
-   "raw_file": "",
+   "raw_file": "raw/can-cra-otip-outcomes-2026.html",
    "sha256": "",
    "covers": "Reward rules: 5-15% of federal tax collected when at least $100,000 is collected; tiers; rewards taxable.",
-   "notes": "download blocked (canada.ca refused curl); read through WebFetch."
+   "notes": "scripted download blocked (canada.ca refused curl); read through WebFetch. Stored copy saved through a browser on 2026-10-04 (the site blocks scripted downloads)."
   },
   {
    "source_id": "can-cra-otip-pia-2024",
@@ -299,13 +299,13 @@
    "source_type": "government",
    "jurisdiction": "CAN",
    "published_date": "2024-11-12",
-   "accessed_date": "2026-10-03",
+   "accessed_date": "2026-10-04",
    "url": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/protecting-your-privacy/privacy-impact-assessment/offshore-tax-informant-program-v3.html",
    "archive_url": "",
-   "raw_file": "",
+   "raw_file": "raw/can-cra-otip-pia-2024.html",
    "sha256": "",
    "covers": "Rules (5-15% of additional federal tax assessed and collected; $100,000 threshold); system changes 2022-2025.",
-   "notes": "download blocked (canada.ca refused curl); read through WebFetch."
+   "notes": "scripted download blocked (canada.ca refused curl); read through WebFetch. Stored copy saved through a browser on 2026-10-04 (the site blocks scripted downloads)."
   },
   {
    "source_id": "can-bennettjones-otip-2019",

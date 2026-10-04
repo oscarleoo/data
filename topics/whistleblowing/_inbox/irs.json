@@ -381,10 +381,10 @@
    "published_date": "2011-08-10",
    "accessed_date": "2026-10-03",
    "url": "https://www.gao.gov/products/gao-11-683",
-   "archive_url": "",
-   "raw_file": "",
+   "archive_url": "https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-11-683.pdf",
+   "raw_file": "raw/usa-gao-11-683.pdf",
    "covers": "Status of 7623(b) claims from FY2007-2008 as of April 2011.",
-   "notes": "download blocked (gao.gov returned HTTP 403 to curl). Quotes taken from the product page highlights via WebFetch; check against the PDF.",
+   "notes": "download blocked (gao.gov returned HTTP 403 to curl). Quotes taken from the product page highlights via WebFetch; check against the PDF. Stored copy from the Wayback Machine (https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-11-683.pdf); the official site blocks scripted downloads.",
    "sha256": ""
   },
   {
@@ -397,10 +397,10 @@
    "published_date": "2015-10-29",
    "accessed_date": "2026-10-03",
    "url": "https://www.gao.gov/products/gao-16-20",
-   "archive_url": "",
-   "raw_file": "",
+   "archive_url": "https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-16-20.pdf",
+   "raw_file": "raw/usa-gao-16-20.pdf",
    "covers": "Awards by subsection FY2011 to 30 June 2015; award errors in 17 paid 7623(b) files.",
-   "notes": "download blocked (HTTP 403). Figures quoted from the product page via WebFetch; verify against the PDF.",
+   "notes": "download blocked (HTTP 403). Figures quoted from the product page via WebFetch; verify against the PDF. Stored copy from the Wayback Machine (https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-16-20.pdf); the official site blocks scripted downloads.",
    "sha256": ""
   },
   {
@@ -413,10 +413,10 @@
    "published_date": "2018-09-28",
    "accessed_date": "2026-10-03",
    "url": "https://www.gao.gov/products/gao-18-698",
-   "archive_url": "",
-   "raw_file": "",
+   "archive_url": "https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-18-698.pdf",
+   "raw_file": "raw/usa-gao-18-698.pdf",
    "covers": "FBAR penalties in whistleblower claims before the 2018 change; cumulative collections.",
-   "notes": "download blocked (HTTP 403). Publicly released 29 Oct 2018. Quotes via WebFetch of the product page.",
+   "notes": "download blocked (HTTP 403). Publicly released 29 Oct 2018. Quotes via WebFetch of the product page. Stored copy from the Wayback Machine (https://web.archive.org/web/2026id_/https://www.gao.gov/assets/gao-18-698.pdf); the official site blocks scripted downloads.",
    "sha256": ""
   },
   {
@@ -461,10 +461,10 @@
    "published_date": "2009-02-18",
    "accessed_date": "2026-10-03",
    "url": "https://www.justice.gov/archives/opa/pr/ubs-enters-deferred-prosecution-agreement",
-   "archive_url": "",
-   "raw_file": "",
+   "archive_url": "https://web.archive.org/web/2009id_/http://www.justice.gov/opa/pr/2009/February/09-tax-136.html",
+   "raw_file": "raw/usa-doj-ubs-dpa-2009.html",
    "covers": "UBS deferred prosecution agreement (reportedly $780 million).",
-   "notes": "download blocked (justice.gov returned a bot-check interstitial); nothing read or quoted from it.",
+   "notes": "download blocked (justice.gov returned a bot-check interstitial); nothing read or quoted from it. Stored copy from the Wayback Machine (https://web.archive.org/web/2009id_/http://www.justice.gov/opa/pr/2009/February/09-tax-136.html); the official site blocks scripted downloads.",
    "sha256": ""
   },
   {

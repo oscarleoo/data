@@ -14,10 +14,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/about/offices/owb/whistleblower-annual-report-2011.pdf",
    "archive_url": "https://web.archive.org/web/20260226122029/https://www.sec.gov/about/offices/owb/whistleblower-annual-report-2011.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2011.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2011: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260226122029/https://www.sec.gov/about/offices/owb/whistleblower-annual-report-2011.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2012",
@@ -30,10 +30,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/about/offices/owb/annual-report-2012.pdf",
    "archive_url": "https://web.archive.org/web/20260224153135/https://www.sec.gov/about/offices/owb/annual-report-2012.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2012.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2012: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260224153135/https://www.sec.gov/about/offices/owb/annual-report-2012.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2013",
@@ -46,10 +46,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/about/offices/owb/annual-report-2013.pdf",
    "archive_url": "https://web.archive.org/web/20260306205405/https://www.sec.gov/about/offices/owb/annual-report-2013.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2013.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2013: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260306205405/https://www.sec.gov/about/offices/owb/annual-report-2013.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2014",
@@ -62,10 +62,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/about/offices/owb/annual-report-2014.pdf",
    "archive_url": "https://web.archive.org/web/20260212023947/https://www.sec.gov/about/offices/owb/annual-report-2014.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2014.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2014: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260212023947/https://www.sec.gov/about/offices/owb/annual-report-2014.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2015",
@@ -78,10 +78,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2015.pdf",
    "archive_url": "https://web.archive.org/web/20260303125516/https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2015.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2015.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2015: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260303125516/https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2015.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2016",
@@ -94,10 +94,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2016.pdf",
    "archive_url": "https://web.archive.org/web/20260825074507/https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2016.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2016.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2016: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260825074507/https://www.sec.gov/whistleblower/reportspubs/annual-reports/owb-annual-report-2016.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2017",
@@ -110,10 +110,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/sec-2017-annual-report-whistleblower-program.pdf",
    "archive_url": "https://web.archive.org/web/20260918134232/https://www.sec.gov/files/sec-2017-annual-report-whistleblower-program.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2017.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2017: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260918134232/https://www.sec.gov/files/sec-2017-annual-report-whistleblower-program.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2018",
@@ -126,10 +126,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/sec-2018-annual-report-whistleblower-program.pdf",
    "archive_url": "https://web.archive.org/web/20260714005249/https://www.sec.gov/files/sec-2018-annual-report-whistleblower-program.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2018.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2018: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260714005249/https://www.sec.gov/files/sec-2018-annual-report-whistleblower-program.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2019",
@@ -142,10 +142,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/sec-2019-annual-report-whistleblower-program.pdf",
    "archive_url": "https://web.archive.org/web/20260424130241/https://www.sec.gov/files/sec-2019-annual-report-whistleblower-program.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2019.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2019: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260424130241/https://www.sec.gov/files/sec-2019-annual-report-whistleblower-program.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2020",
@@ -158,10 +158,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/2020%20Annual%20Report_0.pdf",
    "archive_url": "https://web.archive.org/web/20261001150616/https://www.sec.gov/files/2020%20Annual%20Report_0.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2020.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2020: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20261001150616/https://www.sec.gov/files/2020%20Annual%20Report_0.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2021",
@@ -174,10 +174,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/2021_ow_ar_508.pdf",
    "archive_url": "https://web.archive.org/web/20260820081958/https://www.sec.gov/files/2021_ow_ar_508.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2021.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2021: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. published_date: year of fiscal year only; exact release date not printed on the cover. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260820081958/https://www.sec.gov/files/2021_ow_ar_508.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2022",
@@ -190,10 +190,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/2022_ow_ar.pdf",
    "archive_url": "https://web.archive.org/web/20260824201955/https://www.sec.gov/files/2022_ow_ar.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2022.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2022: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table; FY2022 report is a short 9-page format",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260824201955/https://www.sec.gov/files/2022_ow_ar.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2023",
@@ -206,10 +206,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/fy23-annual-report.pdf",
    "archive_url": "https://web.archive.org/web/20231119201237/https://www.sec.gov/files/fy23-annual-report.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2023.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2023: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20231119201237/https://www.sec.gov/files/fy23-annual-report.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2024",
@@ -222,10 +222,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/fy24-annual-whistleblower-report.pdf",
    "archive_url": "https://web.archive.org/web/20260903121131/https://www.sec.gov/files/fy24-annual-whistleblower-report.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2024.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2024: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260903121131/https://www.sec.gov/files/fy24-annual-whistleblower-report.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-sec-owb-ar-2025",
@@ -238,10 +238,10 @@
    "accessed_date": "2026-10-03",
    "url": "https://www.sec.gov/files/fy25-annual-whistleblower-report.pdf",
    "archive_url": "https://web.archive.org/web/20260927120835/https://www.sec.gov/files/fy25-annual-whistleblower-report.pdf",
-   "raw_file": "",
+   "raw_file": "raw/usa-sec-owb-ar-2025.pdf",
    "sha256": "",
    "covers": "SEC whistleblower programme FY2025: tips (total, by allegation type, by country where given), awards, Investor Protection Fund table",
-   "notes": "download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report."
+   "notes": "sec.gov download blocked: sec.gov returns HTTP 403 to automated downloads (undeclared-tool policy), so no copy stored in raw/. Text and tables were read from the Wayback Machine copy at archive_url (an exact copy of the PDF). Page numbers given as printed in the report. Stored copy: the identical file as archived by the Wayback Machine (https://web.archive.org/web/20260927120835/https://www.sec.gov/files/fy25-annual-whistleblower-report.pdf), downloaded with the id_ form that returns the original bytes; sec.gov blocks scripted downloads."
   },
   {
    "source_id": "usa-cftc-wb-ar-2011",

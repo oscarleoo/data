@@ -1,0 +1,5 @@
+table,id,field,value,reason,by
+observations,o-eca71a3324,source_id,usa-cftc-wb-ar-2023,"The quote is not in the FY2022 report; it is in the FY2023 report (and repeated in later ones), checked by text search.",checks 2026-10-04
+observations,o-eca71a3324,location,"PDF p. 22 (printed p. 21), footnote 47",Location in the FY2023 report.,checks 2026-10-04
+observations,o-2fa4944157,location,"PDF p. 35 (printed p. 31), Appendix A chart, 2019 bar","The value is read from the Appendix A comparison chart, not the text page cited; checked on the rendered page.",checks 2026-10-04
+observations,o-2dd6d27cee,location,"PDF p. 40 (printed p. 36), Appendix A chart, 2021 bar","The value is read from the Appendix A comparison chart, not the text page cited; checked on the rendered page.",checks 2026-10-04
