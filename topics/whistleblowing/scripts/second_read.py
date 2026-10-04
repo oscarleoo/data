@@ -50,7 +50,13 @@ def readings(v):
         return [float(WORDS[raw])]
     if raw in ("-", "\u2013", "\u2014", "nil"):
         return [0.0]
-    raw = re.sub(r"^(fewer|less|more) than |^over |^about |^around |^approximately ", "", raw)
+    mult = 1e8 if "\uc5b5" in raw else 1  # Korean 억 = hundred million
+    raw = raw.replace("\uc5b5", "").replace("\uc6d0", "")  # 억, 원
+    raw = re.sub(r"^\((.*)\)$", r"\1", raw.strip())  # (246,000): an outflow in a fund table
+    raw = re.sub(r"^(fewer|less|more) than |^over |^about |^around |^approximately |^nearly |^almost |^exceeded |^some ", "", raw)
+    raw = re.sub(r"^(us\$|c\$|a\$|\$|\u20ac|\u00a3|\u00a5|\u20a9|krw|usd|cad)\s*", "", raw)
+    raw = re.sub(r"\s*(trillion|billion|million|thousand)$", "", raw)
+    raw = re.sub(r"^\((.*)\)$", r"\1", raw.strip())
     raw = raw.replace("'", "").replace("\u2019", "").rstrip("+")  # 5'003 (Swiss), 119+
     t = re.sub(r"\s", "", raw).rstrip("%")
     for k, f in FRACTIONS.items():
@@ -59,7 +65,7 @@ def readings(v):
     for cand in (t.replace(",", ""),                     # 1,234.5
                  t.replace(".", "").replace(",", ".")):  # 1.234,5
         try:
-            out.append(float(cand))
+            out.append(float(cand) * mult)
         except ValueError:
             pass
     return out
@@ -78,6 +84,8 @@ def half_unit(v, scale):
 
 def scale_of(s):
     s = (s or "").strip().lower()
+    if "hundred million" in s:
+        return 1e8
     words = {"trillion": 1e12, "triliun": 1e12, "billion": 1e9, "bilion": 1e9, "miliar": 1e9, "milliard": 1e9,
              "million": 1e6, "juta": 1e6, "thousand": 1e3, "ribu": 1e3}
     for k, v in words.items():
@@ -123,9 +131,10 @@ def import_results(folder):
         except json.JSONDecodeError:
             print(f"skipping {os.path.basename(f)}: not valid JSON (still being written?)", file=sys.stderr)
             continue
+        read_on = __import__("datetime").date.fromtimestamp(os.path.getmtime(f)).isoformat()
         for r in results:
             rows.append({"obs_id": id_map.get(r["row_id"], r["row_id"]), **{k: r.get(k, "") for k in FIELDS[1:9]},
-                         "reader": "claude-sonnet-5", "read_on": "2026-09-28", "round": rnd,
+                         "reader": "claude-sonnet-5", "read_on": read_on, "round": rnd,
                          "given_status": "yes" if told_status else "no"})
     with open(os.path.join(DATA, "second_read.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)

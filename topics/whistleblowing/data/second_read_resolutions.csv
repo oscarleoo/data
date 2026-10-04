@@ -1,0 +1,15 @@
+obs_id,source_id,verdict,note,checked_by,checked_on
+o-30c5857e52,usa-cftc-wb-ar-2015,first_correct,"The report records one award granted in FY2015 but not paid in the period; the indicator counts awards paid, so 0 is right. The second reader counted the award granted.",claude (page text),2026-10-04
+o-68598e1331,usa-cftc-wb-ar-2019,first_correct,"The report says the WBO ""received 117 whistleblower award claims on Form WB-APP""; 134 is the number of applications decided by final orders in the year.",claude (page text),2026-10-04
+o-d6089ec73e,usa-cftc-wb-ar-2021,first_correct,"The report says the WBO ""received 140 whistleblower award applications""; 74 is the number of applications decided by final orders in the year.",claude (page text),2026-10-04
+o-a6001e1c38,usa-cftc-wb-ar-2021,first_correct,"Same figure; the second reader wrote the scale into the value (""more than $3 million"") and set scale 1. The row notes say the figure is printed as a bound.",claude (readings),2026-10-04
+o-c031285543,usa-cftc-wb-ar-2022,first_correct,"Same figure; the second reader wrote the scale into the value (""more than $3 million"") and set scale 1. The row notes say the figure is printed as a bound.",claude (readings),2026-10-04
+o-c8df912084,usa-cftc-wb-ar-2022,first_correct,"Same figure; the second reader wrote the scale into the value (""more than $3 million"") and set scale 1. The row notes say the figure is printed as a bound.",claude (readings),2026-10-04
+o-80ae91d408,usa-cftc-wb-ar-2024,first_correct,"Same figure; the second reader wrote the scale into the value (""more than $3 million"") and set scale 1. The row notes say the figure is printed as a bound.",claude (readings),2026-10-04
+o-326e7bbf3d,usa-cftc-wb-ar-2024,first_correct,"Pie-chart slice the second reader's OCR could not read; checked on the rendered page (PDF p. 11): ""Self Reported to Other Agencies/States, 18%"".",claude (page image),2026-10-04
+o-cb157edf15,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
+o-9521ffc9cc,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
+o-200dca47db,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
+o-0e576cefd8,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
+o-aa4ede4b18,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
+o-5f8fe14456,usa-fincen-wb-nprm-2026,first_correct,Table 3 is an image the second reader's OCR could not read; checked on the rendered page (PDF p. 24) and matches.,claude (page image),2026-10-04
