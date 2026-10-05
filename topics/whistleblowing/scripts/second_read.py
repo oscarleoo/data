@@ -30,7 +30,7 @@ from collections import Counter
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(HERE, "data")
-SCALES = {"1": 1, "": 1, "thousand": 1e3, "million": 1e6, "hundred million": 1e8, "billion": 1e9, "trillion": 1e12}
+SCALES = {"1": 1, "": 1, "thousand": 1e3, "ten thousand": 1e4, "million": 1e6, "hundred million": 1e8, "billion": 1e9, "trillion": 1e12}
 FIELDS = ["obs_id", "value", "value_high", "scale", "column_label", "page_found", "verbatim",
           "confidence", "comment", "reader", "read_on", "round", "given_status"]
 
@@ -42,10 +42,35 @@ WORDS = {w: i for i, w in enumerate("zero one two three four five six seven eigh
                                      "thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
 
 
+KOREAN_UNITS = {"\uc870": 1e12, "\uc5b5": 1e8, "\ub9cc": 1e4, "\ucc9c": 1e3, "\ubc31": 1e2, "\uc2ed": 10}  # 조 억 만 천 백 십
+
+
+def korean_amount(raw):
+    """'17억 3,088만 원' -> 1,730,880,000; '22억 7천 5백여만 원' -> 2,275,000,000; None if no Korean units."""
+    s = re.sub(r"[\s,]|\uc6d0|\uc5ec|\uc57d|\ub4f1|\uac74|\uba85", "", raw)  # spaces, commas, 원 여 약 등 건 명
+    if not re.search("[\uc870\uc5b5\ub9cc\ucc9c\ubc31]", s):
+        return None
+    total, block = 0.0, 0.0
+    for num, unit in re.findall(r"([\d.]*)([\uc870\uc5b5\ub9cc\ucc9c\ubc31\uc2ed]?)", s):
+        if not num and not unit:
+            continue
+        u = KOREAN_UNITS.get(unit, 1)
+        if u >= 1e4:  # 조, 억, 만 close a block: (pending small units + this number) x unit
+            total += (block + (float(num) if num else 0) or 1) * u
+            block = 0.0
+        else:
+            block += (float(num) if num else 1) * u
+    return total + block
+
+
 def readings(v):
     """Every plausible number a printed value can mean: '4.264' is 4,264 in a Greek table,
     '496,8' is 496.8 in an EU regulation, '4\u00bd' is 4.5, '1.7%' is 1.7."""
     raw = str(v or "").strip().lower()
+    k = korean_amount(re.sub(r"^(\uc57d|nearly|about|over|more than)\s*", "", raw))
+    if k is not None:
+        return [k]
+    raw = re.sub(r"\s*(cases|persons|\uac74|\uba85)$", "", raw)
     if raw in WORDS:
         return [float(WORDS[raw])]
     if raw in ("-", "\u2013", "\u2014", "nil"):
@@ -84,8 +109,12 @@ def half_unit(v, scale):
 
 def scale_of(s):
     s = (s or "").strip().lower()
-    if "hundred million" in s:
+    if "hundred million" in s or "100 million" in s or "\uc5b5" in s:
         return 1e8
+    if "\ucc9c\ub9cc" in s or "10 million" in s:
+        return 1e7
+    if "ten thousand" in s:
+        return 1e4
     words = {"trillion": 1e12, "triliun": 1e12, "billion": 1e9, "bilion": 1e9, "miliar": 1e9, "milliard": 1e9,
              "million": 1e6, "juta": 1e6, "thousand": 1e3, "ribu": 1e3}
     for k, v in words.items():

@@ -25,7 +25,7 @@ REPORTS = os.path.join(HERE, "reports")
 STATUS = {"actual", "provisional", "estimate", "projection", "budget", "reported", "claim"}
 SOURCE_TYPES = {"government", "legislation", "imf", "world_bank", "eu", "court", "international_org",
                 "academic", "ngo", "media", "industry"}
-SCALES = {"1": 1, "thousand": 1e3, "million": 1e6, "hundred million": 1e8, "billion": 1e9, "trillion": 1e12}
+SCALES = {"1": 1, "thousand": 1e3, "ten thousand": 1e4, "million": 1e6, "hundred million": 1e8, "billion": 1e9, "trillion": 1e12}
 OUTTURN = {"actual", "provisional", "estimate", "reported", "claim"}
 KEEP_COPIES = {"government", "legislation", "imf", "world_bank", "eu", "court", "international_org"}
 

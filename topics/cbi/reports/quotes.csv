@@ -37,7 +37,7 @@ observations.csv,o-41c02923ca,,atg-ciu-6m-2021h2,government,found,ocr,"PDF p. 7,
 observations.csv,o-2dc49bab24,ok,atg-ciu-6m-2022h1,government,found,text,"PDF p. 8, Appendix II",Total Applications 229 100.00 3519 100.00
 observations.csv,o-b30963ebac,,atg-ciu-6m-2022h2,government,found,ocr,"PDF p. 8, Appendix II",Total Applications 260 100.00 3779 100.00
 observations.csv,o-2bb8fd1eea,ok,intl-ec-com-2024-571,eu,found,text,"PDF p. 45 (printed p. 44), table of Eastern Caribbean CBI data",685 (2023)
-observations.csv,o-53b00a2d25,ok,intl-ec-swd-2025-429,eu,found,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
+observations.csv,o-53b00a2d25,ok,intl-ec-swd-2025-429,eu,loose,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
 observations.csv,o-0916afce15,,atg-ciu-6m-2023h1,government,found,ocr,"PDF p. 7, Appendix II",Total Applications 242 100.00 4021 100.00
 observations.csv,o-ce25339a8c,,atg-ciu-6m-2023h2,government,found,ocr,"PDF p. 6 (printed p. 7), Appendix II",Total Applications 443 100 4464 100.00
 observations.csv,o-3dc33a4c6f,ok,intl-ec-swd-2025-429,eu,loose,text,"PDF p. 37, table (Eastern Caribbean), row ""Total applications received""",Total applications received: 1 733 (2024)
@@ -1547,7 +1547,7 @@ observations.csv,o-4eb1b363f1,,grd-mof-cbistats-2020q4,government,found,text,"p.
 observations.csv,o-9ff105efb5,,grd-mof-cbistats-2021q4,government,found,text,"p. 1, TOTAL column",1. Applications received 46 72 57 175 566
 observations.csv,o-82cb09dcb8,ok,intl-ec-com-2024-571,eu,found,text,"PDF p. 45 (printed p. 44), table of Eastern Caribbean CBI data",1 251 (2022)
 observations.csv,o-7212adaec5,ok,intl-ec-com-2024-571,eu,found,text,"PDF p. 45 (printed p. 44), table of Eastern Caribbean CBI data",2 297 (2023)
-observations.csv,o-91b8f35f6f,ok,intl-ec-swd-2025-429,eu,found,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
+observations.csv,o-91b8f35f6f,ok,intl-ec-swd-2025-429,eu,loose,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
 observations.csv,o-194d6003ae,,grd-ima-stats-2024q4,government,found,text,"p. 1, column 'Y-T-D' (Q4 2024 report)",1. Applications Received 32 26 36 94 420
 observations.csv,o-f36fbece00,ok,intl-ec-swd-2025-429,eu,loose,text,"PDF p. 37, table (Eastern Caribbean), row ""Total applications received""",Total applications received: 420 (2024)
 observations.csv,o-a4ad97e6fa,ok,intl-ec-com-2024-571,eu,found,text,"PDF p. 45 (printed p. 44), table of Eastern Caribbean CBI data",138 (2024 until 31/07)
@@ -2715,7 +2715,7 @@ observations.csv,o-2f45a2e192,ok,intl-ec-com-2024-571,eu,loose,text,"PDF p. 45 (
 observations.csv,o-566836e5b6,ok,intl-ec-swd-2025-429,eu,loose,text,"PDF p. 37, table (Eastern Caribbean), row ""Total applications received""",Total applications received: 19 655 (2015-2023)
 observations.csv,o-86af44865e,ok,kna-ec-swd-2025-429,eu,loose,text,"PDF pp. 36-37, section II 'Eastern Caribbean', table of data submitted by the five countries",19 655 (2015-2023)
 observations.csv,o-3c3b97067c,ok,intl-ec-com-2024-571,eu,found,text,"PDF p. 45 (printed p. 44), table of Eastern Caribbean CBI data",1 987 (2023)
-observations.csv,o-a113bceef4,ok,intl-ec-swd-2025-429,eu,found,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
+observations.csv,o-a113bceef4,ok,intl-ec-swd-2025-429,eu,loose,text,PDF p. 37,"In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024 and in Grenada from 2,297 to 420 applications. [...] Antigua and Barbuda recorded a notable increase, from 685 in 2023 to 1,733 in 2024."
 observations.csv,o-48d0545dfb,ok,kna-ec-swd-2025-429,eu,found,text,"PDF p. 37, text","In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024"
 observations.csv,o-edce2584ea,ok,intl-ec-swd-2025-429,eu,loose,text,"PDF p. 37, table (Eastern Caribbean), row ""Total applications received""",Total applications received: 223 (2024)
 observations.csv,o-fbb2307db2,ok,kna-ec-swd-2025-429,eu,found,text,"PDF p. 37, text and table","In Saint Kitts and Nevis, the volume of applications went from 1,987 in 2023 to 223 in 2024"
@@ -6941,8 +6941,8 @@ program_terms.csv,t-9ffb5c876a,,lva-likumi-immigration-law-2014-01,legislation,f
 program_terms.csv,t-4bc9eb05bf,,lva-likumi-immigration-law-2014-01,legislation,found,text,Art. 23(1) p. 28(b),"b) 150 000 euro un tas veikts kapitālsabiedrībā, kura nodarbina vairāk nekā 50 darbinieku"
 program_terms.csv,t-f43cf76028,,lva-likumi-immigration-law-2016-07,legislation,found,text,Art. 23(1) p. 28(a),"a) 50 000 euro un tas veikts kapitālsabiedrībā, kura nodarbina ne vairāk kā 50 darbinieku"
 program_terms.csv,t-9049cd1f57,,lva-likumi-immigration-law-2016-07,legislation,found,text,Art. 23(1) p. 28(b)-(c),"b) 100 000 euro un tas veikts kapitālsabiedrībā, kura nodarbina vairāk nekā 50 darbinieku"
-program_terms.csv,t-3d03cd7af5,,lva-likumi-immigration-law-new-2026,legislation,loose,text,"New Immigration Law, art. 27(1) p. 10(a)","a) 50 000 euro, un tas veikts kapitālsabiedrībā, kura nodarbina ne vairāk kā 50 darbinieku"
-program_terms.csv,t-bb24899d82,,lva-likumi-immigration-law-new-2026,legislation,loose,text,"New Immigration Law, art. 27(1) p. 10(b)","b) 100 000 euro, un tas veikts kapitālsabiedrībā, kura atsevišķi vai kopā ar vienu vai vairākiem meitas komersantiem"
+program_terms.csv,t-3d03cd7af5,,lva-likumi-immigration-law-new-2026,legislation,found,text,"New Immigration Law, art. 27(1) p. 10(a)","a) 50 000 euro, un tas veikts kapitālsabiedrībā, kura nodarbina ne vairāk kā 50 darbinieku"
+program_terms.csv,t-bb24899d82,,lva-likumi-immigration-law-new-2026,legislation,found,text,"New Immigration Law, art. 27(1) p. 10(b)","b) 100 000 euro, un tas veikts kapitālsabiedrībā, kura atsevišķi vai kopā ar vienu vai vairākiem meitas komersantiem"
 program_terms.csv,t-fa98701571,,lva-likumi-immigration-law-2010-07,legislation,found,text,Art. 23(1) p. 30,ne mazāk kā 200 000 latu apmērā kredītiestādes subordinētā kapitāla (subordinētā aizdevuma vai subordinēto obligāciju) veidā
 program_terms.csv,t-8d8e9d8bbe,,lva-likumi-immigration-law-2014-01,legislation,found,text,Art. 23(1) p. 30,pakārtotās saistības ar Latvijas Republikas kredītiestādi ne mazāk kā 280 000 euro apmērā
 program_terms.csv,t-2cd2f2a778,,lva-likumi-immigration-law-new-2026,legislation,found,text,"New Immigration Law, art. 27(1) p. 36",vismaz 150 000 euro investīcijas veikšanu ne mazāk par pieciem gadiem valsts izveidotā alternatīvo ieguldījumu fonda pārvaldniekā
@@ -6953,7 +6953,7 @@ program_terms.csv,t-f7b19ee660,,lva-likumi-immigration-law-2011-06,legislation,f
 program_terms.csv,t-7ac3d3c7e4,,lva-likumi-immigration-law-2014-01,legislation,found,text,Art. 23(1) p. 29,kuru kopējā vērtība ir ne mazāka par 142 300 euro
 program_terms.csv,t-1f4db46dc7,,lva-likumi-immigration-law-2014-01,legislation,found,text,Art. 23(1) p. 29,"viens vai vairāki nekustamie īpašumi, kuru kopējā vērtība ir ne mazāka par 71 150 euro"
 program_terms.csv,t-7b2b88a5b8,,lva-likumi-immigration-law-2014-09,legislation,found,text,Art. 23(1) p. 29,"viens funkcionāli saistīts apbūvēts nekustamais īpašums, kura vērtība ir ne mazāka par 250 000 euro"
-program_terms.csv,t-c47b8a264c,,lva-likumi-immigration-law-2016-07,legislation,loose,text,Art. 23(1) p. 29,"kura vērtība ir vismaz 250 000 euro, vai ārpus minētajām administratīvajām teritorijām — ne vairāk kā divi nekustamie īpašumi"
+program_terms.csv,t-c47b8a264c,,lva-likumi-immigration-law-2016-07,legislation,found,text,Art. 23(1) p. 29,"kura vērtība ir vismaz 250 000 euro, vai ārpus minētajām administratīvajām teritorijām — ne vairāk kā divi nekustamie īpašumi"
 program_terms.csv,t-f2b78e376d,,lva-likumi-immigration-law-2015-01,legislation,found,text,Art. 23(1) p. 31,un samaksā valsts budžetā 25 000 euro
 program_terms.csv,t-727d99e9ee,,lva-likumi-immigration-law-2017-03,legislation,found,text,Art. 23(1) p. 31,un samaksā valsts budžetā 38 000 euro
 program_terms.csv,t-1d70af9e4d,,lva-likumi-immigration-law-2016-07,legislation,found,text,Art. 23(1) p. 28,un ir samaksājis valsts budžetā 10 000 euro
@@ -7756,7 +7756,7 @@ events.csv,e-16ab5c333a,,pan-go-de197-2021,legislation,found,ocr,"p. 2, art. 2",
 events.csv,e-df580f88ad,,bgr-ustreasury-jy0208-2021,government,found,text,section on Peevski,"as of early 2018, these two government officials ran a scheme to sell Bulgarian residency documents"
 events.csv,e-e97c21ee0e,p. 1,cyp-inquiry-cip-2021,government,found,text,PDF p. 754-755 (printed p. 752-753),"Λευκωσία, 07 Ιουνίου 2021"
 events.csv,e-e90a81f27b,,cyp-ec-inf-21-2743,eu,found,text,Cyprus section,today the Commission decided to take the next step in the procedure against Cyprus by issuing a reasoned opinion
-events.csv,e-a4e924f082,,mlt-ec-ip-22-5422,eu,loose,text,paragraph 2,"The Commission sent an additional letter of formal notice to Malta on 9 June 2021, following the introduction of a new scheme at the end of 2020."
+events.csv,e-a4e924f082,,mlt-ec-ip-22-5422,eu,found,text,paragraph 2,"The Commission sent an additional letter of formal notice to Malta on 9 June 2021, following the introduction of a new scheme at the end of 2020."
 events.csv,e-1aad678ee1,,usa-court-behring-ndcal-2021,court,loose,text,"p. 16-17, Conclusion",The Final Rule is VACATED and the matter is REMANDED to the Agency for further action.
 events.csv,e-04f13d7358,,usa-doj-edla-nola-rc-2021,government,found,text,"press release, 4th paragraph",A total of 31 immigrants invested a total of $15.5 million in the defendants’ investment fund.
 events.csv,e-2eb406bc82,ok,usa-fr-eb5-integrity-nprm-2026,government,found,text,PDF p. 12 (91 FR 40687),"Congress continuously extended the program, often through short-term extensions, until the last extension expired on June 30, 2021."
@@ -7811,7 +7811,7 @@ events.csv,e-c9b85d17ec,ok,intl-ec-rec-c-2022-2028,eu,found,text,"PDF p. 8 (Comm
 events.csv,e-2e8388dcf9,,bgr-lex-zbg-2026,legislation,found,text,"transitional provisions, § 7",§ 7. Неприключените до влизането в сила на този закон производства по отменените чл. 12а и 14а се прекратяват.
 events.csv,e-f712bb2312,,jor-moin-bases-2023,government,checked,text,PDF p. 19,لكل مستثمر يعمل على تشغيل (150) مواطن أردني في محافظة العاصمة أو (100) مواطن اردني في باقي محافظات المملكة
 events.csv,e-f225a3927a,,irl-oir-wa-2022-04-06,government,found,text,"Written answer 6 Apr 2022, Q183-184",I have recently instructed that no further applications from Russian citizens will be accepted into the Immigrant Investor Programme (IIP)
-events.csv,e-ee2198689a,,mlt-ec-ip-22-5422,eu,loose,text,paragraph 4,"On 6 April 2022, the Commission sent a reasoned opinion to Malta."
+events.csv,e-ee2198689a,,mlt-ec-ip-22-5422,eu,found,text,paragraph 4,"On 6 April 2022, the Commission sent a reasoned opinion to Malta."
 events.csv,e-301073abbe,,esp-congreso-resp-184-81047-2022,government,found,text,p. 1,En la actualidad no se están expidiendo visados amparados en la Ley 14/2013
 events.csv,e-4d0f776c07,,are-wam-exec-regs-2022,government,found,text,"paras ""Golden Residence"" and ""Golden Residence for Real Estate Investors""",Substantial amendments are introduced to the Golden Residence Scheme to simplify the eligibility criteria and expand the categories of beneficiaries.
 events.csv,e-e3a513b39c,,gbr-ho-pq153990-2022,government,found,text,answer text,a total of 10 sanctioned Russian nationals have previously held at least one grant of Tier 1 (investor) leave
@@ -7850,7 +7850,7 @@ events.csv,e-1d32612313,,lca-cbi-regs-2022b,legislation,found,text,p. 2-4,"These
 events.csv,e-b3adb65e30,,gbr-ho-hcws492-2023,government,found,text,"statement text, paras 4-5",we have already sanctioned 10 oligarchs who had previously used this route
 events.csv,e-861fd599ee,,mne-vijesti-2026-06-20,media,no_copy,,para 8,"pa je 32.999.849 eura 13. januara 2023. godine, prenijeto na Centralni račun državnog trezora"
 events.csv,e-5e3bf8c19c,ok,grd-imf-art4-2023,imf,found,text,"PDF p. 12, footnote 5","In February 2023, the U.S. passed legislation that requires people who earned Grenada citizenship through the CBI program to live in Grenada for three years before being eligible to apply for access to the U.S. through the E-2 investment visa."
-events.csv,e-9d181769e0,,intl-eccb-us-roundtable-2024,international_org,found,text,Release text,the Six CBI Principles agreed to by Caribbean Heads of Government in February 2023. [...] The first was held in St. Kitts and Nevis in February 2023
+events.csv,e-9d181769e0,,intl-eccb-us-roundtable-2024,international_org,loose,text,Release text,the Six CBI Principles agreed to by Caribbean Heads of Government in February 2023. [...] The first was held in St. Kitts and Nevis in February 2023
 events.csv,e-11c53d34e1,,kna-sknis-pm-cbi-speech-2024-10-17,government,found,text,"speech, reform timeline","In February 2023, our Federation hosted the Historic US-Caribbean Roundtable on CBIs at the Park Hyatt."
 events.csv,e-0f3a8f14d3,,irl-doj-closure-pr-2023,government,found,text,"Press release, para 1","The Minister for Justice Simon Harris has today obtained approval from Government to close the Immigrant Investor Programme (IIP) to further applications from close of business tomorrow, 15 February 2023."
 events.csv,e-3c4c8bfc5c,,irl-isd-closure-faq-2023,government,found,text,FAQ Q1,"In recent years serious concerns have been expressed about immigrant investment programmes generally by The EU Commission, Council of Europe and OECD"
@@ -8085,7 +8085,7 @@ events.csv,e-dc94b40825,,arg-bora-dec-285-2026,legislation,found,text,Art. 1,con
 events.csv,e-935a141a61,ok,atg-imf-art4-2026,imf,found,text,"PDF p. 16, para 25",an agreement establishing an independent regulator for the industry has been enacted into law in Antigua and Barbuda
 events.csv,e-809a44287d,,cym-imm-trans-amend-act-2025,legislation,found,text,"p. 27, s. 17(a)","for a Certificate of Permanent Residence for Persons of Independent Means, which if granted will be for a period of ten years"
 events.csv,e-cb60e3188e,ok,prt-lo-1-2026,legislation,found,text,PDF p. 2,"ou 10 anos, no caso de nacionais de outros países"
-events.csv,e-31e61a7a38,,lva-likumi-immigration-law-2026-05,legislation,loose,text,Art. 23(1) p. 31,31) (izslēgts ar 23.04.2026. likumu);
+events.csv,e-31e61a7a38,,lva-likumi-immigration-law-2026-05,legislation,found,text,Art. 23(1) p. 31,31) (izslēgts ar 23.04.2026. likumu);
 events.csv,e-6af7d27ff2,,tur-kronos-2026-08-08,media,no_copy,,section '174 bin kişiye yatırım karşılığı vatandaşlık',toplam 174 bin 567 kişi bu kapsamda Türk vatandaşlığı kazanmıştır
 events.csv,e-5c3bf1ad16,,mkd-dw-golden-passports-2026,media,no_copy,,section 'Што се менува за странските инвеститори?',Со законските измени се укинуваат фиксните парични износи за стекнување државјанство
 events.csv,e-e89d35035d,ok,nru-cabinet-iruwa-ext-2026,legislation,found,text,PDF p. 1,extends the duration of the Special Project for the ‘The Iruwa Initiative’ to 31 December 2026

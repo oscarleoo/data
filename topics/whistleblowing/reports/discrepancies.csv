@@ -1,4 +1,64 @@
 jurisdiction,program_id,indicator,period,unit,value,scale,normalised_value,status,source_id,publisher,published_date,spread_percent,kind,obs_id
+GBR,gbr-hmrc-informants,awards_paid_amount,2023/24,GBP,978256,1,978256.0,reported,gbr-fisher-review-fraud-digital-age-2026,Home Office,2026-07-14,1.1,conflict,o-f85e621b76
+GBR,gbr-hmrc-informants,awards_paid_amount,2023/24,GBP,978256,1,978256.0,reported,gbr-wnn-hmrc-2025,Whistleblower Network News,2025-11-21,1.1,conflict,o-bf25233c3c
+GBR,gbr-hmrc-informants,awards_paid_amount,2023/24,GBP,989256,1,989256.0,actual,gbr-hmrc-ar-2023-24,HM Revenue & Customs,2024-07,1.1,conflict,o-cf632033e1
+GBR,gbr-hmrc-informants,tips_received,2023/24,tips,151763,1,151763.0,reported,gbr-wnn-hmrc-2025,Whistleblower Network News,2025-11-21,0.2,conflict,o-2c7b426669
+GBR,gbr-hmrc-informants,tips_received,2023/24,tips,152000,1,152000.0,actual,gbr-hmrc-ar-2023-24,HM Revenue & Customs,2024-07,0.2,conflict,o-a64078e46f
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2002-2010,KRW,1.93,billion,1930000000.0,actual,kor-acrc-ar-2010,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2011,18.8,same_source,o-681319faf2
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2002-2010,KRW,2377609000,1,2377609000.0,actual,kor-acrc-ar-2010,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2011,18.8,same_source,o-fa6e5a33f9
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2016,KRW,227500,ten thousand,2275000000.0,provisional,kor-acrc-pr-2016-12-08,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2016-12-08,0.0,revision,o-dcffbcb870
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2016,KRW,2275033,thousand,2275033000.0,actual,kor-acrc-ar-2016,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2017-05,0.0,revision,o-04637f9926
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2016,KRW,2275033,thousand,2275033000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,0.0,revision,o-9104b15434
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2016,KRW,2275033,thousand,2275033000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.0,revision,o-950eecaadd
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2020,KRW,3835687,thousand,3835687000.0,actual,kor-acrc-pr-2021-01-28,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2021-01-28,0.2,revision,o-73064e9c92
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2020,KRW,3842099,thousand,3842099000.0,actual,kor-acrc-ar-2020,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2021-07,0.2,revision,o-3e888d72ad
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2020,KRW,3842099,thousand,3842099000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,0.2,revision,o-2a82de61e3
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2020,KRW,3842099,thousand,3842099000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.2,revision,o-ce467d9e6e
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2021,KRW,3397868,thousand,3397868000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,4.3,revision,o-58098d446a
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2021,KRW,3397868,thousand,3397868000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,4.3,revision,o-0e1e7d6b5d
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2021,KRW,3549132,thousand,3549132000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,4.3,revision,o-818597db12
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2022,KRW,2863390,thousand,2863390000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,13.1,revision,o-907bb969f2
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2022,KRW,2863390,thousand,2863390000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,13.1,revision,o-cff73b8823
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2022,KRW,3296664,thousand,3296664000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,13.1,revision,o-39764163e9
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2023,KRW,4055806,thousand,4055806000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.7,revision,o-fef0ae1768
+KOR,kor-acrc-rewards,awards_paid_amount [category=corruption],2023,KRW,4085784,thousand,4085784000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.7,revision,o-c7bcb0a916
+KOR,kor-acrc-rewards,awards_paid_amount [category=public_interest],2023,KRW,783812,thousand,783812000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,3.7,revision,o-915c5c5f23
+KOR,kor-acrc-rewards,awards_paid_amount [category=public_interest],2023,KRW,813790,thousand,813790000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,3.7,revision,o-ae01925300
+KOR,kor-acrc-rewards,awards_paid_amount [category=public_interest],2023,KRW,81379,ten thousand,813790000.0,provisional,kor-acrc-pr-2023-12-26,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-12-26,3.7,revision,o-7018b118db
+KOR,kor-acrc-rewards,awards_paid_amount [item=rewards_and_awards],2017-05/2022-04,KRW,241,hundred million,24100000000.0,actual,kor-acrc-pr-2022-05-09,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2022-05-09,28.1,revision,o-3eda61e6d2
+KOR,kor-acrc-rewards,awards_paid_amount [item=rewards_and_awards],2017-05/2022-04,KRW,335,hundred million,33500000000.0,actual,kor-acrc-pr-2022-05-02,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2022-05-02,28.1,revision,o-2ee55ca410
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2020,cases,237,1,237.0,actual,kor-acrc-pr-2021-01-28,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2021-01-28,0.4,revision,o-5563d70c52
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2020,cases,238,1,238.0,actual,kor-acrc-ar-2020,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2021-07,0.4,revision,o-bf756e68dc
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2020,cases,238,1,238.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,0.4,revision,o-5dd09a13cb
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2020,cases,238,1,238.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.4,revision,o-cdbeb312ff
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2021,cases,485,1,485.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,1.0,revision,o-c41557dda6
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2021,cases,485,1,485.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,1.0,revision,o-5a99c87224
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2021,cases,490,1,490.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,1.0,revision,o-476a671918
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2022,cases,480,1,480.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,2.2,revision,o-65808e4c50
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2022,cases,480,1,480.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,2.2,revision,o-e0d6dc8b59
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2022,cases,491,1,491.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,2.2,revision,o-2d6b4a178a
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2023,cases,601,1,601.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.2,revision,o-2191b23497
+KOR,kor-acrc-rewards,awards_paid_count [category=corruption],2023,cases,602,1,602.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.2,revision,o-30ccb1203e
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2021,cases,138,1,138.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,53.5,revision,o-711a734511
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2021,cases,138,1,138.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,53.5,revision,o-1404b1fbae
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2021,cases,297,1,297.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,53.5,revision,o-e9375e9676
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2022,cases,99,1,99.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,62.1,revision,o-a15f159142
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2022,cases,99,1,99.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,62.1,revision,o-13792bee88
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2022,cases,261,1,261.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,62.1,revision,o-20e90e97ba
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2023,cases,44,1,44.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,2.2,revision,o-1be96f216d
+KOR,kor-acrc-rewards,awards_paid_count [category=public_interest],2023,cases,45,1,45.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,2.2,revision,o-c7a1b30787
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2012,KRW,11131730,thousand,11131730000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,0.0,revision,o-17b3482204
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2012,KRW,11131731,thousand,11131731000.0,actual,kor-acrc-ar-2016,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2017-05,0.0,revision,o-d6e7798870
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2021,KRW,40862696,thousand,40862696000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,1.5,revision,o-6f73cd3727
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2021,KRW,40862696,thousand,40862696000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,1.5,revision,o-4873be6413
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2021,KRW,41472921,thousand,41472921000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,1.5,revision,o-4fb3c6aeeb
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2022,KRW,17922028,thousand,17922028000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,9.8,revision,o-08a82c77b5
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2022,KRW,17922028,thousand,17922028000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,9.8,revision,o-3cb50d2c29
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2022,KRW,19875951,thousand,19875951000.0,actual,kor-acrc-ar-2022,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2023-07,9.8,revision,o-b3a8fd45eb
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2023,KRW,40482944,thousand,40482944000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.2,revision,o-3c71ee5649
+KOR,kor-acrc-rewards,collections_attributable [category=corruption],2023,KRW,40582871,thousand,40582871000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.2,revision,o-189efd9412
+KOR,kor-acrc-rewards,collections_attributable [category=public_interest],2023,KRW,14980114,thousand,14980114000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.7,revision,o-d4949a5369
+KOR,kor-acrc-rewards,collections_attributable [category=public_interest],2023,KRW,15080041,thousand,15080041000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.7,revision,o-efc9e4b155
 USA,usa-cftc-wb,awards_paid_amount,FY2018,USD,75,million,75000000.0,actual,usa-cftc-wb-ar-2018,U.S. Commodity Futures Trading Commission,2018-10,0.8,same_source,o-e7c8f2d805
 USA,usa-cftc-wb,awards_paid_amount,FY2018,USD,75575113,1,75575113.0,actual,usa-cftc-wb-ar-2018,U.S. Commodity Futures Trading Commission,2018-10,0.8,same_source,o-e9cfb58e00
 USA,usa-cftc-wb,awards_paid_amount,FY2019,USD,4601490,1,4601490.0,actual,usa-cftc-wb-ar-2019,U.S. Commodity Futures Trading Commission,2019-10,69.3,same_source,o-e641531b0b
@@ -28,6 +88,10 @@ USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened [agency=HHS],FY2024,cases,85,
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened [agency=HHS],FY2024,cases,87,1,87.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,2.3,revision,o-b2b5e32391
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened [agency=other],FY2022,cases,178,1,178.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.6,revision,o-0ad6ca34a9
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened [agency=other],FY2022,cases,179,1,179.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.6,revision,o-3ea5fd488d
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,31,1,31.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.1,conflict,o-5c8f3f2397
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,33,1,33.0,actual,usa-doj-fca-pr-fy1998,"U.S. Department of Justice, Office of Public Affairs",1998-10-23,6.1,conflict,o-fd6680dcd4
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1997,cases,534,1,534.0,actual,usa-doj-fca-pr-fy1998,"U.S. Department of Justice, Office of Public Affairs",1998-10-23,2.6,conflict,o-4fbd350a5f
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1997,cases,548,1,548.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,2.6,conflict,o-9d099ab488
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2011,cases,634,1,634.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.6,conflict,o-f36a48165d
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2011,cases,638,1,638.0,actual,usa-doj-fca-pr-fy2011,"U.S. Department of Justice, Office of Public Affairs",2011-12-19,0.6,conflict,o-4125d9b834
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2012,cases,647,1,647.0,actual,usa-doj-fca-pr-fy2012,"U.S. Department of Justice, Office of Public Affairs",2012-12-04,1.2,conflict,o-8f6a512df9
@@ -94,6 +158,8 @@ USA,usa-fca-qui-tam,qui_tam_suits_filed [agency=other],FY2022,cases,247,1,247.0,
 USA,usa-fca-qui-tam,qui_tam_suits_filed [agency=other],FY2022,cases,248,1,248.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.4,revision,o-724d22b833
 USA,usa-fca-qui-tam,qui_tam_suits_filed [agency=other],FY2024,cases,575,1,575.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.3,revision,o-2d825297c1
 USA,usa-fca-qui-tam,qui_tam_suits_filed [agency=other],FY2024,cases,577,1,577.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.3,revision,o-e314d3d56e
+USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases,FY2006,USD,1712459257,1,1712459257.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,4.9,conflict,o-4beec1a528
+USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases,FY2006,USD,1.8,billion,1800000000.0,actual,usa-doj-fca-pr-fy2006,"U.S. Department of Justice, Office of Public Affairs",2006-11-21,4.9,conflict,o-3c83b8b179
 USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases,FY2010,USD,644090368,1,644090368.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.8,revision,o-ff6157af92
 USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases,FY2010,USD,649300368,1,649300368.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.8,revision,o-0ee574c5ad
 USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases,FY2016,USD,1929502680,1,1929502680.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.0,revision,o-d5a816f6de
@@ -141,12 +207,27 @@ USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases [agency=other],FY2024,USD
 USA,usa-fca-qui-tam,recoveries_non_whistleblower_cases [agency=other],FY2024,USD,270672015,1,270672015.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-819c487e59
 USA,usa-fca-qui-tam,recoveries_total,FY1987-FY2025,USD,85,billion,85000000000.0,actual,usa-doj-fca-pr-fy2025,"U.S. Department of Justice, Office of Public Affairs",2026-01-16,0.8,conflict,o-8d21a70e4f
 USA,usa-fca-qui-tam,recoveries_total,FY1987-FY2025,USD,85652583093,1,85652583093.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.8,conflict,o-b89a6f4135
-USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1976800693,1,1976800693.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.0,revision,o-4fd451704a
-USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1976800693,1,1976800693.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.0,revision,o-1533ccfdd0
-USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1977690693,1,1977690693.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.0,revision,o-de579a0b7f
-USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1428790932,1,1428790932.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,revision,o-3e46ddcaab
-USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1428790932,1,1428790932.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,revision,o-7849f68349
-USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1430160932,1,1430160932.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-a3acbea05d
+USA,usa-fca-qui-tam,recoveries_total,FY2000,USD,1.5,billion,1500000000.0,actual,usa-doj-fca-pr-fy2000,"U.S. Department of Justice, Office of Public Affairs",2000-11-02,4.9,conflict,o-1a12bace91
+USA,usa-fca-qui-tam,recoveries_total,FY2000,USD,1577946841,1,1577946841.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,4.9,conflict,o-c443b3eb7b
+USA,usa-fca-qui-tam,recoveries_total,FY2001,USD,1.6,billion,1600000000.0,actual,usa-doj-fca-pr-fy2001,"U.S. Department of Justice, Office of Public Affairs",2001-11-14,13.0,conflict,o-6c9e083b58
+USA,usa-fca-qui-tam,recoveries_total,FY2001,USD,1838610042,1,1838610042.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,13.0,conflict,o-b682a43e2c
+USA,usa-fca-qui-tam,recoveries_total,FY2002,USD,1.1,billion,1100000000.0,actual,usa-doj-fca-pr-fy2003,"U.S. Department of Justice, Office of Public Affairs",2003-11-10,10.1,conflict,o-e0f11f0df8
+USA,usa-fca-qui-tam,recoveries_total,FY2002,USD,1223558454,1,1223558454.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,10.1,conflict,o-b0805e5e9b
+USA,usa-fca-qui-tam,recoveries_total,FY2003,USD,2.1,billion,2100000000.0,actual,usa-doj-fca-pr-fy2003,"U.S. Department of Justice, Office of Public Affairs",2003-11-10,6.7,conflict,o-24f53d5f57
+USA,usa-fca-qui-tam,recoveries_total,FY2003,USD,2.2,billion,2200000000.0,actual,usa-doj-fca-pr-fy2006,"U.S. Department of Justice, Office of Public Affairs",2006-11-21,6.7,conflict,o-2afdb3c391
+USA,usa-fca-qui-tam,recoveries_total,FY2003,USD,2251146563,1,2251146563.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.7,conflict,o-22da616f29
+USA,usa-fca-qui-tam,recoveries_total,FY2006,USD,3.1,billion,3100000000.0,actual,usa-doj-fca-pr-fy2006,"U.S. Department of Justice, Office of Public Affairs",2006-11-21,3.9,conflict,o-4af056b3b0
+USA,usa-fca-qui-tam,recoveries_total,FY2006,USD,3226276119,1,3226276119.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,3.9,conflict,o-98cda9e04c
+USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1976800693,1,1976800693.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,1.2,conflict,o-4fd451704a
+USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1976800693,1,1976800693.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,1.2,conflict,o-1533ccfdd0
+USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,1977690693,1,1977690693.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,1.2,conflict,o-de579a0b7f
+USA,usa-fca-qui-tam,recoveries_total,FY2007,USD,2,billion,2000000000.0,actual,usa-doj-fca-pr-fy2007,"U.S. Department of Justice, Office of Public Affairs",2007-11-01,1.2,conflict,o-e4c4c3fa0a
+USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1.34,billion,1340000000.0,actual,usa-doj-fca-pr-fy2008,"U.S. Department of Justice, Office of Public Affairs",2008-11-10,6.3,conflict,o-92c58543fe
+USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1428790932,1,1428790932.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,6.3,conflict,o-3e46ddcaab
+USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1428790932,1,1428790932.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,6.3,conflict,o-7849f68349
+USA,usa-fca-qui-tam,recoveries_total,FY2008,USD,1430160932,1,1430160932.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.3,conflict,o-a3acbea05d
+USA,usa-fca-qui-tam,recoveries_total,FY2009,USD,2.4,billion,2400000000.0,actual,usa-doj-fca-pr-fy2009,"U.S. Department of Justice, Office of Public Affairs",2009-11-19,2.8,conflict,o-83c8c29bb3
+USA,usa-fca-qui-tam,recoveries_total,FY2009,USD,2468467417,1,2468467417.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,2.8,conflict,o-d418939f2f
 USA,usa-fca-qui-tam,recoveries_total,FY2012,USD,4.9,billion,4900000000.0,actual,usa-doj-fca-pr-fy2012,"U.S. Department of Justice, Office of Public Affairs",2012-12-04,3.6,conflict,o-f6ee704e3c
 USA,usa-fca-qui-tam,recoveries_total,FY2012,USD,5077956374,1,5077956374.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,3.6,conflict,o-b670413051
 USA,usa-fca-qui-tam,recoveries_total,FY2012,USD,5079456374,1,5079456374.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,3.6,conflict,o-d9eeb67e8e
@@ -238,9 +319,18 @@ USA,usa-fca-qui-tam,recoveries_total [agency=other],FY2023,USD,370194268,1,37019
 USA,usa-fca-qui-tam,recoveries_total [agency=other],FY2023,USD,370594268,1,370594268.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-5014be5ce0
 USA,usa-fca-qui-tam,recoveries_total [agency=other],FY2024,USD,1151501969,1,1151501969.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,6.3,revision,o-8677c0b354
 USA,usa-fca-qui-tam,recoveries_total [agency=other],FY2024,USD,1228417209,1,1228417209.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.3,revision,o-ff2f06d59b
-USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1411973849,1,1411973849.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,revision,o-799b5afbcc
-USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1411973849,1,1411973849.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,revision,o-efa42797a1
-USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1412863849,1,1412863849.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-cc9b2f841b
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2001,USD,1.2,billion,1200000000.0,actual,usa-doj-fca-pr-fy2001,"U.S. Department of Justice, Office of Public Affairs",2001-11-14,10.7,conflict,o-2e623aba82
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2001,USD,1344113067,1,1344113067.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,10.7,conflict,o-a7f0e70872
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2003,USD,1.48,billion,1480000000.0,actual,usa-doj-fca-pr-fy2003,"U.S. Department of Justice, Office of Public Affairs",2003-11-10,3.9,conflict,o-1c629e9a92
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2003,USD,1540048263,1,1540048263.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,3.9,conflict,o-920566800d
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2005,USD,1.1,billion,1100000000.0,actual,usa-doj-fca-pr-fy2005,"U.S. Department of Justice, Office of Public Affairs",2005-11-07,4.9,conflict,o-3005afdc85
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2005,USD,1156529117,1,1156529117.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,4.9,conflict,o-e1fc3d94f0
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2006,USD,1.3,billion,1300000000.0,actual,usa-doj-fca-pr-fy2006,"U.S. Department of Justice, Office of Public Affairs",2006-11-21,14.1,conflict,o-53b5340b18
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2006,USD,1513816862,1,1513816862.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,14.1,conflict,o-2b3400bd0c
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1411973849,1,1411973849.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,2.6,conflict,o-799b5afbcc
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1411973849,1,1411973849.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,2.6,conflict,o-efa42797a1
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1412863849,1,1412863849.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,2.6,conflict,o-cc9b2f841b
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2007,USD,1.45,billion,1450000000.0,actual,usa-doj-fca-pr-fy2007,"U.S. Department of Justice, Office of Public Affairs",2007-11-01,2.6,conflict,o-c5cd301ed3
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2008,USD,1116597452,1,1116597452.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,revision,o-1868dbae06
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2008,USD,1116597452,1,1116597452.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,revision,o-96d68419e3
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2008,USD,1117967452,1,1117967452.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-f2bd4b00dd
@@ -420,12 +510,26 @@ USA,usa-fca-qui-tam,recoveries_whistleblower_cases [intervention=intervened],FY2
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases [intervention=intervened],FY2023,USD,2029079863,1,2029079863.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.8,revision,o-4c9242e4a9
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases [intervention=intervened],FY2024,USD,2199885934,1,2199885934.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,5.1,revision,o-e5a9dee14c
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases [intervention=intervened],FY2024,USD,2317992077,1,2317992077.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,5.1,revision,o-eaf871543c
-USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199080111,1,199080111.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,revision,o-ecb3fb1dca
-USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199080111,1,199080111.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,revision,o-836e608c6c
-USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199258111,1,199258111.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-e36ba8b946
-USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211430202,1,211430202.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,revision,o-482a30e35f
-USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211430202,1,211430202.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,revision,o-6e1ec1c246
-USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211683652,1,211683652.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,revision,o-e289cce765
+USA,usa-fca-qui-tam,relator_share_awards,FY2000,USD,173,million,173000000.0,actual,usa-doj-fca-pr-fy2000,"U.S. Department of Justice, Office of Public Affairs",2000-11-02,6.0,conflict,o-11f3bd18c9
+USA,usa-fca-qui-tam,relator_share_awards,FY2000,USD,184054520,1,184054520.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.0,conflict,o-2c96e32561
+USA,usa-fca-qui-tam,relator_share_awards,FY2001,USD,210,million,210000000.0,actual,usa-doj-fca-pr-fy2001,"U.S. Department of Justice, Office of Public Affairs",2001-11-14,3.8,conflict,o-a3cc190083
+USA,usa-fca-qui-tam,relator_share_awards,FY2001,USD,218292350,1,218292350.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,3.8,conflict,o-73a0a2eb4d
+USA,usa-fca-qui-tam,relator_share_awards,FY2003,USD,319,million,319000000.0,actual,usa-doj-fca-pr-fy2003,"U.S. Department of Justice, Office of Public Affairs",2003-11-10,5.8,conflict,o-08af371469
+USA,usa-fca-qui-tam,relator_share_awards,FY2003,USD,338690598,1,338690598.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,5.8,conflict,o-b0afe945f5
+USA,usa-fca-qui-tam,relator_share_awards,FY2005,USD,166,million,166000000.0,actual,usa-doj-fca-pr-fy2005,"U.S. Department of Justice, Office of Public Affairs",2005-11-07,2.7,conflict,o-cce2643fab
+USA,usa-fca-qui-tam,relator_share_awards,FY2005,USD,170612237,1,170612237.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,2.7,conflict,o-ba9455bd5c
+USA,usa-fca-qui-tam,relator_share_awards,FY2006,USD,190,million,190000000.0,actual,usa-doj-fca-pr-fy2006,"U.S. Department of Justice, Office of Public Affairs",2006-11-21,15.8,conflict,o-ed6ac9ee70
+USA,usa-fca-qui-tam,relator_share_awards,FY2006,USD,225623908,1,225623908.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,15.8,conflict,o-4eb526af7d
+USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,177,million,177000000.0,actual,usa-doj-fca-pr-fy2007,"U.S. Department of Justice, Office of Public Affairs",2007-11-01,11.2,conflict,o-f0f89d449a
+USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199080111,1,199080111.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,11.2,conflict,o-ecb3fb1dca
+USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199080111,1,199080111.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,11.2,conflict,o-836e608c6c
+USA,usa-fca-qui-tam,relator_share_awards,FY2007,USD,199258111,1,199258111.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,11.2,conflict,o-e36ba8b946
+USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,198,million,198000000.0,actual,usa-doj-fca-pr-fy2008,"U.S. Department of Justice, Office of Public Affairs",2008-11-10,6.5,conflict,o-a5b5a9f880
+USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211430202,1,211430202.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,6.5,conflict,o-482a30e35f
+USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211430202,1,211430202.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,6.5,conflict,o-6e1ec1c246
+USA,usa-fca-qui-tam,relator_share_awards,FY2008,USD,211683652,1,211683652.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.5,conflict,o-e289cce765
+USA,usa-fca-qui-tam,relator_share_awards,FY2009,USD,255,million,255000000.0,actual,usa-doj-fca-pr-fy2009,"U.S. Department of Justice, Office of Public Affairs",2009-11-19,1.6,conflict,o-7f58a1a992
+USA,usa-fca-qui-tam,relator_share_awards,FY2009,USD,259251282,1,259251282.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,1.6,conflict,o-607a0fc688
 USA,usa-fca-qui-tam,relator_share_awards,FY2010,USD,385,million,385000000.0,actual,usa-doj-fca-pr-fy2010,"U.S. Department of Justice, Office of Public Affairs",2010-11-22,6.2,conflict,o-49e2eba401
 USA,usa-fca-qui-tam,relator_share_awards,FY2010,USD,410434427,1,410434427.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,6.2,conflict,o-7d8437c547
 USA,usa-fca-qui-tam,relator_share_awards,FY2012,USD,439,million,439000000.0,actual,usa-doj-fca-pr-fy2012,"U.S. Department of Justice, Office of Public Affairs",2012-12-04,5.7,conflict,o-4568c0e916
@@ -599,20 +703,32 @@ USA,usa-fincen-aml-wb,tips_received [tip_type=new],2025,tips,135,1,135.0,project
 USA,usa-irs-wbo,awards_paid_amount,FY2013,USD,53054302,1,53054302.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,3.5,same_source,o-f48942d080
 USA,usa-irs-wbo,awards_paid_amount,FY2013,USD,53054302,1,53054302.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,3.5,same_source,o-fad368d5e5
 USA,usa-irs-wbo,awards_paid_amount,FY2013,USD,54054587,1,54054587.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,3.5,same_source,o-39903032d1
+USA,usa-irs-wbo,awards_paid_amount,FY2013,USD,54.1,million,54100000.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,3.5,same_source,o-40f1e8f232
 USA,usa-irs-wbo,awards_paid_amount,FY2013,USD,55,million,55000000.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,3.5,same_source,o-8bc8d2ea41
-USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486236,1,103486236.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,0.0,revision,o-0551d532c0
-USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486236,1,103486236.0,actual,usa-irs-wbo-ar-fy2017,Internal Revenue Service,2018,0.0,revision,o-7bd6c90494
-USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486677,1,103486677.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,0.0,revision,o-53636ec295
-USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,8.3,revision,o-460b4a1b12
-USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,8.3,revision,o-9433ce1132
-USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,8.3,revision,o-4f7f2ff323
-USA,usa-irs-wbo,awards_paid_count,FY2013,awards,133,1,133.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,8.3,revision,o-c2271c667e
-USA,usa-irs-wbo,claims_closed,FY2013,claims,6595,1,6595.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,5.9,revision,o-86083475ea
-USA,usa-irs-wbo,claims_closed,FY2013,claims,7006,1,7006.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,5.9,revision,o-a8145e9aee
-USA,usa-irs-wbo,claims_closed,FY2014,claims,6520,1,6520.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,22.1,revision,o-2afca850c6
-USA,usa-irs-wbo,claims_closed,FY2014,claims,8365,1,8365.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,22.1,revision,o-d0863c475b
-USA,usa-irs-wbo,claims_open,FY2010,claims,6211,1,6211.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,0.7,revision,o-604dc65cd4
-USA,usa-irs-wbo,claims_open,FY2010,claims,6253,1,6253.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,0.7,revision,o-d29a10c586
+USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486236,1,103486236.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,0.0,conflict,o-0551d532c0
+USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486236,1,103486236.0,actual,usa-irs-wbo-ar-fy2017,Internal Revenue Service,2018,0.0,conflict,o-7bd6c90494
+USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103486677,1,103486677.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,0.0,conflict,o-53636ec295
+USA,usa-irs-wbo,awards_paid_amount,FY2015,USD,103.5,million,103500000.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,0.0,conflict,o-cc727e5d38
+USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,8.3,conflict,o-460b4a1b12
+USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,8.3,conflict,o-9433ce1132
+USA,usa-irs-wbo,awards_paid_count,FY2013,awards,122,1,122.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,8.3,conflict,o-4f7f2ff323
+USA,usa-irs-wbo,awards_paid_count,FY2013,awards,133,1,133.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,8.3,conflict,o-c2271c667e
+USA,usa-irs-wbo,awards_paid_count,FY2013,awards,133,1,133.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,8.3,conflict,o-77acd6ccce
+USA,usa-irs-wbo,claims_closed,FY2013,claims,6581,1,6581.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,6.1,conflict,o-e9e9a53947
+USA,usa-irs-wbo,claims_closed,FY2013,claims,6595,1,6595.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,6.1,conflict,o-86083475ea
+USA,usa-irs-wbo,claims_closed,FY2013,claims,7006,1,7006.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,6.1,conflict,o-a8145e9aee
+USA,usa-irs-wbo,claims_closed,FY2014,claims,6520,1,6520.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,22.1,conflict,o-2714402074
+USA,usa-irs-wbo,claims_closed,FY2014,claims,6520,1,6520.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,22.1,conflict,o-2afca850c6
+USA,usa-irs-wbo,claims_closed,FY2014,claims,8365,1,8365.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,22.1,conflict,o-d0863c475b
+USA,usa-irs-wbo,claims_open,FY2007,claims,537,1,537.0,actual,usa-gao-11-683,U.S. Government Accountability Office,2011-08-10,60.9,conflict,o-3c2446ec39
+USA,usa-irs-wbo,claims_open,FY2007,claims,1373,1,1373.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,60.9,conflict,o-c0bfe1d96f
+USA,usa-irs-wbo,claims_open,FY2008,claims,609,1,609.0,actual,usa-gao-11-683,U.S. Government Accountability Office,2011-08-10,42.5,conflict,o-a0661bf209
+USA,usa-irs-wbo,claims_open,FY2008,claims,1060,1,1060.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,42.5,conflict,o-9e5d7a03da
+USA,usa-irs-wbo,claims_open,FY2009,claims,1479,1,1479.0,actual,usa-gao-11-683,U.S. Government Accountability Office,2011-08-10,27.0,conflict,o-6e584bcd21
+USA,usa-irs-wbo,claims_open,FY2009,claims,2025,1,2025.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,27.0,conflict,o-4ddc987a5a
+USA,usa-irs-wbo,claims_open,FY2010,claims,5218,1,5218.0,actual,usa-gao-11-683,U.S. Government Accountability Office,2011-08-10,16.6,conflict,o-1bcdd83fbf
+USA,usa-irs-wbo,claims_open,FY2010,claims,6211,1,6211.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,16.6,conflict,o-604dc65cd4
+USA,usa-irs-wbo,claims_open,FY2010,claims,6253,1,6253.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,16.6,conflict,o-d29a10c586
 USA,usa-irs-wbo,claims_open,FY2011,claims,2016,1,2016.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,12.7,revision,o-01552ca14d
 USA,usa-irs-wbo,claims_open,FY2011,claims,2308,1,2308.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,12.7,revision,o-4eaf5265b8
 USA,usa-irs-wbo,claims_open,FY2012,claims,3017,1,3017.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,2.5,revision,o-6f2ff3bf03
@@ -626,9 +742,10 @@ USA,usa-irs-wbo,claims_open,FY2014,claims,30152,1,30152.0,actual,usa-irs-wbo-ar-
 USA,usa-irs-wbo,claims_open,FY2014,claims,30152,1,30152.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,71.2,revision,o-dd687144ea
 USA,usa-irs-wbo,collections_attributable,2007-2018,USD,3.6,billion,3600000000.0,actual,usa-gao-18-698,U.S. Government Accountability Office,2018-09-28,28.7,conflict,o-e48c8f1d8b
 USA,usa-irs-wbo,collections_attributable,2007-2018,USD,5051188583,1,5051188583.0,actual,usa-irs-wbo-ar-fy2018,Internal Revenue Service,2019,28.7,conflict,o-52b887936e
-USA,usa-irs-wbo,collections_attributable,FY2013,USD,343674315,1,343674315.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,6.4,revision,o-1793d8415c
-USA,usa-irs-wbo,collections_attributable,FY2013,USD,367042420,1,367042420.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,6.4,revision,o-b25fefc412
-USA,usa-irs-wbo,collections_attributable,FY2013,USD,367042420,1,367042420.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,6.4,revision,o-2b8174590a
+USA,usa-irs-wbo,collections_attributable,FY2013,USD,343674315,1,343674315.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,6.4,conflict,o-1793d8415c
+USA,usa-irs-wbo,collections_attributable,FY2013,USD,343.7,million,343700000.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,6.4,conflict,o-15ab9a5ec9
+USA,usa-irs-wbo,collections_attributable,FY2013,USD,367042420,1,367042420.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,6.4,conflict,o-b25fefc412
+USA,usa-irs-wbo,collections_attributable,FY2013,USD,367042420,1,367042420.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,6.4,conflict,o-2b8174590a
 USA,usa-irs-wbo,tips_received,FY2007,claims,1463,1,1463.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,46.8,revision,o-b0dad70a84
 USA,usa-irs-wbo,tips_received,FY2007,claims,2751,1,2751.0,actual,usa-irs-wbo-first-report-2008,Internal Revenue Service,2008-06-24,46.8,revision,o-dbbccaccdd
 USA,usa-irs-wbo,tips_received,FY2010,claims,13155,1,13155.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,0.5,revision,o-6656137e90
@@ -641,10 +758,14 @@ USA,usa-irs-wbo,tips_received,FY2013,claims,9268,1,9268.0,actual,usa-irs-wbo-ar-
 USA,usa-irs-wbo,tips_received,FY2013,claims,9472,1,9472.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,23.9,same_source,o-9997fe4224
 USA,usa-irs-wbo,tips_received,FY2013,claims,10520,1,10520.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,23.9,same_source,o-dcb74b2ce1
 USA,usa-irs-wbo,tips_received,FY2013,claims,12172,1,12172.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,23.9,same_source,o-f014c03a68
+USA,usa-irs-wbo,tips_received,FY2013,submissions,3690,1,3690.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,9.3,conflict,o-a4962efe7f
+USA,usa-irs-wbo,tips_received,FY2013,submissions,4067,1,4067.0,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,9.3,conflict,o-7edabc99f9
 USA,usa-irs-wbo,tips_received,FY2014,claims,14365,1,14365.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,4.8,revision,o-a3ed7715c3
 USA,usa-irs-wbo,tips_received,FY2014,claims,14365,1,14365.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,4.8,revision,o-a0a4e7b63e
 USA,usa-irs-wbo,tips_received,FY2014,claims,14474,1,14474.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,4.8,revision,o-0d328d19dd
 USA,usa-irs-wbo,tips_received,FY2014,claims,15095,1,15095.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,4.8,revision,o-72d0ddd553
+USA,usa-irs-wbo,tips_received,FY2014,submissions,4166,1,4166.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,3.3,conflict,o-e966c943ce
+USA,usa-irs-wbo,tips_received,FY2014,submissions,4309,1,4309.0,actual,usa-tigta-wbo-audit-2016,Treasury Inspector General for Tax Administration,2016-08-30,3.3,conflict,o-34c68fce7e
 USA,usa-irs-wbo,tips_received,FY2015,claims,12078,1,12078.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,5.1,revision,o-ed3b9fd80a
 USA,usa-irs-wbo,tips_received,FY2015,claims,12595,1,12595.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,5.1,revision,o-d13d9515b8
 USA,usa-irs-wbo,tips_received,FY2015,claims,12723,1,12723.0,actual,usa-irs-wbo-ar-fy2017,Internal Revenue Service,2018,5.1,revision,o-2f17677e56

@@ -121,8 +121,8 @@ A few examples of what this shows:
   linked, with an archive link where we have one, and not stored.
 - `scripts/verify_quotes.py` looks for every quote in the text of the stored
   copy (with OCR in 29 languages for scans). Of the 8,110 quoted rows,
-  7,550 cite a stored document: 6,118 quotes were found verbatim,
-  868 matched as a table row put back together from its cells,
+  7,550 cite a stored document: 6,120 quotes were found verbatim,
+  866 matched as a table row put back together from its cells,
   96 were checked by eye against the page image or text, and 465
   (quotes rebuilt from table cells or chart labels) had the number itself
   confirmed by the blind second reading below. 2 point to a stored

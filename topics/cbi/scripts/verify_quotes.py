@@ -48,7 +48,10 @@ def normalise(text, join_hyphens=True):
     text = re.sub(r"([\u20ac$\u00a3])\s+(?=\d)", r"\1", text)  # "\u20ac 620,001" = "\u20ac620,001"
     # a hyphen at a line end is either a word split ("con-\ntributed") or a real one ("revenue-\nerosive")
     text = re.sub(r"-\s*\n\s*", "" if join_hyphens else "-", text)
-    return re.sub(r"[^\w%$€.,:;'\"()/-]+", " ", text).strip()
+    text = re.sub(r"[^\w%$€.,:;'\"()/-]+", " ", text)
+    # HTML that splits "378억" into separate tags: join digits to a following Hangul unit, drop spaces before punctuation
+    text = re.sub(r"(\d) (?=[\uac00-\ud7a3])", r"\1", text)
+    return re.sub(r" (?=[.,;:])", "", text).strip()
 
 
 OCR_MARK = "__ocr__\n"
@@ -127,6 +130,7 @@ def extract(path, lang="eng"):
             except UnicodeDecodeError:  # older pages declare their own charset (e.g. windows-1254)
                 m = re.search(rb'charset=["\']?([\w-]+)', data[:4000])
                 text = data.decode(m.group(1).decode() if m else "latin-1", errors="replace")
+            text = re.sub(r"(?s)<!\[CDATA\[(.*?)\]\]>", r" \1 ", text)  # law texts (law.go.kr XML) keep their wording in CDATA
             text = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", text)
             text = html.unescape(re.sub(r"<[^>]+>", " ", text))
     except Exception as e:  # noqa: BLE001 - report and move on

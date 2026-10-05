@@ -613,3 +613,303 @@ o-8c84476ba4,2,,1,2.4 Odmeny,PDF p. 21 (printed 20),V roku 2023 boli úradu doru
 o-f0c53e6db7,1,,1,2.4 Odmeny,PDF p. 21 (printed 20),V jednom prípade úrad rozhodol o neposkytnutí odmeny,high,'In one case the office decided not to grant the reward'; the other was not concluded that year.,claude-sonnet-5,2026-10-04,1,no
 o-b6770ca57a,more than $8.6 million,,million,total awarded since July 2016,HTML news release,"Since its launch in July 2016, the OSC’s Whistleblower Program has awarded more than $8.6 million to whistleblowers.",high,'more than' lower bound,claude-sonnet-5,2026-10-04,1,no
 o-b591d82918,more than $10 million,,million,total awarded since launch,HTML news release,"Since its launch, the Program has awarded more than $10 million.",high,'more than' lower bound; release does not restate the July 2016 date in this sentence,claude-sonnet-5,2026-10-04,1,no
+o-57be8c3b1d,30,,1,Corruption reporters Cases,PDF p. 79,"14 30 6,878,647 619,347",high,,claude-sonnet-5,2026-10-05,1,no
+o-20e90e97ba,261,,1,Public interest Cases,PDF p. 79,"22 ... 261 48,536,415 2,255,828",high,,claude-sonnet-5,2026-10-05,1,no
+o-cd29f749b9,"8,393,380",,thousand,Corruption Benefits incurred,PDF p. 79,"13 37 8,393,380 951,210",high,"Benefits incurred (recovered or increased revenue), unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-8d61ae9d0c,"28,364,346",,thousand,Corruption Benefits incurred,PDF p. 79,"19 197 28,364,346 2,312,974",high,"Benefits incurred, KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-d3cf65d9ef,"1,603,578",,thousand,Public interest Rewards paid,PDF p. 79,"16 90 ... 2,476 8,344,742 1,603,578",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-3d68a6f7c2,"2,255,828",,thousand,Public interest Rewards paid,PDF p. 79,"22 ... 261 48,536,415 2,255,828",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-6a7fc16305,"1,560,901",,thousand,Public interest Rewards paid,PDF p. 79,"20 238 ... 249 25,258,924 1,560,901",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-17b3482204,"11,131,730",,thousand,Corruption Benefits incurred,PDF p. 79,"12 40 11,131,730 1,400,444",high,"Benefits incurred, KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-0901d953d1,166,,1,Corruption reporters Cases,PDF p. 79,"18 166 36,836,590 3,114,994",high,,claude-sonnet-5,2026-10-05,1,no
+o-66fc0f3c95,"397,340",,thousand,Public interest Rewards paid,PDF p. 79,"14 ... 657 2,239,585 397,340",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-c455ac0068,"811,290",,thousand,Public interest Rewards paid,PDF p. 79,"21 ... 297 10,312,828 811,290",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-b3a8fd45eb,"19,875,951",,thousand,Corruption Benefits incurred,PDF p. 79,"22 491 19,875,951 3,296,664",high,"Benefits incurred, KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-39764163e9,"3,296,664",,thousand,Corruption Rewards paid,PDF p. 79,"22 491 19,875,951 3,296,664",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-5a2e3ba0f0,57.69,,billion,"text, Payment of reward by year",PDF p. 70,total amount of funds recovered as a result of corruption reports was KRW 57.69 billion,high,"KRW 57.69 billion, 2008-2014",claude-sonnet-5,2026-10-05,1,no
+o-3cdc694623,6.04,,billion,"text, Payment of reward by year",PDF p. 70,KRW 6.04 billion was paid in reward for 180 cases,high,KRW billion,claude-sonnet-5,2026-10-05,1,no
+o-fc7e12ad9a,657,,1,No. of Cases,PDF p. 72,"2014 657 397,340",high,"Table covers 2012-2014 by year; Total row 1,008",claude-sonnet-5,2026-10-05,1,no
+o-aeceb7ef62,477.6,,million,"text, Payment of award by year",PDF p. 70,"Since 2008, financial award of KRW 477.6 million has been provided in 58 cases",high,,claude-sonnet-5,2026-10-05,1,no
+o-e2526ef85b,"397,340",,thousand,Amount of Reward Paid,PDF p. 72,"2014 657 397,340",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-ad99ec0bbe,180,,1,"text, Payment of reward by year",PDF p. 70,paid in reward for 180 cases,high,,claude-sonnet-5,2026-10-05,1,no
+o-c7bcb0a916,"4,085,784",,thousand,Corruption Rewards paid,PDF p. 77,"23 602 40,582,871 4,085,784",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-08a82c77b5,"17,922,028",,thousand,Corruption Benefits incurred,PDF p. 77,"22 480 17,922,028 2,863,390",high,"Benefits incurred, KRW 1,000. Note 2023 report revised 2022 vs 2022 report (19,875,951)",claude-sonnet-5,2026-10-05,1,no
+o-915c5c5f23,"783,812",,thousand,Public interest Rewards paid,PDF p. 77,"23 ... 44 14,980,114 783,812",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-65808e4c50,480,,1,Corruption Cases,PDF p. 77,"22 480 17,922,028 2,863,390",high,,claude-sonnet-5,2026-10-05,1,no
+o-711a734511,138,,1,Public interest Cases,PDF p. 77,"21 485 ... 138 10,312,828 811,290",high,,claude-sonnet-5,2026-10-05,1,no
+o-ddd5768d69,"10,312,828",,thousand,Public interest Benefits incurred,PDF p. 77,"21 ... 138 10,312,828 811,290",high,"Benefits incurred, KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-274abc7f4b,1,,billion,para 2,HTML press release,"By 1995, we had recovered $1 billion in civil fraud cases brought under the whistle blower provisions",high,USD; period is 1987 (1986 amendments) to 1995,claude-sonnet-5,2026-10-05,1,no
+o-c65d7cc336,"2,400",,1,para 4,HTML press release,"More than 2,400 qui tam suits have been filed",high,'More than' lower bound,claude-sonnet-5,2026-10-05,1,no
+o-17f67711cc,2.249,,billion,para 4,HTML press release,more than $2.249 billion in total recoveries,high,USD,claude-sonnet-5,2026-10-05,1,no
+o-3588cbc067,300,,million,para 4,HTML press release,Whistle blowers have received about $300 million,high,approximate; USD,claude-sonnet-5,2026-10-05,1,no
+o-4d3a5d5f2a,60,,million,para 4,HTML press release,$60 million in cases litigated by the relator,high,Government did not pursue (relator litigated); mapped to declined,claude-sonnet-5,2026-10-05,1,no
+o-fd6680dcd4,33,,1,para 4,HTML press release,"from 33 in fiscal year 1987, to 534 in fiscal year 1997",high,,claude-sonnet-5,2026-10-05,1,no
+o-16a384d6b9,133,,million,DoD para,HTML press release,The Department also collected $133 million in defense procurement fraud,high,"USD; 'defense procurement fraud', confirm para number",claude-sonnet-5,2026-10-05,1,no
+o-76a90ebad5,21,,billion,para 1,HTML press release,total recoveries since 1986 ... to more than $21 billion,high,'more than'; USD,claude-sonnet-5,2026-10-05,1,no
+o-e8b9b0fdd8,1.12,,billion,health care para,HTML press release,health care accounted for the lion's share of fraud settlements and judgments-$1.12 billion,high,USD,claude-sonnet-5,2026-10-05,1,no
+o-1d48a17697,78,,1,para 3,HTML press release,Almost 78 percent of this year's recoveries are associated with suits initiated by private citizens,high,"percent, 'almost 78'",claude-sonnet-5,2026-10-05,1,no
+o-92c58543fe,1.34,,billion,para 1,HTML press release,"secured $1.34 billion in settlements and judgments in the fiscal year ending Sept. 30, 2008",high,USD,claude-sonnet-5,2026-10-05,1,no
+o-a5b5a9f880,198,,million,para 5,HTML press release,"In fiscal year 2008, relators were awarded $198 million",high,USD,claude-sonnet-5,2026-10-05,1,no
+o-9b7628205b,568억,,1,p.1,PDF p. 1,부패·공익신고로 공공기관의 수입회복이 결정된 금액은 약 568억 원,high,"KRW 56.8 billion (about, 'decided' recovery amount); Q4 2024",claude-sonnet-5,2026-10-05,1,no
+o-dedbf83972,74,,1,p.1,PDF p. 1,부패·공익신고자 74명에게 보상금 약 15억4천만 원,high,74 persons,claude-sonnet-5,2026-10-05,1,no
+o-995d244f7e,1억,,1,p.1,PDF p. 1,’24년 하반기 ... 10명에게 포상금 약 1억원을 지급,high,"KRW about 100 million; 포상금 (award) to 10 persons, H2 2024",claude-sonnet-5,2026-10-05,1,no
+o-e14d0bd204,72,,1,p.1,PDF p. 1,보상금을 지급하기로 한 72건의 신고,high,72 reports (건) in Q4; 74 persons,claude-sonnet-5,2026-10-05,1,no
+o-8a61a6fc07,15억4천만,,1,p.1,PDF p. 1,보상금 약 15억4천만 원,high,KRW about 1.54 billion; Q4 2024 rewards (보상금),claude-sonnet-5,2026-10-05,1,no
+o-947b1d46b8,88억,,1,p.1,PDF p. 1,수입회복이 확정된 금액은 약 88억원,high,KRW about 8.8 billion; Q3 2024 'confirmed' recovery,claude-sonnet-5,2026-10-05,1,no
+o-c7a0afad85,10억3백만,,1,p.1,PDF p. 1,보상금 약 10억3백만원,high,"KRW about 1,003 million (1.003 billion); Q3 2024",claude-sonnet-5,2026-10-05,1,no
+o-78f9865578,77,,1,p.1,PDF p. 1,보상금을 지급하기로 한 77건의 신고,high,77 reports; 78 persons,claude-sonnet-5,2026-10-05,1,no
+o-ca87c07199,78,,1,p.1,PDF p. 1,부패·공익신고자 78명에게 보상금,high,78 persons,claude-sonnet-5,2026-10-05,1,no
+o-ff9d265869,59,,1,p.1,PDF p. 1,공익신고자 59명에게 총 6억 3천여만 원,high,59 persons,claude-sonnet-5,2026-10-05,1,no
+o-8a39855d4b,6억 3천여만,,1,p.1,PDF p. 1,총 6억 3천여만 원의 보상금,high,KRW about 630 million; Q1 2025,claude-sonnet-5,2026-10-05,1,no
+o-93e6898e74,72억 5천만,,1,p.1,PDF p. 1,공공기관이 회복한 수입은 약 72억 5천만 원,high,KRW about 7.25 billion; Q1 2025,claude-sonnet-5,2026-10-05,1,no
+o-f4ead3b683,"397,950",,1,text,PDF p. 53,"This year we paid out £397,950 in rewards to individuals who provided us with information",high,GBP,claude-sonnet-5,2026-10-05,1,no
+o-4ae1e19750,"120,000",,1,text,PDF p. 53,"we received almost 120,000 reports in the financial year 2020 to 2021",medium,"'almost'; Fraud Hotline reports of tax fraud generally, not only reward-eligible informants",claude-sonnet-5,2026-10-05,1,no
+o-cf632033e1,"989,256",,1,text,PDF p. 41,"such payments were worth a total of £989,256",high,GBP,claude-sonnet-5,2026-10-05,1,no
+o-a64078e46f,"152,000",,1,text,PDF p. 41,"We received almost 152,000 reports of information relating to alleged fraud from the public via our Fraud Reporting Gateway",medium,'almost'; general fraud reports,claude-sonnet-5,2026-10-05,1,no
+o-eeef7c3baa,0,,1,text,PDF p. 15,2015-ben új informátori kérelmet a GVH nem fogadott be,medium,Stated in words: no new informant application was admitted in 2015 (they did not meet legal conditions),claude-sonnet-5,2026-10-05,1,no
+o-d01cb5af2d,20,,1,text,PDF p. 15,Bár az informátori díjas megkeresések száma nem változott az előző évihez (20) képest,medium,"Number of informant-reward enquiries (megkeresés) 'did not change from previous year (20)', so 2015 = 20 by implication; 20 is printed for 2014",claude-sonnet-5,2026-10-05,1,no
+o-323fda243d,20,,1,"text, Vezetői összefoglaló",PDF p. 7,"mintegy 20 esetben jelentkezett olyan magánszemély, aki állítása szerint információkkal rendelkezett valamilyen kartell tevékenységről",medium,'about 20' individuals came forward in 2010 after informant fee introduced (Apr 2010),claude-sonnet-5,2026-10-05,1,no
+o-021938f8f7,"7,499,000",,1,"March 31, 2019: Payments to Whistleblowers",PDF p. 20,"Less: Payments to Whistleblowers (7,499,000) —",high,"CAD; text also says 'To date, $7.5 million has been paid to three whistleblowers' (cumulative to date; FY2017/18 shows nil)",claude-sonnet-5,2026-10-05,1,no
+o-39cd7fffe7,"1,800,000",,1,"March 31, 2024: Payments to Whistleblowers",PDF p. 21,"Payments to Whistleblowers (1,800,000) (481,092)",high,CAD,claude-sonnet-5,2026-10-05,1,no
+o-a6065946ab,2,,billion,By the Numbers list,HTML press release,Nearly $2 billion recovered under California's False Claims Act,high,"USD, 'nearly'; past 10 years",claude-sonnet-5,2026-10-05,1,no
+o-dd2bea084b,"$52,160,120.06",,1,"Total FY 2021, OAG Civil Medicaid Fraud (CMF) Division: Total Amount Recovered",PDF p. 5 (printed p. 4),"Total Amount Recovered $52,160,120.06",high,"USD; includes state, federal and relator portions",claude-sonnet-5,2026-10-05,1,no
+o-f75d11e3e7,"1,149,733",,thousand,Public Interest Rewards paid,PDF p. 85,"2024 55 47,775,708 1,149,733",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-4a75843454,"1,560,901",,thousand,Public Interest Rewards paid,PDF p. 85,"2020 249 25,258,924 1,560,901",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-75f195619b,"25,258,924",,thousand,Public Interest Benefits incurred,PDF p. 85,"2020 249 25,258,924 1,560,901",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-2954fb2918,"1,976,511",,thousand,Public Interest Rewards paid,PDF p. 85,"2017 1,710 11,198,923 1,976,511",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-4e8ddd0309,"28,770,531",,thousand,Corruption Benefits incurred,PDF p. 85,"2015 29 28,770,531 1,426,658",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-1c021d9da1,"1,534,593",,thousand,Public Interest Rewards paid,PDF p. 85,"2019 211 22,254,652 1,534,593",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-6c5d3296ab,"36,836,590",,thousand,Corruption Benefits incurred,PDF p. 85,"2018 166 36,836,590 3,114,994",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-0cb697bfb6,"26,539,641",,thousand,Corruption Benefits incurred,PDF p. 85,"2017 113 26,539,641 2,108,374",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-0554cc0016,"47,775,708",,thousand,Public Interest Benefits incurred,PDF p. 85,"2024 55 47,775,708 1,149,733",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-cdbeb312ff,238,,1,Corruption Cases,PDF p. 85,"2020 238 46,003,611 3,842,099",high,,claude-sonnet-5,2026-10-05,1,no
+o-ce467d9e6e,"3,842,099",,thousand,Corruption Rewards paid,PDF p. 85,"2020 238 46,003,611 3,842,099",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-e8cc9158f6,"10,312,828",,thousand,Public Interest Benefits incurred,PDF p. 85,"2021 138 10,312,828 811,290",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-456b02e4a6,32,,1,Cases 2012,PDF p. 70,"2012 32 28,472",high,table is count of cases that received rewards (paid),claude-sonnet-5,2026-10-05,1,no
+o-a7c5278e9e,"227,708",,thousand,Amount of Rewards 2013,PDF p. 70,"2013 319 227,708 (Unit: KRW 1000)",high,,claude-sonnet-5,2026-10-05,1,no
+o-386655d5da,150,,1,text,PDF p. 66,a total of KRW 5.425 billion of award money for 150 cases was paid,high,From 2008 to 2013; text calls it 'award money' but section is reward money payment,claude-sonnet-5,2026-10-05,1,no
+o-7f987546af,400.2,,million,text,PDF p. 66,"Since 2008, a total of KRW 400.2 million of award money for a total of 52 cases",high,figure is in (1) Award Money Payment section,claude-sonnet-5,2026-10-05,1,no
+o-c1c9f07961,319,,1,Cases 2013,PDF p. 70,"2013 319 227,708",high,,claude-sonnet-5,2026-10-05,1,no
+o-bd59591bcd,50.825,,billion,text,PDF p. 66,the total amount of confiscated money was KRW 50.825 billion,high,From 2008 to 2013,claude-sonnet-5,2026-10-05,1,no
+o-d65cfdcbdb,249,,1,지급건수 합계 (공익),p. 2,"합계 249(100%) 1,560,901(100%)",high,"cases paid; table unit 건, 천원",claude-sonnet-5,2026-10-05,1,no
+o-5563d70c52,237,,1,지급건수 합계 (부패),p. 2,"합계 237(100%) 3,835,687(100%)",high,table total of 보상금 cases,claude-sonnet-5,2026-10-05,1,no
+o-ba1f9fe704,"38억 7,010만 원",,1,footnote,p. 1,"부패신고 보상·포상금(38억 7,010만 원)",high,"KRW 3,870.10 million; rewards plus prize awards",claude-sonnet-5,2026-10-05,1,no
+o-98e96c300d,"55억 2,740만 원",,1,para 1,p. 1,"총 55억 2,740만 원의 보상금과 포상금* 등이 지급됐다",high,"KRW 5,527.4 million; 226 persons",claude-sonnet-5,2026-10-05,1,no
+o-73064e9c92,"3,835,687",,thousand,지급액 합계 (부패),p. 2,"합계 237(100%) 3,835,687(100%)",high,"KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-1fb0cc5c43,"16억 5,730만 원",,1,footnote,p. 1,"공익신고 보상·포상·구조금(16억 5,730만 원)",high,"KRW 1,657.3 million",claude-sonnet-5,2026-10-05,1,no
+o-27e32de70b,"378억 4,064만 원",,1,para 1,p. 1,"공공기관이 회복한 수입금액은 378억 4,064만 원에 달한다",high,"KRW 3,784.064 million",claude-sonnet-5,2026-10-05,1,no
+o-b0250a836b,"24억 5,047만 원",,1,footnote,p. 1,"부패신고 보상·포상금(24억 5,047만 원)",high,"KRW 2,450.47 million",claude-sonnet-5,2026-10-05,1,no
+o-9786da230f,"43억 1,983만 원",,1,para 1,p. 1,"총 43억 1,983만 원의 보상금과 포상금* 등이 지급됐다",high,"KRW 4,319.83 million; 312 persons",claude-sonnet-5,2026-10-05,1,no
+o-6455736e7a,"18억 6,936만 원",,1,footnote,p. 1,"공익신고 보상·포상금(18억 6,936만 원)",high,"KRW 1,869.36 million",claude-sonnet-5,2026-10-05,1,no
+o-c53e3b6846,312,,1,para 1,p. 1,부패·공익신고자 312명에게,high,312 persons (corruption and public interest combined),claude-sonnet-5,2026-10-05,1,no
+o-a98dedf532,367억 원,,1,para 1,p. 1,보상금 및 포상금은 총 367억 원,high,cumulative since 2002 (corruption act) and 2011 (public interest act) to Oct 2021; rewards and awards,claude-sonnet-5,2026-10-05,1,no
+o-a36ed488de,"4,238억 원",,1,para 1,p. 1,"수입 회복·증대액은 총 4,238억 원",high,cumulative to Oct 2021,claude-sonnet-5,2026-10-05,1,no
+o-9388a65bfc,107,,1,para 2,PDF p. 1,보상금을 지급하기로 한 107건의 신고,medium,107 reports (건) rewarded; para 1 says 110 persons. Location says para 2; figure found there.,claude-sonnet-5,2026-10-05,1,no
+o-becddf1861,약 10억9천만원,,1,para 1,PDF p. 1,보상금 약 10억9천만원을 지급했다,high,approx KRW 1.09 billion (title: 10억9천만원),claude-sonnet-5,2026-10-05,1,no
+o-8a88813ab7,110,,1,para 1,PDF p. 1,부패‧공익신고자 110명에게,high,110 persons,claude-sonnet-5,2026-10-05,1,no
+o-9a089fe46a,약 119억원,,1,para 1,PDF p. 1,공공기관이 회복한 수입금액은 약 119억원,high,approx KRW 11.9 billion,claude-sonnet-5,2026-10-05,1,no
+o-7001bca251,$221.8,,million,FY 2016*,PDF p. 18 (printed p. 11),Collected Proceeds (millions) ... $221.8,high,as of February 2016,claude-sonnet-5,2026-10-05,1,no
+o-9e4400827b,$310.0,,million,FY 2014,PDF p. 18 (printed p. 11),Collected Proceeds (millions) ... $310.0,high,,claude-sonnet-5,2026-10-05,1,no
+o-b0e858eccc,"2,711",,1,Number of Submissions,PDF p. 20 (printed p. 13),"FY 2016 (as of March 2016) 2,711 5.5",high,Figure 8,claude-sonnet-5,2026-10-05,1,no
+o-c33acdafe9,99,,1,FY 2015 Awards Paid Number,PDF p. 18 (printed p. 11),99 awards paid during FY 2015,high,,claude-sonnet-5,2026-10-05,1,no
+o-c9a69d55ec,$52.3,,million,FY 2014 Awards Paid Amount,PDF p. 18 (printed p. 11),Amount (millions) $52.3,high,,claude-sonnet-5,2026-10-05,1,no
+o-6b498e72fe,$592.5,,million,FY 2012,PDF p. 18 (printed p. 11),Collected Proceeds (millions) $592.5,high,,claude-sonnet-5,2026-10-05,1,no
+o-f0f89d449a,$177,,million,text,press release,"In fiscal year 2007, whistleblowers were awarded $177 million",high,excludes shares not yet awarded by Sep 30 2007,claude-sonnet-5,2026-10-05,1,no
+o-59fdbf5386,$1.54,,billion,text,press release,health care accounted for the lion's share of fraud settlements and judgments $1.54 billion,high,includes both whistleblower and government-initiated cases,claude-sonnet-5,2026-10-05,1,no
+o-7f63b266d8,more than $20,,billion,text,press release,total recoveries since 1986 ... to more than $20 billion,high,printed as lower bound 'more than'; headline says 'More Than $20 Billion Since 1986',claude-sonnet-5,2026-10-05,1,no
+o-e4c4c3fa0a,$2,,billion,text,press release,"The United States obtained $2 billion in settlements and judgments in the fiscal year ending September 30, 2007",high,rounded,claude-sonnet-5,2026-10-05,1,no
+o-c5cd301ed3,$1.45,,billion,text,press release,"Of the $2 billion, $1.45 billion is associated with suits initiated by whistleblowers",high,,claude-sonnet-5,2026-10-05,1,no
+o-0b241261b5,$48.4,,million,text,press release,fraud against the Department of Defense accounted for $48.4 million in settlements,high,found in the paragraph after the pharmaceutical discussion,claude-sonnet-5,2026-10-05,1,no
+o-3e75e6ce34,242,,1,text,PDF p. 12 (printed p. 7),paid out $34 million on 367 claims to 242 whistleblowers,high,,claude-sonnet-5,2026-10-05,1,no
+o-d0e77f905e,"10,748,886",,1,Total FBAR penalty amount (dollars),PDF p. 20 (printed p. 15),"Total 28 10,748,886",high,Table 2: FBAR penalties in claims closed 1 Jan 2012 to 24 Jul 2017; excluded from collected proceeds,claude-sonnet-5,2026-10-05,1,no
+o-afc69175e3,$191,,million,text,PDF p. 12 (printed p. 7),IRS collected $191 million in fiscal year 2017,high,,claude-sonnet-5,2026-10-05,1,no
+o-caead10fc7,$34,,million,text,PDF p. 12 (printed p. 7),paid out $34 million on 367 claims,high,,claude-sonnet-5,2026-10-05,1,no
+o-4c266da9aa,"£508,500",,1,para 560,PDF p. 140,"an increase from £508,500 in the previous year",high,'previous year' = 2022/23,claude-sonnet-5,2026-10-05,1,no
+o-f85e621b76,"£978,256",,1,para 560,PDF p. 140,"in financial year 2023/24, £978,256 was paid to individuals reporting tax evasion",high,,claude-sonnet-5,2026-10-05,1,no
+o-fa1a49c5aa,"164,670",,1,text,PDF p. 23,"we received 164,670 reports of alleged fraud from the public via our Fraud Reporting Gateway",high,"reports of alleged fraud (all reports, not only tax informants)",claude-sonnet-5,2026-10-05,1,no
+o-4bc039ad1b,"£852,438",,1,text,PDF p. 23,"these payments were worth a total of £852,438",high,,claude-sonnet-5,2026-10-05,1,no
+o-5ed1ddc95d,"(525,000)",,1,"Payments to Whistleblowers, March 31, 2020",PDF p. 21,"Payments to Whistleblowers (525,000) (7,499,000)",high,"CAD, paid out during the year ended March 31, 2020; shown as deduction in parentheses",claude-sonnet-5,2026-10-05,1,no
+o-c26dc674d3,"(146,869)",,1,"Payments to Whistleblowers, March 31, 2025",PDF p. 27,"Whistleblowers (146,869) (1,800,000)",high,"CAD, year ended March 31, 2025; shown as deduction in parentheses",claude-sonnet-5,2026-10-05,1,no
+o-fe802887e9,közel 20,,1,text,PDF p. 9,az elmúlt évben is közel 20 informátori megkeresés érkezett a Hivatalhoz,medium,"'nearly 20' informant approaches (informátori megkeresés) in 2012, same as 2011; approximate, not an exact count",claude-sonnet-5,2026-10-05,1,no
+o-de8e9b73cc,"$48,988,225.35",,1,"OAG Civil Medicaid Fraud (CMF) Division, Total FY 2017 Total Amount Recovered","PDF p. 5 (scan, OCR)","Total Amount Recovered $48,988,225.35",high,OCR of page 5; matches stored text,claude-sonnet-5,2026-10-05,1,no
+o-27bc55dd2d,"$ 79,536,460.66",,1,"OAG Civil Medicaid Fraud (CMF) Division, Total FY 2022",PDF p. 5 (printed p. 4),"Total Amount Recovered $ 79,536,460.66",high,,claude-sonnet-5,2026-10-05,1,no
+o-c069134c06,"98,298,000",,1,Reward Amount,PDF p. 70,"2004 5 5 - 1,609,320,740 98,298,000",high,,claude-sonnet-5,2026-10-05,1,no
+o-d97c8688c9,2,,1,Others,PDF p. 70,2006 21 19 2 rejection,high,Others column prints '2 rejection',claude-sonnet-5,2026-10-05,1,no
+o-9ef268304b,2,,1,Approved,PDF p. 70,"2003 4 2 1 withdrawn, 1 rejection",high,Approved column,claude-sonnet-5,2026-10-05,1,no
+o-d4303aa3bf,20,,1,Approved,PDF p. 70,2009 20 20 1 rejection,high,Approved column; Others column prints '1 rejection' though Request-Approved=0,claude-sonnet-5,2026-10-05,1,no
+o-6ede51c977,8,,1,Number of awards,PDF p. 69,2007 8 50,high,,claude-sonnet-5,2026-10-05,1,no
+o-571046acbe,1,,1,Others,PDF p. 70,2008 19 18 1 rejection,high,Others column prints '1 rejection',claude-sonnet-5,2026-10-05,1,no
+o-8bae20c368,2,,1,Others,PDF p. 70,2005 19 17 2 rejection,high,Others column prints '2 rejection',claude-sonnet-5,2026-10-05,1,no
+o-e8df294f07,6,,1,Number of awards,PDF p. 69,2009 6 77.5,high,,claude-sonnet-5,2026-10-05,1,no
+o-3f538bb857,"5,811,771,029",,1,Reward money payable,PDF p. 70,"2009 20 20 1 rejection 5,811,771,029 642,146,000",medium,Column 'Reward money payable' (the reclaimed amount per text),claude-sonnet-5,2026-10-05,1,no
+o-5ca600c52c,321.5,,million,Amount of rewards,PDF p. 69,Total 33 321.5,high,Total row covers 2006-2010; unit million won,claude-sonnet-5,2026-10-05,1,no
+o-295bae883c,"73,744,000",,1,Reward Amount,PDF p. 70,"2003 4 2 ... 1,114,962,340 73,744,000",high,,claude-sonnet-5,2026-10-05,1,no
+o-7697194f05,629.74,,million,text under table,PDF p. 134,"Since 2008, 629.74 million won in award money has been paid to reporters on 80 cases.",high,,claude-sonnet-5,2026-10-05,1,no
+o-1a388b2e0b,113,,1,Number of cases,PDF p. 134,"2017 113 26,539,641 2,108,374",high,,claude-sonnet-5,2026-10-05,1,no
+o-4b8b53696e,"2,108,374",,thousand,Rewards paid,PDF p. 134,"2017 113 26,539,641 2,108,374",high,"Unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-4defb4a9cc,"2,316",,1,Handled(a+b+c),PDF p. 140,"2017 2,316 1,710 63 543 11,198,923 1,976,511",medium,"Handled = Paid 1,710 + Dismissed 63 + Concluded 543; no separate 'closed' column",claude-sonnet-5,2026-10-05,1,no
+o-b649c26d8c,"1,976,511",,thousand,"Rewards paid (KRW 1,000)",PDF p. 140,"2017 2,316 1,710 63 543 11,198,923 1,976,511",high,,claude-sonnet-5,2026-10-05,1,no
+o-f4461669cb,"1,710",,1,Paid(a),PDF p. 140,"2017 2,316 1,710 63 543",high,,claude-sonnet-5,2026-10-05,1,no
+o-bf756e68dc,238,,1,Corruption reporters: Cases,PDF p. 90,"20 238 46,003,611 3,842,099 249 25,258,924 1,560,901",high,,claude-sonnet-5,2026-10-05,1,no
+o-83e367a9a7,"1,560,901",,thousand,Public interest: Rewards paid,PDF p. 90,"20 238 46,003,611 3,842,099 249 25,258,924 1,560,901",high,,claude-sonnet-5,2026-10-05,1,no
+o-4bab7afd76,"46,003,611",,thousand,Corruption: Benefits incurred,PDF p. 90,"20 238 46,003,611 3,842,099",high,Benefits incurred = recovered/increased revenue,claude-sonnet-5,2026-10-05,1,no
+o-57dc7f82d8,"25,258,924",,thousand,Public interest: Benefits incurred,PDF p. 90,"249 25,258,924 1,560,901",high,Benefits incurred = recovered/increased revenue,claude-sonnet-5,2026-10-05,1,no
+o-3e888d72ad,"3,842,099",,thousand,Corruption: Rewards paid,PDF p. 90,"20 238 46,003,611 3,842,099",high,,claude-sonnet-5,2026-10-05,1,no
+o-857c3f66ea,249,,1,Public interest: Cases,PDF p. 90,"249 25,258,924 1,560,901",high,,claude-sonnet-5,2026-10-05,1,no
+o-0157ec39a8,24,,1,FY 2007,PDF p. 12 (printed 8),"Number of claims rejected 24 574 537 140 11 1,286",high,,claude-sonnet-5,2026-10-05,1,no
+o-7e0c93984a,11,,1,FY 2011a,PDF p. 12 (printed 8),"Number of claims rejected 24 574 537 140 11 1,286",high,,claude-sonnet-5,2026-10-05,1,no
+o-6e584bcd21,"1,479",,1,FY 2009,PDF p. 12 (printed 8),"Number of claims in process 537 609 1,479 5,218 411 8,254",high,,claude-sonnet-5,2026-10-05,1,no
+o-f66a2b2014,"5,358",,1,FY 2010,PDF p. 12 (printed 8),"Total claims (taxpayers identified by whistleblowers) 561 1,183 2,016 5,358 422 9,540",high,Table excludes claims receiving awards,claude-sonnet-5,2026-10-05,1,no
+o-1bcdd83fbf,"5,218",,1,FY 2010,PDF p. 12 (printed 8),"Number of claims in process 537 609 1,479 5,218 411 8,254",high,,claude-sonnet-5,2026-10-05,1,no
+o-c14772f01c,"9,540",,1,Total,PDF p. 12 (printed 8),"Total claims ... 561 1,183 2,016 5,358 422 9,540",high,,claude-sonnet-5,2026-10-05,1,no
+o-2a1e8faf84,$1.1 billion,,billion,,html,health care accounted for the lion's share of fraud settlements and judgments-$1.1 billion,high,,claude-sonnet-5,2026-10-05,1,no
+o-55896a3a90,over $112 million,,million,,html,Department of Defense procurement fraud accounted for over $112 million,high,,claude-sonnet-5,2026-10-05,1,no
+o-3c74c32386,$15 billion,,billion,,html,total recoveries since 1986 ... to $15 billion,high,Period printed as since 1986 (headline: more than $15 billion),claude-sonnet-5,2026-10-05,1,no
+o-cce2643fab,$166 million,,million,,html,"In fiscal year 2005, whistle-blowers were awarded $166 million",high,,claude-sonnet-5,2026-10-05,1,no
+o-3005afdc85,$1.1 billion,,billion,,html,"Of the $1.4 billion, $1.1 billion is associated with suits initiated by whistle-blowers",high,,claude-sonnet-5,2026-10-05,1,no
+o-ba63d93ee0,over $1.4 billion,,billion,,html,obtained over $1.4 billion in settlements and judgments,high,,claude-sonnet-5,2026-10-05,1,no
+o-fec5cb261f,332,,1,,html p. 1,"부패 및 공익신고자 332 명에게 보상금 17 억 3,088 만 원을 지급",high,,claude-sonnet-5,2026-10-05,1,no
+o-5246dcae82,102 억 원,,1,,html p. 1,회복된 수입 또는 절감된 비용은 102 억 원,high,102 eok won = 10.2 billion won,claude-sonnet-5,2026-10-05,1,no
+o-cba901e32f,"17 억 3,088 만 원",,1,,html p. 1,"332 명에게 보상금 17 억 3,088 만 원을 지급",high,1.7308 billion won; 332 persons,claude-sonnet-5,2026-10-05,1,no
+o-8b177493ed,"15 억 1,703 만 원",,1,,html p. 1,"공익신고 : 304 명 , 15 억 1,703 만 원",high,,claude-sonnet-5,2026-10-05,1,no
+o-b1bcc44264,"2 억 1,385 만 원",,1,,html p. 1,"부패신고 : 28 명 , 2 억 1,385 만 원",high,,claude-sonnet-5,2026-10-05,1,no
+o-894fb87fb9,more than $1.2 billion,,billion,,html,"Health care fraud cases once again topped the list of annual recoveries, totaling more than $1.2 billion",high,,claude-sonnet-5,2026-10-05,1,no
+o-a3cc190083,over $210 million,,million,,html,whistleblowers have been awarded over $210 million for cases resolved in the past fiscal year,high,,claude-sonnet-5,2026-10-05,1,no
+o-b3c06ca3d6,more than $194 million,,million,,html,recovered more than $194 million from companies alleged to have underpaid royalties,high,,claude-sonnet-5,2026-10-05,1,no
+o-2e623aba82,Nearly $1.2 billion,,billion,,html,Nearly $1.2 billion of the Department's settlements and judgments related to cases filed under the federal whistleblower statute,high,,claude-sonnet-5,2026-10-05,1,no
+o-6c9e083b58,$1.6 billion,,billion,,html,collected a record $1.6 billion in civil fraud recoveries,high,,claude-sonnet-5,2026-10-05,1,no
+o-b7630bdf6f,약 31억 원,,1,,PDF p. 1,공공기관이 이번 달 회복한 수입으로 확인된 금액은 약 31억 원,high,"approx. 3.1 billion won, Aug 2025",claude-sonnet-5,2026-10-05,1,no
+o-73a97dc218,32,,1,,PDF p. 1,부패·공익신고자 32명에게 지급,high,,claude-sonnet-5,2026-10-05,1,no
+o-4ebd5c2d50,약 3억 원,,1,,PDF p. 1,보상금 약 3억 원을 부패·공익신고자 32명에게 지급,high,approx. 300 million won,claude-sonnet-5,2026-10-05,1,no
+o-5cd36f3328,약 494억 원,,1,,PDF p. 1,공공기관이 회복한 수입은 약 494억 원 / 수입회복 결정액 약 494억 원,high,,claude-sonnet-5,2026-10-05,1,no
+o-f306f9840d,64,,1,,PDF p. 1,올해 1분기 부패·공익신고자 64명에게 보상금 총 9억 1천여만 원,high,,claude-sonnet-5,2026-10-05,1,no
+o-09e137aa69,9억 1천여만 원,,1,,PDF p. 1,64명에게 보상금 총 9억 1천여만 원 지급,high,approx. 910 million won,claude-sonnet-5,2026-10-05,1,no
+o-61f35ed27a,£1.388 million,,million,,PDF p. 22,we made payments worth a total of £1.388 million,high,,claude-sonnet-5,2026-10-05,1,no
+o-fc164af377,"170,992",,1,,PDF p. 22,"we received 170,992 reports alleging non-compliance",high,Reports alleging non-compliance,claude-sonnet-5,2026-10-05,1,no
+o-dcffbcb870,"23 억 2,600 여만 원",,1,,html p. 1,"올해 지급한 부패신고 보상금과 포상금은 ... 총 23 억 2,600 여만 원",medium,Total of reward (보상금) plus prize (포상금); reward-only figure is 22 억 7 천 5 백여만 원,claude-sonnet-5,2026-10-05,1,no
+o-08b421e1df,22 억 7 천 5 백여만 원,,1,,html p. 1,"( 보상금 ) 22 억 7 천 5 백여만 원 , ( 포상금 ) 5 천 1 백여만 원",high,,claude-sonnet-5,2026-10-05,1,no
+o-99d9230e60,"(585,000)",,1,"March 31, 2021: Whistleblowers",PDF p. 18,"Whistleblowers (585,000) (525,000)",high,"Payments to whistleblowers in dollars, shown in brackets as a deduction",claude-sonnet-5,2026-10-05,1,no
+o-60b86ea661,—,,thousand,"March 31, 2026: Whistleblowers",PDF p. 22,Whistleblowers — (147),high,Dash (nil) for FY2025/26; prior year (147) thousand. Table in thousands of dollars,claude-sonnet-5,2026-10-05,1,no
+o-2ee55ca410,335 억여 원,,1,,html p. 2,"지난 5 년간 총 1,005 건의 보호신청을 접수해 ... 신고자들에게 총 335 억여 원의 보상 · 포상금을 지급",high,"approx. 33.5 billion won; reward plus prize money, past 5 years",claude-sonnet-5,2026-10-05,1,no
+o-89343a573c,"$185,688,277.89",,1,Total Amount Recovered,PDF p. 4,"OAG Civil Medicaid Fraud (CMF) Division ... Total Amount Recovered $185,688,277.89",high,,claude-sonnet-5,2026-10-05,1,no
+o-c888913152,"$ 151,422,664",,1,Total Amount Recovered,PDF p. 4,"OAG Civil Medicaid Fraud Division ... Total Amount Recovered $ 151,422,664",high,Printed page 3,claude-sonnet-5,2026-10-05,1,no
+o-6dd5cc799a,"328,175",,thousand,Rewards paid,PDF p. 65,"2008 18 2,149,407 328,175",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-3e53b78a2b,20,,1,Number of cases,PDF p. 65,"2009 20 5,811,771 642,146",high,cases reported with reward paid,claude-sonnet-5,2026-10-05,1,no
+o-f024aca20d,51,,million,text,PDF p. 66,"In 2016, KRW 51 million in award money was paid among 11 reported cases",high,text on pdf p.66 (printed 65),claude-sonnet-5,2026-10-05,1,no
+o-5a43b791d2,"1,154 cases",,1,Handled(a+b+c),PDF p. 67,"2015 1,154 cases 511 cases 81 cases 562 cases",medium,Handled = paid+dismissed+concluded; paid column 511 per table,claude-sonnet-5,2026-10-05,1,no
+o-f4cd0f506e,678 cases,,1,Handled(a+b+c),PDF p. 67,2014 678 cases 657 cases 21 cases,medium,Handled = paid+dismissed+concluded,claude-sonnet-5,2026-10-05,1,no
+o-4d53dcde89,168 cases,,1,Dismissed (b),PDF p. 67,2013 487 cases 319 cases 168 cases,medium,Dismissed column,claude-sonnet-5,2026-10-05,1,no
+o-ff1d20913b,"28,770,531",,thousand,Benefits incurred,PDF p. 65,"2015 29 28,770,531 1,426,658",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-767d78755d,"18,834,014",,thousand,Benefits incurred,PDF p. 65,"2011 12 18,834,014 1,499,401",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-d9daffeeb5,"147,860",,thousand,Benefits incurred,PDF p. 67,"2012 32 cases 32 cases - - 147,860 28,472",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-a354cc84c6,"23,997,537",,thousand,Benefits incurred,PDF p. 65,"2016 90 23,997,537 2,275,033",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-d901b466e8,"9,941",,1,text,"p. 1, para 2","보상금 요청은 9,941건이며, 이 중 6,417건에 대해 보상금 96억 4천만 원과 포상금 4억 7천만 원이 지급",high,Sep 2011 to Aug 2020 reward requests received,claude-sonnet-5,2026-10-05,1,no
+o-4fb590118e,"2,214",,million,보상금액,"chart 연도별 공익신고 보·포상금 지급 및 수입회복액 현황 (unit 백만 원), row 보상금액 (OCR of stored image kor-acrc-pr-2020-09-28-table1.jpg)","2,214",medium,"Read from chart image via OCR; 보상금액 (reward) row; separate smaller 포상금 (award) row exists (5,12,60,332,58), which is not included; unit million KRW",claude-sonnet-5,2026-10-05,1,no
+o-b9e78903c3,"1,535",,million,보상금액,"chart 연도별 공익신고 보·포상금 지급 및 수입회복액 현황 (unit 백만 원), row 보상금액 (OCR of stored image kor-acrc-pr-2020-09-28-table1.jpg)","1,535",medium,"Read from chart image via OCR; 보상금액 (reward) row; separate smaller 포상금 (award) row exists (5,12,60,332,58), which is not included; unit million KRW",claude-sonnet-5,2026-10-05,1,no
+o-0347f74bca,380,,million,보상금액,"chart 연도별 공익신고 보·포상금 지급 및 수입회복액 현황 (unit 백만 원), row 보상금액 (OCR of stored image kor-acrc-pr-2020-09-28-table1.jpg)",380,medium,"Read from chart image via OCR; 보상금액 (reward) row; separate smaller 포상금 (award) row exists (5,12,60,332,58), which is not included; unit million KRW; matches 2016 annual report 379,997 thousand",claude-sonnet-5,2026-10-05,1,no
+o-e1a05a3981,397,,million,보상금액,"chart 연도별 공익신고 보·포상금 지급 및 수입회복액 현황 (unit 백만 원), row 보상금액 (OCR of stored image kor-acrc-pr-2020-09-28-table1.jpg)",397,medium,"Read from chart image via OCR; 보상금액 (reward) row; separate smaller 포상금 (award) row exists (5,12,60,332,58), which is not included; unit million KRW; matches 2016 annual report 397,340 thousand",claude-sonnet-5,2026-10-05,1,no
+o-77ff7ed93f,,,1,,,,low,"Not found: press release gives no figure for 2016-01 to 2020-08; only cumulative since Sept 2011 (96.4억 won 보상금, 4.7억 포상금)",claude-sonnet-5,2026-10-05,1,no
+o-de930124c9,17.282,,billion,text (2) Rewards,PDF p. 99,paid nearly 17.282 billion won in total for 775 cases in reward for corruption reporting,high,"Text figure; the annual table total says 16,954,222 thousand for 757 cases (differs)",claude-sonnet-5,2026-10-05,1,no
+o-5fe9d99b1e,775,,1,text (2) Rewards,PDF p. 99,nearly 17.282 billion won in total for 775 cases in reward for corruption reporting,high,Text figure; annual table total says 757 cases,claude-sonnet-5,2026-10-05,1,no
+o-f5f195451f,"1,534,593",,thousand,Public interest Rewards paid,PDF p. 100,"2019 211 22,254,652 1,534,593",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-9682468cba,845,,million,text (1) Awards,PDF p. 99,paid nearly 845 million won in total for 93 cases in monetary awards for corruption reporting,high,'nearly 845 million won',claude-sonnet-5,2026-10-05,1,no
+o-1d61df4231,"2,312,974",,thousand,Corruption reporters Rewards paid,PDF p. 100,"2019 197 28,364,346 2,312,974",high,"unit KRW 1,000",claude-sonnet-5,2026-10-05,1,no
+o-c4992732d4,197,,1,Corruption reporters Cases,PDF p. 100,"2019 197 28,364,346 2,312,974",high,,claude-sonnet-5,2026-10-05,1,no
+o-513c2f372c,969,,1,"Through August 5, 2015",Table 1 Whistleblower Claim Closures by Closure Reason (printed p. 16),"Closed - other 1,082 1,620 969 3,671",high,pdf page number not checked; printed p.16,claude-sonnet-5,2026-10-05,1,no
+o-6b4423a497,"1,082",,1,2013,Table 1 Whistleblower Claim Closures by Closure Reason (printed p. 16),"Closed - other 1,082 1,620 969 3,671",high,,claude-sonnet-5,2026-10-05,1,no
+o-7db51fc5cc,"1,694",,1,Total referred to examination by SME,"Table 2 (printed p. 20), PDF p. 25","Total claims 1,922 1,694 88%",high,"Claims sent to SME 1,922; referred 1,694",claude-sonnet-5,2026-10-05,1,no
+o-1f1c19a1ab,"2,427",,1,"Through August 5, 2015",Table 1 (printed p. 16),"Claim denied 2,427",medium,"'Claim denied' row; separate 'Claim rejected' row is 3,599 (not included)",claude-sonnet-5,2026-10-05,1,no
+o-e086b05323,139,,1,"Through August 5, 2015",Table 1 (printed p. 16),Award paid 130 238 139 507,high,,claude-sonnet-5,2026-10-05,1,no
+o-ecad43867d,238,,1,2014,Table 1 (printed p. 16),Award paid 130 238 139 507,high,,claude-sonnet-5,2026-10-05,1,no
+o-e0f11f0df8,1.1,,billion,text,para 1,a 75 percent increase over the prior year's recoveries ($1.1 billion),high,rounded figure,claude-sonnet-5,2026-10-05,1,no
+o-85a8f3887b,1.7,,billion,text,para 5,health care fraud accounted for the lion's share of recoveries-$1.7 billion,high,includes whistleblower and government-initiated,claude-sonnet-5,2026-10-05,1,no
+o-08af371469,319,,million,text,para 4,whistle-blowers recovered over $319 million in rewards under the Act,high,'over $319 million',claude-sonnet-5,2026-10-05,1,no
+o-58cb1844d2,12,,billion,text,para 1,brings total recoveries to over $12 billion since Congress substantially strengthened the civil False Claims Act in 1986,high,'over $12 billion',claude-sonnet-5,2026-10-05,1,no
+o-de82de2d3f,299,,million,text,para 6,defense procurement fraud accounted for $299 million in recoveries,high,,claude-sonnet-5,2026-10-05,1,no
+o-24f53d5f57,2.1,,billion,text,para 1,tallied a record $2.1 billion,high,,claude-sonnet-5,2026-10-05,1,no
+o-12d1071770,230,,million,text,para 6,The Department recovered more than $230 million from companies alleged to have underpaid royalties,high,'more than $230 million'; para number approx (para 5 by count),claude-sonnet-5,2026-10-05,1,no
+o-2d1566c50c,840,,million,text,para 4,Health care fraud cases ... totaling more than $840 million,high,'more than $840 million',claude-sonnet-5,2026-10-05,1,no
+o-2cf796cf0b,100,,million,text,para 8,Defense procurement fraud accounted for another $100 million in recoveries,high,,claude-sonnet-5,2026-10-05,1,no
+o-d91fbb95dd,1.2,,billion,text,para 3,Approximately $1.2 billion of the Department's settlements and judgments occurred in connection with cases filed under the federal whistleblower statute,high,'Approximately',claude-sonnet-5,2026-10-05,1,no
+o-11f3bd18c9,173,,million,text,para 3,payments to whistleblowers for the past fiscal year ... have totaled approximately $173 million,high,'approximately',claude-sonnet-5,2026-10-05,1,no
+o-1a12bace91,1.5,,billion,text,para 1,collected a record $1.5 billion in civil fraud recoveries,high,,claude-sonnet-5,2026-10-05,1,no
+o-8b127a57ed,68,,1,건,"PDF p. 1, para 2",보상금을 지급하기로 한 68건,high,"Decided to pay (determined), cases; press release header dated 2023.4.23 but stated as 'this year Q1'; also 68 persons in para 1",claude-sonnet-5,2026-10-05,1,no
+o-36ddf7d7a8,70,,100 million won (억원),수입 회복액,"PDF p. 1, para 1",공공기관이 회복한 수입금액은 약 70억원,high,'약 70억원' = about KRW 7.0 billion; value in 억원 (1 억 = 100 million); scale billion = 7,claude-sonnet-5,2026-10-05,1,no
+o-cd250229bb,68,,1,명,"PDF p. 1, para 1",부패‧공익신고자 68명에게 보상금 약 8억2천만원,high,,claude-sonnet-5,2026-10-05,1,no
+o-36cfecd343,8.2,,100 million won (억원),보상금,"PDF p. 1, para 1",보상금 약 8억2천만원,high,'약 8억2천만원' = about KRW 820 million (decided/paid),claude-sonnet-5,2026-10-05,1,no
+o-0e9327f882,44,,1,명,"PDF p. 1, para 1",부패·공익신고자 44명에게 보상금 6억 5천여만 원,high,reward recipients only; separate 2 persons for 포상금,claude-sonnet-5,2026-10-05,1,no
+o-573a956a28,6.5,,100 million won (억원),보상금,"PDF p. 1, para 1",보상금 6억 5천여만 원,high,'6억 5천여만 원' = about KRW 650 million; excludes 포상금 6천여만 원,claude-sonnet-5,2026-10-05,1,no
+o-cbc87865fe,65,,100 million won (억원),수입 회복 결정액,"PDF p. 1, para 2",공공기관이 회복 결정한 수입은 약 65억 원,high,'약 65억 원' = about KRW 6.5 billion,claude-sonnet-5,2026-10-05,1,no
+o-774ce0fc4c,6,,10 million won (천만원),포상금,"PDF p. 1, para 1",2명에게 포상금 6천여만 원,high,"'6천여만 원' = about KRW 60 million, 2 persons, H1 2025",claude-sonnet-5,2026-10-05,1,no
+o-d0c9c81d2b,1,,1,text,PDF p. 26,"1 prašymas priimtas nagrinėti, tačiau atlyginimas už vertingą informaciją neskirtas",medium,"Of 3 requests: 2 left unexamined and returned (no whistleblower status), 1 examined and reward not granted; count of denial is my reading",claude-sonnet-5,2026-10-05,1,no
+o-4b3c0c98bb,,,1,text,PDF p. 26,atlyginimas už vertingą informaciją neskirtas,low,No award printed as paid; text implies none granted (0) but no explicit number,claude-sonnet-5,2026-10-05,1,no
+o-c6b36494cc,3,,1,text,PDF p. 26,Taip pat gauti 3 prašymai atlyginti už vertingą informaciją (2023 m. – 3),high,,claude-sonnet-5,2026-10-05,1,no
+o-13ee4268b6,1,,1,text,PDF p. 10 (printed 8),"egy olyan kérelmet fogadott be, amellyel összefüggésben versenyfelügyeleti eljárás is indult",high,one application admitted,claude-sonnet-5,2026-10-05,1,no
+o-a3377e7cee,25,30,1,text,PDF p. 10 (printed 8),2013-ban a GVH mintegy 25-30 esetben folytatott potenciális kérelmezőkkel megbeszélés,medium,"Range 'about 25-30' discussions with potential applicants; low end in value, high in value_high",claude-sonnet-5,2026-10-05,1,no
+o-d818d77e45,"55억 2,740만 원",,1,text,"p. 1, last para but one","441건에 대해 총 55억 2,740만 원의 보상금 등을 지급했다",high,"= KRW 5,527,400,000; 'rewards etc.' (보상금 등), i.e. rewards and awards, corruption and public interest; 2020 calendar year ('지난 한 해')",claude-sonnet-5,2026-10-05,1,no
+o-ad155819d8,441,,1,건,"p. 1, last para but one","보상금 지급신청 등 441건에 대해 총 55억 2,740만 원의 보상금 등을 지급",medium,'441 cases' of reward payment applications etc.; may be applications handled rather than awards paid,claude-sonnet-5,2026-10-05,1,no
+o-3eda61e6d2,241억여 원,,1,text,"p. 1, para 3",신고자들에게 총 241억여 원의 보상·포상금을 지급했다,high,"'over KRW 24.1 billion', 'past 5 years' (statement dated 2022-05-09, period 2017-05 to 2022-04 inferred)",claude-sonnet-5,2026-10-05,1,no
+o-0b25ba1f26,"240,000",,1,"Payments to Whistleblowers, March 31, 2022 column","PDF p. 18, Note 6","Payments to Whistleblowers (240,000) (585,000)",high,"Dollars (CAD) as printed; FY ended Mar 31 2022; prior year 585,000",claude-sonnet-5,2026-10-05,1,no
+o-b5e641f69f,"£290,250",,1,text,PDF p. 30,"In 2018-19, we paid out £290,250 in rewards for information",high,GBP,claude-sonnet-5,2026-10-05,1,no
+o-fdd537da5e,"$163,692,156.95",,1,Total FY 2019,PDF p. 5,"Total Amount Recovered $163,692,156.95",high,CMF Division table,claude-sonnet-5,2026-10-05,1,no
+o-9c1acbc520,"$43,711,128",,1,FY 2024,PDF p. 4,"Total Amount Recovered $43,711,128",high,HPED table,claude-sonnet-5,2026-10-05,1,no
+o-45816a6746,100,,million,Total award amount (millions of won),PDF p. 67,2008 6 100,high,,claude-sonnet-5,2026-10-05,1,no
+o-49df99e8c9,6,,1,Number of awards,PDF p. 67,2009 6 77.5,high,,claude-sonnet-5,2026-10-05,1,no
+o-ec938bc900,"45,05,568,093",,1,Reclaimed amount (won),PDF p. 67,"2010 23 45,05,568,093 603,641,000",medium,"Printed exactly as '45,05,568,093' (malformed separators, likely 4,505,568,093 but not confirmed)",claude-sonnet-5,2026-10-05,1,no
+o-3e30033e1d,"18,834,014,000",,1,Reclaimed amount (won),PDF p. 67,"2011 12 18,834,014,000 1,499,401,000",high,,claude-sonnet-5,2026-10-05,1,no
+o-ce8be76018,"98,298,000",,1,Total reward amount (won),PDF p. 67,"2004 5 1,609,320,740 98,298,000",high,,claude-sonnet-5,2026-10-05,1,no
+o-efc45e8555,"1,499,401,000",,1,Total reward amount (won),PDF p. 67,"2011 12 18,834,014,000 1,499,401,000",high,,claude-sonnet-5,2026-10-05,1,no
+o-2d74bd6695,"2,377,609,000",,1,Total reward amount (won),PDF p. 67,"Total 143 40,788,747,000 2,377,609,000",medium,"Table total row prints 2,377,609,000; the text on same page says 3.877 billion won paid (conflict within the document)",claude-sonnet-5,2026-10-05,1,no
+o-926c08c7e2,17,,1,Approved request (number of cases),PDF p. 67,"2005 17 3,669,619,859",high,,claude-sonnet-5,2026-10-05,1,no
+o-8a099f7562,26,,1,Approved request (number of cases),PDF p. 67,"2007 26 2,049,584,101",high,,claude-sonnet-5,2026-10-05,1,no
+o-c42d73e0f3,0,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-076ff131ea,0,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-a786d46301,10,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-0097fac19b,55,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-7019138731,95,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-8e2052fc64,65,,million,Exchequer impact (£m),PDF p. 104,Exchequer impact +0m +0m +10m +55m +95m +65m,high,Printed with + sign and m suffix; table headed Exchequer impact (£m),claude-sonnet-5,2026-10-05,1,no
+o-27798589ba,277,,1,Number of cases,PDF p. 104,"2018 277건 66,077,269 2,213,658",high,Public interest table; printed page number 102,claude-sonnet-5,2026-10-05,1,no
+o-504abe7a16,166,,1,Number of cases,PDF p. 103,"2018 166 36,836,590 3,114,994",high,printed page 101,claude-sonnet-5,2026-10-05,1,no
+o-cd91ac25ea,"3,114,994",,thousand,"Rewards paid (KRW 1,000)",PDF p. 103,"2018 166 36,836,590 3,114,994",high,,claude-sonnet-5,2026-10-05,1,no
+o-aa6af5206f,"36,836,590",,thousand,"Benefits incurred (KRW 1,000)",PDF p. 103,"2018 166 36,836,590 3,114,994",high,,claude-sonnet-5,2026-10-05,1,no
+o-156093e78c,"66,077,269",,thousand,"Benefits incurred (KRW 1,000)",PDF p. 104,"2018 277건 66,077,269 2,213,658",high,,claude-sonnet-5,2026-10-05,1,no
+o-c87560686e,76 million,,million,text under table,PDF p. 104,KRW 76 million was provided in award money to reporters in total of 13 cases since the 2016 implementation of award system,high,Value printed as KRW 76 million; 13 cases; 'since 2016' to 2018,claude-sonnet-5,2026-10-05,1,no
+o-01258b4abb,558억 원,,1,para 1 (recovered revenue),PDF p. 1,공공기관이 회복한 수입금액은 558억 원,high,Printed in Korean units: 558 eok won = 55.8 billion won. Revenue recovered by public institutions through corruption and public-interest reports,claude-sonnet-5,2026-10-05,1,no
+o-f7c5e460ab,692명,,1,para 1,PDF p. 1,2023년 부패·공익신고자 692명에게 총 57억 원의 보상금 등을 지급,high,,claude-sonnet-5,2026-10-05,1,no
+o-7018b118db,"8억 1,379만 원",,1,para 6,PDF p. 1,"공익신고 보상금 8억 1,379만 원",high,,claude-sonnet-5,2026-10-05,1,no
+o-e1ce9d3adb,"5억 2,177만 원",,1,para 6,PDF p. 1,"공공재정 부정청구 신고 보상금 5억 2,177만 원",high,,claude-sonnet-5,2026-10-05,1,no
+o-89a8cec6f8,"42억 4,325만 원",,1,para 2,PDF p. 1,"부패신고 보상금* 등으로 총 42억 4,325만 원을 집행",high,Corruption-report rewards 'etc' total disbursed (보상금 등); 'record high',claude-sonnet-5,2026-10-05,1,no
+o-f15fc7c037,700만 원,,1,para 6,PDF p. 1,청탁금지법 위반신고 보상금 700만 원,high,Improper Solicitation and Graft Act violation reports,claude-sonnet-5,2026-10-05,1,no
+o-2afdb3c391,$2.2 billion,,billion,para 1,HTML text,the Departments largest recoveries totaled $2.2 billion for FY 2003,high,,claude-sonnet-5,2026-10-05,1,no
+o-68de24af8b,$609 million,,million,last para,HTML text,Defense procurement fraud accounted for $609 million in settlement and judgment awards,high,Defense procurement; DoD-specific wording not used,claude-sonnet-5,2026-10-05,1,no
+o-53b5340b18,$1.3 billion,,billion,para 5,HTML text,suits brought by whistle blowers under the False Claims Act's qui tam provisions accounted for the remaining $1.3 billion,high,,claude-sonnet-5,2026-10-05,1,no
+o-3c83b8b179,$1.8 billion,,billion,para 5,HTML text,Government-initiated claims accounted for $1.8 billion of the total $3.1 billion,high,,claude-sonnet-5,2026-10-05,1,no
+o-4af056b3b0,$3.1 billion,,billion,para 1,HTML text,recovered a record amount of more than $3.1 billion,high,'more than $3.1 billion',claude-sonnet-5,2026-10-05,1,no
+o-1eb2c5fb6f,$2.2 billion,,billion,last paras,HTML text,Health care fraud accounted for $2.2 billion in settlements and judgments,high,,claude-sonnet-5,2026-10-05,1,no
+o-dd305ff1a4,$1.6 billion,,billion,health care para,HTML text,"health care fraud recoveries reached $1.6 billion, two-thirds of the year's total",high,,claude-sonnet-5,2026-10-05,1,no
+o-d0ae192de8,$422 million,,million,procurement para,HTML text,including $422 million attributable to Department of Defense contracts,high,,claude-sonnet-5,2026-10-05,1,no
+o-2cd8cf7efc,nearly $2 billion,,billion,para 3,HTML text,nearly $2 billion was recovered in lawsuits filed under the False Claims Act's qui tam provisions,high,Printed as 'nearly $2 billion' (no exact figure),claude-sonnet-5,2026-10-05,1,no
+o-7f58a1a992,$255 million,,million,relator para,HTML text,"In fiscal year 2009, relators were awarded $255 million",high,,claude-sonnet-5,2026-10-05,1,no
+o-e64eabff6e,$608.4 million,,million,procurement para,HTML text,Procurement fraud accounted for a quarter of fiscal year 2009 recoveries with $608.4 million,high,,claude-sonnet-5,2026-10-05,1,no
+o-83c8c29bb3,$2.4 billion,,billion,para 1,HTML text,The United States secured $2.4 billion in settlements and judgments,high,,claude-sonnet-5,2026-10-05,1,no
+o-71ced27999,297,,1,Rejected (Figure 1 total row),PDF p. 9 (printed p. 3),"Claims ... 1,516 160 297 1,973",high,"Figure 1 snapshot as of March 30, 2009; page number approximate",claude-sonnet-5,2026-10-05,1,no
+o-8c170f3020,more than $340 million,,million,text,printed p. 1 (Background/Synopsis),"From Fiscal Years 2001 through 2005, more than $340 million in taxes, fines, penalties, and interest were recovered",high,Printed as 'more than $340 million',claude-sonnet-5,2026-10-05,1,no
+o-89448e5d66,"1,516",,1,Open Inventory (Figure 1 total row),printed p. 3,"Claims 1,516 160 297 1,973",high,,claude-sonnet-5,2026-10-05,1,no
+o-a0a8f4ec1e,"1,973",,1,Total (Figure 1 total row),printed p. 3,"Claims 1,516 160 297 1,973",medium,"Total of open, reclassified 7623(a) and rejected claims in the Access database; the document does not label it 'received'",claude-sonnet-5,2026-10-05,1,no
+o-87a42c691a,more than $27 million,,million,text,printed p. 1 (Background/Synopsis),Awards of more than $27 million were paid to informants,high,Printed as 'more than $27 million',claude-sonnet-5,2026-10-05,1,no
+o-7d7b96d47d,3,,1,reward applications for valuable information,PDF p. 25,2023 m. gauti 3 prašymai atlyginti už vertingą informaciją (2022 m. – 2),high,,claude-sonnet-5,2026-10-05,1,no
+o-61e2448515,0,,1,para under 'Dėl atlyginimo...',PDF p. 25,Atlyginimas nebuvo paskirtas nė vienam pranešėjui,high,Printed as 'none' (nė vienam); value 0 is an interpretation of the words,claude-sonnet-5,2026-10-05,1,no
+o-b1c90cff49,2,,1,reward applications for valuable information,PDF p. 25,2023 m. gauti 3 prašymai ... (2022 m. – 2),high,,claude-sonnet-5,2026-10-05,1,no
+o-f65920ac44,"$40,504,700.87",,1,text,"April 15, 2019 letter, p. 1","MFCU's monetary recoveries under the New York State False Claims Act in 2018 were $40,504,700.87",high,,claude-sonnet-5,2026-10-05,1,no
+o-cc863a9345,"$62,355,088.63",,1,text,"April 15, 2021 letter, p. 2 (PDF p. 3)","recoveries ... in 2020 were $62,355,088.63",high,,claude-sonnet-5,2026-10-05,1,no
+o-02fc31e56a,"$114,076,564.58",,1,text,"May 11, 2020 letter, p. 3 (PDF p. 2)","recoveries ... in 2019 were $114,076,564.58",high,,claude-sonnet-5,2026-10-05,1,no
+o-7b74b4ab21,2,,1,text,PDF p. 13,A mintegy 20 potenciális informátori megkeresésből végül 2 kérelmet fogadott be a GVH,high,,claude-sonnet-5,2026-10-05,1,no
+o-f79f1b64e3,20,,1,text,PDF p. 13,A mintegy 20 potenciális informátori megkeresésből,medium,Printed as 'mintegy 20' (about 20) potential informant inquiries,claude-sonnet-5,2026-10-05,1,no
+o-437b1c3cfb,"$64,265,427",,1,FY 2015,PDF p. 5,"Total Amount Recovered $64,265,427 $115,030,716",high,,claude-sonnet-5,2026-10-05,1,no
+o-190d706cc3,"$115,030,716",,1,FY 2016,PDF p. 5,"Total Amount Recovered $64,265,427 $115,030,716",high,,claude-sonnet-5,2026-10-05,1,no
+o-9dedf211d6,"481,092",,1,"March 31, 2023 column",PDF p. 18,"Less: Payments to Whistleblowers (481,092) (240,000)",high,"Printed in parentheses as a deduction, in dollars",claude-sonnet-5,2026-10-05,1,no
+o-50d35ceeae,1,,1,para under 'Dėl atlyginimo...',PDF p. 25,Atlyginimas nebuvo paskirtas nė vienam pranešėjui (2022 m. – 1),low,"Ambiguous: the parenthetical (2022 m. - 1) follows the sentence that no reward was awarded; read as 1 award in 2022 (2 applications in 2022), but not stated outright",claude-sonnet-5,2026-10-05,1,no
+o-92d99974e9,"£473,000",,1,box 'Rewards for information',PDF p. 34 (printed p. 35),"In 2019 to 2020 we paid out £473,000 in rewards for information",high,,claude-sonnet-5,2026-10-05,1,no
+o-fc1b0bf036,approximately $2.5 billion,,billion,closing paragraph,HTML text,"Since 2000, the Texas Attorney General's Civil Medicaid Fraud Division has recovered approximately $2.5 billion",high,Printed as 'approximately $2.5 billion',claude-sonnet-5,2026-10-05,1,no
+o-e978bdd137,"$236,033,459.42",,1,FY 2020,PDF p. 5,"Total Amount Recovered $236,033,459.42",high,,claude-sonnet-5,2026-10-05,1,no
+o-59bed9b8e8,"$71,605,100",,1,FY 2025,PDF p. 4,"OAG HEALTHCARE PROGRAM ENFORCEMENT DIVISION ... Total Amount Recovered $71,605,100",high,,claude-sonnet-5,2026-10-05,1,no
