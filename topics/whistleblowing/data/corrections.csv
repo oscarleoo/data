@@ -30,3 +30,7 @@ observations,o-cbc87865fe,value,65,"Scale error in the first reading: the releas
 observations,o-cbc87865fe,scale,hundred million,See value.,second reading 2026-10-05
 observations,o-5cd36f3328,value,494,"Scale error in the first reading: the release prints ""494억"" (hundred million won), recorded as 494 with scale ten thousand (100 times too small). Found by the blind second reading and confirmed against the quote.",second reading 2026-10-05
 observations,o-5cd36f3328,scale,hundred million,See value.,second reading 2026-10-05
+cases,c-f856699308,award_amount,104000000,The cases table has no scale column; this amount was written in millions (the row notes say so). Stored in full so it compares with other cases.,page build check 2026-10-05
+cases,c-a54550e347,award_amount,104000000,The cases table has no scale column; this amount was written in millions (the row notes say so). Stored in full so it compares with other cases.,page build check 2026-10-05
+cases,c-a54550e347,sanctions_amount,740000000,The cases table has no scale column; this amount was written in millions (the row notes say so). Stored in full so it compares with other cases.,page build check 2026-10-05
+cases,c-6de6a184aa,award_amount,,"The award was the sum of three relator payments computed by the research agent, not a figure printed in the source; the dataset records only printed numbers. The three payments ($112M, $27.7M, $28M) are in the quote and notes.",page build check 2026-10-05
