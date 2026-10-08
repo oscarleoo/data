@@ -842,3 +842,16 @@ says what was done to it.
   rule changes 2016-2024.
 - **Decision needed:** existing rows quoting a ministry figure through an MP (19,630 certificates) are marked
   "reported"; the rule for MP claims says "claim".
+
+### Canada, batch 1 (pass `extract-cbi-can1`)
+- 20 documents reviewed: 17 complete, 3 partial.
+- Added 4,947 numbers, 8 rules, 13 events: IRCC investor admissions for all 114 citizenships and by province
+  (yearly cells with zeros, monthly and quarterly where not 0; "--" recorded as 1 to 4); the 2014 evaluation of
+  business immigration (profiles, acceptance rates, processing times, income and tax, provincial allocations,
+  10,781 jobs); Facts and Figures 2015 shares; IIVC thresholds and fees; Quebec net worth and stay rules.
+- Partial: the stored evaluation lacks chapter 6 and appendices A-F; monthly/quarterly zero cells in the two
+  IRCC workbooks not written as rows (18,382 cells).
+- Did not add up: evaluation Table 5.8 provincial allocations sum to 2,491,970,740 vs printed 2,483,979,999;
+  processing times 32/38 months in the text vs 34/43 in Table 4.3.
+- **Decisions needed:** write the zero cells as rows (would complete both workbooks)? 4 new indicators; bare "$"
+  recorded as unspecified while older rows from the same documents say CAD.
