@@ -4690,6 +4690,7 @@ NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3.4,million,3400000.0,provisional
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3.7,million,3700000.0,claim,nru-parl-approp-speech-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-8f97846c40
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3740599,1,3740599.0,provisional,nru-mof-bp1-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-94c480e1f9
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,9000000,1,9000000.0,budget,nru-mof-bp1-2025,"Government of Nauru, Department of Finance and Sustainable Development",2025-08-29,62.2,same_source,o-34737f98e1
+NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,9000000,1,9000000.0,budget,nru-mof-bp1-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-9f0e87ce09
 NZL,,rbi_investment_total,2009-2024,unspecified,10,billion,10000000000.0,estimate,nzl-mbie-cab-investor-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-92684bf2b7
 NZL,,rbi_investment_total,2009-2024,unspecified,10795000000,1,10795000000.0,estimate,nzl-mbie-aip-briefings-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-78754d2d0f
 NZL,nzl-aip,applications_approved [route=pre_2025_settings],FY2023/24,applications,14,1,14.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,44.0,revision,o-e41f275ffa

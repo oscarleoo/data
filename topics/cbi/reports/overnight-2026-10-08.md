@@ -930,3 +930,12 @@ says what was done to it.
 - **Corrections suggested:** case c-acde6dec05 names Kim Gwang-ho (he did go public, per a CNN source in the
   data) but its source, the NHTSA release, doesn't name him, and it duplicates c-2fe1a61a52 from the same
   release; two duplicate events from that release; one NHTSA case lacks the $81m collected.
+
+### Nauru (passes `extract-cbi-nru1`, `-nru2`)
+- 22 documents reviewed (citizenship acts 1997-2026, regulations 2024-2026, programme web pages, budget papers,
+  IMF 2025): 21 complete, 1 partial.
+- Added 27 numbers, 125 rules, 1 event: every price and fee in the regulations and web pages (adding family,
+  agent fees, bank charges), age limits, penalties, deadlines; budget figures (FY2025/26 budget 9,000,000;
+  55% of non-tax revenue); IMF comparison table of 7 programmes; 89 visa-free destinations.
+- Partial: an IMF chart with no printed values.
+- Nauru now: all stored Nauru documents reviewed (see ledger count).
