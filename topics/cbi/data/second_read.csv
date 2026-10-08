@@ -6798,3 +6798,270 @@ o-3a760d3c58,0,,1,5th Total,PDF p. 22,Liechtenstein | 0 | 0 | 0 | 0 | 0 | 0 | 0,
 o-8450c35389,0,,1,5th Target Employment (Areas),PDF p. 19,Morocco | 0 | 0 | 0 | 5 | 5 | 33 | 327,high,,claude-sonnet-5,2026-10-08,1,no
 o-99335c7d4e,16,,1,5th Regional Target Areas,PDF p. 20,Qatar | 0 | 0 | 0 | 16 | 16 | 24 | 57,high,,claude-sonnet-5,2026-10-08,1,no
 o-73fb0e2cf6,2,,1,5th Regional Target Areas,PDF p. 19,Eritrea | 0 | 0 | 0 | 2 | 2 | 39 | 308,high,,claude-sonnet-5,2026-10-08,1,no
+o-c0996d4e56,4,,1,,HTML para 2,"To date, four individuals have been granted Antigua and Barbuda citizenship",high,Total to date (12 Apr 2016) of Iraqi nationals: four individuals (1 single + family of 3).,claude-sonnet-5,2026-10-08,1,no
+o-dc4d97ca21,3,,1,,"HTML para 3, 2nd bullet","A family of three ... applied in April, 2015, and was approved in July, 2015",high,Family of three approved July 2015.,claude-sonnet-5,2026-10-08,1,no
+o-9c9605c721,74,,million,2017,PDF p. 36,Of which: CIP revenue ... 74 (2017),high,"Table 3 EC$ millions, projection; Of which: CIP revenue row.",claude-sonnet-5,2026-10-08,1,no
+o-6c79d61926,77,,million,2019,PDF p. 36,Of which: CIP revenue ... 77 (2019),high,"Table 3 EC$ millions, projection.",claude-sonnet-5,2026-10-08,1,no
+o-7255201c29,78,,million,2020,PDF p. 36,Of which: CIP revenue ... 78 (2020),high,"Table 3 EC$ millions, projection.",claude-sonnet-5,2026-10-08,1,no
+o-928883d26a,73,,million,2016,PDF p. 36,Of which: CIP revenue ... 73 (2016),high,"Table 3 EC$ millions, projection.",claude-sonnet-5,2026-10-08,1,no
+o-bb83974307,10,,1,,PDF p. 13,the comparable program in St. Kitts and Nevis earns more than 10 percent of GDP for the treasury,medium,Printed as 'more than 10 percent of GDP'; no year given in the sentence (document is 2014 consultation).,claude-sonnet-5,2026-10-08,1,no
+o-7046dd199d,10.0,,million,2014H1,PDF p. 35,Of which: CIP 1/ ... 10.0,high,"Table 2 EC$ million, 2014H1 (Prel.).",claude-sonnet-5,2026-10-08,1,no
+o-11c270a2b9,53.7,,million,2014H2,PDF p. 35,Of which: CIP 1/ ... 53.7,high,"Table 2 EC$ million, 2014H2.",claude-sonnet-5,2026-10-08,1,no
+o-5f0cb81d37,1.9,,1,2018,PDF p. 37,Of which: CIP revenue ... 1.9 (2018),high,"Table 4 percent of GDP, projection.",claude-sonnet-5,2026-10-08,1,no
+o-ac37789261,1.4,,1,2018,PDF p. 35,o/w CIP revenue 2.6 1.4 3.1 ...,medium,"OCR of scan page; row 'o/w CIP revenue'. Table 3b % GDP; OCR printed '14', consistent with 60/GDP.",claude-sonnet-5,2026-10-08,1,no
+o-7daaf7ab4d,2.6,,1,2017,PDF p. 35,o/w CIP revenue 2.6 ...,medium,OCR of scan page; row 'o/w CIP revenue'. Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-147319cc57,1.8,,1,2026,PDF p. 35,o/w CIP revenue ... 1.9 18 17,medium,OCR of scan page; row 'o/w CIP revenue'. OCR printed '18'; Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-9a74ca33d5,2.3,,1,2021,PDF p. 35,o/w CIP revenue ... 2.6 2.3 2.1,medium,OCR of scan page; row 'o/w CIP revenue'. Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-1301999d5a,98,,million,2022,PDF p. 34,o/w CIP revenue 105 60 142 98 91 98 ...,medium,OCR of scan page; row 'o/w CIP revenue'. Table 3a EC$ millions; 2022 is 6th column.,claude-sonnet-5,2026-10-08,1,no
+o-afc386f61a,1.7,,1,2027,PDF p. 35,o/w CIP revenue ... 1.8 17,medium,OCR of scan page; row 'o/w CIP revenue'. OCR printed '17'; Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-a13611e592,2.1,,1,2022,PDF p. 35,o/w CIP revenue ... 2.3 2.1 2.0,medium,OCR of scan page; row 'o/w CIP revenue'. Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-465161ac74,2.0,,1,2024,PDF p. 35,o/w CIP revenue ... 2.1 2.0 2.0 1.9,medium,OCR of scan page; row 'o/w CIP revenue'. Table 3b % GDP.,claude-sonnet-5,2026-10-08,1,no
+o-40b6916d21,1.4,,1,2018,PDF p. 31,o/w CIP revenue 1.4 3.1 2.6 2.2 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-b1d1df6193,2.6,,1,2020,PDF p. 31,o/w CIP revenue 1.4 3.1 2.6 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-880b0a8219,1.9,,1,2023,PDF p. 31,o/w CIP revenue ... 1.8 1.9 1.6 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-56add76a9b,91,,million,2026,PDF p. 30,o/w CIP revenue ... 93 93 91 93 98,high,,claude-sonnet-5,2026-10-08,1,no
+o-d8f2c1a101,1.4,,1,2028,PDF p. 31,... 1.4 1.4 1.4 (last column 2028),high,,claude-sonnet-5,2026-10-08,1,no
+o-d87145d3d6,93,,million,2024,PDF p. 30,o/w CIP revenue ... 100 93 93 91,high,,claude-sonnet-5,2026-10-08,1,no
+o-0b57638a7f,1.4,,1,2027,PDF p. 31,... 1.4 1.4 1.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-f1ac34e615,1.5,,1,2025,PDF p. 31,... 1.6 1.5 1.4 1.4 1.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-93fa26e3c0,98,,million,2020,PDF p. 31,o/w CIP revenue 98 91 68 62 74 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-7d7c703fe7,1.2,,1,2025,PDF p. 32,o/w CIP revenue 2.6 2.1 1.3 1.1 1.2 1.2 1.1 1.1 1.0 1.0,high,2024 and 2025 both 1.2.,claude-sonnet-5,2026-10-08,1,no
+o-b15f573480,74,,million,2027,PDF p. 31,o/w CIP revenue ... 74 74 74 74 74 74,high,,claude-sonnet-5,2026-10-08,1,no
+o-30b26fb281,2.1,,1,2021,PDF p. 32,o/w CIP revenue 2.6 2.1 1.3 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-497439974c,74,,million,2029,PDF p. 31,"o/w CIP revenue ... 74 (2029, last)",high,,claude-sonnet-5,2026-10-08,1,no
+o-8993d232e2,2.6,,1,2020,PDF p. 32,o/w CIP revenue 2.6 2.1 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-4bfa7a76d9,1.0,,1,2028,PDF p. 32,... 1.1 1.1 1.0 1.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-fcdf471510,91,,million,2021,PDF p. 31,o/w CIP revenue 98 91 68 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-2ac857330d,1.1,,1,2023,PDF p. 31,o/w CIP revenue 2.1 1.4 1.1 1.3 2.6 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-9e79659159,120,,million,2027,PDF p. 30,o/w CIP revenue 91 68 62 74 158 120 120 120 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-5d0aea8406,1.6,,1,2029,PDF p. 31,... 1.9 1.8 1.7 1.6 1.6 1.5 (2026..2031),high,,claude-sonnet-5,2026-10-08,1,no
+o-b9829a0752,1.6,,1,2030,PDF p. 31,... 1.7 1.6 1.6 1.5,high,,claude-sonnet-5,2026-10-08,1,no
+o-389f601a78,2.1,,1,2021,PDF p. 31,o/w CIP revenue 2.1 1.4 1.1 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-65dc2f6af0,1.3,,1,2024,PDF p. 31,o/w CIP revenue 2.1 1.4 1.1 1.3 2.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-59858e8c2f,1.8,,1,2027,PDF p. 31,... 2.6 1.9 1.8 1.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-40d9a8ed26,1.7,,1,2028,PDF p. 31,... 1.9 1.8 1.7 1.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-dad1122862,nearly 60,,1,,PDF p. 10,receipts from the Citizenship by Investment programme accounted for nearly 60 per cent of non-tax revenue and amounted to $88.8 million,medium,Printed as 'nearly 60 per cent' (about 2022; text compares 2021 to 2022). No exact figure.,claude-sonnet-5,2026-10-08,1,no
+o-cd261a7706,"67,906,844",,1,2022 Actuals,PDF p. 40,"of which: CIP Collections 67,906,844",high,"EC$, full units.",claude-sonnet-5,2026-10-08,1,no
+o-74dd9c1dab,"100,000,000",,1,2023 Approved,PDF p. 40,"of which: CIP Collections ... 100,000,000",high,"EC$, full units.",claude-sonnet-5,2026-10-08,1,no
+o-adfa58f2c2,"67,015,166",,1,Preliminary 2023,PDF p. 40,"of which: CIP Collections ... 67,015,166",high,"EC$, full units.",claude-sonnet-5,2026-10-08,1,no
+o-a9ba7c125a,"100,000,000",,1,2024 Budget,PDF p. 40,"of which: CIP Collections ... 100,000,000",high,"EC$, full units.",claude-sonnet-5,2026-10-08,1,no
+o-1201016a7a,nearly 60,,1,,PDF p. 12,The Citizenship by Investment programme contributes nearly 60% of non-tax revenue,medium,Printed 'nearly 60%'; no exact figure.,claude-sonnet-5,2026-10-08,1,no
+o-c9c767aacf,"30,000,000",,1,2023 Approved,PDF p. 40,"Surplus Funds CIU 30,000,000",medium,Row 'Surplus Funds CIU' (below CIP Collections) taken as transfer to government; no row labelled 'transfers'.,claude-sonnet-5,2026-10-08,1,no
+o-7294c4f065,"30,000,000",,1,2024 Budget,PDF p. 40,"Surplus Funds CIU 30,000,000",medium,Same: 'Surplus Funds CIU' row.,claude-sonnet-5,2026-10-08,1,no
+o-78a40043ac,300,,1,Lodgements,PDF p. 2,2015-16 (to 31/05/2016) 300 159,high,Row is a single year-to-date (1 Jul 2015 to 31 May 2016); primary applications.,claude-sonnet-5,2026-10-08,1,no
+o-4730b7921f,159,,1,Grants,PDF p. 2,2015-16 (to 31/05/2016) 300 159,high,Primary applicants granted.,claude-sonnet-5,2026-10-08,1,no
+o-14eee97e36,228,,1,2014-15 Lodgements,PDF p. 1,188 Investor 54 <5 113 25 228 76 373 120,high,Subclass 188 Investor stream.,claude-sonnet-5,2026-10-08,1,no
+o-4fe135b824,58,,1,Lodgements,PDF p. 2,2010-11 58 39,high,,claude-sonnet-5,2026-10-08,1,no
+o-9561c12c54,444,,1,2013-14 Grants,PDF p. 1,188 Business Innovation 429 46 1058 444,high,Subclass 188.,claude-sonnet-5,2026-10-08,1,no
+o-ba09dfebcf,286,,1,2013-14 Grants,PDF p. 1,Significant Investor 306 <5 723 286,high,Subclass 188 Significant Investor stream.,claude-sonnet-5,2026-10-08,1,no
+o-e23a39a68f,211,,1,Lodgements,PDF p. 2,2013-14 211 94,high,,claude-sonnet-5,2026-10-08,1,no
+o-4e3e73cba1,97,,1,Lodgements,PDF p. 2,2012-13 97 104,high,,claude-sonnet-5,2026-10-08,1,no
+o-1c4b080c70,307,,1,2023Q1,PDF p. 1,307 / 2023Q1,high,Bar label under Q1 chart: 102 120 307 388 for 2021 Q1..2024 Q1.,claude-sonnet-5,2026-10-08,1,no
+o-7cca2963b9,120,,1,2022 Q1,PDF p. 1,120 / 2022 Q1,high,Bar label under Q1 chart: 102 120 307 388 for 2021 Q1..2024 Q1.,claude-sonnet-5,2026-10-08,1,no
+o-03b44c58b0,19,,1,6 Months,PDF p. 1,19 / 6 Months,high,Processing-time chart; text layer prints value directly above its month label.,claude-sonnet-5,2026-10-08,1,no
+o-283cb808ce,102,,1,2021 Q1,PDF p. 1,102 / 2021 Q1,high,Bar label under Q1 chart: 102 120 307 388 for 2021 Q1..2024 Q1.,claude-sonnet-5,2026-10-08,1,no
+o-0e9709a7cf,0,,1,1 Month,PDF p. 1,0 / 1 Month,high,Processing-time chart; text layer prints value directly above its month label.,claude-sonnet-5,2026-10-08,1,no
+o-91fed6d451,18,,1,3 Months,PDF p. 1,18 / 3 Months,high,Processing-time chart; text layer prints value directly above its month label.,claude-sonnet-5,2026-10-08,1,no
+o-d6f2ec0d4d,388,,1,2024 Q1,PDF p. 1,388 / 2024 Q1,high,Bar label under Q1 chart: 102 120 307 388 for 2021 Q1..2024 Q1.,claude-sonnet-5,2026-10-08,1,no
+o-ba367ffb90,20,,1,2 Months,PDF p. 1,20 / 2 Months,high,Processing-time chart; text layer prints value directly above its month label.,claude-sonnet-5,2026-10-08,1,no
+o-6178a670a7,-,,1,Oct,PDF p. 1,3. Number of New Citizens / Significant Investment: -,high,Printed as a dash '-' (nil).,claude-sonnet-5,2026-10-08,1,no
+o-75d49485f2,161,,1,Oct,PDF p. 1,"3. Number of New Citizens 161 172 249 582 5,443",high,,claude-sonnet-5,2026-10-08,1,no
+o-b1da8d3f5a,-,,1,Nov,PDF p. 1,2b. Significant Investment: - - - - -,high,Printed as a dash '-' (nil).,claude-sonnet-5,2026-10-08,1,no
+o-af8b5dc04a,"2,298,925",,1,Nov,PDF p. 1,"Other Associated Revenue 2,353,040 2,298,925 3,146,302 7,798,266",high,,claude-sonnet-5,2026-10-08,1,no
+o-953fc5a7ab,"96,835,734",,1,Total,PDF p. 1,"5.Real Estate Investments 49,796,919 26,495,470 20,543,345 96,835,734",high,,claude-sonnet-5,2026-10-08,1,no
+o-780e2cab27,53,,1,Dec,PDF p. 1,2a. Real Estate 29 34 53 116 910,high,,claude-sonnet-5,2026-10-08,1,no
+o-93e76f12be,51,,1,Oct,PDF p. 1,"2. Total Applications Processed 51 56 78 185 1,676",high,,claude-sonnet-5,2026-10-08,1,no
+o-a8b7e3a0cd,46,,1,Oct,PDF p. 1,"2a. Applications Approved 46 50 76 172 1,583",high,,claude-sonnet-5,2026-10-08,1,no
+o-1182c07dd6,1,,1,Nov,PDF p. 1,2b. Application Denied 2 1 4 7 62,high,,claude-sonnet-5,2026-10-08,1,no
+o-858f442a27,"12,836,155",,1,Nov,PDF p. 1,"Real Estate (Government Contribution ...) 2,419,380 12,836,155 5,766,189 21,021,724 64,704,974",high,Layout: figures on the label's own line. Cross-check with net revenues OK.,claude-sonnet-5,2026-10-08,1,no
+o-6faabb5631,37,,1,Dec,PDF p. 1,2. Total Applications Processed 59 65 37 161 557,high,,claude-sonnet-5,2026-10-08,1,no
+o-1c33fab0a0,"3,987,535",,1,Nov,PDF p. 1,"3,064,010 3,987,535 3,405,406 10,456,951 35,024,804 (line beside 'Project)', label 'Other Associated Revenue' on next line)",high,Text layer prints this row's figures on the line beside the neighbouring label; assigned by arithmetic check (NTF + Real Estate + Other - Expenditure = Net Revenues matches for Oct and Nov).,claude-sonnet-5,2026-10-08,1,no
+o-17a4b167f4,41,,1,Oct,PDF p. 1,1. Applications Received 41 46 41 128 469,high,,claude-sonnet-5,2026-10-08,1,no
+o-2948e76df6,21,,1,Dec,PDF p. 1,3. Real Estate 18 26 21 65 789,high,,claude-sonnet-5,2026-10-08,1,no
+o-25dbea3720,"35,024,804",,1,Y-T-D,PDF p. 1,"3,064,010 3,987,535 3,405,406 10,456,951 35,024,804",high,Text layer prints this row's figures on the line beside the neighbouring label; assigned by arithmetic check (NTF + Real Estate + Other - Expenditure = Net Revenues matches for Oct and Nov).,claude-sonnet-5,2026-10-08,1,no
+o-9f6f797155,"54,743,790",,1,Total,PDF p. 1,"11,147,348 26,304,543 17,291,899 54,743,790 (Total column)",high,"Printed on separate line from label; monthly figures sum to the total (11,147,348+26,304,543+17,291,899).",claude-sonnet-5,2026-10-08,1,no
+o-e57a35975d,"5,094,139",,1,Jan,PDF p. 1,"National Transformation Fund 5,094,139 4,825,319 7,553,842 17,473,300",high,,claude-sonnet-5,2026-10-08,1,no
+o-2ad64f1e01,"7,123,730",,1,Jan,PDF p. 1,"Real Estate (Government Contribution ...) 7,123,730 5,040,375 6,048,450 18,212,555",high,,claude-sonnet-5,2026-10-08,1,no
+o-3aca69ac8c,"(2,147,203)",,1,Jan,PDF p. 1,"All Associated Expenditure (2,147,203) (1,728,800) (1,408,896) (5,284,898)",high,Printed in brackets (an outflow).,claude-sonnet-5,2026-10-08,1,no
+o-fe869f756c,40,,1,Total,PDF p. 1,2a. National Transformation Fund 9 14 17 40 40,high,,claude-sonnet-5,2026-10-08,1,no
+o-68df3cb99f,-,,1,Feb,PDF p. 1,1. Significant Investment - - - - -,high,Printed as a dash '-' (nil).,claude-sonnet-5,2026-10-08,1,no
+o-e636dd7363,24,,1,Feb,PDF p. 1,2a. Real Estate 25 24 30 79 79,high,,claude-sonnet-5,2026-10-08,1,no
+o-6b41f96368,76,,1,Total,PDF p. 1,1. Real Estate 24 19 33 76 76,high,,claude-sonnet-5,2026-10-08,1,no
+o-af0a33c3c2,"4,825,319",,1,Feb,PDF p. 1,"National Transformation Fund 5,094,139 4,825,319 7,553,842",high,,claude-sonnet-5,2026-10-08,1,no
+o-885ed79d36,3.5,,1,2017,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-120e86e9d5,3.5,,1,2018,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-5ab33ddfcf,-1.1,,1,2014,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-4a0276ff76,3.1,,1,2016,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-b1ae8200d6,3.5,,1,2019,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-58e34f4b44,-3.0,,1,2009,PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-fdbbcd5e43,1.6,,1,2015 (second 2015 column),PDF p. 42,Primary balance (excl. CBI revenues) -3.0 -1.5 -2.7 -2.5 -3.9 -1.1 1.7 1.6 3.1 3.5 ...,low,"Two adjacent columns for 2015: 1.7 (under header 2015 / 3rd review 1/, program forecast per footnote) and 1.6 (unlabelled column to its right, probably current estimate). Gave 1.6; 1.7 is the alternative.",claude-sonnet-5,2026-10-08,1,no
+o-5aa2a1ce5a,82,,million,2016 Budget,PDF p. 64,The 2016 Budget assumes the receipt of EC$82 million of grant financing from the National Transformation Fund (NTF),high,"Budgeted assumption, not outturn",claude-sonnet-5,2026-10-08,1,no
+o-7625556200,0.3,,million,2014,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-b893f9e75f,16.3,,million,2015,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-77a4c4ef5b,3.4,,million,2019 Proj.,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue; 2019 Budget column is 3.1,claude-sonnet-5,2026-10-08,1,no
+o-809f0c3e37,3.5,,million,2020,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-d2244c360b,3.7,,million,2021,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-cea1c35702,3.9,,million,2022,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-cf8e0bd7db,4.1,,million,2023,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-e44a1f3d30,4.3,,million,2024,PDF p. 35,Citizenship by Investment Program 0.3 16.3 3.4 4.9 3.3 3.1 3.4 3.5 3.7 3.9 4.1 4.3,high,Table headed In EC$ million; row Citizenship by Investment Program under Nontax revenue,claude-sonnet-5,2026-10-08,1,no
+o-5db379c617,12.8,,1,2023,PDF p. 36,Citizenship by Investment Program ... 2.9 3.6 4.0 4.1 12.8 14.8,high,,claude-sonnet-5,2026-10-08,1,no
+o-55158f6255,2.9,,1,2019,PDF p. 36,Citizenship by Investment Program 2.9 3.6 4.0 4.1 12.8 14.8,high,,claude-sonnet-5,2026-10-08,1,no
+o-dc223d79c7,120.3,,million,2021,PDF p. 35,Citizenship by Investment Program 96.1 101.5 120.3 135.4 457.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-ed1b9692ba,4.0,,1,2021,PDF p. 36,Citizenship by Investment Program 2.9 3.6 4.0 4.1 12.8,high,,claude-sonnet-5,2026-10-08,1,no
+o-26e49aebaf,10.7,,1,2023,PDF p. 33,Government CBI revenue (Percent of GDP) 0.2 0.6 1.1 2.2 10.7 12.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-93709cfcdd,0.2,,1,2019,PDF p. 33,Government CBI revenue (Percent of GDP) 0.2 0.6 1.1 2.2 10.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-84e8b93f07,1.1,,1,2021,PDF p. 33,Government CBI revenue (Percent of GDP) 0.2 0.6 1.1 2.2 10.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-349d931d44,135.4,,million,2022,PDF p. 35,Citizenship by Investment Program 96.1 101.5 120.3 135.4 457.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-4bb012d108,3.2,,1,2030,PDF p. 34,Citizenship by Investment Program ... 10.6 14.7 4.2 3.5 3.5 3.3 3.2 3.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-a9dd19047b,10.6,,1,2023,PDF p. 34,Citizenship by Investment Program … … … 10.6 14.7 4.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-7b8450a5f4,3.2,,1,2029,PDF p. 31,Government CBI revenue (Percent of GDP) 3.6 4.0 4.1 12.7 14.7 4.4 3.5 3.5 3.3 3.2 3.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-4b9ee9e3f9,3.5,,1,2026,PDF p. 34,Citizenship by Investment Program 10.6 14.7 4.2 3.5 3.5 3.3 3.2 3.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-f971956ba9,0.2,,1,2027,PDF p. 34,Bondholder CBI-related payments 0.4 0.4 0.4 0.2 2.1 2.5 0.4 0.2 0.2 0.2 0.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-feac86f633,0.0,,million,2030,PDF p. 33,Bondholder CBI-related payments 11.7 11.7 13.0 7.8 78.4 99.6 15.7 9.2 10.3 10.5 0.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-df36f0b14d,3.2,,1,2030,PDF p. 31,Government CBI revenue (Percent of GDP) ... 3.5 3.5 3.3 3.2 3.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-7b8ff997ff,158.7,,million,2030,PDF p. 33,Citizenship by Investment Program 382.2 553.7 165.6 143.8 149.9 151.4 151.5 158.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-7dcfeb7df3,44.9,,million,31 Dec 2024,PDF p. 11,"As of 31st December 2024, the Fund balance stood at $44.9 million",high,"Currency not stated beyond ""$"" (Grenada budget speech, EC$ presumably)",claude-sonnet-5,2026-10-08,1,no
+o-8d76c6d8f5,61.1,,million,now (budget speech),PDF p. 38,Contingency Fund at the Eastern Caribbean Central Bank ... which now stands at EC$61.1 million,high,"Text layer present in PDF (text file empty). No explicit date for the balance, ""now stands""; speech is for 2026 budget",claude-sonnet-5,2026-10-08,1,no
+o-2bc45c2a07,2,,1,2025,PDF p. 43,Two new developments ... were approved,medium,Two new projects approved in 2025 (One True Blue Beach Hotel and Residence; La Sagesse Collections),claude-sonnet-5,2026-10-08,1,no
+o-6042a6fc14,eight,,1,2025,PDF p. 43,bringing the number of active CBI projects to eight,high,"Printed as the word ""eight"" (8)",claude-sonnet-5,2026-10-08,1,no
+o-116b71ff15,"3,240,000",,1,Dec-14,p. 1,"6. Amounts due - cumulative (calculated) NTF - - - - 540,000 1,620,000 2,160,000 2,160,000 3,240,000",high,"PDF p.1, cumulative NTF amounts due, last (Dec-14) column",claude-sonnet-5,2026-10-08,1,no
+o-3a7c77d832,1,,1,Jul-15,p. 3 (PDF p. 3),NTF 1 0 1 0 0 0 1 2 1 3 2 4,high,"Second row of applications received block, Jul-15 = 7th column",claude-sonnet-5,2026-10-08,1,no
+o-22492ac8ee,0,,1,Jan-15,p. 3,Applications rejected block: NTF row 0 0 0 ...,high,"Rejected block is three rows (total, NTF, Investment), all zeros in Jan-15",claude-sonnet-5,2026-10-08,1,no
+o-3b26066380,0,,1,Nov-14,p. 1,2. Applications approved by Cabinet 0 0 0 2 0 1 3 3 0 4,high,Total row; Nov-14 = 9th of 10 columns,claude-sonnet-5,2026-10-08,1,no
+o-04986e746d,-,,1,Apr-14,p. 2,9. CBI account balances (Treasury) - -,medium,"Printed as a dash (nil) in Apr-14; first value 2,022,887 appears only from later column",claude-sonnet-5,2026-10-08,1,no
+o-dff9c6dc34,0,,1,Nov-14,p. 1,NTF 0 0 0 0 0 0 0 0 0 0 (rejected block),high,,claude-sonnet-5,2026-10-08,1,no
+o-563082d2c9,"16,335,000",,1,Dec-15,p. 4,"Savings for arrears/general financing: ... 15,390,000 16,335,000",high,"Values for Jan-Dec 2015 are on p. 4; last column Dec-15. Row identification by order (total, budget fees, savings, grants)",claude-sonnet-5,2026-10-08,1,no
+o-2f16abb128,2,,1,Jun-14,p. 1,Investment 2 0 0 0 1 1 5 1 1 1 / approved Investment 0 0 0 2 0 0 1 2 0 2,high,"Approved block Investment row, Jun-14 = 4th column",claude-sonnet-5,2026-10-08,1,no
+o-a08cca8bec,"1,620,000",,1,1st Half,p. 1 (PDF p. 1),"Investment - budgetary fees 1,620,000 1,822,500 3,442,500 (block 5 Amounts due)",high,,claude-sonnet-5,2026-10-08,1,no
+o-636dddfd13,"8,100,000",,1,1st Half,p. 1 (PDF p. 1),"NTF 8,100,000 39,420,000 39,420,000 (block 6 cumulative)",high,,claude-sonnet-5,2026-10-08,1,no
+o-afa1861195,11,,1,2nd Half,p. 1 (PDF p. 1),4. Applications rejected by Cabinet 8 11 19,high,,claude-sonnet-5,2026-10-08,1,no
+o-ad99cc019e,"21,941,905",,1,TOTAL,p. 1 (PDF p. 1),"NTF (Section 10) 5,578,223 16,363,682 21,941,905",high,,claude-sonnet-5,2026-10-08,1,no
+o-9460e28d04,"9,720,000",,1,1st Half,p. 1 (PDF p. 1),"7. Earmarked for general government financing 9,720,000 42,862,500 42,862,500",high,,claude-sonnet-5,2026-10-08,1,no
+o-5e7911d6ca,6,,1,TOTAL,p. 1 (PDF p. 1),Investment 3 3 6 (rejected block),high,,claude-sonnet-5,2026-10-08,1,no
+o-abbd054ca2,"1,822,500",,1,2nd Half,p. 1 (PDF p. 1),"Investment - budgetary fees 1,620,000 1,822,500 3,442,500",high,,claude-sonnet-5,2026-10-08,1,no
+o-664d8fc2ab,"4,691,084",,1,TOTAL,p. 1 (PDF p. 1),"CBI Dividends 3,158,753 1,532,331 4,691,084",high,,claude-sonnet-5,2026-10-08,1,no
+o-2879617f47,"9,720,000",,1,Aug-17,p. 1 (PDF p. 1),"NTF 48,060,000 4,320,000 9,720,000 10,260,000 (block 5)",high,,claude-sonnet-5,2026-10-08,1,no
+o-0b30e7bb30,"10,125,000",,1,Aug-17,p. 1 (PDF p. 1),"Investment - Approved CBI Projects 24,300,000 6,075,000 10,125,000 - (block 5)",high,,claude-sonnet-5,2026-10-08,1,no
+o-b6655301ee,23,,1,Jul-17,p. 1 (PDF p. 1),NTF 122 23 26 17 66 188 (received),high,,claude-sonnet-5,2026-10-08,1,no
+o-083897afed,449,,1,1st Half,p. 1 (PDF p. 1),3. Number of new citizens 449 65 122 69 256 705,high,,claude-sonnet-5,2026-10-08,1,no
+o-318b35e94c,188,,1,TOTAL,p. 1 (PDF p. 1),NTF 122 23 26 17 66 188 (received),high,,claude-sonnet-5,2026-10-08,1,no
+o-5dbfd9ce11,"11,094,991",,1,Jul-17,p. 1 (PDF p. 1),"10. Amounts spent (Treasury) 16,088,862 11,094,991 8,856,137 4,129,733",high,,claude-sonnet-5,2026-10-08,1,no
+o-3fccb67efa,17,,1,Aug-17,p. 1 (PDF p. 1),Investment 67 14 17 10 41 108 (received),high,,claude-sonnet-5,2026-10-08,1,no
+o-10ecb906cc,19,,1,Sep-17,p. 1 (PDF p. 1),2. Applications approved by Cabinet 125 17 33 19 69 194,high,,claude-sonnet-5,2026-10-08,1,no
+o-ad752b039c,7 000,,1,Number of enquiries,HTML section (2) key numbers,Number of enquiries Nearly 7 000,medium,"Printed as ""Nearly 7 000"" (approximate, below 7 000); first 10 months from March 1, 2024",claude-sonnet-5,2026-10-08,1,no
+o-cee358eab8,50,,1,around % of new applications received,"Chapter 1 text, CIES section","As at March 31, 2010, 1 686 applications were submitted with financial reports prepared by Certificed Public Accountant (Practising), representing around 50 per cent of new applications received",high,"""around"" 50 per cent; as at 2010-03-31",claude-sonnet-5,2026-10-08,1,no
+o-f82dfd6099,1 686,,1,applications submitted with CPA financial reports,"Chapter 1 text, CIES section","As at March 31, 2010, 1 686 applications were submitted with financial reports prepared by Certificed Public Accountant (Practising), representing around 50 per cent of new applications received",high,As at 2010-03-31,claude-sonnet-5,2026-10-08,1,no
+o-fec506f9c0,62,,1,around % of new applications received,"Chapter 1 text, CIES section","As at December 31, 2011, 8 019 applications were submitted ... representing around 62 per cent of new applications received",high,"""around"" 62 per cent; as at 2011-12-31",claude-sonnet-5,2026-10-08,1,no
+o-44bb5091d6,8 019,,1,applications submitted with CPA financial reports,"Chapter 1 text, CIES section","As at December 31, 2011, 8 019 applications were submitted ... representing around 62 per cent of new applications received",high,As at 2011-12-31,claude-sonnet-5,2026-10-08,1,no
+o-7976ff2c61,64,,1,around % of new applications received,"Chapter 1 text, CIES section","As at December 31, 2012, 12 391 applications were submitted ... representing around 64 per cent of new applications received",high,"""around"" 64 per cent; as at 2012-12-31",claude-sonnet-5,2026-10-08,1,no
+o-e7a2d03b2c,12 391,,1,applications submitted with CPA financial reports,"Chapter 1 text, CIES section","As at December 31, 2012, 12 391 applications were submitted ... representing around 64 per cent of new applications received",high,As at 2012-12-31,claude-sonnet-5,2026-10-08,1,no
+o-5296e3ef22,64,,1,around % of new applications received,"Chapter 1 text, CIES section","As at 31 December 2013, 18 257 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received",high,"""around"" 64 per cent; as at 2013-12-31",claude-sonnet-5,2026-10-08,1,no
+o-fa02598246,18 257,,1,applications submitted with CPA financial reports,"Chapter 1 text, CIES section","As at 31 December 2013, 18 257 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received",high,As at 2013-12-31,claude-sonnet-5,2026-10-08,1,no
+o-7848e2fbfe,65,,1,around % of new applications received,"Chapter 1 text, CIES section","As at 31 December 2014, 22,740 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 65 per cent of new applications received",high,"""around"" 65 per cent; as at 2014-12-31",claude-sonnet-5,2026-10-08,1,no
+o-7b8ae4cb3b,"22,740",,1,applications submitted with CPA financial reports,"Chapter 1 text, CIES section","As at 31 December 2014, 22,740 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 65 per cent of new applications received",high,As at 2014-12-31,claude-sonnet-5,2026-10-08,1,no
+o-4a1b1a696c,0,,1,2022,Appendix 5 table,Visas / Entry Permits under 'Capital Investment Entrant Scheme' [Remark 2] 0 5 0 (columns 2022 2023 2024),high,,claude-sonnet-5,2026-10-08,1,no
+o-56e828b12c,5,,1,2023,Appendix 5 table,Visas / Entry Permits under 'Capital Investment Entrant Scheme' [Remark 2] 0 5 0 (columns 2022 2023 2024),high,,claude-sonnet-5,2026-10-08,1,no
+o-b8c1fa7023,11,,1,around 11%,"paragraph ""Under the existing Scheme Rules""",around 11% of the CIES entrants actually made the required investment before submitting an application,medium,"Printed ""around 11%"" (""according to past statistics""); no explicit cut-off date; announcement 2012; period in row (to 2010-10) not stated in this paragraph",claude-sonnet-5,2026-10-08,1,no
+o-25633418dd,15 500,,1,dependants,"paragraph ""Introduced in October 2003""",around 8 200 investors with 15 500 dependants ... bringing in around $58 billion of investment,medium,"""around""; no explicit date in the paragraph (announcement date)",claude-sonnet-5,2026-10-08,1,no
+o-390f27942a,8 200,,1,investors,"paragraph ""Introduced in October 2003""",around 8 200 investors with 15 500 dependants ... bringing in around $58 billion of investment,medium,"""around""; no explicit date in the paragraph",claude-sonnet-5,2026-10-08,1,no
+o-88c72328ee,58,,billion,investment,"paragraph ""Introduced in October 2003""",around 8 200 investors with 15 500 dependants ... bringing in around $58 billion of investment,medium,"""around $58 billion"" (HK$ presumed); no explicit date in the paragraph",claude-sonnet-5,2026-10-08,1,no
+o-c4bca33ace,"1,400",,1,approved to date,Q391 [21967/22],"To date, more than 1,400 IIP applications have been approved for investment with a value of over €1 Billion",medium,"Printed as lower bound ""more than 1,400""",claude-sonnet-5,2026-10-08,1,no
+o-4a196aac17,16,,1,Approved applications,Q405-408 table,"Year Applications received Approved applications Value of Approved Investment 2013 18 16 12,200,000",high,Approvals in a year may relate to earlier-received applications,claude-sonnet-5,2026-10-08,1,no
+o-65c5aac282,"139,750,000",,1,Value of Approved Investment,Q405-408 table,"Year Applications received Approved applications Value of Approved Investment 2018 423 156 139,750,000",high,EUR; unit stated in answer as value in euro (table has no currency symbol),claude-sonnet-5,2026-10-08,1,no
+o-4fc6c52c55,"209,300,000",,1,Value of Approved Investment,Q405-408 table,"Year Applications received Approved applications Value of Approved Investment 2019 443 237 209,300,000",high,No currency symbol in table,claude-sonnet-5,2026-10-08,1,no
+o-a0363d15b1,258,,1,Applications received,Q405-408 table,"Year Applications received Approved applications Value of Approved Investment 2021 258 265 186,100,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-750ded7214,373,,1,Approved applications,Q405-408 table,"Year Applications received Approved applications Value of Approved Investment 2017 324 373 253,700,000",high,Approved exceeds received that year (as the answer notes),claude-sonnet-5,2026-10-08,1,no
+o-57f786c146,"1,052,550,000",,1,Value of Approved Investment TOTAL,Q405-408 table,"TOTAL 2,249 1,431 1,052,550,000",high,"Table total for 2012-2021, no currency symbol",claude-sonnet-5,2026-10-08,1,no
+o-aaf83c6073,1,,billion,value of over €1 Billion,Q391 [21967/22],approved for investment with a value of over €1 Billion,medium,"Printed as lower bound ""over €1 Billion""",claude-sonnet-5,2026-10-08,1,no
+o-23f5a18040,120,,1,visa-free countries and territories,"RIAS, Background / St. Kitts and Nevis section","the country’s passport provides visa-free travel status to over 120 countries and territories, including Canada",medium,"Printed as ""over 120"" (lower bound); claim is about marketing by the programme, as cited by the RIAS",claude-sonnet-5,2026-10-08,1,no
+o-013e72f4df,169,,1,% increase in applications,PDF p. 1,"A 169% increase in applications, accompanied by proportionally higher rejection rates",high,Listed under Key Milestones in 2025; comparison base not stated on the page,claude-sonnet-5,2026-10-08,1,no
+o-a7c4a841b7,169,,1,% increase in applications,kna-ciu-web-our-impact-2026-09.html (not the batch file),Achieved a remarkable 169% increase in applications following the statutory body transition,medium,"Not found in the batch file kna-ciu-web-sustainable-island-state-contribution-2026-09.html (no such figure there); found on the Our Impact page named in the location, under Key milestones. Comparison base is ""following the statutory body transition"", no date",claude-sonnet-5,2026-10-08,1,no
+o-7aede287c4,96,,1,text,PDF p. 38,China (96 applicants),high,,claude-sonnet-5,2026-10-08,1,no
+o-f532b4df36,82,,1,text,PDF p. 38,Nigeria (82 applicants),high,,claude-sonnet-5,2026-10-08,1,no
+o-824c648635,531,,1,text,PDF p. 38,531 nationals of Syria,high,,claude-sonnet-5,2026-10-08,1,no
+o-70f5bf080a,365,,1,text,PDF p. 38,365 of Iraq,high,,claude-sonnet-5,2026-10-08,1,no
+o-9a4a54860b,333,,1,text,PDF p. 38,333 of China,high,"Four-country total (KNA, DMA, LCA, ATG), not Grenada",claude-sonnet-5,2026-10-08,1,no
+o-a729dc934b,0.1,,1,2025,PDF p. 37 (OCR),of which: CBI due diligence costs ... 0.1 0.1 0.1 0.1 0.1,medium,"scan/vector table, read by OCR at 300 and 450 dpi; consistent",claude-sonnet-5,2026-10-08,1,no
+o-21a8ea4705,0.1,,1,2023,PDF p. 37 (OCR),of which: CBI due diligence costs ... 0.1 (2022) 0.1 (2023),medium,OCR,claude-sonnet-5,2026-10-08,1,no
+o-fc2993cfd5,-11.3,,1,2018,PDF p. 37 (OCR),Primary balance (ex. CBI receipts and SIDF Grants...) -1.3 -3.5 -11.3,medium,OCR,claude-sonnet-5,2026-10-08,1,no
+o-51fa00d964,14.0,,1,2023,PDF p. 24,Optimistic of which: CBI 9.8 13.3 14.0 14.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-54400690fc,-2.9,,1,2016,PDF p. 35 (OCR),Overall balance (less CBI inflows) 4/ -2.9 -4.9 -12.6,medium,OCR; sign minus read from OCR,claude-sonnet-5,2026-10-08,1,no
+o-ced76e1497,321.2,,million,2026,PDF p. 36 (OCR),CBI Budgetary Receipts ... 306.7 321.2,medium,OCR; row 'o/w: Citizenship by investment (CBI) Budgetary Receipts'; millions EC$,claude-sonnet-5,2026-10-08,1,no
+o-5e0a00df3a,9.0,,1,2025,PDF p. 35 (OCR),o/w CBI fees ... 9.0 9.0 9.0 9.0 9.0,medium,OCR,claude-sonnet-5,2026-10-08,1,no
+o-782693a736,417.0,,million,2018,PDF p. 36 (OCR),CBI Budgetary Receipts 175.3 149.4 417.0 442.6,medium,OCR; millions EC$,claude-sonnet-5,2026-10-08,1,no
+o-363ebb034a,57.1,,million,2023,PDF p. 32 (OCR),of which: CBI due diligence costs 25.8 26.5 31.8 71.9 57.1,medium,OCR; millions EC$,claude-sonnet-5,2026-10-08,1,no
+o-6bc9696d36,-19.2,,1,2019,PDF p. 31,Overall balance (less CBI revenue) 4/ -19.2,high,,claude-sonnet-5,2026-10-08,1,no
+o-b563a90a33,-22.3,,1,2022,PDF p. 31,-19.2 -21.8 -13.4 -22.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-cc7417ecdc,31.8,,million,2021,PDF p. 32 (OCR),25.8 26.5 31.8 71.9,medium,OCR; millions EC$,claude-sonnet-5,2026-10-08,1,no
+o-fc6df6aac3,-19.8,,1,2024,PDF p. 34,"Current account, excluding CBI receipts -20.6 -22.2 -29.2 -30.8 -22.6 -19.8",high,,claude-sonnet-5,2026-10-08,1,no
+o-4243d5742d,-11.3,,1,2019,PDF p. 33,"Overall balance (ex. land buyback, CBI net receipts) -11.3 -13.3",high,,claude-sonnet-5,2026-10-08,1,no
+o-11844624fe,-12.8,,1,2027,PDF p. 34,... -14.3 -12.8 -11.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-2d284777c3,-13.3,,1,2020,PDF p. 33,-11.3 -13.3 -16.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-f8ae8800f3,+115,,1,text,PDF p. 64,Antigua and Barbuda (+115 percent),high,percent change y/y 2024H1,claude-sonnet-5,2026-10-08,1,no
+o-ef2358415f,-13.7,,1,2028,PDF p. 34,Overall balance (ex. CBI and transfers to banks) -13.3 -16.6 -19.2 -19.2 -18.3 -18.5 -15.3 -13.3 -13.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-0b69bb342a,-13.1,,1,2026,PDF p. 34,Primary balance (ex. CBI and transfers to banks) ... -17.1 -17.3 -13.1,high,,claude-sonnet-5,2026-10-08,1,no
+o-1a46baa50f,0.0,,1,2029,PDF p. 34,minus CBI due diligence fees ... 0.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-ced973c5ee,0.0,,1,2027,PDF p. 34,CBI dividend ... 0.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-62726cf857,-21,,1,text,PDF p. 64,"For the ECCU region, total applications declined by 21 percent (y/y) in 2024H1",high,"ECCU-region total, stated as a decline",claude-sonnet-5,2026-10-08,1,no
+o-7252eac42a,-8.9,,1,2027,PDF p. 13,Primary balance (ex. CBI and transfers to banks) -17.1 -16.2 -11.4 -8.9,high,Active Scenario table,claude-sonnet-5,2026-10-08,1,no
+o-2866b77538,-15.3,,1,2026,PDF p. 34,... -18.3 -18.5 -15.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-3ffe00bda0,-6.7,,1,2015,HTML table 2015-19,Overall balance (less CBI inflows) 6/ -6.7 -3.7 -6.6 -6.1 -4.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-cef8e55337,-3.7,,1,2016,HTML table 2015-19,Overall balance (less CBI inflows) 6/ -6.7 -3.7 -6.6 -6.1 -4.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-d0ce5eb65c,-6.6,,1,2017,HTML table 2015-19,Overall balance (less CBI inflows) 6/ -6.7 -3.7 -6.6 -6.1 -4.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-c0fd6e789f,-6.1,,1,2018,HTML table 2015-19,Overall balance (less CBI inflows) 6/ -6.7 -3.7 -6.6 -6.1 -4.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-a34f83ee26,-4.6,,1,2019,HTML table 2015-19,Overall balance (less CBI inflows) 6/ -6.7 -3.7 -6.6 -6.1 -4.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-8e4a787b7b,2.6,,1,2019,HTML table 2015-20,o/w CBI fees 11.6 6.8 5.7 7.4 2.6 2.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-7dd9499a10,2.0,,1,2020,HTML table 2015-20,o/w CBI fees 11.6 6.8 5.7 7.4 2.6 2.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-d590722059,-5.5,,1,2015,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-559a826269,-3.0,,1,2016,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-a04c464f19,-5.4,,1,2017,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-1b0bb582bb,-4.0,,1,2018,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-e4faba613b,-5.3,,1,2019,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-60c1d0df05,-5.4,,1,2020,HTML table 2015-20,Overall balance (less CBI inflows) 5/ -5.5 -3.0 -5.4 -4.0 -5.3 -5.4,high,,claude-sonnet-5,2026-10-08,1,no
+o-cd5bd43662,9.0,,1,2022,HTML table 2018-24,o/w CBI fees 14.3 14.1 9.8 13.3 9.0 9.0 9.0 (2018-24),high,,claude-sonnet-5,2026-10-08,1,no
+o-9fe6033d4e,9.0,,1,2023,HTML table 2018-24,o/w CBI fees 14.3 14.1 9.8 13.3 9.0 9.0 9.0 (2018-24),high,,claude-sonnet-5,2026-10-08,1,no
+o-7ad507be05,9.0,,1,2024,HTML table 2018-24,o/w CBI fees 14.3 14.1 9.8 13.3 9.0 9.0 9.0 (2018-24),high,,claude-sonnet-5,2026-10-08,1,no
+o-9beb5a2f85,10,,1,text,HTML press release,CBI revenue is expected to face a gradual decline to 10 percent of GDP in 2028,high,,claude-sonnet-5,2026-10-08,1,no
+o-83fb676d16,6.5,,1,2027,HTML table 2021-27,o/w CBI fees 23.8 25.8 22.2 8.6 5.3 6.0 6.5,high,,claude-sonnet-5,2026-10-08,1,no
+o-330fc9e533,1.2,,1,2008,PDF p. 23,Surplus 0.8 1.2 1.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-2c0f4a6b0b,0.3,,1,2009,PDF p. 23,Capital grants to Gov. 0.0 0.1 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-16b5c8e15b,1.11,,billion,text,PDF p. 11,has attracted a total of EUR1.11 billion since its inception in October 2012 through end-December 2014,high,,claude-sonnet-5,2026-10-08,1,no
+o-f8bda308dd,0.24,,1,2011,PDF p. 23,Totals 0.4 0.24 0.0 2.4 (2010-2013),high,,claude-sonnet-5,2026-10-08,1,no
+o-e55b7083b5,9.0,,1,2013,PDF p. 23,Expenditure 1/ ... 3.4 2.8 9.0,high,,claude-sonnet-5,2026-10-08,1,no
+o-c2e5ea6c7d,1.7,,1,2013,PDF p. 23,Investment proceeds to Gov. ... 1.5 1.7,high,,claude-sonnet-5,2026-10-08,1,no
+o-aded029aa8,0.3,,1,2008,PDF p. 23,Expenditure 0.1 0.3 0.8,high,,claude-sonnet-5,2026-10-08,1,no
+o-1c17badcbd,0.1,,1,2007,PDF p. 23,Expenditure 0.1 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-0021012cdb,63.5,,1,text,PDF p. 7,funded 63.5 percent of the Government’s Total Expenditure,high,indicator is share of total expenditure; the 54.9 percent figure is share of Total Revenue and Grants,claude-sonnet-5,2026-10-08,1,no
+o-7a8722a557,-1.1,,1,2016,PDF p. 34,Structural balance excl. IIP proceeds 1/ -1.1 1.3 -1.2 -0.9 -0.6 -0.2 0.0 0.2 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-1d928169cd,1.3,,1,2017,PDF p. 34,Structural balance excl. IIP proceeds 1/ -1.1 1.3 -1.2 -0.9 -0.6 -0.2 0.0 0.2 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-fcc24dfcd8,0.0,,1,2022,PDF p. 34,Structural balance excl. IIP proceeds 1/ -1.1 1.3 -1.2 -0.9 -0.6 -0.2 0.0 0.2 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-c072dc9244,1.0,,1,2016,PDF p. 34,Structural primary balance excl. IIP proceeds 1/ 1.0 3.1 0.4 0.5 0.7 1.1 1.2 1.4 1.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-a2e7fc00d0,0.7,,1,2020,PDF p. 34,Structural primary balance excl. IIP proceeds 1/ 1.0 3.1 0.4 0.5 0.7 1.1 1.2 1.4 1.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-9bd90b6748,1.1,,1,2021,PDF p. 34,Structural primary balance excl. IIP proceeds 1/ 1.0 3.1 0.4 0.5 0.7 1.1 1.2 1.4 1.6,high,,claude-sonnet-5,2026-10-08,1,no
+o-707c4cf2f1,0.1,,1,2023,PDF p. 34,Overall balance excl. IIP proceeds -0.7 1.3 -0.7 -0.6 -0.4 -0.2 -0.1 0.1 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-15221a166d,-0.1,,1,2022,PDF p. 34,Overall balance excl. IIP proceeds -0.7 1.3 -0.7 -0.6 -0.4 -0.2 -0.1 0.1 0.3,high,,claude-sonnet-5,2026-10-08,1,no
+o-aedbba06ea,P588.32,,million,2015,"PDF p. 92 (OCR, page rotated)",SM 7 Revenue Generated ... P346.23 | P413.42 | 525.36 | P588.32 | 660.73 Million,medium,OCR of rotated scan; the 2015 column of the Target row (columns 2012-2016); scale million,claude-sonnet-5,2026-10-08,1,no
+o-bd25998494,$38.25,,million,2015,"PDF p. 91 (OCR, page rotated)",SM 1 ... $38.25 Million $50 Million,medium,"OCR repeated on cell crops, consistent; 2015 target column (2015, 2016 = $38.25M, $50M); scale million",claude-sonnet-5,2026-10-08,1,no
+o-b91b5d2c25,539,,1,Principal,PDF p. 98,"5 Region XI—Davao Region 539 476 1,015 2.80%",high,Principal column used for investor/main permits,claude-sonnet-5,2026-10-08,1,no
+o-4d70445f34,476,,1,Cancellation Principal,PDF p. 97,"2015 2,498 2,533 5,031 476 411 887 4,144",high,,claude-sonnet-5,2026-10-08,1,no
+o-6c55c31e64,"$3,321,500.00",,1,2013,PDF p. 99,"I. Investment Deposit (US$) June: ... $2,526,000.00 (2012) $3,321,500.00 (2013)",high,,claude-sonnet-5,2026-10-08,1,no
+o-7b1329f604,"$2,526,000.00",,1,2012,PDF p. 99,"June ... $3,042,500.00 (2011) $2,526,000.00 (2012)",high,,claude-sonnet-5,2026-10-08,1,no
+o-231787dfc5,"1,822",,1,Net enrollment,PDF p. 97,"2006 1,283 1,116 2,399 341 236 577 1,822",high,,claude-sonnet-5,2026-10-08,1,no
+o-5b863eac3f,"7,545",,1,Principal,PDF p. 98,"1 Chinese (PROC) 7,545 9,456 17,001 35.37%",high,,claude-sonnet-5,2026-10-08,1,no
+o-d2a45bb3b5,27,,1,Cancellation Principal,PDF p. 97,1992 135 117 252 27 20 47 205,high,,claude-sonnet-5,2026-10-08,1,no
+o-e0359d22ae,256,,1,Spouse/Dep.,PDF p. 98,6 Negros Island Region 370 256 626 1.72%,high,dependent column used for family permits,claude-sonnet-5,2026-10-08,1,no
+o-2c28c2da2a,"5,865",,1,bar 2017,PDF p. 7,"bars 2014-2019: 4,790 5,033 5,562 5,865 6,439 7,836",medium,"bar chart, value labels read in order 2014..2019; gross enrollment (2019 vs 2018 +21.70% = 7,836/6,439 checks)",claude-sonnet-5,2026-10-08,1,no
+o-9470e6ab51,"$ 558,997",,1,Cumulative,PDF p. 6,"Foreign Currency Generated ... CUMULATIVE: $ 558,997",medium,chart has no unit label printed on the page (values likely thousands); cumulative figure printed under the chart,claude-sonnet-5,2026-10-08,1,no
+o-da9885cc48,"53,265",,1,text,PDF p. 4,"gross number of our enrolled members which already reached to 53,265 ... as of yearend of 2019",medium,"text speaks of gross enrolled members, not literally 'issued'",claude-sonnet-5,2026-10-08,1,no
+o-0278ff102b,"₱281,424,000.00",,1,ACCOMPLISHMENT,PDF p. 51,"7 Improve Net Operating Income ₱629.65 Million (target) ₱281,424,000.00 (accomplishment)",high,,claude-sonnet-5,2026-10-08,1,no
+o-f36c615ff2,"₱450,698,000.00",,1,ACCOMPLISHMENT,PDF p. 50,"6 Improve Revenue Generation ₱929.59 Million ₱450,698, 000.00",high,"printed '₱450,698, 000.00'",claude-sonnet-5,2026-10-08,1,no
+o-aadb35a031,"460,110",,1,2018,PDF p. 6,"Net Operating Income 460,110 (2018) 432,746 (2019)",medium,chart has no unit label printed on the page (values likely thousands),claude-sonnet-5,2026-10-08,1,no
+o-5a6d1df77d,"21,287",,1,2018,PDF p. 6,"Dividend Remitted 21,287 (2018) 258,489 (2019)",medium,chart has no unit label printed on the page (values likely thousands),claude-sonnet-5,2026-10-08,1,no
+o-c663ffae7d,"62,558",,1,2019,PDF p. 6,"Foreign Currency Generated 52,815 (2018) 62,558 (2019)",medium,chart has no unit label printed on the page (values likely thousands),claude-sonnet-5,2026-10-08,1,no
+o-5979a1cd11,-,,1,2020,PDF p. 5,"Dividend Remitted 258,489 (2019) - (2020)",medium,printed as a dash (no value) for 2020; p. 3 text says P150M remitted for CY 2020,claude-sonnet-5,2026-10-08,1,no
+o-fc3c0b7556,P150M,,million,text,PDF p. 3,we were still able to remit P150M for CY 2020 to the national government,high,scale million as stated 'M',claude-sonnet-5,2026-10-08,1,no
+o-667b3ccb6a,more than PhP 454 Million,,million,text,PDF p. 3,"for 2020, we posted a net operating revenue of more than PhP 454 Million",low,text gives 'net operating revenue' not total revenue; no revenue figure found at this location,claude-sonnet-5,2026-10-08,1,no
+o-be6ec54787,"$572,933,933.48",,1,ACCOMPLISHMENT,PDF p. 41,"SM 1 ... ANNUAL TARGET $608.15 Million; ACCOMPLISHMENT $572,933,933.48",high,,claude-sonnet-5,2026-10-08,1,no
+o-60dc268fb6,$608.15 Million,,million,ANNUAL TARGET,PDF p. 41,"SM 1 ... $608.15 Million $572,933,933.48",high,,claude-sonnet-5,2026-10-08,1,no
+o-6c4b218851,"62,558",,1,2019,PDF p. 5,"Foreign Currency Generated 62,558 (2019) 19,951 (2020)",medium,chart has no unit label printed on the page (values likely thousands),claude-sonnet-5,2026-10-08,1,no
+o-33bb9c9617,"19,951",,1,2020,PDF p. 5,"Foreign Currency Generated 62,558 (2019) 19,951 (2020)",medium,chart has no unit label printed on the page (values likely thousands),claude-sonnet-5,2026-10-08,1,no

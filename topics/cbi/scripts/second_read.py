@@ -54,6 +54,10 @@ def readings(v):
     raw = re.sub(r"^(us\$|ec\$|xcd\$|hk\$|a\$|c\$|\$|\u20ac|\u00a3|usd|eur|hkd)\s*", "", raw)  # $ 34,348,255.50
     raw = re.sub(r"\s*(\u20ac|eur|usd|\$)$", "", raw)  # trailing currency: 23.165,10 €
     raw = re.sub(r"^(\u20b1|php|\$)\s*", "", raw)  # ₱584,270,596.13, Php4,560,849
+    raw = re.sub(r"^nearly ", "", raw)
+    raw = re.sub(r"^\((.*)\)$", r"\1", raw.strip())  # (2,147,203): an outflow
+    raw = re.sub(r"^p(?=\d)", "", raw)  # P588.32 (pesos)
+    raw = re.sub(r"(?<=\d)m$", "", raw)  # P150M
     raw = re.sub(r"\s*(trillion|billion|million|thousand|milyon)$", "", raw)  # scale given separately
     raw = raw.replace("'", "").replace("\u2019", "").rstrip("+")  # 5'003 (Swiss), 119+
     t = re.sub(r"\s", "", raw).rstrip("%")
