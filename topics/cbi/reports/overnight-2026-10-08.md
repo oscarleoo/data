@@ -671,3 +671,15 @@ says what was done to it.
   relator (AstraZeneca, Northrop/TRW, HealthSouth, GSK, Janssen, CVS Caremark...); recoveries by industry 2006.
 - Partial (7 FCA releases): they name about 60 settlements without saying whether a whistleblower brought
   them. **Decision needed:** record them as cases with "origin not stated", or exclude them by rule.
+
+### Australia, batch 1 (pass `extract-cbi-aus1`)
+- 20 documents reviewed: 18 complete, 1 partial, 1 not applicable.
+- Added 5,447 numbers, 109 rules, 4 events: Home Affairs BP0068 workbook (3,521 numbers for the investor
+  streams: totals and splits by citizenship, gender, state, age, subclass); FOI releases (monthly grants and
+  lodgements, by citizenship, nominating state, processing times, withdrawal rates); Senate answers; the 2019
+  consultation and 2020 review (full points test, complying investment rules); visa pages.
+- Did not add up: FOI FA 20/12/01057 prints a lodgements grand total of 495 while the years add to 993
+  (495 is the grants total; looks like a copying error); the workbook has a few negative cells as stored.
+- Partial (BP0068): non-investor business streams have only totals; cross-splits beyond citizenship left.
+- **Decisions needed:** 6 new indicators; bare "$" recorded as unspecified while older rows from the same
+  documents say AUD; a wrong description of FOI FA 20/12/01057 in the sources table.
