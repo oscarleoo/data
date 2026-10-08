@@ -1,0 +1,608 @@
+{
+ "slug": "extract-cbi-pan1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over 8 Panamanian decrees/gazettes (Qualified Investor DE 722/109/193/17, Friendly Nations DE 416/197/226, migration regulation DE 320) and 12 MICI press releases. Scanned pages OCR'd with spa+eng. Adds rule terms (overall minimums, holding periods, statutory processing maxima, dependants' payments, DE 320 fees and dependant amounts for Solvencia and macro-investor), two events and six press-release figures (South America share, growth and period ratios, two investment totals), with two proposed indicators. DE 193's stored copy is truncated and DE 320 has unprogrammed investor categories.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "category=region_south_america",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Share of certified qualified investors (MICI investment certificates; base 216 certifications since October 2020 per para. 2) originating from South America, from a DIGESI report; followed by North America and Europe (no shares given). Region, not a single nationality.",
+   "indicator": "applicant_nationality_share",
+   "period": "2020-10/2023-07",
+   "period_basis": "cumulative",
+   "value": "66",
+   "unit": "percent",
+   "status": "provisional",
+   "source_id": "pan-mici-press-2023-07-27",
+   "location": "para. 3",
+   "quote": "el 66% de los inversionistas certificados son originarios de Sudamérica, de países como Colombia y Perú"
+  },
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Increase in businesspeople certified (about 116 between July 2022 and July 2023, row o-5f7c781565) against the same period a year earlier (July 2021-July 2022). As stated by MICI; not calculated by us. Uses proposed indicator investment_certificates_change_pct.",
+   "indicator": "investment_certificates_change_pct",
+   "period": "2022-07/2023-07",
+   "period_basis": "date_range",
+   "value": "100",
+   "unit": "percent",
+   "status": "provisional",
+   "source_id": "pan-mici-press-2023-07-27",
+   "location": "para. 1",
+   "quote": "lo cual representa un incremento de 100% en comparación con el mismo periodo del año anterior"
+  },
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "million",
+   "notes": "Lower bound ('más de'), rounded; investment behind the certifications approved by MICI and SNM in March and April 2024 (release dated 29 April). Consistent with the monthly figures in para. 3 (B/. 4,422,436.75 and B/. 6,001,635.58; rows o-260d501516, o-4298ab083a).",
+   "indicator": "rbi_investment_total",
+   "period": "2024-03/2024-04",
+   "period_basis": "date_range",
+   "value": "10.4",
+   "unit": "PAB",
+   "status": "provisional",
+   "source_id": "pan-mici-press-2024-04-29",
+   "location": "para. 1",
+   "quote": "Más de 10.4 millones de balboas en inversiones han generado las certificaciones del Programa de Residencia Permanente en calidad de Inversionista Calificado"
+  },
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Certifications issued July-October 2024 as a percentage of all certifications issued in calendar year 2023, as stated by MICI's director general of investor services. The release gives no count for 2023. Uses proposed indicator investment_certificates_period_ratio_pct.",
+   "indicator": "investment_certificates_period_ratio_pct",
+   "period": "2024-07/2024-10",
+   "period_basis": "date_range",
+   "value": "84",
+   "unit": "percent",
+   "status": "claim",
+   "source_id": "pan-mici-press-2024-12-13",
+   "location": "para. 3",
+   "quote": "entre julio y octubre de 2024, el Programa de Inversionista Calificado de Panamá logró emitir el 84% de las certificaciones otorgadas durante todo el año 2023"
+  },
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Approximate share of the about 187 investors certified in 2024 (row o-c91889c79f) who applied within the first six months of the Mulino administration (which took office 1 July 2024, so July-December 2024). Counts applications by when filed, among investors certified in calendar 2024. Uses proposed indicator investment_certificates_period_ratio_pct.",
+   "indicator": "investment_certificates_period_ratio_pct",
+   "period": "2024",
+   "period_basis": "calendar_year",
+   "value": "70",
+   "unit": "percent",
+   "status": "claim",
+   "source_id": "pan-mici-press-2025-02-05",
+   "location": "para. 4",
+   "quote": "Aproximadamente el 70% de estos inversionistas aplicaron dentro de los 6 primeros meses de esta administración"
+  },
+  {
+   "jurisdiction": "PAN",
+   "program_id": "pan-qualified-investor",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "million",
+   "notes": "Investment in the 'previous period', printed as '(2024-2024)' (sic), compared with 100 million dollars in July 2024-July 2025. The period is not clear: it could be the year to July 2024 or July-December 2024 (for which pan-mici-press-2025-02-26 gives 62.8 million). Period set to the year printed with basis unspecified, following the dataset's convention; do not compare with calendar-year 2024 figures. No currency is printed with 63.2; USD taken from the figure it is compared with in the previous sentence ('100 millones de dólares'), since 'supera en más de 30 millones' compares like with like. The 'more than 30 million' difference is not recorded separately (it compares two printed figures).",
+   "indicator": "rbi_investment_total",
+   "period": "2024",
+   "period_basis": "unspecified",
+   "value": "63.2",
+   "unit": "USD",
+   "status": "provisional",
+   "source_id": "pan-mici-press-2025-08-05",
+   "location": "para. 1",
+   "quote": "Esta cifra supera en más de 30 millones la registrada en el periodo anterior (2024-2024), que cerró con 63.2 millones"
+  }
+ ],
+ "program_terms": [
+  {
+   "applies_to": "each main applicant; overall minimum from foreign-source own funds (gifts and donations not counted); real estate first sale and presale; other routes higher",
+   "notes": "General floor in art. 2; the route minimums in arts. 4-9 are B/.300,000 (new property, presale), B/.500,000 (resale property, securities, deposit at Banco Nacional/Caja de Ahorros) and B/.750,000 (deposit at a private bank). Text read by OCR (the decree pages have no text layer). B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "minimum_any_option",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "300000",
+   "currency": "PAB",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 25, art. 2 (OCR)",
+   "quote": "una inversión por un monto mínimo de trescientos mil balboas con 00/100 (B/. 300,000.00) proveniente de fuente extranjera"
+  },
+  {
+   "applies_to": "main applicant; investment must be kept, with annual proof to MICI for five years",
+   "notes": "If the investment ends early the holder must notify MICI within 30 calendar days (art. 12(2)) and has up to 90 calendar days to reinvest (art. 12(3)); see the reinvestment_period row. Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "investment_holding_period",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 34, art. 12(1) (OCR)",
+   "quote": "Período mínimo de mantenimiento: Es necesario que la inversión se mantenga por un periodo mínimo de cinco (5) años."
+  },
+  {
+   "applies_to": "permanent resident whose investment ends, is sold or replaced within the five years",
+   "notes": "Calendar days; without reinvestment the SNM cancels the residence. Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "reinvestment_period",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 34, art. 12(3) (OCR)",
+   "quote": "un término perentorio de hasta noventa (90) días calendario para que el interesado acredite de forma documental una reinversión equivalente"
+  },
+  {
+   "applies_to": "MICI investment certificate, from admission of a complete file",
+   "notes": "Statutory maximum, not a measured time. Incomplete files get 15 working days to be corrected, and the clock starts only once complete. Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "certificate_processing_time_max",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "15",
+   "currency": "working days",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 36, art. 15(1) (OCR)",
+   "quote": "contará con un plazo máximo de quince (15) días hábiles, contados a partir de la admisión del expediente, para emitir la certificación"
+  },
+  {
+   "applies_to": "SNM decision on the residence permit, from receipt of the complete file after the MICI certificate",
+   "notes": "Statutory maximum, 'sin perjuicio de las suspensiones legalmente procedentes'. Same 30 working days as DE 722 art. 8. Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "processing_time_max",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "30",
+   "currency": "working days",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 36, art. 15(2) (OCR)",
+   "quote": "la solicitud deberá ser resuelta en un plazo no mayor de treinta (30) días hábiles, contados desde la recepción formal del expediente completo"
+  },
+  {
+   "applies_to": "MICI investment certificate; must be valid when the complete application reaches the SNM",
+   "notes": "Expiry after filing does not require renewal when the delay is not the applicant's fault (art. 3(5)). Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "certificate_validity",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "months",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 25, art. 3(4) (OCR)",
+   "quote": "La Certificación de Inversión tendrá una vigencia de tres (3) meses, contados a partir de su emisión"
+  },
+  {
+   "applies_to": "each new dependant (child born or adopted, or spouse married, after the main approval); payment to the National Treasury",
+   "notes": "Plus B/.1,000 to the SNM per new dependant (next row). Dependants included in the original application pay B/.1,000 fee plus B/.1,000 repatriation deposit (art. 11(2); t-db439da501 and the DE 722 dependant deposit row). Text read by OCR. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "fee_dependant_addition",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "1000",
+   "currency": "PAB",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 36, art. 17 (OCR)",
+   "quote": "pagar los derechos correspondientes de mil balboas con 00/100 (B/. 1,000.00) a favor del Tesoro Nacional y mil balboas con 00/100 (B/. 1,000.00) a favor del Servicio Nacional de Migración por cada nuevo dependiente"
+  },
+  {
+   "applies_to": "each new dependant added after the main approval; payment to the Servicio Nacional de Migración",
+   "notes": "Art. 17 calls both payments 'derechos'; unlike art. 11 it does not call the SNM payment a repatriation deposit. Text read by OCR. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "fee_dependant_addition_snm",
+   "valid_from": "2026-09-16",
+   "valid_to": "",
+   "min_amount": "1000",
+   "currency": "PAB",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 36, art. 17 (OCR)",
+   "quote": "mil balboas con 00/100 (B/. 1,000.00) a favor del Servicio Nacional de Migración por cada nuevo dependiente"
+  },
+  {
+   "applies_to": "each main applicant; overall minimum from foreign sources, personally or through a company of which the applicant is final beneficiary",
+   "notes": "Replaces the B/.500,000 overall minimum of DE 722 art. 2. Route minimums: real estate and presale B/.300,000, securities B/.500,000 (art. 3). Text read by OCR. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "minimum_any_option",
+   "valid_from": "2024-10-15",
+   "valid_to": "2026-09-16",
+   "min_amount": "300000",
+   "currency": "PAB",
+   "source_id": "pan-go-de193-2024",
+   "location": "p. 9, art. 1 (new art. 2 of DE 722) (OCR)",
+   "quote": "una inversión por un monto mínimo desde trescientos mil balboas (B/. 300,000.00) proveniente de fuente extranjera"
+  },
+  {
+   "applies_to": "nationals of listed countries; provisional residence before permanent residence can be requested",
+   "notes": "After two years permanent residence may be requested on the same requirements as at the start (art. 3). valid_from is the start date set by DE 226 of 2021 (art. 3, new art. 5 of DE 197); DE 197 itself said 90 days after promulgation. Restated by DE 226. Text read by OCR (scan).",
+   "program_id": "pan-friendly-nations",
+   "route": "provisional_residence_period",
+   "valid_from": "2021-08-07",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "years",
+   "source_id": "pan-go-de197-2021",
+   "location": "p. 2, art. 2 (new art. 3 of DE 416); p. 3, art. 3 (OCR)",
+   "quote": "podrá conceder un permiso de Residencia Provisional por un periodo de dos años"
+  },
+  {
+   "applies_to": "each dependant included; added to the main amount",
+   "notes": "Additional solvency per dependant on top of the B/.300,000 investment. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-solvencia-economica",
+   "route": "investment_per_dependant",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "2000",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 50, art. 191",
+   "quote": "En caso de incluir dependientes deberá demostrar una solvencia adicional de dos mil balboas (B/.2,000.00) por cada uno."
+  },
+  {
+   "applies_to": "each dependant included; added to the main amount",
+   "notes": "Added to the B/.160,000 share capital per applicant; may be shown with a local bank reference. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-macro-investor",
+   "route": "investment_per_dependant",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "2000",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 48, art. 187",
+   "quote": "En caso de traer dependientes se debe incrementar la inversión a dos mil balboas (B/.2,000.00) por cada dependiente"
+  },
+  {
+   "applies_to": "foreigners who had invested at least B/.200,000 (and under B/.300,000) in Panamanian property but, by force majeure, could not prove title before the regulation took effect; at the SNM Director-General's discretion",
+   "notes": "A one-off exception for pre-2008 purchases, proved by bank transfer to the developer and an authenticated promise-of-sale contract; no end date is given. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-solvencia-economica",
+   "route": "real_estate_transitional_exception",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "200000",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 50, art. 193, parágrafo III",
+   "quote": "una suma mínima de doscientos mil balboas (B/.200,000.00) y menor de trescientos mil balboas (B/.300,000.00)"
+  },
+  {
+   "applies_to": "per applicant; full-time Panamanian employees at no less than the regional minimum wage, registered with the Caja de Seguro Social",
+   "notes": "",
+   "program_id": "pan-macro-investor",
+   "route": "employment",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "jobs",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 48, art. 188",
+   "quote": "La empresa debe contar con una planilla de cinco (5) empleados panameños (por cada solicitante), laborando a tiempo completo"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; application for the migration category (payment per application)",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include Solvencia Económica Propia (Título IV, Cap. I, Sec. 3ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-solvencia-economica",
+   "route": "fee_processing",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "250",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'PAGO POR SOLICITUD DE CATEGORÍA MIGRATORIA'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; repatriation deposit",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include Solvencia Económica Propia (Título IV, Cap. I, Sec. 3ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-solvencia-economica",
+   "route": "repatriation_deposit",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "800",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'DEPÓSITO DE REPATRIACIÓN'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; residence card",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include Solvencia Económica Propia (Título IV, Cap. I, Sec. 3ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-solvencia-economica",
+   "route": "fee_permit",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'CARNÉ'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; application for the migration category (payment per application)",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include the macro-enterprise investor (Título IV, Cap. I, Sec. 2ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-macro-investor",
+   "route": "fee_processing",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "250",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'PAGO POR SOLICITUD DE CATEGORÍA MIGRATORIA'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; repatriation deposit",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include the macro-enterprise investor (Título IV, Cap. I, Sec. 2ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-macro-investor",
+   "route": "repatriation_deposit",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "800",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'DEPÓSITO DE REPATRIACIÓN'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "applicant; permanent residence 'por razones económicas'; residence card",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for economic reasons, which include the macro-enterprise investor (Título IV, Cap. I, Sec. 2ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit B/.800, guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-macro-investor",
+   "route": "fee_permit",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "PAB",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 1. Por razones económicas', column 'CARNÉ'",
+   "quote": "1. POR RAZONES ECONÓMICAS -------- B/. 250.00 B/.800.00 -------- B/.100.00"
+  },
+  {
+   "applies_to": "each main applicant; overall minimum from foreign sources, personally or through a company of which the applicant is always the final beneficiary",
+   "notes": "Overall floor in the original decree; the transitional art. 10 nonetheless allowed B/.300,000 for real estate (first 24 months, extended to 48 by DE 109), and the deposit route required B/.750,000. Replaced by B/.300,000 in DE 193 of 2024. Text read by OCR. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "minimum_any_option",
+   "valid_from": "2020-10-16",
+   "valid_to": "2024-10-15",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "source_id": "pan-go-de722-2020",
+   "location": "p. 3, art. 2 (OCR)",
+   "quote": "una inversión por un monto mínimo de quinientos mil balboas (B/. 500,000.00) proveniente de fuente extranjera"
+  },
+  {
+   "applies_to": "each dependant included in the application; repatriation deposit to the SNM",
+   "notes": "In addition to the B/.1,000 application fee per dependant (t-db439da501). Same amount in DE 17 of 2026, art. 11(2). Text read by OCR. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender).",
+   "program_id": "pan-qualified-investor",
+   "route": "repatriation_deposit_dependant",
+   "valid_from": "2020-10-16",
+   "valid_to": "",
+   "min_amount": "1000",
+   "currency": "PAB",
+   "source_id": "pan-go-de722-2020",
+   "location": "p. 5, art. 4(2) (OCR)",
+   "quote": "otro pago de mil balboas (B/.1,000.00) a favor del Servicio Nacional de Migración en concepto de depósito de repatriación"
+  },
+  {
+   "applies_to": "main applicant; investment must be maintained, with MICI confirming it to the SNM every year for five years",
+   "notes": "If the investment ends early without reinvestment, the SNM cancels the permanent residence. Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "investment_holding_period",
+   "valid_from": "2020-10-16",
+   "valid_to": "2026-09-16",
+   "min_amount": "5",
+   "currency": "years",
+   "source_id": "pan-go-de722-2020",
+   "location": "p. 6, art. 5 (OCR)",
+   "quote": "es necesario que la inversión se mantenga por un periodo mínimo de cinco años"
+  },
+  {
+   "applies_to": "SNM decision on the application, from receipt at the special processing window",
+   "notes": "Statutory maximum, not a measured time. MICI press releases repeat it ('en tan solo 30 días hábiles', pan-mici-press-2022-08-18). Text read by OCR.",
+   "program_id": "pan-qualified-investor",
+   "route": "processing_time_max",
+   "valid_from": "2020-10-16",
+   "valid_to": "2026-09-16",
+   "min_amount": "30",
+   "currency": "working days",
+   "source_id": "pan-go-de722-2020",
+   "location": "p. 7, art. 8 (OCR)",
+   "quote": "deberá ser resuelta en un periodo no mayor de treinta (30) días hábiles, contados a partir del momento de la recepción de la solicitud"
+  }
+ ],
+ "events": [
+  {
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "date": "2026-09-16",
+   "program_id": "pan-solvencia-economica",
+   "category": "rule_change",
+   "title": "Solvencia Económica holders given 12 months to switch to Qualified Investor (DE 17)",
+   "description": "Article 18 of Decreto Ejecutivo 17 of 8 Sept 2026 (Gaceta 30613, 16 Sept 2026) lets foreigners with pending applications or current status as permanent residents for 'Solvencia Económica Propia' apply, within 12 months of entry into force, to change to the Qualified Investor subcategory if they meet its minimum amounts and other requirements; investments made before 15 October 2020 are not eligible. Date is the gazette date (the decree takes effect on promulgation, art. 21). Text read by OCR.",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 37, art. 18 (OCR)",
+   "quote": "el cambio hacia la subcategoría de Residente Permanente en calidad de Inversionista Calificado, siempre que acrediten los montos mínimos y demás requisitos aplicables"
+  },
+  {
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "date": "2026-09-16",
+   "program_id": "pan-qualified-investor",
+   "category": "rule_change",
+   "title": "DE 17 sets verification, maintenance and deadline rules for Qualified Investors",
+   "description": "Besides the new amounts (event e-3021dbfbd8), Decreto Ejecutivo 17 of 2026: MICI investment certificates valid 3 months (art. 3(4)); each co-owner must meet the minimum individually except joint holdings with a spouse or dependants in the same application (art. 3(6)); qualifying value is the lower of price paid and verified market value, net of liens (arts. 5-6), and MICI may require an independent appraisal issued within the previous 6 months, paid by the applicant (art. 6(8)); a presale buyer whose developer defaults has 180 working days to substitute the investment, a second presale contract is allowed only once, and presale-only status is capped at 3 years (art. 7(6)-(8)); securities that fall in value through market moves must be restored within 90 calendar days of MICI notice (art. 8); the investment must be kept 5 years with annual proof to MICI, a 30-day notice if it ends and 90 calendar days to reinvest (art. 12); MICI has 15 working days to certify and the SNM 30 working days to decide (art. 15); new spouses and children can be added after approval for B/.1,000 to the Treasury plus B/.1,000 to the SNM each (art. 17); applications and binding contracts made before entry into force may use the old rules if filed within 6 months (art. 19). Text read by OCR.",
+   "source_id": "pan-go-de17-2026",
+   "location": "pp. 25-37, arts. 3-19 (OCR)",
+   "quote": "La Certificación de Inversión tendrá una vigencia de tres (3) meses, contados a partir de su emisión"
+  },
+  {
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "date": "2020-10-16",
+   "program_id": "pan-solvencia-economica",
+   "category": "rule_change",
+   "title": "Pending 2020 Solvencia property applicants may switch to the new Qualified Investor route",
+   "description": "Transitional article 10 of Decreto Ejecutivo 722 of 15 Oct 2020 (Gaceta 29136, 16 Oct 2020) lets foreigners with pending or started 2020 applications for the provisional permit of Solvencia Económica Propia through real estate change to the Qualified Investor subcategory (real estate) if they meet its fee requirements (art. 4). Repeated by DE 109 of 2022. Text read by OCR.",
+   "source_id": "pan-go-de722-2020",
+   "location": "p. 7, art. 10, second paragraph (OCR)",
+   "quote": "podrán solicitar el cambio de su estatus migratorio a la subcategoría de Residente Permanente en calidad de Inversionista Calificado por Inversión en Bienes Inmuebles"
+  }
+ ],
+ "programs": [],
+ "new_indicators": [
+  {
+   "indicator": "investment_certificates_change_pct",
+   "name": "Change in investment certificates issued (percent, as stated)",
+   "definition": "Percentage change in the number of investment certificates (or certified investors) issued under a programme between a period and an earlier period, as stated by the source. Never calculated by us. Notes say the comparison period and what is counted.",
+   "unit_kind": "percent",
+   "notes": "Proposed by extract-cbi-pan1 for MICI Panama (27 July 2023: 'un incremento de 100% en comparación con el mismo periodo del año anterior'). Companion to investment_certificates_issued; analogous to applications_received_change_pct."
+  },
+  {
+   "indicator": "investment_certificates_period_ratio_pct",
+   "name": "Investment certificates in one period as a percentage of another (as stated)",
+   "definition": "Investment certificates (or certified investors) of one period or sub-group expressed as a percentage of those of another stated period or group, as printed by the source (e.g. certificates in July-October 2024 as a share of all 2023 certificates, or the share of a year's certified investors who applied in a sub-period). Never calculated by us. Notes state both bases.",
+   "unit_kind": "percent",
+   "notes": "Proposed by extract-cbi-pan1 for MICI Panama press releases (13 Dec 2024: 84% of 2023's certifications issued in July-October 2024; 5 Feb 2025: about 70% of 2024's certified investors applied in July-December 2024)."
+  }
+ ],
+ "gaps": [
+  "DE 193 of 2024: stored PDF ends mid-article on p. 11; deposit route, art. 3A and closing articles not available locally.",
+  "DE 320 of 2008: agrarian, forestry (temporary and permanent), Panamá-Pacífico, export-zone, call-centre and film-industry investor residence categories have no programme ids, so their amounts are not tabled."
+ ],
+ "leads": [
+  "Full text of Gaceta Oficial 30140-B (15 Oct 2024), DE 193: https://www.gacetaoficial.gob.pa/storage/gacetas/2024/10/30140_B/GacetaNo_30140b_20241015.pdf"
+ ],
+ "ledger": [
+  {
+   "source_id": "pan-go-de109-2022",
+   "status": "complete",
+   "contains": "Gaceta Oficial 29643-A (13 Oct 2022), 9 pages. Pp. 1-4: contents page and Decreto Ejecutivo 54 of 2022 (Education, a school curriculum; out of scope; pp. 2-4 read by OCR). Pp. 5-8: Decreto Ejecutivo 109 of 13 Oct 2022 amending DE 722 (Qualified Investor): art. 1 rewrites art. 3 of DE 722 in full (real estate B/.500,000 free of liens, excess financeable by local mortgage, plus Registro Público and ANATI value certificates; presale contract B/.500,000 via local trust; securities B/.500,000 through a licensed broker on the Bolsa de Valores, held 5 years; fixed deposit B/.750,000 for at least 5 years at a general-licence bank), art. 2 extends the transitional B/.300,000 real-estate minimum from 24 to 48 months and keeps the 2020 Solvencia-to-Qualified-Investor switch, in force on promulgation. P. 9: an erratum to a Presidency decree naming a vice-minister (out of scope). No statistics. All amounts are already in the tables: the 48-month B/.300,000 term (t-c25007b41b), presale B/.500,000 (t-28252495dc) and event e-7e609f9061; the unchanged real-estate B/.500,000, securities B/.500,000 and deposit B/.750,000 restatements are recorded in the notes of the DE 722 terms (t-fce91dcfaf, t-5ea3c0dfe5, t-926941d879) rather than as duplicate rows. Note: art. 3 of DE 109 says it modifies only 'acápite a, numeral 2 del artículo 3', although art. 1 rewrites the whole of art. 3. Nothing new added in this pass.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de17-2026",
+   "status": "complete",
+   "contains": "Gaceta Oficial 30613 (16 Sept 2026), 41 pages; pp. 2-37 are scans read by OCR (spa+eng). Pp. 1-22 and 38-41: contents, Decretos 204 and 211 (appointments), DE 5 (environmental emergencies), DE 33 and 34 (Economy ministry) and commercial notices, all out of scope. Pp. 23-37: Decreto Ejecutivo 17 of 8 Sept 2026, replacing DE 722 and its amendments for the Qualified Investor subcategory: overall minimum B/.300,000 of foreign-source own funds (art. 2); MICI certificate rules (art. 3, 3-month validity, co-ownership); real estate B/.300,000 first sale / B/.500,000 secondary market (art. 4); valuation and appraisal rules (arts. 5-6); presale B/.300,000 via trust or 100% payment with bank instrument, 180-working-day substitution, 3-year cap (art. 7); securities B/.500,000 in private-equity/venture funds, Panamanian government debt or other registered securities, 5 years, 90-day restoration after market falls (art. 8); fixed deposit B/.750,000 at private banks or B/.500,000 at Banco Nacional/Caja de Ahorros, 5 years (art. 9); fees B/.5,000 + B/.5,000 repatriation deposit, dependants B/.1,000 + B/.1,000 (art. 11); 5-year maintenance with annual proof, 30-day notice, 90-day reinvestment (art. 12); naturalisation after five consecutive years (art. 14); processing maxima 15 working days (MICI) and 30 working days (SNM) (art. 15); filing from abroad (art. 16); new dependants B/.1,000 + B/.1,000 (art. 17); 12-month switch for Solvencia Económica holders, pre-15-Oct-2020 investments ineligible (art. 18); 6-month grandfathering (art. 19); subrogation of DE 722/109/193 (art. 20). No statistics. Route amounts, fees, deposit and naturalisation were already in the tables (t-2b6fc0b222, t-08807a143d, t-d0090088e5, t-0c2512386d, t-623ac85a5a, t-b1efe09d1b; fees noted on t-de6c73134f/t-3e97f07cc3; events e-3021dbfbd8, e-a1c0701293). This pass adds the art. 2 overall minimum, holding period, reinvestment window, processing maxima, certificate validity, new-dependant payments, the Solvencia switch event and an event listing the remaining procedural deadlines.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de193-2024",
+   "status": "partial",
+   "contains": "Gaceta Oficial 30140-B (15 Oct 2024) as stored: 12 pages. Pp. 1-7: contents, Cabinet Resolution 97 (2025 budget bill) and DE 511 (temporary land occupation for Metro Line 3), out of scope. Pp. 8-11 (OCR, spa+eng): Decreto Ejecutivo 193 of 15 Oct 2024 amending DE 722: recitals (the real-estate subcategory has become the programme's main route; no figures); art. 1 new art. 2 (overall minimum 'desde' B/.300,000 of foreign funds, MICI Dirección Nacional de Promoción de la Inversión certifies; mentions an exception in a new art. 3A); art. 2 new art. 3: real estate from B/.300,000, presale from B/.300,000 via trust (2.1) or 100% payment to the developer backed by a bank performance guarantee renewed yearly (2.2), right to substitute a failed presale, securities B/.500,000 held 5 years, and the start of the fixed-deposit route (4). The stored file stops mid-sentence at the end of p. 11; p. 12 has only the gazette footer. Already in tables: t-3b792e97bd, t-e2c485cd5e, event e-cac246d0bd; securities restatement noted on t-5ea3c0dfe5. This pass adds the B/.300,000 overall minimum (art. 2).",
+   "to_do": "The stored copy is truncated: the rest of new art. 3(4) (deposit amount and term), new art. 3A (co-ownership exception), any further articles (transitional rules, entry into force) and the signatures are missing after p. 11. Obtain the complete gazette 30140-B (or the decree alone) and extract the rest. Note that existing term t-3b792e97bd (applies_to 'co-ownership with spouse/dependants allowed', location p. 9) and event e-cac246d0bd ('deposits (B/.750,000) unchanged', co-ownership) state things that cannot be seen in the stored pages and should be checked against the full text."
+  },
+  {
+   "source_id": "pan-go-de197-2021",
+   "status": "complete",
+   "contains": "Decreto Ejecutivo 197 of 7 May 2021 (Gaceta 29290-A, 20 May 2021), 3 scanned pages read by OCR (spa+eng). Amends DE 416 of 2012 (Friendly Nations): recitals list the earlier amending decrees (DE 806 and 548 of 2012-2013, 1174 of 2013, 212 of 2014; not stored); art. 1 replaces the list of eligible nationalities (named countries, no count printed); art. 2 new art. 3: two-year provisional residence, then permanent; routes by employment (job letter, employer registry and operation notice, work permit) or real estate held personally worth at least B/.200,000, financeable by a local bank; dependants' documents; art. 3 permanent residence after two years; art. 5 in force 90 days after promulgation. No statistics. Already in tables: t-620fe3da7b (employment), t-7fac8bf918 (real estate B/.200,000), event e-16ab5c333a. This pass adds the two-year provisional period as a term.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de226-2021",
+   "status": "complete",
+   "contains": "Decreto Ejecutivo 226 of 2021 (Gaceta 29335, 21 July 2021), 3 scanned pages read by OCR (spa+eng). Amends DE 416 (Friendly Nations) and DE 197: art. 1 replaces the nationality list again, adding Peru; art. 2 new art. 3: two-year provisional residence; employment route; real estate of at least B/.200,000 held personally, through a company of which the applicant is final beneficiary, or a private-interest foundation, financeable locally; new fixed-deposit route of at least B/.200,000 for at least three years at a general-licence bank, also through a company or foundation; dependants under DE 320; art. 3 sets 7 Aug 2021 as the start date of DE 197; art. 5 in force 7 Aug 2021. No statistics. All amounts already in tables: t-a013de09c8 (deposit B/.200,000), t-7fac8bf918 notes the corporate holding of property, event e-e27f852863; the two-year provisional period is added from DE 197 in this pass (restated here). Nothing new added from this document.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de320-2008",
+   "status": "partial",
+   "contains": "Gaceta Oficial 26104 (13 Aug 2008), 89 pages with a text layer. Out of scope: DE 25 of 2007 on an agricultural trust programme (pp. 1-10), Resolution 47/08 and land-title edicts at the end. Main content: Decreto Ejecutivo 320 of 8 Aug 2008, the regulation of the migration law (Decreto Ley 3 of 2008): visas, temporary and permanent residence categories, fees and sanctions. In scope and already in tables: Solvencia Económica Propia B/.300,000 in property, fixed deposit (3 years) or both (arts. 191-195; t-d0e7a11271, t-845006da05, t-057239c352; event e-610c2e599c) and macro-enterprise investor B/.160,000 share capital per applicant (arts. 185-190; t-4e4ba2904e). Added in this pass: B/.2,000 per dependant for both routes (arts. 187, 191), the B/.200,000 transitional property exception for Solvencia (art. 193 par. III), five Panamanian employees per macro-enterprise applicant (art. 188), and the art. 315 fee table amounts for permanent residence for economic reasons (B/.250 application, B/.800 repatriation deposit, B/.100 card) for both routes. Other residence categories with amounts (pensioners B/.1,000 a month, retired rentier B/.2,000 a month from state-bank deposits, workers' minimum salaries, visa fees) are not investor programmes and are out of scope. No statistics.",
+   "to_do": "Other investor residence categories in the same regulation have no programme in programs.csv, so their amounts were not tabled; decide whether to add them as programmes: temporary residence for investment (6 years, renewable every 2; art. 95) as agrarian investor B/.60,000 (+B/.500 per dependant; arts. 96-97) and forestry investor B/.60,000 on at least 10 ha (+B/.2,000 per dependant; arts. 100-102); permanent residence as forestry investor B/.80,000 on at least 20 ha (+B/.2,000 per dependant; arts. 180-184; the OECD 2018 list names a 'Reforestation Investor Visa'), Panamá-Pacífico investor B/.250,000 risk capital with three Panamanian employees (arts. 206-208), export processing zone investor B/.250,000 (arts. 211-213), call-centre investor (same as EPZ; arts. 214-216) and film-industry investor over B/.150,000 (arts. 217-219); plus the art. 315 fee rows for temporary residence for investment (B/.250 application, B/.800 repatriation deposit, B/.50 card)."
+  },
+  {
+   "source_id": "pan-go-de416-2012",
+   "status": "complete",
+   "contains": "Gaceta Oficial 27058-A (18 June 2012), 22 pages; pp. 2-22 are scans read by OCR (spa+eng). Out of scope: DE 1241 (hospital board), DE 414 (entry visas for restricted nationalities hired by SEM or Panamá-Pacífico firms; employees, not investors), DE 415 (permanent residence for former diplomats), Resolution 162 (police procurement delegation, amounts up to B/.250,000 not about the programme) and tourism-register cancellations. In scope, pp. 9-10: Decreto Ejecutivo 416 of 13 June 2012 creating permanent residence for nationals of 24 listed countries (named, count not printed) who carry out an economic or professional activity; requirements include proof of economic solvency by a bank statement with a balance of 'no inferior a cuatro cifras medias' (words, not a number; not tabled), dependants' rules, filing only at the SNM, repeal of DE 343 of 16 May 2012, in force on promulgation. No statistics. Already in tables: t-0e69be01b0 (economic activity route), event e-a6686c1dba. Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de722-2020",
+   "status": "complete",
+   "contains": "Gaceta Oficial 29136 (16 Oct 2020), 38 pages; pp. 2-13 and 18-37 are scans read by OCR (spa+eng), pp. 14-17 are maps with a text layer. Out of scope: Ministry of Environment resolution DM 0306-2020 delimiting the Santa María river basin (pp. 8-17), MEF Resolution 014-2020 on treasury bills, Procuraduría resolutions on meal allowances, municipal land awards and ANATI edicts (pp. 18-37). In scope, pp. 3-7: Decreto Ejecutivo 722 of 15 Oct 2020 creating the Qualified Investor subcategory: overall minimum B/.500,000 of foreign funds (art. 2) with MICI certification; routes (art. 3): real estate B/.500,000, presale contract B/.500,000 via local trust, securities B/.500,000 via the Bolsa de Valores held 5 years, fixed deposit B/.750,000 for 5 years; fees B/.5,000 + B/.5,000 repatriation deposit, dependants B/.1,000 + B/.1,000 (art. 4); 5-year maintenance with annual MICI confirmation (art. 5); special processing window (art. 7); decision within 30 working days (art. 8); filing from abroad through an attorney (art. 9); transitional B/.300,000 for real estate for 24 months and switch for 2020 Solvencia applicants (art. 10); in force on promulgation (art. 11). No statistics. Already in tables: t-926941d879, t-de6c73134f, t-db439da501, t-fce91dcfaf, t-1bb1eb6a20, t-21e6af5e30, t-3e97f07cc3, t-5ea3c0dfe5, event e-69b39fe5ea. Added in this pass: overall minimum (art. 2), dependants' repatriation deposit, 5-year holding period, 30-working-day maximum and the Solvencia switch event.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2022-08-18",
+   "status": "complete",
+   "contains": "MICI press release, 18 Aug 2022: 100th qualified-investor certificate (to a Canadian online-notarisation company head), investment of more than 55 million dollars since creation; largest certified investors from Peru, Colombia and Canada and mainly South and North American (no counts); restates DE 722 rules (permanent residence in 30 working days; stock exchange, banking and real-estate routes, real estate from 300 thousand dollars). Both figures already in tables (o-83098d4e30, o-73d8445d40); the restated rules are in the decree terms. Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2022-10-18",
+   "status": "complete",
+   "contains": "MICI press release, 18 Oct 2022, on a presentation to AmCham: more than 131 international investors have applied, investments over B/. 70 million (both already in tables: o-c41e4abe7c, o-cda9ac641b). AmCham membership (more than 450 companies, 15 sectors) is not about the programme. Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2023-07-27",
+   "status": "complete",
+   "contains": "MICI press release, 27 July 2023, citing a DIGESI report: about 116 businesspeople certified July 2022-July 2023, a 100% increase on the year before; 216 certifications since October 2020, mainly real estate, investment around 120 million dollars; 66% of certified investors from South America (Colombia, Peru), then North America and Europe. 116, 216 and 120 million were already in tables; this pass adds the 100% increase and the 66% South America share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2023-08-02",
+   "status": "complete",
+   "contains": "MICI press release dated 1-2 Aug 2023, minister's speech to APEDE: Qualified Investor Program has 216 qualified investors who invested about B/. 120 million (already in tables: o-2faf3e126d, o-6a702957f2). Other numbers are out of scope: World Bank growth forecasts for Panama (5.7%, 1.4%, 5.9%), 2022 exports (B/. 3,868.3 million, copper 2,797.2, other 1,071.1), SEM regime (187 licences, B/. 1,200 million), free zones (12 new firms, B/ 8.5 million, 90 jobs), 7 semiconductor partner countries. Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2024-04-29",
+   "status": "complete",
+   "contains": "MICI press release, 29 Apr 2024: certifications in March and April 2024 generated more than 10.4 million balboas of investment; 12 certifications for B/. 4,422,436.75 in March and 7 for B/. 6,001,635.58 in April (already in tables); main nationalities Colombia, United States, Russia, Germany and China, others South Africa, Canada, Nicaragua, Spain and Netherlands (names only, no counts). This pass adds the 10.4 million two-month total. Check: the two monthly amounts are consistent with 'más de 10.4 millones'.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2024-12-13",
+   "status": "complete",
+   "contains": "MICI press release, 13 Dec 2024: more than 150 investors (from Colombia, the US, Germany and others) received certificates so far in 2024, exceeding 2023 (already in tables: o-329b95f023); certifications in July-October 2024 equal 84% of those of all 2023; programme now governed by DE 193 of 15 Oct 2024; a workshop and a further one planned for 22 Jan 2025. This pass adds the 84% ratio.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-01-23",
+   "status": "complete",
+   "contains": "MICI press release, 23 Jan 2025, on a CCIAP workshop about DE 193 of 2024 (lower minimum amounts, co-ownership rules, presale guarantees; no amounts printed): cumulative investment 148 million dollars and 120 new qualified investors July-December 2024 (both already in tables: o-5aca4cdb43, o-88da900d16). Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-02-05",
+   "status": "complete",
+   "contains": "MICI press release, 5 Feb 2025, on investment promotion (Panamá Beautiful 2025 event, CCIAP workshop, a seaweed project): about 187 qualified investors certified in 2024 with a total of $90 million (already in tables: o-c91889c79f, o-0fef9af377), about 70% of whom applied in the first six months of the administration. This pass adds the 70% share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-02-26",
+   "status": "complete",
+   "contains": "MICI press release, 26 Feb 2025, on the minister's 2024 management report to the Assembly (focus July-December 2024): Qualified Investor Program registered 132 new investors with total investment of 62.8 million dollars (already in tables: o-31a42fea6c, o-24013ec8c7). Other numbers out of scope: semiconductor commission (17 members), SEM (7 firms, 19.7 million), free zones (19 firms, 163.4 million, more than a thousand jobs), film commission (22.8 million, 25% rebate), exports H2 2024 (500.2 million). Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-05-28",
+   "status": "complete",
+   "contains": "MICI press release, 28 May 2025, on a visit by Mercan Group: restates the three routes (minimum 300 thousand dollars in real estate, 500 thousand in securities, 750 thousand dollar fixed deposit; already in the decree terms) and says investors may obtain citizenship after five years without having to reside physically (a claim, not in the decrees read; DE 17 of 2026 art. 14 requires five consecutive years of residence); more than 79 million dollars of investment July 2024-May 2025 (already in tables: o-e9982b96ee); Mercan is the first of three firms expected in 2025 (not a programme statistic). Nothing new added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-08-05",
+   "status": "complete",
+   "contains": "MICI press release, 5 Aug 2025: more than 500 certificates issued; 100 million dollars invested July 2024-July 2025, more than 30 million above the previous period ('2024-2024', sic) which closed at 63.2 million; real estate is 83% of certificates; Panama City and Chame lead (no figures); top five nationalities by certificates Colombia 119, US 74, Peru 52, Germany 50, Canada 47; July 2025: 21 certificates and 9.5 million dollars. All already in tables except the 63.2 million, added in this pass. Check: the five nationality counts (342) are below the total of more than 500; no total is printed for them.",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-12-16",
+   "status": "complete",
+   "contains": "MICI press release, 16 Dec 2025, launch of the online platform for qualified-investor applications: since creation 613 certificates approved for a cumulative B/. 309.8 million (already in tables: o-16aeb6f131, o-19f741b45f; event e-a2f73f8166); real estate leads; main origins Colombia, US, Peru, Germany, Canada (no counts); government goal to raise monthly certifications (no number); platform sends reminders for annual investment updates. Nothing new added.",
+   "to_do": ""
+  }
+ ]
+}
