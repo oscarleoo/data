@@ -583,3 +583,14 @@ says what was done to it.
   Grenada's October 2001 suspension); two WTO sugar-dispute summaries not applicable.
 - Latvia now: all 41 stored Latvian documents reviewed, all complete. International: all 66 stored
   international documents reviewed (56 complete, 3 partial, 7 not applicable). Both checked in the ledger.
+
+### New Zealand, batch 1 (pass `extract-cbi-nzl1`)
+- 20 documents reviewed (11 versions of the Active Investor Plus statistics page May 2025-August 2026,
+  visa pages, the 2022 announcement, 2025-2026 releases, Investor 2 operational instructions): all complete.
+- Added 705 numbers, 15 rules: applications and people by nationality in every version, approvals in
+  principle by category, withdrawals, processing days, capital by investment type (NZD 4.8bn, 5.15bn
+  headlines), the Investor 2 annual cap (300, then 400), stay and threshold rules.
+- Did not add up (noted on rows): nationality rows fall 1-5 short of printed totals in four versions;
+  2026-05 approvals in principle 89 + 500 vs printed 599.
+- **Decisions needed:** two proposed indicators for headline investment figures (pipeline and committed);
+  about 55 repeated rows (each version reprints the pre-2025 summary); early versions print a bare "$".
