@@ -1091,3 +1091,12 @@ totals?
 - 1,267 stored documents: 1,149 complete, 101 partial (each with a written to-do), 17 not applicable.
 - The 176 sources still "not reviewed" have **no stored copy** (pages that couldn't be saved, or blocked);
   they can't be reviewed until fetched.
+
+### Whistleblowing: US batches 19-20
+- 40 documents: all complete. 23 + 5 cases, 453 numbers (TIGTA audits of the IRS Whistleblower Office 2009,
+  2016, 2023: every printed table adds up), 38 rules, 10 events (incl. the SEC vacating an order after a Fifth
+  Circuit remand, April 2024). 43+ suggested corrections held (not applied).
+
+## Milestone: every stored whistleblowing document has been reviewed
+- 558 stored documents: 523 complete, 33 partial (each with a written to-do), 2 not applicable.
+- 24 sources have no stored copy and stay "not reviewed".
