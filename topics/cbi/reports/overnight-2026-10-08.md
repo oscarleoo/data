@@ -526,3 +526,17 @@ says what was done to it.
   due-diligence fee it replaced and a 27 March 2020 rule-change event.
 - Vanuatu now: all 48 stored Vanuatu documents reviewed (44 complete, 3 partial, 1 not applicable;
   checked in the ledger).
+
+### Ireland, batch 1 (pass `extract-cbi-irl1`)
+- 20 documents reviewed: 16 complete, 2 partial, 2 not applicable.
+- Added 162 numbers, 1 rule, 8 events.
+  - The 1990s "passports for investment" scheme from Dáil records 1994-2005: cases, the 1998 review's
+    appendix checks on whether early cases met the scheme's conditions, irregular naturalisations, the
+    files held by the Moriarty tribunal, 1997 government decisions.
+  - Immigrant Investor Programme: guideline processing times; the 2017 interim evaluation (amounts by year,
+    shares by investment option, family make-up, 2016 approvals, fees, jobs); EY reviews (EUR 593m invested
+    2012-2020, 3,377 jobs, sector tables, 97% of 2018 permits to Chinese nationals).
+- Partial: interim evaluation charts with no printed values; one EY chart label unreadable by OCR.
+- Did not add up: interim evaluation Table 3.2 (submitted amounts 2012-2016 sum to EUR 256.45m vs printed
+  EUR 340.95m; Q1 2017 seems included in one total only); jobs 1,644 vs 1,619 in two tables.
+- 5 new indicators proposed.
