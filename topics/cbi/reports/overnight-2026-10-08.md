@@ -265,3 +265,14 @@ says what was done to it.
 - **Worth a look:** L.N. 159 of 2025 says investment-route applications not approved before
   29 April 2025 "shall cease to have effect". That is a primary source for the closure date the
   Malta programme note currently calls unverified.
+
+### Whistleblowing: United Kingdom (pass `extract-whistleblowing-gbr1`)
+- 16 documents reviewed: all complete.
+- Added 14 numbers, 21 rules, 1 case. Mostly figures the 2026 Fisher review quotes from other
+  sources (marked reported): 774 UK nationals tipping US programmes 2012-2023, SEC, CFTC, CRA and OSC
+  totals; its descriptions of other countries' rules; Birkenfeld's $104m award (he went public).
+  SFO speeches: "over 700" UK whistleblowers to US programmes.
+- **Decisions needed:** a new rule type for the 45% tax HMRC would withhold from rewards (draft law);
+  whether rules quoted from a secondary review should stay; three period choices the pass had to make.
+- Not recorded (no matching programme yet): FCA and SFO whistleblowing case counts, police payments
+  to informants (£1.04m in 2022/23), Korea's tax-informant schemes. Listed as gaps.
