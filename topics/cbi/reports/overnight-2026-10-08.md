@@ -567,3 +567,13 @@ says what was done to it.
 - Partial: a 2020 press release's second table image (rewards by sector) isn't stored.
 - **Decisions needed:** keep subsidy-fraud and public-funds-fraud reports as two series or merge; 5 new
   indicators; two 2022 case amounts that would break the KRW 3bn cap (unit probably thousand won; left empty).
+
+### Latvia, batch 2 (pass `extract-cbi-lva2`)
+- 20 documents reviewed (valid-permit tables 2015-2026, first-time permit spreadsheets 2023-2026, 2018
+  Saeima inquiry slides): all complete.
+- Added 3,042 numbers, 3 events: investor permits in force by nationality and route at each date
+  2015-2026 (main applicants, family, total), first-time permits 2023-2026 H1, Security Police screening
+  counts. Every table adds up; the 362 rows already in the data from these tables were re-read and matched.
+- Not in the documents: three cells printed "###" in the 2018-01-01 PDF.
+- **Decisions needed:** new keys for Latvian alternative-status holders and unknown nationality; two
+  proposed indicators (security screenings, security objections); the MP's name left out of two events.
