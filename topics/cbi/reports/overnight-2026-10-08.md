@@ -1037,3 +1037,8 @@ corrections held in inbox files (whistleblowing US batch 10); CFTC collision fix
 - Many SEC press-release cases repeat awards already recorded (flagged "do not add together"; to deduplicate).
 - Suggested corrections to existing award notes from batches 9, 11 and 12 (about 80) are held in the inbox
   files, **not applied**.
+
+**Worth a look (found by the second reading):** the Egypt naturalisation decrees list people one by one and print
+no count per nationality. The nationality rows from `extract-cbi-egy1` are therefore tallies of entries, not
+printed figures. That is close to "calculated". Keep them (with a note), or drop them and keep only the decree
+totals?
