@@ -959,3 +959,14 @@ says what was done to it.
 - The 2021 report also describes other countries' programmes; recorded on those programmes (Malta link chosen by
   date: check).
 - Montenegro now: all 16 stored Montenegro documents reviewed (15 complete, 1 not applicable; checked in the ledger).
+
+### Canada 2, Italy, Hungary 2 (passes `extract-cbi-can2`, `-ita1`, `-hun1`)
+- Canada: Quebec's 2023 regulatory impact analysis (18 intermediaries, revenue forecasts). Complete.
+- Italy: 12 documents, all complete. 24 numbers, 77 rules, 5 events: nationalities in the 2020 and 2022 reports
+  to Parliament (now adding to the printed totals), start-up route profile (sex, education, city), rules and
+  fees for each version of the investor visa.
+- Hungary: 9 documents, all complete. 72 numbers, 83 rules, 3 events: residency bond applications by
+  nationality 2013-2015 (24 nationalities x 3 years; the scan has no text layer and OCR failed, so cells were
+  read by matching digit shapes to the 13 rows already stored, and column sums match the source's totals):
+  **lower assurance, needs the second reading**; bond and guest-investor rules.
+- Now fully reviewed: see ledger counts in the morning summary.
