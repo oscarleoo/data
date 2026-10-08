@@ -1,21 +1,52 @@
 jurisdiction,program_id,indicator,period,unit,value,scale,normalised_value,status,source_id,publisher,published_date,spread_percent,kind,obs_id
 ATG,atg-cbi,applications_rejected,2024,applications,23,1,23.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,23.3,revision,o-c3cb7be547
 ATG,atg-cbi,applications_rejected,2024,applications,30,1,30.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,23.3,revision,o-74b84cf193
+ATG,atg-cbi,cbi_fiscal_revenue,2017,XCD,74,million,74000000.0,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,29.5,vintage,o-9c9605c721
+ATG,atg-cbi,cbi_fiscal_revenue,2017,XCD,105,million,105000000.0,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,29.5,vintage,o-5e4aba519e
+ATG,atg-cbi,cbi_fiscal_revenue,2018,XCD,60,million,60000000.0,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,21.1,vintage,o-d8ae78458a
+ATG,atg-cbi,cbi_fiscal_revenue,2018,XCD,60,million,60000000.0,actual,atg-imf-art4-2023,International Monetary Fund,2024-01,21.1,vintage,o-a8bd4a8629
+ATG,atg-cbi,cbi_fiscal_revenue,2018,XCD,76,million,76000000.0,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,21.1,vintage,o-4be5c45abf
+ATG,atg-cbi,cbi_fiscal_revenue,2019,XCD,77,million,77000000.0,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,45.8,vintage,o-6c79d61926
+ATG,atg-cbi,cbi_fiscal_revenue,2019,XCD,142,million,142000000.0,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,45.8,vintage,o-907bc44d22
+ATG,atg-cbi,cbi_fiscal_revenue,2019,XCD,142,million,142000000.0,actual,atg-imf-art4-2023,International Monetary Fund,2024-01,45.8,vintage,o-eab1288fa4
+ATG,atg-cbi,cbi_fiscal_revenue,2020,XCD,78,million,78000000.0,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,20.4,vintage,o-7255201c29
+ATG,atg-cbi,cbi_fiscal_revenue,2020,XCD,98,million,98000000.0,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,20.4,vintage,o-e20b87506a
+ATG,atg-cbi,cbi_fiscal_revenue,2020,XCD,98,million,98000000.0,actual,atg-imf-art4-2023,International Monetary Fund,2024-01,20.4,vintage,o-31388790fb
 ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,68,million,68000000.0,actual,atg-imf-art4-2025,International Monetary Fund,2025-04,23.4,conflict,o-c53c17bb9d
 ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,68,million,68000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,23.4,conflict,o-978fffb8b8
 ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,86,million,86000000.0,provisional,atg-imf-art4-2023,International Monetary Fund,2024-01,23.4,conflict,o-32c16c793d
 ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,88.8,million,88800000.0,provisional,atg-mof-budget-2023,"Government of Antigua and Barbuda, Ministry of Finance",2023-03-02,23.4,conflict,o-673c6f842b
+ATG,atg-cbi,cbi_fiscal_revenue,2022,XCD,98,million,98000000.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,23.4,conflict,o-1301999d5a
 ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,62,million,62000000.0,actual,atg-imf-art4-2025,International Monetary Fund,2025-04,7.5,conflict,o-3b818b7e5f
 ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,62,million,62000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,7.5,conflict,o-ace16917df
 ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,67,million,67000000.0,estimate,atg-mof-budget-2024,"Government of Antigua and Barbuda, Ministry of Finance",2023-12-15,7.5,conflict,o-bbb0e8fda8
+ATG,atg-cbi,cbi_fiscal_revenue,2023,XCD,103,million,103000000.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,7.5,conflict,o-13bdd6f8ad
 ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,74,million,74000000.0,estimate,atg-imf-art4-2025,International Monetary Fund,2025-04,43.1,vintage,o-6ed22be9f1
 ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,74,million,74000000.0,actual,atg-imf-art4-2026,International Monetary Fund,2026-05,43.1,vintage,o-b3c112e5a5
+ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,107,million,107000000.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,43.1,vintage,o-489f1906a1
 ATG,atg-cbi,cbi_fiscal_revenue,2024,XCD,130,million,130000000.0,budget,atg-mof-budget-2024,"Government of Antigua and Barbuda, Ministry of Finance",2023-12-15,43.1,vintage,o-3b6928dc7a
+ATG,atg-cbi,cbi_fiscal_revenue,2025,XCD,107,million,107000000.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,0.6,conflict,o-8daa0ec9a1
 ATG,atg-cbi,cbi_fiscal_revenue,2025,XCD,157,million,157000000.0,estimate,atg-mof-budget-2026,"Government of Antigua and Barbuda, Ministry of Finance",2025-12-04,0.6,conflict,o-f5d241e55a
 ATG,atg-cbi,cbi_fiscal_revenue,2025,XCD,158,million,158000000.0,estimate,atg-imf-art4-2026,International Monetary Fund,2026-05,0.6,conflict,o-a82afe0a68
-ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,projection,atg-imf-art4-2026,International Monetary Fund,2026-05,23.6,vintage,o-143724274a
-ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,budget,atg-mof-budget-2026,"Government of Antigua and Barbuda, Ministry of Finance",2025-12-04,23.6,vintage,o-0ddd9eb734
-ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,157,million,157000000.0,budget,atg-imidaily-2026-07,IMI Daily,2026-07-02,23.6,vintage,o-82119659e1
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,106,million,106000000.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,32.5,vintage,o-01563e160f
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,projection,atg-imf-art4-2026,International Monetary Fund,2026-05,32.5,vintage,o-143724274a
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,120,million,120000000.0,budget,atg-mof-budget-2026,"Government of Antigua and Barbuda, Ministry of Finance",2025-12-04,32.5,vintage,o-0ddd9eb734
+ATG,atg-cbi,cbi_fiscal_revenue,2026,XCD,157,million,157000000.0,budget,atg-imidaily-2026-07,IMI Daily,2026-07-02,32.5,vintage,o-82119659e1
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,1.9,1,1.9,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,26.9,vintage,o-65406bcfe3
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,2.6,1,2.6,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,26.9,vintage,o-7daaf7ab4d
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,1.4,1,1.4,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,26.3,vintage,o-ac37789261
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,1.9,1,1.9,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,26.3,vintage,o-5f0cb81d37
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,1.8,1,1.8,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,41.9,vintage,o-a709037c50
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,3.1,1,3.1,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,41.9,vintage,o-286d4828ae
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,3.1,1,3.1,actual,atg-imf-art4-2023,International Monetary Fund,2024-01,41.9,vintage,o-cecb941cb6
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,1.8,1,1.8,projection,atg-imf-art4-2014,International Monetary Fund,2015-07,30.8,vintage,o-29ce376b0b
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,2.6,1,2.6,actual,atg-imf-art4-2022,International Monetary Fund,2023-05,30.8,vintage,o-c102f75df8
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,1.8,1,1.8,provisional,atg-imf-art4-2023,International Monetary Fund,2024-01,14.3,vintage,o-c5c4d3158e
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,2.1,1,2.1,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,14.3,vintage,o-a13611e592
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,1.2,1,1.2,estimate,atg-imf-art4-2025,International Monetary Fund,2025-04,40.0,vintage,o-cad3f3d8ae
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,2.0,1,2.0,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,40.0,vintage,o-465161ac74
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,1.9,1,1.9,projection,atg-imf-art4-2022,International Monetary Fund,2023-05,26.9,vintage,o-4a4e5f9e10
+ATG,atg-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,2.6,1,2.6,estimate,atg-imf-art4-2026,International Monetary Fund,2026-05,26.9,vintage,o-d8575b7f71
 ATG,atg-cbi,passports_issued,2014,persons,233,1,233.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,41.9,revision,o-f32ac906bf
 ATG,atg-cbi,passports_issued,2014,persons,252,1,252.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,41.9,revision,o-5b57ef83f2
 ATG,atg-cbi,passports_issued,2014,persons,252,1,252.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,41.9,revision,o-0ff3b2dcae

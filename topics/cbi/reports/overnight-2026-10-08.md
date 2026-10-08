@@ -202,3 +202,16 @@ says what was done to it.
 - Proposed: a separate programme `svk-uoo` for the Office's protection work, 10 new indicators,
   a rule type for the maximum employer fine.
 - Whistleblowing ledger: complete 21, partial 4, not reviewed 557 (of 582 sources).
+
+### Antigua and Barbuda, batch 1 (pass `extract-cbi-atg1`)
+- 20 documents reviewed (the 2013 Act, regulations 2013-2024, CIU web pages, IMF 2014 and 2022): all complete.
+- Added 34 numbers, 24 rules and fees, 4 events: due-diligence, agent-licence, passport, renewal
+  and processing fees; the 35-day stay rule; dependants up to 29 (2017), parents from 58 (2019),
+  2024 changes; IMF share-of-GDP figures and projections; 4 Iraqi nationals granted citizenship to
+  April 2016 (a CIU page).
+- Conflict kept: the CIU's 2017 table shows Iraq with 4 applications and 6 passports to Dec 2015,
+  the Iraq page says two approvals and four people.
+- **Worth a look:** two IMF numbers have a period the pass had to set (the "about 1.9% of GDP after
+  2015" recorded for 2016-2020; St Kitts "more than 10%" recorded as 2014). Notes say so.
+- Gaps: the stored 2019 regulations scan stops mid-page 6; the commencement order and the 2016
+  regulations are not stored.
