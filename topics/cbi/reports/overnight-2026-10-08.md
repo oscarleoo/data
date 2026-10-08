@@ -619,3 +619,14 @@ says what was done to it.
 - **Decisions needed:** the existing event dating Ireland's Russian ban to 6 April 2022 is too late (a
   22 March 2022 answer already mentions it); one guidelines source titled "October 2022" says "Published
   February 2019" on its cover.
+
+### Panama, batch 1 (pass `extract-cbi-pan1`)
+- 20 documents reviewed (executive decrees 2008-2026, Commerce Ministry press releases 2022-2025):
+  18 complete, 2 partial.
+- Added 6 numbers, 24 rules, 3 events: Qualified Investor minimums (B/.500,000 in 2020, B/.300,000 from
+  2024/2026), holding periods, dependant deposits, legal decision deadlines (recorded as rules, not measured
+  times), 2008 regulation fees; shares of certified investors by region, amounts invested in 2024.
+- Partial: the stored Decree 193 (2024) stops mid-page 11; Decree 320 (2008) sets six other investor routes
+  (farming, forestry, Panamá-Pacífico, export zones, call centres, film) that have no programme in the dataset.
+- **Decisions needed:** add those six routes as programmes? Existing Decree 193 rule and event mention
+  co-ownership and an unchanged B/.750,000 deposit that the stored pages don't show.
