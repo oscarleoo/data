@@ -142,3 +142,23 @@ says what was done to it.
   (looks misplaced in the source, recorded as printed).
 - 5 new indicators proposed (regional-centre applications received, approved, denied; intermediary
   fee per investor; processing time in months).
+
+### Hungary, Malta, other Europe (pass `extract-hun-mlt-eur`)
+- 16 documents reviewed: 14 complete, 2 partial (both Maltese regulator reports).
+- Added 699 numbers, 2 rules, 4 events. All quotes match the PDF text.
+  - Malta 2019-20 regulator report (556 numbers): applications, approvals, refusals, naturalisations
+    by year 2015-2020; applicant profiles (sex, region, other citizenships, job, education, age);
+    properties bought and leased by locality and value; government stock; contributions and how they
+    were shared; fees; charity donations; agents.
+  - Malta 2014 report: 173 applications to June 2014, shares by country (Russia 54.3%), agents;
+    projections marked as such.
+  - Hungary debt agency (ÁKK) reports 2013-2022: residency bond series by year in EUR and HUF,
+    the 2018 repayment, last issue September 2017. Some series change between reports after sales
+    ended, unexplained; recorded as printed and flagged.
+  - Turkey: an MP's claims in a parliamentary question (451 main applicants behind 1,198 irregular
+    citizenships, USD 181.2m), marked as claims. UK: pre-2008 investor route prices.
+- Partial (Malta): ten charts and maps in the 2019-20 report and one in 2014 carry printed values
+  that OCR could not tie to months or regions; they need reading by eye. The 135-recipient charity
+  list is not copied out (totals are). Smaller figures with no measure yet (agent success rates,
+  15 referrals to the financial intelligence unit, 24 review requests) are listed in the to-do.
+- 3 new indicators proposed (licensed agents, applicant profile share, applicant donations).
