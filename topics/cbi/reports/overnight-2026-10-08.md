@@ -550,3 +550,20 @@ says what was done to it.
   the 2024 Eastern Caribbean agreement (US$200,000 minimum, one rule per signatory).
 - Partial: WP 15/93's recommended buffer size (20-50% of GDP) has no measure.
 - **Decision needed:** deficits printed as positive numbers recorded as printed with `category=deficit`.
+
+### Whistleblowing: Korea, batch 1 (pass `extract-whistleblowing-kor1`)
+- 20 documents reviewed (Anti-Corruption and Civil Rights Commission annual reports 2010-2025, six press
+  releases): 19 complete, 1 partial.
+- Added 5,244 numbers, 25 rules, 32 events, 75 cases: every whistleblowing table in each annual report
+  (reports received and handled, rewards and amounts recovered, protection requests and outcomes, by year
+  and category; each report reprints the history, so earlier years appear again from each source), plus
+  Graft Act and Conflict of Interest Act report counts. Korean amounts read with 억 = 100,000,000 and
+  만 = 10,000, recorded in the dataset's existing units.
+- The new merge warning caught 19 cases colliding (several cases on one page, no target or amount); fixed by
+  numbering them in order in the location and re-merging. All 75 in.
+- Did not add up or look misprinted (all noted on rows): 2011 protection and preventive totals; 2023 reports
+  handled (91,065 vs 91,074); the 2010 reward total printed "21,954,733,31"; the 2024 report says reports
+  fell 50.6% when they rose.
+- Partial: a 2020 press release's second table image (rewards by sector) isn't stored.
+- **Decisions needed:** keep subsidy-fraud and public-funds-fraud reports as two series or merge; 5 new
+  indicators; two 2022 case amounts that would break the KRW 3bn cap (unit probably thousand won; left empty).
