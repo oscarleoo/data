@@ -918,3 +918,15 @@ says what was done to it.
   plus others add to 43,943; the reply's text says 43,466), 5,396 applications handed back during the freeze,
   340 licensed agents, the 2021 regime (90 days, age 35, 1% cap), category fees and terms, Forest City rule.
 - Now fully reviewed (checked in the ledger): Cyprus 22 (21 complete, 1 partial), North Macedonia 8, Malaysia 11.
+
+### Whistleblowing: United States, batch 7 (pass `extract-whistleblowing-usa7`)
+- 20 documents reviewed (IRS Whistleblower Office reports FY2008-FY2024, NHTSA award order, release and 2024 rule):
+  18 complete, 2 partial.
+- Added 1,894 numbers, 113 rules, 32 events: the full breakdowns of every IRS report table (open claims by status
+  and days in status, closures by year of receipt and reason, receipts by division and month, processing times,
+  award rates, notices to whistleblowers, hotline calls); NHTSA penalties by consent-order component.
+- Did not add up: three FY2013 tables off by 1-90; open claims by year of receipt off by one in FY2016-2017.
+- Partial: FY2023 and FY2024 pie slices and histograms read from images, unreliable.
+- **Corrections suggested:** case c-acde6dec05 names Kim Gwang-ho (he did go public, per a CNN source in the
+  data) but its source, the NHTSA release, doesn't name him, and it duplicates c-2fe1a61a52 from the same
+  release; two duplicate events from that release; one NHTSA case lacks the $81m collected.
