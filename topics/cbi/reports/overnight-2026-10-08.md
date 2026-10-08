@@ -979,7 +979,7 @@ says what was done to it.
   so they wait for your review. One existing note calls a $1,000,000 award "over" when the order says
   "approximately".
 
-### Seychelles, Jordan, Bahrain, Bahamas (passes , , , )
+### Seychelles, Jordan, Bahrain, Bahamas (passes extract-cbi-syc1, -jor1, -bhr1, -bhs1)
 - 25 documents, all complete: 194 rules, 4 numbers, 1 event (thresholds, fees, processing times).
 - **Decisions needed:** an existing Bahrain event says "35% cut", a figure the release never prints (it was
   calculated); bare "$" in Bahamas documents (new rows unspecified, old rows BSD).
@@ -1001,7 +1001,7 @@ documents; whistleblowing Korea. Greece and Antigua were reviewed earlier (sever
   **not merged** (they may be complete or half-written): see that file in each topic.
 - CBI queue: Philippines/Thailand/Oman, small-jurisdiction batches 1-4, Austria/Brazil/Switzerland, and
   every document still `not_reviewed` in the ledger.
-- Whistleblowing queue: US batches 8, 9, 11-22 (mostly SEC award orders), Hungary, Lithuania, other countries.
+- Whistleblowing queue: US batches 8, 9, 13-22 (11 and 12 finished but are not merged) (mostly SEC award orders), Hungary, Lithuania, other countries.
 - Second reading: everything merged after batch j7/y2 (Latvia batch 1 onwards) has had the automatic quote check
   only, not the blind second reading. Priority: Hungarian bond table (read by digit shapes), Cyprus reports
   (read by helper agents), Malta image charts, Australia review charts, UAE Arabic quotes.
