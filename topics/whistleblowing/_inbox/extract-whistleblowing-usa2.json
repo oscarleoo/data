@@ -1252,7 +1252,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-28'",
    "quote": "No. 26-WB-28 | 2026-09-22 | Denied",
    "notes": "Order No. 26-WB-28; result 'Denied'; released 09/25/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-09/No.%2026-WB-28.pdf"
   },
@@ -1270,7 +1270,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-26'",
    "quote": "No. 26-WB-26 | 2026-09-11 | Granted; Denied",
    "notes": "Order No. 26-WB-26; result 'Granted; Denied'; released 09/14/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-09/26-WB-26%20Public%20Order.pdf"
   },
@@ -1288,7 +1288,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-24'",
    "quote": "No. 26-WB-24 | 2026-08-24 | Denied",
    "notes": "Order No. 26-WB-24; result 'Denied'; released 08/26/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-08/26-WB-24%20Final%20Order%20-%20Public.pdf"
   },
@@ -1306,7 +1306,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-23'",
    "quote": "No. 26-WB-23 | 2026-05-27 | Denied",
    "notes": "Order No. 26-WB-23; result 'Denied'; released 08/26/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-08/Final%20Order%20Public%2026-WB-23_Redacted.pdf"
   },
@@ -1324,7 +1324,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-22'",
    "quote": "No. 26-WB-22 | 2026-07-31 | Denied",
    "notes": "Order No. 26-WB-22; result 'Denied'; released 07/31/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/Final%20Order%20Public%2026-WB-22.pdf"
   },
@@ -1342,7 +1342,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-21'",
    "quote": "No. 26-WB-21 | 2026-07-31 | Granted; Denied",
    "notes": "Order No. 26-WB-21; result 'Granted; Denied'; released 07/31/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/Final%20Order%20Public%2026-WB-21.pdf"
   },
@@ -1360,7 +1360,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-19'",
    "quote": "No. 26-WB-19 | 2026-05-28 | Denied",
    "notes": "Order No. 26-WB-19; result 'Denied'; released 07/27/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-19%20Final%20Order%20Public.pdf"
   },
@@ -1378,7 +1378,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-18'",
    "quote": "No. 26-WB-18 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-18; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-18.pdf"
   },
@@ -1396,7 +1396,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-17'",
    "quote": "No. 26-WB-17 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-17; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-17.pdf"
   },
@@ -1414,7 +1414,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-16'",
    "quote": "No. 26-WB-16 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-16; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-16.pdf"
   },
@@ -1432,7 +1432,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-15'",
    "quote": "No. 26-WB-15 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-15; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-15.pdf"
   },
@@ -1450,7 +1450,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-14'",
    "quote": "No. 26-WB-14 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-14; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-14.pdf"
   },
@@ -1468,7 +1468,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-13'",
    "quote": "No. 26-WB-13 | 2026-07-17 | Denied",
    "notes": "Order No. 26-WB-13; result 'Denied'; released 07/17/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-07/26-WB-13.pdf"
   },
@@ -1486,7 +1486,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-12'",
    "quote": "No. 26-WB-12 | 2026-06-01 | Denied",
    "notes": "Order No. 26-WB-12; result 'Denied'; released 06/01/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-06/No.%2026-WB-12.pdf"
   },
@@ -1504,7 +1504,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-11'",
    "quote": "No. 26-WB-11 | 2026-06-01 | Denied",
    "notes": "Order No. 26-WB-11; result 'Denied'; released 06/01/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-06/26-WB-11%20Public%20Final%20Order.pdf"
   },
@@ -1522,7 +1522,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-10'",
    "quote": "No. 26-WB-10 | 2026-06-01 | Denied",
    "notes": "Order No. 26-WB-10; result 'Denied'; released 06/01/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-06/26-WB-10%20Public%20Final%20Order.pdf"
   },
@@ -1540,7 +1540,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-09'",
    "quote": "No. 26-WB-09 | 2026-06-01 | Denied",
    "notes": "Order No. 26-WB-09; result 'Denied'; released 06/01/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-06/26-WB-09%20Public%20order.pdf"
   },
@@ -1558,7 +1558,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-08'",
    "quote": "No. 26-WB-08 | 2026-06-01 | Denied",
    "notes": "Order No. 26-WB-08; result 'Denied'; released 06/01/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/2026-06/No.%2026-WB-08.pdf"
   },
@@ -1576,7 +1576,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-06'",
    "quote": "No. 26-WB-06 | 2026-04-14 | Denied",
    "notes": "Order No. 26-WB-06; result 'Denied'; released 04/14/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final%20Orders/No.%2026-WB-06.pdf"
   },
@@ -1594,7 +1594,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-05'",
    "quote": "No. 26-WB-05 | 2026-04-14 | Denied",
    "notes": "Order No. 26-WB-05; result 'Denied'; released 04/14/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final%20Orders/No.%2026-WB-05.pdf"
   },
@@ -1612,7 +1612,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-04'",
    "quote": "No. 26-WB-04 | 2026-04-14 | Denied",
    "notes": "Order No. 26-WB-04; result 'Denied'; released 04/14/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final%20Orders/No.%2026-WB-04.pdf"
   },
@@ -1630,7 +1630,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '26-WB-03'",
    "quote": "No. 26-WB-03 | 2026-04-09 | Denied",
    "notes": "Order No. 26-WB-03; result 'Denied'; released 04/09/2026; PDF https://www.whistleblower.gov/sites/whistleblower/files/26-WB-03%20Final%20Order%20-%20PUBLIC_Redacted.pdf"
   },
@@ -1648,7 +1648,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-08'",
    "quote": "No. 25-WB-08 | 2025-09-08 | Denied",
    "notes": "Order No. 25-WB-08; result 'Denied'; released 09/08/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final%20Orders/WB-25-08.pdf"
   },
@@ -1666,7 +1666,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-07'",
    "quote": "No. 25-WB-07 CFTC Awards Approximately $700,000 to Whistleblower | 2025-05-29 | Granted",
    "notes": "Order No. 25-WB-07 (linked press release title: \"CFTC Awards Approximately $700,000 to Whistleblower\"); result 'Granted'; released 05/29/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-05/No.25-WB-07.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -1684,7 +1684,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.04.30.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-04-30 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 04/30/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-04/Final%20Order%202025.04.30.pdf"
   },
@@ -1702,7 +1702,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-05'",
    "quote": "No. 25-WB-05 | 2025-03-12 | Denied",
    "notes": "Order No. 25-WB-05; result 'Denied'; released 03/13/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-03/No.%2025-WB-05.pdf"
   },
@@ -1720,7 +1720,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-06'",
    "quote": "No. 25-WB-06 | 2025-03-12 | Denied",
    "notes": "Order No. 25-WB-06; result 'Denied'; released 03/13/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-03/No.%2025-WB-06.pdf"
   },
@@ -1738,7 +1738,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-03'",
    "quote": "No. 25-WB-03 | 2025-03-12 | Denied",
    "notes": "Order No. 25-WB-03; result 'Denied'; released 03/13/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-03/No.%2025-WB-03.pdf"
   },
@@ -1756,7 +1756,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-02'",
    "quote": "No. 25-WB-02 | 2025-03-12 | Denied",
    "notes": "Order No. 25-WB-02; result 'Denied'; released 03/13/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-03/No.%2025-WB-02.pdf"
   },
@@ -1774,7 +1774,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-04'",
    "quote": "No. 25-WB-04 | 2025-03-12 | Denied",
    "notes": "Order No. 25-WB-04; result 'Denied'; released 03/13/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-03/No.%2025-WB-04.pdf"
   },
@@ -1792,7 +1792,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.01.14%20-%201.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-01-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/14/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-01/Final%20Order%202025.01.14%20-%201.pdf"
   },
@@ -1810,7 +1810,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.01.14%20-%202.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-01-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/14/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-01/Final%20Order%202025.01.14%20-%202.pdf"
   },
@@ -1828,7 +1828,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.01.14%20-%203.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-01-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/14/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-01/Final%20Order%202025.01.14%20-%203.pdf"
   },
@@ -1846,7 +1846,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.01.14%20-%205.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-01-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/14/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-01/Final%20Order%202025.01.14%20-%205.pdf"
   },
@@ -1864,7 +1864,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202025.01.14%20-%204.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2025-01-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/14/2025; PDF https://www.whistleblower.gov/sites/whistleblower/files/2025-01/Final%20Order%202025.01.14%20-%204.pdf"
   },
@@ -1882,7 +1882,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '25-WB-01'",
    "quote": "No. 25-WB-01 CFTC Awards $4M to Two Whistleblowers | 2024-11-08 | Granted; Denied",
    "notes": "Order No. 25-WB-01 (linked press release title: \"CFTC Awards $4M to Two Whistleblowers\"); result 'Granted; Denied'; released 11/12/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-11/No.%2025-WB-01.pdf award_amount from the linked press-release title printed in the list (Exact as printed (\"$4M\"), total to two whistleblowers); the order itself was not read (not stored)."
   },
@@ -1900,7 +1900,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-12'",
    "quote": "No. 24-WB-12 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted",
    "notes": "Order No. 24-WB-12 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-12.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -1918,7 +1918,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-11'",
    "quote": "No. 24-WB-11 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted; Denied",
    "notes": "Order No. 24-WB-11 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted; Denied'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-11.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -1936,7 +1936,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-10'",
    "quote": "No. 24-WB-10 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted",
    "notes": "Order No. 24-WB-10 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-10.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -1954,7 +1954,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-08'",
    "quote": "No. 24-WB-08 CFTC Awards Over $4 Million to Insider Whistleblower | 2024-08-29 | Granted",
    "notes": "Order No. 24-WB-08 (linked press release title: \"CFTC Awards Over $4 Million to Insider Whistleblower\"); result 'Granted'; released 08/29/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-08/No.%2024-WB-08.pdf award_amount from the linked press-release title printed in the list (Over); the order itself was not read (not stored). Title describes the whistleblower as an insider."
   },
@@ -1972,7 +1972,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-07'",
    "quote": "No. 24-WB-07 CFTC Awards Over $1 Million to Whistleblower Who Aided a Digital Assets-Related Investigation | 2024-08-08 | Granted; Denied",
    "notes": "Order No. 24-WB-07 (linked press release title: \"CFTC Awards Over $1 Million to Whistleblower Who Aided a Digital Assets-Related Investigation\"); result 'Granted; Denied'; released 08/08/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-08/No.%2024-WB-07.pdf award_amount from the linked press-release title printed in the list (Over); the order itself was not read (not stored)."
   },
@@ -1990,7 +1990,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202024.06.05.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2024-06-05 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 07/24/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-07/Final%20Order%202024.06.05.pdf"
   },
@@ -2008,7 +2008,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202024.04.30.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2024-04-30 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 07/24/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-07/Final%20Order%202024.04.30.pdf"
   },
@@ -2026,7 +2026,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-06'",
    "quote": "No. 24-WB-06 CFTC Awards Over $8 Million to Insider Whistleblower Who Aided CFTC and Other Agency Actions | 2024-06-17 | Granted; Denied",
    "notes": "Order No. 24-WB-06 (linked press release title: \"CFTC Awards Over $8 Million to Insider Whistleblower Who Aided CFTC and Other Agency Actions\"); result 'Granted; Denied'; released 06/17/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-06/No.%2024-WB-06.pdf award_amount from the linked press-release title printed in the list (Over); the order itself was not read (not stored). Title describes the whistleblower as an insider."
   },
@@ -2044,7 +2044,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-05'",
    "quote": "No. 24-WB-05 CFTC Announces Whistleblower Award Over $4.5 Million | 2024-06-03 | Granted",
    "notes": "Order No. 24-WB-05 (linked press release title: \"CFTC Announces Whistleblower Award Over $4.5 Million\"); result 'Granted'; released 06/03/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-06/No.%2024-WB-05.pdf award_amount from the linked press-release title printed in the list (Over); the order itself was not read (not stored)."
   },
@@ -2062,7 +2062,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-04'",
    "quote": "No. 24-WB-04 CFTC Awards Insider Whistleblower Approximately $1.25 Million | 2024-03-14 | Granted",
    "notes": "Order No. 24-WB-04 (linked press release title: \"CFTC Awards Insider Whistleblower Approximately $1.25 Million\"); result 'Granted'; released 03/14/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-03/No.%2024-WB-04.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored). Title describes the whistleblower as an insider."
   },
@@ -2080,7 +2080,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-03'",
    "quote": "No. 24-WB-03 | 2024-01-04 | Granted; Denied",
    "notes": "Order No. 24-WB-03; result 'Granted; Denied'; released 01/05/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-01/No.%2024-WB-03.pdf"
   },
@@ -2098,7 +2098,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '24-WB-01'",
    "quote": "No. 24-WB-01 CFTC Awards Whistleblower Over $18 Million | 2023-10-12 | Granted",
    "notes": "Order No. 24-WB-01 (linked press release title: \"CFTC Awards Whistleblower Over $18 Million\"); result 'Granted'; released 10/12/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-10/No.%2024-WB-01_1.pdf award_amount from the linked press-release title printed in the list (Over); the order itself was not read (not stored)."
   },
@@ -2116,7 +2116,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-07'",
    "quote": "No. 23-WB-07 CFTC Awards Whistleblower More Than $300,000 | 2023-09-27 | Granted",
    "notes": "Order No. 23-WB-07 (linked press release title: \"CFTC Awards Whistleblower More Than $300,000\"); result 'Granted'; released 09/27/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-09/No.%2023-WB-07.pdf award_amount from the linked press-release title printed in the list (More than); the order itself was not read (not stored)."
   },
@@ -2134,7 +2134,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-06'",
    "quote": "No. 23-WB-06 CFTC Grants Two Whistleblower Awards Totaling Over $15 Million | 2023-09-19 | Granted; Denied",
    "notes": "Order No. 23-WB-06 (linked press release title: \"CFTC Grants Two Whistleblower Awards Totaling Over $15 Million\"); result 'Granted; Denied'; released 09/19/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-09/No.%2023-WB-06.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -2152,7 +2152,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-05'",
    "quote": "No. 23-WB-05 CFTC Grants Two Whistleblower Awards Totaling Over $15 Million | 2023-09-19 | Granted; Denied",
    "notes": "Order No. 23-WB-05 (linked press release title: \"CFTC Grants Two Whistleblower Awards Totaling Over $15 Million\"); result 'Granted; Denied'; released 09/19/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-09/No.%2023-WB-05.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -2170,7 +2170,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Order%202023.09.18.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2023-09-18 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 09/18/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-09/Order%202023.09.18.pdf"
   },
@@ -2188,7 +2188,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202023.08.30.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2023-08-30 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 08/30/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-08/Final%20Order%202023.08.30.pdf"
   },
@@ -2206,7 +2206,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-04'",
    "quote": "No. 23-WB-04 | 2023-08-11 | Granted; Denied",
    "notes": "Order No. 23-WB-04; result 'Granted; Denied'; released 08/11/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-08/No.%2023-WB-04.pdf"
   },
@@ -2224,7 +2224,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202023.05.03%282%29.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2023-05-03 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 05/04/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-05/Final%20Order%202023.05.03%282%29.pdf"
   },
@@ -2242,7 +2242,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202023.05.03%281%29.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2023-05-03 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 05/04/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-05/Final%20Order%202023.05.03%281%29.pdf"
   },
@@ -2260,7 +2260,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202023.05.03.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2023-05-03 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 05/03/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-05/Final%20Order%202023.05.03.pdf"
   },
@@ -2278,7 +2278,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-03'",
    "quote": "No. 23-WB-03 | 2023-02-21 | Denied",
    "notes": "Order No. 23-WB-03; result 'Denied'; released 02/21/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-02/No.%2023-WB-03.pdf"
   },
@@ -2296,7 +2296,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-02'",
    "quote": "No. 23-WB-02 | 2023-02-21 | Denied",
    "notes": "Order No. 23-WB-02; result 'Denied'; released 02/21/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-02/No.%2023-WB-02.pdf"
   },
@@ -2314,7 +2314,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '23-WB-01'",
    "quote": "No. 23-WB-01 | 2023-02-21 | Granted; Denied",
    "notes": "Order No. 23-WB-01; result 'Granted; Denied'; released 02/21/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-02/No.%2023-WB-01.pdf"
   },
@@ -2332,7 +2332,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'FINAL%20ORDER%202022.12.27-2.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2022-12-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/09/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-01/FINAL%20ORDER%202022.12.27-2.pdf"
   },
@@ -2350,7 +2350,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'FINAL%20ORDER%202022.12.27-1.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2022-12-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/09/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-01/FINAL%20ORDER%202022.12.27-1.pdf"
   },
@@ -2368,7 +2368,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'FINAL%20ORDER%202022.12.27-3.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2022-12-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 01/09/2023; PDF https://www.whistleblower.gov/sites/whistleblower/files/2023-01/FINAL%20ORDER%202022.12.27-3.pdf"
   },
@@ -2386,7 +2386,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202022.04.05.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2022-04-05 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 05/13/2022; PDF https://www.whistleblower.gov/sites/whistleblower/files/2022-05/Final%20Order%202022.04.05.pdf"
   },
@@ -2404,7 +2404,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '22-WB-04'",
    "quote": "No. 22-WB-04 CFTC Awards Approximately $625,000 to Four Whistleblowers | 2022-03-25 | Granted; Denied",
    "notes": "Order No. 22-WB-04 (linked press release title: \"CFTC Awards Approximately $625,000 to Four Whistleblowers\"); result 'Granted; Denied'; released 03/28/2022; PDF https://www.whistleblower.gov/sites/whistleblower/files/2022-03/No.%2022-WB-04.pdf award_amount from the linked press-release title printed in the list (Approximately; total to four whistleblowers); the order itself was not read (not stored)."
   },
@@ -2422,7 +2422,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '22-WB-03'",
    "quote": "No. 22-WB-03 CFTC Awards Approximately $10 Million to a Whistleblower | 2022-03-17 | Granted",
    "notes": "Order No. 22-WB-03 (linked press release title: \"CFTC Awards Approximately $10 Million to a Whistleblower\"); result 'Granted'; released 03/17/2022; PDF https://www.whistleblower.gov/sites/whistleblower/files/2022-03/No.%2022-WB-03.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -2440,7 +2440,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '22-WB-01'",
    "quote": "No. 22-WB-01 CFTC Awards Approximately $1 Million to Two Whistleblowers | 2021-11-22 | Granted; Denied",
    "notes": "Order No. 22-WB-01 (linked press release title: \"CFTC Awards Approximately $1 Million to Two Whistleblowers\"); result 'Granted; Denied'; released 11/22/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-11/No.%2022-WB-01.pdf award_amount from the linked press-release title printed in the list (Approximately; total to two whistleblowers); the order itself was not read (not stored)."
   },
@@ -2458,7 +2458,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-07'",
    "quote": "No. 21-WB-07 CFTC Awards Nearly $200 Million to a Whistleblower | 2021-10-15 | Granted; Denied",
    "notes": "Order No. 21-WB-07 (linked press release title: \"CFTC Awards Nearly $200 Million to a Whistleblower\"); result 'Granted; Denied'; released 10/21/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-10/No. 21-WB-07.pdf award_amount from the linked press-release title printed in the list (Nearly); the order itself was not read (not stored)."
   },
@@ -2476,7 +2476,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202021.10.05-2.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2021-10-05 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/13/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-10/Final%20Order%202021.10.05-2.pdf"
   },
@@ -2494,7 +2494,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202021.10.05-1.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2021-10-05 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/13/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-10/Final%20Order%202021.10.05-1.pdf"
   },
@@ -2512,7 +2512,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202021.08.17.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2021-08-17 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/13/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-10/Final%20Order%202021.08.17.pdf"
   },
@@ -2530,7 +2530,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202021.07.27-2.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2021-07-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 08/19/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-08/Final%20Order%202021.07.27-2.pdf"
   },
@@ -2548,7 +2548,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202021.07.27-1.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2021-07-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 08/19/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-08/Final%20Order%202021.07.27-1.pdf"
   },
@@ -2566,7 +2566,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-06'",
    "quote": "No. 21-WB-06 | 2021-05-27 | Granted",
    "notes": "Order No. 21-WB-06; result 'Granted'; released 05/27/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-05/21-WB-06.pdf"
   },
@@ -2584,7 +2584,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20-%202021-05-05_Website.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2021-05-05 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 05/10/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-05/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20-%202021-05-05_Website.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -2602,7 +2602,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-05'",
    "quote": "No. 21-WB-05 | 2021-04-30 | Granted; Denied",
    "notes": "Order No. 21-WB-05; result 'Granted; Denied'; released 05/03/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-05/No.%2021-WB-05.pdf"
   },
@@ -2620,7 +2620,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-03'",
    "quote": "No. 21-WB-03 | 2021-04-30 | Granted",
    "notes": "Order No. 21-WB-03; result 'Granted'; released 05/03/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-05/No.%2021-WB-03.pdf"
   },
@@ -2638,7 +2638,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-02'",
    "quote": "No. 21-WB-02 CFTC Awards Approximately $3 Million to Whistleblower | 2021-04-22 | Granted; Denied",
    "notes": "Order No. 21-WB-02 (linked press release title: \"CFTC Awards Approximately $3 Million to Whistleblower\"); result 'Granted; Denied'; released 04/22/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-04/No.%2021-WB-02%20.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -2656,7 +2656,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '21-WB-01'",
    "quote": "No. 21-WB-01 | 2021-04-16 | Granted; Denied",
    "notes": "Order No. 21-WB-01; result 'Granted; Denied'; released 04/16/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-04/No.%2021-WB-01_1.pdf"
   },
@@ -2674,7 +2674,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202020.10.14.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2020-10-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 11/04/2020; PDF https://whistleblower.gov/sites/whistleblower/files/2020-11/Final%20Order%202020.10.14.pdf"
   },
@@ -2692,7 +2692,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%20-%202020.10.14.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2020-10-14 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/15/2020; PDF https://whistleblower.gov/sites/whistleblower/files/2020-10/Final%20Order%20-%202020.10.14.pdf"
   },
@@ -2710,7 +2710,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20-%202020-10-13.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2020-10-13 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/14/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-10/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20-%202020-10-13.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -2728,7 +2728,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-11'",
    "quote": "No. 20-WB-11 CFTC Awards Whistleblower $250,000 | 2020-09-28 | Granted",
    "notes": "Order No. 20-WB-11 (linked press release title: \"CFTC Awards Whistleblower $250,000\"); result 'Granted'; released 09/28/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-09/No.%2020-WB-11.pdf award_amount from the linked press-release title printed in the list (As printed); the order itself was not read (not stored)."
   },
@@ -2746,7 +2746,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-10'",
    "quote": "No. 20-WB-10 CFTC Awards Domestic and International Whistleblowers | 2020-09-04 | Granted; Denied",
    "notes": "Order No. 20-WB-10 (linked press release title: \"CFTC Awards Domestic and International Whistleblowers\"); result 'Granted; Denied'; released 09/08/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-09/No.%2020-WB-10.pdf Title refers to a foreign/international whistleblower."
   },
@@ -2764,7 +2764,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-09'",
    "quote": "No. 20-WB-09 CFTC Awards Whistleblower for Exposing Ongoing Fraud | 2020-08-28 | Granted; Denied",
    "notes": "Order No. 20-WB-09 (linked press release title: \"CFTC Awards Whistleblower for Exposing Ongoing Fraud\"); result 'Granted; Denied'; released 09/03/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-09/No.%2020-WB-09.pdf"
   },
@@ -2782,7 +2782,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202020.08.05.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2020-06-02 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 08/05/2020; PDF https://whistleblower.gov/sites/whistleblower/files/2020-08/Final%20Order%202020.08.05.pdf"
   },
@@ -2800,7 +2800,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-08'",
    "quote": "No. 20-WB-08 CFTC Awards Approximately $9 Million to Whistleblower | 2020-07-24 | Granted",
    "notes": "Order No. 20-WB-08 (linked press release title: \"CFTC Awards Approximately $9 Million to Whistleblower\"); result 'Granted'; released 07/24/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-07/No.%2020-WB-08.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -2818,7 +2818,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-07'",
    "quote": "No. 20-WB-07 CFTC Announces Whistleblower Awards Totaling Over $1 Million | 2020-07-20 | Granted; Denied",
    "notes": "Order No. 20-WB-07 (linked press release title: \"CFTC Announces Whistleblower Awards Totaling Over $1 Million\"); result 'Granted; Denied'; released 07/21/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-07/No.%2020-WB-07.pdf award_amount from the linked press-release title printed in the list (Over; \"awards totaling\", more than one whistleblower); the order itself was not read (not stored)."
   },
@@ -2836,7 +2836,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-06'",
    "quote": "No. 20-WB-06 | 2020-06-12 | Granted; Denied",
    "notes": "Order No. 20-WB-06; result 'Granted; Denied'; released 06/14/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-06/No.%2020-WB-06.pdf"
   },
@@ -2854,7 +2854,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-05'",
    "quote": "No. 20-WB-05 CFTC Announces $6 Million Whistleblower Award | 2020-06-05 | Granted; Denied",
    "notes": "Order No. 20-WB-05 (linked press release title: \"CFTC Announces $6 Million Whistleblower Award\"); result 'Granted; Denied'; released 06/08/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-06/No. 20-WB-05.pdf award_amount from the linked press-release title printed in the list (As printed); the order itself was not read (not stored)."
   },
@@ -2872,7 +2872,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-04'",
    "quote": "No. 20-WB-04 CFTC Awards More Than $2 Million to Four Whistleblowers | 2020-05-01 | Granted; Denied",
    "notes": "Order No. 20-WB-04 (linked press release title: \"CFTC Awards More Than $2 Million to Four Whistleblowers\"); result 'Granted; Denied'; released 05/04/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-05/No.%2020-WB-04.pdf award_amount from the linked press-release title printed in the list (More than; total to four whistleblowers); the order itself was not read (not stored)."
   },
@@ -2890,7 +2890,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-03'",
    "quote": "No. 20-WB-03 | 2020-04-20 | Granted; Denied",
    "notes": "Order No. 20-WB-03; result 'Granted; Denied'; released 04/21/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-04/No.%2020-WB-03.pdf"
   },
@@ -2908,7 +2908,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202020-04-06%20-%20Website.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2020-04-06 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 04/07/2020; PDF https://www.whistleblower.gov/sites/whistleblower/files/2020-04/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202020-04-06%20-%20Website.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -2926,7 +2926,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-02'",
    "quote": "No. 20-WB-02 CFTC Awards More Than $1 Million to Whistleblower | 2019-12-19 | Granted; Denied",
    "notes": "Order No. 20-WB-02 (linked press release title: \"CFTC Awards More Than $1 Million to Whistleblower\"); result 'Granted; Denied'; released 12/19/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-12/20-WB-02.pdf award_amount from the linked press-release title printed in the list (More than); the order itself was not read (not stored)."
   },
@@ -2944,7 +2944,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '20-WB-01'",
    "quote": "No. 20-WB-01 | 2019-10-24 | Granted; Denied",
    "notes": "Order No. 20-WB-01; result 'Granted; Denied'; released 10/24/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-10/20-WB-01_1.pdf"
   },
@@ -2962,7 +2962,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202019.10.21.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2019-10-21 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/23/2019; PDF https://whistleblower.gov/sites/whistleblower/files/2019-10/Final%20Order%202019.10.21.pdf"
   },
@@ -2980,7 +2980,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '19-WB-05'",
    "quote": "No. 19-WB-05 CFTC Announces Approximately $7 Million Whistleblower Award | 2019-09-27 | Granted; Denied",
    "notes": "Order No. 19-WB-05 (linked press release title: \"CFTC Announces Approximately $7 Million Whistleblower Award\"); result 'Granted; Denied'; released 09/27/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-09/19-WB-05.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -2998,7 +2998,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202019.09.11%20-%20Website.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2019-09-09 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 09/11/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-09/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202019.09.11%20-%20Website.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -3016,7 +3016,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '19-WB-04'",
    "quote": "No. 19-WB-04 CFTC Announces $2 Million Award to Joint Whistleblowers | 2019-07-01 | Granted; Denied",
    "notes": "Order No. 19-WB-04 (linked press release title: \"CFTC Announces $2 Million Award to Joint Whistleblowers\"); result 'Granted; Denied'; released 07/01/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-07/19-WB-04.pdf award_amount from the linked press-release title printed in the list (As printed; joint whistleblowers); the order itself was not read (not stored)."
   },
@@ -3034,7 +3034,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '19-WB-03'",
    "quote": "No. 19-WB-03 CFTC Announces Approximately $2.5 Million Whistleblower Award | 2019-06-24 | Granted; Denied",
    "notes": "Order No. 19-WB-03 (linked press release title: \"CFTC Announces Approximately $2.5 Million Whistleblower Award\"); result 'Granted; Denied'; released 06/24/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-06/19-WB-03.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -3052,7 +3052,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%20-2019.04.09.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2019-04-09 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 06/05/2019; PDF https://whistleblower.gov/sites/whistleblower/files/2019-06/Final%20Order%20-2019.04.09.pdf"
   },
@@ -3070,7 +3070,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '19-WB-02'",
    "quote": "No. 19-WB-02 CFTC Announces Approximately $1.5 Million Whistleblower Award | 2019-05-06 | Granted; Denied",
    "notes": "Order No. 19-WB-02 (linked press release title: \"CFTC Announces Approximately $1.5 Million Whistleblower Award\"); result 'Granted; Denied'; released 05/06/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-05/19-WB-02%20-%20Public%20Version.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -3088,7 +3088,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202019.04.05%20-%20Website.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2019-04-05 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 04/09/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-04/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202019.04.05%20-%20Website.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -3106,7 +3106,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '19-WB-01'",
    "quote": "No. 19-WB-01 CFTC Announces Whistleblower Award Totaling More Than $2 Million | 2019-03-04 | Granted; Denied",
    "notes": "Order No. 19-WB-01 (linked press release title: \"CFTC Announces Whistleblower Award Totaling More Than $2 Million\"); result 'Granted; Denied'; released 03/04/2019; PDF https://www.whistleblower.gov/sites/whistleblower/files/2019-03/19-WB-01%20-%20Public%20Version.pdf award_amount from the linked press-release title printed in the list (More than (\"totaling more than\")); the order itself was not read (not stored)."
   },
@@ -3124,7 +3124,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to '12-31-18%20Order_Redacted.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2018-12-31 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 02/07/2019; PDF https://whistleblower.gov/sites/whistleblower/files/2019-02/12-31-18%20Order_Redacted.pdf"
   },
@@ -3142,7 +3142,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Order%202018.11.27.pdf'",
    "quote": "Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules | 2018-11-27 | Denied",
    "notes": "Posted as 'Final Order Issued Pursuant to Section 165.7(h) of the Whistleblower Rules' (no order number); result 'Denied'; released 12/06/2018; PDF https://whistleblower.gov/sites/whistleblower/files/2018-12/Final%20Order%202018.11.27.pdf"
   },
@@ -3160,7 +3160,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row linking to 'Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202018.10.18.pdf'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2018-10-18 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 10/18/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-10/Final%20Orders%20Issued%20Pursuant%20to%20Section%20165.7%28e%29%282%29%20of%20the%20Whistleblower%20Rules%20%5BRedacted%5D%202018.10.18.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },
@@ -3178,7 +3178,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '18-WB-05'",
    "quote": "No. 18-WB-05 Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million | 2018-08-02 | Granted; Denied",
    "notes": "Order No. 18-WB-05 (linked press release title: \"Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million\"); result 'Granted; Denied'; released 08/02/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-08/Docket%20No.%205%20-%202%20Public%20Version%20-%20To%20Post.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -3196,7 +3196,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '18-WB-04'",
    "quote": "No. 18-WB-04 Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million | 2018-08-02 | Granted; Denied",
    "notes": "Order No. 18-WB-04 (linked press release title: \"Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million\"); result 'Granted; Denied'; released 08/02/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-08/Docket%20No.%204%20-%202%20Public%20Version%20-%20To%20Post.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -3214,7 +3214,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '18-WB-03'",
    "quote": "No. 18-WB-03 Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million | 2018-08-02 | Granted; Denied",
    "notes": "Order No. 18-WB-03 (linked press release title: \"Press Release: CFTC Announces Multiple Whistleblower Awards Totaling More than $45 Million\"); result 'Granted; Denied'; released 08/02/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-08/Docket%20No.%203%20-%202%20Public%20Version%20-%20To%20Post.pdf The linked press-release title gives one total for several orders, so no amount is assigned to this order."
   },
@@ -3232,7 +3232,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '18-WB-01'",
    "quote": "No. 18-WB-01 Press Release: CFTC Announces First Whistleblower Award to a Foreign Whistleblower | 2018-07-12 | Granted; Denied",
    "notes": "Order No. 18-WB-01 (linked press release title: \"Press Release: CFTC Announces First Whistleblower Award to a Foreign Whistleblower\"); result 'Granted; Denied'; released 07/16/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-07/18-WB-01%20-%20Public%20Order.pdf Title refers to a foreign/international whistleblower."
   },
@@ -3250,7 +3250,7 @@
    "currency": "USD",
    "outcome": "awarded",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '18-WB-02'",
    "quote": "No. 18-WB-02 Press Release: CFTC Announces Its Largest Ever Whistleblower Award of Approximately $30 Million | 2018-07-12 | Granted; Denied",
    "notes": "Order No. 18-WB-02 (linked press release title: \"Press Release: CFTC Announces Its Largest Ever Whistleblower Award of Approximately $30 Million\"); result 'Granted; Denied'; released 07/11/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/2018-07/18-WB-02%20-%20Public%20Web%20Version%20-%20Signed.pdf award_amount from the linked press-release title printed in the list (Approximately); the order itself was not read (not stored)."
   },
@@ -3268,7 +3268,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row 'WB-APP-2013-03-04-01'",
    "quote": "WB-APP-2013-03-04-01 | 2013-11-06 | Denied",
    "notes": "Order WB-APP-2013-03-04-01; result 'Denied'; released 04/17/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/files/wb-app-2013-03-04-01.pdf"
   },
@@ -3286,7 +3286,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row 'WB-APP-2013-01-04-01'",
    "quote": "WB-APP-2013-01-04-01 | 2013-10-23 | Denied",
    "notes": "Order WB-APP-2013-01-04-01; result 'Denied'; released 04/12/2018; PDF http://whistleblower-dev.ctacdev.com/sites/whistleblower/files/Final%20Orders/wb-app-2013-01-04-01.pdf"
   },
@@ -3304,7 +3304,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-04-04-01'",
    "quote": "WB-APP 2012-04-04-01 | 2013-07-24 | Denied",
    "notes": "Order WB-APP 2012-04-04-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-04-04-01.pdf"
   },
@@ -3322,7 +3322,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-09-28-01'",
    "quote": "WB-APP 2012-09-28-01 | 2013-08-07 | Denied",
    "notes": "Order WB-APP 2012-09-28-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-09-28-01.pdf"
   },
@@ -3340,7 +3340,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-08-31-01'",
    "quote": "WB-APP 2012-08-31-01 | 2013-08-07 | Denied",
    "notes": "Order WB-APP 2012-08-31-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-08-31-01.pdf"
   },
@@ -3358,7 +3358,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-08-27-01'",
    "quote": "WB-APP 2012-08-27-01 | 2013-08-07 | Denied",
    "notes": "Order WB-APP 2012-08-27-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-08-27-01.pdf"
   },
@@ -3376,7 +3376,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-06-25-01'",
    "quote": "WB-APP 2012-06-25-01 | 2013-08-07 | Denied",
    "notes": "Order WB-APP 2012-06-25-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-06-25-01.pdf"
   },
@@ -3394,7 +3394,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-01-02'",
    "quote": "WB-APP 2012-05-01-02 | 2013-08-07 | Denied",
    "notes": "Order WB-APP 2012-05-01-02; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-01-02.pdf"
   },
@@ -3412,7 +3412,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-12-20-01'",
    "quote": "WB-APP 2012-12-20-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-12-20-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-12-20-01.pdf"
   },
@@ -3430,7 +3430,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-12-07-01'",
    "quote": "WB-APP 2012-12-07-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-12-07-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-12-07-01.pdf"
   },
@@ -3448,7 +3448,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-12-03-01'",
    "quote": "WB-APP 2012-12-03-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-12-03-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-12-03-01.pdf"
   },
@@ -3466,7 +3466,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-11-30-01'",
    "quote": "WB-APP 2012-11-30-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-11-30-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-11-30-01.pdf"
   },
@@ -3484,7 +3484,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-11-01-01'",
    "quote": "WB-APP 2012-11-01-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-11-01-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-11-01-01.pdf"
   },
@@ -3502,7 +3502,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-10-30-01'",
    "quote": "WB-APP 2012-10-30-01 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-10-30-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-10-30-01.pdf"
   },
@@ -3520,7 +3520,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-09-28-02'",
    "quote": "WB-APP 2012-09-28-02 | 2013-08-09 | Denied",
    "notes": "Order WB-APP 2012-09-28-02; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-09-28-02.pdf"
   },
@@ -3538,7 +3538,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-10-05-01'",
    "quote": "WB-APP 2012-10-05-01 | 2013-08-21 | Denied",
    "notes": "Order WB-APP 2012-10-05-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-10-05-01.pdf"
   },
@@ -3556,7 +3556,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-03-01'",
    "quote": "WB-APP 2012-05-03-01 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-03-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-03-01.pdf"
   },
@@ -3574,7 +3574,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-02-04'",
    "quote": "WB-APP 2012-05-02-04 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-02-04; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-02-04.pdf"
   },
@@ -3592,7 +3592,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-02-03'",
    "quote": "WB-APP 2012-05-02-03 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-02-03; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-02-03.pdf"
   },
@@ -3610,7 +3610,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-02-02'",
    "quote": "WB-APP 2012-05-02-02 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-02-02; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-02-02.pdf"
   },
@@ -3628,7 +3628,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-02-01'",
    "quote": "WB-APP 2012-05-02-01 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-02-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-02-01.pdf"
   },
@@ -3646,7 +3646,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-01-04'",
    "quote": "WB-APP 2012-05-01-04 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-01-04; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-01-04.pdf"
   },
@@ -3664,7 +3664,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-01-03'",
    "quote": "WB-APP 2012-05-01-03 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-01-03; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-01-03.pdf"
   },
@@ -3682,7 +3682,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2012-05-01-01'",
    "quote": "WB-APP 2012-05-01-01 | 2013-09-09 | Denied",
    "notes": "Order WB-APP 2012-05-01-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2012-05-01-01.pdf"
   },
@@ -3700,7 +3700,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row 'WB-APP-2013-02-15-01'",
    "quote": "WB-APP-2013-02-15-01 | 2013-12-03 | Denied",
    "notes": "Order WB-APP-2013-02-15-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2013-02-15-01.pdf"
   },
@@ -3718,7 +3718,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2013-08-12-01'",
    "quote": "WB-APP 2013-08-12-01 | 2014-09-08 | Denied",
    "notes": "Order WB-APP 2013-08-12-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2013-08-12-01.pdf"
   },
@@ -3736,7 +3736,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2013-06-11-01'",
    "quote": "WB-APP 2013-06-11-01 | 2014-09-08 | Denied",
    "notes": "Order WB-APP 2013-06-11-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2013-06-11-01.pdf"
   },
@@ -3754,7 +3754,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2014-01-07-01'",
    "quote": "WB-APP 2014-01-07-01 | 2014-09-23 | Denied",
    "notes": "Order WB-APP 2014-01-07-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2014-01-07-01.pdf"
   },
@@ -3772,7 +3772,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2013-11-26-01'",
    "quote": "WB-APP 2013-11-26-01 | 2014-10-06 | Denied",
    "notes": "Order WB-APP 2013-11-26-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2013-11-26-01.pdf"
   },
@@ -3790,7 +3790,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2013-10-25-01'",
    "quote": "WB-APP 2013-10-25-01 | 2014-09-08 | Denied",
    "notes": "Order WB-APP 2013-10-25-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2013-10-25-01.pdf"
   },
@@ -3808,7 +3808,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2014-01-29-01'",
    "quote": "WB-APP 2014-01-29-01 | 2015-05-28 | Denied",
    "notes": "Order WB-APP 2014-01-29-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2014-01-29-01.pdf"
   },
@@ -3826,7 +3826,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '2014-01-10-01'",
    "quote": "WB-APP 2014-01-10-01 through WB-APP 2014-01-10-21 | 2015-09-03 | Denied",
    "notes": "Order WB-APP 2014-01-10-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/wb-app-2014-01-10-01thru10-21.pdf One order covering Forms WB-APP 2014-01-10-01 through WB-APP 2014-01-10-21 (21 application numbers)."
   },
@@ -3844,7 +3844,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-01'",
    "quote": "No. 16-WB-01 | 2015-11-13 | Denied",
    "notes": "Order No. 16-WB-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-wb-01-redacted.pdf"
   },
@@ -3862,7 +3862,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-02'",
    "quote": "No. 16-WB-02 | 2015-11-13 | Denied",
    "notes": "Order No. 16-WB-02; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-wb-02-redacted.pdf"
   },
@@ -3880,7 +3880,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-03'",
    "quote": "No. 16-WB-03 | 2015-12-08 | Denied",
    "notes": "Order No. 16-WB-03; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-wb-03.pdf"
   },
@@ -3898,7 +3898,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-04'",
    "quote": "No. 16-WB-04 | 2016-02-23 | Denied",
    "notes": "Order No. 16-WB-04; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-04.pdf"
   },
@@ -3916,7 +3916,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-05'",
    "quote": "No. 16-WB-05 | 2016-02-23 | Denied",
    "notes": "Order No. 16-WB-05; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-05.pdf"
   },
@@ -3934,7 +3934,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-07'",
    "quote": "No. 16-WB-07 | 2016-04-26 | Denied",
    "notes": "Order No. 16-WB-07; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-07.pdf"
   },
@@ -3952,7 +3952,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-09'",
    "quote": "No. 16-WB-09 | 2016-07-19 | Denied",
    "notes": "Order No. 16-WB-09; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-09.pdf"
   },
@@ -3970,7 +3970,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-10'",
    "quote": "No. 16-WB-10 | 2016-08-10 | Denied",
    "notes": "Order No. 16-WB-10; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-10.pdf"
   },
@@ -3988,7 +3988,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-12'",
    "quote": "No. 16-WB-12 | 2016-10-11 | Denied",
    "notes": "Order No. 16-WB-12; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-12.pdf"
   },
@@ -4006,7 +4006,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '16-WB-11'",
    "quote": "No. 16-WB-11 | 2016-09-21 | Denied",
    "notes": "Order No. 16-WB-11; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/16-WB-11.pdf"
   },
@@ -4024,7 +4024,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '17-WB-01'",
    "quote": "No. 17-WB-01 | 2016-11-15 | Denied",
    "notes": "Order No. 17-WB-01; result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/17-WB-01.pdf"
   },
@@ -4042,7 +4042,7 @@
    "currency": "USD",
    "outcome": "denied",
    "source_id": "usa-cftc-wb-orders-list-2026",
-   "location": "whistleblower.gov/orders table",
+   "location": "whistleblower.gov/orders table, row '17-WB-02'",
    "quote": "Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules | 2017-11-06 | Denied",
    "notes": "Posted as 'Final Orders Issued Pursuant to Section 165.7(e)(2) of the Whistleblower Rules' (no order number); result 'Denied'; released 02/28/2018; PDF https://www.whistleblower.gov/sites/whistleblower/files/Final Orders/17-WB-02.pdf Plural \"Final Orders\" in one posted document; the list does not say how many claims it covers."
   },

@@ -88,6 +88,7 @@ def main():
             tables[name][r[key]] = r
 
     inbox = [p for p in sorted(glob.glob(os.path.join(HERE, "_inbox", "*.json"))) if os.path.basename(p) not in in_progress()]
+    seen, COLLISIONS = {}, []
     for path in inbox:
         with open(path, encoding="utf-8") as f:
             doc = json.load(f)
@@ -113,23 +114,35 @@ def main():
             o["obs_id"] = content_id("o", o, fields)
             o.setdefault("added_date", added)
             o.setdefault("added_by", by)
+            if o["obs_id"] in seen.setdefault("observations.csv", {}) and seen["observations.csv"][o["obs_id"]] != o:
+                COLLISIONS.append(("observations.csv", o["obs_id"], slug))
+            seen["observations.csv"][o["obs_id"]] = o
             tables["observations.csv"][o["obs_id"]] = o
 
         for t in doc.get("program_rules", []):
             t = dict(t)
             t["rule_id"] = content_id("r", t, ["source_id", "program_id", "rule", "valid_from", "value", "unit",
                                                "applies_to"])
+            if t["rule_id"] in seen.setdefault("program_rules.csv", {}) and seen["program_rules.csv"][t["rule_id"]] != t:
+                COLLISIONS.append(("program_rules.csv", t["rule_id"], slug))
+            seen["program_rules.csv"][t["rule_id"]] = t
             tables["program_rules.csv"][t["rule_id"]] = t
 
         for c in doc.get("cases", []):
             c = dict(c)
             c["case_id"] = content_id("c", c, ["source_id", "jurisdiction", "program_id", "date", "target",
                                                "award_amount", "location"])
+            if c["case_id"] in seen.setdefault("cases.csv", {}) and seen["cases.csv"][c["case_id"]] != c:
+                COLLISIONS.append(("cases.csv", c["case_id"], slug))
+            seen["cases.csv"][c["case_id"]] = c
             tables["cases.csv"][c["case_id"]] = c
 
         for e in doc.get("events", []):
             e = dict(e)
             e["event_id"] = content_id("e", e, ["source_id", "date", "jurisdiction", "title"])
+            if e["event_id"] in seen.setdefault("events.csv", {}) and seen["events.csv"][e["event_id"]] != e:
+                COLLISIONS.append(("events.csv", e["event_id"], slug))
+            seen["events.csv"][e["event_id"]] = e
             tables["events.csv"][e["event_id"]] = e
 
         for p in doc.get("programs", []):
@@ -144,12 +157,18 @@ def main():
             if i["indicator"] not in tables["indicators.csv"]:
                 i = dict(i)
                 i["notes"] = ("proposed by " + by + ". " + (i.get("notes") or "")).strip()
+                if i["indicator"] in seen.setdefault("indicators.csv", {}) and seen["indicators.csv"][i["indicator"]] != i:
+                    COLLISIONS.append(("indicators.csv", i["indicator"], slug))
+                seen["indicators.csv"][i["indicator"]] = i
                 tables["indicators.csv"][i["indicator"]] = i
 
         print(f"{slug}: {len(doc.get('sources', []))} sources, {len(doc.get('observations', []))} observations, "
               f"{len(doc.get('program_rules', []))} rules, {len(doc.get('cases', []))} cases, {len(doc.get('events', []))} events")
 
     # Numbers are stored plain: "1,583" -> "1583" (only thousands separators occur).
+    if COLLISIONS:
+        print(f"WARNING: {len(COLLISIONS)} rows share an id with a different row in the same merge (one was dropped): "
+              + "; ".join(f"{t} {i} ({s})" for t, i, s in COLLISIONS[:10]), file=sys.stderr)
     for name, cols in (("observations.csv", ["value", "value_high"]), ("program_rules.csv", ["value"]), ("cases.csv", ["sanctions_amount", "award_amount"])):
         for r in tables[name].values():
             for c in cols:
