@@ -661,3 +661,13 @@ says what was done to it.
 - Partial: briefing charts with no printed values; a withheld draft Cabinet paper.
 - **Decisions needed:** bare "$" in Cabinet papers recorded as unspecified (an earlier pass used NZD);
   nationality tables cover all investor programmes together (no programme id); zero cells not stored.
+
+### Whistleblowing: United States, batch 3 (pass `extract-whistleblowing-usa3`)
+- 20 documents reviewed (all Justice Department: antitrust and corporate whistleblower programmes, False
+  Claims Act yearly releases FY1998-FY2006 and the 2025 fact sheet, Birkenfeld and UBS releases): 13 complete,
+  7 partial.
+- Added 11 numbers, 41 rules, 15 cases, 3 events: award rules of the antitrust (15-30%, $1m threshold) and
+  corporate whistleblower pilot programmes; FCA relator-share rules; qui tam cases the releases link to a
+  relator (AstraZeneca, Northrop/TRW, HealthSouth, GSK, Janssen, CVS Caremark...); recoveries by industry 2006.
+- Partial (7 FCA releases): they name about 60 settlements without saying whether a whistleblower brought
+  them. **Decision needed:** record them as cases with "origin not stated", or exclude them by rule.
