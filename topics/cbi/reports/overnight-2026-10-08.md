@@ -1063,3 +1063,13 @@ totals?
 - Suggested corrections held (not applied): a Tax Court case whose award ($17,791,607) the opinion does print;
   start dates of ship-pollution (1988, not 1980) and Lacey Act (October 1982) reward provisions.
 - Did not add up: Texas FY2022 Centene settlement ($165.6m) exceeds the division's yearly total ($79.5m).
+
+### Second reading of everything merged since the Latvia batches (batches k1-k16, z1-z5, z7)
+- CBI: 1,389 numbers read blind from 329 documents, with heavier samples for the riskier documents (Hungarian bond
+  table, Cyprus reports, Malta image charts, Australian review charts, UAE Arabic quotes). 1,307 agreed at once;
+  82 ruled, 0 open. In every ruling the first reading was right or both figures are printed: printed bounds
+  ("<5", "--") stored as ranges, decreases stored as negatives, currency words and ranges in words, Vanuatu
+  budget rows where the reader gave the actual, Malta lease-only rows the reader added to purchases.
+- Whistleblowing: 479 numbers read blind; 9 ruled. **One row recommended for removal:** the Hungarian 2011
+  "about 20" informant enquiries is an inference from "as in 2011", not a printed figure.
+- Batch z6 (whistleblowing) is still being read.
