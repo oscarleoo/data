@@ -95,3 +95,15 @@ says what was done to it.
   one-cent rounding gaps; St Lucia 2015-16 fees 569,748 vs printed 569,747.
 - Proposed indicator `cbi_due_to_government` (amounts due to government, calculated by the
   government from approvals, not cash received).
+
+### Portugal, batch 1 (pass `extract-cbi-prt1`)
+- 20 documents reviewed: 18 complete, 1 partial, 1 not applicable (Portaria 208/2017, a list of places).
+- Added 35 numbers, 16 rules, 2 events. Mostly from the 2014 IGAI audit of the golden-visa
+  scheme (applicant files per immigration office, fee revenue per office), the 2026 AIMA fee table,
+  reduced minimums for low-density areas, and Decreto Regulamentar 1/2024.
+- AIMA annual reports 2023-2025: re-read page by page; everything in scope was already in the data.
+- Partial (IGAI audit): three approximate figures have no measure yet (about 90% filed in Lisbon,
+  about 300 approved files awaiting fee payment, up to 100 appointments a day).
+- Did not add up (recorded as printed): IGAI Madeira "11 + 21 = 33"; AIMA second card copy
+  EUR 4,210.30 vs 50% of the issue fee (4,209.45); low-density culture route EUR 220k vs 20% off 250k.
+- New split values made up by the pass, to review: `region=sef_*` offices, `applicant=main_and_family`.
