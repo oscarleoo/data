@@ -577,3 +577,8 @@ says what was done to it.
 - Not in the documents: three cells printed "###" in the 2018-01-01 PDF.
 - **Decisions needed:** new keys for Latvian alternative-status holders and unknown nationality; two
   proposed indicators (security screenings, security objections); the MP's name left out of two events.
+
+### International documents, batch 4 (pass `extract-cbi-intl4`)
+- 3 documents: US State Department 2001 report complete (Dominica about 500 citizenships 1996-2000, prices,
+  Grenada's October 2001 suspension); two WTO sugar-dispute summaries not applicable.
+- Latvia now: all 41 stored Latvian documents reviewed, all complete (checked in the ledger).
