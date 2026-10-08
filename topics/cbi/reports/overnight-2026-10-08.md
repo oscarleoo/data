@@ -689,7 +689,7 @@ says what was done to it.
   public-funds recovery laws, 2005-2026): all complete.
 - Added 41 rules, 10 events: award and reward caps over time (KRW 50m, 100m, 200m, 500m, 3bn, cap removed
   2024), minimum rewards, rate scales, up-front payment shares, relief money rules, reporting through a lawyer.
-- Korea now: all stored Korean whistleblowing documents reviewed (see ledger counts in the summary).
+- Korea now: all 55 stored Korean whistleblowing documents reviewed (49 complete, 6 partial; checked in the ledger).
 - **Decisions needed:** each rule recorded once from the version that introduced it (strict "two sources,
   two rows" would add about 150 near-identical rows); 7 new rule types; the 2014 annual report's description
   of the 2 September 2014 change conflicts with the decree text; rule r-8ebdd004b6 could get an end date.
