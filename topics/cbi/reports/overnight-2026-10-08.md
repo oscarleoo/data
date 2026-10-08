@@ -290,3 +290,13 @@ says what was done to it.
 - **Decisions needed:** three new indicators; two percentage figures filed under money indicators
   for lack of a fitting one; bare "$" in the 2025 budget recorded as "unspecified" while the 2024
   row says EC$; one existing rule quotes a fees page that isn't in the stored file.
+
+### Hong Kong, batch 1 (pass `extract-cbi-hkg1`)
+- 20 documents reviewed: all complete.
+- Added 17 numbers, 6 rules, 2 events: applications filed with an accountant's net-asset report
+  (2009-2014, count and share); 2022-2023 visas under the old scheme; the 2012 announcement's totals
+  since 2003 (about 8,200 investors, 15,500 dependants, about $58bn); the HK$6.5m and HK$10m
+  thresholds; the new scheme's HK$30m net-asset rule and its 2025 change; nearly 7,000 enquiries.
+- Every statistics page adds up; approvals in principle plus formal approvals match each year's total.
+- **Decision needed (recurring):** Hong Kong annual reports print a bare "$". Existing rows record
+  HKD; the dataset's rule says "unspecified". One choice should apply to all of them.
