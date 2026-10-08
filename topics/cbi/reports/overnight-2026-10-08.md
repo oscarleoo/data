@@ -231,3 +231,14 @@ says what was done to it.
 - **Worth a look:** two Slovak "open reward claims" rows (2023, 2025) the second reader could only
   infer from prose, though they agreed with the first reading.
 - 0 open differences in the whistleblowing dataset.
+
+### Whistleblowing: Canada (pass `extract-whistleblowing-can1`)
+- 14 documents reviewed: 12 complete, 1 partial, 1 not applicable.
+- Added 20 numbers, 15 rules, 3 events: CRA informant programme rules (5-15%, $100,000 minimum, no
+  reward for anonymous tips); OSC programme rules; the OSC 2022 programme update (840+ whistleblowers,
+  tips by type, by region, insiders who reported internally first, 626 hotline calls, 19 respondents).
+- Partial: the OSC update's yearly tip counts exist only in a chart image that isn't stored (the
+  image link is listed as a lead).
+- **Decisions needed:** these pages print a bare "$"; recorded as CAD to match existing Canadian rows,
+  but the dataset's rule says bare "$" outside the US is "unspecified" unless the document names the
+  dollar. The OSC update appears to be dated 9 March 2023, while the source record and event say 2022.
