@@ -1055,3 +1055,11 @@ totals?
   94789 paid several whistleblowers, not one; 94398 the Commission overruled its staff's recommendation to deny
   (notes say the opposite); 94519 prints "approximately $1.25 million" though the note says no amount;
   95834 "$1.5 million" recorded as a lower bound.
+
+### Whistleblowing: US batches 21-22
+- 24 documents reviewed (Texas Medicaid fraud coordination reports FY2015-2025, a Texas AG release, 12 U.S. Code
+  sections, a Tax Court opinion): all complete.
+- Added 38 numbers, 45 cases (Texas settlements of $2m+ with a whistleblower), 35 rules, 7 events.
+- Suggested corrections held (not applied): a Tax Court case whose award ($17,791,607) the opinion does print;
+  start dates of ship-pollution (1988, not 1980) and Lacey Act (October 1982) reward provisions.
+- Did not add up: Texas FY2022 Centene settlement ($165.6m) exceeds the division's yearly total ($79.5m).
