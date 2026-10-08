@@ -37,6 +37,7 @@ AUS,aus-biip,applications_received,FY2014/15,persons,12225,1,12225.0,actual,aus-
 AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.2,revision,o-1ad8f7abff
 AUS,aus-biip,applications_received,FY2017/18,persons,16816,1,16816.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,15.2,revision,o-604605b2e7
 AUS,aus-siv,main_applicants_approved,FY2013/14,persons,282,1,282.0,actual,aus-aph-se14-446-2014,"Parliament of Australia, Senate Legal and Constitutional Affairs Legislation Committee (answer by the Department of Immigration and Border Protection)",2014,1.4,conflict,o-6ab8c364c8
+AUS,aus-siv,main_applicants_approved,FY2013/14,persons,286,1,286.0,actual,aus-dha-foi-160600956-2016,Department of Home Affairs (Freedom of Information disclosure log),2016,1.4,conflict,o-ba09dfebcf
 AUS,aus-siv,main_applicants_approved,FY2013/14,persons,286,1,286.0,actual,aus-dha-foi-170600834-2017,Department of Home Affairs (Freedom of Information disclosure log),2017,1.4,conflict,o-2fa1a65a71
 AUS,aus-siv,main_applicants_approved,FY2018/19,persons,183,1,183.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,4.2,conflict,o-aee065b4cc
 AUS,aus-siv,main_applicants_approved,FY2018/19,persons,191,1,191.0,actual,aus-dha-foi-201101057-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,4.2,conflict,o-742a955407
@@ -650,75 +651,102 @@ INTL,,passports_issued,to 2025,passports,107000,1,107000.0,estimate,intl-ec-com-
 INTL,,passports_issued,to 2025,passports,107625,1,107625.0,estimate,intl-ec-swd-2025-429,European Commission,2025-12-19,0.6,revision,o-f2f94fd50a
 IRL,irl-ibn,applications_approved,1992,applications,17,1,17.0,actual,irl-dail-wa-1994-06-14,Houses of the Oireachtas,1994-06-14,15.0,revision,o-e3fa100678
 IRL,irl-ibn,applications_approved,1992,applications,20,1,20.0,actual,irl-dail-pq-1994-10-25,Houses of the Oireachtas,1994-10-25,15.0,revision,o-d1258728d8
-IRL,irl-iip,applications_approved,2015,applications,67,1,67.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,4.3,revision,o-eb8e10c834
-IRL,irl-iip,applications_approved,2015,applications,70,1,70.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,4.3,revision,o-f6568be0d6
-IRL,irl-iip,applications_approved,2017,applications,360,1,360.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.7,revision,o-d2b5fc91b7
-IRL,irl-iip,applications_approved,2017,applications,369,1,369.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.7,revision,o-5c4d51b1d8
-IRL,irl-iip,applications_approved,2017,applications,370,1,370.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,2.7,revision,o-9741cf5d68
+IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,37.5,revision,o-69eada2d46
+IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,37.5,revision,o-79c18aa3ce
+IRL,irl-iip,applications_approved,2014,applications,8,1,8.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,37.5,revision,o-af5eeac9cc
+IRL,irl-iip,applications_approved,2015,applications,67,1,67.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.6,revision,o-eb8e10c834
+IRL,irl-iip,applications_approved,2015,applications,70,1,70.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.6,revision,o-f6568be0d6
+IRL,irl-iip,applications_approved,2015,applications,71,1,71.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,5.6,revision,o-5a9b557471
+IRL,irl-iip,applications_approved,2017,applications,360,1,360.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.5,revision,o-d2b5fc91b7
+IRL,irl-iip,applications_approved,2017,applications,369,1,369.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.5,revision,o-5c4d51b1d8
+IRL,irl-iip,applications_approved,2017,applications,370,1,370.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,3.5,revision,o-9741cf5d68
+IRL,irl-iip,applications_approved,2017,applications,373,1,373.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.5,revision,o-750ded7214
 IRL,irl-iip,applications_approved,2018,applications,145,1,145.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,19.9,revision,o-b08f08b998
 IRL,irl-iip,applications_approved,2018,applications,155,1,155.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,19.9,revision,o-aa4057327a
+IRL,irl-iip,applications_approved,2018,applications,156,1,156.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,19.9,revision,o-8174a0327f
 IRL,irl-iip,applications_approved,2018,applications,181,1,181.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,19.9,revision,o-96411de52c
 IRL,irl-iip,applications_approved,2019,applications,222,1,222.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,6.3,revision,o-d317185b39
+IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,6.3,revision,o-005b903260
 IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,6.3,revision,o-39d991d75a
 IRL,irl-iip,applications_approved,2020,applications,267,1,267.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-a41327b141
+IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.1,revision,o-6bf1e25c69
 IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-4912d3a70b
 IRL,irl-iip,applications_approved,2021,applications,264,1,264.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.8,revision,o-fbf4829516
+IRL,irl-iip,applications_approved,2021,applications,265,1,265.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.8,revision,o-8c595f515c
 IRL,irl-iip,applications_approved,2021,applications,266,1,266.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.8,revision,o-1cd74f3ee7
 IRL,irl-iip,applications_approved,2022,applications,306,1,306.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.3,revision,o-7f87b6ab80
 IRL,irl-iip,applications_approved,2022,applications,307,1,307.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.3,revision,o-b7b563dc46
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,10.0,conflict,o-47ef138670
 IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,10.0,conflict,o-c3bf47ffa5
 IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,10.0,conflict,o-6d2bfa34a2
 IRL,irl-iip,applications_received,2013,applications,20,1,20.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,10.0,conflict,o-5a6212fec3
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,9.1,conflict,o-fd53acb30b
 IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,9.1,conflict,o-dbf0a1e25d
 IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,9.1,conflict,o-4fb228bf79
 IRL,irl-iip,applications_received,2014,applications,33,1,33.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,9.1,conflict,o-706f50ba12
 IRL,irl-iip,applications_received,2015,applications,66,1,66.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,12.0,conflict,o-3b0978daf9
 IRL,irl-iip,applications_received,2015,applications,67,1,67.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,12.0,conflict,o-4e0be201b3
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,12.0,conflict,o-2a90c10b62
 IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,12.0,conflict,o-530ca1bb6a
 IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,12.0,conflict,o-37f8cc4b72
 IRL,irl-iip,applications_received,2016,applications,317,1,317.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,5.1,conflict,o-7f4716709a
 IRL,irl-iip,applications_received,2016,applications,329,1,329.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,5.1,conflict,o-6c6d07a4f3
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,5.1,conflict,o-2525e9cc46
 IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.1,conflict,o-16cf74e45d
 IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.1,conflict,o-80589f0673
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.0,conflict,o-7a8f6b2c46
 IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.0,conflict,o-5299e47c4f
 IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.0,conflict,o-58a66c35f9
 IRL,irl-iip,applications_received,2017,applications,326,1,326.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,3.0,conflict,o-539ae97cb2
 IRL,irl-iip,applications_received,2017,applications,334,1,334.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,3.0,conflict,o-31ad99893d
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.2,revision,o-c561e23079
 IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.2,revision,o-832bb5ec12
 IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.2,revision,o-1352a71eb1
 IRL,irl-iip,applications_received,2018,applications,424,1,424.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,0.2,revision,o-d73040c8b6
+IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.4,revision,o-4cd7bc842b
 IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-d5440b2025
 IRL,irl-iip,applications_received,2019,applications,445,1,445.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-6c82311832
+IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.4,revision,o-a0363d15b1
 IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-14b64eb20f
 IRL,irl-iip,applications_received,2021,applications,259,1,259.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-8978353835
 IRL,irl-iip,applications_received,2022,applications,1316,1,1316.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.0,revision,o-19cff1757e
 IRL,irl-iip,applications_received,2022,applications,1343,1,1343.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.0,revision,o-037e97cbef
 IRL,irl-iip,applications_received [nationality=CHN],2018,applications,297,1,297.0,reported,irl-doj-iip-review-phase1,Ernst & Young for the Irish Naturalisation and Immigration Service,2020-04-24,27.9,conflict,o-1d58f1888e
 IRL,irl-iip,applications_received [nationality=CHN],2018,applications,412,1,412.0,provisional,irl-oir-wa-2022-03-22,Houses of the Oireachtas,2022-03-22,27.9,conflict,o-c9da2bb6c3
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,40.0,conflict,o-04c997f326
 IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,40.0,conflict,o-be31db8dfc
 IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,40.0,conflict,o-0bf756bec5
 IRL,irl-iip,rbi_investment_total,2012,EUR,2500000,1,2500000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,40.0,conflict,o-b4db785e5f
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.6,conflict,o-707070c447
 IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.6,conflict,o-d400fff515
 IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.6,conflict,o-8f2bd8ddfb
 IRL,irl-iip,rbi_investment_total,2013,EUR,12650000,1,12650000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.6,conflict,o-e22dd2ea81
 IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,78.9,conflict,o-771b207b69
 IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,78.9,conflict,o-ca6e98b3a1
+IRL,irl-iip,rbi_investment_total,2014,EUR,4450000,1,4450000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,78.9,conflict,o-7222e6e262
 IRL,irl-iip,rbi_investment_total,2014,EUR,13950000,1,13950000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,78.9,conflict,o-0a2753d239
-IRL,irl-iip,rbi_investment_total,2015,EUR,36250000,1,36250000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,5.4,conflict,o-a35e81dcc6
-IRL,irl-iip,rbi_investment_total,2015,EUR,36800000,1,36800000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.4,conflict,o-a382b55511
-IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.4,conflict,o-0b0863e812
+IRL,irl-iip,rbi_investment_total,2015,EUR,36250000,1,36250000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,6.6,conflict,o-a35e81dcc6
+IRL,irl-iip,rbi_investment_total,2015,EUR,36800000,1,36800000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,6.6,conflict,o-a382b55511
+IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,6.6,conflict,o-0b0863e812
+IRL,irl-iip,rbi_investment_total,2015,EUR,38800000,1,38800000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,6.6,conflict,o-ffdac442e7
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,87.0,conflict,o-18c9a77df9
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,87.0,conflict,o-2d34261ca7
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,87.0,conflict,o-26c3973f44
 IRL,irl-iip,rbi_investment_total,2016,EUR,144300000,1,144300000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,87.0,conflict,o-78549707cb
-IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.6,revision,o-9381540ac4
-IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.6,revision,o-f2fa160e5d
-IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.1,revision,o-b5a8118ba0
-IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.1,revision,o-dbec29bcf9
+IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.7,revision,o-9381540ac4
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.7,revision,o-f2fa160e5d
+IRL,irl-iip,rbi_investment_total,2017,EUR,253700000,1,253700000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.7,revision,o-f64c5b1afe
+IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.8,revision,o-b5a8118ba0
+IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.8,revision,o-dbec29bcf9
+IRL,irl-iip,rbi_investment_total,2018,EUR,139750000,1,139750000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,7.8,revision,o-65c5aac282
 IRL,irl-iip,rbi_investment_total,2019,EUR,194200000,1,194200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.2,revision,o-687298ecbd
+IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,7.2,revision,o-4fc6c52c55
 IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.2,revision,o-52d745ac3c
 IRL,irl-iip,rbi_investment_total,2020,EUR,186200000,1,186200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.0,revision,o-6f7c9d19c9
+IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.0,revision,o-56f3ad5956
 IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.0,revision,o-bdfa53d74f
 IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-53c5d3f6bc
+IRL,irl-iip,rbi_investment_total,2021,EUR,186100000,1,186100000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.1,revision,o-df1a16821c
 IRL,irl-iip,rbi_investment_total,2021,EUR,187700000,1,187700000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-b16abfa026
 IRL,irl-iip,rbi_investment_total,2022,EUR,205900000,1,205900000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.5,revision,o-6ae4ce7d4f
 IRL,irl-iip,rbi_investment_total,2022,EUR,206900000,1,206900000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.5,revision,o-0d59157937
@@ -970,12 +998,78 @@ PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,invest
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,132,1,132.0,provisional,pan-mici-press-2025-02-26,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-26,9.1,revision,o-31a42fea6c
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,115.6,million,115600000.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,3.7,revision,o-d03224048f
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,120,million,120000000.0,claim,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,3.7,revision,o-6a702957f2
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2016,PHP,190.441,million,190441000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.5,same_source,o-4858e0c737
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2016,PHP,210435371.19,1,210435371.19,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.5,same_source,o-c123ee0a85
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,216373408.00,1,216373408.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,16.3,same_source,o-f3dfe58383
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,258489,thousand,258489000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,16.3,same_source,o-a9fa2c682c
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,258489,thousand,258489000.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,16.3,same_source,o-23271edbe0
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,414411259.54,1,414411259.54,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,vintage,o-460237be94
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,489061836.00,1,489061836.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,vintage,o-1233eeeb29
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,281424000.00,1,281424000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-3060f96d29
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,432746,thousand,432746000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-ed4e2c5bc3
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,629.65,million,629650000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-0278ff102b
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,656.59,million,656590000.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,57.1,same_source,o-de4f08ab2c
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,584270596.13,1,584270596.13,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,10.8,vintage,o-e7d0850585
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,654.83,million,654830000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,10.8,vintage,o-b3dd4ec321
+PHL,phl-srrv,cbi_unit_revenue,2014,PHP,525181450,1,525181450.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,same_source,o-37c9e0b680
+PHL,phl-srrv,cbi_unit_revenue,2014,PHP,525359940.67,1,525359940.67,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,same_source,o-875df20458
+PHL,phl-srrv,cbi_unit_revenue,2015,PHP,588.32,million,588320000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-aedbba06ea
+PHL,phl-srrv,cbi_unit_revenue,2015,PHP,655374685.85,1,655374685.85,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-07894fd0d6
+PHL,phl-srrv,cbi_unit_revenue,2015,PHP,665948724,1,665948724.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-6a5eff607f
+PHL,phl-srrv,cbi_unit_revenue,2015,PHP,702310647,1,702310647.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-3b0f182032
+PHL,phl-srrv,cbi_unit_revenue,2016,PHP,660731234.39,1,660731234.39,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-26d9b8faae
+PHL,phl-srrv,cbi_unit_revenue,2016,PHP,683963420.00,1,683963420.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-005d3f472c
+PHL,phl-srrv,cbi_unit_revenue,2016,PHP,770460922,1,770460922.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-f2e98b493f
+PHL,phl-srrv,cbi_unit_revenue,2019,PHP,450698000.00,1,450698000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,51.5,vintage,o-f36c615ff2
+PHL,phl-srrv,cbi_unit_revenue,2019,PHP,929.59,million,929590000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,51.5,vintage,o-22d15de2d4
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2015,persons,2000,1,2000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,3.4,vintage,o-929b63c05b
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2015,persons,2070,1,2070.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,3.4,vintage,o-8dbabf9ae8
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2254,1,2254.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-6df37ef3cb
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2260,1,2260.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-48e58a9548
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2500,1,2500.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-c52d92f6a0
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,548449703.67,1,548449703.67,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,4.8,vintage,o-3df2f44fe3
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,576,million,576000000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,4.8,vintage,o-9d8d0b4bde
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,572933933.48,1,572933933.48,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,5.8,vintage,o-be6ec54787
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,608.15,million,608150000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,5.8,vintage,o-60dc268fb6
+PHL,phl-srrv,rbi_deposits_net,2015,USD,36135000.00,1,36135000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-9186272258
+PHL,phl-srrv,rbi_deposits_net,2015,USD,36323000,1,36323000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-922829f26d
+PHL,phl-srrv,rbi_deposits_net,2015,USD,38.25,million,38250000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-bd25998494
+PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500.00,1,38093500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-86010b7c8f
+PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500,1,38093500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-db29d329ce
+PHL,phl-srrv,rbi_deposits_net,2016,USD,50000000,1,50000000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-df10a12525
+PHL,phl-srrv,residence_permits_issued,1985-2019,persons,53265,1,53265.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,22.1,same_source,o-da9885cc48
+PHL,phl-srrv,residence_permits_issued,1985-2019,persons,68383,1,68383.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,22.1,same_source,o-2ae8dd3e6e
+PHL,phl-srrv,residence_permits_issued,2014,persons,4788,1,4788.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,revision,o-809060d3b5
+PHL,phl-srrv,residence_permits_issued,2014,persons,4788,1,4788.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,revision,o-3a9c780172
+PHL,phl-srrv,residence_permits_issued,2014,persons,4790,1,4790.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,0.0,revision,o-580d053106
+PHL,phl-srrv,residence_permits_issued,2015,persons,5031,1,5031.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,revision,o-8fea37570c
+PHL,phl-srrv,residence_permits_issued,2015,persons,5031,1,5031.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,revision,o-afa2a8d673
+PHL,phl-srrv,residence_permits_issued,2015,persons,5033,1,5033.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,0.0,revision,o-82caecb3e1
+PHL,phl-srrv,residence_permits_issued,2016,persons,5556,1,5556.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,revision,o-9333f436d0
+PHL,phl-srrv,residence_permits_issued,2016,persons,5556,1,5556.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.1,revision,o-8179d4b0b6
+PHL,phl-srrv,residence_permits_issued,2016,persons,5562,1,5562.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,0.1,revision,o-8aca553bc8
+PHL,phl-srrv,residence_permits_issued,2017,persons,5861,1,5861.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.1,revision,o-db30535153
+PHL,phl-srrv,residence_permits_issued,2017,persons,5865,1,5865.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,0.1,revision,o-2c28c2da2a
+PHL,phl-srrv,residence_permits_issued,2017,persons,10000,1,10000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,revision,o-a45184f2a8
 PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1237,1,1237.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.9,conflict,o-4e49575392
 PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1248,1,1248.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.9,conflict,o-88a94de175
 PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,339,1,339.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.3,conflict,o-f2e501c09f
 PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,340,1,340.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.3,conflict,o-05c4248206
 PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,772,1,772.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.4,conflict,o-4512a7a23a
 PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,783,1,783.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.4,conflict,o-dd819744ad
+PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4144,1,4144.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.3,same_source,o-ab7e367bc2
+PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4155,1,4155.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.3,same_source,o-79d11abe52
+PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,4384,1,4384.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-97cb023622
+PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,4384,1,4384.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-979c13741c
+PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,5100,1,5100.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-8223db79bf
+PHL,phl-srrv,residence_permits_valid,2016-12-31,permits,36302,1,36302.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,same_source,o-efdaa035cb
+PHL,phl-srrv,residence_permits_valid,2016-12-31,permits,36343,1,36343.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,same_source,o-091d2993f7
+PHL,phl-srrv,residence_permits_valid,2019-12-31,permits,49271,1,49271.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,8.4,vintage,o-c93eb21d2b
+PHL,phl-srrv,residence_permits_valid,2019-12-31,permits,53797,1,53797.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,8.4,vintage,o-09efe93938
+PHL,phl-srrv,residence_permits_valid,2020-12-31,persons,55114,1,55114.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,8.7,vintage,o-dbd97cc5b8
+PHL,phl-srrv,residence_permits_valid,2020-12-31,persons,60345,1,60345.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,8.7,vintage,o-4050e1e783
+PHL,phl-srrv,residence_status_retained_pct,2016,percent,96.33,1,96.33,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.7,vintage,o-6b60062abb
+PHL,phl-srrv,residence_status_retained_pct,2016,percent,97,1,97.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.7,vintage,o-69f8ecdbd8
 PRT,prt-golden-visa,dependants_approved,2013,persons,563,1,563.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-c9683b194f
 PRT,prt-golden-visa,dependants_approved,2013,persons,576,1,576.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-5338f7145f
 PRT,prt-golden-visa,main_applicants_approved,2013,persons,476,1,476.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-216c826b75

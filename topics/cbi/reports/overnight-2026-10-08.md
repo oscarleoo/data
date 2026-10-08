@@ -162,3 +162,43 @@ says what was done to it.
   list is not copied out (totals are). Smaller figures with no measure yet (agent success rates,
   15 referrals to the financial intelligence unit, 24 review requests) are listed in the to-do.
 - 3 new indicators proposed (licensed agents, applicant profile share, applicant donations).
+
+### United States EB-5, batch 2 (pass `extract-cbi-usa2`)
+- 20 documents reviewed (Visa Office tables V and VI, FY2009-FY2018): all complete.
+- Added 11,049 numbers: EB-5 visas for every country listed, zeros included, by class wherever
+  the total is not zero, region totals and grand totals. Every printed total adds up; every quote
+  matches. The 9-11 rows per document already in the data were skipped; their values match.
+- 14 country codes appear for the first time in the EB-5 rows (small territories, plus Cabo Verde
+  and Eswatini under their new names); check.py accepts them.
+
+### Other countries (pass `extract-other`)
+- 24 documents reviewed: 23 complete, 1 partial.
+- Added 852 numbers, 55 rules, 12 events. Mostly the Philippine Retirement Authority reports
+  2016, 2019, 2020 (enrolment by nationality and region, deposits, fees), Australia FOI release 2016,
+  Ireland written answer 4 May 2022 (approvals by year and investment type), Malaysia MM2H rules
+  (18), Samoa brochure (13), Singapore GIP (7).
+- Partial (Philippines 2016): two 2015 targets in a scanned appendix are unreadable; three figures
+  with no measure yet (annual-fee payers, receivables, interest on deposits).
+- Did not add up or disagree (all recorded as printed): Ireland's investment-type euro values sum
+  to €1m more than the printed total; several Philippine figures differ between text, charts and tables.
+- **Decision needed:** a 2017 Philippine row files net deposits under `rbi_investment_total`, while
+  this pass uses that indicator for gross deposits and proposes `rbi_deposits_net`. One Oman row
+  (378 workers given investor residence) has no programme, because the audit doesn't say which.
+- 6 new indicators proposed.
+
+## Whistleblowing topic
+
+### Priority documents (pass `extract-wb-priority`, in topics/whistleblowing)
+- 25 documents reviewed: 21 complete, 4 partial (the ledger; the agent's summary said 20/5).
+- Added 199 numbers, 28 rules, 2 cases, 11 events.
+  - Ontario Securities Commission statements 2019-2026: payments to whistleblowers, paid-to-date
+    totals, award rules (5-15%, $1m threshold, caps; the 2026 statements drop the caps).
+  - HMRC annual reports: reward numbers were already in; added the 2025-26 reward scheme's 15-30%.
+  - Slovak Whistleblower Protection Office reports 2021-2025: reports received, cases, protected
+    statuses, fines, inspections, law changes. FinCEN bulletins, NHTSA award page, CFTC 2011.
+- Partial: Slovak 2023-2025 infographic and chart pages that need reading by eye; the stored CFTC
+  2011 report lacks the appendix it refers to.
+- Slovak reports disagree with each other on several yearly counts; both versions kept.
+- Proposed: a separate programme `svk-uoo` for the Office's protection work, 10 new indicators,
+  a rule type for the maximum employer fine.
+- Whistleblowing ledger: complete 21, partial 4, not reviewed 557 (of 582 sources).
