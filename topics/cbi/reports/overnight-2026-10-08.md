@@ -639,3 +639,12 @@ says what was done to it.
   (forestry, small business, general investor, call centre, farming, retiree). Same decision as batch 1:
   add those programmes, or mark the files complete as they stand.
 - New period type `peak_month` used for "a peak of 38 in a single month": **confirm**.
+
+### Whistleblowing: Korea, batch 2 (pass `extract-whistleblowing-kor2`)
+- 20 documents reviewed (press releases 2021-2026, 2019 work plan, the 2001 Act and 2002 decree):
+  15 complete, 5 partial.
+- Added 95 numbers, 23 rules, 78 cases, 3 events: rewards by type and area (2021 tables add up exactly),
+  five-year totals to 2022 (58,307 reports), quarterly reward figures 2024-2026, protection figures.
+- Partial: pie charts in four 2024 quarterly releases (small slices need reading by eye); one release's
+  attachment exists only as an unstored .hwp file.
+- The only merge warning was the 7 known CFTC duplicates; no Korean cases collided.
