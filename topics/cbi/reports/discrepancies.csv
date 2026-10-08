@@ -641,6 +641,8 @@ KNA,,sugar_severance_cost,2005,XCD,44,million,44000000.0,reported,kna-sugar-oecs
 KNA,kna-cbi,applications_rejected,2024,applications,4,1,4.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,95.9,revision,o-4b8d1e8f13
 KNA,kna-cbi,applications_rejected,2024,applications,98,1,98.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,95.9,revision,o-3739022de4
 KNA,kna-cbi,applications_rejected,2024,applications,98,1,98.0,reported,kna-ec-swd-2025-429,European Commission,2025-12-19,95.9,revision,o-397c99ac44
+KNA,kna-cbi,cbi_dividend_payout,2023,XCD,17,million,17000000.0,budget,kna-audit-report-2023,St. Kitts and Nevis National Audit Office,2024-12,29.2,vintage,o-9f5dc622d9
+KNA,kna-cbi,cbi_dividend_payout,2023,XCD,24,million,24000000.0,actual,kna-audit-report-2023,St. Kitts and Nevis National Audit Office,2024-12,29.2,vintage,o-fae1b76f93
 KNA,kna-cbi,cbi_fiscal_revenue,2009,XCD,8147397,1,8147397.0,budget,kna-mof-estimates-2010-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2009-12,42.7,vintage,o-ce49b1f04e
 KNA,kna-cbi,cbi_fiscal_revenue,2009,XCD,14212675,1,14212675.0,actual,kna-mof-estimates-2011-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2010-12,42.7,vintage,o-0f19a78de1
 KNA,kna-cbi,cbi_fiscal_revenue,2010,XCD,27317601,1,27317601.0,budget,kna-mof-estimates-2010-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2009-12,5.3,revision,o-f58b8a98a5
@@ -658,9 +660,11 @@ KNA,kna-cbi,cbi_fiscal_revenue,2013,XCD,276932002,1,276932002.0,actual,kna-mof-e
 KNA,kna-cbi,cbi_fiscal_revenue,2014,XCD,100000000,1,100000000.0,budget,kna-mof-estimates-2014-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2013-12,9.9,revision,o-1b19c10d36
 KNA,kna-cbi,cbi_fiscal_revenue,2014,XCD,293280816,1,293280816.0,estimate,kna-mof-estimates-2015-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2014-12,9.9,revision,o-f23aa1356b
 KNA,kna-cbi,cbi_fiscal_revenue,2014,XCD,325408073,1,325408073.0,actual,kna-mof-estimates-2016-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2015-12,9.9,revision,o-5fc96c2a8c
+KNA,kna-cbi,cbi_fiscal_revenue,2015,XCD,200,million,200000000.0,budget,kna-audit-report-2016,St. Kitts and Nevis National Audit Office,2018-02,3.0,revision,o-bfd3d8fbd0
 KNA,kna-cbi,cbi_fiscal_revenue,2015,XCD,200000000,1,200000000.0,budget,kna-mof-estimates-2015-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2014-12,3.0,revision,o-a18f792e5a
 KNA,kna-cbi,cbi_fiscal_revenue,2015,XCD,284628449,1,284628449.0,estimate,kna-mof-estimates-2016-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2015-12,3.0,revision,o-0df09c5e20
 KNA,kna-cbi,cbi_fiscal_revenue,2015,XCD,293436274,1,293436274.0,actual,kna-mof-estimates-2017-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2016-12,3.0,revision,o-1bd267e50c
+KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,150,million,150000000.0,budget,kna-audit-report-2016,St. Kitts and Nevis National Audit Office,2018-02,8.5,conflict,o-e9d0d8b65c
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,150000000,1,150000000.0,budget,kna-mof-estimates-2016-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2015-12,8.5,conflict,o-a2afeae11e
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,175,million,175000000.0,actual,kna-audit-report-2016,St. Kitts and Nevis National Audit Office,2018-02,8.5,conflict,o-8bbe961f37
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,175263635,1,175263635.0,actual,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,8.5,conflict,o-b802d1f501
@@ -892,12 +896,16 @@ VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,3492.9,million,3492900000.0,provisional,
 VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6504.6,million,6504600000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-de82317455
 VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12191471678,1,12191471678.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,2.9,conflict,o-9b00abb359
 VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558,million,12558000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,2.9,conflict,o-b2c194c95f
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.2,million,12558200000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,2.9,conflict,o-c6726dd3ad
 VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.3,million,12558300000.0,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-d6fcbdd2d1
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,9120.3,million,9120300000.0,budget,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-a85445c51e
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,13491436604,1,13491436604.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,6.0,conflict,o-627aeb1c58
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14351.8,million,14351800000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-9823820ed4
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14352,million,14352000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,6.0,conflict,o-7446cd7ba4
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14352,million,14352000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,6.0,conflict,o-bb72147c31
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14354.1,million,14354100000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,6.0,conflict,o-00386cb14b
+VUT,vut-cbi,cbi_fiscal_revenue,2020-12,VUV,1183.5,million,1183500000.0,budget,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,7.6,vintage,o-7687b33c74
+VUT,vut-cbi,cbi_fiscal_revenue,2020-12,VUV,1280.8,million,1280800000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,7.6,vintage,o-c6006a7fa1
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11549.4,million,11549400000.0,budget,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,9.5,conflict,o-16ce21f756
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11647,million,11647000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.5,conflict,o-494674a4e9
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11647,million,11647000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,9.5,conflict,o-760be282de
@@ -905,6 +913,8 @@ VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11647,million,11647000000.0,estimate,vut
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11852673367,1,11852673367.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,9.5,conflict,o-987e6d61e7
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,12851.0,million,12851000000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,9.5,conflict,o-7f716b4259
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,12871.4,million,12871400000.0,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.5,conflict,o-3471426878
+VUT,vut-cbi,cbi_fiscal_revenue,2021-12,VUV,1381.7,million,1381700000.0,budget,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,1.7,vintage,o-2cafd52c9f
+VUT,vut-cbi,cbi_fiscal_revenue,2021-12,VUV,1405.2,million,1405200000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,1.7,vintage,o-1949d82057
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,7663.2,million,7663200000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,9.7,conflict,o-0caac6fac2
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,7924407151,1,7924407151.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,9.7,conflict,o-d51d3e5553
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,8482,million,8482000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.7,conflict,o-1adbbe43a2
@@ -929,8 +939,11 @@ VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,2057855613,1,2057855613.0,provisional
 VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3381.7,million,3381700000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,39.1,conflict,o-8a33e57d20
 VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7471,million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,49.3,vintage,o-7f6d7b69a5
 VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,49.3,vintage,o-a280ba5905
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,49.3,vintage,o-dc3b2d7333
 VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7729.7,million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,49.3,vintage,o-4166c17480
 VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,14732.7,million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,49.3,vintage,o-9cef5dabb0
+VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,618.3,million,618300000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-a5dc3c7174
+VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,887.3,million,887300000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-7042a8a964
 VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,20.2,vintage,o-2fc5e4eb33
 VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,20.2,vintage,o-0bf3c3c5fd
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.0,1,11.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,1.8,revision,o-5d3021aa08

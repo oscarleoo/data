@@ -54,3 +54,17 @@ says what was done to it.
 - 1 real difference: Turkey's share of pending Greek files, August 2026. The page prints 18,1%
   (checked on the page image); the second reader's OCR gave 18,19. Ruled first reading correct.
 - Result: 0 open differences across the whole CBI dataset (5,887 confirmed, 113 ruled).
+
+### St Kitts and Nevis, Vanuatu (pass `extract-kna-vut`)
+- 16 documents reviewed: 10 complete, 6 partial.
+- Added 58 numbers, 11 fee rows and 2 events. St Kitts audit reports 2016-2024: programme revenue
+  split by component, revenue targets, the programme's share of government cash receipts, running
+  costs, the citizen dividend. Vanuatu Treasury monthly reports: December collections, restated
+  yearly totals, 2025 target. Vanuatu fee pages: family-size prices, due-diligence and child fees.
+- Partial (5 St Kitts audit reports 2018-2022, plus one more): spending on the Hurricane Relief
+  Programme is printed, but the reports don't say it was paid from programme money. Left out
+  pending a decision. **Decision needed.**
+- Conflicts noted: Vanuatu fee schedule says a VT5,000 application fee, the web page says USD 250.
+  St Kitts 2023 components add to $622.3m against a printed $621m.
+- 5 new indicators proposed (revenue component share, account balance, share of cash receipts,
+  programme costs, dividend payout); marked "proposed" until reviewed.
