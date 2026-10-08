@@ -888,5 +888,5 @@ says what was done to it.
 - Added 202 numbers, 7 rules, 2 events: programme revenue in EC$ and % of GDP for every column; first-year
   approvals (2017 box); programme money as a capital financing source; individual programme bonds in the debt
   schedules (investor names left out); National Economic Fund contributions and a project it financed.
-- St Lucia now: all stored St Lucia documents reviewed (see ledger counts).
+- St Lucia now: all 40 stored St Lucia documents reviewed (29 complete, 11 partial; checked in the ledger).
 - **Decision needed:** investor names in the debt schedules were left out of rows and quotes: confirm.
