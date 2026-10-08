@@ -450,3 +450,17 @@ says what was done to it.
   totals): keep that kind of number or drop it? Nine new fee route names. The four largest Federal Register
   documents were read by helper agents and not re-read by the pass itself: **lower assurance** until the
   second reading covers them.
+
+### Whistleblowing: United States, batch 2 (pass `extract-whistleblowing-usa2`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 161 cases, 71 rules, 17 numbers, 5 events, 1 programme proposal.
+  - CFTC final-orders list: 156 orders not yet recorded (107 denials, 49 awards; 26 awards with an
+    amount from a press release about that order alone). Anonymous, as the orders are.
+  - CFTC press releases: running totals of awards and related sanctions 2021-2026, rule restatements.
+  - Reward statutes: IRS (2006), Dodd-Frank (CFTC, SEC), AML Act (FinCEN, kleptocracy pilot), 2022
+    omnibus. CRS report on the False Claims Act: recoveries, rules, three named court cases.
+- Partial: the CRS report discusses many rulings; only one added as an event so far.
+- Only 2 of the 170 CFTC orders are stored, so per-order percentages and sanctions are a gap.
+- **Decisions needed:** two ids are the same 1986 law; award decisions under Dodd-Frank and the AML Act
+  recorded as discretionary, unlike existing rows reading "shall pay" as mandatory; proposed programme
+  for the 25 U.S.C. 201 informer qui tam.
