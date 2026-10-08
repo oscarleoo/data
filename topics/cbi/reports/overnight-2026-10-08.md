@@ -755,3 +755,10 @@ says what was done to it.
   real-estate government fee, due-diligence and agent fees, resale limits; 1 event) and the 2023 UK visa
   statement (1 Vanuatu event). Both complete.
 - Dominica now: all 43 stored Dominica documents reviewed (40 complete, 3 partial; checked in the ledger).
+
+### United States EB-5, batch 5 (pass `extract-cbi-usa5`)
+- 10 documents reviewed (USCIS data files, EB-5 web pages, 8 U.S.C. 1427, the Gold Card fact sheet): all complete.
+- Added 26 numbers, 16 rules, 8 events: FY2020 Q1 petition rows, FY1991 zeros, FY2013 year-to-date; minimum
+  investments over time ($1.8m/$900k under the 2019 rule, struck down June 2021; $1,050,000/$800,000 from 2022);
+  visa set-asides; Integrity Fund fees; Zhang class certification; 2025 fee schedule.
+- United States now: all 90 stored US documents reviewed (89 complete, 1 partial; checked in the ledger).
