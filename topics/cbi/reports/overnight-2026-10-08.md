@@ -855,3 +855,14 @@ says what was done to it.
   processing times 32/38 months in the text vs 34/43 in Table 4.3.
 - **Decisions needed:** write the zero cells as rows (would complete both workbooks)? 4 new indicators; bare "$"
   recorded as unspecified while older rows from the same documents say CAD.
+
+### Spain, batch 1 (pass `extract-cbi-esp1`)
+- 20 documents reviewed (parliamentary answers 2019-2025, the 2015 MEYSS report, Housing Ministry and Moncloa
+  releases, Ley 14/2013 and amendments, LO 1/2025): 19 complete, 1 partial.
+- Added 462 numbers, 29 rules, 1 event: golden visas by country of application 2016-2018 (65 countries, adds to
+  1,819) and by province (adds to 3,405); the 2015 report's tables by route, nationality, province, average
+  investment, jobs; 2024 property shares (94 of 100 golden visas linked to property); 573 visas from April 2024;
+  the law's durations, windows, holding periods, deadlines.
+- Every table with printed totals adds up. Partial: a 2015 monthly chart with no printed values.
+- **Decision needed:** older real-estate nationality rows use `nationality=X` alone; new rows use
+  `route=real_estate;nationality=X` (needed to keep routes apart). A correction should add the route to the old rows.
