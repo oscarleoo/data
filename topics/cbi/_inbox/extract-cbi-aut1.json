@@ -1,0 +1,53 @@
+{
+ "slug": "extract-cbi-aut1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over six stored Austrian documents on naturalisation in the special interest of the Republic (§ 10(6) StbG): the 2014 procedure regulation, the consolidated § 10, and four parliamentary answers. Every printed number about the programme (applications before cabinet, confirmations and Land submissions 2005-2009; naturalisations 2007-2023) and the launch and procedure events were already in the data; this pass adds no rows and records the review.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "9520/AB prints '-' for 2012 and 2013 naturalisations under § 10(6); no number recorded for those years."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "aut-bgbl-ii-2014-39",
+   "status": "complete",
+   "contains": "Federal government regulation BGBl. II 39/2014 (3 pages, authentic signed copy) on the procedure for a § 10(6) StbG confirmation: Land government forwards the file to the Interior Ministry only once § 10(1) Z 2-6 and 8 and (2) are met (§ 1); Interior Ministry passes the reasoned application to the competent minister(s), and to the Foreign Ministry when the applicant has no main residence in Austria; ministers give reasoned opinions and may consult experts (§ 2); Interior Ministry prepares a recommendation (§ 3); the government decides regularly, at least once every calendar half-year (§ 4); decisions are sent to the Land (§ 5); in force at the end of the day of publication, 28 Feb 2014 (§ 7). No amounts, fees, economic thresholds or counts. Already in the data: the rule_change event e-aa4d9ac83f (2014-02-28). Nothing further in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "aut-parl-ab-17628-2024",
+   "status": "complete",
+   "contains": "Interior Minister's answer 17628/AB of 21 May 2024: per Statistik Austria, 21 persons in 2022 and 40 persons in 2023 were granted citizenship under § 10(6) StbG; no split by field (science, economy, sport, art); names and professions of persons confirmed by the federal government are published and the answer refers to the Council of Ministers' decision records. Both numbers already in the data (persons_naturalised 2022 and 2023). Nothing further in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "aut-parl-ab-4341-2010",
+   "status": "complete",
+   "contains": "Interior Minister's answer 4341/AB of 29 Mar 2010 (electronically transmitted text): applications under § 10(6) before the Council of Ministers 2005-2009 (49, 56, 49, 74, 76); confirmations by the federal government 2005-2009 (32, 35, 38, 60, 34); applications forwarded by each of the nine Land governments to the Interior Ministry 2005-2009 (table by Bundesland, no total printed); no further statistics kept; restates the § 10(6) test. All 55 numbers are already in the data (special_interest_cabinet_applications, special_interest_confirmations, applications_received by region). Nothing further in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "aut-parl-ab-8483-2011",
+   "status": "complete",
+   "contains": "Interior Minister's answer 8483/AB of 18 Jul 2011 on dual citizenship for South Tyroleans: Austria's principle of avoiding multiple nationality; the only exceptions in naturalisation are § 10(6) StbG (naturalisation in the interest of the state, a constitutional provision existing since the Citizenship Act 1965, no renunciation of the old nationality needed), § 10(4) Z 2 (emigrants, since 1998) and the § 58c notification (persecuted emigrants, since 1965). No numbers about the programme. The 1965 origin is already in the data as launch event e-fe72c97680; the other two provisions are not this programme.",
+   "to_do": ""
+  },
+  {
+   "source_id": "aut-parl-ab-9520-2022",
+   "status": "complete",
+   "contains": "Interior Minister's answer 9520/AB of 8 Apr 2022: questions on § 10(6) grants under each minister by field (science, economy, sport, art, other); answer: confirmation is for the federal government, the grant for the Land government (§ 39 StbG); only Statistik Austria's naturalisation counts under § 10(6) exist (from 2007; no split by field or minister); table of grants per year 2007-2021 (Statistik Austria, as of 17 Feb 2022), with 2012 and 2013 shown as '-' (no number printed, so no row); status of one pending application by a named individual received on 30 Sep 2021 (procedure ongoing, no number). All 13 printed yearly numbers already in the data (persons_naturalised). Nothing further in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "aut-ris-stbg-s10-2026",
+   "status": "complete",
+   "contains": "Consolidated text of § 10 StbG 1985 in force from 12 Jun 2026 (RIS page, with list of earlier versions back to 1985): general naturalisation conditions (§ 10(1): ten years' lawful residence of which five settled, no convictions, secured livelihood etc.; (2) bars; (3) renunciation of former nationality; (5) livelihood test averaged over 36 months of the last six years) and the constitutional provision § 10(6): the federal government's confirmation of extraordinary past and expected achievements in the special interest of the Republic waives § 10(1) Z 1 (residence) and Z 7 (livelihood) and § 10(3) (renunciation); § 10(7) allows a procedural regulation (BGBl. II 39/2014). No amounts, fees or counts for the programme; the residence and income numbers are conditions of ordinary naturalisation that § 10(6) waives, so they are not terms of this programme. The version list is about § 10 as a whole, not § 10(6) (whose wording per the source notes is unchanged), so no events added.",
+   "to_do": ""
+  }
+ ]
+}
