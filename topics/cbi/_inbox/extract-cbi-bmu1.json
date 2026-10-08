@@ -1,0 +1,295 @@
+{
+ "slug": "extract-cbi-bmu1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over 10 stored Bermuda Ministry of Economy and Labour documents on the Economic Investment (Residential) Certificate: ministerial statements 2021-2023, the January 2023 policy, press releases 2023-2025 with investment tables, and two year-end reviews. The investment tables and headline counts were already extracted and add up; this pass adds pipeline figures (expressions of interest and intended investment), a processing time, and the policy's holding-period, presence, age and appeal rules.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "expressions_of_interest",
+   "breakdown": "",
+   "period": "2021-11-24",
+   "period_basis": "as_of_date",
+   "value": "20",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "reported",
+   "source_id": "bmu-mel-eic-update-2021",
+   "location": "para 3",
+   "quote": "There is an active and growing pipeline of over 20 persons who have currently registered their expressions of interest in the Program.",
+   "notes": "\"Over 20\" persons (lower bound as printed) with registered expressions of interest, a stock at the date of the statement; counted in persons, not EOI forms. Ministry figure."
+  },
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "rbi_investment_intended",
+   "breakdown": "",
+   "period": "2021-11-24",
+   "period_basis": "as_of_date",
+   "value": "200",
+   "value_high": "",
+   "unit": "BMD",
+   "scale": "million",
+   "status": "reported",
+   "source_id": "bmu-mel-eic-update-2021",
+   "location": "para 3",
+   "quote": "The total investments of the EIC pipeline are around $200 million, which includes a large investment for a hotel development.",
+   "notes": "Amount printed with \"$\" only; Bermuda dollar assumed, as for the other Bermuda rows (the EIRC policy states amounts in BD$, at par with the US dollar). \"Around\" $200 million: investment intended by people in the expression-of-interest pipeline, not yet approved or made."
+  },
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "expressions_of_interest",
+   "breakdown": "",
+   "period": "2022-07-15",
+   "period_basis": "as_of_date",
+   "value": "41",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "reported",
+   "source_id": "bmu-parl-ms-eic-2022",
+   "location": "p. 1",
+   "quote": "There is an active, growing pipeline of over 41 persons who have registered their expressions of interest in the program.",
+   "notes": "\"Over 41\" persons (lower bound as printed); date is that of the statement (15 July 2022); the \"As of July 11th 2022\" date printed for the investment totals is not stated for this figure. Statement to the House of Assembly."
+  },
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "rbi_investment_intended",
+   "breakdown": "",
+   "period": "2022-07-15",
+   "period_basis": "as_of_date",
+   "value": "88",
+   "value_high": "",
+   "unit": "BMD",
+   "scale": "million",
+   "status": "reported",
+   "source_id": "bmu-parl-ms-eic-2022",
+   "location": "p. 1",
+   "quote": "The total investments in the EIC pipeline now exceed $88 million dollars.",
+   "notes": "Amount printed with \"$\" only; Bermuda dollar assumed, as for the other Bermuda rows (the EIRC policy states amounts in BD$, at par with the US dollar). \"Exceed\" $88 million (lower bound). Pipeline of expressions of interest, not approved investment; date is that of the statement (15 July 2022)."
+  },
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "processing_time_days",
+   "breakdown": "",
+   "period": "2022-07-15",
+   "period_basis": "as_of_date",
+   "value": "5",
+   "value_high": "",
+   "unit": "days",
+   "scale": "1",
+   "status": "reported",
+   "source_id": "bmu-parl-ms-eic-2022",
+   "location": "p. 3",
+   "quote": "clients are pleased with the five-business-day turn-around-time for application approvals",
+   "notes": "Business days, for application approvals, as described by the Minister (typical/advertised turnaround, not a measured average). Date is the statement date."
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "bmu-eirc",
+   "route": "permanent_residence_eligibility",
+   "valid_from": "2021-03-01",
+   "valid_to": "2023-03-31",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "Economic Investment Certificate holder, before applying for a Residential Certificate (indefinite residence)",
+   "source_id": "bmu-mel-ms-eic-2021",
+   "location": "para \"If at or after five years...\"",
+   "quote": "If at or after five years, the Economic Investment Certificate holder decides he or she would like to reside in Bermuda indefinitely the holder may apply for the Residential Certificate.",
+   "notes": "Two-step policy of 2021; removed from 31 March 2023, when the Residential Certificate is granted at once (event e-7e29b39fed)."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "government_bonds_holding_period",
+   "valid_from": "2021-03-01",
+   "valid_to": "2024-06-09",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "investor choosing Bermuda Government bonds",
+   "source_id": "bmu-mel-ms-eic-2021",
+   "location": "list of qualifying investments",
+   "quote": "Purchase Bermuda Government bonds to be held for a minimum of five years;",
+   "notes": "Same in the 2023 EIRC policy (s.2(a)(ii)). Bond route removed 9 June 2024 (t-af75965433, e-57aabd10a2)."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "permit_validity",
+   "valid_from": "2021-03-01",
+   "valid_to": "2023-03-31",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "Economic Investment Certificate (permission to reside) under the 2021 policy",
+   "source_id": "bmu-mel-ms-eirc-revision-2023",
+   "location": "para \"The 2021 Economic Investment Certificate...\"",
+   "quote": "may be granted permission by the Minister responsible for Immigration to reside in Bermuda for a period of five years",
+   "notes": "As described in the 2023 statement of the 2021 policy; replaced on 31 March 2023 by an immediate Residential Certificate of indefinite duration."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "investment_holding_period",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "RC holder: qualifying investment kept at a value of at least $2,500,000",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 2, s.3(ii)",
+   "quote": "Qualifying Investments shall be maintained at a minimum threshold value of $2,500,000 by the specific RC holder for at least 5 years.",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister. Verification by the end of the fifth year is required to retain the RC."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "physical_presence",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days per year",
+   "applies_to": "RC holder, in each calendar year for 5 years after the grant",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 2, s.3(iii)",
+   "quote": "The RC holder shall reside in Bermuda for a minimum of 90 days in each calendar year for 5 years after the granting of an RC.",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "minimum_age",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "18",
+   "currency": "years",
+   "applies_to": "applicant",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 2, s.2(b)(i)",
+   "quote": "Be at least eighteen years of age;",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "dependant_child_max_age",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "25",
+   "currency": "years",
+   "applies_to": "child dependant enrolled in higher education (otherwise 18 or younger)",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 3, s.5(2)",
+   "quote": "when they reach the age of twenty-five (25) years, whichever happens, earlier",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister. Children 18 or younger, or 18 to 25 if enrolled in higher education (s.1 and s.5(1)); the right ends at 25 or at the end of full-time tertiary education, whichever is earlier, unless special circumstances."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "max_continuous_absence",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "RC holder living outside Bermuda continuously without the Minister's prior leave (ground for revocation)",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 4, s.11(iii)",
+   "quote": "The holder of an RC continuously resides outside of Bermuda for two years or more, without seeking leave from the Minister prior to his/her departure.",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister. Other revocation grounds: fraud, or a conviction carrying (or that would carry) two or more years' imprisonment (s.11(ii))."
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "appeal_deadline",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "7",
+   "currency": "working days",
+   "applies_to": "appeal against the Minister's decision, to the Immigration Appeal Tribunal",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 4, s.10",
+   "quote": "Appeals against the Minister’s decision should be submitted within seven (7) working days of the date of notification",
+   "notes": "EIRC Policy (January 2023), effective 31 March 2023 by order of the Minister."
+  }
+ ],
+ "events": [
+  {
+   "date": "2023-03-31",
+   "date_precision": "day",
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "category": "rule_change",
+   "title": "EIRC policy adds five-year investment and 90-day residence conditions",
+   "description": "The January 2023 EIRC policy (effective 31 March 2023) replaces the 2021, 2015 and 2003 policies. The Residential Certificate is granted at once, but the holder must keep qualifying investments worth at least $2,500,000 for at least five years and live in Bermuda at least 90 days in each calendar year for five years, verified by the end of the fifth year; existing EIC holders may apply for the RC retroactively. Residential Certificates granted under the 2003 and 2015 policies keep their old rules.",
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "location": "p. 2, s.3; p. 4, s.8; p. 5, s.14-15",
+   "quote": "Verification of the above would be required by the end of the 5th year in order to retain the RC."
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "No Bermuda document gives applications received or refused, nationality of applicants, or certificates revoked.",
+  "\"$14.3\" of real estate purchases in the Nov 2021 statement lacks a unit word (see ledger to_do)."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "bmu-mel-eic-update-2021",
+   "status": "partial",
+   "contains": "Minister's press statement of 24 Nov 2021: total investment of EIC holders since 1 March 2021 ($39,541,923.94), 8 certificates covering 20 persons, pipeline of over 20 persons with expressions of interest and around $200 million of pipeline investment (incl. a hotel), $2.5m minimum, five-year path to the Residential Certificate, list of qualifying investments; also describes Permission to Reside on an Annual Basis (up to five years; a different scheme, out of scope). Added: expressions of interest (20) and pipeline investment ($200m). Already in the data: $39.5m, 8 certificates, 20 persons.",
+   "to_do": "The sentence \"which includes $14.3 injected into the economy from real estate purchases made this year\" prints no unit word after 14.3 (almost certainly $14.3 million, but the document does not say so); not recorded pending a decision on whether to record it as 14.3 million with a note."
+  },
+  {
+   "source_id": "bmu-mel-eirc-600m-2025",
+   "status": "complete",
+   "contains": "Press release of 8 Dec 2025: EIRC passes $600 million; as of 5 Nov 2025 over $604.9 million; table \"EIRC Investment Breakdown\" by investment type (existing business, government bonds, new business, other ventures, real estate, total) with investment amount, number of RC holders and number of approved applications; $2.5m minimum. All table cells already in the data (15 rows); parts add up to the printed totals ($604,908,044.93; 188 holders; 79 applications). The rounded $604.9m and $600m in the text restate the table total and are not added again. Nothing new.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-bonds-2024",
+   "status": "complete",
+   "contains": "Press release of 9 June 2024: Government bonds removed as a qualifying investment (5-year hold hard to track; no new issues planned); bond investments just over $2.6m from one application with two holders; as of 5 June 2024 total associated investment over $482m incl. $218.7m real estate; table by investment type (existing business, government bonds, new business, real estate, total) with amount, holders and approved applications. All already in the data (table rows, the $218.7m text figure, the bond term and event); parts add up to the totals ($482,060,644.58; 128; 52). The rounded $2.6m and $482m restate table cells. Nothing new.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "status": "complete",
+   "contains": "EIRC Policy (January 2023), 5 pp., effective 31 March 2023: replaces the 2021, 2015 and 2003 policies; RC under s.32(5) BIPA with indefinite residence and automatic work permit approval for the investor's business; qualifying investment of at least BD$2,500,000 in eight listed forms (bonds held 5 years); applicant at least 18; character and health conditions; investment kept 5 years and 90 days a year residence for 5 years, verified by year 5; dependants (children to 18, or to 25 in higher education); death/divorce; retroactive approval for EIC holders; restricted-person land licence; appeal within 7 working days; revocation grounds (fraud, 2+ year sentence, 2 years continuous absence); fee $2,625; earlier RCs keep old rules. No statistics. Added: 6 terms and 1 event; BD$2.5m minimum and the $2,625 fee are already recorded in the notes of t-bc7b254ed4 and t-0cd7363d67.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-pr-2023",
+   "status": "complete",
+   "contains": "Press release of 29 June 2023: as of 20 June 2023 total associated investment $425.5m incl. $164.8m real estate; table by investment type (existing business, new business, real estate, total) with amount, holders and approved applications; $2.5m minimum. All table cells already in the data (12 rows); parts add up to the totals ($425,553,370.61; 89; 37). The rounded text figures restate the table. Nothing new.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-ms-eic-2021",
+   "status": "complete",
+   "contains": "Ministerial statement of 19 Feb 2021 introducing the Economic Investment Certificate and Residential Certificate policy: $2.5M minimum investment; Residential Certificate after five years on an EIC; work rights; eight qualifying investment forms (bonds held at least five years); effective 1 March 2021; $2,625 certificate fee; concierge service; replaces the 2003 and 2015 RC policies. Also an illustration (\"let's say, 100 persons ... over the next 10 years. That will generate $250 million\") which is a hypothetical example, not a target or forecast, so not recorded as a number. Added: 2 terms (5-year wait for the RC; 5-year bond holding). Minimum, fee and launch event already in the data.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-ms-eirc-revision-2023",
+   "status": "complete",
+   "contains": "Ministerial statement dated 26 Feb 2023: total associated investment $371.6m incl. $113.4m real estate since inception; $2.5m minimum; qualifying investments; the 2021 policy's five-year EIC then RC replaced by an immediate RC (Economic Investment Residential Certificate policy) effective 31 March 2023; 2003/2015 RC holders keep their rules. Added: 1 term (5-year EIC validity under the 2021 policy). Investment figures and the event already in the data.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-yer-2022",
+   "status": "complete",
+   "contains": "Ministry of Economy and Labour Year End Review 2022, 10 pp. (p. 1 cover image, OCR shows only the title). In scope (p. 4, item 1): 27 EIC applications approved to date, 71 persons holding an EIC, over $369 million invested, $2.5m minimum; all already in the data. Out of scope: financial assistance, Work from Bermuda temporary residency certificates (1,139 approved, 163 extensions, 259 holders in Nov 2022), repatriation and mixed-status amendments (188 applications), SME support, ERP, workforce programmes, work permit moratorium, minimum wage. Nothing new.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-yir-pr-2024",
+   "status": "complete",
+   "contains": "Press release on the 2024 Year in Review (the text says released \"Today (9 February 2025)\"; sources.csv has only \"2025\"): EIRC attracted over $500 million in investments (already in the data); other items out of scope (severance, minimum wage $16.81/$17.23, immigration digitisation, workforce, scholarships $350,000, coders initiative, UAE/Ghana agreements). Nothing new.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-parl-ms-eic-2022",
+   "status": "complete",
+   "contains": "Ministerial statement to the House of Assembly, 15 July 2022, 4 pp.: as of 11 July 2022 $349,644,195 invested since 1 March 2021, incl. $94,180,923 real estate and $255,463,272 new and existing businesses (these two parts add up to the total); 19 applications approved covering 48 persons; pipeline of over 41 persons with expressions of interest and over $88 million of pipeline investment; $2.5m minimum; five-year path to RC; qualifying investments; five-business-day turnaround for approvals; BDA promotion; \"nearly $350 million ... after 16 months\" restates the total. Added: expressions of interest (41), pipeline investment ($88m), processing time (5 business days). The rest already in the data.",
+   "to_do": ""
+  }
+ ]
+}
