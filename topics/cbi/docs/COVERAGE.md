@@ -30,17 +30,19 @@ They did not record every table in every document they stored. On 8 October
 not been extracted, while the page said "every number we could find". That was
 wrong. This ledger makes the gaps visible.
 
-## Where we are (as of 2026-10-08)
+## Where we are (as of 2026-10-09)
 
 - Sources: 1,443, of which 1,267 have a stored copy.
-- Reviewed against their full contents: **0**. Not yet reviewed: **1,443**.
-- Stored documents with no numbers extracted: 605 (many are laws or articles used for rules and events, but none is checked yet).
-- Stored documents with only one or two numbers extracted: 216.
-- Sources with a written to-do: 125.
+- Stored documents reviewed against their full contents: **1,267 of 1,267** (1,149 complete, 101 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
+- Sources with no stored copy: 176. They stay `not_reviewed` until a copy is fetched.
+- The review was done document by document between 8 and 9 October 2026; the log is in `../cbi/reports/overnight-2026-10-08.md`.
 
-So: every number in the dataset is checked against its source (quotes and a
-blind second reading, see the README), but the dataset is **not** a complete
-extraction of the documents it cites.
+What this does and doesn't mean:
+
+- Every number has a location and a verbatim quote, checked automatically against the stored copy.
+- A blind second reading by a different model covers a sample, not every number: 8,962 of 83,856 numbers. Every difference it found is ruled (`data/second_read_resolutions.csv`).
+- `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` column says exactly what (charts without printed values, unreadable scans, items waiting for a decision on scope).
+- Documents we don't store are not reviewed, so the dataset says nothing about what they contain.
 
 ## What happens next
 
