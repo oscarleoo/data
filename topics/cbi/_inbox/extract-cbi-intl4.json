@@ -1,0 +1,119 @@
+{
+ "slug": "extract-cbi-intl4",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over three international documents: the US State Department INCSR 2001 money-laundering volume (Dominica price and issuance figures, Grenada's reported October 2001 suspension, CFATF plan to study Caribbean economic citizenship programmes) and two WTO summaries of the EC sugar dispute (context for St Kitts and Nevis, no programme numbers).",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "DMA",
+   "program_id": "dma-cbi",
+   "indicator": "persons_naturalised",
+   "breakdown": "",
+   "period": "1996-2000",
+   "period_basis": "cumulative",
+   "value": "500",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "reported",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Dominica country section, para 2",
+   "quote": "Between 1996 and 2000, the Government of Dominica (GOD) issued approximately 500 economic citizenships.",
+   "notes": "Rounded ('approximately'). Counts 'economic citizenships'; whether family members are included is not stated. US State Department relaying Dominica government information; the INCSR 2000 prints the same figure (separate row)."
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "dma-cbi",
+   "route": "donation",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "50000",
+   "currency": "USD",
+   "applies_to": "individual (direct purchase; as described by the US State Department, March 2002)",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Dominica country section, para 2",
+   "quote": "individuals could purchase Dominican passports as well as official name changes for approximately U.S. $50,000 or U.S. $75,000 in government bonds",
+   "notes": "Rounded ('approximately'). Described in the past tense; the report gives no dates of validity. Secondary description by the US government; INCSR 2000 gives the same prices (separate rows)."
+  },
+  {
+   "program_id": "dma-cbi",
+   "route": "bonds",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "75000",
+   "currency": "USD",
+   "applies_to": "individual (government bonds; as described by the US State Department, March 2002)",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Dominica country section, para 2",
+   "quote": "individuals could purchase Dominican passports as well as official name changes for approximately U.S. $50,000 or U.S. $75,000 in government bonds",
+   "notes": "Alternative to the approximately US$50,000 payment. No dates of validity given. Secondary description by the US government."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "jurisdiction": "GRD",
+   "program_id": "grd-ecp",
+   "category": "closure",
+   "title": "Grenada reportedly suspends citizenship sales after the September 11 attacks",
+   "description": "The US State Department reports that, in light of the terrorist attacks on the United States, Grenada suspended selling citizenship and passports to foreigners in October 2001. Another source dates the announcement of an indefinite suspension to 15 November 2001.",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Grenada country section, para 2",
+   "quote": "In light of the terrorist attacks upon the United States, the GOG reportedly suspended the practice of selling citizenship status and passports to foreigners in October 2001."
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "jurisdiction": "INTL",
+   "program_id": "",
+   "category": "context",
+   "title": "US: Belize, Dominica and St Kitts and Nevis sold inadequately controlled economic citizenships in 2001",
+   "description": "The INCSR 2001 says three Caribbean offshore centres sold inadequately controlled economic citizenships during 2001 (Belize, Dominica, St Kitts and Nevis), that Grenada suspended sales in 2001 and that St Kitts and Nevis was the only Caribbean centre both selling economic citizenship and licensing virtual casinos.",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Introduction, paragraph on economic citizenship",
+   "quote": "During 2001, three Caribbean Basin OFCs sold inadequately controlled economic citizenships: Belize, Dominica and St. Kitts & Nevis."
+  },
+  {
+   "date": "2002",
+   "date_precision": "year",
+   "jurisdiction": "INTL",
+   "program_id": "",
+   "category": "context",
+   "title": "CFATF plans a 2002 typologies exercise on Caribbean economic citizenship programmes",
+   "description": "The Caribbean Financial Action Task Force scheduled typologies exercises for 2002 on the economic citizenship programmes existing in the Caribbean and on terrorist financing (as reported by the US State Department).",
+   "source_id": "intl-usdos-incsr-2001",
+   "location": "Caribbean Financial Action Task Force section (international organisations part)",
+   "quote": "For the year 2002, typologies exercises will be conducted on the issues of Economic Citizenship Programs existing in the Caribbean, and on Terrorist Financing."
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "INCSR 2001: the Offshore Financial Services chart (Y/N/S marks for selling economic citizenship by jurisdiction) is on a separate State Department page (8558) that is not part of the stored file; only its definitions are in this document."
+ ],
+ "leads": [
+  "INCSR 2001 Offshore Financial Services chart, separate page: https://2009-2017.state.gov/j/inl/rls/nrcrpt/2001/rpt/8558.htm"
+ ],
+ "ledger": [
+  {
+   "source_id": "intl-usdos-incsr-2001",
+   "status": "complete",
+   "contains": "US State Department INCSR 2001 (issued 1 March 2002), Money Laundering and Financial Crimes volume: introduction on offshore financial centres (economic citizenship paragraph: Belize, Dominica and St Kitts & Nevis sold inadequately controlled economic citizenships in 2001, Grenada suspended, Nauru sells; two buyers of Belizean citizenship at $25,000 apiece in December 2001 linked to a terrorist group, Belize to stop in January 2002; Antigua internet gaming licence fees, not programme), definitions for the Offshore Financial Services chart (the chart itself is a separate page, not in this file), US legislation and SAR material, international organisations (CFATF 2002 typologies on Caribbean economic citizenship programmes), and country reports for about 200 jurisdictions. Programme content in country reports: Belize (selling as of December 2001, no numbers), Dominica (approximately US$50,000 or US$75,000 in bonds; approximately 500 economic citizenships 1996-2000; PRC nationals using it to reach the US via Canada, no numbers), Grenada (reportedly suspended October 2001; FIBG founder bought a Grenadian passport; FIBG liabilities US$206 million and assets US$46 million are bank figures, not programme), St Kitts and Nevis ('improperly regulated economic citizenship program', no numbers; offshore company and trust counts are not programme), St Vincent (programme revoked April 2001, no passports issued: already in the data as an event). Belize price, Belize visa refusals and closure, SVG revocation and Nauru event were already taken from this source and were not repeated. 'Two individuals purchased' in December 2001 was not recorded as a count: it describes one incident, not a programme total for the month. Everything else (offshore banks, IBCs, gaming, AML laws, FATF listings) is not about the programmes.",
+   "to_do": ""
+  },
+  {
+   "source_id": "intl-wto-ds265-onepage",
+   "status": "not_applicable",
+   "contains": "WTO one-page summary (2026 edition, p. 107) of EC - Export Subsidies on Sugar (DS265/266/283): parties, timeline (panel 29 Aug 2003, panel report 15 Oct 2004, AB report 28 Apr 2005, adoption 19 May 2005) and key findings. Context for the end of the EU sugar preferences that affected St Kitts and Nevis; no numbers about any investment-migration programme. The AB-ruling event is already in the data.",
+   "to_do": ""
+  },
+  {
+   "source_id": "intl-wto-ds265-summary",
+   "status": "not_applicable",
+   "contains": "WTO Secretariat dispute summary of DS265 (EC sugar export subsidies), consultations 2002 to the 8 June 2006 understandings: complainants' claims (approximately 1.6 million tons of subsidised sugar a year; almost 2 million tonnes declassification), St Kitts and Nevis among ACP countries joining consultations and reserving third-party rights, panel and AB findings, 12 months and 3 days compliance period to 22 May 2006. Context for St Kitts and Nevis' sugar decline only; no numbers about any investment-migration programme. The six dated events taken from it are already in the data.",
+   "to_do": ""
+  }
+ ]
+}
