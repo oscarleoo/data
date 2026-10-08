@@ -1,0 +1,262 @@
+{
+ "slug": "extract-cbi-bhs1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over 6 stored Bahamian documents on economic permanent residence: the 2021 and 2024 Immigration (Amendment) Bills, the 2024/25 Budget Communication, the Immigration fee scale, the MOFA permanent residence page and the Department of Immigration's 2019 annual report. Adds the statutory conditions (90 days a year, 10-year holding, declarations, deemed approval after 3 months, 90-day fee deadline), the $1.0m routes from the budget, appraisal age, processing and duplicate fees, and the MOFA page's BS$1.5m fast-track threshold. No new statistics: the 2019 report's permanent residence table was already recorded and does not separate economic PR.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-ag-imm-amend-bill-2024",
+   "route": "investment_holding_period",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "real estate or Central Bank zero coupon bond investment (minimum)",
+   "location": "p. 2, s. 2(a), new s.17A(1)(a)",
+   "quote": "has made an investment of one million dollars for a minimum period of ten years",
+   "notes": "Immigration (Amendment) Bill 2024, in operation from 1 Jan 2025 (s.1(2)); bill text, gazetted Act not found."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-ag-imm-amend-bill-2024",
+   "route": "fee_payment_deadline",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days",
+   "applies_to": "applicant: prescribed fee unpaid within 90 days of submission means the application lapses (reinstatement fee)",
+   "location": "p. 2, s. 2(b), new s.17A(1A)",
+   "quote": "fails to pay the prescribed fee within ninety days from the submission of the application, the application shall be deemed to have lapsed",
+   "notes": "Immigration (Amendment) Bill 2024, in operation from 1 Jan 2025 (s.1(2)); bill text, gazetted Act not found."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "route": "physical_presence",
+   "valid_from": "2021-07-01",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days per year",
+   "applies_to": "certificate holder (cumulative residence, minimum)",
+   "location": "p. 2, new s.17A(1)(b)",
+   "quote": "shall reside in The Bahamas for a cumulative period of no less than ninety days per year",
+   "notes": "Immigration (Amendment) Bill 2021 inserting s.17A, in force 1 July 2021 (s.1(2)); bill text as tabled. The investment amount itself is left to ministerial order."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "route": "investment_holding_period",
+   "valid_from": "2021-07-01",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "holder must keep the residence or qualifying investment at the prescribed value (minimum)",
+   "location": "p. 3, new s.17A(2)(a)",
+   "quote": "at a value not less than the value prescribed by the Minister in accordance with subsection (1), for a minimum of ten years",
+   "notes": "Immigration (Amendment) Bill 2021 inserting s.17A, in force 1 July 2021 (s.1(2)); bill text as tabled. The certificate lasts for the holder's lifetime unless revoked; right to work only in own business."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "route": "declaration_interval",
+   "valid_from": "2021-07-01",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "holder files a declaration that the application information is unchanged (or an affidavit on changes)",
+   "location": "p. 3, new s.17A(2)(b)",
+   "quote": "every ten years file a declaration confirming that in all material aspects, the information contained in his application",
+   "notes": "Immigration (Amendment) Bill 2021 inserting s.17A, in force 1 July 2021 (s.1(2)); bill text as tabled."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "route": "survivor_application_deadline",
+   "valid_from": "2021-07-01",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "months",
+   "applies_to": "surviving spouse and dependants (endorsements stay valid pending their application for status)",
+   "location": "p. 3, new s.17A(6)",
+   "quote": "subject to the determination of an application for legal status by the surviving spouse and the dependant within three months of his death",
+   "notes": "Immigration (Amendment) Bill 2021 inserting s.17A, in force 1 July 2021 (s.1(2)); bill text as tabled."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "route": "processing_time_max",
+   "valid_from": "2021-07-01",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "months",
+   "applies_to": "completed application (deemed approved after three months)",
+   "location": "p. 3, new s.17A(7)",
+   "quote": "An application shall be deemed to be approved three months after receipt of a completed application under this section.",
+   "notes": "Immigration (Amendment) Bill 2021 inserting s.17A, in force 1 July 2021 (s.1(2)); bill text as tabled."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mof-budget-comm-2024",
+   "route": "real_estate",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "1000000",
+   "currency": "unspecified",
+   "applies_to": "main applicant (real estate and/or Central Bank zero coupon bonds)",
+   "location": "PDF p. 54",
+   "quote": "This will now increase to $1.0 million in real estate investments and or the purchase of Zero Coupon Bonds from the Central Bank of The Bahamas.",
+   "notes": "Budget Communication 2024/25 (29 May 2024): announced measure, effective 1 January 2025 as stated. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD). Previously $750,000 in real estate only (already recorded)."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mof-budget-comm-2024",
+   "route": "bonds",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "1000000",
+   "currency": "unspecified",
+   "applies_to": "main applicant (Central Bank zero coupon bonds, and/or real estate)",
+   "location": "PDF p. 54",
+   "quote": "This will now increase to $1.0 million in real estate investments and or the purchase of Zero Coupon Bonds from the Central Bank of The Bahamas.",
+   "notes": "Budget Communication 2024/25 (29 May 2024): announced measure, effective 1 January 2025 as stated. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD). Bond proceeds to be used only for education, health, culture and Family Island infrastructure."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mof-budget-comm-2024",
+   "route": "investment_holding_period",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "real estate or bonds (minimum)",
+   "location": "PDF p. 54",
+   "quote": "In both cases, the asset must be held for a minimum of 10 years.",
+   "notes": "Budget Communication 2024/25 (29 May 2024): announced measure, effective 1 January 2025 as stated. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD)."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mof-budget-comm-2024",
+   "route": "appraisal_max_age",
+   "valid_from": "2025-01-01",
+   "valid_to": "",
+   "min_amount": "12",
+   "currency": "months",
+   "applies_to": "real-estate applicants: appraisal report to commercial-bank standard, no older than this",
+   "location": "PDF pp. 54-55",
+   "quote": "An appraisal report no more than 12 months old and to the standard used by commercial banks on the evaluation of financing.",
+   "notes": "Budget Communication 2024/25 (29 May 2024): announced measure, effective 1 January 2025 as stated. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD). Proposed rule; also the Real Property Tax assessment number and a stamped conveyance."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mof-budget-comm-2024",
+   "route": "fee_payment_deadline",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days",
+   "applies_to": "permanent residence applications concluded but not finalized after 90 days incur the $500 reinstatement fee",
+   "location": "PDF p. 53",
+   "quote": "a $500 reinstatement fee for Permanent Resident Applications which have been successfully concluded but not finalized after 90 days",
+   "notes": "Budget Communication 2024/25 (29 May 2024): announced measure. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD). Start date not stated for this measure; the 2024 bill puts it in s.17A(1A) from 1 Jan 2025."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-doi-fee-scale-2026",
+   "route": "fee_processing",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "200",
+   "currency": "unspecified",
+   "applies_to": "per application for permits and certificates (all types)",
+   "location": "fee list",
+   "quote": "For processing application for permits and certificates $200",
+   "notes": "Undated fee scale page (read 2026-10-02); start date unknown. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD)."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-doi-fee-scale-2026",
+   "route": "fee_duplicate_certificate",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "300",
+   "currency": "unspecified",
+   "applies_to": "duplicate of any certificate",
+   "location": "fee list",
+   "quote": "For a duplicate of any certificate $300",
+   "notes": "Undated fee scale page (read 2026-10-02); start date unknown. Amount printed as bare 'dollars'/'$' without saying which dollar, so currency is 'unspecified' under the dataset rule (existing rows from this source use BSD)."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mofa-pr-page-2026",
+   "route": "real_estate_accelerated",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "1500000",
+   "currency": "BSD",
+   "applies_to": "owner of a residence (speedy consideration)",
+   "location": "Eligibility",
+   "quote": "persons purchasing a residence for BS$1.5 million or more will get speedy consideration",
+   "notes": "Undated MOFA page (read 2026-10-02) that appears to describe the pre-2021 administrative policy; valid_from left empty. Financially independent owners of a residence may apply at any value; no minimum stated."
+  },
+  {
+   "program_id": "bhs-epr",
+   "source_id": "bhs-mofa-pr-page-2026",
+   "route": "fee_processing",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "BSD",
+   "applies_to": "per application, non-refundable",
+   "location": "Related Fee(s)",
+   "quote": "There is a non-refundable processing fee of BS$100.00, payable via cash or bank manager",
+   "notes": "Undated MOFA page (read 2026-10-02) that appears to describe the pre-2021 administrative policy; valid_from left empty. Differs from the Department's current fee scale ($200 processing)."
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "No official count of economic permanent residence grants in these documents (2019 PR table mixes all ss.13 & 16 grants)."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "bhs-ag-imm-amend-bill-2024",
+   "status": "complete",
+   "contains": "Immigration (Amendment) Bill 2024 (4 pages): from 1 Jan 2025, s.17A requires one million dollars for at least ten years in real estate or Central Bank zero coupon bonds; lapse if the fee is unpaid within 90 days, with a reinstatement fee; deed of gift excluded; documents required for each route; certificate shows the property tax number; bond proceeds earmarked; objects and reasons. Amounts were already recorded; adds the 10-year holding and 90-day fee rule.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-doi-ar-2019",
+   "status": "complete",
+   "contains": "Department of Immigration Annual Report 2019 (202 pages): departmental sections, unit reports (staff, highlights, goals), border and enforcement statistics, an image table of actual/forecast revenue 2019 and forecast 2020 by fee line (incl. 'Residency', 'Naturalisation', 'Homeowner Card' revenue, not split by permanent residence type), Naturalization Unit tables for 2019: citizenship forms 1-6 (out of scope) and permanent residence by section (ss.13 & 16: 198 approved, 6 refused, 36 pending, total 240; s.14 spouses: 60/1/12/73). The ss.13 & 16 row was already recorded (parts add to the printed 240); the s.14 spouse row, citizenship forms, homeowner-card and general revenue lines are not investor permanent residence and are out of scope. The revenue table was OCR'd (rotated image) and has no economic-PR line. Nothing further in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-doi-fee-scale-2026",
+   "status": "complete",
+   "contains": "Department of Immigration fee scale page (undated): permanent residence certificate fees by category (incl. economic PR under s.17A: $25,000 with right to work in own business, $20,000 without, already recorded), endorsement, duplicates, processing ($200) and expedited fees, residence permits, work-permit scales by occupation (out of scope). Adds the processing and duplicate-certificate fees that apply to economic PR certificates.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-moea-imm-amend-bill-2021",
+   "status": "complete",
+   "contains": "Immigration (Amendment) Bill 2021 (4 pages) inserting s.17A from 1 July 2021: certificate for buying a residence and/or making investments of amounts prescribed by ministerial order (no amount in the bill), 90 days' residence a year, lifetime certificate, 10-year holding at the prescribed value, 10-yearly declaration, spouse and dependant endorsements, survivors' 3-month window, deemed approval after 3 months; s.18 revocation extended. Event already recorded; rules added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-mof-budget-comm-2024",
+   "status": "complete",
+   "contains": "Budget Communication 2024/25 (80 pages): general fiscal review, revenue and spending measures (out of scope); immigration measures on PDF pp. 53-55: expedited work-permit fee, visitor-stay and Trusted Traveller fees (out of scope), $500 reinstatement fee for PR applications not finalised after 90 days, economic PR minimum raised from $750,000 (real estate only) to $1.0 million in real estate and/or Central Bank zero coupon bonds held 10 years from 1 Jan 2025, deed of gift excluded, application requirements (tax number, appraisal no more than 12 months old, stamped conveyance), Real Property Tax number on Immigration approvals. PDF p. 24 mentions certificate-of-residency issuances and VAT on realty but gives no programme figure. Reinstatement fee and $750,000 threshold were already recorded; adds the $1.0m routes, holding period, appraisal age and 90-day rule.",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-mofa-pr-page-2026",
+   "status": "complete",
+   "contains": "Ministry of Foreign Affairs page on applying for permanent residence (undated, apparently pre-2021 policy): definition (lifetime status, no vote), eligible categories (spouses, financially independent owners or investors of a residence with BS$1.5 million or more getting speedy consideration, long-serving public servants, etc.), process, documents, contact for an update within 3 to 4 weeks (not a processing time), BS$100 non-refundable processing fee. Adds the BS$1.5 million accelerated threshold and the fee from this page.",
+   "to_do": ""
+  }
+ ]
+}
