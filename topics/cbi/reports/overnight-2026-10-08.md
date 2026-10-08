@@ -540,3 +540,13 @@ says what was done to it.
 - Did not add up: interim evaluation Table 3.2 (submitted amounts 2012-2016 sum to EUR 256.45m vs printed
   EUR 340.95m; Q1 2017 seems included in one total only); jobs 1,644 vs 1,619 in two tables.
 - 5 new indicators proposed.
+
+### International documents, batch 3 (pass `extract-cbi-intl3`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 37 numbers, 21 rules, 5 events: US State Department 2000 report (Dominica US$50,000/75,000 prices,
+  about 500 citizenships 1996-2000, 2000 suspension and resumption; Grenada about 300 sold); the rest of
+  IMF WP 15/93 (Portugal inflows up to 13% of gross foreign investment in 2014; St Kitts balances without
+  programme money; development-fund-backed credit); IMF 2024 region-wide balances; FATF/OECD 2023 cases;
+  the 2024 Eastern Caribbean agreement (US$200,000 minimum, one rule per signatory).
+- Partial: WP 15/93's recommended buffer size (20-50% of GDP) has no measure.
+- **Decision needed:** deficits printed as positive numbers recorded as printed with `category=deficit`.
