@@ -465,9 +465,27 @@ GRC,grc-golden-visa,residence_permits_renewed,2024-12,permits,84,1,84.0,actual,g
 GRC,grc-golden-visa,residence_permits_renewed,2024-12,permits,140,1,140.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,40.0,revision,o-17e1de50fb
 GRC,grc-golden-visa,residence_permits_renewed,2025-12,permits,131,1,131.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,22.5,revision,o-6c69fbd79b
 GRC,grc-golden-visa,residence_permits_renewed,2025-12,permits,169,1,169.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,22.5,revision,o-64c6364f4e
+GRD,grd-cbi,applications_received,2023-04,applications,145,1,145.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,17.6,revision,o-ac05a0bd56
+GRD,grd-cbi,applications_received,2023-04,applications,176,1,176.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,17.6,revision,o-ff9ca72a6a
+GRD,grd-cbi,applications_received,2023-Q2,applications,501,1,501.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,5.8,revision,o-69b3c58a43
+GRD,grd-cbi,applications_received,2023-Q2,applications,532,1,532.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,5.8,revision,o-b410508a16
+GRD,grd-cbi,applications_received [route=donation],2023-04,applications,59,1,59.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,15.7,revision,o-fc67549240
+GRD,grd-cbi,applications_received [route=donation],2023-04,applications,70,1,70.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,15.7,revision,o-7f5401f9bc
+GRD,grd-cbi,applications_received [route=donation],2023-05,applications,65,1,65.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,5.8,revision,o-f4e6ce9df7
+GRD,grd-cbi,applications_received [route=donation],2023-05,applications,69,1,69.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,5.8,revision,o-58c72ac56b
+GRD,grd-cbi,applications_received [route=donation],2023-Q2,applications,198,1,198.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,7.0,revision,o-42f6451cc9
+GRD,grd-cbi,applications_received [route=donation],2023-Q2,applications,213,1,213.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,7.0,revision,o-d942c658fc
+GRD,grd-cbi,applications_received [route=real_estate],2023-04,applications,86,1,86.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,18.9,revision,o-8b61ce6352
+GRD,grd-cbi,applications_received [route=real_estate],2023-04,applications,106,1,106.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,18.9,revision,o-2ba2c9698f
+GRD,grd-cbi,applications_received [route=real_estate],2023-05,applications,103,1,103.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,3.7,revision,o-4e1920e90e
+GRD,grd-cbi,applications_received [route=real_estate],2023-05,applications,107,1,107.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,3.7,revision,o-be9a82eb60
+GRD,grd-cbi,applications_received [route=real_estate],2023-Q2,applications,303,1,303.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,5.0,revision,o-d3a9e88788
+GRD,grd-cbi,applications_received [route=real_estate],2023-Q2,applications,319,1,319.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,5.0,revision,o-40ad9529d6
 GRD,grd-cbi,applications_rejected,2024,applications,34,1,34.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,63.4,conflict,o-9f67244a26
 GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,63.4,conflict,o-af70bd5b55
 GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,63.4,conflict,o-6c06f88902
+GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,61.1,million,61100000.0,reported,grd-imf-art4-2025,International Monetary Fund,2026-01,3.1,conflict,o-cd3c911398
+GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,63065172.00,1,63065172.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,3.1,conflict,o-27121f9ffc
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3100000,1,3100000.0,provisional,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-464a1aabee
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3.4,million,3400000.0,actual,grd-imf-art4-2019,International Monetary Fund,2019-07,8.8,conflict,o-9a9ac90506
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,8437500,1,8437500.0,budget,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-7f0ae37e70
@@ -517,6 +535,58 @@ GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,0.6,1,0.6,estimate,gr
 GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,3.6,1,3.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,83.3,revision,o-38712a5786
 GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,12.0,1,12.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.4,revision,o-c87be382da
 GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,14.7,1,14.7,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.4,revision,o-84bce4e99e
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-04,XCD,231120,1,231120.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,89.6,revision,o-cce554559a
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-04,XCD,2214000,1,2214000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,89.6,revision,o-e437dbfe23
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-05,XCD,104085,1,104085.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,93.6,revision,o-0a836c86e9
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-05,XCD,1620000,1,1620000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,93.6,revision,o-db6900804b
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-06,XCD,131220,1,131220.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,94.6,revision,o-22edd21313
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-06,XCD,2430000,1,2430000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,94.6,revision,o-b01229be91
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-Q2,XCD,466425,1,466425.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,92.6,revision,o-d122b56753
+GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-Q2,XCD,6264000,1,6264000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,92.6,revision,o-27d6d5d662
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-04,XCD,6667075,1,6667075.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-c22b706110
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-04,XCD,6696340,1,6696340.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-2583ae1ba3
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-05,XCD,5494463,1,5494463.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-799ce04ecd
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-05,XCD,5518581,1,5518581.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-04bcead268
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-06,XCD,5863865,1,5863865.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-0e3ae6cf7e
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-06,XCD,5889605,1,5889605.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-e6dfc7e10d
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-Q2,XCD,18025403,1,18025403.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-211d105544
+GRD,grd-cbi,cbi_fund_payments [category=ntf_operating_expenses],2023-Q2,XCD,18104526,1,18104526.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-17cfe7955a
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-04,XCD,7864225,1,7864225.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,72.7,revision,o-9fcb2571e4
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-04,XCD,28807075,1,28807075.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,72.7,revision,o-fd69745fda
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-05,XCD,6803646,1,6803646.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,68.6,revision,o-2d6aa5d769
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-05,XCD,21694463,1,21694463.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,68.6,revision,o-22348262c3
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-06,XCD,7481255,1,7481255.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,75.2,revision,o-175521b70f
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-06,XCD,30163865,1,30163865.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,75.2,revision,o-c2150aa4dd
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-Q2,XCD,22149126,1,22149126.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,72.5,revision,o-9870051833
+GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-Q2,XCD,80665403,1,80665403.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,72.5,revision,o-1ebaa88091
+GRD,grd-cbi,cbi_inflows,2023-01/2023-04,XCD,315900000,1,315900000.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,6.5,revision,o-331fcf7385
+GRD,grd-cbi,cbi_inflows,2023-01/2023-04,XCD,337999447,1,337999447.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,6.5,revision,o-4b3b7e6a6f
+GRD,grd-cbi,cbi_inflows,2023-01/2023-05,XCD,433350000,1,433350000.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,6.0,revision,o-784d8721ca
+GRD,grd-cbi,cbi_inflows,2023-01/2023-05,XCD,460882366,1,460882366.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,6.0,revision,o-e18697b209
+GRD,grd-cbi,cbi_inflows,2023-01/2023-06,XCD,538650000,1,538650000.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,5.9,revision,o-ef1533d8b2
+GRD,grd-cbi,cbi_inflows,2023-01/2023-06,XCD,572691297,1,572691297.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,5.9,revision,o-73f03955c8
+GRD,grd-cbi,cbi_inflows,2023-04,XCD,94607864,1,94607864.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.0,revision,o-f9d70f383e
+GRD,grd-cbi,cbi_inflows,2023-04,XCD,94617819,1,94617819.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-f28e524882
+GRD,grd-cbi,cbi_inflows,2023-05,XCD,122882919,1,122882919.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.0,revision,o-3e8f563158
+GRD,grd-cbi,cbi_inflows,2023-05,XCD,122906768,1,122906768.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-da6acc1cb7
+GRD,grd-cbi,cbi_inflows,2023-06,XCD,111808931,1,111808931.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.0,revision,o-6dfe8fc829
+GRD,grd-cbi,cbi_inflows,2023-06,XCD,111837503,1,111837503.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-89f08ff831
+GRD,grd-cbi,cbi_inflows,2023-Q2,XCD,329299715,1,329299715.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.0,revision,o-c69c6fd38c
+GRD,grd-cbi,cbi_inflows,2023-Q2,XCD,329362089,1,329362089.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-b88777f0c4
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-04,XCD,22099447,1,22099447.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-35e791b6a2
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-04,XCD,22196453,1,22196453.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-80dd5facee
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-05,XCD,27532366,1,27532366.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-006fb78581
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-05,XCD,27653221,1,27653221.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-7a829406ff
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-06,XCD,34041297,1,34041297.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-1eae1e212f
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-06,XCD,34190724,1,34190724.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-5bb36c7b14
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-04,XCD,2267864,1,2267864.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-215d776571
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-04,XCD,2277819,1,2277819.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-4a2f0d51ea
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-05,XCD,5432919,1,5432919.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-fa65b5fc62
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-05,XCD,5456768,1,5456768.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-89c74d2ba0
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-06,XCD,6508931,1,6508931.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-42abb290a1
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-06,XCD,6537503,1,6537503.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-f0625ec942
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-Q2,XCD,14209715,1,14209715.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-5f77c80e66
+GRD,grd-cbi,cbi_inflows [category=related_fees],2023-Q2,XCD,14272089,1,14272089.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-0c39a41c20
 GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,4,1,4.0,estimate,grd-imf-art4-2022,International Monetary Fund,2022-05,57.0,revision,o-956a833cc9
 GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,9.3,1,9.3,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,57.0,revision,o-efc1fdb97a
 GRD,grd-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,31.3,1,31.3,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.9,revision,o-3929404316
@@ -525,8 +595,26 @@ GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,29.6,1,29.6,estimate,grd-imf
 GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,31.2,1,31.2,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,5.1,revision,o-883af41271
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,10.2,1,10.2,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,8.1,vintage,o-1a7bb51cbb
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,11.1,1,11.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.1,vintage,o-b351fef4e6
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-04,XCD,936765,1,936765.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,95.3,revision,o-9b8daed2ac
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-04,XCD,19926000,1,19926000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,95.3,revision,o-bc769bde81
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-05,XCD,1180980,1,1180980.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,91.9,revision,o-3d10d15388
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-05,XCD,14580000,1,14580000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,91.9,revision,o-eddd4cc8f3
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-06,XCD,1460430,1,1460430.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,93.3,revision,o-19a3b78c7d
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-06,XCD,21870000,1,21870000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,93.3,revision,o-de5e5a7bb8
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-Q2,XCD,3578175,1,3578175.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,93.7,revision,o-c397ce5dd0
+GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-Q2,XCD,56376000,1,56376000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,93.7,revision,o-2f0b8d2ff4
+GRD,grd-cbi,persons_naturalised,2023-05,persons,75,1,75.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,87.1,revision,o-640a3d2978
+GRD,grd-cbi,persons_naturalised,2023-05,persons,580,1,580.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,87.1,revision,o-19be548f75
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,1031,1,1031.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,32.9,revision,o-99e3f078a1
 GRD,grd-cbi,persons_naturalised,2023-Q2,persons,1536,1,1536.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,32.9,revision,o-9d3bc4c0ce
+GRD,grd-cbi,persons_naturalised [route=donation],2023-05,persons,15,1,15.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,89.0,revision,o-a2acdd3394
+GRD,grd-cbi,persons_naturalised [route=donation],2023-05,persons,136,1,136.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,89.0,revision,o-b5c0a65f7d
+GRD,grd-cbi,persons_naturalised [route=donation],2023-Q2,persons,259,1,259.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,31.8,revision,o-a100ed408b
+GRD,grd-cbi,persons_naturalised [route=donation],2023-Q2,persons,380,1,380.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,31.8,revision,o-87326618ff
+GRD,grd-cbi,persons_naturalised [route=real_estate],2023-05,persons,60,1,60.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,86.5,revision,o-3b780f23c3
+GRD,grd-cbi,persons_naturalised [route=real_estate],2023-05,persons,444,1,444.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,86.5,revision,o-188a121446
+GRD,grd-cbi,persons_naturalised [route=real_estate],2023-Q2,persons,772,1,772.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,33.2,revision,o-4b4050f61a
+GRD,grd-cbi,persons_naturalised [route=real_estate],2023-Q2,persons,1156,1,1156.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,33.2,revision,o-de7f63b8fc
 HKG,hkg-cies,main_applicants_approved,2008,persons,129,1,129.0,actual,hkg-legco-lcq7-cies-2011,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2011-02-23,91.7,revision,o-40a155cf34
 HKG,hkg-cies,main_applicants_approved,2008,persons,1547,1,1547.0,actual,hkg-legco-lcq12-cies-2010-annex,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2010-05-05,91.7,revision,o-57e8f580ca
 HKG,hkg-cies,main_applicants_approved,2009,persons,217,1,217.0,actual,hkg-legco-lcq7-cies-2011,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2011-02-23,91.7,revision,o-1560ce9f4f
@@ -766,10 +854,27 @@ LCA,lca-cbi,applications_rejected,FY2022/23,applications,6,1,6.0,actual,lca-ciu-
 LCA,lca-cbi,applications_rejected,FY2022/23,applications,8,1,8.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,25.0,revision,o-9c5975cbe7
 LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,42295519,1,42295519.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-7eeb302e24
 LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,47695500,1,47695500.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-2e7e48c1be
+LCA,lca-cbi,cbi_fee_revenue,FY2015/16,XCD,542700,1,542700.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,4.7,vintage,o-d691166b5f
+LCA,lca-cbi,cbi_fee_revenue,FY2015/16,XCD,569747,1,569747.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,4.7,vintage,o-90936d1a84
+LCA,lca-cbi,cbi_fee_revenue [category=agent_licence_fees],FY2015/16,XCD,135000,1,135000.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,34.6,vintage,o-45ac810e86
+LCA,lca-cbi,cbi_fee_revenue [category=agent_licence_fees],FY2015/16,XCD,206289,1,206289.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,34.6,vintage,o-f89ff817c0
+LCA,lca-cbi,cbi_fee_revenue [category=application_fees_authorised_agents],FY2015/16,XCD,13500,1,13500.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,37.5,vintage,o-7c3cc2f577
+LCA,lca-cbi,cbi_fee_revenue [category=application_fees_authorised_agents],FY2015/16,XCD,21596,1,21596.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,37.5,vintage,o-8b5671874e
+LCA,lca-cbi,cbi_fee_revenue [category=application_fees_promoters],FY2015/16,XCD,2696,1,2696.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,60.1,vintage,o-7aadd82eb8
+LCA,lca-cbi,cbi_fee_revenue [category=application_fees_promoters],FY2015/16,XCD,6750,1,6750.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,60.1,vintage,o-e85838b21e
+LCA,lca-cbi,cbi_fee_revenue [category=due_diligence_fees],FY2015/16,XCD,60750,1,60750.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,55.0,vintage,o-3876d32143
+LCA,lca-cbi,cbi_fee_revenue [category=due_diligence_fees],FY2015/16,XCD,135000,1,135000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,55.0,vintage,o-3b1435d13f
+LCA,lca-cbi,cbi_fee_revenue [category=marketing_agent_licence_fees],FY2015/16,XCD,162000,1,162000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,33.3,vintage,o-c04dd0fb1a
+LCA,lca-cbi,cbi_fee_revenue [category=marketing_agent_licence_fees],FY2015/16,XCD,243000,1,243000.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,33.3,vintage,o-07e31a13d4
+LCA,lca-cbi,cbi_fee_revenue [category=processing_fees],FY2015/16,XCD,16200,1,16200.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,14.3,vintage,o-596bac2c89
+LCA,lca-cbi,cbi_fee_revenue [category=processing_fees],FY2015/16,XCD,18900,1,18900.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,14.3,vintage,o-830e15bb20
+LCA,lca-cbi,cbi_fee_revenue [category=promoter_licence_fees],FY2015/16,XCD,23267,1,23267.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,65.5,vintage,o-6efb3bb77e
+LCA,lca-cbi,cbi_fee_revenue [category=promoter_licence_fees],FY2015/16,XCD,67500,1,67500.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,65.5,vintage,o-d9a1443390
 LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0,1,0.0,estimate,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,100.0,vintage,o-f79ac21319
 LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,12000000,1,12000000.0,budget,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,100.0,vintage,o-b9d931e57a
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,3.6,million,3600000.0,estimate,lca-imf-art4-2017,International Monetary Fund,2017-03,39.3,conflict,o-640ac804a9
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-art4-2018,International Monetary Fund,2018-06,39.3,conflict,o-4a37b35ae5
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,39.3,conflict,o-a7f8bd3b47
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5935546,1,5935546.0,estimate,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,39.3,conflict,o-8c26c09e42
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5935546,1,5935546.0,actual,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,39.3,conflict,o-b3f7af154d
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,16.0,million,16000000.0,budget,lca-imf-art4-2017,International Monetary Fund,2017-03,39.3,conflict,o-d389250610
@@ -778,6 +883,7 @@ LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,16.0,million,16000000.0,projection,
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,21408825,1,21408825.0,estimate,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,23.1,conflict,o-fee53cb6d6
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,estimate,lca-imf-art4-2018,International Monetary Fund,2018-06,23.1,conflict,o-67c98083a6
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,23.1,conflict,o-74b45c4d84
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,23.1,conflict,o-50394f53a1
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27828246,1,27828246.0,actual,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,23.1,conflict,o-43a29a2d08
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43.0,million,43000000.0,budget,lca-imf-art4-2018,International Monetary Fund,2018-06,23.1,conflict,o-c519db9c10
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43011200,1,43011200.0,budget,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,23.1,conflict,o-3268f39c97
@@ -785,6 +891,7 @@ LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29.0,million,29000000.0,projection,
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29032560,1,29032560.0,budget,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,0.9,conflict,o-2a471cd01e
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,66373417,1,66373417.0,estimate,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,0.9,conflict,o-8239c8a1dd
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,0.9,conflict,o-1e94f0c096
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,0.9,conflict,o-354d307c28
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67000716,1,67000716.0,actual,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,0.9,conflict,o-71c13db400
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,4.4,million,4400000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,85.5,conflict,o-31087cd8b9
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,28107819,1,28107819.0,estimate,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,85.5,conflict,o-c7e134f470
@@ -795,8 +902,34 @@ LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,65549069,1,65549069.0,budget,lca-mo
 LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-e7bb911a3d
 LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,22.7,million,22700000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,vintage,o-63dda6c317
 LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,vintage,o-226a6a03d3
-LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,32.5,million,32500000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,50.0,vintage,o-bf11165eb6
-LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,65.0,million,65000000.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,50.0,vintage,o-e89fb18b67
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,41.5,vintage,o-3aa82f6134
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,provisional,lca-imf-art4-2022,International Monetary Fund,2022-11,41.5,vintage,o-f95e17866e
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,41.5,vintage,o-77a394d3f0
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,61.5,vintage,o-1b4551cf26
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,32.5,million,32500000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,61.5,vintage,o-bf11165eb6
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,65.0,million,65000000.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,61.5,vintage,o-e89fb18b67
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,56.0,vintage,o-6e02ce3440
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,56.8,million,56800000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,56.0,vintage,o-c8069af3e1
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.5,1,0.5,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,16.7,revision,o-61f4d5a581
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.6,1,0.6,estimate,lca-imf-art4-2018,International Monetary Fund,2018-06,16.7,revision,o-1a88342e8e
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,1.2,1,1.2,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,7.7,revision,o-6d58bdb88a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,1.3,1,1.3,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,7.7,revision,o-ad147e86b1
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,50.0,vintage,o-a0d5efcaaa
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.8,1,0.8,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,50.0,vintage,o-470740cc62
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,60.0,vintage,o-fdd7b92fe4
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,1.0,1,1.0,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,60.0,vintage,o-af335cc48a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,42.9,vintage,o-68f8e9cae8
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,42.9,vintage,o-f36cb8cec8
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,42.9,vintage,o-3c65c6535a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,50.0,vintage,o-dd4ecc4a53
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.8,1,0.8,estimate,lca-imf-art4-2024,International Monetary Fund,2025-03,50.0,vintage,o-e3565acfaf
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.8,1,0.8,estimate,lca-imf-art4-2025,International Monetary Fund,2026-01,50.0,vintage,o-33d322aa7b
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,60.0,vintage,o-95a2307aaa
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,60.0,vintage,o-7af0d5b57b
+LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,669,thousand,669000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,1.5,revision,o-216309bc63
+LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,678883,1,678883.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,1.5,revision,o-a9426ddcad
+LCA,lca-cbi,cbi_fund_payments [category=ciu_program_costs],FY2015/16,XCD,495,thousand,495000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,7.3,revision,o-4cca19765b
+LCA,lca-cbi,cbi_fund_payments [category=ciu_program_costs],FY2015/16,XCD,533738,1,533738.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,7.3,revision,o-7621f8c8b4
 LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,160901673.36,1,160901673.36,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-5ebed2a385
 LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,187568616,1,187568616.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-90edb4a6c8
 LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,27828246,1,27828246.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-1c0963998b
@@ -812,6 +945,8 @@ LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XC
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XCD,35500000,1,35500000.0,estimate,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,1.4,vintage,o-39ece03d41
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,2661825,1,2661825.0,actual,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,95.9,vintage,o-ad421eec2a
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,65000000,1,65000000.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,95.9,vintage,o-a19248c1d6
+LCA,lca-cbi,cbi_unit_revenue,FY2015/16,XCD,269634,1,269634.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,52.7,revision,o-9a27301ed8
+LCA,lca-cbi,cbi_unit_revenue,FY2015/16,XCD,570000,1,570000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,52.7,revision,o-d5a4175d95
 LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18621151,1,18621151.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.5,revision,o-3ed95b9b05
 LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,22858260,1,22858260.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.5,revision,o-879889e072
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.3,conflict,o-7d17947da8

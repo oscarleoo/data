@@ -76,3 +76,22 @@ says what was done to it.
 - Every existing number in the 17 maps was re-read against the PDF text and two OCR passes; none changed.
   The maps print only the top five nationalities, so no full nationality table exists in these documents.
 - April 2023: the two real-estate amounts add to €0.20 more than the printed total (already noted on the row).
+
+### Grenada, St Lucia, Dominica, Antigua (pass `extract-grd-lca-dma-atg`)
+- 19 documents reviewed: 16 complete, 3 partial.
+- Added 1,058 numbers, 27 rules and fees, 5 events. Grenada Ministry of Finance quarterly sheets
+  (2019 Q4, 2022 Q4, 2023 Q1-Q4) and investment-migration sheets (2024 Q4, 2025 Q4) now extracted in
+  full: every month and quarter, every row. Also St Lucia annual reports 2015-16 and 2016-17, IMF papers
+  on Grenada, St Lucia and Dominica, the 2024 Grenada regulations (18 rules), St Lucia 2017 regulations,
+  and Antigua's 2017 "disparities" web page (16 rows, by country of origin).
+- Partial:
+  - St Lucia 2016-17: charts on pp. 6, 11, 12 have no readable values; the approved-projects table
+    (costs, jobs, rooms) has no matching measure yet; agent licence counts not recorded.
+  - St Lucia 2015-16: project costs, per-application values, agent counts not recorded.
+  - IMF working paper 15/93: one PDF stored under three ids (Dominica, St Kitts, international);
+    only Dominica's part extracted here; the rest is to be done once under the international id.
+- Tables that did not add up (noted on the rows): Grenada 2023 Q2 first version (year-to-date total
+  leaves out fees; the second version adds up), 2022 Q4 (leaves out "Other fees"), several EC$1 and
+  one-cent rounding gaps; St Lucia 2015-16 fees 569,748 vs printed 569,747.
+- Proposed indicator `cbi_due_to_government` (amounts due to government, calculated by the
+  government from approvals, not cash received).
