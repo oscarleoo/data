@@ -3024,13 +3024,56 @@ USA,usa-eb5,rule_impact_estimate [category=transfers_fee_change],FY2026-FY2035,U
 USA,usa-eb5,rule_impact_estimate [category=transfers_fee_change],FY2026-FY2035,USD,488.55,million,488550000.0,projection,usa-fr-eb5-fee-rule-2026,Department of Homeland Security (Federal Register),2026-09-30,90.0,same_source,o-24df220546
 VUT,vut-cbi,applications_received,2022,applications,682,1,682.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,22.1,same_source,o-30c6a723d0
 VUT,vut-cbi,applications_received,2022,applications,875,1,875.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,22.1,same_source,o-c8551e8657
+VUT,vut-cbi,cbi_fee_revenue,2020,VUV,105120134,1,105120134.0,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,83.4,vintage,o-711c97e053
+VUT,vut-cbi,cbi_fee_revenue,2020,VUV,633113827,1,633113827.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,83.4,vintage,o-634324f2bc
+VUT,vut-cbi,cbi_fee_revenue,2021,VUV,275000000,1,275000000.0,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,64.2,vintage,o-7d1d9fd66d
+VUT,vut-cbi,cbi_fee_revenue,2021,VUV,768723071,1,768723071.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,64.2,vintage,o-694fa62d50
+VUT,vut-cbi,cbi_fee_revenue,2022,VUV,400000000,1,400000000.0,budget,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,3.5,vintage,o-ca7ed1b923
+VUT,vut-cbi,cbi_fee_revenue,2022,VUV,414636631,1,414636631.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,3.5,vintage,o-4c2b55c08a
+VUT,vut-cbi,cbi_fee_revenue,2023,VUV,222810282,1,222810282.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,44.3,vintage,o-80bb2ce35e
+VUT,vut-cbi,cbi_fee_revenue,2023,VUV,400000000,1,400000000.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,44.3,vintage,o-f6597fdc93
+VUT,vut-cbi,cbi_fee_revenue,2024-H1,VUV,61247676,1,61247676.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,77.6,vintage,o-5cbb394c43
+VUT,vut-cbi,cbi_fee_revenue,2024-H1,VUV,273585539,1,273585539.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,77.6,vintage,o-12ae6bbd39
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2020,VUV,1488421,1,1488421.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,8.0,vintage,o-87af6f4a41
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2020,VUV,1617598,1,1617598.0,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,8.0,vintage,o-4b1df7545f
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2021,VUV,1388542,1,1388542.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,27.7,vintage,o-bdc2865dbc
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2021,VUV,1919799,1,1919799.0,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,27.7,vintage,o-ccb6e8f35b
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2022,VUV,797867,1,797867.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,47.9,vintage,o-5987e76a2d
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2022,VUV,1531616,1,1531616.0,budget,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,47.9,vintage,o-09f1259dfd
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2023,VUV,1151996,1,1151996.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,28.8,vintage,o-4280d7e9c0
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2023,VUV,1618392,1,1618392.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,28.8,vintage,o-c26ab6c8ee
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2024-H1,VUV,331014,1,331014.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,99.4,vintage,o-87218f2273
+VUT,vut-cbi,cbi_fee_revenue [category=application_charges_recoveries],2024-H1,VUV,59213874,1,59213874.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,99.4,vintage,o-220524cc3f
+VUT,vut-cbi,cbi_fee_revenue [category=citizenship_fees],2023,VUV,8545826,1,8545826.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,64.0,vintage,o-b176486b9a
+VUT,vut-cbi,cbi_fee_revenue [category=citizenship_fees],2023,VUV,23760045,1,23760045.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,64.0,vintage,o-aba1bfc97a
+VUT,vut-cbi,cbi_fee_revenue [category=citizenship_fees],2024-H1,VUV,10271345,1,10271345.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,93.6,vintage,o-685d134cbd
+VUT,vut-cbi,cbi_fee_revenue [category=citizenship_fees],2024-H1,VUV,160000000,1,160000000.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,93.6,vintage,o-c21642b3f7
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2019,VUV,19572000,1,19572000.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,23.6,vintage,o-c251a617f4
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2019,VUV,25620355,1,25620355.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,23.6,vintage,o-47556079fc
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2020,VUV,17150839,1,17150839.0,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,29.2,vintage,o-530abc6397
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2020,VUV,24216601,1,24216601.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,29.2,vintage,o-2199924bb2
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2021,VUV,608142,1,608142.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,97.6,vintage,o-2d275ce9d7
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2021,VUV,25400000,1,25400000.0,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,97.6,vintage,o-da268365b5
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2022,VUV,20739,1,20739.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,99.9,vintage,o-b0d5ddaa4d
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2022,VUV,20264120,1,20264120.0,budget,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,99.9,vintage,o-7f533e8b2f
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2023,VUV,80110,1,80110.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,99.5,vintage,o-204e0acf91
+VUT,vut-cbi,cbi_fee_revenue [category=other_fees],2023,VUV,16933448,1,16933448.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,99.5,vintage,o-bb2d5a900f
 VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,2028.5,million,2028500000.0,budget,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-0f22ea0f2b
 VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,3492.9,million,3492900000.0,provisional,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-8762b3b321
-VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6504.6,million,6504600000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-de82317455
-VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12191471678,1,12191471678.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,2.9,conflict,o-9b00abb359
-VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558,million,12558000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,2.9,conflict,o-b2c194c95f
-VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.2,million,12558200000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,2.9,conflict,o-c6726dd3ad
-VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.3,million,12558300000.0,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-d6fcbdd2d1
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,4452669500,1,4452669500.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,64.5,same_source,o-0f3e65b165
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6362669500,1,6362669500.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,64.5,same_source,o-a67e72d294
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6504.6,million,6504600000.0,budget,vut-mfem-hyefr-2019,Ministry of Finance and Economic Management,2019-07-31,64.5,same_source,o-ea02aa94b8
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6504.6,million,6504600000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,64.5,same_source,o-de82317455
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12191471678,1,12191471678.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,64.5,same_source,o-9b00abb359
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558,million,12558000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,64.5,same_source,o-b2c194c95f
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.2,million,12558200000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,64.5,same_source,o-c6726dd3ad
+VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,12558.3,million,12558300000.0,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,64.5,same_source,o-d6fcbdd2d1
+VUT,vut-cbi,cbi_fiscal_revenue,2019-12,VUV,886.3,million,886300000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,39.6,vintage,o-48275d0497
+VUT,vut-cbi,cbi_fiscal_revenue,2019-12,VUV,1466.7,million,1466700000.0,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,39.6,vintage,o-e076bd400c
+VUT,vut-cbi,cbi_fiscal_revenue,2019-H1,VUV,5364.6,million,5364600000.0,provisional,vut-mfem-hyefr-2019,Ministry of Finance and Economic Management,2019-07-31,0.1,revision,o-94ae6469e5
+VUT,vut-cbi,cbi_fiscal_revenue,2019-H1,VUV,5367.5,million,5367500000.0,provisional,vut-mfem-hyefr-2020,Ministry of Finance and Economic Management,2020,0.1,revision,o-311462c619
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,9000000000,1,9000000000.0,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,6.0,conflict,o-819b1c7130
+VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,9120.3,million,9120300000.0,budget,vut-mfem-hyefr-2020,Ministry of Finance and Economic Management,2020,6.0,conflict,o-46c4d17567
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,9120.3,million,9120300000.0,budget,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-a85445c51e
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,13491436604,1,13491436604.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,6.0,conflict,o-627aeb1c58
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14351.8,million,14351800000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,6.0,conflict,o-9823820ed4
@@ -3039,6 +3082,10 @@ VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14352,million,14352000000.0,estimate,vut
 VUT,vut-cbi,cbi_fiscal_revenue,2020,VUV,14354.1,million,14354100000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,6.0,conflict,o-00386cb14b
 VUT,vut-cbi,cbi_fiscal_revenue,2020-12,VUV,1183.5,million,1183500000.0,budget,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,7.6,vintage,o-7687b33c74
 VUT,vut-cbi,cbi_fiscal_revenue,2020-12,VUV,1280.8,million,1280800000.0,provisional,vut-mfem-monthly-2020-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020-12,7.6,vintage,o-c6006a7fa1
+VUT,vut-cbi,cbi_fiscal_revenue,2020-H1,VUV,7094.2,million,7094200000.0,provisional,vut-mfem-hyefr-2020,Ministry of Finance and Economic Management,2020,0.6,revision,o-5d0c1db212
+VUT,vut-cbi,cbi_fiscal_revenue,2020-H1,VUV,7135.8,million,7135800000.0,provisional,vut-mfem-hyefr-2021,Ministry of Finance and Economic Management,2021,0.6,revision,o-56f47ba349
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11249355658,1,11249355658.0,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,9.5,conflict,o-207aa2cb76
+VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11549.4,million,11549400000.0,budget,vut-mfem-hyefr-2021,Ministry of Finance and Economic Management,2021,9.5,conflict,o-a511884ee1
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11549.4,million,11549400000.0,budget,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,9.5,conflict,o-16ce21f756
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11647,million,11647000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.5,conflict,o-494674a4e9
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,11647,million,11647000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,9.5,conflict,o-760be282de
@@ -3048,12 +3095,16 @@ VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,12851.0,million,12851000000.0,provisiona
 VUT,vut-cbi,cbi_fiscal_revenue,2021,VUV,12871.4,million,12871400000.0,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.5,conflict,o-3471426878
 VUT,vut-cbi,cbi_fiscal_revenue,2021-12,VUV,1381.7,million,1381700000.0,budget,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,1.7,vintage,o-2cafd52c9f
 VUT,vut-cbi,cbi_fiscal_revenue,2021-12,VUV,1405.2,million,1405200000.0,provisional,vut-mfem-monthly-2021-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021-12,1.7,vintage,o-1949d82057
+VUT,vut-cbi,cbi_fiscal_revenue,2021-H1,VUV,5652.5,million,5652500000.0,provisional,vut-mfem-hyefr-2021,Ministry of Finance and Economic Management,2021,0.0,revision,o-55b85e7a09
+VUT,vut-cbi,cbi_fiscal_revenue,2021-H1,VUV,5654.2,million,5654200000.0,provisional,vut-mfem-hyefr-2022,Ministry of Finance and Economic Management,2022,0.0,revision,o-137caf0155
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,7663.2,million,7663200000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,9.7,conflict,o-0caac6fac2
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,7924407151,1,7924407151.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,9.7,conflict,o-d51d3e5553
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,8482,million,8482000000.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,9.7,conflict,o-1adbbe43a2
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,8482,million,8482000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,9.7,conflict,o-d293e8ed38
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,8482,million,8482000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,9.7,conflict,o-0ca7f8f7ce
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,8483.1,million,8483100000.0,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.7,conflict,o-fc4ebd1711
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,9161807211,1,9161807211.0,budget,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,9.7,conflict,o-32a3fc636d
+VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,9659.6,million,9659600000.0,budget,vut-mfem-hyefr-2022,Ministry of Finance and Economic Management,2022,9.7,conflict,o-3cec738128
 VUT,vut-cbi,cbi_fiscal_revenue,2022,VUV,9659.6,million,9659600000.0,budget,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,9.7,conflict,o-99e7f4b706
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,7004,million,7004000000.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,16.6,conflict,o-9ae714c8ca
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,7004,million,7004000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,16.6,conflict,o-f98d6aa7ed
@@ -3061,30 +3112,87 @@ VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,7133,million,7133000000.0,projection,vut
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,7517226501,1,7517226501.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,16.6,conflict,o-510a1654dd
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,8115.0,million,8115000000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,16.6,conflict,o-db8e5ae811
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,8399.1,million,8399100000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,16.6,conflict,o-f9ad975f55
+VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,8612902334,1,8612902334.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,16.6,conflict,o-dfea1ac540
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,9112.9,million,9112900000.0,budget,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,16.6,conflict,o-66f76ba21d
+VUT,vut-cbi,cbi_fiscal_revenue,2023-12,VUV,324.9,million,324900000.0,provisional,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,70.2,vintage,o-7464063cfe
+VUT,vut-cbi,cbi_fiscal_revenue,2023-12,VUV,1090.2,million,1090200000.0,budget,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,70.2,vintage,o-00fdffe267
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,3936,million,3936000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,0.6,conflict,o-9e9725a3d3
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,6053,million,6053000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,0.6,conflict,o-844734f001
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,8221362335,1,8221362335.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,0.6,conflict,o-c9d523268d
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9339,million,9339000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,0.6,conflict,o-f61d3f8fc1
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9390.7,million,9390700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,0.6,conflict,o-dd7f69f9e9
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9399.2,million,9399200000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,0.6,conflict,o-a5eb07e841
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,10,billion,10000000000.0,projection,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,0.6,conflict,o-ae166b7dd8
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,10983.8,million,10983800000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,0.6,conflict,o-ad8746c7db
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,10983.8,million,10983800000.0,budget,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,0.6,conflict,o-31bc49ed13
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,11303.8,million,11303800000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,0.6,conflict,o-9974662309
-VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,2057855613,1,2057855613.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,39.1,conflict,o-2368d2d66f
-VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3381.7,million,3381700000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,39.1,conflict,o-8a33e57d20
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,6202,million,6202000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,57.9,vintage,o-5246a71121
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7471,million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,57.9,vintage,o-7f6d7b69a5
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,57.9,vintage,o-a280ba5905
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,57.9,vintage,o-dc3b2d7333
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7729.7,million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,57.9,vintage,o-4166c17480
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,14732.7,million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,57.9,vintage,o-9cef5dabb0
+VUT,vut-cbi,cbi_fiscal_revenue,2024-06,VUV,901.3,million,901300000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,22.7,vintage,o-6adfb04260
+VUT,vut-cbi,cbi_fiscal_revenue,2024-06,VUV,1165.5,million,1165500000.0,budget,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,22.7,vintage,o-6b488c71a8
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,2057855613,1,2057855613.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,39.2,conflict,o-2368d2d66f
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3381.7,million,3381700000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,39.2,conflict,o-8a33e57d20
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3384.8,million,3384800000.0,provisional,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,39.2,conflict,o-4063b51f29
+VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3570231499,1,3570231499.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,39.2,conflict,o-e8398ddf5b
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,3530,million,3530000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,76.0,same_source,o-3f178f27cc
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,6202,million,6202000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,76.0,same_source,o-5246a71121
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7,billion,7000000000.0,projection,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,76.0,same_source,o-ea684dda3d
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7471,million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,76.0,same_source,o-7f6d7b69a5
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,76.0,same_source,o-a280ba5905
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,76.0,same_source,o-f9c56106e1
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,76.0,same_source,o-ef7f160be5
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,76.0,same_source,o-dc3b2d7333
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7729.7,million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,76.0,same_source,o-4166c17480
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,14732.7,million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,76.0,same_source,o-9cef5dabb0
+VUT,vut-cbi,cbi_fiscal_revenue,2025-06,VUV,747.1,million,747100000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,70.6,vintage,o-af29e5049e
+VUT,vut-cbi,cbi_fiscal_revenue,2025-06,VUV,2538.3,million,2538300000.0,provisional,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,70.6,vintage,o-b94b3ffacd
 VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,618.3,million,618300000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-a5dc3c7174
 VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,887.3,million,887300000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-7042a8a964
-VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,6263,million,6263000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,59.6,vintage,o-1b748f80e1
-VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,59.6,vintage,o-2fc5e4eb33
-VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,59.6,vintage,o-0bf3c3c5fd
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,12.3,1,12.3,reported,intl-ec-com-2024-366,European Commission,2024-05-31,10.2,conflict,o-074cefd964
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,10.2,conflict,o-e8fd7fa183
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,10.2,conflict,o-1fb4393d48
+VUT,vut-cbi,cbi_fiscal_revenue,2025-H1,VUV,9123.2,million,9123200000.0,provisional,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,3.1,same_source,o-632acac612
+VUT,vut-cbi,cbi_fiscal_revenue,2025-H1,VUV,9406.6,million,9406600000.0,provisional,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,3.1,same_source,o-62cbb06b1d
+VUT,vut-cbi,cbi_fiscal_revenue,2025-H1,VUV,9413.1,million,9413100000.0,provisional,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,3.1,same_source,o-3a0780d1e2
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,3665,million,3665000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,76.4,vintage,o-3a06bd8ecb
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,6263,million,6263000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,76.4,vintage,o-1b748f80e1
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,6271,million,6271000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,76.4,vintage,o-54d4a33e2a
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,76.4,vintage,o-2fc5e4eb33
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,76.4,vintage,o-0bf3c3c5fd
+VUT,vut-cbi,cbi_fiscal_revenue,2026-06,VUV,423.3,million,423300000.0,provisional,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,47.8,vintage,o-d998f0b049
+VUT,vut-cbi,cbi_fiscal_revenue,2026-06,VUV,811.4,million,811400000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,47.8,vintage,o-ad330f0593
+VUT,vut-cbi,cbi_fiscal_revenue,2027,VUV,3819,million,3819000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,42.5,vintage,o-575491bb88
+VUT,vut-cbi,cbi_fiscal_revenue,2027,VUV,6594,million,6594000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,42.5,vintage,o-3706ff75a8
+VUT,vut-cbi,cbi_fiscal_revenue,2027,VUV,6646,million,6646000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,42.5,vintage,o-eae196026e
+VUT,vut-cbi,cbi_fiscal_revenue,2028,VUV,3994,million,3994000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,43.1,vintage,o-2f555f4bd8
+VUT,vut-cbi,cbi_fiscal_revenue,2028,VUV,6923,million,6923000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,43.1,vintage,o-5db38d9f78
+VUT,vut-cbi,cbi_fiscal_revenue,2028,VUV,7018,million,7018000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,43.1,vintage,o-5ec110b6f6
+VUT,vut-cbi,cbi_fiscal_revenue,2029,VUV,4157,million,4157000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,42.6,vintage,o-3ba1073c55
+VUT,vut-cbi,cbi_fiscal_revenue,2029,VUV,7241,million,7241000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,42.6,vintage,o-757162867b
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019,VUV,6372500000,1,6372500000.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,47.8,same_source,o-5c5031a36a
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019,VUV,6382241500,1,6382241500.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,47.8,same_source,o-728a260bac
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019,VUV,6472241500,1,6472241500.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,47.8,same_source,o-10f6829dfc
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019,VUV,6.5,billion,6500000000.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,47.8,same_source,o-61278237e8
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019,VUV,12219040804,1,12219040804.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,47.8,same_source,o-5561302132
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-03,VUV,1006462777,1,1006462777.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,58.3,vintage,o-cc35888f8f
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-03,VUV,2413128734,1,2413128734.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,58.3,vintage,o-e0b5b99c9e
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-06,VUV,2630961394,1,2630961394.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,50.0,vintage,o-c4da8b6861
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-06,VUV,5267076314,1,5267076314.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,50.0,vintage,o-1d5b02fe62
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-09,VUV,3972145640,1,3972145640.0,budget,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,53.7,vintage,o-fab368d5fe
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2019-01/2019-09,VUV,8577437450,1,8577437450.0,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,53.7,vintage,o-4561aaabe2
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2020,VUV,9018768437,1,9018768437.0,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,33.3,vintage,o-14b564a17d
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2020,VUV,13518997456,1,13518997456.0,provisional,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,33.3,vintage,o-2f488bb866
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2021,VUV,11276675457,1,11276675457.0,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,4.9,vintage,o-0a1a521c99
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2021,VUV,11854691161,1,11854691161.0,provisional,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,4.9,vintage,o-085ee12ad2
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2022,VUV,7936159308,1,7936159308.0,provisional,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,13.6,vintage,o-700217bf79
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2022,VUV,9183602947,1,9183602947.0,budget,vut-mfem-ca-revenue-2022,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022,13.6,vintage,o-f12ee29891
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2023,VUV,7751222871,1,7751222871.0,provisional,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,10.3,vintage,o-e239936083
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2023,VUV,8640000000,1,8640000000.0,budget,vut-mfem-ca-revenue-2023,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023,10.3,vintage,o-72eb2d09dc
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2024-H1,VUV,2961814235,1,2961814235.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,48.9,vintage,o-f3e0790cc9
+VUT,vut-cbi,cbi_fiscal_revenue [category=citizenship_office_total],2024-H1,VUV,5791487932,1,5791487932.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,48.9,vintage,o-a375fd4b30
+VUT,vut-cbi,cbi_fiscal_revenue_change_pct,2019,percent,24.5,1,24.5,provisional,vut-mfem-coc-revenue-2019,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,4.3,revision,o-5240dea761
+VUT,vut-cbi,cbi_fiscal_revenue_change_pct,2019,percent,25.6,1,25.6,provisional,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,4.3,revision,o-d5f6cbc4e9
+VUT,vut-cbi,cbi_fiscal_revenue_change_pct,2022,percent,-34.1,1,-34.1,provisional,vut-mfem-monthly-2022-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2022-12,26.3,conflict,o-60c7af5063
+VUT,vut-cbi,cbi_fiscal_revenue_change_pct,2022,percent,-27,1,-27.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,26.3,conflict,o-62518ba04a
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,12.3,1,12.3,reported,intl-ec-com-2024-366,European Commission,2024-05-31,12.1,conflict,o-074cefd964
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,12.1,conflict,o-e8fd7fa183
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,12.1,conflict,o-1fb4393d48
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,14,1,14.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,12.1,conflict,o-0abd001103
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,10.2,1,10.2,reported,intl-ec-com-2024-366,European Commission,2024-05-31,8.9,conflict,o-629a1dac6f
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.0,1,11.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,8.9,conflict,o-5d3021aa08
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,8.9,conflict,o-b077a2c0e7
@@ -3101,7 +3209,29 @@ VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,2.9,1,2.9,projection,
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,4.6,1,4.6,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,58.6,vintage,o-56450a02e1
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-2b16549235
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-fb28a2a537
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.4,1,4.4,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,18.5,vintage,o-77fc3beccc
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.4,1,5.4,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,18.5,vintage,o-4b1330b641
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,53.7,vintage,o-54e89064d1
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.4,1,4.4,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,53.7,vintage,o-77fc3beccc
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.4,1,5.4,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,53.7,vintage,o-4b1330b641
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,41.9,vintage,o-e02df67d3d
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,4.2,1,4.2,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,41.9,vintage,o-0c8dcc3c0d
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-2d562b09d4
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,41.9,vintage,o-2de87a2966
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,4.2,1,4.2,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,41.9,vintage,o-b7c64628c2
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-64ec362e43
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,41.9,vintage,o-08e41f9022
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,4.2,1,4.2,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,41.9,vintage,o-d7ba975af6
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-f6fa4a82d8
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,41.9,vintage,o-ccfc43f51f
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-eddb6850c5
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,30.6,1,30.6,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,7.3,vintage,o-61c113b91f
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,7.3,vintage,o-e1e6e05a88
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,7.3,vintage,o-be686e2176
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,7.3,vintage,o-234de258f1
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,30.6,1,30.6,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,7.3,vintage,o-5d48e5c1dc
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,33,1,33.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,7.3,vintage,o-7008f08211
+VUT,vut-cbi,cbi_programme_costs [category=citizenship_commission_appropriation],2026,VUV,77.0,million,77000000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,6.1,vintage,o-dc6521344b
+VUT,vut-cbi,cbi_programme_costs [category=citizenship_commission_appropriation],2026,VUV,82.0,million,82000000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,6.1,vintage,o-0b0c6d0e49
 VUT,vut-cbi,passports_issued,2015-2021,passports,10000,1,10000.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-228ff37f79
 VUT,vut-cbi,passports_issued,2015-2021,passports,10524,1,10524.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-b9d970841f
+VUT,vut-ciip,cbi_fiscal_revenue,2024-H1,VUV,893356263,1,893356263.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,52.1,vintage,o-9b217a0dde
+VUT,vut-ciip,cbi_fiscal_revenue,2024-H1,VUV,1864000000,1,1864000000.0,budget,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,52.1,vintage,o-6b35380c2d

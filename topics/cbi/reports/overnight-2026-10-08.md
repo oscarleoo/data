@@ -507,3 +507,16 @@ says what was done to it.
   renewal payment (2018), 2026 renewal payments.
 - **Decision needed:** zero cells by country not stored (thousands of rows; a missing row means 0 in that
   table). Store them, or leave as is?
+
+### Vanuatu, batch 2 (pass `extract-cbi-vut2`)
+- 20 documents reviewed: all complete.
+- Added 155 numbers, 1 event: Constitutional Agencies revenue reports 2020-2024 (Citizenship Office
+  totals and budgets, programme fees, share of the national revenue budget, investment-plan fees not taken
+  before); Citizenship Office 2019 report; Treasury December and half-year updates 2019-2026; budget books
+  2025-2026; IMF 2024 and 2025 projections; Ireland ending visa-free travel (March 2024).
+- Documents contradict themselves (all recorded with notes): the 2019 Citizenship Office report prints three
+  office budgets and two fee budgets; first-half figures are revised in the following year's update; the 2025
+  half-year update gives two first-half totals and two budgets.
+- **Decisions needed:** new fee-line splits that may include ordinary citizenship fees; a possibly mislabelled
+  "Honorary Citizenship Program Fees" line in 2021; the Citizenship Commission's whole budget filed as
+  programme costs.
