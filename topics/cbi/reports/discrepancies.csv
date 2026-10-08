@@ -133,6 +133,9 @@ COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,co
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,estimate,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef
 COM,com-ecp,passports_issued,2008-2017,passports,47950,1,47950.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,0.1,conflict,o-2f5a85790a
 COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-reuters-2018-03-23,Reuters,2018-03-23,0.1,conflict,o-e5f6e475d8
+DMA,dma-cbi,applications_rejected,2023,applications,180,1,180.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,14.3,same_source,o-74c55bada9
+DMA,dma-cbi,applications_rejected,2023,applications,210,1,210.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,14.3,same_source,o-9348108c33
+DMA,dma-cbi,applications_rejected,2023,applications,210,1,210.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,14.3,same_source,o-1ae283e0c2
 DMA,dma-cbi,cbi_fiscal_revenue,FY2012/13,XCD,26000000,1,26000000.0,budget,dma-mof-estimates-2013-14,"Ministry of Finance, Commonwealth of Dominica",2013-07,1.4,conflict,o-185c5c1fb0
 DMA,dma-cbi,cbi_fiscal_revenue,FY2012/13,XCD,50000000,1,50000000.0,estimate,dma-mof-estimates-2013-14,"Ministry of Finance, Commonwealth of Dominica",2013-07,1.4,conflict,o-694c90eecd
 DMA,dma-cbi,cbi_fiscal_revenue,FY2012/13,XCD,50.7,million,50700000.0,estimate,dma-imf-art4-2018,International Monetary Fund,2018-09-05,1.4,conflict,o-c3250a9f83
@@ -1454,6 +1457,8 @@ USA,usa-eb5,conditions_removal_petitions_received,FY2025,applications,4394,1,439
 USA,usa-eb5,conditions_removal_petitions_received,FY2025,applications,4402,1,4402.0,actual,usa-uscis-data-allforms-fy2025q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2026-03,0.2,conflict,o-b63e5248c2
 USA,usa-eb5,investor_funds_misappropriated,2016-04-14,USD,50,million,50000000.0,claim,usa-sec-pr-2016-69,U.S. Securities and Exchange Commission,2016-04-14,75.0,same_source,o-dbeb5f9426
 USA,usa-eb5,investor_funds_misappropriated,2016-04-14,USD,200,million,200000000.0,claim,usa-sec-pr-2016-69,U.S. Securities and Exchange Commission,2016-04-14,75.0,same_source,o-937f191e3f
+VUT,vut-cbi,applications_received,2022,applications,682,1,682.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,22.1,same_source,o-30c6a723d0
+VUT,vut-cbi,applications_received,2022,applications,875,1,875.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,22.1,same_source,o-c8551e8657
 VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,2028.5,million,2028500000.0,budget,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-0f22ea0f2b
 VUT,vut-cbi,cbi_fiscal_revenue,2017,VUV,3492.9,million,3492900000.0,provisional,vut-mfem-monthly-2017-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2017-12,41.9,vintage,o-8762b3b321
 VUT,vut-cbi,cbi_fiscal_revenue,2019,VUV,6504.6,million,6504600000.0,budget,vut-mfem-monthly-2019-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2019-12,2.9,conflict,o-de82317455
@@ -1509,15 +1514,23 @@ VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,618.3,million,618300000.0,budget,vut-
 VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,887.3,million,887300000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-7042a8a964
 VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,20.2,vintage,o-2fc5e4eb33
 VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,20.2,vintage,o-0bf3c3c5fd
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.0,1,11.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,1.8,revision,o-5d3021aa08
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,1.8,revision,o-b077a2c0e7
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,1.8,revision,o-5a16fffe31
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,6.7,revision,o-3ed1c51962
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.2,1,7.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,6.7,revision,o-5dfe7b2cdd
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.5,1,7.5,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,6.7,revision,o-940ec18b09
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.3,1,5.3,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,1.9,revision,o-1586a0061a
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.4,1,5.4,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,1.9,revision,o-503e4686ec
-VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.8,1,5.8,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,1.9,revision,o-9721600d22
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,12.3,1,12.3,reported,intl-ec-com-2024-366,European Commission,2024-05-31,10.2,conflict,o-074cefd964
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,10.2,conflict,o-e8fd7fa183
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,10.2,conflict,o-1fb4393d48
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,10.2,1,10.2,reported,intl-ec-com-2024-366,European Commission,2024-05-31,8.9,conflict,o-629a1dac6f
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.0,1,11.0,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,8.9,conflict,o-5d3021aa08
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,8.9,conflict,o-b077a2c0e7
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,11.2,1,11.2,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,8.9,conflict,o-5a16fffe31
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,5.3,1,5.3,reported,intl-ec-com-2024-366,European Commission,2024-05-31,29.3,conflict,o-21271bdc55
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,29.3,conflict,o-3ed1c51962
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.2,1,7.2,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,29.3,conflict,o-5dfe7b2cdd
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,7.5,1,7.5,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,29.3,conflict,o-940ec18b09
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.3,1,5.3,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,3.6,conflict,o-1586a0061a
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.4,1,5.4,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,3.6,conflict,o-503e4686ec
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.5,1,5.5,reported,intl-ec-com-2024-366,European Commission,2024-05-31,3.6,conflict,o-41d7572a8b
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.8,1,5.8,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,3.6,conflict,o-9721600d22
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,2.9,1,2.9,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,58.6,vintage,o-c384f4ecb4
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-2b16549235
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-fb28a2a537
+VUT,vut-cbi,passports_issued,2015-2021,passports,10000,1,10000.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-228ff37f79
+VUT,vut-cbi,passports_issued,2015-2021,passports,10524,1,10524.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-b9d970841f

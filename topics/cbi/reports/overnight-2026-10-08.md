@@ -330,3 +330,25 @@ says what was done to it.
   staffing have no measure yet.
 - **Decisions needed:** a proposed `rbi_investment_share` indicator; one event about the March 2026
   measure now appears twice (from two sources).
+
+### Second reading, batches i1-i3 and x1
+- CBI: 267 new numbers read blind (Grenada, St Kitts, Antigua, Malta, Hong Kong, other countries):
+  all agree or ruled, after the comparison script learned "nearly", brackets (outflows), "P" and "M".
+  Ruled: one target vs accomplishment; six more Philippine chart values with no printed unit (same
+  open question as above: inferred "thousand").
+- Whistleblowing: 24 new numbers (Canada, UK): all agree.
+- 0 open differences in either dataset.
+
+### International documents, batch 1 (pass `extract-cbi-intl1`)
+- 20 documents reviewed (European Commission reports on investor schemes 2019-2025, visa-free
+  monitoring reports, the EU Court case): 16 complete, 4 not applicable.
+- Added 72 numbers, 25 rules, 13 events. Notably: Vanuatu 2015-2021 from COM(2024) 366 (14,504
+  applications, 13,489 citizenships, 10,524 passports, 1,015 rejected or revoked; top nationalities);
+  Montenegro (109 decisions to 2021 by nationality; 2023: 701 naturalised, 396 Russian, 65 Chinese);
+  North Macedonia, Moldova; the US$200,000 Caribbean minimum; 87 Russian applications pending in Grenada
+  (September 2024); Bulgarian routes, EU application fees, adoption years of six EU schemes.
+- Took the items earlier passes left on the twin copies (Croatia, Cyprus; the Caribbean minimum and
+  Serbia's "more than 200" Russians naturalised).
+- **Decisions needed:** Dominica rejections printed as both "210 (2023)" and "180 (2023)" (the 180 is
+  probably 2024); Serbia has no programme in the dataset (row has none); Vanuatu lists "Republic of
+  Korea" among restricted countries (probably North Korea meant; recorded as printed).
