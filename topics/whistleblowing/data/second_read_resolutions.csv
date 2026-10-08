@@ -31,3 +31,8 @@ o-adb0460306,kor-acrc-pr-2021-01-01,first_correct,"Same number: 712억 1천여�
 o-52dc4ab5db,kor-acrc-pr-2024-07-18,first_correct,"Same number: 3억여만 원 = 30,000 ten thousand won.",claude (page text),2026-10-09
 o-155ac456b6,usa-sec-owb-ar-2023,first_correct,"Same number: printed in brackets ($292,509,162.40), recorded as negative.",claude (page text),2026-10-09
 o-6196b15c60,usa-sec-owb-ar-2024,first_correct,Same number: '$18 million' recorded as 18 with scale million.,claude (page text),2026-10-09
+o-e5e073a5ba,usa-nhtsa-wb-award-2021-0001,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
+o-b2732f74b1,usa-nhtsa-wb-award-2021-0001,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
+o-0bfc8d67ad,usa-nhtsa-wb-award-2021-0001,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
+o-f643200ee3,usa-scotus-digital-realty,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
+o-cca18c7c4a,usa-sec-owb-ar-2013,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09

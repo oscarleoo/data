@@ -1594,3 +1594,91 @@ o-1c27ad2bda,31,,1,FY 2025,PDF p. 2,"In FY 2025, the Commission granted awards i
 o-ceefcd6e7c,"($21,961,506.00)",,1,FY 2025,PDF p. 7,"Amount of receipts during the fiscal year that are unavailable ($21,961,506.00)",low,No line labelled sequestered; this line's footnote is the Budget Control Act temporary reduction (sequestration),claude-sonnet-5,2026-10-09,1,no
 o-576211f517,27%,,1,FY2025,PDF p. 4,Offering Fraud (27%),high,"Share of tips, percent",claude-sonnet-5,2026-10-09,1,no
 o-c0c18025b1,$1 Billion,,billion,,"HTML list row Sept. 15, 2021, Release 2021-177",SEC Surpasses $1 Billion in Awards to Whistleblowers with Two Awards Totaling $114 Million,low,"List only prints the headline: 'surpasses $1 Billion' (a threshold, not an exact cumulative total) and a separate $114 Million for two awards",claude-sonnet-5,2026-10-09,1,no
+o-7f34825ff7,181,,1,IRC section 7623(a),PDF p. 25,Taxpayer Appeals/Litigation 181 444 625,high,,claude-sonnet-5,2026-10-09,1,no
+o-ca24d5031f,"3,277",,1,Total,PDF p. 25,"Preliminary Award Evaluation 781 2,496 3,277",medium,"breakdown has no subsection; Total column used (7623a 781, 7623b 2,496)",claude-sonnet-5,2026-10-09,1,no
+o-9fc4e99d78,"1,385",,1,IRC section 7623(b),PDF p. 25,"Collection Suspense 2,774 1,385 4,159",high,,claude-sonnet-5,2026-10-09,1,no
+o-cb8717d76a,418,,1,,PDF p. 18,"In FY 2016, there were 418 awards totaling $61.4 million.",high,from text; Figure 3 itself is an image,claude-sonnet-5,2026-10-09,1,no
+o-5c65c3f9de,11%,,1,% of Total Closures,PDF p. 27,"Claim Denied - Issues Below Threshold for IRS Action 1,451 11%",high,"count 1,451",claude-sonnet-5,2026-10-09,1,no
+o-7d87453205,"2,496",,1,IRC section 7623(b),PDF p. 25,"Preliminary Award Evaluation 781 2,496 3,277",high,,claude-sonnet-5,2026-10-09,1,no
+o-d7b9b3959f,3,,1,,PDF p. 7 (printed p. 5),"only 12 of 227 full paid claims in 2007 involved collections of more than $2 million, and only 3 involved collections of more than $10 million",high,sentence starts on printed p.4 and ends p.5,claude-sonnet-5,2026-10-09,1,no
+o-a4057f486d,24,,1,,PDF p. 6 (printed p. 4),116 whistleblower submissions ... 24 of which alleged more than $10 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-a35b554a94,29,,1,,PDF p. 6 (printed p. 4),An additional 29 did not include a specific amount,high,,claude-sonnet-5,2026-10-09,1,no
+o-8f22691bbf,"$27,000,000",,1,,PDF p. 3,"Kia also agreed to a sum of twenty-seven million dollars ($27,000,000) Abeyance Amount",high,,claude-sonnet-5,2026-10-09,1,no
+o-e5e073a5ba,$27 million,,1,,PDF p. 7,Kia paid $27 million in civil penalties,high,"found on PDF p. 7 (also p. 3: Kia Non-Deferred Amount $27,000,000 paid)",claude-sonnet-5,2026-10-09,1,no
+o-6cffb1c410,"$54,000,000",,1,,PDF p. 3,"Hyundai agreed to pay fifty-four million dollars ($54,000,000) as a Non-Deferred Amount",high,,claude-sonnet-5,2026-10-09,1,no
+o-7bcad7cf94,"$16,000,000",,1,,PDF p. 3,"Kia ... sixteen million ($16,000,000) Performance Obligation Amount",high,,claude-sonnet-5,2026-10-09,1,no
+o-b2732f74b1,$210 million,,1,,PDF p. 7,entire amount of the civil penalties the automakers agreed to ... which totaled $210 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-0bfc8d67ad,$54 million,,1,,PDF p. 7,Hyundai paid $54 million in civil penalties,high,"found on PDF p. 7 (also p. 3 $54,000,000 Non-Deferred paid)",claude-sonnet-5,2026-10-09,1,no
+o-8c38a08b03,2,,1,,PDF p. 20,the Agency estimates that it would receive approximately 2 WB–AWARD forms each year,high,estimate of award claim forms per year (PRA),claude-sonnet-5,2026-10-09,1,no
+o-1c36d7dc1d,1,2,1,,PDF p. 20,will post approximately 1–2 such Notices each year,high,range 1-2; estimate,claude-sonnet-5,2026-10-09,1,no
+o-3976c73d51,50,,1,,PDF p. 19,there will be approximately 50 individuals per fiscal year who may wish to file such form,high,"estimate for WB-INFO forms; page per grep, see check",claude-sonnet-5,2026-10-09,1,no
+o-9313522523,14,,1,,PDF p. 9,the Commission has brought 14 enforcement actions or administrative proceedings involving violations of Rule 21F–17,high,footnote 50 (SEC data cited by NHTSA); period per SEC 2021 report,claude-sonnet-5,2026-10-09,1,no
+o-ef8aa177c0,99,,1,,PDF p. 20,"In FY 2021 alone, the Commission received whistleblower submissions from individuals in 99 foreign countries.",high,footnote 79 (SEC data); 99 foreign countries,claude-sonnet-5,2026-10-09,1,no
+o-8e645b4a22,2,,1,,PDF p. 29,the Agency estimates that it would receive approximately 2 WB–AWARD forms each year,high,estimate,claude-sonnet-5,2026-10-09,1,no
+o-ccdacc058e,130,,1,,PDF p. 20,the Commission has received whistleblower tips from individuals in approximately 130 countries outside the United States,medium,printed as 'approximately 130'; SEC figure quoted by NHTSA,claude-sonnet-5,2026-10-09,1,no
+o-12a5f43beb,1,2,1,,PDF p. 29,it will post approximately 1–2 such Notices each year,high,range 1-2,claude-sonnet-5,2026-10-09,1,no
+o-e55137706b,50,,1,,PDF p. 27,The Agency will receive approximately 50 WB–INFO forms,high,estimate of WB-INFO forms,claude-sonnet-5,2026-10-09,1,no
+o-32dacb9751,"$4,169,926.13",,1,,PDF p. 1,"$4,169,926.13 of these MFCU False Claims Act recoveries were returned to New York's Medicaid Program, instead of ... the federal government",high,"total recoveries printed $40,504,700.87",claude-sonnet-5,2026-10-09,1,no
+o-c284aa4195,"$11,407,656.45",,1,,PDF p. 2,"$11,407,656.45 of these MFCU False Claims Act recoveries were returned to New York's Medicaid Program",high,"total recoveries printed $114,076,564.58",claude-sonnet-5,2026-10-09,1,no
+o-8bfb974141,"$6,235,508.86",,1,,PDF p. 3,"$6,235,508.86 of these MFCU False Claims Act recoveries were returned to New York's Medicaid Program",high,"total recoveries printed $62,355,088.63",claude-sonnet-5,2026-10-09,1,no
+o-f643200ee3,80 percent,,1,,PDF p. 18,"approximately 80 percent of the whistleblowers who received awards in 2016 ""reported internally before reporting to the SEC""",high,printed 'approximately 80 percent',claude-sonnet-5,2026-10-09,1,no
+o-1357d8f2f0,"$175,000,000",,1,Total Amount Awarded (About),PDF p. 9,"2020 6,911 334 39 $175,000,000",high,"column is amount awarded ('About'), not explicitly paid",claude-sonnet-5,2026-10-09,1,no
+o-c758fe5047,"15,087",,1,,PDF p. 27,"for about 10 percent of the voicemails logged during this time (1,438 of 15,087)",medium,"voicemails logged on hotline FY2017-FY2021, not 'calls' strictly",claude-sonnet-5,2026-10-09,1,no
+o-f091a04262,209,,1,Claims Processed,PDF p. 17,Claims Processed 51 37 86 209 320,high,2020 column of Figure 4,claude-sonnet-5,2026-10-09,1,no
+o-d0a6b58c56,180,,1,Individuals Awarded,PDF p. 9,"Total 34,099 1,244 180 $1,017,000,000",high,,claude-sonnet-5,2026-10-09,1,no
+o-9f47fa7f9c,299,,1,,PDF p. 17,OWB processed 299 claims related to NoCAs that had posted 3 to 10 years prior,high,FYs 2020 and 2021 combined,claude-sonnet-5,2026-10-09,1,no
+o-4c2f4d8aea,"$564,000,000",,1,Total Amount Awarded (About),PDF p. 9,"2021 12,210 245 108 $564,000,000",high,column is amount awarded ('About'),claude-sonnet-5,2026-10-09,1,no
+o-2b8d606d5e,"$990,562.11",,1,FY 2011,PDF p. 11,"Amount of earnings on investments during preceding fiscal year $990,562.11 $0.00",high,,claude-sonnet-5,2026-10-09,1,no
+o-dd2767e26c,$0.00,,1,FY 2010,PDF p. 11,Amount disbursed to Office of the Inspector General ... $0.00 (FY2010),high,"FY2011 column shows ($112,372.44)",claude-sonnet-5,2026-10-09,1,no
+o-b0ba7713ee,2,,1,WA,PDF p. 14,"... TX 18, UT 2, VA 1, WA 2, WI 3",medium,read by position in single-row table; PDF p.14 per table position (Appendix B on same text page as listed),claude-sonnet-5,2026-10-09,1,no
+o-d15abb18ad,3,,1,Market Event,PDF p. 13,August 26 23 6 14 17 11 6 7 3 35 3 151,high,"column assigned by bbox x-position; Unregistered offerings 7, Market Event 3",claude-sonnet-5,2026-10-09,1,no
+o-c51de11809,7,,1,Unregistered offerings,PDF p. 13,August 26 23 6 14 17 11 6 7 3 35 3 151,high,column assigned by bbox x-position,claude-sonnet-5,2026-10-09,1,no
+o-e074309bc2,34,,1,CA,PDF p. 14,"AK 1, AR 2, AZ 7, CA 34",medium,Appendix B covers 8/12/2011-9/30/2011,claude-sonnet-5,2026-10-09,1,no
+o-8ac669a037,7,,1,Trading and Pricing,PDF p. 13,"12-Mar row: ... Insider 15, Trading and Pricing 7, FCPA 17 ...",medium,"table is a JPEG image, read cell by cell with OCR and cross-checked: the column of 12 monthly values sums to the printed column total 144",claude-sonnet-5,2026-10-09,1,no
+o-cd4585801d,16,,1,Insider Trading,PDF p. 13,12-Feb row: 47 33 42 16 13 12 ...,high,"image table, OCR by cell; Insider column of 12 months sums to printed total 190",claude-sonnet-5,2026-10-09,1,no
+o-bf7c59efa2,46,,1,Other,PDF p. 13,12-Jul row: 52 40 36 23 11 6 5 16 2 46 8 245,medium,"image table, OCR by cell, digits checked visually in pixel dump; column total of Other not reconciled by me (one other month possibly misread)",claude-sonnet-5,2026-10-09,1,no
+o-ec4aa1b2e8,23,,1,Insider Trading,PDF p. 13,12-Jul row: 52 40 36 23 11 ...,high,"image table, OCR by cell; column sums to printed total 190",claude-sonnet-5,2026-10-09,1,no
+o-563ed515a4,7,,1,FCPA,PDF p. 13,"11-Nov row, FCPA column: 7",high,"image table, OCR by cell; FCPA column of 12 months sums to printed total 115; Trading and Pricing cell in that row was unreadable, not used",claude-sonnet-5,2026-10-09,1,no
+o-f80d1fdc6a,61,,1,NV,PDF p. 14,NV 61 (2.4%),medium,"image table, OCR by cell; percent row reads 2.4 which is consistent with 61 of 2,507",claude-sonnet-5,2026-10-09,1,no
+o-9133eee0cf,55,,1,,PDF p. 25,VA 55,high,,claude-sonnet-5,2026-10-09,1,no
+o-cca18c7c4a,fifty-five (55),,1,,PDF p. 14,"In Fiscal Year 2013 alone, the Commission received whistleblower submissions from individuals in fifty-five (55) foreign countries",high,55 foreign countries in FY2013; 68 countries since start of program,claude-sonnet-5,2026-10-09,1,no
+o-ba6700c9b9,144,,1,Trading and Pricing (2012 bar),PDF p. 24,Trading and Pricing: 2012 bar label 144 (2013 bar 196),high,"bar-to-column assignment by order of labels, matches 2012 report figure 144",claude-sonnet-5,2026-10-09,1,no
+o-cd6d611a02,190,,1,Insider Trading (2012 bar),PDF p. 24,Insider Trading: 2012 bar label 190 (2013 bar 196),high,"assigned by label order; 2012 values 547,465,457,190,144 match the FY2012 report column totals",claude-sonnet-5,2026-10-09,1,no
+o-b10216f88d,49,,1,,PDF p. 25,AZ 49,high,,claude-sonnet-5,2026-10-09,1,no
+o-d49ebd3689,20,,1,,PDF p. 25,IN 20,high,,claude-sonnet-5,2026-10-09,1,no
+o-5fb9370a92,85,,1,Market Event (2012 bar),PDF p. 31,2012 bar labels ... 100 (Unregistered) 85 (Market Event) 64 (Municipal),medium,"chart labels; assigned by order, matches 85 in the FY2012 report",claude-sonnet-5,2026-10-09,1,no
+o-84bfd34ab9,5,,1,,PDF p. 32,DE 5,high,,claude-sonnet-5,2026-10-09,1,no
+o-8e2905bc35,457,,1,Manipulation (2012 bar),PDF p. 31,465 (Offering Fraud) 457 (Manipulation) bars 2012,medium,"assigned by order, matches FY2012 report",claude-sonnet-5,2026-10-09,1,no
+o-57c382c373,465,,1,Offering Fraud (2012 bar),PDF p. 31,2012 bar label 465,medium,"assigned by order, matches FY2012 report",claude-sonnet-5,2026-10-09,1,no
+o-31849cfd22,83,,1,,PDF p. 27,"Since the beginning of the whistleblower program, the Commission has received whistleblower tips from individuals in 83 countries outside the United States.",high,,claude-sonnet-5,2026-10-09,1,no
+o-63e82b09ee,7%,,1,,PDF p. 24,NOV. 7%,medium,pie chart for FY2014 months; Nov 2013 is the second month of FY2014,claude-sonnet-5,2026-10-09,1,no
+o-3bb6e0959a,97,,1,Blank (2014 bar),PDF p. 31,"Blank group bar labels 131, 84, 97, 114 (2012-2015)",medium,chart labels assigned by order and by agreement with FY2014 report (97),claude-sonnet-5,2026-10-09,1,no
+o-3c3f4acd4f,"$437,795,774.92",,1,FY 2015,PDF p. 30,"Balance of Fund at beginning of fiscal year $437,795,774.92",high,,claude-sonnet-5,2026-10-09,1,no
+o-3bd684af66,9,,1,,PDF p. 32,NH 9,high,,claude-sonnet-5,2026-10-09,1,no
+o-f38639ca72,8%,,1,,PDF p. 24,DEC. 8%,high,pie chart for FY2015 months; Dec 2014 is the third month of FY2015,claude-sonnet-5,2026-10-09,1,no
+o-356870dc13,"3,620",,1,,PDF p. 24,"FY2014 3,620",high,,claude-sonnet-5,2026-10-09,1,no
+o-fed45563fc,17,,1,,PDF p. 32,KS 17,high,,claude-sonnet-5,2026-10-09,1,no
+o-d14c25e414,239,,1,FL,PDF p. 36,FL 239,medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-65cbaa2ab1,5,,1,MT,PDF p. 36,MT 5,medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-eaa8c34e48,4,,1,NE,PDF p. 36,NE 4,medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-f0ea968869,52,,1,MD,PDF p. 36,MD 52 (OCR read the label as MO; sits between MA 75 and ME 3),medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-73089f4b1d,2,,1,VT,PDF p. 36,VT 2,medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-a04642b0e0,19,,1,OK,PDF p. 36,OK 19,medium,Appendix B bar chart is an image; read by OCR at two scales (identical); state label in alphabetical sequence,claude-sonnet-5,2026-10-09,1,no
+o-80e05b351a,28,,1,,PDF p. 36,DC 28,high,,claude-sonnet-5,2026-10-09,1,no
+o-36ea239a5d,6,,1,,PDF p. 36,WV 6,high,,claude-sonnet-5,2026-10-09,1,no
+o-532c69233d,334,,1,,PDF p. 27,FY2011 334 ...,high,table is on PDF p. 27 (printed p. 23 per task note not matching); only seven weeks of FY2011 data,claude-sonnet-5,2026-10-09,1,no
+o-aaf36cfbce,238,,1,FCPA (2016 bar),PDF p. 35,"FCPA group bar labels 159, 186, 238, 210 (2014-2017)",high,bars assigned to years by left-to-right order within group; 2016 is the third bar. Report notes FY2016-17 exclude tips from two individuals,claude-sonnet-5,2026-10-09,1,no
+o-91cbc0132c,150,,1,Unregistered Offerings (2015 bar),PDF p. 35,"Unregistered Offerings group bar labels 102, 150, 143, 144 (2014-2017)",high,bars assigned to years by left-to-right order within group,claude-sonnet-5,2026-10-09,1,no
+o-b0745e90e8,71,,1,,PDF p. 36,OH 71,high,,claude-sonnet-5,2026-10-09,1,no
+o-7bdb51dffc,345,,1,,PDF p. 37,NY 345,high,,claude-sonnet-5,2026-10-09,1,no
+o-9414308820,69%,,1,,PDF p. 21,approximately 69% of the award recipients to date were current or former insiders of the entity about which they reported,high,printed as 'approximately 69%',claude-sonnet-5,2026-10-09,1,no
+o-7578ad6ffe,74,,1,,PDF p. 37,OH 74,high,,claude-sonnet-5,2026-10-09,1,no
+o-d6912e03d8,"3,620",,1,,PDF p. 24,"FY2014 3,620",high,,claude-sonnet-5,2026-10-09,1,no
+o-497e2d8d2d,231,,1,Insider Trading (2017 bar),PDF p. 36,"Insider Trading group bar labels 273, 262, 231, 262 (2015-2018)",high,bars assigned to years by left-to-right order; 231 matches the FY2017 report,claude-sonnet-5,2026-10-09,1,no
+o-e215e9cd11,276,,1,,PDF p. 37,FL 276,high,,claude-sonnet-5,2026-10-09,1,no
+o-8e6ca4a9e5,33,,1,,PDF p. 36,WV 33,high,,claude-sonnet-5,2026-10-09,1,no
+o-de589cd3ed,262,,1,Insider Trading (2018 bar),PDF p. 35,"Insider Trading group bar labels 262, 231, 262, 222 (2016-2019)",high,bars assigned to years by left-to-right order; 2018 is third bar; matches FY2018 report (262),claude-sonnet-5,2026-10-09,1,no
+o-ee5da191f2,157,,1,Market Event (2018 bar),PDF p. 35,"Market Event group bar labels 102, 125, 157, 48 (2016-2019)",high,bars assigned to years by left-to-right order; matches FY2018 report,claude-sonnet-5,2026-10-09,1,no
+o-2181257b80,65,,1,,PDF p. 36,NC 65,high,,claude-sonnet-5,2026-10-09,1,no
+o-c9c5eb6426,60,,1,,PDF p. 36,VA 60,high,,claude-sonnet-5,2026-10-09,1,no
+o-ec312e35dd,333,,1,Trading and Pricing (2018 bar),PDF p. 35,"Trading and Pricing group bar labels 257, 271, 333, 201 (2016-2019)",high,bars assigned to years by left-to-right order; matches FY2018 report,claude-sonnet-5,2026-10-09,1,no
