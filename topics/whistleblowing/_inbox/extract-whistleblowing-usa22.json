@@ -1,0 +1,249 @@
+{
+ "slug": "extract-whistleblowing-usa22",
+ "researched_on": "2026-10-08",
+ "summary": "Batch usa22: three U.S. Code sections (APPS 33 U.S.C. 1908, NHTSA 49 U.S.C. 30172, CFTC 7 U.S.C. 26) and the Tax Court opinion in Whistleblower 21276-13W. Added missing rules and events; suggested corrections: APPS reward rules start in 1988 (not 1980), and the Tax Court case's award amount ($17,791,607) is printed in the opinion.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "usa-doj-apps",
+   "rule": "award_cap",
+   "valid_from": "1988-12-31",
+   "valid_to": "",
+   "value": "50",
+   "unit": "percent",
+   "applies_to": "civil penalties assessed by the Secretary or Administrator (1908(b)), paid to the person giving information leading to the assessment",
+   "source_id": "usa-uscode-33usc1908-2023",
+   "location": "33 U.S.C. 1908(b), closing sentence",
+   "quote": "An amount equal to not more than ½ of such penalties may be paid by the Secretary, or the Administrator as provided for in this chapter, to the person giving information leading to the assessment of such penalties.",
+   "notes": "Printed as '½'. Clause added by Pub. L. 100-220 (29 Dec 1987), effective 31 Dec 1988 per the effective-date note."
+  },
+  {
+   "program_id": "usa-doj-apps",
+   "rule": "discretionary",
+   "valid_from": "1988-12-31",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "civil-penalty awards by the Secretary or Administrator (1908(b))",
+   "source_id": "usa-uscode-33usc1908-2023",
+   "location": "33 U.S.C. 1908(b), closing sentence",
+   "quote": "An amount equal to not more than ½ of such penalties may be paid by the Secretary",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-nhtsa-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "2015-12-04",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "appeal of an award determination to a US court of appeals",
+   "source_id": "usa-uscode-49usc30172-2023",
+   "location": "49 U.S.C. 30172(h)(2)",
+   "quote": "may be appealed by a whistleblower to the appropriate court of appeals of the United States not later than 30 days after the determination is issued by the Secretary",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_min",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions collected in the action or related actions, in total",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(b)(1)(A)",
+   "quote": "not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_max",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions collected in the action or related actions, in total",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(b)(1)(B)",
+   "quote": "not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "discretionary",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "whether, to whom and in what amount awards are made (26(f)(1))",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(f)(1)",
+   "quote": "Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "anonymous_filing",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "anonymous award claim allowed if represented by counsel; identity disclosed before payment",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(d)(2)",
+   "quote": "Any whistleblower who anonymously makes a claim for an award under subsection (b) shall be represented by counsel if the whistleblower submits the information upon which the claim is based.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "appeal of an award determination to a US court of appeals",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(f)(2)",
+   "quote": "may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Commission",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "value": "2",
+   "unit": "years",
+   "applies_to": "retaliation action in district court: from the date of the violation (26(h)(1)(B)(iii))",
+   "source_id": "usa-uscode-7usc26-2023",
+   "location": "7 U.S.C. 26(h)(1)(B)(iii)",
+   "quote": "An action under this subsection may not be brought more than 2 years after the date on which the violation reported in subparagraph (A) is committed.",
+   "notes": "Unit years as printed. Relief is back pay with interest (single, not double)."
+  }
+ ],
+ "cases": [],
+ "events": [
+  {
+   "date": "1987-12-29",
+   "date_precision": "day",
+   "jurisdiction": "USA",
+   "program_id": "usa-doj-apps",
+   "category": "launch",
+   "title": "APPS reward clauses added (effective 31 Dec 1988)",
+   "description": "Pub. L. 100-220 added to 33 U.S.C. 1908 the court's power to pay up to half of a criminal fine, and the Secretary's power to pay up to half of a civil penalty, to the person whose information led to the conviction or penalty; effective 31 Dec 1988, when MARPOL Annex V entered into force for the United States.",
+   "source_id": "usa-uscode-33usc1908-2023",
+   "location": "Editorial notes, Amendments, 1987, and Effective Date of 1987 Amendment",
+   "quote": "Subsec. (a). Pub. L. 100–220, §2105(a)(1), inserted at end \"In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.\""
+  },
+  {
+   "date": "2014-12-18",
+   "date_precision": "day",
+   "jurisdiction": "USA",
+   "program_id": "usa-doj-apps",
+   "category": "rule_change",
+   "title": "Unpaid APPS penalties go to the Abandoned Seafarers Fund",
+   "description": "Pub. L. 113-281 added 1908(g): penalties not paid to informants are deposited in the Abandoned Seafarers Fund.",
+   "source_id": "usa-uscode-33usc1908-2023",
+   "location": "33 U.S.C. 1908(g) and Amendments, 2014",
+   "quote": "2014—Subsec. (g). Pub. L. 113–281 added subsec. (g)."
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "jurisdiction": "USA",
+   "program_id": "usa-irs-wbo",
+   "category": "legal",
+   "title": "Tax Court: Form 211 need not come first (Whistleblower 21276-13W, 144 T.C. 290)",
+   "description": "The Tax Court held the claims timely and that Form 211 does not have to be filed with the Whistleblower Office before the whistleblower gives information to other parts of the IRS or other agencies.",
+   "source_id": "usa-ustc-wb21276-13w-2016",
+   "location": "PDF p. 3",
+   "quote": "In that Opinion we held that Form 211 is not required to be filed with the Whistleblower Office before the whistleblower supplies information to other parts of the IRS or other Government agencies in order to be eligible for an award under section 7623(b)."
+  },
+  {
+   "date": "2016-03-14",
+   "date_precision": "day",
+   "jurisdiction": "USA",
+   "program_id": "usa-irs-wbo",
+   "category": "legal",
+   "title": "Tax Court: FBAR penalties do not count toward the $2 million threshold (Whistleblower 22716-13W, 146 T.C.)",
+   "description": "The Tax Court held that 'additional amounts' in 7623(b)(5)(B) means only Title 26 civil penalties, so FBAR penalties under Title 31 do not count toward the $2,000,000 threshold (later changed by the 2018 amendment).",
+   "source_id": "usa-ustc-wb21276-13w-2016",
+   "location": "PDF pp. 6 (n. 7) and 21-22",
+   "quote": "we determined that the wording in the threshold requirement of section 7623(b)(5)(B) (“if the tax, penalties, interest, additions to tax, and additional amounts in dispute exceed $2,000,000”) is different from that of section 7623(b)(1)"
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "suggested_corrections": [
+  {
+   "table": "program_rules.csv",
+   "id": "r-ab440a9fd0",
+   "field": "valid_from",
+   "value": "1988-12-31",
+   "reason": "The amendment notes of 33 U.S.C. 1908 show the reward sentence in 1908(a) was inserted by Pub. L. 100-220 (29 Dec 1987), effective 31 Dec 1988; it was not in the 1980 Act. (programs.csv usa-doj-apps launched=1980-10-21 is the APPS enactment, not the start of rewards; the main session may want to change it or say so in notes.)",
+   "by": "extract-whistleblowing-usa22"
+  },
+  {
+   "table": "program_rules.csv",
+   "id": "r-9c221921a7",
+   "field": "valid_from",
+   "value": "1988-12-31",
+   "reason": "The amendment notes of 33 U.S.C. 1908 show the reward sentence in 1908(a) was inserted by Pub. L. 100-220 (29 Dec 1987), effective 31 Dec 1988; it was not in the 1980 Act. (programs.csv usa-doj-apps launched=1980-10-21 is the APPS enactment, not the start of rewards; the main session may want to change it or say so in notes.)",
+   "by": "extract-whistleblowing-usa22"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-09fa31dc53",
+   "field": "award_amount",
+   "value": "17791607",
+   "reason": "The opinion states the award: 'we conclude that petitioners are entitled to a $17,791,607 (24% × $74,131,694) award under section 7623(b)' (PDF p. 33, printed p. 33). The existing row leaves award_amount empty.",
+   "by": "extract-whistleblowing-usa22"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-09fa31dc53",
+   "field": "notes",
+   "value": "Stipulated split (p. 5): tax restitution $20,000,001; criminal fine $22,050,000; civil forfeiture $15,821,000; relinquished forfeited funds $16,260,693. The Court held the fine and forfeitures ($32,081,693) are collected proceeds and concluded petitioners (husband and wife) are entitled to $17,791,607 (24% x $74,131,694) (PDF pp. 32-33). Target unnamed in the opinion.",
+   "reason": "Old note said the award amount was not stated in the opinion; it is (PDF p. 33).",
+   "by": "extract-whistleblowing-usa22"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-1d9bb6b7f1",
+   "field": "notes",
+   "value": "Described in 147 T.C. No. 4 (PDF pp. 21-23); the Tax Court decided Whistleblower 22716-13W on 14 Mar 2016 (146 T.C., cited p. 6 n. 7) and upheld the threshold reading. The 22716-13W opinion itself not read. The 2018 BBA later counted reporting-requirement penalties as proceeds.",
+   "reason": "Adds the decision date printed in the opinion (p. 6, n. 7: 'Mar. 14, 2016') and that the Court rejected the whistleblower's reading.",
+   "by": "extract-whistleblowing-usa22"
+  }
+ ],
+ "ledger": [
+  {
+   "source_id": "usa-uscode-33usc1908-2023",
+   "status": "complete",
+   "to_do": "",
+   "contains": "33 U.S.C. 1908 (Act to Prevent Pollution from Ships, penalties, 2023 ed.): class D felony with up to half of the fine payable to the informant at the court's discretion; civil penalties up to $25,000 per violation and $5,000 per false statement, up to half payable to the informant; abatement, in rem liability, clearance, referral to flag states, deposit of unpaid penalties in the Abandoned Seafarers Fund (2014); amendment notes 1987-2014. Already recorded: 50% of the criminal fine and the court's discretion. Added the 50% civil-penalty award and its discretionary flag, the 1987 launch and 2014 rule-change events, and a suggested correction of the existing rules' start date (rewards date from the 1987 amendment, effective 1988, not 1980). Penalty maxima per violation are not whistleblower rules and are not recorded."
+  },
+  {
+   "source_id": "usa-uscode-49usc30172-2023",
+   "status": "complete",
+   "to_do": "",
+   "contains": "49 U.S.C. 30172 (Motor Vehicle Safety Whistleblower Act, 2023 ed.): definitions (covered action over $1,000,000 in aggregate; whistleblower = employee or contractor of a manufacturer, parts supplier or dealer), discretionary awards of 10-30% of collected sanctions, criteria and denials (incl. failure to report internally), representation, confidentiality, false information, appeals within 30 days, regulations due within 18 months; rule-of-construction note. Already recorded: 10%, 30%, $1,000,000, discretionary, 2015 launch event. Added the 30-day appeal. The statute does not provide for anonymous claims (the 2024 rule does, already recorded). Nothing else in scope."
+  },
+  {
+   "source_id": "usa-uscode-7usc26-2023",
+   "status": "complete",
+   "to_do": "",
+   "contains": "7 U.S.C. 26 (Commodity Exchange Act sec. 23, 2023 ed.): definitions (covered action over $1,000,000), awards of 10-30% of collected sanctions, criteria and denials, anonymous claims through counsel, 30-day appeal, the Customer Protection Fund (awards and customer education; deposits unless the balance exceeds $100,000,000) and its annual report items, anti-retaliation (2-year limit, back pay), confidentiality incl. a FOIA study, rules due within 270 days, false information, no waiver; effective-date note. Already recorded: $1,000,000 and $100,000,000. Added 10% min, 30% max, discretionary, anonymous filing, 30-day appeal and the 2-year retaliation limit. The 2010 launch event exists from other sources."
+  },
+  {
+   "source_id": "usa-ustc-wb21276-13w-2016",
+   "status": "complete",
+   "to_do": "",
+   "contains": "Tax Court supplemental opinion, Whistleblower 21276-13W v. Commissioner, 147 T.C. No. 4 (3 Aug 2016, 33 pp.): husband and wife whistleblowers; earlier opinion (144 T.C. 290, 2015) held their claims timely; parties agreed a 24% award; the taxpayer paid $74,131,694 (restitution $20,000,001, fine $22,050,000, forfeitures $15,821,000 and $16,260,693); held that criminal fines and civil forfeitures are collected proceeds; award $17,791,607. Also discusses the 1867 origin of 7623(a), the 1996 amendment, IRM guidance and Whistleblower 22716-13W (146 T.C., FBAR penalties and the $2 million threshold). Already recorded: the award case (24%, $74,131,694), the 22716-13W denial case and the 2016 holding event; 1867 and 1996 events exist from other sources. Added two legal events (2015 Form 211 holding; 2016 FBAR threshold holding) and suggested corrections: award amount $17,791,607 on the existing case (the old note says it is not stated, but it is on p. 33), and a note update on the 22716-13W case."
+  }
+ ]
+}
