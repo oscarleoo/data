@@ -913,3 +913,69 @@ o-92d99974e9,"£473,000",,1,box 'Rewards for information',PDF p. 34 (printed p. 
 o-fc1b0bf036,approximately $2.5 billion,,billion,closing paragraph,HTML text,"Since 2000, the Texas Attorney General's Civil Medicaid Fraud Division has recovered approximately $2.5 billion",high,Printed as 'approximately $2.5 billion',claude-sonnet-5,2026-10-05,1,no
 o-e978bdd137,"$236,033,459.42",,1,FY 2020,PDF p. 5,"Total Amount Recovered $236,033,459.42",high,,claude-sonnet-5,2026-10-05,1,no
 o-59bed9b8e8,"$71,605,100",,1,FY 2025,PDF p. 4,"OAG HEALTHCARE PROGRAM ENFORCEMENT DIVISION ... Total Amount Recovered $71,605,100",high,,claude-sonnet-5,2026-10-05,1,no
+o-1e645b6748,7.5,,million,Note 6 text,PDF p. 20,"To date, $7.5 million has been paid to three whistleblowers on separate matters.",high,,claude-sonnet-5,2026-10-08,1,no
+o-44f8b82163,—,,1,"March 31, 2018",PDF p. 20,"Whistleblowers (7,499,000) —",high,"Comparative column March 31, 2018 prints a dash (nil)",claude-sonnet-5,2026-10-08,1,no
+o-7bd94793d6,three,,1,Note 6 text,PDF p. 20,paid to three whistleblowers on separate matters,high,number written as word: 3,claude-sonnet-5,2026-10-08,1,no
+o-f13a2342ea,8.0,,million,Note 6 text,PDF p. 21,"Since inception of the program in 2016, $8.0 million has been paid to whistleblowers.",high,,claude-sonnet-5,2026-10-08,1,no
+o-3e44666d5f,"(7,499,000)",,1,"March 31, 2019",PDF p. 21,"Payments to Whistleblowers (525,000) (7,499,000)",high,,claude-sonnet-5,2026-10-08,1,no
+o-cd00b7a27a,8.6,,million,Note 6 text,PDF p. 18,"Since inception of the program in 2016, $8.6 million has been paid to whistleblowers.",high,,claude-sonnet-5,2026-10-08,1,no
+o-3665addd03,"(525,000)",,1,"March 31, 2020",PDF p. 18,"Whistleblowers (585,000) (525,000)",high,,claude-sonnet-5,2026-10-08,1,no
+o-3680f53b6d,"(585,000)",,1,"March 31, 2021 (comparative)",PDF p. 18,"Whistleblowers (240,000) (585,000)",high,2022 statements; comparative column is 2021,claude-sonnet-5,2026-10-08,1,no
+o-de9fb351c9,"(240,000)",,1,"March 31, 2022 (comparative)",PDF p. 18,"Whistleblowers (481,092) (240,000)",high,in 2023 file,claude-sonnet-5,2026-10-08,1,no
+o-6b71614a1e,"(481,092)",,1,"March 31, 2023 (comparative)",PDF p. 21,"Whistleblowers (1,800,000) (481,092)",high,in 2024 file,claude-sonnet-5,2026-10-08,1,no
+o-5c4cf6764b,"(1,800,000)",,1,"March 31, 2024 (comparative)",PDF p. 27,"Whistleblowers (146,869) (1,800,000)",high,in 2025 file,claude-sonnet-5,2026-10-08,1,no
+o-8af7fdbf87,(147),,thousand,"March 31, 2025 (comparative)",PDF p. 22,Whistleblowers — (147),high,in thousands of dollars; 2026 file,claude-sonnet-5,2026-10-08,1,no
+o-8ae8f8d9c1,0,,1,Amount paid from Fund,PDF p. 5,Amount paid from Fund during the period to whistleblowers and on education initiatives $0,high,combined whistleblowers+education; no awards paid,claude-sonnet-5,2026-10-08,1,no
+o-2f35356ad2,$0,,1,"Balance at beginning of period commencing July 21, 2010",PDF p. 5,"Balance of the Fund at beginning of the period commencing July 21, 2010 $0",high,,claude-sonnet-5,2026-10-08,1,no
+o-742b6fe7bd,"$23,755,000",,1,Amounts deposited,PDF p. 5,"Amounts deposited into or credited to Fund during period July 21, 2010 through September 30, 2011 $23,755,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-1f6a637778,$0,,1,Earnings on investments,PDF p. 5,Amount of earnings on investments during the period $0,high,,claude-sonnet-5,2026-10-08,1,no
+o-6cadd12b8f,1,,1,text,PDF p. 22,úrad s navrhovaným úkonom súhlasil,medium,the single request (napomenutie) was consented to; stated in prose,claude-sonnet-5,2026-10-08,1,no
+o-1fae0900b3,6,,1,text,PDF p. 22,V 6 prípadoch sme asistovali pri žiadosti o tento status,medium,"assisted requests for protected status; of these 2 granted, 1 pending, 3 not obtained",claude-sonnet-5,2026-10-08,1,no
+o-741c5bbc98,1,,1,text,PDF p. 22,jednou žiadosťou zamestnávateľa o udelenie súhlasu,high,number written as word 'jednou',claude-sonnet-5,2026-10-08,1,no
+o-7f22d16e62,63,,1,text,PDF p. 20,Až 63 percent z týchto 32 prípadov,high,percent of the 32 cases in competence,claude-sonnet-5,2026-10-08,1,no
+o-7da24c1dc5,22,,1,text,PDF p. 20,V 22 percentách šlo o výpoveď či odvolanie z pozície,high,percent,claude-sonnet-5,2026-10-08,1,no
+o-733f9c781e,5,,1,text,PDF p. 22,asistovali v 5 prípadoch. O pozastavení účinnosti úrad rozhodol v 3 prípadoch,medium,5 cases assisted; authority decided in 3 cases,claude-sonnet-5,2026-10-08,1,no
+o-6fe6c490eb,72,,1,text,PDF p. 20,posudzovali 72 prípadov,high,,claude-sonnet-5,2026-10-08,1,no
+o-3d36f7800a,32,,1,text,PDF p. 20,32 spadalo do pôsobnosti úradu,high,,claude-sonnet-5,2026-10-08,1,no
+o-a84d764e48,1,,1,text,PDF p. 22,jeden prípad bol v čase písania výročnej správy stále otvorený,high,number written as word 'jeden',claude-sonnet-5,2026-10-08,1,no
+o-35a4b31b3c,2,,1,text,PDF p. 22,V 2 prípadoch ho oznamovatelia získali s asistenciou Úradu,high,,claude-sonnet-5,2026-10-08,1,no
+o-020435d5bd,2,,1,text,PDF p. 25,postúpil ÚOO hlavným kontrolórom dva prípady,high,'dva' = two; forwarded to chief controllers,claude-sonnet-5,2026-10-08,1,no
+o-5dcf455684,9,,1,text,PDF p. 25,úrad postúpil oznámenie na interné preverenie deväťkrát,high,'deväťkrát' = nine times,claude-sonnet-5,2026-10-08,1,no
+o-423c33d6f5,377,,1,text,PDF p. 18,"V priebehu roka 2022 sa na úrad obrátilo 377 ľudí, z toho volaní na infolinku bolo 157",high,377 people total; 157 helpline calls,claude-sonnet-5,2026-10-08,1,no
+o-9a18785976,220,,1,text,PDF p. 14,V roku 2022 sa úrad venoval 220 prípadom,high,96 within competence,claude-sonnet-5,2026-10-08,1,no
+o-c658d7402a,1,,1,text,PDF p. 37,bola vykonaná jedna kontrola,high,'jedna' = one,claude-sonnet-5,2026-10-08,1,no
+o-c0bccfb400,8,,1,text,PDF p. 15,Úrad v roku 2022 rozhodol o 8 žiadostiach o súhlas s pracovnoprávnym úkonom,high,decided 8 requests,claude-sonnet-5,2026-10-08,1,no
+o-e2341c60f8,2,,1,text,PDF p. 16,úrad dostal 2 žiadosti ... Obom žiadostiam ÚOO nevyhovel,high,both of 2 requests refused,claude-sonnet-5,2026-10-08,1,no
+o-cffa79c6e0,13,,1,text,PDF p. 22,V roku 2022 úrad eviduje 16 anonymných oznamovateľov. V 13 prípadoch podali anonymné oznámenie,medium,13 anonymous reports filed; 16 anonymous whistleblowers incl. 3 who only sought advice,claude-sonnet-5,2026-10-08,1,no
+o-dda11a0ab4,2,,1,text,PDF p. 16,V roku 2022 úrad dostal 2 žiadosti o pozastavenie účinnosti pracovnoprávneho úkonu,high,received 2,claude-sonnet-5,2026-10-08,1,no
+o-205b1ac7ec,4,,1,text,PDF p. 15,V štyroch prípadoch (výpovedí) bol zo strany úradu súhlas udelený,high,'štyroch' = four,claude-sonnet-5,2026-10-08,1,no
+o-6211f787c7,68,,1,text,PDF p. 13,"Zo 68 prípadov z roku 2023, kde figuroval oznamovateľ nezákonnej činnosti, došlo v 21 prípadoch k odvetným opatreniam",medium,68 cases with a whistleblower involved; 21 of them with retaliation (value 21 if breakdown meant retaliation present),claude-sonnet-5,2026-10-08,1,no
+o-9a7dfcc20a,3,,1,text,PDF p. 15,V troch prípadoch úrad udelil súhlas s výpoveďami,high,"of 7 requests: 3 consent, 2 refused, 2 unfinished",claude-sonnet-5,2026-10-08,1,no
+o-e07e6ec02f,96,,1,donut centre 2022,PDF p. 13,96 (centre of 2022 donut),high,total cases in competence 2022 as printed in chart centre; matches 2022 report text,claude-sonnet-5,2026-10-08,1,no
+o-856fe5edcc,533,,1,text,PDF p. 19,V priebehu roka 2023 sa na ÚOO obrátilo 533 ľudí,high,also on p. 13 'Na úrad sa obrátilo 533 ľudí',claude-sonnet-5,2026-10-08,1,no
+o-46d7d6db0b,35,,1,donut 2023 segment,PDF p. 13,35,medium,"segment colour (238,37,94) matches legend 'agenda ochrany'; segment values 71/95/35/8/2 sum 211",claude-sonnet-5,2026-10-08,1,no
+o-d1b600b231,28,,1,donut 2021 segment,PDF p. 13,28,medium,"segment colour (41,63,150) matches legend 'agenda externého WB'; 2021 segments 4/7/28, centre 38",claude-sonnet-5,2026-10-08,1,no
+o-eb9bfde263,1,,1,text,PDF p. 21,V roku 2023 boli úradu doručené dve žiadosti o odmenu ... Druhé konanie nebolo v danom roku ukončené,low,"interpretation: 2 reward applications, 1 refused, 1 still open at year end; no explicit count of open claims",claude-sonnet-5,2026-10-08,1,no
+o-b49e72c624,62,,1,text,PDF p. 13,Za rok 2023 bolo udelených 62 nových statusov chráneného oznamovateľa dokopy 57 oznamovateľom,high,62 statuses to 57 whistleblowers,claude-sonnet-5,2026-10-08,1,no
+o-26cffa7bc1,2,,1,text,PDF p. 15,V dvoch prípadoch súhlas neudelil,high,'dvoch' = two,claude-sonnet-5,2026-10-08,1,no
+o-c783ed4735,140,,1,Graf č. 2 bar total 2021,PDF p. 19,140,medium,total printed under 2021 bar (68 calls + 34 outside + 38 in competence); 2022 total 377 = people per text,claude-sonnet-5,2026-10-08,1,no
+o-eb218212c2,7 000,,1,text (EUR),PDF p. 32,udelené dve pokuty vo výške 7 000 eur a 2 000 eur,medium,first of two fines listed (7 000 EUR; second 2 000 EUR),claude-sonnet-5,2026-10-08,1,no
+o-0e66367181,339,,1,text,PDF p. 13,Celkovo bolo v roku 2024 vytvorených 339 spisov,high,files created,claude-sonnet-5,2026-10-08,1,no
+o-657596474d,74,,1,text,PDF p. 25,"180 podnetov, vrátane 17 podnetov týkajúcich sa odvetných opatrení a 74 o inej nezákonnej činnosti podľa zákona č. 54/2019",high,,claude-sonnet-5,2026-10-08,1,no
+o-e3d3005a5a,89,,1,Graf č. 2 'Spisy mimo pôsobnosti' 2024,PDF p. 21,89,medium,"middle stack segment of 2024 bar (top 166 calls, bottom 250 within); middle segment colour is unsaturated so identified by stack order matching 2022/2023",claude-sonnet-5,2026-10-08,1,no
+o-140d06e49d,282,,1,text,PDF p. 13,Do kompetencií úradu spadalo 282 vecí.,medium,text says 282; Graf č. 2 p. 21 prints 250 for 2024 'Spisy v pôsobnosti'. Total people 404,claude-sonnet-5,2026-10-08,1,no
+o-e3ca61b6f0,211,,1,Graf č. 2 'Spisy v pôsobnosti' 2023,PDF p. 21,211,high,"bottom dark blue segment, matches legend colour",claude-sonnet-5,2026-10-08,1,no
+o-6fa43b65f8,24,,1,text,PDF p. 25,Podiel anonymných oznamovateľov bol 24 %.,high,percent; also 55 anonymous tips,claude-sonnet-5,2026-10-08,1,no
+o-8949072f1a,4,,1,text,PDF p. 22,V roku 2024 tieto služby využili štyria oznamovatelia,high,'štyria' = four,claude-sonnet-5,2026-10-08,1,no
+o-dc97e237e6,17,,1,text,PDF p. 25,"180 podnetov, vrátane 17 podnetov týkajúcich sa odvetných opatrení",high,,claude-sonnet-5,2026-10-08,1,no
+o-f08f59226a,124,,1,Graf č. 2 'Spisy mimo pôsobnosti' 2022,PDF p. 21,124,medium,"middle stack segment of 2022 bar (157 top, 96 bottom); sums to 377",claude-sonnet-5,2026-10-08,1,no
+o-85eadcc31a,161,,1,text,PDF p. 29,Infolinka v roku 2025 zaznamenala 161 volaní,high,,claude-sonnet-5,2026-10-08,1,no
+o-e3fcb97343,8,,1,text,PDF p. 26,V roku 2025 úrad uložil 8 pokút v celkovej sume 122 200 eur,high,count of fines,claude-sonnet-5,2026-10-08,1,no
+o-8a9addc958,6,,1,text,PDF p. 24,V roku 2025 úrad začal celkovo šesť kontrol,high,'šesť' = six; started in 2025,claude-sonnet-5,2026-10-08,1,no
+o-6f273d90a0,173,,1,infographic bar 2023,PDF p. 17,2023 ... 173,medium,"chart 'Podnety, ktoré ÚOO prijal ako orgán príslušný na prijímanie externých oznámení': 2021 62, 2022 187, 2023 173, 2024 180, 2025 335; labels matched to year by vertical position",claude-sonnet-5,2026-10-08,1,no
+o-f344fcb2ff,335,,1,text,PDF p. 16,Z celkovo prijatých 335 podnetov,high,also on p. 17 infographic,claude-sonnet-5,2026-10-08,1,no
+o-ec0bd66a97,70 000,,1,text (EUR; '70-tisíc eur'),PDF p. 20,ďalšie tri pokuty vo výške 6-tisíc eur ... 18-tisíc eur ... a 70-tisíc eur (10 personálnych rozkazov voči 5 policajtom),low,"order=3 taken as third of the three 2025 fines (6k, 18k, 70k). If order counts the 2024 fine of 90k as first, then 3rd would be 18 000",claude-sonnet-5,2026-10-08,1,no
+o-8471e80d18,5,,1,text,PDF p. 20,Z 15 ukončených vecí v roku 2025 úrad sedemkrát súhlas udelil a päťkrát súhlas neudelil,high,"'päťkrát' = five times; 7 granted, rest (3) discontinued",claude-sonnet-5,2026-10-08,1,no
+o-c7399eb01c,12,,1,text,PDF p. 17,bolo podaných 18 trestných oznámení a 12 podaní bolo postúpených na správne orgány,medium,12 submissions forwarded to administrative bodies in cases the office tracks,claude-sonnet-5,2026-10-08,1,no
+o-5a915afa9b,2,,1,text,PDF p. 26,"boli úradu doručené tri žiadosti o odmenu, jednej žiadosti nevyhovel, pri dvoch ešte nebolo ukončené posudzovanie",low,2 reward applications still unassessed; no explicit year-end count of open claims,claude-sonnet-5,2026-10-08,1,no
+o-6bddc09b09,47,,1,text,PDF p. 16,"bolo vyhodnotených 47 podnetov ako oznámenia, ktoré spĺňajú podmienky zákona",high,of 138 presumed reports,claude-sonnet-5,2026-10-08,1,no
