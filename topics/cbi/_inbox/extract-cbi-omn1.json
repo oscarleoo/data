@@ -1,0 +1,275 @@
+{
+ "slug": "extract-cbi-omn1",
+ "researched_on": "2026-10-08",
+ "summary": "Full extraction of six Omani documents on the Investor Residency Programme / Golden Residency: launch news (2021), ONA card counts (2022), Invest Oman Golden Residency post (2025), Housing Ministry Decision 58/2022, and Royal Oman Police Decisions 234/2021 and 87/2026. All numbers were already in the data; this pass adds the remaining rules (validity periods, 50-employee route, renewal and dependant fees, visa time limits). No document has further statistics.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [
+  {
+   "source_id": "omn-fm-irp-launch-2021",
+   "program_id": "omn-investor-residence",
+   "route": "business_employment",
+   "valid_from": "2021-10-03",
+   "valid_to": "2025-08-31",
+   "min_amount": "50",
+   "currency": "Omani employees",
+   "applies_to": "investor, first category (10-year card): owner of a company employing Omanis",
+   "location": "para 5",
+   "quote": "Investor residency applicants can also fall under this category if they own a company that employs at least 50 Omani employees.",
+   "notes": "Alternative to the OMR 500,000 share or bond routes."
+  },
+  {
+   "source_id": "omn-fm-irp-launch-2021",
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity",
+   "valid_from": "2021-10-03",
+   "valid_to": "2025-08-31",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "first category card (up to 10 years)",
+   "location": "para 4",
+   "quote": "The first category of investors who can obtain residency for up to 10 years",
+   "notes": ""
+  },
+  {
+   "source_id": "omn-fm-irp-launch-2021",
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity_category_2",
+   "valid_from": "2021-10-03",
+   "valid_to": "2025-08-31",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "second category card (up to 5 years)",
+   "location": "para 7",
+   "quote": "The second category of applicants, who can obtain residency up to 5 years",
+   "notes": ""
+  },
+  {
+   "source_id": "omn-investoman-golden-residency-2025",
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity",
+   "valid_from": "2025-08-31",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "Golden Residency (renewable; investor and family)",
+   "location": "para 1",
+   "quote": "grants a renewable 10-year residency to international investors, entrepreneurs, and high-net-worth individuals",
+   "notes": ""
+  },
+  {
+   "source_id": "omn-investoman-golden-residency-2025",
+   "program_id": "omn-investor-residence",
+   "route": "business_employment",
+   "valid_from": "2025-08-31",
+   "valid_to": "",
+   "min_amount": "50",
+   "currency": "Omani employees",
+   "applies_to": "Golden Residency route: operating a business employing Omanis",
+   "location": "para on seven routes",
+   "quote": "operating a business that employs a minimum of 50 Omani citizens",
+   "notes": "One of seven routes; the OMR 200,000 minimum capital applies to the programme."
+  },
+  {
+   "source_id": "omn-ona-irp-217-cards-2022",
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity",
+   "valid_from": "2022-03",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "first category (renewable)",
+   "location": "para 2",
+   "quote": "The residency period reaches 5 or 10 years, subject to renewal.",
+   "notes": "5 years for the second category."
+  },
+  {
+   "source_id": "omn-ona-irp-217-cards-2022",
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity_category_2",
+   "valid_from": "2022-03",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "second category (renewable)",
+   "location": "para 2",
+   "quote": "The residency period reaches 5 or 10 years, subject to renewal.",
+   "notes": ""
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_residence_renewal",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "500",
+   "currency": "OMR",
+   "applies_to": "investor residence (10-year), renewal fee every 3 years",
+   "location": "Annex, Art. (5)",
+   "quote": "إقامة مستثمر لمدة عشر سنوات ٥٠٠ كل (٣) ثلاث سنوات",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021). 'Investor residence for ten years: 500 every three years.'"
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_residence_renewal_category_2",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "300",
+   "currency": "OMR",
+   "applies_to": "investor residence (5-year), renewal fee every 3 years",
+   "location": "Annex, Art. (5)",
+   "quote": "إقامة مستثمر لمدة خمس سنوات ٣٠٠ كل (٣) ثلاث سنوات",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021). 'Investor residence for five years: 300 every three years.'"
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_dependant_visa",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "OMR",
+   "applies_to": "dependant (joining an investor) visa, 10-year",
+   "location": "Annex, Art. (7), entry visas item 30",
+   "quote": "تأشيرة التحاق بمستثمر لمدة عشر سنوات ١٠٠",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021). 'Visa for joining an investor, ten years: 100.'"
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_dependant_visa_category_2",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "50",
+   "currency": "OMR",
+   "applies_to": "dependant (joining an investor) visa, 5-year",
+   "location": "Annex, Art. (7), entry visas item 30",
+   "quote": "تأشيرة التحاق بمستثمر لمدة خمس سنوات ٥٠",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021)."
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_dependant_residence_renewal",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "OMR",
+   "applies_to": "dependant residence (10-year), every 3 years",
+   "location": "Annex, Art. (7), residence renewal item 9",
+   "quote": "إقامة التحاق بمستثمر لمدة عشر سنوات ١٠٠ كل (٣) ثلاث سنوات",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021)."
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "fee_dependant_residence_renewal_category_2",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "50",
+   "currency": "OMR",
+   "applies_to": "dependant residence (5-year), every 3 years",
+   "location": "Annex, Art. (7), residence renewal item 9",
+   "quote": "إقامة التحاق بمستثمر لمدة خمس سنوات ٥٠ كل (٣) ثلاث سنوات",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021)."
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "visa_use_deadline",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "investor visa must be used within one year of issue",
+   "location": "Annex, Art. (1), Art. 10 item 9",
+   "quote": "وتستخدم التأشيرة خلال سنة واحدة من تاريخ إصدارها",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021). Issued on a certificate from the competent authority that the foreigner wishes to invest."
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "program_id": "omn-investor-residence",
+   "route": "multiple_entry_investor_visa_validity",
+   "valid_from": "2021-10-25",
+   "valid_to": "",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "multiple-trip visa for prospective investors (and spouse/children), extendable once; stays of up to 3 months each",
+   "location": "Annex, Art. (6)",
+   "quote": "وتكون التأشيرة صالحة لمدة لا تزيد على سنة واحدة قابلة للتمديد لفترة مماثلة ... لمدة لا تزيد على (٣) ثلاثة أشهر في كل مرة",
+   "notes": "Translation from the Arabic. In force the day after publication (Gazette 1413, 24/10/2021). 'Valid for no more than one year, extendable for a similar period; entry and stay of up to three months each time.'"
+  },
+  {
+   "source_id": "omn-rop-dec-87-2026",
+   "program_id": "omn-investor-residence",
+   "route": "owner_purchase_visa_validity",
+   "valid_from": "2026-06-22",
+   "valid_to": "",
+   "min_amount": "6",
+   "currency": "months",
+   "applies_to": "multiple-trip visa for buyers of building land or unregistered property units (and spouse, first-degree relatives, legal representatives of corporate owners); stays of up to 3 months each",
+   "location": "Annex, Art. (1)",
+   "quote": "وتكون التأشيرة صالحة لمدة لا تقل عن (٦) ستة أشهر، ولا تزيد على سنة واحدة قابلة للتمديد لفترة مماثلة",
+   "notes": "Translation from the Arabic; owner visa/residence for property owners (no minimum value in the text). In force the day after publication (Gazette 1653, 21/6/2026). 'Valid for no less than six months and no more than one year, extendable for a similar period.' Upper bound 1 year."
+  },
+  {
+   "source_id": "omn-rop-dec-87-2026",
+   "program_id": "omn-investor-residence",
+   "route": "owner_visa_entry_deadline",
+   "valid_from": "2026-06-22",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "months",
+   "applies_to": "owner visa: entry into Oman within 3 months of issue",
+   "location": "Annex, Art. (2)",
+   "quote": "ويشترط الدخول إلى سلطنة عمان خلال (٣) ثلاثة أشهر من تاريخ إصدار التأشيرة",
+   "notes": "Translation from the Arabic; owner visa/residence for property owners (no minimum value in the text). In force the day after publication (Gazette 1653, 21/6/2026)."
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "No official statistics on Golden Residency (2025) grants; fees for the 2025 programme not found."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "omn-fm-irp-launch-2021",
+   "status": "complete",
+   "contains": "Oman Ministry of Foreign Affairs news page (29 Sep 2021, unofficial English translation): launch of the Investor Residency Programme by the commerce ministry; applications from 3 October; first 22 cards handed over; minister and OIA chairman quotes; first category (10 years: OMR 500,000 in shares of a joint-stock company or government bonds, or a company employing 50+ Omanis), second category (5 years: assets of OMR 250,000), retirees eligible, no citizenship entitlement; general investment incentives (100% foreign ownership, Invest-Easy portal with 1,500 activities and about 63,000 licences issued 4 Apr-27 Sep 2021). Taken: all programme numbers and rules (22 cards, the two thresholds and the launch event were already in the data; added the 50-employee route and the 10/5-year validity). Not taken (out of scope): Invest-Easy activity and licence counts (general business licensing, not the residence programme).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-investoman-golden-residency-2025",
+   "status": "complete",
+   "contains": "Invest Oman blog post (Sept 2025) announcing the 10-Year Golden Residency: renewable 10-year residence for investors and families, seven investment routes (property in Integrated Tourism Complexes, company formation, Government Development Bonds, Muscat-listed shares, fixed-term bank deposit, business employing 50+ Omanis, nomination by a Foreign Capital Investment Law company), minimum capital OMR 200,000 (about USD 520,000), Migrate World as operational partner; general promotional material on Oman (share of global migrants targeting the Gulf over 10%, quality-of-life ranking 4th, access to 2.6 billion consumers). Taken: programme rules (the OMR 200,000 minimum and the launch event were already in the data; added 10-year validity and the 50-employee route). Not taken (out of scope): the general promotional statistics. The page links 21 images (not stored with the HTML, so not OCR-able here).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-mhup-dec-58-2022",
+   "status": "complete",
+   "contains": "Housing and Urban Planning Ministerial Decision 58/2022 (3 Mar 2022, Gazette 1433 of 13/3/2022; text via Qanoon.om): Art. 1 non-Omani investors may obtain a certificate of having bought residential units worth at least OMR 500,000 (first-category card) or OMR 250,000 (second category) in areas open to foreigners; Art. 2 first-category holders may own one residential, commercial or industrial property outside those areas (not in prohibited places); Art. 3 entry into force. Both thresholds and the event were already in the data; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-ona-irp-217-cards-2022",
+   "status": "complete",
+   "contains": "Oman News Agency article (16 Mar 2022): 217 investor residency cards issued since October 2021 (142 ten-year, 73 five-year, 2 retirees), purpose of the programme, 5- or 10-year renewable residence, applications via the ministry investment services centre; the rest of the page is unrelated ONA headlines (incl. a 2026 item on 256.5 thousand senior citizens, not about the programme). All counts were already in the data (parts 142+73+2 = 217); added the validity periods.",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "status": "complete",
+   "contains": "Royal Oman Police Decision 234/2021 (21 Oct 2021; Gazette 1413 of 24/10/2021; text via Qanoon.om) amending the Foreign Residency Law regulations: investor visa (used within one year), dependants (spouse and first-degree relatives), conversion of visas, age exemption for investor dependants, residence of owners of units in integrated tourism complexes ends on disposal, fees: investor visas OMR 500 (10 years) and 300 (5 years), investor residence renewal OMR 500/300 every three years, dependant visas OMR 100/50 and dependant residence OMR 100/50 every three years, multiple-trip investor visa (up to one year, extendable, stays of up to three months). The two visa fees and the event were already in the data; added the renewal and dependant fees and the visa validity rules.",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-rop-dec-87-2026",
+   "status": "complete",
+   "contains": "Royal Oman Police Decision 87/2026 (21 Jun 2026; Gazette 1653; text via Qanoon.om) amending the Foreign Residency Law regulations: multiple-trip visa without sponsor for buyers of land or unregistered units (6-12 months, extendable, stays of up to 3 months), owner visa for property owners and legal representatives of corporate owners (entry within 3 months), sponsorship eligibility of licensed investors and property owners, owner residence without sponsor for owners of registered or unregistered units, age exemption for dependants, owner residence ends on transfer of ownership. No minimum property value and no fees in the text. The event was already in the data; added the two time limits as rules.",
+   "to_do": ""
+  }
+ ]
+}
