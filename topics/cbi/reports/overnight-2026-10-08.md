@@ -939,3 +939,12 @@ says what was done to it.
   55% of non-tax revenue); IMF comparison table of 7 programmes; 89 visa-free destinations.
 - Partial: an IMF chart with no printed values.
 - Nauru now: all 22 stored Nauru documents reviewed (21 complete, 1 partial; checked in the ledger).
+
+### Whistleblowing: United States, batch 6 (pass `extract-whistleblowing-usa6`)
+- 20 documents reviewed (SEC, CFTC and IRS regulations; FinCEN rulemaking and budget; GAO reports 11-683, 16-20,
+  18-279, 18-698; IRS reports FY2008-2009; House Report 119-370; the Zafirov order): 16 complete, 4 partial.
+- Added 585 numbers, 92 rules, 20 events, 26 cases: GAO tables (IRS claim status and closures, open claims,
+  backlog; wildlife reward cases, all anonymous); FBAR estimates; FinCEN proposed rule figures; regulation rules.
+- Did not add up: IRS FY2008 monthly submissions add to 982 while the text says 476.
+- Partial: a FinCEN table total unreadable by OCR; a GAO staffing chart; two decisions (an intervention-rate
+  indicator for DOJ's "about 1 in 5"; programmes for 20 more state False Claims Acts that HHS-OIG lists).
