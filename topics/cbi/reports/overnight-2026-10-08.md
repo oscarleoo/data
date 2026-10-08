@@ -520,3 +520,9 @@ says what was done to it.
 - **Decisions needed:** new fee-line splits that may include ordinary citizenship fees; a possibly mislabelled
   "Honorary Citizenship Program Fees" line in 2021; the Citizenship Commission's whole budget filed as
   programme costs.
+
+### Vanuatu, batch 3 (pass `extract-cbi-vut3`)
+- 1 document (VCP amending order 38 of 2020, a scan read by OCR): complete. Added the old USD 2,000
+  due-diligence fee it replaced and a 27 March 2020 rule-change event.
+- Vanuatu now: all 48 stored Vanuatu documents reviewed (44 complete, 3 partial, 1 not applicable;
+  checked in the ledger).
