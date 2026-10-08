@@ -83,6 +83,7 @@ def readings(v):
     raw = re.sub(r"\s*(trillion|billion|million|thousand)$", "", raw)
     raw = re.sub(r"^\((.*)\)$", r"\1", raw.strip())
     raw = re.sub(r"\s*(\u20ac|eur|usd|\$)$", "", raw)  # trailing currency: 23.165,10 €
+    raw = re.sub(r"^(\u20b1|php|\$)\s*", "", raw)  # ₱584,270,596.13, Php4,560,849
     raw = raw.replace("'", "").replace("\u2019", "").rstrip("+")  # 5'003 (Swiss), 119+
     t = re.sub(r"\s", "", raw).rstrip("%")
     for k, f in FRACTIONS.items():

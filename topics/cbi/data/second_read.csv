@@ -6409,3 +6409,392 @@ o-c75e894b63,1,,1,,PDF p. 30,um processo de pedido de ARI propriamente dito,high
 o-cf2a1887ac,15,,1,,PDF p. 35,15 processos de pedido de reagrupamento familiar na sequência de processos ARI,high,Portimão,claude-sonnet-5,2026-10-08,1,no
 o-1837d95db4,4,,1,,PDF p. 28,Em 2013 houve 4 processos ARI,medium,"Cascais 2013: 4 ARI processes; p.28-29 identify them as family-reunification cases of minors (main application entered via DRLVTA), so family=4; the sentence itself does not say family",claude-sonnet-5,2026-10-08,1,no
 o-e2776452b4,"10.482.524,29 €",,1,Título Residência AI,PDF p. 100,"DRLVTA 10.482.524,29 € 9.215.427,70 €",high,,claude-sonnet-5,2026-10-08,1,no
+o-bd0b474bb6,1058,,1,"2013-14 Lodgements, 188 Business Innovation",PDF p. 1,188 Business Innovation 429 46 1058 444,high,,claude-sonnet-5,2026-10-08,1,no
+o-df271ab3c5,252,,1,Lodgements 2014-15,PDF p. 2,2014-15 252 192,high,,claude-sonnet-5,2026-10-08,1,no
+o-2600c3e3dc,1116,,1,"2015-16 Grants, 188 BI",PDF p. 1,1455 807 1281 1116,high,,claude-sonnet-5,2026-10-08,1,no
+o-ce8bd120a3,107,,1,Lodgements 2011-12,PDF p. 2,2011-12 107 35,high,,claude-sonnet-5,2026-10-08,1,no
+o-1b3d5a42e2,5,,1,"2012-13 Lodgements, 888 BI",PDF p. 1,888 Business Innovation 5 0 11 15,high,,claude-sonnet-5,2026-10-08,1,no
+o-7277e06956,179,,1,"2015-16 Lodgements, 188 Significant Investor",PDF p. 1,Significant Investor 306 <5 723 286 1544 592 179 515,high,,claude-sonnet-5,2026-10-08,1,no
+o-f74ef8531e,132,,1,Lodgements 2008-09,PDF p. 2,2008-09 132 46,high,,claude-sonnet-5,2026-10-08,1,no
+o-200b161caf,76,,1,"2014-15 Grants, 188 Investor",PDF p. 1,Investor 54 <5 113 25 228 76 373 120,high,,claude-sonnet-5,2026-10-08,1,no
+o-c5df87ff1e,"31 917,83",,million,Összeg millió Ft-ban,PDF p. 38,"Összesen 31 917,83 107,50",high,Table headed millió Ft-ban; printed page 37 (PDF p.38 matches),claude-sonnet-5,2026-10-08,1,no
+o-17662f99f3,"174 212,89",,million,Összeg millió Ft-ban,PDF p. 50,"Összesen 174 212,89 553,25",high,,claude-sonnet-5,2026-10-08,1,no
+o-683daefae6,"107,50",,million,Összeg millió EUR-ban,PDF p. 50,"2018/T EUR 2018.12.20 5 33 850,68 107,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-815cdcd3de,"33 850,68",,million,Összeg millió Ft-ban,PDF p. 50,"2018/T ... 33 850,68 107,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-d8f22bf937,"445,75",,million,Összeg millió EUR-ban,PDF p. 50,"2019/T ... 140 362,22 445,75",high,,claude-sonnet-5,2026-10-08,1,no
+o-84fe8becf5,"140 362,22",,million,Összeg millió Ft-ban,PDF p. 50,"2019/T ... 140 362,22 445,75",high,,claude-sonnet-5,2026-10-08,1,no
+o-2e0311983b,"278 551,55",,million,Összeg millió Ft-ban,PDF p. 52,"Összesen 278 551,55 889,60",high,,claude-sonnet-5,2026-10-08,1,no
+o-9d9176e336,"107,50",,million,Összeg millió EUR-ban,PDF p. 52,"2018/T ... 33 660,40 107,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-e6a4b20ea0,"33 660,40",,million,Összeg millió Ft-ban,PDF p. 52,"2018/T ... 33 660,40 107,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-3e93e8e179,"445,50",,million,Összeg millió EUR-ban,PDF p. 52,"2019/T ... 139 494,96 445,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-9f5b7b79ee,"139 494,96",,million,Összeg millió Ft-ban,PDF p. 52,"2019/T ... 139 494,96 445,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-d7449a6d7b,"336,60",,million,Összeg millió EUR-ban,PDF p. 52,"2020/T ... 105 396,19 336,60",high,,claude-sonnet-5,2026-10-08,1,no
+o-bec0ffb8c4,"105 396,19",,million,Összeg millió Ft-ban,PDF p. 52,"2020/T ... 105 396,19 336,60",high,,claude-sonnet-5,2026-10-08,1,no
+o-5c53332501,"9,00",,million,Összeg millió EUR-ban,PDF p. 52,"2021/T ... 2 799,18 9,00",high,,claude-sonnet-5,2026-10-08,1,no
+o-32d91f1eaf,"104 689,33",,million,Összeg millió Ft-ban,PDF p. 52,"2020/T ... 104 689,33 336,60",high,,claude-sonnet-5,2026-10-08,1,no
+o-33491dbff2,"218,10",,million,Összeg millió EUR-ban,PDF p. 52,"2021/T4 ... 67 833,46 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-38751066d8,"5 411,75",,million,Összeg millió Ft-ban,PDF p. 52,"2021/T1 ... 5 411,75 17,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-26a671d150,"402 086,66",,million,Összeg millió Ft-ban,PDF p. 52,"Összesen 402 086,66 1 292,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-9a70889228,"67 833,46",,million,Összeg millió Ft-ban,PDF p. 52,"2021/T4 ... 67 833,46 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-fd5ada658e,"60,30",,million,Összeg millió EUR-ban,PDF p. 52,"2021/T2 ... 18 754,51 60,30",high,,claude-sonnet-5,2026-10-08,1,no
+o-f78dc1fa0f,"98,40",,million,Összeg millió EUR-ban,PDF p. 52,"2021/T3 ... 30 604,37 98,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-93c64bb86e,"18 701,44",,million,Összeg millió Ft-ban,PDF p. 53,"2021/T2 ... 18 701,44 60,30",high,,claude-sonnet-5,2026-10-08,1,no
+o-3a7a4b8039,"218,10",,million,Összeg millió EUR-ban,PDF p. 53,"2021/T4 ... 67 641,53 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-6c56ba02ae,"36 193,34",,million,Összeg millió Ft-ban,PDF p. 53,"2022/T1 ... 36 193,34 116,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-13eb5533ca,"104 238,05",,million,Összeg millió Ft-ban,PDF p. 53,"2020/T ... 104 238,05 336,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-2ecec18125,"26 610,01",,million,Összeg millió Ft-ban,PDF p. 53,"2022/T3 ... 26 610,01 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-0e4065d57c,"33 340,05",,million,Összeg millió Ft-ban,PDF p. 53,"2018/T ... 33 340,05 107,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-036ff822ed,"85,80",,million,Összeg millió EUR-ban,PDF p. 53,"2022/T3 ... 26 610,01 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-1a01e7eaf9,"9,00",,million,Összeg millió EUR-ban,PDF p. 53,"2021/T ... 2 791,26 9,00",high,,claude-sonnet-5,2026-10-08,1,no
+o-13e26643af,"558 302,12",,million,Összeg millió Ft-ban,PDF p. 52,"Összesen 558 302,12 1 736,50",high,,claude-sonnet-5,2026-10-08,1,no
+o-dcf1dc1990,"5 594,27",,million,Összeg millió Ft-ban,PDF p. 52,"2021/T1 ... 5 594,27 17,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-07217c3174,"37 520,22",,million,Összeg millió Ft-ban,PDF p. 52,"2022/T1 ... 37 520,22 116,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-653a9efae5,"218,10",,million,Összeg millió EUR-ban,PDF p. 52,"2021/T4 ... 70 121,33 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-c72e513e74,"116,70",,million,Összeg millió EUR-ban,PDF p. 52,"2022/T1 ... 37 520,22 116,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-01d95b31b6,"31 636,58",,million,Összeg millió Ft-ban,PDF p. 52,"2021/T3 ... 31 636,58 98,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-9e6a9323d1,"336,10",,million,Összeg millió EUR-ban,PDF p. 52,"2020/T ... 108 059,51 336,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-7e5a4ccc89,"19 387,05",,million,Összeg millió Ft-ban,PDF p. 52,"2021/T2 ... 19 387,05 60,30",high,,claude-sonnet-5,2026-10-08,1,no
+o-07177743f2,"19 930,36",,million,Összeg millió Ft-ban,PDF p. 56,"2021/T2 ... 19 930,36 60,30",high,,claude-sonnet-5,2026-10-08,1,no
+o-938e1d48c5,"11,10",,million,Összeg millió EUR-ban,PDF p. 56,"2021/T ... 3 668,77 11,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-b99e4dc677,"111 005,14",,million,Összeg millió Ft-ban,PDF p. 56,"2020/T ... 111 005,14 335,85",high,,claude-sonnet-5,2026-10-08,1,no
+o-66e0896574,"72 086,41",,million,Összeg millió Ft-ban,PDF p. 56,"2021/T4 ... 72 086,41 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-c83dd3d028,"98,40",,million,Összeg millió EUR-ban,PDF p. 56,"2021/T3 ... 32 523,17 98,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-3637505cb0,"119,70",,million,Összeg millió EUR-ban,PDF p. 56,"2022/T1 ... 39 563,24 119,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-f33424837c,"6 345,98",,million,Összeg millió Ft-ban,PDF p. 56,"2021/T1 ... 6 345,98 19,20",high,,claude-sonnet-5,2026-10-08,1,no
+o-c0d4baacdb,"335,85",,million,Összeg millió EUR-ban,PDF p. 56,"2020/T ... 111 005,14 335,85",high,,claude-sonnet-5,2026-10-08,1,no
+o-d065a620e0,"11,10",,million,Összeg millió EUR-ban,PDF p. 60,"2021/T ... 4 052,94 11,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-acd4662b33,"79 634,85",,million,Összeg millió Ft-ban,PDF p. 60,"2021/T4 ... 79 634,85 218,10",high,,claude-sonnet-5,2026-10-08,1,no
+o-05d8a2e53e,"19,20",,million,Összeg millió EUR-ban,PDF p. 60,"2021/T1 ... 7 010,50 19,20",high,,claude-sonnet-5,2026-10-08,1,no
+o-ebdf074403,"119,70",,million,Összeg millió EUR-ban,PDF p. 60,"2022/T1 ... 43 706,06 119,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-49e964f262,"31 328,15",,million,Összeg millió Ft-ban,PDF p. 60,"2022/T3 ... 31 328,15 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-edde6ad01e,"98,40",,million,Összeg millió EUR-ban,PDF p. 60,"2021/T3 ... 35 928,79 98,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-362712e591,"85,80",,million,Összeg millió EUR-ban,PDF p. 60,"2022/T3 ... 31 328,15 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-034613a993,"35 928,79",,million,Összeg millió Ft-ban,PDF p. 60,"2021/T3 ... 35 928,79 98,40",high,,claude-sonnet-5,2026-10-08,1,no
+o-8690756c4b,"204 684,30",,million,Összeg millió Ft-ban,PDF p. 61,"Összesen 204 684,30 554,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-8afaddc71e,"119,70",,million,Összeg millió EUR-ban,PDF p. 61,"2022/T1 ... 44 169,30 119,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-4be3bf851c,"44 169,30",,million,Összeg millió Ft-ban,PDF p. 61,"2022/T1 ... 44 169,30 119,70",high,,claude-sonnet-5,2026-10-08,1,no
+o-441ae81111,"349,20",,million,Összeg millió EUR-ban,PDF p. 61,"2022/T2 ... 128 854,80 349,20",high,,claude-sonnet-5,2026-10-08,1,no
+o-8f79b379ce,"128 854,80",,million,Összeg millió Ft-ban,PDF p. 61,"2022/T2 ... 128 854,80 349,20",high,,claude-sonnet-5,2026-10-08,1,no
+o-1fb31e2056,"85,80",,million,Összeg millió EUR-ban,PDF p. 61,"2022/T3 ... 31 660,20 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-41d5ea8143,"31 660,20",,million,Összeg millió Ft-ban,PDF p. 61,"2022/T3 ... 31 660,20 85,80",high,,claude-sonnet-5,2026-10-08,1,no
+o-6c3958c715,123,,1,n/a (press release text),"Press release, para 2 (HTML, no pages)",a total of 9 applications have been approved ... predicted employment estimated at over 123 jobs,medium,"Printed as ""over 123 jobs"" (predicted employment, not actual); date of release 5 July 2013",claude-sonnet-5,2026-10-08,1,no
+o-8174a0327f,156,,1,Q405 first table (Year / Applications received / Approved applications / Value of Approved Investment),"XML, Q405 (no page numbers)","2018 423 156 139,750,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-7222e6e262,"4,450,000",,1,Q405 first table (Year / Applications received / Approved applications / Value of Approved Investment),"XML, Q405 (no page numbers)","2014 30 8 4,450,000",high,"Value of Approved Investment, printed in euro (no scale statement in table)",claude-sonnet-5,2026-10-08,1,no
+o-af5eeac9cc,8,,1,Q405 first table (Year / Applications received / Approved applications / Value of Approved Investment),"XML, Q405 (no page numbers)","2014 30 8 4,450,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-ffdac442e7,"38,800,000",,1,Q405 first table (Year / Applications received / Approved applications / Value of Approved Investment),"XML, Q405 (no page numbers)","2015 75 71 38,800,000",high,Value of Approved Investment,claude-sonnet-5,2026-10-08,1,no
+o-d573d14eb0,6,,1,Q405 second table (Investment Type / Total Applications Approved / Total Value of Investment),"XML, Q405 (no page numbers)","REIT 6 12,000,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-5ce1e5ada0,"53,950,000",,1,Q405 second table (Investment Type / Total Applications Approved / Total Value of Investment),"XML, Q405 (no page numbers)","Bond & Mixed Investment 56 53,950,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-0816176e8e,780,,1,Q405 second table (Investment Type / Total Applications Approved / Total Value of Investment),"XML, Q405 (no page numbers)","Enterprise 780 639,000,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-61652478e6,"196,000,000",,1,Q405 second table (Investment Type / Total Applications Approved / Total Value of Investment),"XML, Q405 (no page numbers)","Investment Fund 214 196,000,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-1951b20dbe,"75,000",,1,n/a (text),PDF p. 23,"75,000 jobs from the IIP alone",medium,"Economist estimate quoted in the report (""around 25,000 new jobs for each of these three years, i.e. 75,000 jobs""), not an outcome",claude-sonnet-5,2026-10-08,1,no
+o-70a32888d3,59%,,1,n/a (text),PDF p. 28,59% of all applications were submitted from Former Soviet Republic (FSR) countries,high,Status as at end June 2014,claude-sonnet-5,2026-10-08,1,no
+o-b05b6c0384,06,,1,Other (accredited persons by type),PDF p. 19,Other 06,high,"Printed ""06""; list given as ""currently stands at eighty-five""; no date stated in list (report text)",claude-sonnet-5,2026-10-08,1,no
+o-f92c519b21,1 billion,,billion,n/a (text),PDF p. 24,It is estimated that the IIP will contribute €1 billion over the 1800 applications,medium,"Printed ""€1 billion"", an estimate; scale billion",claude-sonnet-5,2026-10-08,1,no
+o-5c8df3f97c,96,,1,n/a (text),PDF p. 27,"173 main applications had been submitted. These, in turn, had a total of 96 adult dependents and 101 minor dependents",high,As at end of June 2014,claude-sonnet-5,2026-10-08,1,no
+o-847742e2ba,30 million,,million,n/a (text),PDF p. 23,Government expects to generate €30 million in one year from the IIP,medium,"Expected figure, printed ""€30 million""; scale million",claude-sonnet-5,2026-10-08,1,no
+o-09da9c2b52,18%,,1,n/a (text),PDF p. 28,18% of all applications derive from Middle East countries,high,,claude-sonnet-5,2026-10-08,1,no
+o-d6a4750eb1,61.3%,,1,n/a (text),PDF p. 28,applications from this grouping account for 61.3% of total applications,high,BRICS,claude-sonnet-5,2026-10-08,1,no
+o-7d57b076ee,1,,1,2018,PDF p. 46,St Paul’s Bay 0 0 0 1 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-9d9a3c5aa0,4%,,1,2016,PDF p. 44,Higher Secondary 5% 4% 3% 5% 5% 7%,high,,claude-sonnet-5,2026-10-08,1,no
+o-99337c7bc2,15%,,1,2017,PDF p. 44,Others 35% 22% 15% 13% 22% 20%,high,,claude-sonnet-5,2026-10-08,1,no
+o-c7d1ba6cc6,1%,,1,2020,PDF p. 43,Caribbean 0% 2% 1% 1% 2% 1%,high,,claude-sonnet-5,2026-10-08,1,no
+o-d3140c38ae,"€ 54,460,640",,1,Total Value of Purchased Property 2017,PDF p. 48,"2017 € 54,460,640 € 1,089,212",high,,claude-sonnet-5,2026-10-08,1,no
+o-4f27330588,971,,1,Number of Dependants 2017,PDF p. 42,2017 971,high,,claude-sonnet-5,2026-10-08,1,no
+o-0b97aa001c,2,,1,2016,PDF p. 46,Mellieha 1 2 3 0 2 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-861f7343bd,1,,1,2020,PDF p. 46,Gozo 1 0 0 0 0 1,high,,claude-sonnet-5,2026-10-08,1,no
+o-6b8fa1a9f5,378,,1,—,PDF p. 40,حصول (378) من العاملين,medium,Arabic text: 378 workers in simple occupations obtained investor residence after changing permit to commercial partner,claude-sonnet-5,2026-10-08,1,no
+o-42b1bcf470,"$3,839,500.00",,1,"December row, 2016",PDF p. 99,"December ... $3,839,500.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-7551f9994e,933,,1,Gross enrollment SUB-TOTAL 2004,PDF p. 97,2004 420 513 933,medium,Gross enrollment total (principal+spouse/dependent) 933; principal alone 420. Chose total.,claude-sonnet-5,2026-10-08,1,no
+o-33983d2a9c,"$7,946,500.00",,1,1987-2005 January (II. cancellation),PDF p. 99,"January $7,946,500.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-6421e1e280,"$955,000.00",,1,2013 September (II),PDF p. 99,"September ... $955,000.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-97ebc1b291,376,,1,Gross enrollment PRINCIPAL 2000,PDF p. 97,2000 376 446 822,medium,Principal gross enrollment; total incl. dependants 822,claude-sonnet-5,2026-10-08,1,no
+o-1bf006a223,"$28,232,000.00",,1,1987-2005 June (I),PDF p. 99,"June $28,232,000.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-8370b094d4,16,,1,Cancellation SPOUSE/DEPENDENT 1994,PDF p. 97,1994 314 269 583 37 16 53 530,high,,claude-sonnet-5,2026-10-08,1,no
+o-6d74a0851c,"$1,075,000.00",,1,2011 October (II),PDF p. 99,"October ... $1,075,000.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-0187118279,"60,359",,1,"PRA Enrolled Retirees, As of December 31, 2018",PDF p. 7,"60,359 As of December 31, 2018",high,,claude-sonnet-5,2026-10-08,1,no
+o-8aca553bc8,"5,562",,1,bar 2016,PDF p. 7,"5,562 above 2016",medium,Bar chart value under label 2016 (gross enrollment per +21.70% 2019 vs 2018 check); unit not labelled,claude-sonnet-5,2026-10-08,1,no
+o-f3dfe58383,"PhP 216,373,408.00",,1,Message from the General Manager,PDF p. 4,"remittance dividends ... PhP 216,373,408.00",high,"Financial Highlights chart p.6 shows Dividend Remitted 2019 = 258,489 (different figure)",claude-sonnet-5,2026-10-08,1,no
+o-09efe93938,"49,271",,1,SM 4 ACCOMPLISHMENT,PDF p. 50,"Cumulative Net Enrollment by End of the Year 53,797 49,271",high,"53,797 is target, 49,271 accomplishment",claude-sonnet-5,2026-10-08,1,no
+o-2ae8dd3e6e,"68,383",,1,"PRA Enrolled Retirees, As of December 31, 2019",PDF p. 7,"68,383 As of December 31, 2019",high,,claude-sonnet-5,2026-10-08,1,no
+o-ed4e2c5bc3,"432,746",,1,Net Operating Income 2019,PDF p. 6,"460,110 (2018) 432,746 (2019) CUMULATIVE: PHP3,976,579",medium,"Chart, unit not printed (likely PHP thousand); read by x-position of bar labels",claude-sonnet-5,2026-10-08,1,no
+o-3df2f44fe3,"US$ 548,449,703.67",,1,SM 1 ACCOMPLISHMENT,PDF p. 49,"Annual Foreign Currency Generated US$ 576 Million target; US$ 548,449,703.67",medium,Table row labelled Annual Foreign Currency Generated; note says SM1 = outstanding visa deposit at year end,claude-sonnet-5,2026-10-08,1,no
+o-580d053106,"4,790",,1,bar 2014,PDF p. 7,"4,790 above 2014",medium,Bar chart value under label 2014; unit not labelled,claude-sonnet-5,2026-10-08,1,no
+o-4050e1e783,"60,345",,1,2020 ANNUAL TARGET,PDF p. 41,"SM 4 Cumulative Net Enrollment by End of the Year 60,345 55,114",high,"60,345 is target; accomplishment 55,114",claude-sonnet-5,2026-10-08,1,no
+o-23271edbe0,"258,489",,1,Dividend Remitted 2019,PDF p. 5,"Dividend Remitted 258,489 (2019) - (2020) Cumulative = Php 1,816,286",high,Unit not printed on chart (likely PHP thousand),claude-sonnet-5,2026-10-08,1,no
+o-e7d0850585,"₱584,270,596.13",,1,2020 ACCOMPLISHMENT,PDF p. 42,"₱584,270,596.1 / 3 (based on COA-submitted FS)",high,"Number wraps over two lines: 584,270,596.1 and 3",claude-sonnet-5,2026-10-08,1,no
+o-b3dd4ec321,₱654.83 Million,,million,ANNUAL TARGET,PDF p. 42,₱654.83 Million,high,,claude-sonnet-5,2026-10-08,1,no
+o-de4f08ab2c,656.59,, million,Net Operating Income 2019,PDF p. 5,"656.59 (2019) 584.27 (2020) Cumulative: Php4,560,849",medium,"Unit not printed on chart; 2020 value matches 584,270,596 on p.42 so presumably PHP million. Differs from 2019 report chart (432,746)",claude-sonnet-5,2026-10-08,1,no
+o-6684697fc2,"$572,981",,1,Foreign Currency Generated Cumulative,PDF p. 5,"Cumulative - $572,981",medium,"Unit not printed (likely US$ thousand); this is cumulative of annual flows, not outstanding deposits",claude-sonnet-5,2026-10-08,1,no
+o-fe6efc3dd2,"4,691",,1,Yearly Average Net Enrollment of SRRV (2017-2020),PDF p. 6,"Yearly Average Net Enrollment of SRRV (2017-2020): 4,691",high,,claude-sonnet-5,2026-10-08,1,no
+o-a6296bf8f3,"Php4,560,849",,1,Net Operating Income Cumulative,PDF p. 5,"Cumulative: Php4,560,849",medium,Unit not printed (likely PHP thousand),claude-sonnet-5,2026-10-08,1,no
+o-341b779c00,80%,,1,chinesa,PDF p. 14,nacionalidades chinesa (80%),high,,claude-sonnet-5,2026-10-08,1,no
+o-c9daa61989,3%,,1,brasileira,PDF p. 14,brasileira (3%),high,,claude-sonnet-5,2026-10-08,1,no
+o-b6fe45a431,3%,,1,russa,PDF p. 14,russa (3%),high,,claude-sonnet-5,2026-10-08,1,no
+o-c5041fd4e6,2%,,1,angolana,PDF p. 14,angolana (2%),high,,claude-sonnet-5,2026-10-08,1,no
+o-d3634f5700,2%,,1,sul-africana,PDF p. 14,sul-africana (2%),high,,claude-sonnet-5,2026-10-08,1,no
+o-9af3d57975,11%,,1,entre outros,PDF p. 14,entre outros (11%),high,,claude-sonnet-5,2026-10-08,1,no
+o-2f911287a9,5,,1,familiares,PDF p. 14,Apenas foram indeferidos 9 pedidos (4 investidores e 5 familiares),high,,claude-sonnet-5,2026-10-08,1,no
+o-f554b2fae2,9,,1,pedidos indeferidos,PDF p. 14,Apenas foram indeferidos 9 pedidos (4 investidores e 5 familiares),high,,claude-sonnet-5,2026-10-08,1,no
+o-063d9d3f3b,2.186,,1,Nº,PDF p. 25,Artº 98 nº 2 Reagrupamento familiar (Titular AR Investimento) 2.186,high,,claude-sonnet-5,2026-10-08,1,no
+o-b6daf18016,181 milyon 200 bin,,million,—,p. 1,181 milyon 200 bin dolar döviz girişi kaybına neden olduğu,high,"USD 181.2 million (181 milyon 200 bin dolar), printed in words",claude-sonnet-5,2026-10-08,1,no
+o-f245793594,451,,1,—,p. 1,451 yabancı uyruklu kişiye ... aileleriyle birlikte 1198 usulsüz Türk vatandaşlığı,high,451 foreign nationals (main); 1198 including families,claude-sonnet-5,2026-10-08,1,no
+o-29dc0f042e,"9,940",,1,—,p. 5,"The Act allocates 9,940 immigrant visas each fiscal year",high,,claude-sonnet-5,2026-10-08,1,no
+o-316682acfc,"3,000",,1,—,p. 5,"at least 3,000 of the visas must be reserved for persons investing in TEAs",high,"""at least 3,000"" (floor)",claude-sonnet-5,2026-10-08,1,no
+o-d4a1ed609b,six months,,1,—,p. 5,nonbinding target date of six months by which the agency should process any new I-956 application,high,"Statutory nonbinding target, not an observed time",claude-sonnet-5,2026-10-08,1,no
+o-a36def6157,more than 600,,1,—,p. 3,more than 600 regional centers operated throughout the country as of 2021,high,"Printed as ""more than 600"" (also ""600-plus""); a lower bound",claude-sonnet-5,2026-10-08,1,no
+o-9b0d2a2a66,10,,1,Total,Table 7 row 190,"Spouses of C51 or C56, new arrivals, conditional (C52) 10",high,,claude-sonnet-5,2026-10-08,1,no
+o-e37ae55447,290,,1,Total,Table 7 row 194,"Spouses of I51 or I56, adjustments, conditional (I57) 290",high,,claude-sonnet-5,2026-10-08,1,no
+o-d074928a5a,20,,1,Total,Table 7 row 191,"Spouses of C51 or C56, adjustments, conditional (C57) 20",high,,claude-sonnet-5,2026-10-08,1,no
+o-578a079e73,50,,1,Total,Table 7 row 195,"Spouses of T51 or T56, new arrivals, conditional (T52) 50",high,,claude-sonnet-5,2026-10-08,1,no
+o-4398a0a339,50,,1,Total,Table 7 row 187,"Employment creation, targeted area, new arrivals, conditional (T51) 50",high,,claude-sonnet-5,2026-10-08,1,no
+o-330773f51d,40,,1,Total,Table 7 row 204,"Children of T51 or T56, adjustments, conditional (T58) 40",high,,claude-sonnet-5,2026-10-08,1,no
+o-d8c0301fde,3830,,1,Total,Table 7 row 185,"Employment creation, targeted area, pilot program, new arrivals, conditional (I51) 3830",high,,claude-sonnet-5,2026-10-08,1,no
+o-37ebbf6576,4140,,1,Total,Table 7 row 201,"Children of I51 or I56, new arrivals, conditional (I53) 4140",high,,claude-sonnet-5,2026-10-08,1,no
+o-867681b322,60,,1,2004,PDF p. 24,Fifth: Employment creation (investors) 60 158 469 491 ...,high,,claude-sonnet-5,2026-10-08,1,no
+o-8af425c479,735,,1,2010,PDF p. 23,Fifth: Employment creation (investors) 69 188 280 315 331 985 735,high,,claude-sonnet-5,2026-10-08,1,no
+o-622dae3f77,985,,1,2009,PDF p. 23,Fifth: Employment creation (investors) ... 331 985 735,high,,claude-sonnet-5,2026-10-08,1,no
+o-177dfa8086,"7,312",,1,2013,PDF p. 24,"Fifth: Employment creation (investors) ... 5,677 7,312",high,,claude-sonnet-5,2026-10-08,1,no
+o-cda82fee6d,491,,1,2007,PDF p. 24,Fifth: Employment creation (investors) 60 158 469 491,high,,claude-sonnet-5,2026-10-08,1,no
+o-730102d3ed,69,,1,2004,PDF p. 23,Fifth: Employment creation (investors) 69 188 280,high,,claude-sonnet-5,2026-10-08,1,no
+o-ef56d51022,56,,1,Total,PDF p. 27,"Employment creation, targeted area, adjustments, conditional (T56) 56 56 -",high,,claude-sonnet-5,2026-10-08,1,no
+o-05eb2cb6c6,23,,1,Total,PDF p. 27,"Employment creation, targeted area, new arrivals, conditional (T51) 23 - 23",high,,claude-sonnet-5,2026-10-08,1,no
+o-5e6bcd8a4c,"$25,000","$50,000",1,—,PDF p. 7,"unregulated management and administrative fees between $25,000 and $50,000 from each foreign investor",high,"Range printed: between $25,000 and $50,000",claude-sonnet-5,2026-10-08,1,no
+o-e687b79a96,more than $6.8 billion,,billion,—,PDF p. 13,"since 1990, more than $6.8 billion has been invested in the U.S. economy through the EB-5 program",high,"Lower bound (""more than""); USCIS figure the OIG could not validate",claude-sonnet-5,2026-10-08,1,no
+o-0dbad4cbeb,"49,000",,1,—,PDF p. 13,"a minimum of 49,000 jobs have been created",high,"""a minimum of"" (lower bound); USCIS estimate, not validated by OIG",claude-sonnet-5,2026-10-08,1,no
+o-09551e548e,35,,1,—,PDF p. 31,approved 35 regional center applications,high,,claude-sonnet-5,2026-10-08,1,no
+o-fbc0faf70c,63,,1,—,PDF p. 31,USCIS denied 63 regional center applications,high,,claude-sonnet-5,2026-10-08,1,no
+o-dc36f28a38,336,,1,—,PDF p. 23,"We identified 336 I-924 regional centers with applications or amendments submitted during fiscal years 2010, 2011, and 2012",high,,claude-sonnet-5,2026-10-08,1,no
+o-ccf3f07ad4,"$25,000","$50,000",1,—,PDF p. 12,"fees between $25,000 and $50,000 from each foreign investor",high,Range; low end in value,claude-sonnet-5,2026-10-08,1,no
+o-1bb4a8424e,11.7,,1,I-924,PDF p. 14,"I-526, 14.2 months; I-829, 12.3 months; I-924, 11.7 months",high,,claude-sonnet-5,2026-10-08,1,no
+o-184a3ee837,approximately 641,,1,—,PDF p. 11,"As of March 2, 2015, USCIS had approved approximately 641 regional centers",high,"""approximately 641""",claude-sonnet-5,2026-10-08,1,no
+o-98e7992dbb,"6,041",,1,—,PDF p. 14,"In fiscal year 2012, 6,041 immigrant investor petitions were filed",high,Immigrant investor petitions (I-526); printed number of petitions filed,claude-sonnet-5,2026-10-08,1,no
+o-7c8f82a443,12.3,,1,I-829,PDF p. 14,"I-829, 12.3 months",high,,claude-sonnet-5,2026-10-08,1,no
+o-5eb299b8e3,14.2,,1,I-526,PDF p. 14,"I-526, 14.2 months",high,,claude-sonnet-5,2026-10-08,1,no
+o-a534f52aeb,"3,677",,1,—,PDF p. 14,"USCIS granted 3,677 petitions for temporary residency",high,Petitions granted (conditional residency) in FY2012,claude-sonnet-5,2026-10-08,1,no
+o-79080a18c4,736,,1,—,PDF p. 14,736 alien investors were granted permanent residency status,medium,Printed as investors granted permanent residency in the same year; implied I-829 approvals but form not named in the sentence,claude-sonnet-5,2026-10-08,1,no
+o-8684fe9173,$6 million,,million,—,paragraph 4,a $6 million payment to the IRS in early 2015 funded by a loan collateralized by investor funds,high,"Printed as ""$6 million""",claude-sonnet-5,2026-10-08,1,no
+o-3c2838a4f0,"$8,338,600.77",,1,—,paragraph 1,"to pay $8,338,600.77 in restitution",high,,claude-sonnet-5,2026-10-08,1,no
+o-a7192b208c,0,,1,5th Total,PDF p. 8,Ireland ... 22 5 27 0 0 0 0 0 723 747,high,,claude-sonnet-5,2026-10-08,1,no
+o-9e712566de,0,,1,5th Regional Pilot Program,PDF p. 10,"Canada 4,557 235 123 358 12 3 0 0 15 12,329 13,113",high,"Columns 5th Employ. Creation 12, Target Areas 3, Regional Pilot 0, Regional Target Areas 0, 5th Total 15",claude-sonnet-5,2026-10-08,1,no
+o-8ef17615c2,0,,1,5th Total,PDF p. 8,Martinique 2 0 0 0 0 0 0 0 0 9 17,high,,claude-sonnet-5,2026-10-08,1,no
+o-7995656d17,0,,1,5th Total,PDF p. 8,Iceland 9 0 0 0 0 0 0 0 0 46 51,high,,claude-sonnet-5,2026-10-08,1,no
+o-ea1316cdf7,0,,1,5th Regional Pilot Program,PDF p. 8,"Italy 496 21 34 55 3 0 0 0 3 1,358 1,479",high,"5th Employment Creation 3, Regional Pilot Program 0, 5th Total 3",claude-sonnet-5,2026-10-08,1,no
+o-0248bfec12,0,,1,5th Total,PDF p. 2,"Nigeria 636 184 103 287 0 0 0 0 0 1,421 2,417",high,,claude-sonnet-5,2026-10-08,1,no
+o-7770109d05,0,,1,5th Employment Creation,PDF p. 12,"Mexico 12,632 545 194 739 0 5 0 0 5 16,676 85,135",high,Target Areas column 5; 5th Total 5,claude-sonnet-5,2026-10-08,1,no
+o-b85a276ea5,0,,1,5th Total,PDF p. 2,Mauritania 2 0 0 0 0 0 0 0 0 6 8,high,,claude-sonnet-5,2026-10-08,1,no
+o-cdb85a826e,0,,1,5th Regional Pilot Program,PDF p. 12,"Great Britain and Northern 0 15 0 0 15 1,058 1,524",high,,claude-sonnet-5,2026-10-08,1,no
+o-bdcf957456,0,,1,5th Total,PDF p. 8,Togo 0 0 0 0 0 17 32,high,,claude-sonnet-5,2026-10-08,1,no
+o-3f49725267,0,,1,5th Total,PDF p. 4,Eritrea 0 0 0 0 0 5 47,high,,claude-sonnet-5,2026-10-08,1,no
+o-7a9122b20d,0,,1,5th Total,PDF p. 4,Somalia 0 0 0 0 0 2 17,high,,claude-sonnet-5,2026-10-08,1,no
+o-834e21df41,0,,1,5th Employment Creation,PDF p. 8,"Region Total For Africa 0 0 0 0 0 982 4,586",high,,claude-sonnet-5,2026-10-08,1,no
+o-6625a90a11,0,,1,5th Employment Creation,PDF p. 24,"Region Total For South 0 0 0 0 0 1,282 12,280",high,,claude-sonnet-5,2026-10-08,1,no
+o-6911a2c3dd,0,,1,5th Regional Target Areas,PDF p. 24,"Region Total For South 0 0 0 0 0 1,282 12,280",high,,claude-sonnet-5,2026-10-08,1,no
+o-d15131ceee,0,,1,5th Total,PDF p. 16,St. Helena 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-7d5b744659,0,,1,5th Regional Target Areas,PDF p. 16,Uganda 0 1 0 0 1 126 23 220,high,,claude-sonnet-5,2026-10-08,1,no
+o-63aaab5d1b,0,,1,5th Total,PDF p. 20,Solomon Islands 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-2106e4c53e,0,,1,5th Total,PDF p. 18,Greece 0 0 0 0 0 251 8 313,high,,claude-sonnet-5,2026-10-08,1,no
+o-82bb386a1d,0,,1,5th Total,PDF p. 18,Montserrat 0 0 0 0 0 8 1 32,high,,claude-sonnet-5,2026-10-08,1,no
+o-e24d9f2530,0,,1,5th Total,PDF p. 19,"Dominican Republic 0 0 0 0 0 348 0 16,613",high,,claude-sonnet-5,2026-10-08,1,no
+o-1c88f05b09,1,,1,5th Target Employment Areas,PDF p. 16,Uganda 0 1 0 0 1 126 23 220,high,,claude-sonnet-5,2026-10-08,1,no
+o-fa0bcfb1b4,0,,1,5th Target Employment Areas,PDF p. 19,TOTAL 0 0 0 0 0 439 0 714,high,,claude-sonnet-5,2026-10-08,1,no
+o-2bd1c3ec28,0,,1,5th Regional Pilot Program,PDF p. 15,"Ghana 1 0 0 0 1 289 89 1,088",high,,claude-sonnet-5,2026-10-08,1,no
+o-4647bc8f1a,0,,1,5th Regional Pilot Program,PDF p. 20,Japan 0 4 0 6 10 520 7 608,high,,claude-sonnet-5,2026-10-08,1,no
+o-7cd1d3bc4c,0,,1,5th Total,PDF p. 19,Central African Republic 0 0 0 0 0 1 0 2,high,,claude-sonnet-5,2026-10-08,1,no
+o-a70e6ef8cf,0,,1,5th Total,PDF p. 20,Bahrain 0 0 0 0 0 1 40 48,high,,claude-sonnet-5,2026-10-08,1,no
+o-c89ae2b5b8,0,,1,5th Total,PDF p. 21,Martinique 0 0 0 0 0 1 0 1,high,,claude-sonnet-5,2026-10-08,1,no
+o-b67bfd4024,0,,1,5th Total,PDF p. 22,Cayman Islands 0 0 0 0 0 0 0 2,high,,claude-sonnet-5,2026-10-08,1,no
+o-64ccf44070,0,,1,5th Total,PDF p. 24,Solomon Islands 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-19b1c5d878,0,,1,5th Total,PDF p. 23,Dominica 0 0 0 0 0 4 6 251,high,,claude-sonnet-5,2026-10-08,1,no
+o-78a85067b7,0,,1,5th Regional Pilot Program,PDF p. 20,Uganda 0 1 0 0 1 6 10 69,high,,claude-sonnet-5,2026-10-08,1,no
+o-2f1b959598,0,,1,5th Target Employment Areas,PDF p. 18,TOTAL 0 0 0 0 0 290 6 344,high,,claude-sonnet-5,2026-10-08,1,no
+o-605bf21345,0,,1,5th Regional Target Areas,PDF p. 15,Singapore 3 0 0 0 3 526 2 585,high,,claude-sonnet-5,2026-10-08,1,no
+o-72f6120fd3,0,,1,5th Total,PDF p. 15,Cyprus 0 0 0 0 0 51 0 61,high,,claude-sonnet-5,2026-10-08,1,no
+o-2342a08b59,406,,1,5th Target Employment Areas,PDF p. 15,"Region Total For Asia 116 406 0 127 649 82,137 4,138 170,819",high,,claude-sonnet-5,2026-10-08,1,no
+o-e18479198e,0,,1,5th Regional Target Areas,PDF p. 15,TOTAL 0 0 0 0 0 220 0 228,high,,claude-sonnet-5,2026-10-08,1,no
+o-9ce014b602,0,,1,5th Total,PDF p. 13,Angola 0 0 0 0 0 34 0 53,high,,claude-sonnet-5,2026-10-08,1,no
+o-87a20f7725,0,,1,5th Total,PDF p. 17,Dominica 0 0 0 0 0 21 0 273,high,,claude-sonnet-5,2026-10-08,1,no
+o-b3a074d2cd,0,,1,5th Total,PDF p. 16,Luxembourg 0 0 0 0 0 16 0 17,high,,claude-sonnet-5,2026-10-08,1,no
+o-58bd6e23b6,24,,1,5th Regional Target Areas,PDF p. 20,"Korea, South 4 234 0 24 262 1,105 18 2,691",high,,claude-sonnet-5,2026-10-08,1,no
+o-1225fc635b,0,,1,5th Total,PDF p. 19,Mauritania 0 0 0 0 0 0 0 3,high,,claude-sonnet-5,2026-10-08,1,no
+o-11f745ad00,0,,1,5th Total,PDF p. 23,Nauru 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-cb2f902294,0,,1,5th Total,PDF p. 19,Equatorial Guinea 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-f845639d66,0,,1,5th Total,PDF p. 23,Saint Lucia 0 0 0 0 0 19 3 165,high,,claude-sonnet-5,2026-10-08,1,no
+o-5447d1a4d6,3,,1,5th Employment Creation,PDF p. 20,"Iran 3 5 0 0 8 234 0 2,633",high,,claude-sonnet-5,2026-10-08,1,no
+o-b467a817d8,0,,1,5th Regional Target Areas,PDF p. 20,"Iran 3 5 0 0 8 234 0 2,633",high,,claude-sonnet-5,2026-10-08,1,no
+o-c02d53f886,0,,1,5th Total,PDF p. 21,Reunion 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-d769ea5298,4,,1,5th Target Employment Areas,PDF p. 3,"France 0 4 0 3 7 2,554 2,679",high,,claude-sonnet-5,2026-10-08,1,no
+o-9233d2d221,0,,1,5th Total,PDF p. 3,Guadeloupe 0 0 0 0 0 3 12,high,,claude-sonnet-5,2026-10-08,1,no
+o-5328097b00,0,,1,5th Total,PDF p. 2,Tunisia 0 0 0 0 0 82 104,high,,claude-sonnet-5,2026-10-08,1,no
+o-880aa0f4ce,1,,1,5th Employment Creation,PDF p. 1,"Nigeria 1 0 0 0 1 825 2,251",high,,claude-sonnet-5,2026-10-08,1,no
+o-e37359f39b,7,,1,5th Regional Target Areas,PDF p. 2,"India 10 2 0 7 19 24,357 39,118",high,,claude-sonnet-5,2026-10-08,1,no
+o-a61e09d1dc,0,,1,5th Regional Pilot Program,PDF p. 4,Norway 5 0 0 0 5 114 126,high,,claude-sonnet-5,2026-10-08,1,no
+o-66081aca91,0,,1,5th Total,PDF p. 2,"Israel 0 0 0 0 0 2,703 2,942",high,,claude-sonnet-5,2026-10-08,1,no
+o-c4eaee2ad5,1,,1,5th Regional Target Areas,PDF p. 4,Cayman Islands 0 0 0 1 1 7 11,high,,claude-sonnet-5,2026-10-08,1,no
+o-37a8ed433b,0,,1,5th Regional Pilot Program,PDF p. 6,"Grand Totals 48 113 0 938 1,099 13,472 0 183,368",high,,claude-sonnet-5,2026-10-08,1,no
+o-f40a75f0ce,0,,1,5th Total,PDF p. 4,Kazakhstan 0 0 0 0 0 6 0 25,high,,claude-sonnet-5,2026-10-08,1,no
+o-4edfc47ffa,0,,1,5th Total,PDF p. 6,"Peru 0 0 0 0 0 171 0 2,441",high,,claude-sonnet-5,2026-10-08,1,no
+o-5a3687ae36,0,,1,5th Regional Pilot Program,PDF p. 2,"China - mainland born 14 31 0 248 293 1,251 0 15,886",high,,claude-sonnet-5,2026-10-08,1,no
+o-6c53a6b32a,0,,1,5th Total,PDF p. 3,New Caledonia 0 0 0 0 0 0 0 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-6a82591228,2,,1,5th Regional Target Areas,PDF p. 2,Uganda 0 0 0 2 2 18 0 119,high,,claude-sonnet-5,2026-10-08,1,no
+o-44412906cc,0,,1,5th Total,PDF p. 2,Tanzania 0 0 0 0 0 3 0 107,high,,claude-sonnet-5,2026-10-08,1,no
+o-b07b82b2f9,0,,1,5th Target Employment Areas,PDF p. 4,TOTAL 0 0 0 0 0 19 0 39,high,,claude-sonnet-5,2026-10-08,1,no
+o-9f45c61e29,0,,1,5th Total,PDF p. 17,Dominica 0 0 0 0 0 14 284,high,,claude-sonnet-5,2026-10-08,1,no
+o-cd3eda30a0,2,,1,5th Employment Creation,PDF p. 14,"Iran 2 0 0 10 12 1,199 3,607",high,,claude-sonnet-5,2026-10-08,1,no
+o-0dccdb6ef1,69,,1,5th Target Employment Areas,PDF p. 17,"Region Total For Europe 45 69 0 457 571 26,078 30,803",high,,claude-sonnet-5,2026-10-08,1,no
+o-f4308247cc,0,,1,5th Total,PDF p. 18,"Micronesia, Federated States of 0 0 0 0 0 6 6",high,,claude-sonnet-5,2026-10-08,1,no
+o-f192c913d6,0,,1,5th Regional Pilot Program,PDF p. 14,"Region Total For Africa 8 7 0 55 70 5,812 11,034",high,,claude-sonnet-5,2026-10-08,1,no
+o-35a02e07e8,1,,1,5th Total,PDF p. 17,"Jamaica 0 0 0 1 1 572 5,491",high,,claude-sonnet-5,2026-10-08,1,no
+o-fe5288633e,3,,1,5th Employment Creation,PDF p. 18,"Peru 3 0 0 2 5 1,352 3,970",high,,claude-sonnet-5,2026-10-08,1,no
+o-8775f5410b,0,,1,5th Regional Pilot Program,PDF p. 16,"Romania 1 1 0 3 5 972 1,234",high,,claude-sonnet-5,2026-10-08,1,no
+o-6efa94db1f,0,,1,5th Regional Pilot Program,PDF p. 23,Trinidad and Tobago 4 0 0 0 4 24 0 731,high,,claude-sonnet-5,2026-10-08,1,no
+o-8cf69c6180,0,,1,5th Employment Creation,PDF p. 20,Thailand 0 0 0 3 3 47 0 257,high,,claude-sonnet-5,2026-10-08,1,no
+o-d0f96a515f,0,,1,5th Employment Creation,PDF p. 21,Denmark 0 0 0 7 7 18 0 24,high,,claude-sonnet-5,2026-10-08,1,no
+o-787b570bde,0,,1,5th Target Employment Areas,PDF p. 20,"Hong Kong S.A.R. 1 0 0 9 10 24 0 1,047",high,,claude-sonnet-5,2026-10-08,1,no
+o-91b3a73f11,0,,1,5th Total,PDF p. 19,Ethiopia 0 0 0 0 0 30 0 540,high,,claude-sonnet-5,2026-10-08,1,no
+o-12b913bb1d,4,,1,5th Employment Creation,PDF p. 20,Cambodia 4 0 0 0 4 12 0 344,high,,claude-sonnet-5,2026-10-08,1,no
+o-43056beef6,0,,1,5th Total,PDF p. 19,Eritrea 0 0 0 0 0 36 0 95,high,,claude-sonnet-5,2026-10-08,1,no
+o-8d1fa5a082,0,,1,5th Employment Creation,PDF p. 21,Czech Republic 0 0 0 8 8 10 0 24,high,,claude-sonnet-5,2026-10-08,1,no
+o-96240d426c,17,,1,5th Target Employment Areas,PDF p. 2,"China - Taiwan born 23 17 0 54 94 2,185 4,030",high,,claude-sonnet-5,2026-10-08,1,no
+o-0a6b856d38,105,,1,5th Target Employment Areas,PDF p. 2,"China - mainland born 69 105 0 598 772 17,792 32,343",high,,claude-sonnet-5,2026-10-08,1,no
+o-986ab48413,987,,1,5th Regional Target Areas,PDF p. 3,"Region Total For Asia 202 168 1 987 1,358 84,422 183,928",high,,claude-sonnet-5,2026-10-08,1,no
+o-20f3b52a9f,0,,1,5th Total,PDF p. 1,Burkina Faso 0 0 0 0 0 19 33,high,,claude-sonnet-5,2026-10-08,1,no
+o-286635dc7e,0,,1,5th Employment Creation,PDF p. 1,"Ethiopia 0 0 0 6 6 202 1,037",high,,claude-sonnet-5,2026-10-08,1,no
+o-264bb28146,0,,1,5th Employment Creation,PDF p. 4,"Romania 0 1 0 0 1 809 1,150",high,,claude-sonnet-5,2026-10-08,1,no
+o-c10feedfd1,0,,1,5th Total,PDF p. 5,Grenada 0 0 0 0 0 28 218,high,,claude-sonnet-5,2026-10-08,1,no
+o-b0b467cc50,4,,1,5th Target Employment Areas,PDF p. 6,"Venezuela 8 4 0 8 20 2,796 3,406",high,,claude-sonnet-5,2026-10-08,1,no
+o-6add9b9f02,0,,1,5th Target Employment Areas,PDF p. 1,Morocco 3 0 0 1 4 22 0 315,high,,claude-sonnet-5,2026-10-08,1,no
+o-b1797adac7,0,,1,5th Total,PDF p. 5,Tonga 0 0 0 0 0 0 0 59,high,,claude-sonnet-5,2026-10-08,1,no
+o-76d651688c,18,,1,5th Total,PDF p. 5,Region Total For Oceania 10 0 0 8 18 64 0 627,high,,claude-sonnet-5,2026-10-08,1,no
+o-d4fba2dc4e,0,,1,5th Total,PDF p. 4,Turkey 0 0 0 0 0 120 0 279,high,,claude-sonnet-5,2026-10-08,1,no
+o-3dfaac62c1,0,,1,5th Regional Pilot Program,PDF p. 4,Iceland 0 0 0 1 1 6 0 7,high,,claude-sonnet-5,2026-10-08,1,no
+o-7da8f182a8,935,,1,5th Regional Target Areas,PDF p. 6,"Grand Totals 105 98 1 935 1,139 12,701 0 213,268",high,,claude-sonnet-5,2026-10-08,1,no
+o-aa8d06504e,5,,1,5th Employment Creation,PDF p. 5,Australia 5 0 0 3 8 42 0 77,high,,claude-sonnet-5,2026-10-08,1,no
+o-d9c6ed4da0,1,,1,5th Target Employment Areas,PDF p. 4,Romania 0 1 0 0 1 35 0 335,high,,claude-sonnet-5,2026-10-08,1,no
+o-aa7c2c23fb,0,,1,5th Total,PDF p. 3,Yemen  0  0  0  0  0  41  849,high,,claude-sonnet-5,2026-10-08,1,no
+o-83297a193c,0,,1,5th Regional Pilot Program,PDF p. 6,"Argentina  1  0  0  8  9  1,226  1,444",high,,claude-sonnet-5,2026-10-08,1,no
+o-2008bace68,1,,1,5th Regional Target Areas,PDF p. 3,Czech Republic  0  0  0  1  1  140  157,high,,claude-sonnet-5,2026-10-08,1,no
+o-38be2965d0,0,,1,5th Total,PDF p. 4,Malta  0  0  0  0  0  14  15,high,,claude-sonnet-5,2026-10-08,1,no
+o-376ddda7e7,0,,1,5th Target Employment Areas,PDF p. 7,"Guyana  0  0  0  2  2  157  3,575",high,,claude-sonnet-5,2026-10-08,1,no
+o-7701d8e2ab,3,,1,5th Total,PDF p. 5,Switzerland  0  0  0  3  3  215  226,high,,claude-sonnet-5,2026-10-08,1,no
+o-fe4d0fcbbc,0,,1,5th Employment Creation,PDF p. 7,"Ecuador  0  0  0  3  3  966  4,561",high,,claude-sonnet-5,2026-10-08,1,no
+o-1a24b5e387,0,,1,5th Total,PDF p. 3,United Arab Emirates  0  0  0  0  0  184  288,high,,claude-sonnet-5,2026-10-08,1,no
+o-24efac719b,0,,1,5th Total,PDF p. 1,Botswana  0  0  0  0  0  1  4,high,,claude-sonnet-5,2026-10-08,1,no
+o-71f845cd68,0,,1,5th Total,PDF p. 2,Oman  0  0  0  0  0  0  3,high,,claude-sonnet-5,2026-10-08,1,no
+o-66d2514e85,0,,1,5th Employment Creation,PDF p. 5,Switzerland  0  0  0  2  2  15  22,high,,claude-sonnet-5,2026-10-08,1,no
+o-1de02898eb,0,,1,5th Total,PDF p. 2,Qatar  0  0  0  0  0  0  14,high,,claude-sonnet-5,2026-10-08,1,no
+o-961161acb6,0,,1,5th Total,PDF p. 1,Mauritius  0  0  0  0  0  1  2,high,,claude-sonnet-5,2026-10-08,1,no
+o-13d0ed7a26,0,,1,5th Target Employment Areas,PDF p. 5,Australia  0  0  0  1  1  22  63,high,,claude-sonnet-5,2026-10-08,1,no
+o-aaba29fcb4,0,,1,5th Target Employment Areas,PDF p. 3,"Vietnam  0  0  0  12  12  105  17,569",high,,claude-sonnet-5,2026-10-08,1,no
+o-bfc0ff8fcc,6,,1,5th Total,PDF p. 3,France  0  0  0  6  6  73  186,high,,claude-sonnet-5,2026-10-08,1,no
+o-4a12d63ada,4,,1,5th Total,PDF p. 3,Belgium  0  0  0  4  4  249  268,high,,claude-sonnet-5,2026-10-08,1,no
+o-a7c4c4da3d,0,,1,5th Total,PDF p. 4,South Georgia and the South Sandwich Islands  0  0  0  0  0  0  0,high,,claude-sonnet-5,2026-10-08,1,no
+o-1263199ed7,4,,1,5th Total,PDF p. 2,Zimbabwe  0  0  0  4  4  152  184,high,,claude-sonnet-5,2026-10-08,1,no
+o-ec61fc5e9f,2,,1,5th Total,PDF p. 6,"Guyana  0  1  0  1  2  126  3,139",high,,claude-sonnet-5,2026-10-08,1,no
+o-fc0e7d5f9e,204,,1,5th Total,PDF p. 5,"Region Total For Europe  21  10  1  172  204  20,013  25,062",high,,claude-sonnet-5,2026-10-08,1,no
+o-fcc35cb137,2,,1,5th Total,PDF p. 5,Macau  1  0  1  0  2  17  74,high,,claude-sonnet-5,2026-10-08,1,no
+o-eb72563cd5,0,,1,5th Employment Creation,PDF p. 4,Kazakhstan  0  0  0  8  8  96  130,high,,claude-sonnet-5,2026-10-08,1,no
+o-b5362444f3,0,,1,5th Regional Pilot Program,PDF p. 6,"Region Total For Oceania  4  0  0  2  6  1,055  1,430",high,,claude-sonnet-5,2026-10-08,1,no
+o-6d25b4653e,0,,1,5th Target Employment Areas,PDF p. 2,Nepal  0  0  0  3  3  141  394,high,,claude-sonnet-5,2026-10-08,1,no
+o-3aa528c7a2,1,,1,5th Target Employment Areas,PDF p. 4,Spain  0  1  0  2  3  19  89,high,,claude-sonnet-5,2026-10-08,1,no
+o-3b8e1d950d,0,,1,5th Target Employment Areas,PDF p. 6,Region Total For Oceania  0  0  0  2  2  66  398,high,,claude-sonnet-5,2026-10-08,1,no
+o-958e3e968e,0,,1,5th Regional Pilot Program,PDF p. 3,United Arab Emirates  1  0  0  5  6  30  194,high,,claude-sonnet-5,2026-10-08,1,no
+o-498ad4818e,0,,1,5th Total,PDF p. 5,Cocos (Keeling) Islands  0  0  0  0  0  0  0,high,,claude-sonnet-5,2026-10-08,1,no
+o-6b843ad7d9,1,,1,5th Total,PDF p. 6,Uruguay  0  1  0  0  1  7  28,high,,claude-sonnet-5,2026-10-08,1,no
+o-c705128440,0,,1,5th Total,PDF p. 2,Mongolia  0  0  0  0  0  6  16,high,,claude-sonnet-5,2026-10-08,1,no
+o-b543091d22,0,,1,5th Target Employment Areas,PDF p. 4,Turkey  0  0  0  5  5  89  200,high,,claude-sonnet-5,2026-10-08,1,no
+o-a3b00f9d1b,0,,1,5th Regional Pilot Program,PDF p. 2,Burma  0  0  0  4  4  96  570,high,,claude-sonnet-5,2026-10-08,1,no
+o-9d221dccb0,0,,1,5th Regional Target Areas,PDF p. 3,Qatar  0  1  0  0  1  41  64,high,,claude-sonnet-5,2026-10-08,1,no
+o-923f00775c,0,,1,5th Target Employment Areas,PDF p. 5,"Bahamas, The  0  0  0  1  1  63  124",high,,claude-sonnet-5,2026-10-08,1,no
+o-8f3a090348,0,,1,5th Target Employment Areas,PDF p. 4,Luxembourg  0  0  0  1  1  11  12,high,,claude-sonnet-5,2026-10-08,1,no
+o-fb13182e93,1,,1,5th Regional Target Areas,PDF p. 4,Moldova  0  0  0  1  1  77  157,high,,claude-sonnet-5,2026-10-08,1,no
+o-7328d57acb,0,,1,5th Target Employment Areas,PDF p. 6,Chile  0  0  0  1  1  385  606,high,,claude-sonnet-5,2026-10-08,1,no
+o-ef4474f494,71,,1,5th Regional Target Areas,PDF p. 4,"Great Britain and Northern Ireland  5  8  0  71  84  5,995  6,513",high,,claude-sonnet-5,2026-10-08,1,no
+o-45e5e2e501,2,,1,5th Regional Target Areas,PDF p. 3,Singapore  0  0  0  2  2  496  555,high,,claude-sonnet-5,2026-10-08,1,no
+o-9f6fdbcf87,0,,1,5th Total,PDF p. 20,"Korea, North  0  0  0  0  0  0  2",high,,claude-sonnet-5,2026-10-08,1,no
+o-fb26216ab9,1,,1,5th Regional Target Areas,PDF p. 20,"Syria  0  0  0  1  1  75  1,049",high,,claude-sonnet-5,2026-10-08,1,no
+o-527b72f3ec,0,,1,5th Regional Pilot Program,PDF p. 22,Hungary  0  0  0  1  1  23  52,high,,claude-sonnet-5,2026-10-08,1,no
+o-54e0db97d4,0,,1,5th Target Employment Areas,PDF p. 20,Sri Lanka  0  0  0  1  1  40  190,high,,claude-sonnet-5,2026-10-08,1,no
+o-4cd8f59757,0,,1,5th Total,PDF p. 23,Panama  0  0  0  0  0  4  167,high,,claude-sonnet-5,2026-10-08,1,no
+o-eab5813969,0,,1,5th Employment Creation,PDF p. 24,Region Total For Oceania  0  0  0  3  3  63  402,high,,claude-sonnet-5,2026-10-08,1,no
+o-a8f9e464b6,4,,1,5th Total,PDF p. 22,Norway  0  0  0  4  4  17  20,high,,claude-sonnet-5,2026-10-08,1,no
+o-2fa6126989,0,,1,5th Target Employment Areas,PDF p. 21,New Caledonia  0  0  0  4  4  4  4,high,,claude-sonnet-5,2026-10-08,1,no
+o-dfccab66d7,0,,1,5th Regional Pilot Program,PDF p. 4,Kazakhstan  1  4  0  11  16  127  194,high,,claude-sonnet-5,2026-10-08,1,no
+o-a3282682b8,1,,1,5th Regional Pilot Program,PDF p. 7,"Grand Totals  161  155  1  10,375  10,692  151,359  372,552",high,,claude-sonnet-5,2026-10-08,1,no
+o-64ee1b24dd,0,,1,5th Employment Creation,PDF p. 6,"Ecuador  0  0  0  3  3  883  4,781",high,,claude-sonnet-5,2026-10-08,1,no
+o-c8bca1d606,0,,1,5th Total,PDF p. 4,Lithuania  0  0  0  0  0  50  101,high,,claude-sonnet-5,2026-10-08,1,no
+o-29665f2177,0,,1,5th Employment Creation,PDF p. 5,Slovakia  0  0  0  5  5  123  156,high,,claude-sonnet-5,2026-10-08,1,no
+o-2a9322d477,0,,1,5th Target Employment Areas,PDF p. 3,"Philippines  0  0  0  2  2  8,172  25,141",high,,claude-sonnet-5,2026-10-08,1,no
+o-595e3f4a57,4,,1,5th Total,PDF p. 5,"Honduras  1  0  0  3  4  700  2,717",high,,claude-sonnet-5,2026-10-08,1,no
+o-7ed0fcdb91,0,,1,5th Total,PDF p. 6,Norfolk Island  0  0  0  0  0  0  0,high,,claude-sonnet-5,2026-10-08,1,no
+o-b966c986b3,0,,1,5th Regional Pilot Program,PDF p. 21,Germany  0  0  0  5  5  75  211,high,,claude-sonnet-5,2026-10-08,1,no
+o-43d6271071,0,,1,5th Total,PDF p. 23,Solomon Islands  0  0  0  0  0  0  0,high,,claude-sonnet-5,2026-10-08,1,no
+o-ddb18ab6b6,0,,1,5th Employment Creation,PDF p. 19,Kenya  0  0  0  5  5  49  443,high,,claude-sonnet-5,2026-10-08,1,no
+o-7e35162421,0,,1,5th Target Employment Areas,PDF p. 20,Japan  0  0  0  35  35  206  272,high,,claude-sonnet-5,2026-10-08,1,no
+o-da7040761b,5,,1,5th Employment Creation,PDF p. 20,"Region Total For Africa  5  0  0  84  89  884  9,375",high,,claude-sonnet-5,2026-10-08,1,no
+o-166791086f,0,,1,5th Total,PDF p. 19,Gabon  0  0  0  0  0  0  9,high,,claude-sonnet-5,2026-10-08,1,no
+o-0b890b2bb5,0,,1,5th Total,PDF p. 21,Georgia  0  0  0  0  0  9  108,high,,claude-sonnet-5,2026-10-08,1,no
+o-a3db69142c,0,,1,5th Regional Pilot Program,PDF p. 23,Costa Rica  0  0  0  1  1  10  108,high,,claude-sonnet-5,2026-10-08,1,no
+o-2b64e4c330,1,,1,5th Total,PDF p. 3,TOTAL 1 0 0 6 7 293 298,high,,claude-sonnet-5,2026-10-08,1,no
+o-c8261b53e7,0,,1,5th Regional Pilot Program,PDF p. 5,"Spain  0  0  0  8  8  1,124  1,210",high,,claude-sonnet-5,2026-10-08,1,no
+o-551678351e,19,,1,5th Regional Target Areas,PDF p. 2,"Bangladesh  0  0  0  19  19  668  8,885",high,,claude-sonnet-5,2026-10-08,1,no
+o-d07e44fab8,0,,1,5th Regional Pilot Program,PDF p. 3,TOTAL 1 0 0 6 7 293 298,high,,claude-sonnet-5,2026-10-08,1,no
+o-0ab7f04102,0,,1,5th Target Employment Areas,PDF p. 4,"TOTAL 0 0 0 16 16 2,165 2,271",high,France block begins on p. 3; TOTAL line is at top of p. 4,claude-sonnet-5,2026-10-08,1,no
+o-706d5d44ba,2,,1,5th Total,PDF p. 6,New Zealand  0  0  0  2  2  219  226,high,,claude-sonnet-5,2026-10-08,1,no
+o-c5b7b23ed2,0,,1,5th Total,PDF p. 3,Faroe Islands  0  0  0  0  0  0  0,high,,claude-sonnet-5,2026-10-08,1,no
+o-84b9ff3926,0,,1,5th Total,PDF p. 3,Finland  0  0  0  0  0  212  219,high,,claude-sonnet-5,2026-10-08,1,no
+o-79b9e20678,0,,1,5th Employment Creation,PDF p. 24,Region Total For Oceania  0  0  0  7  7  57  525,high,,claude-sonnet-5,2026-10-08,1,no
+o-c3c6960123,0,,1,5th Employment Creation,PDF p. 22,Netherlands  0  0  0  2  2  18  31,high,,claude-sonnet-5,2026-10-08,1,no
+o-54ec4dffc8,0,,1,5th Target Employment Areas,PDF p. 21,Syria  0  0  0  2  2  47  891,high,,claude-sonnet-5,2026-10-08,1,no
+o-66dc16b256,0,,1,5th Target Employment Areas,PDF p. 20,Hong Kong S.A.R.  0  0  0  30  30  58  773,high,,claude-sonnet-5,2026-10-08,1,no
+o-c945666082,0,,1,5th Regional Pilot Program,PDF p. 20,"Pakistan  0  0  0  26  26  378  7,532",high,,claude-sonnet-5,2026-10-08,1,no
+o-4e02f1db85,43,,1,5th Regional Target Areas,PDF p. 24,"Region Total For South America  0  0  0  43  43  600  14,376",high,,claude-sonnet-5,2026-10-08,1,no
+o-1a549dd6b2,0,,1,5th Regional Pilot Program,PDF p. 20,Hong Kong S.A.R.  0  0  0  30  30  58  773,high,,claude-sonnet-5,2026-10-08,1,no
+o-c0e266e665,0,,1,5th Total,PDF p. 23,"Jamaica  0  0  0  0  0  246  5,957",high,,claude-sonnet-5,2026-10-08,1,no
+o-b2a85b289f,0,,1,5th Total,PDF p. 20,Saint Vincent and the Grenadines  0  0  0  0  0  31  112,high,,claude-sonnet-5,2026-10-08,1,no
+o-65e12891a8,43,,1,5th Employment Creation,PDF p. 19,"Region Total For Europe  43  48  2  334  427  23,842  31,671",high,,claude-sonnet-5,2026-10-08,1,no
+o-cbe52d9d81,0,,1,5th Regional Pilot Program,PDF p. 17,"Yemen  0  0  0  1  1  39  4,162",high,,claude-sonnet-5,2026-10-08,1,no
+o-cf245466cc,0,,1,5th Target Employment Areas,PDF p. 17,Thailand  1  0  0  4  5  372  678,high,,claude-sonnet-5,2026-10-08,1,no
+o-767ba0fa50,40,,1,5th Target Employment Areas,PDF p. 21,"Region Total For South America  12  40  2  295  349  10,796  25,023",high,,claude-sonnet-5,2026-10-08,1,no
+o-9ee93b61b8,5,,1,5th Target Employment Areas,PDF p. 20,"TOTAL 7 5 0 5 17 1,024 1,071",high,TOTAL line under Australia,claude-sonnet-5,2026-10-08,1,no
+o-5412ebee7e,0,,1,5th Regional Pilot Program,PDF p. 17,Malaysia  0  0  0  12  12  586  794,high,,claude-sonnet-5,2026-10-08,1,no
+o-ed1f08cd34,0,,1,5th Target Employment Areas,PDF p. 18,Moldova  0  0  0  2  2  107  240,high,,claude-sonnet-5,2026-10-08,1,no
+o-870007c524,0,,1,5th Target Employment (Areas),PDF p. 21,Georgia | 0 | 0 | 0 | 1 | 1 | 10 | 148,high,,claude-sonnet-5,2026-10-08,1,no
+o-6ba0e95796,0,,1,5th Employment Creation,PDF p. 23,"Mexico | 0 | 0 | 0 | 27 | 27 | 241 | 25,433",high,,claude-sonnet-5,2026-10-08,1,no
+o-5a03b4c199,0,,1,5th Employment Creation,PDF p. 20,South Africa | 0 | 1 | 0 | 21 | 22 | 86 | 170,high,,claude-sonnet-5,2026-10-08,1,no
+o-5f8c96e8be,0,,1,5th Target Employment (Areas),PDF p. 23,Panama | 0 | 0 | 0 | 2 | 2 | 4 | 147,high,,claude-sonnet-5,2026-10-08,1,no
+o-77da031354,21,,1,5th Regional Target Areas,PDF p. 20,South Africa | 0 | 1 | 0 | 21 | 22 | 86 | 170,high,,claude-sonnet-5,2026-10-08,1,no
+o-506de51b45,0,,1,5th Employment Creation,PDF p. 21,"Syria | 0 | 0 | 0 | 9 | 9 | 47 | 1,204",high,,claude-sonnet-5,2026-10-08,1,no
+o-86a55e3414,0,,1,5th Employment Creation,PDF p. 19,"Nigeria | 0 | 0 | 0 | 38 | 38 | 246 | 2,702",high,,claude-sonnet-5,2026-10-08,1,no
+o-7a586c10fc,0,,1,5th Regional Pilot Program,PDF p. 22,Russia | 0 | 5 | 0 | 46 | 51 | 144 | 631,high,,claude-sonnet-5,2026-10-08,1,no
+o-b579bf3753,0,,1,5th Regional Pilot Program,PDF p. 2,"Korea, South | 11 | 2 | 0 | 182 | 195 | 11,329 | 12,710",high,,claude-sonnet-5,2026-10-08,1,no
+o-3380657a99,0,,1,5th Total,PDF p. 6,Solomon Islands | 0 | 0 | 0 | 0 | 0 | 0 | 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-fa932c9e46,0,,1,5th Employment Creation,PDF p. 5,Romania | 0 | 0 | 0 | 2 | 2 | 556 | 818,high,,claude-sonnet-5,2026-10-08,1,no
+o-7df8facc4b,0,,1,5th Total,PDF p. 1,Liberia | 0 | 0 | 0 | 0 | 0 | 40 | 635,high,,claude-sonnet-5,2026-10-08,1,no
+o-68841f47ed,71,,1,5th Regional Target Areas,PDF p. 2,"Hong Kong S.A.R. | 1 | 9 | 0 | 71 | 81 | 531 | 1,365",high,,claude-sonnet-5,2026-10-08,1,no
+o-ed709fcacb,0,,1,5th Regional Pilot Program,PDF p. 1,Cameroon | 0 | 0 | 0 | 1 | 1 | 79 | 568,high,,claude-sonnet-5,2026-10-08,1,no
+o-0d96b184cb,10,,1,5th Regional Target Areas,PDF p. 7,"Peru | 0 | 0 | 0 | 10 | 10 | 428 | 3,085",high,,claude-sonnet-5,2026-10-08,1,no
+o-d516e5f513,0,,1,5th Regional Pilot Program,PDF p. 3,"Pakistan | 0 | 4 | 0 | 18 | 22 | 2,307 | 8,549",high,,claude-sonnet-5,2026-10-08,1,no
+o-a4e2ddb849,0,,1,5th Total,PDF p. 22,Serbia | 0 | 0 | 0 | 0 | 0 | 15 | 128,high,,claude-sonnet-5,2026-10-08,1,no
+o-fe93b2ec54,34,,1,5th Regional Target Areas,PDF p. 20,Japan | 0 | 0 | 0 | 34 | 34 | 154 | 261,high,,claude-sonnet-5,2026-10-08,1,no
+o-4f189395aa,1,,1,5th Regional Target Areas,PDF p. 19,Mauritius | 0 | 0 | 0 | 1 | 1 | 1 | 10,high,,claude-sonnet-5,2026-10-08,1,no
+o-4338c07824,0,,1,5th Total,PDF p. 19,Namibia | 0 | 0 | 0 | 0 | 0 | 0 | 2,high,,claude-sonnet-5,2026-10-08,1,no
+o-fdd2bd5041,2,,1,5th Target Employment (Areas),PDF p. 21,Finland | 0 | 2 | 0 | 0 | 2 | 11 | 16,high,,claude-sonnet-5,2026-10-08,1,no
+o-07832671cd,0,,1,5th Employment Creation,PDF p. 21,Finland | 0 | 2 | 0 | 0 | 2 | 11 | 16,high,,claude-sonnet-5,2026-10-08,1,no
+o-19ff8c2608,0,,1,5th Employment Creation,PDF p. 23,New Zealand | 0 | 1 | 0 | 0 | 1 | 17 | 27,high,,claude-sonnet-5,2026-10-08,1,no
+o-19b969bb79,0,,1,5th Regional Pilot Program,PDF p. 22,Macau | 0 | 0 | 0 | 3 | 3 | 8 | 30,high,,claude-sonnet-5,2026-10-08,1,no
+o-75d4bfed75,0,,1,5th Regional Pilot Program,PDF p. 3,United Arab Emirates | 0 | 7 | 0 | 47 | 54 | 616 | 853,high,,claude-sonnet-5,2026-10-08,1,no
+o-95b8369140,4,,1,5th Total,PDF p. 6,"Jamaica | 0 | 0 | 0 | 4 | 4 | 953 | 6,715",high,,claude-sonnet-5,2026-10-08,1,no
+o-b1ac3c06bf,1,,1,5th Regional Target Areas,PDF p. 1,Namibia | 0 | 0 | 0 | 1 | 1 | 6 | 7,high,,claude-sonnet-5,2026-10-08,1,no
+o-ef628c5c60,1,,1,5th Target Employment (Areas),PDF p. 2,Togo | 0 | 1 | 0 | 0 | 1 | 15 | 257,high,,claude-sonnet-5,2026-10-08,1,no
+o-ff9dd8f177,9,,1,5th Total,PDF p. 6,New Zealand | 1 | 1 | 0 | 7 | 9 | 232 | 245,high,,claude-sonnet-5,2026-10-08,1,no
+o-e097fda509,0,,1,5th Regional Pilot Program,PDF p. 4,"TOTAL | 4 | 4 | 0 | 66 | 74 | 2,351 | 2,495",high,"row is the first TOTAL line on the page, the subtotal block for France and its dependent areas (Polynesia, New Caledonia, Wallis and Futuna etc.); label printed just as TOTAL",claude-sonnet-5,2026-10-08,1,no
+o-cea6ac5457,1,,1,5th Target Employment (Areas),PDF p. 7,"Ecuador | 1 | 1 | 0 | 5 | 7 | 440 | 3,723",high,,claude-sonnet-5,2026-10-08,1,no
+o-2c3d2b2638,4,,1,5th Regional Target Areas,PDF p. 1,Mali | 0 | 0 | 0 | 4 | 4 | 19 | 66,high,,claude-sonnet-5,2026-10-08,1,no
+o-d5fbb0879c,0,,1,5th Regional Pilot Program,PDF p. 21,Germany | 0 | 4 | 0 | 10 | 14 | 105 | 248,high,,claude-sonnet-5,2026-10-08,1,no
+o-08f7174fce,2,,1,5th Total,PDF p. 19,"Ethiopia | 0 | 0 | 0 | 2 | 2 | 101 | 2,100",high,,claude-sonnet-5,2026-10-08,1,no
+o-70648312f6,1,,1,5th Total,PDF p. 19,Namibia | 0 | 0 | 0 | 1 | 1 | 2 | 3,high,,claude-sonnet-5,2026-10-08,1,no
+o-4c4c4bc8ba,0,,1,5th Regional Pilot Program,PDF p. 20,"Bangladesh | 0 | 0 | 0 | 18 | 18 | 117 | 7,888",high,,claude-sonnet-5,2026-10-08,1,no
+o-3a760d3c58,0,,1,5th Total,PDF p. 22,Liechtenstein | 0 | 0 | 0 | 0 | 0 | 0 | 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-8450c35389,0,,1,5th Target Employment (Areas),PDF p. 19,Morocco | 0 | 0 | 0 | 5 | 5 | 33 | 327,high,,claude-sonnet-5,2026-10-08,1,no
+o-99335c7d4e,16,,1,5th Regional Target Areas,PDF p. 20,Qatar | 0 | 0 | 0 | 16 | 16 | 24 | 57,high,,claude-sonnet-5,2026-10-08,1,no
+o-73fb0e2cf6,2,,1,5th Regional Target Areas,PDF p. 19,Eritrea | 0 | 0 | 0 | 2 | 2 | 39 | 308,high,,claude-sonnet-5,2026-10-08,1,no

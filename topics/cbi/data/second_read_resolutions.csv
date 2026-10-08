@@ -121,3 +121,12 @@ o-dc3b2d7333,vut-mfem-monthly-2025-12,both_in_document,"Row is the 2025 budget t
 o-a5dc3c7174,vut-mfem-monthly-2025-12,both_in_document,"Row is the December forecast (VT 618.3 million, status budget); second reader gave the actual printed in the same sentence (VT 887.3 million).",claude (page text),2026-10-08
 o-2cc33c8b8a,lca-ciu-ar-2015-16,first_correct,No figure printed; s. 11.5 says 'there were no investment inflows' in the year. Recorded as 0 from the words; both readers agree on the text.,claude (page text),2026-10-08
 o-456f81fadf,lca-ciu-ar-2015-16,first_correct,No figure printed; s. 11.5.4 says there are 'no outflows' to government in the first year. Recorded as 0 from the words; both readers agree on the text.,claude (page text),2026-10-08
+o-09efe93938,phl-pra-ar-2019,both_in_document,"Row is the 2019 target (53,797, status budget); the second reader gave the accomplishment printed beside it (49,271). Both on p. 50.",claude (page text),2026-10-08
+o-b6daf18016,tur-tbmm-bakan-q-2025-09,first_correct,Printed in words '181 milyon 200 bin dolar' = 181.2 million; both readers agree.,claude (page text),2026-10-08
+o-d4a1ed609b,usa-court-behring-ndcal-2022,first_correct,"Printed 'six months'; both readers agree (a non-binding target, status budget).",claude (page text),2026-10-08
+o-e7d0850585,phl-pra-ar-2020,first_correct,"Number wraps over two lines on p. 42 ('584,270,596.1' / '3'); both readers agree on 584,270,596.13.",claude (page text),2026-10-08
+o-2b64e4c330,usa-dos-vo-2015-table-v3,first_correct,Denmark TOTAL line prints '1 0 0 6 7': the four classes 1+0+0+6 add to the 5th Total of 7. The second reader took the first class column.,claude (page text),2026-10-08
+o-ed4e2c5bc3,phl-pra-ar-2019,first_correct,"Chart prints 432,746 with no unit; first reading's 'thousand' (PHP) is inferred from other printed figures and said so in notes. Digits agree. Unit inferred: see overnight log.",claude (page text),2026-10-08
+o-23271edbe0,phl-pra-ar-2020,first_correct,"Chart prints 258,489 with no unit; 'thousand' inferred from other printed figures (notes say so). Digits agree. Unit inferred: see overnight log.",claude (page text),2026-10-08
+o-6684697fc2,phl-pra-ar-2020,first_correct,"Chart prints $572,981 with no unit; 'thousand' inferred (notes say so). Digits agree. Unit inferred: see overnight log.",claude (page text),2026-10-08
+o-a6296bf8f3,phl-pra-ar-2020,first_correct,"Chart prints Php4,560,849 with no unit; 'thousand' inferred (notes say so). Digits agree. Unit inferred: see overnight log.",claude (page text),2026-10-08
