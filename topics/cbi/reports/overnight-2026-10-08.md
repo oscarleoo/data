@@ -107,3 +107,16 @@ says what was done to it.
 - Did not add up (recorded as printed): IGAI Madeira "11 + 21 = 33"; AIMA second card copy
   EUR 4,210.30 vs 50% of the issue fee (4,209.45); low-density culture route EUR 220k vs 20% off 250k.
 - New split values made up by the pass, to review: `region=sef_*` offices, `applicant=main_and_family`.
+
+### Portugal, batch 3 (pass `extract-cbi-prt3`)
+- 14 documents reviewed (SEF annual reports RIFA 2013-2022, July-September 2023 infographics,
+  Constitutional Court ruling 1133/2025): all complete.
+- Added 9 numbers and 3 events: 2013 shares of applications by nationality (China 80%, Brazil 3%,
+  Russia 3%, Angola 2%, South Africa 2%, others 11%; printed shares add to 101%), 2013 refusals,
+  2019 family-member permits from the legal-basis table (2,186; the same report's text says 2,390,
+  unexplained, both kept), the 2012 and 2013 rule changes, the 2018 portal update.
+- Did not add up, no figures printed for the rest (gaps, not to-dos): approvals by route in 2014
+  (1,523 vs 1,526), 2015 (764 vs 766), 2017 (1,276 vs 1,351, EUR 26.9m short).
+- Fixed: two August 2023 rows quoted "SUBALÍNEA 1", which the page doesn't print. The page prints
+  "SUBALÍNEA 3" with "SUBPARAGRAPH 1" (a misprint). Quote corrected via corrections.csv after
+  checking the page image.
