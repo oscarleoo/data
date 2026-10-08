@@ -831,3 +831,14 @@ says what was done to it.
 - Gap: the Home Office dataset of Investor visas by nationality after 2018 isn't stored (lead).
 - **Decisions needed:** 3 new indicators; Home Office "extensions" include people switching in (recorded as
   renewals with notes); keep or drop printed zero cells.
+
+### Egypt batch 2 and Turkey batch 1 (passes `extract-cbi-egy2`, `extract-cbi-tur1`)
+- Egypt: 1 document (Law 173/2018), complete, nothing new.
+- Turkey: 15 documents reviewed (TÜİK monthly house sales to foreigners, parliamentary records 2024-2025,
+  regulations and decrees 2016-2023, Land Registry pages): all complete.
+- Added 160 numbers, 2 rules, 6 events: house sales to foreigners by month Jan 2013-Dec 2025 (each year adds to
+  the printed total); MPs' claims (about 500,000 naturalised through investment); the minister's 451 foreigners
+  caught in sham property sales; the off-plan purchase thresholds (USD 250,000, then 400,000 from June 2022);
+  rule changes 2016-2024.
+- **Decision needed:** existing rows quoting a ministry figure through an MP (19,630 certificates) are marked
+  "reported"; the rule for MP claims says "claim".

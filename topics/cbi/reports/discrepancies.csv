@@ -4719,6 +4719,10 @@ PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,270361097.
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24000,1,24000.0,estimate,sgp-parl-oa-gip-2023,Parliament of Singapore (Official Report / Hansard),2023-02-23,2.8,conflict,o-96bf846137
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24699,1,24699.0,actual,sgp-edb-gip-mr-2023,Singapore Economic Development Board (EDB),2023-03-02,2.8,conflict,o-b3bdec04bd
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24699,1,24699.0,actual,sgp-edb-gipselect-mr-2023,Singapore Economic Development Board (EDB),2023-06-01,2.8,conflict,o-42e3541f5e
+TUR,tur-cbi,house_sales_foreigners,2022,dwellings,67000,1,67000.0,claim,tur-tbmm-pbk-2024-11-20,Türkiye Büyük Millet Meclisi,2024-11-20,0.7,conflict,o-5f2954b328
+TUR,tur-cbi,house_sales_foreigners,2022,dwellings,67490,1,67490.0,actual,tur-tuik-foreign-house-sales,Türkiye İstatistik Kurumu (TÜİK/TurkStat); source data TKGM,2026,0.7,conflict,o-3fe727f27d
+TUR,tur-cbi,persons_naturalised,2024-11-20,persons,159433,1,159433.0,provisional,tur-tbmm-pbk-2024-11-20,Türkiye Büyük Millet Meclisi,2024-11-20,68.1,revision,o-779b3f1c8e
+TUR,tur-cbi,persons_naturalised,2024-11-20,persons,500000,1,500000.0,claim,tur-tbmm-pbk-2024-11-20,Türkiye Büyük Millet Meclisi,2024-11-20,68.1,revision,o-27e449869f
 USA,usa-eb5,applications_received,FY2010,applications,1953,1,1953.0,actual,usa-uscis-data-i526-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,0.1,revision,o-3748a8f566
 USA,usa-eb5,applications_received,FY2010,applications,1955,1,1955.0,actual,usa-uscis-data-i526-i829-fy1991-2013,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2013-08-14,0.1,revision,o-a0a4a02684
 USA,usa-eb5,applications_received,FY2018,applications,6424,1,6424.0,actual,usa-uscis-data-i526-fy2020q1,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2020,3.0,conflict,o-f8b2e524fd
