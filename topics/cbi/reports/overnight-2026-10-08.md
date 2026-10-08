@@ -56,12 +56,12 @@ says what was done to it.
 - Result: 0 open differences across the whole CBI dataset (5,887 confirmed, 113 ruled).
 
 ### St Kitts and Nevis, Vanuatu (pass `extract-kna-vut`)
-- 16 documents reviewed: 10 complete, 6 partial.
+- 16 documents reviewed: 11 complete, 5 partial (the ledger file; the agent's own summary said 10/6).
 - Added 58 numbers, 11 fee rows and 2 events. St Kitts audit reports 2016-2024: programme revenue
   split by component, revenue targets, the programme's share of government cash receipts, running
   costs, the citizen dividend. Vanuatu Treasury monthly reports: December collections, restated
   yearly totals, 2025 target. Vanuatu fee pages: family-size prices, due-diligence and child fees.
-- Partial (5 St Kitts audit reports 2018-2022, plus one more): spending on the Hurricane Relief
+- Partial (St Kitts audit reports 2018-2022): spending on the Hurricane Relief
   Programme is printed, but the reports don't say it was paid from programme money. Left out
   pending a decision. **Decision needed.**
 - Conflicts noted: Vanuatu fee schedule says a VT5,000 application fee, the web page says USD 250.
