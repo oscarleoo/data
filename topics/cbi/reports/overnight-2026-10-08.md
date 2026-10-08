@@ -422,3 +422,15 @@ says what was done to it.
   (the European Commission row uses "reported"); three programmes in the IMF 2015 table matched by
   amount (Switzerland, New Zealand, Australia) and one with no programme (France EUR 10m); the IMF says
   the EU delayed full suspension to August 2024, EU documents say it was decided in November 2022.
+
+### St Kitts and Nevis, batch 3 (pass `extract-cbi-kna3`)
+- 12 documents reviewed (regulations SRO 26/2023, 20/2024, 43/2024, 1/2026; the Prime Minister's
+  October 2024 speech; sugar-industry background sources): 11 complete, 1 partial (a duplicate file).
+- Added 24 numbers, 66 rules, 4 events: full price and fee schedules of the 2023, 2024 and 2026
+  regulations (couple and dependant prices, due diligence, processing, post-approval fees, agent
+  fees, payments to agents out of each donation, transition fees); parents as dependants from 55;
+  the PM's claim of "between 60-70 percent of our Federal revenue" (marked as a claim); FAOSTAT
+  raw-sugar exports 2008-2017 and 2022.
+- **Correction needed:** an existing event attributes the January-June 2023 US$125,000 price to a
+  news article that doesn't say it; it comes from the CIU head's December 2022 address.
+- St Kitts now: see the ledger for the remaining St Kitts documents.
