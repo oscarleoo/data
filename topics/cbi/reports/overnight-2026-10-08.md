@@ -958,4 +958,4 @@ says what was done to it.
   passports to Russians). Every table adds up.
 - The 2021 report also describes other countries' programmes; recorded on those programmes (Malta link chosen by
   date: check).
-- Montenegro now: all stored Montenegro documents reviewed (see ledger count).
+- Montenegro now: all 16 stored Montenegro documents reviewed (15 complete, 1 not applicable; checked in the ledger).

@@ -972,9 +972,10 @@ USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2016,cases,185,1,185.0,actu
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2022,cases,304,1,304.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.3,revision,o-cbda47ad64
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2022,cases,305,1,305.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.3,revision,o-b1a4a479ca
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2022,cases,305,1,305.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.3,revision,o-97c8faf29f
-USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,500,1,500.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,1.2,revision,o-89800965f3
-USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,505,1,505.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,1.2,revision,o-762737f017
-USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,506,1,506.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,1.2,revision,o-b171193d4e
+USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,500,1,500.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,1.2,conflict,o-89800965f3
+USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,500,1,500.0,reported,usa-flmd-zafirov-order-2024,"U.S. District Court, Middle District of Florida",2024-09-30,1.2,conflict,o-bfd943a654
+USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,505,1,505.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,1.2,conflict,o-762737f017
+USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2023,cases,506,1,506.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,1.2,conflict,o-b171193d4e
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2024,cases,423,1,423.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.5,revision,o-5dd8cc7ffb
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2024,cases,425,1,425.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.5,revision,o-bae7e19a07
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened [agency=HHS],FY2016,cases,95,1,95.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,1.0,revision,o-a2114d3be7
@@ -995,6 +996,7 @@ USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,30,1,30.0,actual,usa-doj-fc
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,31,1,31.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,9.1,conflict,o-38816be4c7
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,31,1,31.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,9.1,conflict,o-17c2221610
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,31,1,31.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,9.1,conflict,o-5c8f3f2397
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,31,1,31.0,reported,usa-flmd-zafirov-order-2024,"U.S. District Court, Middle District of Florida",2024-09-30,9.1,conflict,o-c5f80a59cf
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1987,cases,33,1,33.0,actual,usa-doj-fca-pr-fy1998,"U.S. Department of Justice, Office of Public Affairs",1998-10-23,9.1,conflict,o-fd6680dcd4
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1997,cases,534,1,534.0,actual,usa-doj-fca-pr-fy1998,"U.S. Department of Justice, Office of Public Affairs",1998-10-23,2.6,conflict,o-4fbd350a5f
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY1997,cases,548,1,548.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,2.6,conflict,o-daec4befba
@@ -1048,6 +1050,7 @@ USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2022,cases,660,1,660.0,actual,usa-doj-
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2023,cases,712,1,712.0,actual,usa-doj-fca-pr-fy2023,"U.S. Department of Justice, Office of Public Affairs",2024-02-22,0.1,conflict,o-16315ca559
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2023,cases,712,1,712.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.1,conflict,o-9ce19374d2
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2023,cases,712,1,712.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.1,conflict,o-19862a1a18
+USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2023,cases,712,1,712.0,reported,usa-flmd-zafirov-order-2024,"U.S. District Court, Middle District of Florida",2024-09-30,0.1,conflict,o-957c53d5e6
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2023,cases,713,1,713.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,conflict,o-64b2ce379b
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2024,cases,979,1,979.0,actual,usa-doj-fca-pr-fy2024,"U.S. Department of Justice, Office of Public Affairs",2025-01-15,0.1,conflict,o-08f1560ee9
 USA,usa-fca-qui-tam,qui_tam_suits_filed,FY2024,cases,979,1,979.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.1,conflict,o-b19e724343
@@ -1405,6 +1408,7 @@ USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2022,USD,1991247248,1,19912
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2022,USD,1996472978,1,1996472978.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,5.3,conflict,o-34a77c5630
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2022,USD,2006630594,1,2006630594.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,5.3,conflict,o-67ddaf706d
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2023,USD,2.3,billion,2300000000.0,actual,usa-doj-fca-pr-fy2023,"U.S. Department of Justice, Office of Public Affairs",2024-02-22,9.0,conflict,o-7767c2e7c5
+USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2023,USD,2.3,billion,2300000000.0,reported,usa-flmd-zafirov-order-2024,"U.S. District Court, Middle District of Florida",2024-09-30,9.0,conflict,o-b777dcf964
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2023,USD,2333267231,1,2333267231.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,9.0,conflict,o-ed8e453252
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2023,USD,2423697644,1,2423697644.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,9.0,conflict,o-4692405800
 USA,usa-fca-qui-tam,recoveries_whistleblower_cases,FY2023,USD,2528717807,1,2528717807.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,9.0,conflict,o-a9564e0b37
@@ -1925,6 +1929,8 @@ USA,usa-fca-qui-tam,relator_share_awards [intervention=intervened],FY2024,USD,34
 USA,usa-fca-qui-tam,relator_share_awards [intervention=intervened],FY2024,USD,393046308,1,393046308.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,12.3,revision,o-2337ba209a
 USA,usa-fca-qui-tam,settlements_judgments_count,FY2023,cases,543,1,543.0,actual,usa-doj-fca-pr-fy2023,"U.S. Department of Justice, Office of Public Affairs",2024-02-22,4.1,revision,o-e06059a749
 USA,usa-fca-qui-tam,settlements_judgments_count,FY2023,cases,566,1,566.0,actual,usa-doj-fca-pr-fy2024,"U.S. Department of Justice, Office of Public Affairs",2025-01-15,4.1,revision,o-73925d17e9
+USA,usa-fincen-aml-wb,tip_share [item=award_application_later],2021-2025,percent,1.92,1,1.92,estimate,usa-fincen-wb-nprm-2026,"Financial Crimes Enforcement Network, U.S. Department of the Treasury",2026-04-01,36.0,same_source,o-4fdc4d7110
+USA,usa-fincen-aml-wb,tip_share [item=award_application_later],2021-2025,percent,3,1,3.0,estimate,usa-fincen-wb-nprm-2026,"Financial Crimes Enforcement Network, U.S. Department of the Treasury",2026-04-01,36.0,same_source,o-8142b787e2
 USA,usa-fincen-aml-wb,tips_received [tip_type=new],2025,tips,120,1,120.0,projection,usa-fincen-wb-nprm-2026,"Financial Crimes Enforcement Network, U.S. Department of the Treasury",2026-04-01,11.1,same_source,o-aa4ede4b18
 USA,usa-fincen-aml-wb,tips_received [tip_type=new],2025,tips,135,1,135.0,projection,usa-fincen-wb-nprm-2026,"Financial Crimes Enforcement Network, U.S. Department of the Treasury",2026-04-01,11.1,same_source,o-a61d32fe17
 USA,usa-irs-wbo,award_rate_average,FY2013,percent,14.6,1,14.6,actual,usa-irs-wbo-ar-fy2013,Internal Revenue Service,2014,7.0,revision,o-b0f374bac5
@@ -1971,6 +1977,16 @@ USA,usa-irs-wbo,claims_open,FY2013,claims,22330,1,22330.0,actual,usa-irs-wbo-ar-
 USA,usa-irs-wbo,claims_open,FY2014,claims,8682,1,8682.0,actual,usa-irs-wbo-ar-fy2014,Internal Revenue Service,2015,71.2,revision,o-4e5501946c
 USA,usa-irs-wbo,claims_open,FY2014,claims,30152,1,30152.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,71.2,revision,o-717356dafa
 USA,usa-irs-wbo,claims_open,FY2014,claims,30152,1,30152.0,actual,usa-irs-wbo-ar-fy2016,Internal Revenue Service,2017,71.2,revision,o-dd687144ea
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=LB&I],FY2013-2015-08-05,percent,89,1,89.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,9.2,same_source,o-2e3a6ebe1c
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=LB&I],FY2013-2015-08-05,percent,98,1,98.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,9.2,same_source,o-a04df45d92
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=SB/SE],FY2013-2015-08-05,percent,80,1,80.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,12.1,same_source,o-52d8234159
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=SB/SE],FY2013-2015-08-05,percent,91,1,91.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,12.1,same_source,o-0d59d75471
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=TE/GE],FY2013-2015-08-05,percent,56,1,56.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,5.1,same_source,o-41d0f900f1
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=TE/GE],FY2013-2015-08-05,percent,59,1,59.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,5.1,same_source,o-43e775ffcb
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=not_specified],FY2013-2015-08-05,percent,5,1,5.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,91.7,same_source,o-b3d5d68dea
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred;division=not_specified],FY2013-2015-08-05,percent,60,1,60.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,91.7,same_source,o-0a56b01b06
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred],FY2013-2015-08-05,percent,83,1,83.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,5.7,same_source,o-60bc6c2f8d
+USA,usa-irs-wbo,claims_referred_to_exam [subsection=7623b;item=share_referred],FY2013-2015-08-05,percent,88,1,88.0,actual,usa-gao-16-20,U.S. Government Accountability Office,2015-10-29,5.7,same_source,o-1b0ef10acb
 USA,usa-irs-wbo,collections_attributable,2007-2018,USD,3.6,billion,3600000000.0,actual,usa-gao-18-698,U.S. Government Accountability Office,2018-09-28,28.7,conflict,o-e48c8f1d8b
 USA,usa-irs-wbo,collections_attributable,2007-2018,USD,5051188583,1,5051188583.0,actual,usa-irs-wbo-ar-fy2018,Internal Revenue Service,2019,28.7,conflict,o-52b887936e
 USA,usa-irs-wbo,collections_attributable,FY2013,USD,343674315,1,343674315.0,actual,usa-irs-wbo-ar-fy2015,Internal Revenue Service,2016-02,6.4,conflict,o-1793d8415c
