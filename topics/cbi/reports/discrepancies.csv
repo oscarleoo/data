@@ -293,6 +293,10 @@ AUS,aus-siv,main_applicants_approved [nationality=ZAF],FY2020/21,persons,14,1,14
 AUS,aus-siv,main_applicants_approved [nationality=ZAF],FY2020/21,persons,17,1,17.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,17.6,conflict,o-5b155ff07d
 AUS,aus-siv,withdrawal_rate,FY2018/19,percent,19.7,1,19.7,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,41.5,revision,o-377c7f9afb
 AUS,aus-siv,withdrawal_rate,FY2018/19,percent,33.7,1,33.7,actual,aus-dha-foi-200800701-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,41.5,revision,o-370c157938
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-RJ],2024,BRL,125.2,million,125200000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,24.3,conflict,o-547a8a3437
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-RJ],2024,BRL,165452931,1,165452931.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,24.3,conflict,o-b178b8c145
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-SP],2024,BRL,56.4,million,56400000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,15.1,conflict,o-c5b1304df2
+BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-SP],2024,BRL,66427052,1,66427052.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,15.1,conflict,o-86eb9c3750
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,283.2,million,283200000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,21.9,conflict,o-c2e6932b63
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,362610096,1,362610096.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,21.9,conflict,o-77b7f9d20c
 CAN,can-iip,processing_time_months [category=80pct_of_cases],2007,months,32,1,32.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-2a0468d1fe
@@ -305,8 +309,11 @@ CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,unspecified,2.483,billion,2
 CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,unspecified,2483979999,1,2483979999.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-a73a202c05
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,33.6,million,33600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-e8dca58755
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,45.6,million,45600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-13428e5331
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2011-2012,percent_of_gdp,3,1,3.0,estimate,com-imf-hipc-cp-2013,International Monetary Fund,2013-02-08,25.0,revision,o-18a439c5ee
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2011-2012,percent_of_gdp,4,1,4.0,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,25.0,revision,o-243530aa09
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,1.4,1,1.4,budget,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-a98cf229af
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,3,1,3.0,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-0e64521d37
+COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,3,1,3.0,estimate,com-imf-hipc-cp-2013,International Monetary Fund,2013-02-08,76.7,same_source,o-fcc3a822cf
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-af83db0cb7
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-5341330f0c
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,estimate,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef

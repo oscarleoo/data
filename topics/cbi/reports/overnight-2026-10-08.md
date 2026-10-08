@@ -1015,3 +1015,25 @@ corrections held in inbox files (whistleblowing US batch 10); CFTC collision fix
 (8 cases were missing on the live page).
 
 **Nothing was pushed** to GitHub or the site. All work is committed locally in ~/Claude/data.
+
+## After the stop (merged 9 October, once work could resume)
+
+### CBI: small jurisdictions 1-4, Austria, Brazil, Switzerland
+- 107 documents reviewed. Small jurisdictions (Anguilla, Argentina, Saudi Arabia, Sierra Leone, São Tomé,
+  Bulgaria, Comoros, Cambodia, Netherlands, Indonesia, Turks and Caicos, Qatar, Botswana, Uruguay, Lithuania,
+  Luxembourg, Costa Rica, Estonia, Croatia, Mexico, Monaco, Samoa, France, Papua New Guinea, Moldova, Barbados,
+  Dominican Republic, Ghana): mostly rules and dated changes, 29 numbers. Austria: nothing new. Brazil: 415
+  numbers (OBMigra reports; every table adds up). Switzerland: 456 numbers (lump-sum taxpayers by canton
+  2008-2018, revenue, 2011 Federal Council message).
+- **Check by eye:** Brazil 2025 Tabela 12, Bahia 2024 (OCR reads 25,272,050 or 29,272,050; recorded the first).
+- **Corrections suggested:** an existing Botswana event says Parliament "approves" a bill that only passed
+  second reading; Luxembourg's launch date (8 vs 20 March 2017).
+
+### Whistleblowing: US batches 8, 9, 11, 12; Hungary, Lithuania, other countries
+- 104 documents reviewed. Added 1,575 numbers and 276 cases: SEC annual reports FY2011-FY2025 (fund tables, tips
+  by month, category and state, award statistics), 80 SEC award orders (denied claimants; Release 90864 split
+  into four awards), Hungary's competition-authority informant rewards, Lithuania's prosecutor reports, rules
+  for Taiwan, the EU Directive, Ghana, Slovakia.
+- Many SEC press-release cases repeat awards already recorded (flagged "do not add together"; to deduplicate).
+- Suggested corrections to existing award notes from batches 9, 11 and 12 (about 80) are held in the inbox
+  files, **not applied**.
