@@ -4445,8 +4445,82 @@ LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,305700,1,3057
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,576885,1,576885.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,47.0,revision,o-9c405ff7f8
 LCA,lca-cbi,processing_time_days,FY2019/20,days,56,1,56.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,11.1,revision,o-493145de8f
 LCA,lca-cbi,processing_time_days,FY2019/20,days,63,1,63.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,11.1,revision,o-abd64df78f
-MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.3,conflict,o-7d17947da8
-MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.3,conflict,o-406863c9c4
+MLT,,cbi_to_development_fund,2015/2024,EUR,786139822,1,786139822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-f7f9249405
+MLT,,cbi_to_development_fund,2015/2024,EUR,786499822,1,786499822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-5253eaceb1
+MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,21.1,revision,o-b6063856f7
+MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,21.1,revision,o-2b757aa1ad
+MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,21.1,revision,o-e01ced57e5
+MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,19,1,19.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,21.1,revision,o-e521dfa1da
+MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,81,1,81.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,4.7,revision,o-cda91d4e89
+MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,4.7,revision,o-1247a7b1e4
+MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,4.7,revision,o-2a4a8f07ed
+MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,4.7,revision,o-8015fa8e6e
+MLT,mlt-iip,applications_received,FY2015/16,applications,450,1,450.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,0.2,revision,o-420f111bed
+MLT,mlt-iip,applications_received,FY2015/16,applications,451,1,451.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-c3a21e5f0e
+MLT,mlt-iip,applications_received [applicant=dependant],FY2015/16,persons,1186,1,1186.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,0.2,revision,o-82158bce53
+MLT,mlt-iip,applications_received [applicant=dependant],FY2015/16,persons,1188,1,1188.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-b1cd843b9c
+MLT,mlt-iip,applications_rejected,FY2014/15,applications,8,1,8.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,27.3,revision,o-7f5597660c
+MLT,mlt-iip,applications_rejected,FY2014/15,applications,11,1,11.0,actual,mlt-orgcem-ar-2015,Office of the Regulator (Malta),2015-10,27.3,revision,o-9f23631514
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],2019-07/2020-12,applications,101,1,101.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,29.4,revision,o-5c47775075
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],2019-07/2020-12,applications,143,1,143.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,29.4,revision,o-ef967c206a
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],2021,applications,75,1,75.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,14.8,revision,o-12bd1be6ee
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],2021,applications,88,1,88.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,14.8,revision,o-0fd1a7342d
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,applications,72,1,72.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,32.7,revision,o-0cae8d073a
+MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,applications,107,1,107.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,32.7,revision,o-3514af1fae
+MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1150300000,1,1150300000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-620ae228d7
+MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1153415534.34,1,1153415534.34,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-7e6056d02c
+MLT,mlt-iip,cbi_to_development_fund,2014/2017-06,EUR,249328799,1,249328799.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,39.0,revision,o-d3bf577ce7
+MLT,mlt-iip,cbi_to_development_fund,2014/2017-06,EUR,408404349,1,408404349.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,39.0,revision,o-31b306f1bf
+MLT,mlt-iip,cbi_to_development_fund,2019,EUR,105506520,1,105506520.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-d93c4b94ed
+MLT,mlt-iip,cbi_to_development_fund,2019,EUR,105.9,million,105900000.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-9480e23c85
+MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,106855199,1,106855199.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,38.9,revision,o-2692267ec8
+MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,174855645,1,174855645.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,38.9,revision,o-be509a300e
+MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,23701500,1,23701500.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,33.3,revision,o-de79029029
+MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,35529000,1,35529000.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,33.3,revision,o-2a46f45767
+MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,43,1,43.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.3,revision,o-de1ef6af3d
+MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,44,1,44.0,actual,mlt-orgcem-ar-2015,Office of the Regulator (Malta),2015-10,2.3,revision,o-5c37eb542a
+MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,134,1,134.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.2,revision,o-d2841cf6a8
+MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,137,1,137.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.2,revision,o-cd5c0e38c6
+MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,137,1,137.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,2.2,revision,o-f5e0f0f7cb
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],2014/2015-06,properties,7,1,7.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,22.2,revision,o-1ba2f5d5d0
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],2014/2015-06,properties,7,1,7.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,22.2,revision,o-25acaabcd6
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],2014/2015-06,properties,8,1,8.0,actual,mlt-orgcem-ar-2015,Office of the Regulator (Malta),2015-10,22.2,revision,o-f460959949
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],2014/2015-06,properties,9,1,9.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,22.2,revision,o-248366cd5a
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2015/16,properties,27,1,27.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,15.6,revision,o-7c16f639f3
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2015/16,properties,27,1,27.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,15.6,revision,o-8626b53a3f
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2015/16,properties,27,1,27.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,15.6,revision,o-f565c58074
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2015/16,properties,32,1,32.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,15.6,revision,o-fc449a97e7
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2016/17,properties,46,1,46.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,19.3,revision,o-655ba61aee
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2016/17,properties,46,1,46.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,19.3,revision,o-e1ec1c8032
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2016/17,properties,57,1,57.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,19.3,revision,o-c7037ba64d
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2017/18,properties,25,1,25.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,13.8,revision,o-d81d114b6d
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate],FY2017/18,properties,29,1,29.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,13.8,revision,o-418955e529
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],2014/2015-06,properties,34,1,34.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,5.6,revision,o-c761f95d31
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],2014/2015-06,properties,36,1,36.0,actual,mlt-orgcem-ar-2015,Office of the Regulator (Malta),2015-10,5.6,revision,o-359a40638b
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],2014/2015-06,properties,36,1,36.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,5.6,revision,o-bcad45f2d2
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],2014/2015-06,properties,36,1,36.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,5.6,revision,o-87fd768c0b
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2015/16,properties,102,1,102.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,4.7,revision,o-dd0581a302
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2015/16,properties,107,1,107.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,4.7,revision,o-82b739173a
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2015/16,properties,107,1,107.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,4.7,revision,o-db44171bb6
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2015/16,properties,107,1,107.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,4.7,revision,o-ca81ec490f
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2016/17,properties,333,1,333.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,2.1,revision,o-a2b3f3e5e2
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2016/17,properties,340,1,340.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.1,revision,o-fd1ca7af4e
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2016/17,properties,340,1,340.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,2.1,revision,o-640ab9b48e
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2017/18,properties,237,1,237.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,1.7,revision,o-3a854b24cd
+MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2017/18,properties,241,1,241.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,1.7,revision,o-ceca14f6e0
+MLT,mlt-iip,rbi_intermediary_income,2014/2017-06,EUR,19054000,1,19054000.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,33.8,revision,o-ef1b2f84b5
+MLT,mlt-iip,rbi_intermediary_income,2014/2017-06,EUR,28800000,1,28800000.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,33.8,revision,o-19f997d6b7
+MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,26733764.73,1,26733764.73,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.8,revision,o-d650082040
+MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,27501884.88,1,27501884.88,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.8,revision,o-2d716ff90a
+MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2017-06,EUR,85873164.71,1,85873164.71,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-a3a3d86b9d
+MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2017-06,EUR,86024299.71,1,86024299.71,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,0.2,revision,o-cce430ac2a
+MLT,mlt-mec,cbi_applicant_donations,2022,EUR,150000,1,150000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,0.1,revision,o-ae11fce628
+MLT,mlt-mec,cbi_applicant_donations,2022,EUR,150100,1,150100.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.1,revision,o-d6bb066325
+MLT,mlt-mec,cbi_applicant_donations [category=recipient_fgura_united],2022,EUR,5000.0,1,5000.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,2.0,revision,o-7432bf0d4f
+MLT,mlt-mec,cbi_applicant_donations [category=recipient_fgura_united],2022,EUR,5100.00,1,5100.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,2.0,revision,o-2926269775
+MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.4,conflict,o-7d17947da8
+MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-406863c9c4
+MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93.6,million,93600000.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-4797cb4c26
 MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
 MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-mediterannews-2026-09-11,MediteranNews,2026-09-11,50.0,conflict,o-9f4399fce9
 MNE,mne-cbi,cbi_transfers_to_government,2023-01-13,EUR,32999849,1,32999849.0,reported,mne-vijesti-2026-06-20,Forbes Crna Gora (Vijesti),2026-06-20,0.0,conflict,o-5d59355856

@@ -792,3 +792,17 @@ says what was done to it.
   Lebanese, British, Libyan, Iraqi, Yemeni, Sri Lankan; every decree adds up to its existing total; no names
   recorded); the four routes' current amounts, holding periods, fees, instalments, processing times (claims).
 - Partial: the stored FAQ page is page 1 of 2 (5 of 15 questions missing).
+
+### Malta, batch 2 (pass `extract-cbi-mlt2`)
+- 15 documents reviewed (regulator annual reports 2015-2024, National Development and Social Fund reports 2020
+  and 2025, residence-programme regulations): 8 complete, 7 partial.
+- Added 4,678 numbers, 16 rules, 12 events: applications, approvals, not-approved, naturalisations by year and
+  month; applicant profiles; nationality and region; properties bought and leased by locality and value;
+  contributions and how they were shared; donations by named recipient (2021-2024); NDSF receipts and
+  disbursements. Image-only charts (2017, 2019, 2021) read by OCR and kept only where label and bar height agree
+  (about 150 quotes will need the second reading).
+- Partial: region maps whose counts can't be tied to regions; a few unreadable monthly bars; education pies.
+- Reports restate earlier figures differently (all kept with notes), e.g. 2022 IIP contributions EUR
+  1,153,415,534 in the text vs EUR 1,150,300,000 in Table 35.
+- **Decisions needed:** the 2018 report labels cumulative payouts "till 30 June 2017" though they clearly run to
+  June 2018; donations by named recipient recorded under `category=recipient_<name>`.
