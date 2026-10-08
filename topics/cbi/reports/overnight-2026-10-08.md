@@ -486,3 +486,24 @@ says what was done to it.
   image, not guessed); the 2021 study's charts have no printed values.
 - **Decisions needed:** 6 new indicators (incl. processing time in days); whether to keep minimum
   investments the studies copy from other sources (some differ from the laws, e.g. Gozo EUR 250,000 vs 220,000).
+
+### Second reading, batches j1-j7 and y1-y2
+- CBI: 545 new numbers read blind, with a heavier sample (15 per document) for the four Federal Register
+  documents read by helper agents. All agree or ruled. Ruled: 5 where both figures are printed (annual vs
+  ten-year totals, project cost vs this year's budget); a 13%-of-GDP row correctly filed under St Kitts in a
+  Vanuatu report; "down 27 percent" recorded as -27.
+- The comparison script's number cleanup was rewritten as one loop (handles "not less than HK$500 million",
+  "~9.6%", "180 days", brackets...). Re-run on all 7,500+ readings: more agree, none fewer.
+- Whistleblowing: 112 new CFTC numbers; two chart values checked on the page image (first reading right).
+- 0 open differences in either dataset.
+
+### Latvia, batch 1 (pass `extract-cbi-lva1`)
+- 20 documents reviewed (Latvian migration office first-permit tables 2015-2022, ten versions of the
+  immigration law, the 2015 annual report, a 2026 press release): all complete.
+- Added 527 numbers, 3 rules, 3 events: investor permits by nationality and by route (company, property,
+  bank, bonds), main applicants and family members, every non-zero cell; totals for EU/EEA and third
+  countries. Replaces the earlier cut-off of nationalities with at least 5 main applicants. Every table adds up.
+  Law changes: unrestricted right to work (2014), suspension power and tax-debt annulment (2016), EUR 5,000
+  renewal payment (2018), 2026 renewal payments.
+- **Decision needed:** zero cells by country not stored (thousands of rows; a missing row means 0 in that
+  table). Store them, or leave as is?
