@@ -40,6 +40,15 @@ When a source splits a number (by nationality, investment route, applicant type)
 
 The full column-by-column description is in [docs/DATA_MODEL.md](docs/DATA_MODEL.md).
 
+## Coverage: what is and isn't extracted
+
+Every number here is checked against its source, but the dataset is not a
+complete extraction of every document it cites. Each source has a status in
+`data/extraction_status.csv` (not reviewed, partial with a to-do, complete, or
+not applicable), and nothing is marked complete without a recorded review. As of
+8 October 2026, none of the 1,443 sources has been reviewed end to end yet; known
+gaps are listed as to-dos. See [docs/COVERAGE.md](docs/COVERAGE.md).
+
 ## How to read it
 
 **One row is one claim, not one fact.** If the IMF, the finance ministry and

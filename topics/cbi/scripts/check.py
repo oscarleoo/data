@@ -131,6 +131,26 @@ def main():
             if not r.get("quote"):
                 warnings.append(f"{name} {r[idcol]}: no quote")
 
+    # Extraction ledger (data/extraction_status.csv, built by scripts/coverage.py): every source has a row,
+    # and nothing counts as reviewed, let alone complete, without a reviewer and a date.
+    ledger = {r["source_id"]: r for r in read("extraction_status.csv")}
+    if not ledger:
+        errors.append("extraction_status.csv missing: run scripts/coverage.py")
+    for sid in sources:
+        r = ledger.get(sid)
+        if ledger and r is None:
+            errors.append(f"source {sid}: no row in extraction_status.csv (run scripts/coverage.py)")
+            continue
+        if r is None:
+            continue
+        st = r.get("status", "")
+        if st not in ("not_reviewed", "partial", "complete", "not_applicable"):
+            errors.append(f"extraction_status {sid}: unknown status {st!r}")
+        if st in ("partial", "complete", "not_applicable") and not (r.get("reviewed_by") and r.get("reviewed_on")):
+            errors.append(f"extraction_status {sid}: {st} needs reviewed_by and reviewed_on")
+        if st == "partial" and not r.get("to_do"):
+            errors.append(f"extraction_status {sid}: partial needs a to_do saying what is not extracted")
+
     # Disagreements: same jurisdiction, program, indicator, period and unit, different values.
     groups = defaultdict(list)
     for o in obs:
