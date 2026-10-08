@@ -367,3 +367,14 @@ says what was done to it.
 - **Decisions needed:** 5 new indicators; scope calls behind "complete" (website statistics,
   fund accounting detail, "about a third" of leads from tips are not recorded); two ids are the same
   Zafirov file.
+
+### Hong Kong, batch 3 (pass `extract-cbi-hkg3`)
+- 13 documents reviewed (Legislative Council replies and annexes 2004-2025): 11 complete, 2 partial.
+- Added 21 numbers, 10 rules, 1 event: property investment by the old scheme's investors (HK$14.35bn,
+  93% residential; district shares from a sample of 200), 465 applications in 2004, average investment
+  per investor (HK$7.17m, 2004), new-scheme counts to May 2024, minimum amounts.
+- Partial: a sample count ("10 of 100 renewal cases changed property") and "around three weeks" have
+  no fitting measure without converting.
+- Hong Kong now: all stored Hong Kong documents in the queue reviewed (batches hkg, hkg1-3).
+- **Worth a look:** an existing row (o-17157f5c8a) records 0 rejections from the words "no application
+  has been rejected so far". Same question as the St Lucia zeros.
