@@ -1,0 +1,274 @@
+{
+ "slug": "extract-cbi-prt2",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction review of 20 stored Portuguese documents: two fee portarias (305-A/2012, 307/2023) and 18 SEF ARI statistical maps (2012-2013, 2014-2022 annual, cumulative to 2019 and to Sep 2023, monthly Jan-Jun 2023). The maps were already fully extracted except the 2012 total-investment box (1 row added); every existing value was re-read against the text layer and two OCR passes and every route breakdown checked against its printed totals. The portarias gained 8 fee terms (card copies, replacements, permanent residence for ARI holders) and one event for the 2023 fee table.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "indicator": "rbi_investment_total",
+   "breakdown": "",
+   "period": "2012",
+   "period_basis": "calendar_year",
+   "value": "2155873.56",
+   "value_high": "",
+   "unit": "EUR",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "prt-sef-ari-map-2012-2013",
+   "location": "p. 1 (one-page infographic), \"Investimento total 2012\" box",
+   "quote": "2 155 873,56 € INVESTIMENTO TOTAL 2012",
+   "notes": "SEF infographic. Total investment for the ARI permits granted in 2012, all routes, printed in its own \"INVESTIMENTO TOTAL 2012 / TOTAL INVESTMENT 2012\" box; equals the capital-transfer box (the only route used in 2012, 2 permits). The PDF text layer scrambles this box (\"2INVESTIMENTO 155 873,56 € TOTAL 2012\"); value read from the rendered page and OCR."
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_second_copy",
+   "valid_from": "2012-10-08",
+   "valid_to": "",
+   "min_amount": "50",
+   "currency": "percent_of_fee",
+   "applies_to": "per second copy of an ARI residence card",
+   "source_id": "prt-port-305a-2012",
+   "location": "PDF p. 2 (5546-(3)), section III.3 f)",
+   "quote": "Pela emissão de segunda via do título de residência para a atividade de investimento — 50 % do valor da taxa prevista na alínea a)",
+   "notes": "Percentage of the fee in alínea a) of the same section, the EUR 500 analysis fee (as printed; the 2023 table instead refers to the issue fee). No euro amount printed."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_third_copy",
+   "valid_from": "2012-10-08",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "percent_of_fee",
+   "applies_to": "per third or later copy of an ARI residence card",
+   "source_id": "prt-port-305a-2012",
+   "location": "PDF p. 2 (5546-(3)), section III.3 g)",
+   "quote": "Pela emissão de terceira via e sucessivas do título de residência para a atividade de investimento — 100 % do valor da taxa prevista na alínea a)",
+   "notes": "Percentage of the fee in alínea a), the EUR 500 analysis fee (as printed). No euro amount printed."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_replacement",
+   "valid_from": "2012-10-08",
+   "valid_to": "",
+   "min_amount": "25",
+   "currency": "percent_of_fee",
+   "applies_to": "per replacement of an ARI residence card after a change of the card particulars (art. 86)",
+   "source_id": "prt-port-305a-2012",
+   "location": "PDF p. 2 (5546-(3)), section III.3 h)",
+   "quote": "de 4 de julho — 25 % do valor da taxa prevista na alínea a)",
+   "notes": "Percentage of the fee in alínea a), the EUR 500 analysis fee (as printed). No euro amount printed. The PDF splits \"julho\" across a line (\"ju-/lho\")."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_second_copy",
+   "valid_from": "2023-10-29",
+   "valid_to": "",
+   "min_amount": "3865.79",
+   "currency": "EUR",
+   "applies_to": "per second copy of an ARI residence card, including family members' cards",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 6 (Pág. 6), Anexo III.3 f)",
+   "quote": "50 % do valor da taxa prevista na alínea b) [3865,79 euros]",
+   "notes": "50% of the EUR 7,730.11 issue fee; the euro amount is printed in brackets."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_third_copy",
+   "valid_from": "2023-10-29",
+   "valid_to": "",
+   "min_amount": "7730.11",
+   "currency": "EUR",
+   "applies_to": "per third or later copy of an ARI residence card, including family members' cards",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 6 (Pág. 6), Anexo III.3 g)",
+   "quote": "100 % do valor da taxa prevista na alínea b) [7730,11 euros]",
+   "notes": "100% of the issue fee; the euro amount is printed in brackets."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permit_replacement",
+   "valid_from": "2023-10-29",
+   "valid_to": "",
+   "min_amount": "1932.53",
+   "currency": "EUR",
+   "applies_to": "per replacement of an ARI residence card after a change of the card particulars (art. 86)",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 6 (Pág. 6), Anexo III.3 h)",
+   "quote": "25 % do valor da taxa prevista na alínea b) [1932,53 euros]",
+   "notes": "25% of the issue fee; the euro amount is printed in brackets."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permanent_residence_issue",
+   "valid_from": "2023-10-29",
+   "valid_to": "",
+   "min_amount": "10822.14",
+   "currency": "EUR",
+   "applies_to": "ARI holder or family member, grant of a permanent residence permit (arts. 76(2) and 80)",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 6 (Pág. 6), Anexo III.3 i)",
+   "quote": "(euro) 10822,14 para a concessão",
+   "notes": "Fee for the permanent residence permit of an ARI holder or their family member."
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "fee_permanent_residence_renewal",
+   "valid_from": "2023-10-29",
+   "valid_to": "",
+   "min_amount": "5411.90",
+   "currency": "EUR",
+   "applies_to": "ARI holder or family member, renewal of a permanent residence permit",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 6 (Pág. 6), Anexo III.3 i)",
+   "quote": "(euro) 5411,90 para a renovação",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "event_id": "prt-gv-fees-2023",
+   "date": "2023-10-29",
+   "date_precision": "day",
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "category": "price_change",
+   "title": "New fee table: EUR 7,730.11 per ARI permit",
+   "description": "Portaria 307/2023 replaces Portaria 1334-E/2010 when AIMA takes over from SEF: EUR 773.74 analysis fee, EUR 7,730.11 to grant an investor or family permit, EUR 3,865.79 per renewal, EUR 10,822.14 for an ARI holder's permanent residence permit; grant and renewal revenue split equally between AIMA and the Foreign Ministry's FRI. Fees are indexed to inflation each 1 March; a 25% reduction applies to applications filed digitally (and, until services go digital, to in-person fees) and 10% to assisted in-person filing.",
+   "source_id": "prt-port-307-2023",
+   "location": "PDF p. 3 (Pág. 3), art. 6; p. 6 (Pág. 6), Anexo III.3-4; p. 8, Anexo XIV",
+   "quote": "A presente portaria entra em vigor em 29 de outubro de 2023."
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "SEF maps print only the top five nationalities per period; no full nationality table, applications, rejections or fee revenue is in these documents."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "prt-port-305a-2012",
+   "status": "complete",
+   "contains": "Portaria 305-A/2012 amending the immigration fee table (Portaria 1334-E/2010) to add fees for investment residence permits (ARI), in force 8 Oct 2012: EUR 500 analysis fee, EUR 5,000 issue fee for investor and for each reunited family member, EUR 2,500 renewal (investor and family), second/third copy and replacement fees as percentages of the analysis fee, revenue from issue and renewal fees split equally between SEF and FRI. Also EU Blue Card, Schengen-visa extension and long-term-resident fees (out of scope).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-port-307-2023",
+   "status": "complete",
+   "contains": "Portaria 307/2023, the full immigration fee table in force 29 Oct 2023 (AIMA replacing SEF): ARI analysis fee EUR 773.74, grant EUR 7,730.11 (investor and family), renewal EUR 3,865.79, second copy EUR 3,865.79, third copy EUR 7,730.11, replacement EUR 1,932.53, permanent residence for ARI holders EUR 10,822.14 (grant) and EUR 5,411.90 (renewal); revenue split AIMA/FRI; annual inflation indexation; 25%/10% reductions for digital/assisted filing. Also fees for border visas, stay extensions, ordinary and Blue Card permits, long-term residents, travel documents, and EUR 1,500,000 a year AIMA pays IRN for renewal intake (all out of scope: not about the ARI programme).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2012-2013",
+   "status": "complete",
+   "contains": "One-page SEF infographic. ARI permits granted to investors in 2012 (2) and 2013 (494); top five nationalities over both years (China, Russia, Brazil, South Africa, Angola); family-member permits in 2013 (576; none printed for 2012); permits and investment by route for each year (capital transfer 2012; real estate and capital transfer 2013); total investment 2012 and 2013. Parts add up to the printed totals. No nationality table beyond the top five.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2014",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2014: ARI permits granted to investors (total), top five nationalities (China, Brazil, Russia, South Africa, Lebanon), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2015",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2015: ARI permits granted to investors (total), top five nationalities (China, Brazil, Russia, South Africa, Lebanon), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2016",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2016: ARI permits granted to investors (total), top five nationalities (China, Brazil, South Africa, Russia, Jordan), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2017",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2017: ARI permits granted to investors (total), top five nationalities (China, Brazil, South Africa, Turkey, Russia), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees. The capital-transfer subalínea box is mislabelled \"SUBPARAGRAPH 3\" in English (Portuguese label is subalínea 1).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2018",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2018: ARI permits granted to investors (total), top five nationalities (China, Turkey, Brazil, South Africa, Vietnam), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2019",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2019: ARI permits granted to investors (total), top five nationalities (China, Brazil, Turkey, USA, Russia), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees. The Turkey figure is 85: the 200-dpi OCR reads 95, but the text layer and a binarised 400-dpi OCR read 85, and the first digit does not match the \"9\" glyph in \"394\" on the same line.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2020",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2020: ARI permits granted to investors (total), top five nationalities (China, Brazil, USA, South Africa, Turkey), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2021",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2021: ARI permits granted to investors (total), top five nationalities (China, USA, Brazil, Russia, India), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees. The English total label misprints the year (\"TOTAL INVESTMENT 2020\"); the Portuguese label says 2021.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2022",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Calendar year 2022: ARI permits granted to investors (total), top five nationalities (USA, China, Brazil, India, South Africa), family-member permits, permits and investment by route and subalínea, total investment. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed; no applications, rejections or fees.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2012-2019",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Cumulative Oct 2012-Dec 2019: ARI permits granted to investors (8,207), top five nationalities (China, Brazil, Turkey, South Africa, Russia), family-member permits (14,007), permits and investment by route and subalínea (iii, iv, i, vii, viii, job creation), total investment (EUR 4,992,253,830.95). Route parts add up to the printed totals. Only the top five nationalities are printed.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2012-2023-09",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Cumulative Oct 2012-Sep 2023: ARI permits granted to investors (12,718), top five nationalities (China, Brazil, USA, Turkey, South Africa), family-member permits (20,424), permits and investment by route and subalínea (iii, iv, i, v, vi, vii, viii, job creation), total investment (EUR 7,318,438,201.77). Route parts add up to the printed totals. Only the top five nationalities are printed.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-01",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month January 2023: ARI permits granted to investors (total), top five nationalities (USA, China, UK, Brazil, Lebanon), family-member permits, permits and investment by route and subalínea, total investment for the month. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-02",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month February 2023: ARI permits granted to investors (total), top five nationalities (China, USA, Turkey, India, Brazil), family-member permits, permits and investment by route and subalínea, total investment for the month. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-03",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month March 2023: ARI permits granted to investors (total), top five nationalities (USA, China, UK, Brazil, South Africa), family-member permits, permits and investment by route and subalínea, total investment for the month. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-04",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month April 2023: ARI permits granted to investors (total), top five nationalities (USA, China, UK, South Africa, Lebanon), family-member permits, permits and investment by route and subalínea, total investment for the month. Only the top five nationalities are printed. The two real-estate subalínea amounts (37,644,660.20 + 13,366,981.48) add up to EUR 0.20 more than the printed real-estate total (51,011,641.48) and the grand total (63,271,641.48); already noted on the existing row. Permit counts add up.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-05",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month May 2023: ARI permits granted to investors (total), top five nationalities (USA, China, UK, India, Brazil), family-member permits, permits and investment by route and subalínea, total investment for the month. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed. No job-creation box is printed this month.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-06",
+   "status": "complete",
+   "contains": "One-page SEF infographic. Single month June 2023: ARI permits granted to investors (total), top five nationalities (USA, UK, China, India, Turkey), family-member permits, permits and investment by route and subalínea, total investment for the month. Route parts add up to the printed totals (permits and euros). Only the top five nationalities are printed. No job-creation box is printed this month.",
+   "to_do": ""
+  }
+ ]
+}
