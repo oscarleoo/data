@@ -917,4 +917,4 @@ says what was done to it.
 - Malaysia: 10 documents, all complete. 6 numbers, 32 rules, 4 events: MM2H approvals by nationality (top ten
   plus others add to 43,943; the reply's text says 43,466), 5,396 applications handed back during the freeze,
   340 licensed agents, the 2021 regime (90 days, age 35, 1% cap), category fees and terms, Forest City rule.
-- Cyprus, North Macedonia and Malaysia now: all stored documents reviewed (see ledger counts in the summary).
+- Now fully reviewed (checked in the ledger): Cyprus 22 (21 complete, 1 partial), North Macedonia 8, Malaysia 11.
