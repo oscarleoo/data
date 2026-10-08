@@ -909,3 +909,12 @@ says what was done to it.
   investment, processing time, holding periods; the yearly investment tables (2023-2025) add up.
 - **Decisions needed:** a Bermuda 2021 statement says "$14.3 injected" with no "million" (left out); bare "$"
   recorded as Bermuda dollars like the older rows (data model says "unspecified").
+
+### Cyprus 2, North Macedonia, Malaysia (passes `extract-cbi-cyp2`, `-mkd1`, `-mys1`)
+- Cyprus: 2 government statements on revocations (41 investors and 109 family members; 39 and 41 decision
+  counts that don't fit together; listed as a gap). Complete.
+- North Macedonia: 8 documents (EU reports, the 1992 law and decrees), all complete, nothing new.
+- Malaysia: 10 documents, all complete. 6 numbers, 32 rules, 4 events: MM2H approvals by nationality (top ten
+  plus others add to 43,943; the reply's text says 43,466), 5,396 applications handed back during the freeze,
+  340 licensed agents, the 2021 regime (90 days, age 35, 1% cap), category fees and terms, Forest City rule.
+- Cyprus, North Macedonia and Malaysia now: all stored documents reviewed (see ledger counts in the summary).
