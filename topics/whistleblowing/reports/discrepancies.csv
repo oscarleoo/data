@@ -59,6 +59,19 @@ KOR,kor-acrc-rewards,collections_attributable [category=corruption],2023,KRW,404
 KOR,kor-acrc-rewards,collections_attributable [category=corruption],2023,KRW,40582871,thousand,40582871000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.2,revision,o-189efd9412
 KOR,kor-acrc-rewards,collections_attributable [category=public_interest],2023,KRW,14980114,thousand,14980114000.0,actual,kor-acrc-ar-2023,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2024-08,0.7,revision,o-d4949a5369
 KOR,kor-acrc-rewards,collections_attributable [category=public_interest],2023,KRW,15080041,thousand,15080041000.0,actual,kor-acrc-ar-2024,국민권익위원회 (Anti-Corruption and Civil Rights Commission),2025-08,0.7,revision,o-efc9e4b155
+SVK,svk-uoo,cases_handled [scope=within_competence],2021-09 to 2021-12,cases,32,1,32.0,actual,svk-uoo-vs-2021,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2022,15.8,revision,o-3d36f7800a
+SVK,svk-uoo,cases_handled [scope=within_competence],2021-09 to 2021-12,cases,38,1,38.0,actual,svk-uoo-vs-2023,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2024,15.8,revision,o-1a0e6b9a2a
+SVK,svk-uoo,cases_handled [scope=within_competence],2021-09 to 2021-12,cases,38,1,38.0,actual,svk-uoo-vs-2024,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2025-03,15.8,revision,o-b1d5f8c08e
+SVK,svk-uoo,enquiries_received,2021-09 to 2021-12,persons,139,1,139.0,actual,svk-uoo-vs-2025,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2026-04,0.7,revision,o-a9230a2136
+SVK,svk-uoo,enquiries_received,2021-09 to 2021-12,persons,140,1,140.0,actual,svk-uoo-vs-2023,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2024,0.7,revision,o-c783ed4735
+SVK,svk-uoo,enquiries_received,2022,persons,367,1,367.0,actual,svk-uoo-vs-2025,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2026-04,2.7,revision,o-3d929b2fe4
+SVK,svk-uoo,enquiries_received,2022,persons,377,1,377.0,actual,svk-uoo-vs-2022,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2023,2.7,revision,o-423c33d6f5
+SVK,svk-uoo,enquiries_received,2023,persons,519,1,519.0,actual,svk-uoo-vs-2025,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2026-04,2.6,revision,o-aca0133423
+SVK,svk-uoo,enquiries_received,2023,persons,533,1,533.0,actual,svk-uoo-vs-2023,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2024,2.6,revision,o-856fe5edcc
+SVK,svk-uoo,tips_received,2022,reports,39,1,39.0,actual,svk-uoo-vs-2022,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2023,79.1,revision,o-b3bacc2a78
+SVK,svk-uoo,tips_received,2022,reports,187,1,187.0,actual,svk-uoo-vs-2025,Úrad na ochranu oznamovateľov (Whistleblower Protection Office),2026-04,79.1,revision,o-9440afdd7e
+USA,,tips_received [country=GBR],2012-2023,persons,700,1,700.0,reported,gbr-sfo-speech-conference-2026,Serious Fraud Office,2026-06-03,9.6,conflict,o-e60b9e01ae
+USA,,tips_received [country=GBR],2012-2023,persons,774,1,774.0,reported,gbr-fisher-review-fraud-digital-age-2026,Home Office,2026-07-14,9.6,conflict,o-9efdf0b624
 USA,usa-cftc-wb,awards_paid_amount,FY2018,USD,75,million,75000000.0,actual,usa-cftc-wb-ar-2018,U.S. Commodity Futures Trading Commission,2018-10,0.8,same_source,o-e7c8f2d805
 USA,usa-cftc-wb,awards_paid_amount,FY2018,USD,75575113,1,75575113.0,actual,usa-cftc-wb-ar-2018,U.S. Commodity Futures Trading Commission,2018-10,0.8,same_source,o-e9cfb58e00
 USA,usa-cftc-wb,awards_paid_amount,FY2019,USD,4601490,1,4601490.0,actual,usa-cftc-wb-ar-2019,U.S. Commodity Futures Trading Commission,2019-10,69.3,same_source,o-e641531b0b
@@ -71,8 +84,13 @@ USA,usa-cftc-wb,awards_paid_amount,FY2023,USD,670000,1,670000.0,actual,usa-cftc-
 USA,usa-cftc-wb,awards_paid_amount,FY2023,USD,16,million,16000000.0,actual,usa-cftc-wb-ar-2023,U.S. Commodity Futures Trading Commission,2023-10,95.8,same_source,o-443525e80f
 USA,usa-cftc-wb,awards_paid_amount,FY2024,USD,42,million,42000000.0,actual,usa-cftc-wb-ar-2024,U.S. Commodity Futures Trading Commission,2024-11,13.4,same_source,o-d2b67ab3e0
 USA,usa-cftc-wb,awards_paid_amount,FY2024,USD,48478951,1,48478951.0,actual,usa-cftc-wb-ar-2024,U.S. Commodity Futures Trading Commission,2024-11,13.4,same_source,o-6b2262124d
+USA,usa-cftc-wb,awards_paid_amount [item=new_claims_not_previously_accrued],FY2021,USD,45851,1,45851.0,actual,usa-cftc-wb-ar-2021,U.S. Commodity Futures Trading Commission,2021-10,0.3,same_source,o-4d02369b80
+USA,usa-cftc-wb,awards_paid_amount [item=new_claims_not_previously_accrued],FY2021,USD,45990,1,45990.0,actual,usa-cftc-wb-ar-2021,U.S. Commodity Futures Trading Commission,2021-10,0.3,same_source,o-8443475644
+USA,usa-cftc-wb,fund_balance,2024-09-30,USD,226061042,1,226061042.0,actual,usa-cftc-wb-ar-2025,U.S. Commodity Futures Trading Commission,2026-02,0.0,revision,o-e2db9a6420
+USA,usa-cftc-wb,fund_balance,2024-09-30,USD,226061043,1,226061043.0,actual,usa-cftc-wb-ar-2024,U.S. Commodity Futures Trading Commission,2024-11,0.0,revision,o-ebc9e8fca9
 USA,usa-cftc-wb,tips_received,FY2023,tips,1503,1,1503.0,actual,usa-cftc-wb-ar-2025,U.S. Commodity Futures Trading Commission,2026-02,1.8,revision,o-1fe9eb29af
 USA,usa-cftc-wb,tips_received,FY2023,tips,1530,1,1530.0,actual,usa-cftc-wb-ar-2023,U.S. Commodity Futures Trading Commission,2023-10,1.8,revision,o-c7e1c19886
+USA,usa-cftc-wb,tips_received,FY2023,tips,1530,1,1530.0,actual,usa-cftc-wb-ar-2024,U.S. Commodity Futures Trading Commission,2024-11,1.8,revision,o-d22d13c2d9
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2016,cases,184,1,184.0,actual,usa-doj-fca-stats-2025,"U.S. Department of Justice, Civil Division",2026-01-16,0.5,revision,o-da4456aa95
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2016,cases,185,1,185.0,actual,usa-doj-fca-stats-2023,"U.S. Department of Justice, Civil Division",2024-02,0.5,revision,o-a4f931b359
 USA,usa-fca-qui-tam,fca_non_qui_tam_matters_opened,FY2022,cases,304,1,304.0,actual,usa-doj-fca-stats-2024,"U.S. Department of Justice, Civil Division",2025-01-15,0.3,revision,o-cbda47ad64
@@ -820,7 +838,10 @@ USA,usa-sec-wb,awards_paid_amount,FY2022,USD,229,million,229000000.0,actual,usa-
 USA,usa-sec-wb,awards_paid_amount,FY2022,USD,287212185.03,1,287212185.03,actual,usa-sec-owb-ar-2022,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2022-11-15,20.3,same_source,o-125492e773
 USA,usa-sec-wb,awards_paid_amount,FY2023,USD,321533048.9,1,321533048.9,actual,usa-sec-owb-ar-2023,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2023-11-14,46.4,same_source,o-84d1ef92b2
 USA,usa-sec-wb,awards_paid_amount,FY2023,USD,600,million,600000000.0,actual,usa-sec-owb-ar-2023,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2023-11-14,46.4,same_source,o-d0191370f3
+USA,usa-sec-wb,awards_paid_amount,FY2024,USD,255,million,255000000.0,reported,gbr-fisher-review-fraud-digital-age-2026,Home Office,2026-07-14,55.7,same_source,o-7392ff2227
 USA,usa-sec-wb,awards_paid_amount,FY2024,USD,255,million,255000000.0,actual,usa-sec-owb-ar-2024,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2024-11-15,55.7,same_source,o-b4c37514d8
 USA,usa-sec-wb,awards_paid_amount,FY2024,USD,575226473.4,1,575226473.4,actual,usa-sec-owb-ar-2024,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2024-11-15,55.7,same_source,o-16b952ff0c
 USA,usa-sec-wb,awards_paid_amount,FY2025,USD,60,million,60000000.0,actual,usa-sec-owb-ar-2025,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2026-02-11,64.8,same_source,o-f96d13ec8f
 USA,usa-sec-wb,awards_paid_amount,FY2025,USD,170221335.88,1,170221335.88,actual,usa-sec-owb-ar-2025,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2026-02-11,64.8,same_source,o-6e73abad1e
+USA,usa-sec-wb,tips_received,FY2023,tips,18000,1,18000.0,reported,gbr-fisher-review-fraud-digital-age-2026,Home Office,2026-07-14,1.9,conflict,o-ac276044a9
+USA,usa-sec-wb,tips_received,FY2023,tips,18354,1,18354.0,actual,usa-sec-owb-ar-2023,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2023-11-14,1.9,conflict,o-0b84bed276

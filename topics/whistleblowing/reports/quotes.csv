@@ -6,14 +6,25 @@ observations.csv,o-a3d82a11f1,,can-osc-nr-award-2023-03-20,government,found,text
 observations.csv,o-c2ee7de8b7,,can-osc-nr-award-2024-02-27,government,found,text,"news release, para 3","Since its launch, the Program has awarded more than $10 million."
 observations.csv,o-0b34d51680,,can-osc-nr-award-2024-05-15,government,found,text,"news release, para 3","Since its launch, the Program has awarded more than $10 million."
 observations.csv,o-b591d82918,,can-osc-nr-award-2024-10-23,government,found,text,"news release, para 3","Since its launch, the Program has awarded more than $10 million."
+observations.csv,o-1e645b6748,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2","To date, $7.5 million has been paid to three whistleblowers on separate matters."
+observations.csv,o-f13a2342ea,ok,can-osc-fs-2020,government,found,text,"PDF p. 21, Note 6, paragraph continuing from p. 20","Since inception of the program in 2016, $8.0 million has been paid to whistleblowers."
+observations.csv,o-cd00b7a27a,ok,can-osc-fs-2021,government,found,text,"PDF p. 18, Note 6, right column paragraph 1","Since inception of the program in 2016, $8.6 million has been paid to whistleblowers."
 observations.csv,o-cebaf7d5b8,,can-osc-wb-update-2022,government,found,text,section 'Awards',"To date, the OSC has paid out $9.33 million in awards to 11 whistleblowers"
+observations.csv,o-44f8b82163,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6 'Funds Held Pursuant to Designated Settlements and Orders', accumulated balance table, comparative column March 31, 2018","Whistleblowers (7,499,000) —"
 observations.csv,o-021938f8f7,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6 'Funds Held Pursuant to Designated Settlements and Orders', accumulated balance table","Whistleblowers (7,499,000) —"
+observations.csv,o-3e44666d5f,ok,can-osc-fs-2020,government,found,text,"PDF p. 21, Note 6, accumulated balance table, comparative column March 31, 2019","Whistleblowers (525,000) (7,499,000)"
 observations.csv,o-5ed1ddc95d,ok,can-osc-fs-2020,government,found,text,"PDF p. 21, note on funds held pursuant to designated settlements and orders, accumulated balance table","Whistleblowers (525,000) (7,499,000)"
+observations.csv,o-3665addd03,ok,can-osc-fs-2021,government,found,text,"PDF p. 18, Note 6, accumulated balance table, comparative column March 31, 2020","Whistleblowers (585,000) (525,000)"
 observations.csv,o-99d9230e60,ok,can-osc-fs-2021,government,found,text,"PDF p. 18, Note 6 'Funds Held Pursuant to Designated Settlements and Orders'","Whistleblowers (585,000) (525,000)"
+observations.csv,o-3680f53b6d,ok,can-osc-fs-2022,government,found,text,"PDF p. 18, Note 6, accumulated balance table, comparative column March 31, 2021","Whistleblowers (240,000) (585,000)"
 observations.csv,o-0b25ba1f26,ok,can-osc-fs-2022,government,found,text,"PDF p. 18, Note 6 'Funds Held Pursuant to Designated Settlements and Orders'","Whistleblowers (240,000) (585,000)"
+observations.csv,o-de9fb351c9,ok,can-osc-fs-2023,government,found,text,"PDF p. 18 (printed p. 139), Note 6, accumulated balance table, comparative column March 31, 2022","Whistleblowers (481,092) (240,000)"
 observations.csv,o-9dedf211d6,ok,can-osc-fs-2023,government,found,text,"PDF p. 18 (printed p. 139), Note 6 'Funds Held Pursuant to Settlements and Sanction Orders'","Whistleblowers (481,092) (240,000)"
+observations.csv,o-6b71614a1e,ok,can-osc-fs-2024,government,found,text,"PDF p. 21 (printed p. 136), Note 6, accumulated balance table, comparative column March 31, 2023","Whistleblowers (1,800,000) (481,092)"
 observations.csv,o-39cd7fffe7,ok,can-osc-fs-2024,government,found,text,"PDF p. 21 (printed p. 136), Note 6 'Funds Held Pursuant to Settlements and Sanction Orders'","Whistleblowers (1,800,000) (481,092)"
+observations.csv,o-5c4cf6764b,ok,can-osc-fs-2025,government,found,text,"PDF p. 27 (printed p. 146), Note 6, accumulated balance table, comparative column March 31, 2024; repeated in Note 20, PDF p. 44","Whistleblowers (146,869) (1,800,000)"
 observations.csv,o-c26dc674d3,ok,can-osc-fs-2025,government,found,text,"PDF p. 27 (printed p. 146), note on funds held pursuant to settlements and sanction orders","Whistleblowers (146,869) (1,800,000)"
+observations.csv,o-8af7fdbf87,ok,can-osc-fs-2026,government,found,text,"PDF p. 22 (printed p. 136), Note 5, accumulated balance table (in thousands of dollars), comparative column March 31, 2025; repeated in Note 19, PDF p. 36",Whistleblowers — (147)
 observations.csv,o-60b86ea661,ok,can-osc-fs-2026,government,found,text,"PDF p. 22 (printed p. 136), Note 5, accumulated balance table (in thousands of dollars)",Whistleblowers — (147)
 observations.csv,o-2d45650091,,can-canadianlawyer-otip-2019,media,no_copy,,article text,the CRA hadn't paid out any rewards
 observations.csv,o-15e22a3693,,can-bennettjones-otip-2019,industry,no_copy,,blog text,up to $1 million has been paid out to informants
@@ -21,6 +32,7 @@ observations.csv,o-2237e9a051,,can-canadianlawyer-otip-2019,media,no_copy,,artic
 observations.csv,o-104e4bc262,,can-bennettjones-otip-2019,industry,no_copy,,blog text,Approximately $19.3 million in federal taxes and penalties have been collected so far
 observations.csv,o-cb111608a2,,can-canadianlawyer-otip-2019,media,no_copy,,article text,collected about $19.3 million in taxes and penalties
 observations.csv,o-7779d0dd69,,can-advisor-otip-2020,media,no_copy,,article text,over 150 audits have been completed with approximately $20 million in tax collected
+observations.csv,o-7bd94793d6,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2","To date, $7.5 million has been paid to three whistleblowers on separate matters."
 observations.csv,o-adf7f36a1c,,can-osc-wb-update-2022,government,found,text,section 'Awards',"To date, the OSC has paid out $9.33 million in awards to 11 whistleblowers"
 observations.csv,o-e18c8de0c3,,can-canadianlawyer-otip-2019,media,no_copy,,article text,333 submissions and about 12 contracts
 observations.csv,o-85e245001f,,can-bennettjones-otip-2019,industry,no_copy,,blog text,CRA had entered into 38 contracts with informants
@@ -570,6 +582,189 @@ observations.csv,o-5a0bf1cb16,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 2
 observations.csv,o-7eb3fe4cbc,ok,svk-uoo-vs-2021,government,found,text,PDF p. 52,"Po dôkladnom preskúmaní úrad rozhodol o zamietnutí oboch žiadostí, pretože nespĺňali zákonom stanovené podmienky na ich udelenie."
 observations.csv,o-f0c53e6db7,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 21, section 2.4",V jednom prípade úrad rozhodol o neposkytnutí odmeny pre nesplnenie základných zákonných požiadaviek. Druhé konanie nebolo v danom roku ukončené.
 observations.csv,o-8de3a113c9,ok,svk-uoo-vs-2025,government,found,text,PDF p. 26,"jednej žiadosti nevyhovel, pri dvoch ešte nebolo ukončené posudzovanie"
+observations.csv,o-6fe6c490eb,ok,svk-uoo-vs-2021,government,found,text,"PDF p. 20, 'Ochrana oznamovateľov v prvom štvrťroku'","Právnici úradu v prvom štvrťroku posudzovali 72 prípadov, z ktorých 32 spadalo do pôsobnosti úradu podľa zákona č. 54/2019 Z. z."
+observations.csv,o-3d36f7800a,ok,svk-uoo-vs-2021,government,found,text,PDF p. 20,"Právnici úradu v prvom štvrťroku posudzovali 72 prípadov, z ktorých 32 spadalo do pôsobnosti úradu podľa zákona č. 54/2019 Z. z."
+observations.csv,o-7f22d16e62,ok,svk-uoo-vs-2021,government,found,text,PDF p. 20,"Až 63 percent z týchto 32 prípadov tvorili oznamovatelia, ktorí v nejakej forme čelili odvetným opatreniam zo strany zamestnávateľov."
+observations.csv,o-7da24c1dc5,ok,svk-uoo-vs-2021,government,found,text,PDF p. 20,V 22 percentách šlo o výpoveď či odvolanie z pozície
+observations.csv,o-4b7c232321,ok,svk-uoo-vs-2021,government,found,text,PDF p. 20,"v 31 percentách hlásili oznamovatelia nátlak, zastrašovanie či obťažovanie"
+observations.csv,o-ffe80d80cd,ok,svk-uoo-vs-2021,government,found,text,PDF p. 20,Deviatim percentám chcel zamestnávateľ zmeniť miesto výkonu práce či znížiť mzdu.
+observations.csv,o-1a0e6b9a2a,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",38
+observations.csv,o-d1b600b231,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",28
+observations.csv,o-e2dccfd1d1,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",7
+observations.csv,o-13015496fe,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",4
+observations.csv,o-5b31142f2f,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 19 (printed p. 18), Graf č. 2 'Vývoj agendy úradu' (stacked bars; series identified by colour against the legend)",34
+observations.csv,o-b1d5f8c08e,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",38
+observations.csv,o-1881b9b595,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",34
+observations.csv,o-9a18785976,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 14 (printed p. 12), 'Právna ochrana'",V roku 2022 sa úrad venoval 220 prípadom. Z toho 96 spadalo do jeho pôsobnosti podľa zákona č. 54/2019 Z. z..
+observations.csv,o-c13ef321ad,ok,svk-uoo-vs-2022,government,found,text,PDF p. 14 (printed p. 12),Z toho 96 spadalo do jeho pôsobnosti podľa zákona č. 54/2019 Z. z..
+observations.csv,o-6377d276c3,ok,svk-uoo-vs-2022,government,found,text,PDF p. 14 (printed p. 12),"Zo 63 prípadov, kde figuroval oznamovateľ nezákonnej činnosti, došlo v 17 prípadoch k odvetným opatreniam zo strany zamestnávateľov."
+observations.csv,o-bcefeb2a15,ok,svk-uoo-vs-2022,government,found,text,PDF p. 14 (printed p. 12),"Zo 63 prípadov, kde figuroval oznamovateľ nezákonnej činnosti, došlo v 17 prípadoch k odvetným opatreniam zo strany zamestnávateľov."
+observations.csv,o-8deb9b3543,ok,svk-uoo-vs-2022,government,found,text,PDF p. 22 (printed p. 20),"V roku 2022 úrad eviduje 16 anonymných oznamovateľov. V 13 prípadoch podali anonymné oznámenie, v troch prípadoch sa anonymní oznamovatelia radili k podaniu oznámenia."
+observations.csv,o-e07e6ec02f,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",96
+observations.csv,o-18eddc310c,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",63
+observations.csv,o-c56c85e5c6,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",10
+observations.csv,o-8f7f151b7c,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",21
+observations.csv,o-8dbe3925b4,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 19 (printed p. 18), Graf č. 2 'Vývoj agendy úradu' (stacked bars; series identified by colour against the legend)",124
+observations.csv,o-788784e023,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",96
+observations.csv,o-f08f59226a,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",124
+observations.csv,o-c3bcd9e2d0,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), section 2.1","úrad v danom roku konal v 211 prípadoch, ktoré boli v jeho kompetencii"
+observations.csv,o-892446850a,ok,svk-uoo-vs-2023,government,found,text,PDF p. 13 (printed p. 12),"Zo 68 prípadov z roku 2023, kde figuroval oznamovateľ nezákonnej činnosti, došlo v 21 prípadoch k odvetným opatreniam zo strany zamestnávateľov."
+observations.csv,o-6211f787c7,ok,svk-uoo-vs-2023,government,found,text,PDF p. 13 (printed p. 12),došlo v 21 prípadoch k odvetným opatreniam zo strany zamestnávateľov
+observations.csv,o-8c5500ff74,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",71
+observations.csv,o-46d7d6db0b,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",35
+observations.csv,o-ad4f61e351,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), Graf č. 1 'Vývoj počtu prípadov úradu od jeho zriadenia' (donut charts; segment identified by colour against the legend)",95
+observations.csv,o-d77bd4519b,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 19 (printed p. 18), Graf č. 2 'Vývoj agendy úradu' (stacked bars; series identified by colour against the legend)",102
+observations.csv,o-e3ca61b6f0,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",211
+observations.csv,o-3896eb907c,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",102
+observations.csv,o-140d06e49d,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1",Do kompetencií úradu spadalo 282 vecí.
+observations.csv,o-0e66367181,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1",Celkovo bolo v roku 2024 vytvorených 339 spisov.
+observations.csv,o-407afdddf3,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1",ktorá obsahuje spisy o otvorených prípadoch (11 %) a tiež prezumované oznámenia (22 %)
+observations.csv,o-220b1df1ec,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1",prezumované oznámenia (22 %)
+observations.csv,o-2a711094f5,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1","Pod agendu externého orgánu pre oznamovanie zahŕňa úrad aj podnety, ktoré boli mimo pôsobnosti úradu (26 %)."
+observations.csv,o-b99d0aad07,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 14 (printed p. 13), Graf č. 1 'Vývoj počtu spisov úradu od jeho zriadenia' (stacked bars; series identified by colour against the legend)",111
+observations.csv,o-90a2e84124,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 14 (printed p. 13), Graf č. 1 'Vývoj počtu spisov úradu od jeho zriadenia' (stacked bars; series identified by colour against the legend)",46
+observations.csv,o-2e4bff6910,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 14 (printed p. 13), Graf č. 1 'Vývoj počtu spisov úradu od jeho zriadenia' (stacked bars; series identified by colour against the legend)",32
+observations.csv,o-aea6df48e9,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 14 (printed p. 13), Graf č. 1 'Vývoj počtu spisov úradu od jeho zriadenia' (stacked bars; series identified by colour against the legend)",89
+observations.csv,o-159a27d5d9,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",250
+observations.csv,o-e3d3005a5a,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",89
+observations.csv,o-87ce89dadb,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 15, section 2.1",Do kompetencií úradu spadalo 387 vecí.
+observations.csv,o-0f5c0a088d,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 26, section 2.7",Úrad v roku 2025 čelil 20 správnym žalobám na prvostupňovom správnom súde.
+observations.csv,o-eb9bfde263,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 21 (printed p. 20), section 2.4",Druhé konanie nebolo v danom roku ukončené.
+observations.csv,o-5a915afa9b,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 26, section 2.6","V roku 2025 boli úradu doručené tri žiadosti o odmenu, jednej žiadosti nevyhovel, pri dvoch ešte nebolo ukončené posudzovanie."
+observations.csv,o-a06e08ee35,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 73 (printed p. 72), Záver","z trestných oznámení, ktoré podal úrad alebo oznamovatelia medzi septembrom 2021 a júlom 2024, 12 doteraz nebolo dotiahnutých do ďalšieho procesného štádia"
+observations.csv,o-9fbbedab75,ok,svk-uoo-vs-2022,government,found,text,PDF p. 23 (printed p. 21),Vo svojom mene úrad v priebehu roka 2022 podal dve oznámenia na správne orgány
+observations.csv,o-1f28a4a082,ok,svk-uoo-vs-2022,government,found,text,PDF p. 23 (printed p. 21),"Okrem toho aj štyri trestné oznámenia na Úrad špeciálnej prokuratúry, Krajskú prokuratúru Žilina a Európsku prokuratúru, pričom v jednom prípade bolo v danom roku začaté trestné stíhanie."
+observations.csv,o-9195af7e27,ok,svk-uoo-vs-2022,government,found,text,PDF p. 23 (printed p. 21),pričom v jednom prípade bolo v danom roku začaté trestné stíhanie
+observations.csv,o-1ee48f000c,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),V roku 2022 išlo o 22 prípadov z 220.
+observations.csv,o-cf42afd4c2,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),"Z nich bolo 10 prípadov takých, kde ÚOO síce identifikoval nekalé praktiky, no dotýkali sa individuálnych pracovnoprávnych sporov bez presahu na verejný záujem."
+observations.csv,o-9497e3ea98,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),"Za rok 2022 ÚOO eviduje deväť prípadov, ktoré odoslal príslušným inšpektorátom práce."
+observations.csv,o-5883f26c71,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),V roku 2022 tak úrad urobil dvakrát.
+observations.csv,o-5dcf455684,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),V priebehu roka 2022 úrad postúpil oznámenie na interné preverenie deväťkrát.
+observations.csv,o-020435d5bd,ok,svk-uoo-vs-2022,government,found,text,PDF p. 25 (printed p. 23),V roku 2022 postúpil ÚOO hlavným kontrolórom dva prípady.
+observations.csv,o-5e1d749cd7,ok,svk-uoo-vs-2023,government,found,text,PDF p. 24 (printed p. 23),"Z prípadov, ktoré úrad sleduje, bolo v 17 prípadoch podané trestné oznámenie, z toho jedno oznámenie podal priamo ÚOO."
+observations.csv,o-06e590286d,ok,svk-uoo-vs-2023,government,found,text,PDF p. 24 (printed p. 23),z toho jedno oznámenie podal priamo ÚOO
+observations.csv,o-ec3cb28a1e,ok,svk-uoo-vs-2023,government,found,text,PDF p. 24 (printed p. 23),"Na správne orgány išlo 23 podaní, z toho v piatich prípadoch v mene úradu."
+observations.csv,o-77f4ed8c35,ok,svk-uoo-vs-2023,government,found,text,PDF p. 24 (printed p. 23),z toho v piatich prípadoch v mene úradu
+observations.csv,o-f4ca12187e,ok,svk-uoo-vs-2024,government,found,text,PDF p. 26 (printed p. 25),"Z prípadov, ktoré úrad sleduje, bolo v 8 prípadoch podané trestné oznámenie."
+observations.csv,o-7ab75856f4,ok,svk-uoo-vs-2024,government,found,text,PDF p. 26 (printed p. 25),Na správne orgány bolo postúpených 14 podaní.
+observations.csv,o-b265afaddf,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 17,"V prípadoch, ktoré úrad sleduje, bolo podaných 18 trestných oznámení a 12 podaní bolo postúpených na správne orgány."
+observations.csv,o-c7399eb01c,ok,svk-uoo-vs-2025,government,found,text,PDF p. 17,12 podaní bolo postúpených na správne orgány
+observations.csv,o-c658d7402a,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 37 (printed p. 35), 'Kontrola'","V roku 2022 bola vykonaná jedna kontrola v samosprávnom kraji s tým, že kontrolovaný subjekt zaviedol nápravné opatrenia a odporúčania úradu."
+observations.csv,o-0302120cdc,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 31 (printed p. 30), section 4.3",V roku 2023 úrad vykonal tri kontroly:
+observations.csv,o-a4325f9fee,ok,svk-uoo-vs-2023,government,found,text,PDF p. 31 (printed p. 30),Úrad konštatoval dlhodobú nefunkčnosť
+observations.csv,o-a5b8616590,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 32 (printed p. 31), section 4.2","Počas roka 2024 úrad rozbehol 13 kontrol. Na základe zistených nedostatkov boli udelené dve pokuty vo výške 7 000 eur a 2 000 eur, v šiestich prípadoch sa posudzuje, či sa správne konanie na udelenie pokuty začne a v troch prípadoch už takéto konanie prebieha."
+observations.csv,o-8a9addc958,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 24, section 2.4",V roku 2025 úrad začal celkovo šesť kontrol
+observations.csv,o-741c5bbc98,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,úrad zaoberal v prvom štvrťroku jednou žiadosťou zamestnávateľa o udelenie súhlasu s pracovnoprávnym úkonom (šlo o napomenutie)
+observations.csv,o-6cadd12b8f,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,V danom prípade však úrad s navrhovaným úkonom súhlasil
+observations.csv,o-c0bccfb400,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),Úrad v roku 2022 rozhodol o 8 žiadostiach o súhlas s pracovnoprávnym úkonom.
+observations.csv,o-1227f6999d,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),"V 7 prípadoch chcel zamestnávateľ oznamovateľa prepustiť, v jednom prípade mu chcel odobrať služobné vozidlo."
+observations.csv,o-ca706a275c,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),v jednom prípade mu chcel odobrať služobné vozidlo
+observations.csv,o-205b1ac7ec,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),"V štyroch prípadoch (výpovedí) bol zo strany úradu súhlas udelený, v štyroch prípadoch bola žiadosť zamietnutá."
+observations.csv,o-21e2eb5ff7,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),"V štyroch prípadoch (výpovedí) bol zo strany úradu súhlas udelený, v štyroch prípadoch bola žiadosť zamietnutá."
+observations.csv,o-4e62417654,ok,svk-uoo-vs-2023,government,found,text,PDF p. 14 (printed p. 13),V roku 2023 úrad posudzoval 7 žiadostí zamestnávateľov o súhlas
+observations.csv,o-9a7dfcc20a,ok,svk-uoo-vs-2023,government,found,text,PDF p. 15 (printed p. 14),V troch prípadoch úrad udelil súhlas s výpoveďami.
+observations.csv,o-26cffa7bc1,ok,svk-uoo-vs-2023,government,found,text,PDF p. 15 (printed p. 14),"V dvoch prípadoch súhlas neudelil, týkalo sa to udelenia výčitky a okamžitého skončenia pracovného pomeru."
+observations.csv,o-ecd43e84da,ok,svk-uoo-vs-2023,government,found,text,PDF p. 15 (printed p. 14),Dve konania ku koncu roka 2023 ešte neboli ukončené.
+observations.csv,o-f010fdeaf9,ok,svk-uoo-vs-2024,government,found,text,PDF p. 16 (printed p. 15),V roku 2024 úrad posudzoval 10 žiadostí zamestnávateľov o súhlas s pracovnoprávnym úkonom
+observations.csv,o-9ed0af047e,ok,svk-uoo-vs-2024,government,found,text,PDF p. 16 (printed p. 15),V dvoch prípadoch úrad udelil súhlas s výpoveďami.
+observations.csv,o-590236ce14,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,Úrad zaznamenal celkovo 11 nových žiadostí o súhlas s pracovnoprávnym úkonom a ukončil 15 konaní
+observations.csv,o-0620455fc5,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,ukončil 15 konaní týkajúcich sa žiadostí o súhlas s pracovnoprávnym úkonom
+observations.csv,o-9a16b419ec,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 20,Z 15 ukončených vecí v roku 2025 úrad sedemkrát súhlas udelil a päťkrát súhlas neudelil. Vo zvyšných prípadoch bolo konanie zastavené.
+observations.csv,o-8471e80d18,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 20,päťkrát súhlas neudelil
+observations.csv,o-5ab7a51c09,ok,svk-uoo-vs-2023,government,found,text,PDF p. 32 (printed p. 31),"Zároveň úrad rozhodol o udelení pokuty 7 000 EUR, voči ktorej sa ministerstvo odvolalo."
+observations.csv,o-3abe64fafc,ok,svk-uoo-vs-2023,government,found,text,PDF p. 32 (printed p. 31),"Výsledkom bola pokuta 3 000 EUR za to, že štátny podnik nedodržal povinnosti vnútorného systému oznamovania."
+observations.csv,o-f6697c8e30,ok,svk-uoo-vs-2024,government,found,text,PDF p. 17 (printed p. 16),"Jeho výsledkom bola doteraz najvyššia úradom udelená pokuta, 90-tisíc eur, o ktorej v júni rozhodol prvostupňový orgán úradu."
+observations.csv,o-eb218212c2,ok,svk-uoo-vs-2024,government,found,text,PDF p. 32 (printed p. 31),boli udelené dve pokuty vo výške 7 000 eur a 2 000 eur
+observations.csv,o-8d5118816a,ok,svk-uoo-vs-2024,government,found,text,PDF p. 32 (printed p. 31),boli udelené dve pokuty vo výške 7 000 eur a 2 000 eur
+observations.csv,o-74e87a87e4,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,"Po prvej pokute, vo výške 90-tisíc eur (12 personálnych rozkazov voči 10 policajtom bez súhlasu ÚOO), ktorú úrad ministerstvu udelil v roku 2024"
+observations.csv,o-4d63460966,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,nasledovali v roku 2025 ďalšie tri pokuty vo výške 6-tisíc eur (1 personálny rozkaz voči policajtovi bez súhlasu ÚOO)
+observations.csv,o-3340dd4ecf,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 20,18-tisíc eur (3 personálne rozkazy voči jednému policajtovi bez súhlasu ÚOO)
+observations.csv,o-ec0bd66a97,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,70-tisíc eur (10 personálnych rozkazov voči 5 policajtom bez súhlasu ÚOO)
+observations.csv,o-445543e52e,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 26, section 2.5","V roku 2025 úrad uložil 8 pokút v celkovej sume 122 200 eur, vrátane pokút z kontrolnej činnosti. Najvyššia uložená pokuta bola 70-tisíc eur, najnižšia 200 eur."
+observations.csv,o-e3fcb97343,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 26, section 2.5",V roku 2025 úrad uložil 8 pokút v celkovej sume 122 200 eur
+observations.csv,o-e7b4f30abd,ok,svk-uoo-vs-2021,government,found,text,"PDF p. 25, 'Poradenstvo a podpora'","V období od sfunkčnenia úradu (02. september) do konca kalendárneho roka 2021 sme evidovali 68 telefonátov, teda v priemere 17 za mesiac."
+observations.csv,o-c783ed4735,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 19 (printed p. 18), Graf č. 2 'Vývoj agendy úradu' (stacked bars; series identified by colour against the legend)",140
+observations.csv,o-4c39464293,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",68
+observations.csv,o-a9230a2136,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'sa obrátili na ÚOO' (people by year)",2021 139
+observations.csv,o-423c33d6f5,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 18 (printed p. 16), 'Poradenstvo'","V priebehu roka 2022 sa na úrad obrátilo 377 ľudí, z toho volaní na infolinku bolo 157."
+observations.csv,o-469eb9a739,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 18 (printed p. 16), 'Poradenstvo'","V priebehu roka 2022 sa na úrad obrátilo 377 ľudí, z toho volaní na infolinku bolo 157."
+observations.csv,o-496c689f8f,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",157
+observations.csv,o-3d929b2fe4,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'sa obrátili na ÚOO' (people by year)",2022 367
+observations.csv,o-856fe5edcc,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 13 (printed p. 12), section 2.1","Na úrad sa obrátilo 533 ľudí, pričom úrad v danom roku konal v 211 prípadoch, ktoré boli v jeho kompetencii."
+observations.csv,o-19ccb1a2b0,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 19 (printed p. 18), section 2.2",Len na infolinku bolo v priebehu roka 220 volaní
+observations.csv,o-b801484863,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 21 (printed p. 20), Graf č. 2 'Vývoj agendy úradu od 1. 9. 2021 do 31. 12. 2024' (stacked bars; series identified by colour)",220
+observations.csv,o-aca0133423,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'sa obrátili na ÚOO' (people by year)",2023 519
+observations.csv,o-985d989b4c,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 13 (printed p. 12), section 2.1",Celkovo hľadalo pomoc na úrade 404 ľudí. Do kompetencií úradu spadalo 282 vecí.
+observations.csv,o-38f6d889b6,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 20 (printed p. 19), section 2.3",Iba na infolinke bolo zaznamenaných 166 volaní.
+observations.csv,o-0710103a54,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'sa obrátili na ÚOO' (people by year)",2024 404
+observations.csv,o-1160a8c928,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 15, section 2.1",V roku 2025 sa na úrad obrátilo celkovo 554 ľudí.
+observations.csv,o-85eadcc31a,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 29, section 3.1",Infolinka v roku 2025 zaznamenala 161 volaní
+observations.csv,o-a602a103c4,ok,svk-uoo-vs-2021,government,found,text,"PDF p. 22, 'Status chráneného oznamovateľa'","Z 32 prípadov v kompetencii úradu získalo 9 oznamovateľov status chráneného oznamovateľa, v troch prípadoch ho získali s asistenciou inej inštitúcie."
+observations.csv,o-78d5024f83,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,v troch prípadoch ho získali s asistenciou inej inštitúcie
+observations.csv,o-ede58f1df6,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),"Za rok 2022 bolo udelených 9 nových statusov chráneného oznamovateľa, úrad asistoval pri dvoch z nich."
+observations.csv,o-93fcb4df92,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),úrad asistoval pri dvoch z nich
+observations.csv,o-4f45e1933f,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),Tri ochrany udelili inšpektoráty práce a šesť ochrán prokuratúra.
+observations.csv,o-c4baf7dd05,ok,svk-uoo-vs-2022,government,found,text,PDF p. 15 (printed p. 13),Tri ochrany udelili inšpektoráty práce a šesť ochrán prokuratúra.
+observations.csv,o-b49e72c624,ok,svk-uoo-vs-2023,government,found,text,PDF p. 14 (printed p. 13),Za rok 2023 bolo udelených 62 nových statusov chráneného oznamovateľa dokopy 57 oznamovateľom.
+observations.csv,o-7d7d7f590a,ok,svk-uoo-vs-2023,government,found,text,PDF p. 14 (printed p. 13),Za rok 2023 bolo udelených 62 nových statusov chráneného oznamovateľa dokopy 57 oznamovateľom.
+observations.csv,o-9417bdc5e8,ok,svk-uoo-vs-2023,government,found,text,PDF p. 14 (printed p. 13),jednu ochranu poskytol aj Úrad pre verejné obstarávanie
+observations.csv,o-a06245e76f,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 16 (printed p. 15), section 2.2","Za rok 2024 bolo udelených 29 nových statusov chráneného oznamovateľa. Najviac ochrán, až 78 % udelili prokuratúry, 22 % udelili inšpektoráty práce."
+observations.csv,o-eb558dfbf8,ok,svk-uoo-vs-2024,government,found,text,PDF p. 16 (printed p. 15),"Najviac ochrán, až 78 % udelili prokuratúry"
+observations.csv,o-1a7b61bdad,ok,svk-uoo-vs-2024,government,found,text,PDF p. 16 (printed p. 15),22 % udelili inšpektoráty práce
+observations.csv,o-00c5a05f88,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 20, section 2.3","V roku 2025 získalo 14 oznamovateľov status chráneného oznamovateľa. Väčšinu ochrán (11) poskytol prokurátor, v troch prípadoch ochranu udelil správny orgán."
+observations.csv,o-294e9195b1,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,Väčšinu ochrán (11) poskytol prokurátor
+observations.csv,o-1865e3ee47,ok,svk-uoo-vs-2025,government,found,text,PDF p. 20,v troch prípadoch ochranu udelil správny orgán
+observations.csv,o-1fae0900b3,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,V 6 prípadoch sme asistovali pri žiadosti o tento status.
+observations.csv,o-35a4b31b3c,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,V 2 prípadoch ho oznamovatelia získali s asistenciou Úradu na ochranu oznamovateľov
+observations.csv,o-a84d764e48,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,jeden prípad bol v čase písania výročnej správy stále otvorený
+observations.csv,o-795928b0ab,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,V 3 prípadoch oznamovatelia status chráneného oznamovateľa nezískali.
+observations.csv,o-733f9c781e,ok,svk-uoo-vs-2021,government,found,text,"PDF p. 22, 'Pozastavenie účinnosti pracovnoprávneho úkonu'",Pri pozastavení účinnosti pracovnoprávneho úkonu na 30 dní sme asistovali v 5 prípadoch. O pozastavení účinnosti úrad rozhodol v 3 prípadoch.
+observations.csv,o-0f130d2915,ok,svk-uoo-vs-2021,government,found,text,PDF p. 22,O pozastavení účinnosti úrad rozhodol v 3 prípadoch.
+observations.csv,o-dda11a0ab4,ok,svk-uoo-vs-2022,government,found,text,PDF p. 16 (printed p. 14),V roku 2022 úrad dostal 2 žiadosti o pozastavenie účinnosti pracovnoprávneho úkonu.
+observations.csv,o-e2341c60f8,ok,svk-uoo-vs-2022,government,found,text,PDF p. 16 (printed p. 14),Obom žiadostiam ÚOO nevyhovel.
+observations.csv,o-51146b061a,ok,svk-uoo-vs-2023,government,found,text,PDF p. 16 (printed p. 15),V roku 2023 úrad dostal 26 žiadostí o pozastavenie účinnosti pracovnoprávneho úkonu
+observations.csv,o-74aca6014a,ok,svk-uoo-vs-2023,government,found,text,PDF p. 16 (printed p. 15),V troch prípadoch žiadosti vyhovel a účinnosť pozastavil.
+observations.csv,o-7faaa19f6d,ok,svk-uoo-vs-2023,government,found,text,PDF p. 16 (printed p. 15),V 17 prípadoch účinnosť úkonu nebola pozastavená
+observations.csv,o-2a97618c55,ok,svk-uoo-vs-2023,government,found,text,PDF p. 16 (printed p. 15),Rozhodovanie vo zvyšných piatich konaniach nebolo ku koncu decembra 2023 ukončené.
+observations.csv,o-47a1b5ae5c,ok,svk-uoo-vs-2024,government,found,text,PDF p. 14 (printed p. 13),"V roku 2024 dostal úrad 32 podaní na odvety zamestnávateľa, vrátane 15 žiadostí o pozastavenie pracovnoprávneho úkonu."
+observations.csv,o-81ce288d6b,ok,svk-uoo-vs-2024,government,found,text,PDF p. 14 (printed p. 13),Z nich sa ako opodstatnených ukázalo 12 prípadov
+observations.csv,o-1a0f30f582,ok,svk-uoo-vs-2024,government,found,text,PDF p. 18 (printed p. 17),V roku 2024 úrad dostal 15 žiadostí o pozastavenie účinnosti pracovnoprávneho úkonu
+observations.csv,o-ce41bd7fa3,ok,svk-uoo-vs-2024,government,found,text,PDF p. 18 (printed p. 17),V ôsmich prípadoch úrad žiadosti vyhovel a účinnosť pozastavil
+observations.csv,o-cc6edfa7b1,ok,svk-uoo-vs-2024,government,found,text,PDF p. 18 (printed p. 17),V 7 prípadoch účinnosť úkonu nebola pozastavená
+observations.csv,o-98aab1b074,ok,svk-uoo-vs-2025,government,found,text,PDF p. 21,"V roku 2025 dostal úrad od oznamovateľov 19 žiadostí o pozastavenie účinnosti pracovnoprávneho úkonu, pričom vyhovel trom."
+observations.csv,o-4492a6d2a7,ok,svk-uoo-vs-2025,government,found,text,PDF p. 21,pričom vyhovel trom
+observations.csv,o-03367443a2,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 21 (printed p. 20), section 2.3",V priebehu roka 2023 tieto služby využil jeden oznamovateľ.
+observations.csv,o-8949072f1a,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 22 (printed p. 21), section 2.4",V roku 2024 tieto služby využili štyria oznamovatelia.
+observations.csv,o-3127e808eb,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 24,"V roku 2025 tieto služby využili 6 oznamovatelia, ktorí absolvovali dokopy 34 sedení."
+observations.csv,o-0ba740a3cf,unknown,svk-uoo-vs-2025,government,found,text,PDF p. 24,ktorí absolvovali dokopy 34 sedení
+observations.csv,o-d5d9aa69fb,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'Podnety, ktoré ÚOO prijal ako orgán príslušný na prijímanie externých oznámení' (by year)",62 2021
+observations.csv,o-b3bacc2a78,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 22 (printed p. 20), 'Oznámenia o protispoločenskej činnosti'",V priebehu januára až decembra 2022 využili oznamovatelia úrad ako externý kanál na podanie oznámenia o nezákonnej činnosti v 39 prípadoch.
+observations.csv,o-86e911501e,ok,svk-uoo-vs-2022,government,found,text,PDF p. 22 (printed p. 20),Z toho 28 oznamovateľov spĺňalo podmienky oznamovateľa definované v zákone č. 54/2019 Z. z..
+observations.csv,o-cffa79c6e0,ok,svk-uoo-vs-2022,government,found,text,PDF p. 22 (printed p. 20),V 13 prípadoch podali anonymné oznámenie
+observations.csv,o-b9619e2e30,ok,svk-uoo-vs-2022,government,found,text,PDF p. 23 (printed p. 21),Z 13 prijatých anonymných oznámení sa úrad zaoberal 11.
+observations.csv,o-9440afdd7e,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'Podnety, ktoré ÚOO prijal ako orgán príslušný na prijímanie externých oznámení' (by year)",187 2022
+observations.csv,o-cac9877321,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 23 (printed p. 22), chapter 3",V priebehu roka 2023 úrad dostal od občanov 173 podnetov.
+observations.csv,o-bb6e10f035,ok,svk-uoo-vs-2023,government,found,text,PDF p. 23 (printed p. 22),"Z toho hneď v úvode sa pri 102 podnetoch dalo vyhodnotiť, že nespĺňajú podmienky oznámenia podľa zákona č. 54/2019 Z. z.."
+observations.csv,o-2c62c4720c,ok,svk-uoo-vs-2023,government,found,text,PDF p. 23 (printed p. 22),"Zo zvyšných podnetov úrad eviduje 36 takých, kedy sa oznamovatelia so svojím oznámením obrátili aj na iný štátny orgán a ÚOO im poskytoval poradenstvo."
+observations.csv,o-80949b63f2,ok,svk-uoo-vs-2023,government,found,text,PDF p. 23 (printed p. 22),"V 35 prípadoch bol ÚOO ich prvým kontaktom, na ktorý sa obrátili a ktorému podali oznámenie o nekalej praktike."
+observations.csv,o-893c0dffdf,ok,svk-uoo-vs-2023,government,found,text,PDF p. 23 (printed p. 22),"Celkovo v roku 2023 úrad eviduje 34 anonymných podnetov, z toho 10 bolo relevantných oznámení."
+observations.csv,o-76fd244e5b,ok,svk-uoo-vs-2023,government,found,text,PDF p. 23 (printed p. 22),z toho 10 bolo relevantných oznámení
+observations.csv,o-6f273d90a0,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'Podnety, ktoré ÚOO prijal ako orgán príslušný na prijímanie externých oznámení' (by year)",173 2023
+observations.csv,o-0ae16adbef,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 25 (printed p. 24), chapter 3","V priebehu roka 2024 úrad dostal od občanov 180 podnetov, vrátane 17 podnetov týkajúcich sa odvetných opatrení a 74 o inej nezákonnej činnosti podľa zákona č. 54/2019 Z. z."
+observations.csv,o-dc97e237e6,ok,svk-uoo-vs-2024,government,found,text,PDF p. 25 (printed p. 24),vrátane 17 podnetov týkajúcich sa odvetných opatrení
+observations.csv,o-657596474d,ok,svk-uoo-vs-2024,government,found,text,PDF p. 25 (printed p. 24),74 o inej nezákonnej činnosti podľa zákona č. 54/2019 Z. z.
+observations.csv,o-9aec38af1d,ok,svk-uoo-vs-2024,government,found,text,PDF p. 25 (printed p. 24),"Úrad prijal 55 anonymných podnetov, z nich 5 bolo po preverení možné považovať za oznámenia napĺňajúce podmienky zákona."
+observations.csv,o-2c1a1ccda9,ok,svk-uoo-vs-2024,government,found,text,PDF p. 25 (printed p. 24),z nich 5 bolo po preverení možné považovať za oznámenia napĺňajúce podmienky zákona
+observations.csv,o-6fa43b65f8,ok,svk-uoo-vs-2024,government,found,text,PDF p. 25 (printed p. 24),Podiel anonymných oznamovateľov bol 24 %.
+observations.csv,o-0d70d87632,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 17, infographic 'Podnety, ktoré ÚOO prijal ako orgán príslušný na prijímanie externých oznámení' (by year)",180 2024
+observations.csv,o-f344fcb2ff,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 16, section 2.2",Z celkovo prijatých 335 podnetov bolo predbežne považovaných za oznámenie 138 podnetov (prezumované oznámenia) a ďalších 30 sa týkalo odviet. Zvyšných 167 podnetov bolo vyhodnotených ako nespadajúce do pôsobnosti úradu.
+observations.csv,o-2d01b85e96,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,bolo predbežne považovaných za oznámenie 138 podnetov (prezumované oznámenia)
+observations.csv,o-b862c5713f,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,ďalších 30 sa týkalo odviet
+observations.csv,o-4038aa7c42,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,Zvyšných 167 podnetov bolo vyhodnotených ako nespadajúce do pôsobnosti úradu.
+observations.csv,o-6bddc09b09,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,"47 podnetov ako oznámenia, ktoré spĺňa"
+observations.csv,o-3dfb500bf3,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,"Úrad prijal 148 anonymných podnetov, čo predstavuje 44 % z celkového počtu."
+observations.csv,o-cf2654a6ac,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,"Úrad prijal 148 anonymných podnetov, čo predstavuje 44 % z celkového počtu."
+observations.csv,o-5900971e70,ok,svk-uoo-vs-2025,government,found,text,PDF p. 16,"Zo 47 podnetov, ktoré boli po podrobnejšom preskúmaní a na základe ďalšej komunikácie riešené ako oznámenia napĺňajúce všetky znaky zákona, bolo 13 anonymných."
 observations.csv,o-0e576cefd8,p. 26,usa-fincen-wb-nprm-2026,government,loose,text,"PDF p. 24 (91 FR 16351), Table 3",2021 | 13 | 12 | 1 | 0
 observations.csv,o-f49f103217,,usa-fincen-wb-nprm-2026,government,loose,ocr,"PDF p. 24 (91 FR 16351), Table 3",2022 | 101 | 74 | 27 | 0
 observations.csv,o-cb157edf15,,usa-fincen-wb-nprm-2026,government,checked,text,"PDF p. 24 (91 FR 16351), Table 3",2023 | 246 | 143 | 103 | 3
@@ -633,6 +828,7 @@ observations.csv,o-f20a101f37,ok,usa-irs-wbo-ar-fy2021,government,found,text,"PD
 observations.csv,o-c9b0b48d18,ok,usa-irs-wbo-ar-fy2022,government,found,text,"PDF p. 5, Message from the Director","Since 2007, the Whistleblower Office made awards of $1.1 billion based on the collection of $6.6 billion."
 observations.csv,o-c344e8e3a2,ok,usa-irs-wbo-ar-fy2023,government,found,text,"PDF p. 7, Message from the Director","Since 2007, the Whistleblower Office has made awards of $1.2 billion based on the collection of $6.9 billion."
 observations.csv,o-3a5c2129a7,ok,usa-irs-wbo-ar-fy2024,government,found,text,"PDF p. 6, Message from the Director","Since 2007, the Whistleblower Office has made awards of $1.3 billion based on the collection of $7.37 billion attributable to whistleblower information."
+observations.csv,o-8ae8f8d9c1,,usa-cftc-wb-ar-2011,government,found,text,"p. 5 (printed -5-), Section III, Customer Protection Fund table",Amount paid from Fund during the period to whistleblowers and on education initiatives $0
 observations.csv,o-43be81d7b8,,usa-sec-owb-ar-2015,government,found,text,p. 1 (Chief's message),The Commission has paid more than $54 million to 22 whistleblowers since the Commission's new whistleblower rules went into effect in August 2011
 observations.csv,o-0b744a32cd,,usa-sec-owb-ar-2016,government,found,text,p. 10 (printed),the SEC has issued more than $111 million in awards to 34 whistleblowers since the program's establishment in August 2011
 observations.csv,o-9e188b2071,,usa-cftc-wb-ar-2017,government,found,text,p. 4,the CFTC has issued four awards totaling approximately $11 million
@@ -1583,6 +1779,7 @@ observations.csv,o-54fb625e89,,usa-doj-fca-stats-2025,government,found,text,"p. 
 observations.csv,o-a94369ffec,,usa-doj-fca-stats-2025,government,found,text,"p. 7, table ""Fraud Statistics - Health and Human Services"", row FY2025, column ""New matters - non qui tam""","2025 183 458 1,221,708,457 2,225,412,027 2,274,416,048 4,499,828,074 5,721,536,531 221,308,458 41,395,923 262,704,381"
 observations.csv,o-b8aba34039,,usa-doj-fca-stats-2025,government,found,text,"p. 11, table ""Fraud Statistics - Department of Defense"", row FY2025, column ""New matters - non qui tam""","2025 25 41 100,199,053 525,721,650 8,006,796 533,728,446 633,927,500 22,091,317 2,113,000 24,204,317"
 observations.csv,o-0e48742d45,,usa-doj-fca-stats-2025,government,found,text,"p. 15, table ""Fraud Statistics - Other (non-HHS and non-DoD)"", row FY2025, column ""New matters - non qui tam""","2025 193 798 226,182,420 300,601,153 5,848,662 306,449,815 532,632,235 42,654,458 795,062 43,449,520"
+observations.csv,o-2f35356ad2,,usa-cftc-wb-ar-2011,government,found,text,"p. 5 (printed -5-), Section III, Customer Protection Fund table","Balance of the Fund at beginning of the period commencing July 21, 2010 $0"
 observations.csv,o-b92b1e7cef,,usa-sec-owb-ar-2011,government,found,text,"p. 9, Fund table, FY 2010 column","Balance of Fund at end of the preceding fiscal year ... $451,909,854.07"
 observations.csv,o-42c20cfcf2,,usa-cftc-wb-ar-2011,government,found,text,"p. 5, Section III","As of September 30, 2011, the Fund was partially funded, with an ending balance of $23,755,000"
 observations.csv,o-a06e311e00,,usa-sec-owb-ar-2011,government,found,text,"p. 9, Section VI","As of September 30, 2011, the Fund was fully funded, with an ending balance of $452,788,043.74."
@@ -1618,6 +1815,8 @@ observations.csv,o-ebc9e8fca9,,usa-cftc-wb-ar-2024,government,found,text,Section
 observations.csv,o-aa19fd41cb,,usa-sec-owb-ar-2024,government,found,ocr,"p. 13, Fund table (image)","Balance of Fund at end of the fiscal year $ 361,813,819.56"
 observations.csv,o-d2b4e5bb5e,,usa-cftc-wb-ar-2025,government,found,text,"p. 21, Section IV","As of September 30, 2025, the available balance of the Fund is $212,679,118"
 observations.csv,o-6ea7823e41,,usa-sec-owb-ar-2025,government,found,text,"p. 7, Fund table","Balance of Fund at end of the fiscal year $318,540,678.50"
+observations.csv,o-742b6fe7bd,,usa-cftc-wb-ar-2011,government,found,text,"p. 5 (printed -5-), Section III, Customer Protection Fund table","Amounts deposited into or credited to Fund during period July 21, 20 10 through September 30, 2011 $23,755,000"
+observations.csv,o-1f6a637778,,usa-cftc-wb-ar-2011,government,found,text,"p. 5 (printed -5-), Section III, Customer Protection Fund table",Amount of earnings on investments during the period $0
 observations.csv,o-c31f3e3c0f,,usa-sec-owb-ar-2013,government,found,text,p. 15,"Since the inception of the Commission's whistleblower program in August 2011, the Commission has granted awards to six whistleblowers"
 observations.csv,o-45f17f4626,,usa-sec-owb-ar-2014,government,found,text,p. 10 (printed),"Since the inception of the Commission's whistleblower program in August 2011, the Commission has authorized awards to fourteen whistleblowers"
 observations.csv,o-587f9888ad,,usa-sec-owb-ar-2015,government,found,text,"p. 10, footnote 16","To date, 22 individuals have received awards under the program"
@@ -4859,16 +5058,25 @@ program_rules.csv,r-9f64e383b7,,can-cra-otip-outcomes-2026,government,found,text
 program_rules.csv,r-b022a62874,,can-cra-otip-outcomes-2026,government,found,text,Outcomes page,"If the CRA successfully collects $100,000 or more in federal tax owing (excluding penalties and interest)"
 program_rules.csv,r-016b43999b,,can-osc-wb-eligibility-2026,government,found,text,section 'Anonymous whistleblowers',Whistleblowers can make submissions anonymously through their lawyers.
 program_rules.csv,r-793e8b962b,,can-osc-wb-update-2022,government,found,text,section 'How Awards Are Determined',"Any award issued will range between 5 and 15% of total monetary sanctions and/or voluntary payments, up to a maximum of $5 million."
+program_rules.csv,r-869e93235b,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2",The maximum amount of the award has been set at $1.5 million where monetary sanctions and/or voluntary payments are not collected
+program_rules.csv,r-b200be2708,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2",and $5 million where these amounts have been collected
 program_rules.csv,r-f10589670b,,can-osc-wb-eligibility-2026,government,found,text,section 'Amount of an award',The  amount of an award ranges from 5% to 15% of the total monetary sanctions ordered by the Commission
+program_rules.csv,r-6ca934e92c,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2",whistleblowers may be eligible for awards of between 5% to 15% of total monetary sanctions imposed and/or voluntary payments made
 program_rules.csv,r-3de1095207,,can-osc-wb-eligibility-2026,government,found,text,section 'Amount of an award',The  amount of an award ranges from 5% to 15% of the total monetary sanctions ordered by the Commission
+program_rules.csv,r-4f0bfdac19,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2",whistleblowers may be eligible for awards of between 5% to 15% of total monetary sanctions imposed and/or voluntary payments made
 program_rules.csv,r-62d0b1bbae,,can-osc-wb-eligibility-2026,government,found,text,section 'Amount of an award',"The Commission will then determine, in its discretion, the amount of a whistleblower award based on certain factors if the eligibility criteria for an award is met."
 program_rules.csv,r-86cfe562d9,,can-osc-wb-eligibility-2026,government,found,text,section 'Internal reporting of information',"If you have already reported internally, or are contemplating doing so, you must submit a whistleblower submission form to us within 120 days of reporting to be eligible for an OSC award."
 program_rules.csv,r-1ea348a957,,can-osc-wb-update-2022,government,found,text,section 'How Awards Are Determined',"The award determination process begins once a matter involving whistleblower information results in an order, or multiple orders, by the Capital Markets Tribunal (the “Tribunal”) with total monetary sanctions and/or voluntary payments of $1 million or more."
+program_rules.csv,r-662c911233,ok,can-osc-fs-2019,government,found,text,"PDF p. 20, Note 6, paragraph 2",if their information leads to an administrative proceeding where these amounts total $1 million or more
 program_rules.csv,r-2e81ad0cfa,,gbr-cma-news-cartel-reward-2023,government,found,text,"news text, para 1","offering a reward of up to £250,000, increased from £100,000, to people who tell the CMA about unlawful cartel activity they have witnessed"
 program_rules.csv,r-c89b643556,,gbr-cma-news-cartel-reward-2023,government,found,text,"news text, para 1","offering a reward of up to £250,000, increased from £100,000, to people who tell the CMA about unlawful cartel activity they have witnessed"
 program_rules.csv,r-b502bbb6f8,,gbr-cma-rewards-guidance-2014,government,found,text,section 'When will I know if I will get a financial reward and how does the CMA calculate any amount?',It is essential to understand that rewards are granted at the discretion of the CMA.
+program_rules.csv,r-d91efbdcd4,ok,gbr-hmrc-ar-2018-19,government,found,text,"PDF p. 30, box 'In focus: Paying rewards for information'","We pay rewards at our own discretion, and they are based on what is achieved as a direct result of the information provided."
+program_rules.csv,r-b1874b89dd,ok,gbr-hmrc-ar-2019-20,government,found,text,"PDF p. 34, box 'Rewards for information'","We make these at our own discretion, based on what is achieved as a direct result."
 program_rules.csv,r-d3a04a0a2b,,gbr-hmrc-srs-guidance-2025,government,found,text,section 'Reasons you would not get a reward',you are providing the information anonymously (anonymous submissions will be accepted but no payment will be made)
+program_rules.csv,r-52174c6c30,ok,gbr-hmrc-ar-2025-26,government,found,text,"PDF p. 22 (printed p. 20), 'Strengthening the reward scheme for high-value tax fraud'","informants could receive between 15% to 30% of the value of the additional tax collected by HMRC that results from information provided by the informant, subject to meeting eligibility criteria"
 program_rules.csv,r-b76b8ac0d5,,gbr-hmrc-srs-guidance-2025,government,found,text,section 'Who could get a reward',You could get between 15% and 30% of the tax collected (excluding penalties and interest).
+program_rules.csv,r-dcbe845b20,ok,gbr-hmrc-ar-2025-26,government,found,text,"PDF p. 22 (printed p. 20), 'Strengthening the reward scheme for high-value tax fraud'","informants could receive between 15% to 30% of the value of the additional tax collected by HMRC that results from information provided by the informant, subject to meeting eligibility criteria"
 program_rules.csv,r-ff7530cd98,,gbr-hmrc-srs-guidance-2025,government,found,text,section 'Who could get a reward',You could get between 15% and 30% of the tax collected (excluding penalties and interest).
 program_rules.csv,r-a0131eb5b3,,gbr-hmrc-srs-guidance-2025,government,found,text,section 'Who could get a reward',Rewards are given at HMRC ’s discretion and are not guaranteed.
 program_rules.csv,r-51da2ed881,,gbr-hmrc-srs-guidance-2025,government,found,text,section 'Who could get a reward',You could get a reward if the information you provide to HMRC leads to the collection of at least £1.5 million in tax.
@@ -4932,11 +5140,22 @@ program_rules.csv,r-020963cf7f,,svk-zz-2014-307-whistleblower-act,legislation,fo
 program_rules.csv,r-af07c6c2c3,,svk-zz-2014-307-whistleblower-act,legislation,found,text,§ 9(3),Žiadosť o poskytnutie odmeny podľa odseku 1 môže podať oznamovateľ ministerstvu do šiestich mesiacov odo dňa doručenia oznámenia podľa odseku 2.
 program_rules.csv,r-0262ce1a8e,ok,svk-pmu-vs-2014,government,found,text,PDF p. 11,"Odmena za poskytnutie dôkazov o karteli predstavuje 1 % z uložených pokút v jednom rozhodnutí úradu, maximálne 100 000 EUR."
 program_rules.csv,r-17be9dcab4,,svk-zz-2021-187-competition-act,legislation,found,text,§ 53(4),"oznamovateľovi patrí 50 % odmeny, ktorá by mu inak patrila podľa prvej vety, najviac však 10 000 eur"
+program_rules.csv,r-9b396d08a3,ok,svk-pmu-vs-2014,government,found,text,PDF pp. 11-12 (printed pp. 11-12),"pokuta úradu nebola zaplatená, vzniká oznamovateľovi nárok na odmenu vo výške 50 % toho, čo by mu inak patrilo, maximálne 10 000 EUR."
 program_rules.csv,r-ff431c9dd0,,svk-zz-2021-187-competition-act,legislation,found,text,§ 53(4),"Odmena pre oznamovateľa je 1 % zo súčtu pokút uložených všetkým účastníkom dohody obmedzujúcej súťaž v rozhodnutí úradu, najviac však 100 000 eur"
+program_rules.csv,r-3bff23a808,ok,svk-pmu-vs-2014,government,found,text,"PDF p. 11 (printed p. 11), legislative changes","Odmena za poskytnutie dôkazov o karteli predstavuje 1 % z uložených pokút v jednom rozhodnutí úradu, maximálne 100 000 EUR."
 program_rules.csv,r-f1b0342d96,,svk-zz-2021-187-competition-act,legislation,found,text,§ 53(4),"Odmena pre oznamovateľa je 1 % zo súčtu pokút uložených všetkým účastníkom dohody obmedzujúcej súťaž v rozhodnutí úradu, najviac však 100 000 eur"
+program_rules.csv,r-f063de7088,ok,svk-pmu-vs-2014,government,found,text,PDF p. 11 (printed p. 11),Odmena za poskytnutie dôkazov o karteli predstavuje 1 % z uložených pokút v jednom rozhodnutí úradu
+program_rules.csv,r-ab7efc6706,ok,svk-pmu-vs-2014,government,found,text,PDF pp. 11-12 (printed pp. 11-12),"vzniká oznamovateľovi nárok na odmenu vo výške 50 % toho, čo by mu inak patrilo"
 program_rules.csv,r-8c58653637,,svk-zz-2021-187-competition-act,legislation,found,text,§ 53(3),"Oznamovateľ má nárok na odmenu, ak o ňu požiada a poskytnutý dôkaz podľa odseku 1 bol rozhodujúci pre preukázanie porušenia zákona"
+program_rules.csv,r-3363ac9409,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 36 (printed p. 34), 'Kontrola'",môže úrad uložiť pokutu do 20 000 eur
+program_rules.csv,r-49297539b0,ok,svk-uoo-vs-2022,government,found,text,"PDF p. 36 (printed p. 34), 'Kontrola'","Pokutu 2 000 eur môže úrad uložiť zamestnávateľovi za odvetu alebo pracovnoprávny úkon bez súhlasu úradu voči oznamovateľovi, alebo ak poruší povinnosť zachovávať mlčanlivosť o totožnosti oznamovateľa."
+program_rules.csv,r-f8054bdc18,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 69 (printed p. 68), chapter 10","Zvýšili sa pokuty z 2 000 EUR na 6 000 EUR v prípade, že fyzická osoba:"
+program_rules.csv,r-1dea3bc5ab,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 70 (printed p. 69), chapter 10",Zaviedla sa pokuta do 100 000 EUR zamestnávateľovi (právnickej osobe)
+program_rules.csv,r-0e58367a3e,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 70 (printed p. 69), chapter 10",Pribudla aj pokuta do 50 000 EUR zamestnávateľovi
+program_rules.csv,r-1b5a97a424,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 70 (printed p. 69), chapter 10","Pokuta do 30 000 EUR hrozí zase zamestnávateľovi, ktorý neprijal opatrenia na odstránenie nedostatkov"
 program_rules.csv,r-9934b2dd06,ok,svk-uoo-vs-2021,government,found,text,PDF p. 52,V prípade kvalifikovaného oznámenia môže úrad poskytnúť odmenu až do výšky 50-násobku minimálnej mzdy (podľa súčasného stavu v roku 2021 ide o sumu 31 150 €).
 program_rules.csv,r-895fa06caa,ok,svk-uoo-vs-2021,government,found,text,PDF p. 52,"V ustanovení § 9 ods. 7 však zákon hovorí, že odmena je právne nenárokovateľná."
+program_rules.csv,r-a06fef875f,ok,svk-uoo-vs-2021,government,found,text,"PDF p. 56, 'Správne formálne podaná žiadosť'",Žiadateľ musí podať žiadosť do 6 mesiacov odo dňa doručenia oznámenia o podaní obžaloby
 program_rules.csv,r-6f8ef149d3,,twn-moj-reward-regulation-2019,legislation,found,text,Art. 4(1)(5),匿名或不以真實姓名檢舉、檢舉而未提出具體事證或拒絕製作筆錄。
 program_rules.csv,r-30a3063986,,twn-moj-reward-regulation-2019,legislation,found,text,Art. 5,因檢舉同一貪污瀆職案件之犯罪人數，經法院判決有罪確定逾五人者，增給二分之一獎金。最高以新臺幣一千萬元為限。
 program_rules.csv,r-f54e226687,,usa-ecfr-17cfr165-2026,legislation,found,text,17 CFR 165.4(b),"A whistleblower may anonymously submit information to the Commission, however, the whistleblower must follow the procedures in § 165.3(c)"
@@ -4948,6 +5167,7 @@ program_rules.csv,r-a42b398911,,usa-cftc-wb-ar-2011,government,found,text,p. 2,"
 program_rules.csv,r-e52f4b60ac,,usa-ecfr-17cfr165-2026,legislation,found,text,17 CFR 165.7(b)(2),"The Form WB-APP, including any attachments, must be received by the Commission within 90 calendar days of the date of the Notice of Covered Action"
 program_rules.csv,r-dcd96c2c2f,,usa-uscode-7usc26-2023,legislation,found,text,7 U.S.C. 26(g)(3)(A),"unless the balance of the Fund at the time the monetary judgment is collected exceeds $100,000,000"
 program_rules.csv,r-a77e870db9,,usa-uscode-7usc26-2023,legislation,found,text,7 U.S.C. 26(a)(1),"results in monetary sanctions exceeding $1,000,000"
+program_rules.csv,r-1027d17d38,,usa-cftc-wb-ar-2011,government,found,text,"p. 4 (printed -4-), Section II.C",resulting in the imposition of more than $1 million in total monetary sanctions. See 7 U.S.C. § 26(a)(l).
 program_rules.csv,r-ab440a9fd0,,usa-uscode-33usc1908-2023,legislation,found,text,33 U.S.C. 1908(a),"In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction."
 program_rules.csv,r-9c221921a7,,usa-uscode-33usc1908-2023,legislation,found,text,33 U.S.C. 1908(a),"In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid"
 program_rules.csv,r-a5982dbe88,ok,usa-doj-atr-usps-wb-mou-2025,government,found,text,"PDF p. 3, section III",The maximum total reward will be 30% of the recovered criminal fine.
@@ -4981,13 +5201,17 @@ program_rules.csv,r-b7581d9e83,,usa-uscode-31-3730-2023,legislation,found,text,"
 program_rules.csv,r-6ad9f4a974,ok,usa-fincen-wb-nprm-2026,government,found,text,"PDF p. 50 (91 FR 16377), proposed 31 CFR 1010.930(b)(1)(ii)",A whistleblower may submit original information anonymously through an attorney.
 program_rules.csv,r-7e4a0c123f,,usa-uscode-31usc5323-2018,legislation,found,text,31 U.S.C. 5323(b) (2018 ed.),"The Secretary may not award more than 25 per centum of the net amount of the fine, penalty, or forfeiture collected or $150,000, whichever is less."
 program_rules.csv,r-9fe3153e7d,,usa-uscode-31usc5323-2018,legislation,found,text,31 U.S.C. 5323(b) (2018 ed.),"The Secretary may not award more than 25 per centum of the net amount of the fine, penalty, or forfeiture collected or $150,000, whichever is less."
+program_rules.csv,r-bcabcd495f,ok,usa-fincen-wb-bulletin-iran-2026,government,found,text,"PDF p. 3, 'How to Blow the Whistle'",Awards offered under FinCEN’s whistleblower program can be substantial—10 to 30 percent of collected monetary penalties
 program_rules.csv,r-62e396b026,,usa-uscode-31usc5323-2021,legislation,found,text,31 U.S.C. 5323(b)(1) (2021 ed.),"in an aggregate amount equal to not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions"
 program_rules.csv,r-164e7e305a,,usa-uscode-31usc5323-2023,legislation,found,text,31 U.S.C. 5323(b)(1)(B) (2023 ed.),"not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions"
+program_rules.csv,r-4f1074eac8,ok,usa-fincen-wb-bulletin-iran-2026,government,found,text,"PDF p. 3, 'How to Blow the Whistle'",Awards offered under FinCEN’s whistleblower program can be substantial—10 to 30 percent of collected monetary penalties
 program_rules.csv,r-985833f9b6,,usa-uscode-31usc5323-2023,legislation,found,text,31 U.S.C. 5323(b)(1)(A) (2023 ed.),"not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions"
 program_rules.csv,r-dfd1f87a84,,usa-uscode-31usc5323-2018,legislation,found,text,31 U.S.C. 5323(a)-(b) (2018 ed.),The Secretary may pay a reward to an individual who provides original information
 program_rules.csv,r-931627db41,,usa-uscode-31usc5323-2021,legislation,found,text,31 U.S.C. 5323(c)(1)(A) (2021 ed.),The determination of the amount of an award made under subsection (b) shall be in the discretion of the Secretary.
 program_rules.csv,r-44422ac853,ok,usa-fincen-wb-nprm-2026,government,found,text,"PDF p. 51 (91 FR 16378), proposed 31 CFR 1010.930(d)(1)",later than ninety (90) calendar days after the relevant notice of covered action was first published on a Department of the Treasury website
 program_rules.csv,r-8766e1c059,,usa-uscode-31usc5323-2023,legislation,found,text,31 U.S.C. 5323(b)(4)(A)(i) (2023 ed.),"unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000"
+program_rules.csv,r-53759959fd,ok,usa-fincen-wb-bulletin-fraud-2026,government,found,text,"PDF p. 2, 'How to Blow the Whistle'","leads to a successful enforcement action by Treasury or the Department of Justice that results in monetary penalties exceeding $1,000,000"
+program_rules.csv,r-c993f420fc,ok,usa-fincen-wb-bulletin-iran-2026,government,found,text,"PDF p. 3, 'How to Blow the Whistle'","leads to a successful enforcement action by Treasury or DOJ that results in the collection of monetary penalties exceeding $1,000,000"
 program_rules.csv,r-c0bb827126,,usa-uscode-31usc5323-2018,legislation,found,text,31 U.S.C. 5323(a) (2018 ed.),"original information which leads to a recovery of a criminal fine, civil penalty, or forfeiture, which exceeds $50,000"
 program_rules.csv,r-58145b48d2,,usa-uscode-31usc5323-2021,legislation,found,text,31 U.S.C. 5323(a)(1) (2021 ed.),"under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000"
 program_rules.csv,r-9b9b339414,,usa-uscode-31usc5323-2023,legislation,found,text,31 U.S.C. 5323(a)(1) (2023 ed.),"and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000"
@@ -5031,10 +5255,13 @@ program_rules.csv,r-c850a2ee1e,p. 20,usa-irs-wbo-ar-fy2023,government,found,text
 program_rules.csv,r-04632e3e5c,p. 18,usa-irs-wbo-ar-fy2024,government,found,text,PDF p. 17,the required reductions in FY 2024 were 5.7% of the amount that would otherwise have been payable.
 program_rules.csv,r-7dfa4cb3cf,,usa-irs-wbo-sequester-notice-fy2025,government,found,text,p. 1,will be reduced by the Fiscal Year 2025 sequestration rate of 5.7%
 program_rules.csv,r-b880469380,ok,usa-nhtsa-wb-finalrule-2024,government,found,text,"PDF p. 23 (89 FR 101974), 49 CFR 513.4(c)",A potential whistleblower may provide original information to the Agency anonymously through use of a legal representative.
+program_rules.csv,r-81aa5e4f69,,usa-nhtsa-wb-page-2026,government,found,text,FAQ 'How much is the whistleblower award?',"a whistleblower may receive anywhere from ten to thirty percent of collected monetary sanctions over $1,000,000."
 program_rules.csv,r-58d006e41b,,usa-uscode-49usc30172-2023,legislation,found,text,49 U.S.C. 30172(b)(1)(B),"not more than 30 percent, in total, of collected monetary sanctions"
+program_rules.csv,r-587000d229,,usa-nhtsa-wb-page-2026,government,found,text,FAQ 'How much is the whistleblower award?',"a whistleblower may receive anywhere from ten to thirty percent of collected monetary sanctions over $1,000,000."
 program_rules.csv,r-a9427bb283,,usa-uscode-49usc30172-2023,legislation,found,text,49 U.S.C. 30172(b)(1)(A),"not less than 10 percent, in total, of collected monetary sanctions"
 program_rules.csv,r-c45eb16c21,,usa-uscode-49usc30172-2023,legislation,found,text,49 U.S.C. 30172(c)(1)(A),"The determination of whether, to whom, or in what amount to make an award shall be in the discretion of the Secretary subject to the provisions in subsection (b)(1)."
 program_rules.csv,r-25ac0d3610,ok,usa-nhtsa-wb-finalrule-2024,government,found,text,"PDF p. 24 (89 FR 101975), 49 CFR 513.9",A claimant will have ninety (90) days from the date of the Notice of Covered Action to file a claim
+program_rules.csv,r-3ded7127df,,usa-nhtsa-wb-page-2026,government,found,text,FAQ 'How much is the whistleblower award?',"ten to thirty percent of collected monetary sanctions over $1,000,000."
 program_rules.csv,r-88cbe3a74b,,usa-uscode-49usc30172-2023,legislation,found,text,49 U.S.C. 30172(a)(1),"brought by the Secretary or the Attorney General under this chapter that in the aggregate results in monetary sanctions exceeding $1,000,000"
 program_rules.csv,r-ba52022a47,,usa-nyag-nyfca-text-2018,legislation,found,text,"p. 7, § 190(6)(a)-(b)","the court may award such sums as it considers appropriate, but in no case more than ten percent of the proceeds"
 program_rules.csv,r-f8c23d72cf,,usa-nyag-nyfca-text-2018,legislation,found,text,"p. 7, § 190(6)(a)-(b)",the person or persons who initiated the qui tam civil action collectively shall be entitled to receive between fifteen and twenty-five percent of the proceeds recovered in the action or in settlement of the action.
@@ -5079,6 +5306,7 @@ cases.csv,c-fc61c9a0ba,,kor-acrc-pr-2021-01-28,government,found,text,"p. 1, para
 cases.csv,c-abcc418fd0,,kor-acrc-pr-2025-12-10,government,found,text,p. 1,부패행위 신고자에게 국민권익위 보상심의위원회 및 전원위원회의 심의와 의결을 거쳐 18억 2천만 원의 보상금을 지급하기로 결정했다
 cases.csv,c-6d47d1bbf7,,intl-echr-halet-gc-2023,court,found,text,paras 19 and 46-48,"A.D. was sentenced to a twelve-month prison term, suspended in its entirety, and to a fine of EUR 1,500."
 cases.csv,c-9e138ebc5e,,intl-echr-halet-gc-2023,court,found,text,"operative provisions, points 1-2","Holds, by twelve votes to five, that there has been a violation of Article 10"
+cases.csv,c-ba53c51b16,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 26, section 2.6, anonymised case","Prokuratúra vyhodnotila, že zásluhy žiadateľa o odmenu boli na objasnení protispoločenskej činnosti len minimálne. Úrad preto morálne ocenil angažovanosť poslanca, no odmenu nepriznal."
 cases.csv,c-ec94584675,,usa-doj-fca-pr-fy2003,government,found,text,"press release text, list of largest recoveries, HCA item","HCA has paid the United States $1.7 billion, with whistleblowers receiving a combined share of $154 million-by far, record recoveries both by the United States and whistle-blowers."
 cases.csv,c-45df0336a3,,usa-doj-pr-hca-2003,government,found,text,press release text,"Under the settlement, the whistleblowers will receive a combined share of $151,591,500, the highest combined qui tam award ever paid out by the government."
 cases.csv,c-2b2b7c0036,,usa-doj-fca-pr-fy2008,government,found,text,"Fact sheet: significant recoveries in fiscal year 2008, Merck item","The United States paid the relator $46.6 million as his share of the settlement under the False Claims Act’s qui tam provisions. In addition to the federal recovery, Merck paid $162 million to state Medicaid programs."
@@ -5682,6 +5910,7 @@ cases.csv,c-6c2befa84d,,usa-sec-owb-final-orders-list-2025,government,found,text
 cases.csv,c-8f48d16da0,,usa-sec-owb-final-orders-list-2025,government,found,text,"list row dated Oct. 29, 2021, link denial-order-102921c.pdf","Oct. 29, 2021 Denial Order (PDF)"
 cases.csv,c-bad3eb9150,,usa-sec-owb-final-orders-list-2025,government,found,text,"list row dated Oct. 29, 2021, link denial-orders-102921.pdf","Oct. 29, 2021 Denial Orders (PDF)"
 cases.csv,c-eda04553b7,,usa-sec-owb-final-orders-list-2025,government,found,text,"list row dated Oct. 29, 2021, link denial-order-102921b.pdf","Oct. 29, 2021 Denial Order (PDF)"
+cases.csv,c-241c837614,,usa-nhtsa-wb-page-2026,government,found,text,"'Whistleblower Award Decisions', 2021 table","11/5/2021 $24,300,000 (30%)"
 cases.csv,c-ae2e194951,ok,usa-nhtsa-wb-award-2021-0001,government,found,text,PDF p. 2,"million and three hundred thousand dollars ($24,300,000). 3 This award is the maximum allowable thirty percent (30%) of the civil penalties that have been collected by the United States pursuant to the Consent Orders."
 cases.csv,c-138ed84079,,usa-sec-owb-final-orders-list-2025,government,found,text,"list row dated Nov. 6, 2021, link denial-order-116213.pdf","Nov. 6, 2021 Denial Order (PDF)"
 cases.csv,c-4dd1f15e99,,usa-sec-owb-final-orders-list-2025,government,found,text,"list row dated Nov. 6, 2021, link denial-order-116215.pdf","Nov. 6, 2021 Denial Order (PDF)"
@@ -6313,6 +6542,7 @@ events.csv,e-7b722ee019,,usa-gao-18-698,government,found,text,"Product page, Hig
 events.csv,e-0c512bc56c,,che-lawch-elmer-2018,media,no_copy,,para 1,"Das Bundesgericht gab soeben bekannt gegeben, dass es den Freispruch von Rudolf Elmer vom Vorwurf der mehrfachen Verletzung des Bankgeheimnisses bestätigt habe."
 events.csv,e-52a5ab44b8,,usa-hhsoig-state-fca-reviews-2026,government,found,text,"State Laws Reviewed by OIG, Approved",New York (1/25/19)
 events.csv,e-d256de3fc1,,usa-hhsoig-state-fca-reviews-2026,government,found,text,"State Laws Reviewed by OIG, Approved",California (1/25/19)
+events.csv,e-38b3850b74,ok,aus-treasury-govt-response-pjc-whistleblower-2019,government,found,text,"PDF p. 3 (printed 2) and response to Recommendation 12.11, PDF p. 22",The Whistleblower Act passed by Parliament on 19 February 2019 extends the corporate whistleblower protections in the Corporations Act 2001 (Corporations Act) and introduces a new protection regime for tax whistleblowers
 events.csv,e-862d2caaf4,,can-osc-nr-award-2019-02-27,government,found,text,"news release, para 1",These whistleblower awards are the first ever by a Canadian securities regulator.
 events.csv,e-7f391942fb,,ltu-kt-news-law-amendments-2019,government,found,text,news text,"Konkurencijos taryba would pay whistleblowers a single payment (from EUR 1,000 to EUR 100,000) constituting 1 percent of the fines imposed on the infringers"
 events.csv,e-c1c14477d1,ok,aus-treasury-govt-response-pjc-whistleblower-2019,government,found,text,"PDF p. 15, response to Recommendation 11.1",This will provide the opportunity to assess the merit and cost case of a rewards scheme when the present reforms have had a reasonable time to operate and further information is available.
@@ -6334,6 +6564,7 @@ events.csv,e-6449f67153,,usa-doj-boeing-dpa-pr-2021,government,found,text,headli
 events.csv,e-b758fa4230,,kor-acrc-pr-2021-01-28,government,found,text,p. 1,지난 한 해 동안 지급한 부패‧공익 신고 보상금 등 55억여 원은 역대 최대 규모다
 events.csv,e-2c22a7fe80,,svk-zz-2021-187-competition-act,legislation,found,text,Čl. IV (final article),Tento zákon nadobúda účinnosť 1. júna 2021.
 events.csv,e-aec3ab5086,,usa-cftc-wb-ar-2021,government,found,text,"p. 13, footnote 28","On July 6, 2021, Pub. L. 117-25 set aside $10 million from the Fund in a separate account to fund non-whistleblower costs when the unobligated balance of the Fund is insufficient."
+events.csv,e-294246fd11,ok,svk-uoo-vs-2021,government,found,text,PDF p. 9,Úrad na ochranu oznamovateľov začal oficiálne fungovať a ponúkať svoje služby 2. septembra 2021.
 events.csv,e-ab4e7ef33e,,usa-sec-owb-ar-2021,government,found,text,"p. 1, footnote 1","Press Release, SEC Surpasses $1 Billion in Awards to Whistleblowers with Two Awards Totaling $114 Million, No. 2021-117 (Sept. 15, 2021)."
 events.csv,e-e88da859d3,,usa-cftc-wb-pr-8453-21,government,found,text,subheading,Largest Award to a Single Whistleblower
 events.csv,e-7e83fc37f2,,usa-cftc-wb-ar-2022,government,found,text,p. 4,an unprecedented award of nearly $200 million to a single whistleblower
@@ -6348,6 +6579,7 @@ events.csv,e-ee2a78cfa0,,usa-doj-danske-plea-pr-2022,government,found,text,subhe
 events.csv,e-145e03a43f,,usa-sec-oig-575-2022,government,found,text,"Executive summary, p. i","The report contains eight recommendations that should help further increase efficiencies, better prepare for future whistleblower program growth"
 events.csv,e-6bd2a023cf,ok,usa-fincen-wb-nprm-2026,government,found,text,"PDF p. 2 (91 FR 16329), section II.A",The AML Whistleblower Improvement Act mandated that eligible whistleblowers receive a minimum of 10 percent of monetary sanctions collected in covered actions or related actions
 events.csv,e-224098d254,ok,usa-congress-pl117-328-2022,legislation,loose,text,"PDF p. 1078 (136 Stat. 5536), sec. 401(a)","(A) not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and (B) not more than 30 percent"
+events.csv,e-2ee95e563b,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 15 (printed p. 14), section 2.1","Bez predchádzajúceho súhlasu ÚOO dočasne postavilo mimo výkonu štátnej služby 11 policajtov, ktorí mali status chráneného oznamovateľa."
 events.csv,e-1cc7d6171a,,intl-echr-halet-gc-2023,court,found,text,operative provisions,"Holds, by twelve votes to five, that there has been a violation of Article 10"
 events.csv,e-10982fb51a,ok,usa-nhtsa-wb-nprm-2023,government,found,text,"PDF p. 1 (88 FR 23276), DATES","All comments should be submitted early enough to ensure that the Department of Transportation Docket Management receives them not later than June 13, 2023."
 events.csv,e-4c03725661,,usa-sec-wb-pr-2023-89,government,found,text,para 1,more than doubling the $114 million whistleblower award the SEC issued in October 2020
@@ -6355,15 +6587,19 @@ events.csv,e-c57506dbc3,,usa-sec-owb-ar-2023,government,found,text,p. 1,These to
 events.csv,e-19e1673ea0,,gbr-cma-news-cartel-reward-2023,government,found,text,"news text, para 1","offering a reward of up to £250,000, increased from £100,000, to people who tell the CMA about unlawful cartel activity they have witnessed"
 events.csv,e-fd16618b0e,ok,usa-tigta-wbo-audit-2023,government,found,text,"PDF p. 2, Highlights",TIGTA found that the Whistleblower Office does not capture all of the data that could be used to determine whether the whistleblower claims with the most potential to be productive are being referred for enforcement.
 events.csv,e-bdd6828c42,,usa-scotus-polansky-2023,court,found,text,"Syllabus, p. 2 (Held); Kavanaugh concurrence, p. 1",The Government may move to dismiss an FCA action under §3730(c)(2)(A) whenever it has intervened—whether during the seal period or later on.
+events.csv,e-1b34844683,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 71 (printed p. 70), chapter 10","Novela nadobudla účinnosť 1. júla 2023, no niektoré jej ustanovenia, ktoré sa týkajú interných systémov oznamovania a sankcií až 1. septembra 2023."
 events.csv,e-78868b311b,,usa-sec-owb-ar-2023,government,found,text,p. 7,"an action that resulted in a $10 million civil penalty, the largest ever for a stand-alone Rule 21F-17 action"
+events.csv,e-9331800c22,ok,svk-uoo-vs-2023,government,found,text,"PDF p. 71 (printed p. 70), chapter 10","6. decembra 2023 vláda odsúhlasila návrh novely, ktorej nepredchádzala žiadna odborná a vecná diskusia."
 events.csv,e-08cd18d0e7,ok,kor-acrc-ar-2025,government,found,text,PDF p. 89,"whereas for reports filed on or after December 19, 2023, it shall be within the range of 4% to 30%"
 events.csv,e-6e44305b8c,,usa-ca11-zafirov-2026,court,found,text,p. 4,"751 F. Supp. 3d 1293, 1304 (M.D. Fla. 2024)"
 events.csv,e-13afa7c7b2,,usa-treasury-karrp-page-2026,government,found,text,page text,"The Kleptocracy Assets Recovery Rewards program lapsed on January 1, 2024."
 events.csv,e-dae9661472,,kor-acrc-pr-2024-01-15,government,found,text,p. 1,공익신고자에 대한 보상금 지급 한도(30억 원)를 없애고
 events.csv,e-9c8f2504eb,,usa-sec-owb-ar-2024,government,found,text,p. 1 and p. 10,"include one that resulted in an $18 million penalty, the highest penalty to date for an action of this kind"
+events.csv,e-2d3d70dcd0,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 44 (printed p. 43), chapter 6",Novela bola z rokovania parlamentu stiahnutá koncom februára 2024.
 events.csv,e-ec53f82c91,,gbr-sfo-speech-rusi-2024,government,found,text,speech text,I think we should pay whistleblowers.
 events.csv,e-93e5a998e8,,usa-cftc-wb-ar-2024,government,found,text,p. 5,This award was significant because it marked the first time the CFTC awarded a compliance officer.
 events.csv,e-10758be7cc,,usa-senate-psi-boeing-opening-2024,government,found,text,p. 1,"Our purpose today is to hear from whistleblowers who have personal, eyewitness, factual stories to tell about Boeing"
+events.csv,e-2f375d0f8e,ok,svk-uoo-vs-2024,government,found,text,"PDF p. 17 (printed p. 16), section 2.2","Jeho výsledkom bola doteraz najvyššia úradom udelená pokuta, 90-tisíc eur, o ktorej v júni rozhodol prvostupňový orgán úradu."
 events.csv,e-3a71b07bd1,,usa-doj-cwap-guidance-2026,government,found,text,p. 1-2,"has been effective since August 1, 2024"
 events.csv,e-4047da78ae,ok,usa-doj-cwap-factsheet-2024,government,found,text,PDF p. 1,"Starting August 1, 2024, whistleblowers can submit original information to DOJ’s Criminal Division about certain types of corporate crime"
 events.csv,e-35331e4dcf,ok,kor-acrc-ar-2025,government,found,text,PDF p. 89,"no maximum limit applies to reports filed on or after August 7, 2024."
@@ -6384,12 +6620,16 @@ events.csv,e-d20c7befa9,ok,usa-house-rpt-119-370-2025,legislation,found,text,PDF
 events.csv,e-fbc27c92ae,,gbr-hmrc-srs-guidance-2025,government,found,text,guidance text,The Strengthened Reward Scheme is for individuals who report serious tax avoidance or evasion.
 events.csv,e-6a4ec92c34,,gbr-parliament-wq-93208-2025,government,found,text,answer text,To protect the confidentiality of informants we do not publish the number of rewards or size of individual rewards.
 events.csv,e-eabf37eeb0,ok,gbr-ho-anti-corruption-strategy-2025,government,found,text,"PDF p. 22 (printed p. 21), para 39.III",assess the feasibility of introducing financial incentive schemes and support for individuals reporting economic crime
+events.csv,e-c800bf2a60,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 69, chapter 8",Zákon bol v skrátenom legislatívnom konaní schválený 9. decembra 2025. Nové pravidlá mali začať platiť od 1. januára 2026.
 events.csv,e-c17bccea7d,,kor-acrc-pr-2025-12-10,government,found,text,p. 1,역대 최고 보상금 18억 2천만 원을 지급했다고
+events.csv,e-a5e065b2ab,ok,svk-uoo-vs-2025,government,found,text,"PDF p. 70, chapter 8",Dňa 17. decembra 2025 Ústavný súd SR pozastavil účinnosť schváleného zákona.
 events.csv,e-d27b8a6b02,,aus-treasury-review-whistleblowing-2026,government,found,text,"review page, 'Process'",Help us identify issues by responding to this consultation by 29 July 2026 .
 events.csv,e-246dc3fd0f,,usa-fincen-wb-page-2026,government,found,text,Awards section,"Once that regulation is finalized, FinCEN will begin processing and paying awards."
 events.csv,e-360dce5717,,usa-doj-fca-pr-fy2025,government,found,text,press release text,That amount is the highest in a single year in the history of the False Claims Act.
 events.csv,e-6b0c4b359a,,usa-doj-atr-pr-first-wb-award-2026,government,found,text,"press release, para 1",The Antitrust Division today announced its first-ever whistleblower reward
+events.csv,e-f9ea41c018,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 70, chapter 8",Dňa 30. januára 2026 Európska komisia informovala o začatí konania pre porušenie práva EÚ (tzv. infringement)
 events.csv,e-c6d90090c1,,usa-fincen-wb-updates-2026,government,found,text,Bulletins list,FinCEN Whistleblower Bulletin: Blow the Whistle on Fraud-Related AML and Sanctions Violations
+events.csv,e-42f523f608,unknown,svk-uoo-vs-2025,government,found,text,"PDF p. 70, chapter 8","Premiér Robert Fico 4. marca 2026 po rokovaní vlády oznámil, že koalícia sa dohodla na zrušení nového zákona."
 events.csv,e-b7b1a83f43,,usa-fincen-pr-nprm-2026,government,found,text,"press release, para 1","Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) submitted to the Federal Register a Notice of Proposed Rulemaking (NPRM)"
 events.csv,e-4ef32e95ec,ok,usa-fincen-wb-nprm-2026,government,found,text,"PDF p. 1 (91 FR 16328), DATES","Written comments on this proposed rule must be submitted on or before June 1, 2026."
 events.csv,e-49c786430f,,gbr-sfo-speech-conference-2026,government,found,text,"speech text, 'Whistleblower Incentivisation'",I am a strong advocate for generating human intelligence and I support a whistleblower incentivisation scheme for the SFO.

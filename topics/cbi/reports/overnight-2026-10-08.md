@@ -375,6 +375,6 @@ says what was done to it.
   per investor (HK$7.17m, 2004), new-scheme counts to May 2024, minimum amounts.
 - Partial: a sample count ("10 of 100 renewal cases changed property") and "around three weeks" have
   no fitting measure without converting.
-- Hong Kong now: all stored Hong Kong documents in the queue reviewed (batches hkg, hkg1-3).
+- Hong Kong now: all 69 stored Hong Kong documents reviewed (66 complete, 3 partial; checked in the ledger).
 - **Worth a look:** an existing row (o-17157f5c8a) records 0 rejections from the words "no application
   has been rejected so far". Same question as the St Lucia zeros.
