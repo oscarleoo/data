@@ -648,3 +648,16 @@ says what was done to it.
 - Partial: pie charts in four 2024 quarterly releases (small slices need reading by eye); one release's
   attachment exists only as an unstored .hwp file.
 - The only merge warning was the 7 known CFTC duplicates; no Korean cases collided.
+
+### New Zealand, batch 2 (pass `extract-cbi-nzl2`)
+- 18 documents reviewed: 17 complete, 1 partial.
+- Added 1,208 numbers, 35 rules, 6 events: Immigration New Zealand residence decision reports (2024 and
+  2026 editions; Investor 1, Investor 2, Active Investor Plus by financial year and month, approved/declined,
+  applications and people, nationality tables); MBIE briefings (approvals and minimum investment by year
+  2009-2024, adding to 2,750 and $10.795bn; NZTE assessments of acceptable investments); Cabinet papers
+  2022-2026 (first-year figures for the 2025 settings: 637 applications, $1.49bn invested); fee tables;
+  operational manual rules.
+- The 2024 and 2026 editions differ for some years (e.g. Investor 2 approvals 2016/17: 401 vs 400); both kept.
+- Partial: briefing charts with no printed values; a withheld draft Cabinet paper.
+- **Decisions needed:** bare "$" in Cabinet papers recorded as unspecified (an earlier pass used NZD);
+  nationality tables cover all investor programmes together (no programme id); zero cells not stored.

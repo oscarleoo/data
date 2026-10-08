@@ -3358,6 +3358,96 @@ NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3.4,million,3400000.0,provisional
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3.7,million,3700000.0,claim,nru-parl-approp-speech-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-8f97846c40
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3740599,1,3740599.0,provisional,nru-mof-bp1-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-94c480e1f9
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,9000000,1,9000000.0,budget,nru-mof-bp1-2025,"Government of Nauru, Department of Finance and Sustainable Development",2025-08-29,62.2,same_source,o-34737f98e1
+NZL,,rbi_investment_total,2009-2024,unspecified,10,billion,10000000000.0,estimate,nzl-mbie-cab-investor-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-92684bf2b7
+NZL,,rbi_investment_total,2009-2024,unspecified,10795000000,1,10795000000.0,estimate,nzl-mbie-aip-briefings-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-78754d2d0f
+NZL,nzl-aip,applications_approved [route=pre_2025_settings],FY2023/24,applications,14,1,14.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,44.0,revision,o-e41f275ffa
+NZL,nzl-aip,applications_approved [route=pre_2025_settings],FY2023/24,applications,25,1,25.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,44.0,revision,o-5feafff40c
+NZL,nzl-aip,applications_processed [route=pre_2025_settings],FY2023/24,applications,19,1,19.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,40.6,revision,o-961221c475
+NZL,nzl-aip,applications_processed [route=pre_2025_settings],FY2023/24,applications,32,1,32.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,40.6,revision,o-bbd04a06d7
+NZL,nzl-aip,applications_processed [route=pre_2025_settings],FY2023/24,persons,68,1,68.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,36.4,revision,o-f7c3de0270
+NZL,nzl-aip,applications_processed [route=pre_2025_settings],FY2023/24,persons,107,1,107.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,36.4,revision,o-d37ea0e643
+NZL,nzl-aip,applications_received,2025-04-01/2026-03-31,applications,635,1,635.0,actual,nzl-inz-aip-stats-20260410,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-04-10,0.3,conflict,o-2e16e4d2e5
+NZL,nzl-aip,applications_received,2025-04-01/2026-03-31,applications,637,1,637.0,reported,nzl-mbie-cab-aip-2026,"Ministry of Business, Innovation and Employment (proactive release)",2026-06-23,0.3,conflict,o-f2cd660b3d
+NZL,nzl-aip,applications_received [route=growth],2025-04-01/2026-03-31,applications,524,1,524.0,actual,nzl-inz-aip-stats-20260410,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-04-10,0.4,conflict,o-2bfa38eb61
+NZL,nzl-aip,applications_received [route=growth],2025-04-01/2026-03-31,applications,526,1,526.0,reported,nzl-mbie-cab-aip-2026,"Ministry of Business, Innovation and Employment (proactive release)",2026-06-23,0.4,conflict,o-15d237f2b6
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20250514,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-05-14,0.9,conflict,o-6f28af106c
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20250616,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-06-16,0.9,conflict,o-90eaab4f5e
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20250717,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-07-17,0.9,conflict,o-7ad562d751
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20250910,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-09-10,0.9,conflict,o-5d0a3809a0
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20251113,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-11-13,0.9,conflict,o-3c54eaa4b2
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20251216,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-12-16,0.9,conflict,o-ddb9a8d255
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-2026,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2025-12-16,0.9,conflict,o-efc3da5933
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20260213,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-02-13,0.9,conflict,o-085a324ac5
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20260410,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-04-10,0.9,conflict,o-81f43ebbf6
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20260526,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-05-26,0.9,conflict,o-4029cbfc15
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,115,1,115.0,actual,nzl-inz-aip-stats-20260828,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-08-28,0.9,conflict,o-adabf19396
+NZL,nzl-aip,applications_received [route=pre_2025_settings],2022-09/2025-03-31,applications,116,1,116.0,reported,nzl-mbie-cab-aip-2026,"Ministry of Business, Innovation and Employment (proactive release)",2026-06-23,0.9,conflict,o-64067f43c3
+NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,applications,5,1,5.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.6,revision,o-d6ae9b1922
+NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,applications,7,1,7.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.6,revision,o-377fb78337
+NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,persons,19,1,19.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,17.4,revision,o-db8894c49f
+NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,persons,23,1,23.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,17.4,revision,o-dadebcf775
+NZL,nzl-aip,residence_permits_issued [route=pre_2025_settings],FY2023/24,persons,49,1,49.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,41.7,revision,o-fc9d6c2a83
+NZL,nzl-aip,residence_permits_issued [route=pre_2025_settings],FY2023/24,persons,84,1,84.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,41.7,revision,o-7e0440ae49
+NZL,nzl-investor-1,applications_approved,FY2023/24,applications,51,1,51.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.2,revision,o-8aa3652fc4
+NZL,nzl-investor-1,applications_approved,FY2023/24,applications,71,1,71.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.2,revision,o-3d0db2e8c2
+NZL,nzl-investor-1,applications_processed,FY2019/20,persons,154,1,154.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.3,revision,o-a934c6107d
+NZL,nzl-investor-1,applications_processed,FY2019/20,persons,156,1,156.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.3,revision,o-ee54cb7e92
+NZL,nzl-investor-1,applications_processed,FY2023/24,applications,65,1,65.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.6,revision,o-b41f14a2c0
+NZL,nzl-investor-1,applications_processed,FY2023/24,applications,91,1,91.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.6,revision,o-802476a781
+NZL,nzl-investor-1,applications_processed,FY2023/24,persons,216,1,216.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.0,revision,o-119adc25ad
+NZL,nzl-investor-1,applications_processed,FY2023/24,persons,300,1,300.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.0,revision,o-5ccb0e1510
+NZL,nzl-investor-1,applications_rejected,FY2023/24,applications,14,1,14.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,30.0,revision,o-500761bb55
+NZL,nzl-investor-1,applications_rejected,FY2023/24,applications,20,1,20.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,30.0,revision,o-38658e478c
+NZL,nzl-investor-1,applications_rejected,FY2023/24,persons,48,1,48.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.4,revision,o-d833baeec2
+NZL,nzl-investor-1,applications_rejected,FY2023/24,persons,67,1,67.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.4,revision,o-776078cfed
+NZL,nzl-investor-1,residence_permits_issued,FY2019/20,persons,134,1,134.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.5,revision,o-64cb577a83
+NZL,nzl-investor-1,residence_permits_issued,FY2019/20,persons,136,1,136.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.5,revision,o-424f657932
+NZL,nzl-investor-1,residence_permits_issued,FY2023/24,persons,168,1,168.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,27.9,revision,o-7e3c65df60
+NZL,nzl-investor-1,residence_permits_issued,FY2023/24,persons,233,1,233.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,27.9,revision,o-34a7087cbe
+NZL,nzl-investor-2,applications_approved,FY2016/17,applications,400,1,400.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.2,revision,o-02ee70e8d9
+NZL,nzl-investor-2,applications_approved,FY2016/17,applications,401,1,401.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.2,revision,o-acd9401239
+NZL,nzl-investor-2,applications_approved,FY2019/20,applications,105,1,105.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.9,revision,o-70108fc28b
+NZL,nzl-investor-2,applications_approved,FY2019/20,applications,107,1,107.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.9,revision,o-fd832bf3d7
+NZL,nzl-investor-2,applications_approved,FY2020/21,applications,35,1,35.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,2.8,revision,o-8148a4487e
+NZL,nzl-investor-2,applications_approved,FY2020/21,applications,36,1,36.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,2.8,revision,o-9c2eb146d0
+NZL,nzl-investor-2,applications_approved,FY2023/24,applications,73,1,73.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,37.1,revision,o-2b3e6007e2
+NZL,nzl-investor-2,applications_approved,FY2023/24,applications,116,1,116.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,37.1,revision,o-692ef2e585
+NZL,nzl-investor-2,applications_processed,FY2016/17,applications,545,1,545.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.2,revision,o-d42ff315b5
+NZL,nzl-investor-2,applications_processed,FY2016/17,applications,546,1,546.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.2,revision,o-e09f754e7a
+NZL,nzl-investor-2,applications_processed,FY2016/17,persons,1746,1,1746.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.1,revision,o-623a8df925
+NZL,nzl-investor-2,applications_processed,FY2016/17,persons,1748,1,1748.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.1,revision,o-6008355339
+NZL,nzl-investor-2,applications_processed,FY2017/18,persons,1184,1,1184.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.1,revision,o-5867f49cc3
+NZL,nzl-investor-2,applications_processed,FY2017/18,persons,1185,1,1185.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.1,revision,o-37f9af6705
+NZL,nzl-investor-2,applications_processed,FY2018/19,persons,838,1,838.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.1,revision,o-076373eb28
+NZL,nzl-investor-2,applications_processed,FY2018/19,persons,839,1,839.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.1,revision,o-05230b288a
+NZL,nzl-investor-2,applications_processed,FY2019/20,applications,182,1,182.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.1,revision,o-e246d9d774
+NZL,nzl-investor-2,applications_processed,FY2019/20,applications,184,1,184.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.1,revision,o-28193825aa
+NZL,nzl-investor-2,applications_processed,FY2019/20,persons,597,1,597.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.2,revision,o-84559e5f9c
+NZL,nzl-investor-2,applications_processed,FY2019/20,persons,604,1,604.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.2,revision,o-b36d5010ba
+NZL,nzl-investor-2,applications_processed,FY2020/21,applications,79,1,79.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.2,revision,o-4996bcfebf
+NZL,nzl-investor-2,applications_processed,FY2020/21,applications,80,1,80.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.2,revision,o-3c231bdc6a
+NZL,nzl-investor-2,applications_processed,FY2020/21,persons,259,1,259.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.9,revision,o-6a48344ea6
+NZL,nzl-investor-2,applications_processed,FY2020/21,persons,264,1,264.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.9,revision,o-f2ec91fa29
+NZL,nzl-investor-2,applications_processed,FY2023/24,applications,124,1,124.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,33.3,revision,o-ce97593a02
+NZL,nzl-investor-2,applications_processed,FY2023/24,applications,186,1,186.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,33.3,revision,o-afe2527428
+NZL,nzl-investor-2,applications_processed,FY2023/24,persons,397,1,397.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,33.9,revision,o-d305a5fef4
+NZL,nzl-investor-2,applications_processed,FY2023/24,persons,601,1,601.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,33.9,revision,o-a475ec194c
+NZL,nzl-investor-2,applications_rejected,FY2023/24,applications,51,1,51.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,27.1,revision,o-c99025c910
+NZL,nzl-investor-2,applications_rejected,FY2023/24,applications,70,1,70.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,27.1,revision,o-eb8634a9ab
+NZL,nzl-investor-2,applications_rejected,FY2023/24,persons,169,1,169.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,22.5,revision,o-1b5338f9f9
+NZL,nzl-investor-2,applications_rejected,FY2023/24,persons,218,1,218.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,22.5,revision,o-7a570eb3ff
+NZL,nzl-investor-2,residence_permits_issued,FY2016/17,persons,1271,1,1271.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.2,revision,o-7193243a9f
+NZL,nzl-investor-2,residence_permits_issued,FY2016/17,persons,1273,1,1273.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.2,revision,o-02afd8eba1
+NZL,nzl-investor-2,residence_permits_issued,FY2017/18,persons,860,1,860.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.1,revision,o-ade962517a
+NZL,nzl-investor-2,residence_permits_issued,FY2017/18,persons,861,1,861.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.1,revision,o-20a4e22a46
+NZL,nzl-investor-2,residence_permits_issued,FY2018/19,persons,551,1,551.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,0.2,revision,o-2d48a839fc
+NZL,nzl-investor-2,residence_permits_issued,FY2018/19,persons,552,1,552.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,0.2,revision,o-0877be1e8a
+NZL,nzl-investor-2,residence_permits_issued,FY2019/20,persons,357,1,357.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,1.9,revision,o-ce3d612478
+NZL,nzl-investor-2,residence_permits_issued,FY2019/20,persons,364,1,364.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,1.9,revision,o-d17924c209
+NZL,nzl-investor-2,residence_permits_issued,FY2020/21,persons,119,1,119.0,actual,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,4.0,revision,o-aea45536ab
+NZL,nzl-investor-2,residence_permits_issued,FY2020/21,persons,124,1,124.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,4.0,revision,o-fc1c837924
+NZL,nzl-investor-2,residence_permits_issued,FY2023/24,persons,228,1,228.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,40.5,revision,o-b49913c5f4
+NZL,nzl-investor-2,residence_permits_issued,FY2023/24,persons,383,1,383.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,40.5,revision,o-275d95edb1
 PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,207,1,207.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,4.2,revision,o-f7ddbf54b9
 PAN,pan-qualified-investor,investment_certificates_issued,2020-10/2023-07,investors,216,1,216.0,provisional,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,4.2,revision,o-2faf3e126d
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,120,1,120.0,provisional,pan-mici-press-2025-01-23,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-01-23,9.1,revision,o-88da900d16
