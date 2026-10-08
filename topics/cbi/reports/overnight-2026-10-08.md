@@ -938,4 +938,4 @@ says what was done to it.
   agent fees, bank charges), age limits, penalties, deadlines; budget figures (FY2025/26 budget 9,000,000;
   55% of non-tax revenue); IMF comparison table of 7 programmes; 89 visa-free destinations.
 - Partial: an IMF chart with no printed values.
-- Nauru now: all stored Nauru documents reviewed (see ledger count).
+- Nauru now: all 22 stored Nauru documents reviewed (21 complete, 1 partial; checked in the ledger).
