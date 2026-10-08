@@ -3037,6 +3037,7 @@ VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,8115.0,million,8115000000.0,provisional,
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,8399.1,million,8399100000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,16.6,conflict,o-f9ad975f55
 VUT,vut-cbi,cbi_fiscal_revenue,2023,VUV,9112.9,million,9112900000.0,budget,vut-mfem-monthly-2023-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2023-12,16.6,conflict,o-66f76ba21d
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,3936,million,3936000000.0,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,0.6,conflict,o-9e9725a3d3
+VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,6053,million,6053000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,0.6,conflict,o-844734f001
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9339,million,9339000000.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,0.6,conflict,o-f61d3f8fc1
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9390.7,million,9390700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,0.6,conflict,o-dd7f69f9e9
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,9399.2,million,9399200000.0,provisional,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,0.6,conflict,o-a5eb07e841
@@ -3044,15 +3045,17 @@ VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,10983.8,million,10983800000.0,budget,vut
 VUT,vut-cbi,cbi_fiscal_revenue,2024,VUV,11303.8,million,11303800000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,0.6,conflict,o-9974662309
 VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,2057855613,1,2057855613.0,provisional,vut-mfem-ca-revenue-2024h1,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2024,39.1,conflict,o-2368d2d66f
 VUT,vut-cbi,cbi_fiscal_revenue,2024-H1,VUV,3381.7,million,3381700000.0,provisional,vut-mfem-hyefr-2024,Ministry of Finance and Economic Management,2024,39.1,conflict,o-8a33e57d20
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7471,million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,49.3,vintage,o-7f6d7b69a5
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,49.3,vintage,o-a280ba5905
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,49.3,vintage,o-dc3b2d7333
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7729.7,million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,49.3,vintage,o-4166c17480
-VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,14732.7,million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,49.3,vintage,o-9cef5dabb0
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,6202,million,6202000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,57.9,vintage,o-5246a71121
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7471,million,7471000000.0,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,57.9,vintage,o-7f6d7b69a5
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,57.9,vintage,o-a280ba5905
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7629.5,million,7629500000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,57.9,vintage,o-dc3b2d7333
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,7729.7,million,7729700000.0,budget,vut-mfem-hyefr-2025,Ministry of Finance and Economic Management,2025,57.9,vintage,o-4166c17480
+VUT,vut-cbi,cbi_fiscal_revenue,2025,VUV,14732.7,million,14732700000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,57.9,vintage,o-9cef5dabb0
 VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,618.3,million,618300000.0,budget,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-a5dc3c7174
 VUT,vut-cbi,cbi_fiscal_revenue,2025-12,VUV,887.3,million,887300000.0,provisional,vut-mfem-monthly-2025-12,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2025-12,30.3,vintage,o-7042a8a964
-VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,20.2,vintage,o-2fc5e4eb33
-VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,20.2,vintage,o-0bf3c3c5fd
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,6263,million,6263000000.0,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,59.6,vintage,o-1b748f80e1
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,12374.7,million,12374700000.0,budget,vut-mfem-budget-2026-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2025,59.6,vintage,o-2fc5e4eb33
+VUT,vut-cbi,cbi_fiscal_revenue,2026,VUV,15503.7,million,15503700000.0,budget,vut-mfem-hyefr-2026,Ministry of Finance and Economic Management,2026,59.6,vintage,o-0bf3c3c5fd
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,12.3,1,12.3,reported,intl-ec-com-2024-366,European Commission,2024-05-31,10.2,conflict,o-074cefd964
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2023,International Monetary Fund,2023-03,10.2,conflict,o-e8fd7fa183
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,13.7,1,13.7,estimate,vut-imf-art4-2024,International Monetary Fund,2024-09,10.2,conflict,o-1fb4393d48
@@ -3069,7 +3072,10 @@ VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.4,1,5.4,estimate,vu
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.5,1,5.5,reported,intl-ec-com-2024-366,European Commission,2024-05-31,3.6,conflict,o-41d7572a8b
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,5.8,1,5.8,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,3.6,conflict,o-9721600d22
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,2.9,1,2.9,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,58.6,vintage,o-c384f4ecb4
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,4.6,1,4.6,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,58.6,vintage,o-56450a02e1
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7.0,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-2b16549235
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,7,1,7.0,estimate,vut-imf-art4-2025,International Monetary Fund,2025-09,58.6,vintage,o-fb28a2a537
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.4,1,4.4,projection,vut-imf-art4-2023,International Monetary Fund,2023-03,18.5,vintage,o-77fc3beccc
+VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.4,1,5.4,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,18.5,vintage,o-4b1330b641
 VUT,vut-cbi,passports_issued,2015-2021,passports,10000,1,10000.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-228ff37f79
 VUT,vut-cbi,passports_issued,2015-2021,passports,10524,1,10524.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,5.0,same_source,o-b9d970841f

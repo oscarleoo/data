@@ -408,3 +408,17 @@ says what was done to it.
     because the amounts match the IMF's "Bondholder CBI-related payments"; the books never spell out ERI.
     That is an inference.
   - Partial: a press release says collections beat target by $7.7m without printing either figure.
+
+### Vanuatu, batch 1 (pass `extract-cbi-vut1`)
+- 20 documents reviewed (citizenship laws 2013-2021, regulation orders, the 2020 fee directive,
+  Citizenship Office pages, IMF 2015, 2016, 2023): 16 complete, 3 partial, 1 not applicable.
+- Added 23 numbers, 82 rules, 4 events: all 16 prices in the 2020 fee directive (VDSP and VCP),
+  agent minimum prices and fees in Order 33 of 2019, statutory 3-month decision deadlines, the 2013
+  investor-route rules; IMF projections of programme revenue 2024-2028, "down 27 percent" in 2022;
+  the IMF 2015 table of 24 programmes worldwide (minimum investments, residence requirements).
+- Partial: IMF charts with no printed values; the CIIP agents page (whether to record its "suspension
+  lifted as of 21 March 2016").
+- **Decisions needed:** statutory deadlines recorded as `processing_time_months` with status budget
+  (the European Commission row uses "reported"); three programmes in the IMF 2015 table matched by
+  amount (Switzerland, New Zealand, Australia) and one with no programme (France EUR 10m); the IMF says
+  the EU delayed full suspension to August 2024, EU documents say it was decided in November 2022.
