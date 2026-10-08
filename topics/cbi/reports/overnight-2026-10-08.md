@@ -120,3 +120,11 @@ says what was done to it.
 - Fixed: two August 2023 rows quoted "SUBALÍNEA 1", which the page doesn't print. The page prints
   "SUBALÍNEA 3" with "SUBPARAGRAPH 1" (a misprint). Quote corrected via corrections.csv after
   checking the page image.
+
+### Second reading of the St Kitts, Vanuatu, Hong Kong, Portugal 2, Grenada, St Lucia, Dominica numbers (batches f1-f3)
+- 251 new numbers read blind (up to 12 per document, all of them where fewer): 244 agreed at once.
+- 5 rows are budget targets; the second reader, not told the status, gave the actual printed next to
+  the target. Both are in the document; ruled accordingly.
+- 2 St Lucia 2015-16 rows are zeros taken from words ("there were no investment inflows", "no outflows").
+  No figure is printed. Kept as first reading, but **worth a look**: is a zero from words acceptable?
+- 0 open differences in the CBI dataset after this round.
