@@ -276,3 +276,17 @@ says what was done to it.
   whether rules quoted from a secondary review should stay; three period choices the pass had to make.
 - Not recorded (no matching programme yet): FCA and SFO whistleblowing case counts, police payments
   to informants (£1.04m in 2022/23), Korea's tax-informant schemes. Listed as gaps.
+
+### Grenada, batch 1 (pass `extract-cbi-grd1`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 1,373 numbers, 12 rules, 9 events. Finance Ministry statistics sheets 2014-15, 2016,
+  2017 Q3 and Investment Migration Agency sheets 2024 Q4, 2025 Q4, 2026 Q1: every cell, by month or
+  quarter and by route, plus yearly shares of applications by country (the sheets don't say whether
+  by nationality or residence; recorded as `country=`). IMF reports 2016-2025: programme revenue,
+  inflows, bond payments for every year printed. 2024 IMA circular (9 fees).
+- Did not add up: the 2014-15 sheet's total column prints 128 applications while the months add to
+  131, and EC$70.2m due while the running total reaches EC$71.685m. Both recorded, not resolved.
+- Partial: an EU document identical to another stored one; two statements to record once under the other id.
+- **Decisions needed:** three new indicators; two percentage figures filed under money indicators
+  for lack of a fitting one; bare "$" in the 2025 budget recorded as "unspecified" while the 2024
+  row says EC$; one existing rule quotes a fees page that isn't in the stored file.

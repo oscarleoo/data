@@ -566,6 +566,8 @@ GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,actual,grd-ima-sta
 GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,63.4,conflict,o-6c06f88902
 GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,61.1,million,61100000.0,reported,grd-imf-art4-2025,International Monetary Fund,2026-01,3.1,conflict,o-cd3c911398
 GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,63065172.00,1,63065172.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,3.1,conflict,o-27121f9ffc
+GRD,grd-cbi,cbi_contingency_fund_balance,2025-12,XCD,61.1,million,61100000.0,actual,grd-mof-budget-2026,"Government of Grenada, Ministry of Finance",2025-12,5.1,revision,o-8d76c6d8f5
+GRD,grd-cbi,cbi_contingency_fund_balance,2025-12,XCD,64395831.00,1,64395831.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,5.1,revision,o-08f54e1e2f
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3100000,1,3100000.0,provisional,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-464a1aabee
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3.4,million,3400000.0,actual,grd-imf-art4-2019,International Monetary Fund,2019-07,8.8,conflict,o-9a9ac90506
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,8437500,1,8437500.0,budget,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-7f0ae37e70
@@ -575,46 +577,127 @@ GRD,grd-cbi,cbi_fiscal_revenue,2017,XCD,5185000,1,5185000.0,provisional,grd-mof-
 GRD,grd-cbi,cbi_fiscal_revenue,2018,XCD,3.3,million,3300000.0,estimate,grd-imf-art4-2019,International Monetary Fund,2019-07,39.4,vintage,o-15fd615569
 GRD,grd-cbi,cbi_fiscal_revenue,2018,XCD,5441881,1,5441881.0,budget,grd-mof-estimates-2018,"Ministry of Finance, Government of Grenada",2017-12,39.4,vintage,o-30da3c5765
 GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,3.1,million,3100000.0,budget,grd-imf-art4-2019,International Monetary Fund,2019-07,96.8,same_source,o-bfeb14b14b
+GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,3.4,million,3400000.0,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,96.8,same_source,o-77a4c4ef5b
 GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,8.0,million,8000000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.8,same_source,o-994939c35d
 GRD,grd-cbi,cbi_fiscal_revenue,2019,XCD,96.1,million,96100000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.8,same_source,o-7e3825b735
-GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,4126285,1,4126285.0,budget,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,95.9,same_source,o-a8ddf47306
-GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,12703992,1,12703992.0,provisional,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,95.9,same_source,o-f0ab73b23f
-GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,17.3,million,17300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,95.9,same_source,o-b925ba4be5
-GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,95.9,same_source,o-fe790bd36c
-GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,95.9,same_source,o-f5a5231596
-GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,13648845,1,13648845.0,budget,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,43.2,vintage,o-c43cdfd5d6
-GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,24042264,1,24042264.0,provisional,grd-mof-estimates-2022,"Ministry of Finance, Government of Grenada",2021-12,43.2,vintage,o-3f25476a3d
-GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,25712200,1,25712200.0,budget,grd-mof-estimates-2022,"Ministry of Finance, Government of Grenada",2021-12,67.4,vintage,o-8794f653ca
-GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,78822511,1,78822511.0,provisional,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,67.4,vintage,o-ba6af38b66
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,240461920,1,240461920.0,budget,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,47.5,same_source,o-327f7a123b
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,375269871,1,375269871.0,provisional,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,47.5,same_source,o-bb1ffff518
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,47.5,same_source,o-6de65b6a26
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,47.5,same_source,o-fd9e533b2e
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,47.5,same_source,o-a3d6fca9e2
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,47.5,same_source,o-ea4cfa188a
-GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,458.3,million,458300000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,47.5,same_source,o-fb4a2e6795
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,280697921,1,280697921.0,budget,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,49.5,same_source,o-dd04dcf42c
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,280.7,million,280700000.0,budget,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-ba5c937138
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,398.5,million,398500000.0,estimate,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,49.5,same_source,o-78543bd925
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,451.3,million,451300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,49.5,same_source,o-553c5e810e
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,472981142,1,472981142.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,49.5,same_source,o-c58ec9a346
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,473.0,million,473000000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-5d6357dfe7
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,49.5,same_source,o-4b20117357
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,49.5,same_source,o-63a62abd87
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553710178,1,553710178.0,provisional,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,49.5,same_source,o-d206eb6b87
-GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,555.8,million,555800000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,49.5,same_source,o-f8b1679fa3
-GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,140417136,1,140417136.0,budget,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,12.9,conflict,o-e66c2cc906
-GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,152999122,1,152999122.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,12.9,conflict,o-9b60acfb68
-GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,165906890,1,165906890.0,provisional,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,12.9,conflict,o-468e8e6659
-GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,175.6,million,175600000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,12.9,conflict,o-82e6916f53
-GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,143.8,million,143800000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,17.3,vintage,o-ecc27e56af
-GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,173973807,1,173973807.0,budget,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,17.3,vintage,o-07a91e889a
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,3.5,million,3500000.0,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,96.6,same_source,o-809f0c3e37
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,4126285,1,4126285.0,budget,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,96.6,same_source,o-a8ddf47306
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,12703992,1,12703992.0,provisional,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,96.6,same_source,o-f0ab73b23f
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,17.3,million,17300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.6,same_source,o-b925ba4be5
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.6,same_source,o-fe790bd36c
+GRD,grd-cbi,cbi_fiscal_revenue,2020,XCD,101.5,million,101500000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,96.6,same_source,o-f5a5231596
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,3.7,million,3700000.0,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,96.9,same_source,o-d2244c360b
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,13648845,1,13648845.0,budget,grd-mof-estimates-2021,"Ministry of Finance, Government of Grenada",2020-12,96.9,same_source,o-c43cdfd5d6
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,24042264,1,24042264.0,provisional,grd-mof-estimates-2022,"Ministry of Finance, Government of Grenada",2021-12,96.9,same_source,o-3f25476a3d
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,32.3,million,32299999.999999996,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.9,same_source,o-5d306222b5
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,120.3,million,120300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,96.9,same_source,o-dc223d79c7
+GRD,grd-cbi,cbi_fiscal_revenue,2021,XCD,120.3,million,120300000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,96.9,same_source,o-aab5f420ca
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,3.9,million,3900000.0,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,97.1,same_source,o-cea1c35702
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,25712200,1,25712200.0,budget,grd-mof-estimates-2022,"Ministry of Finance, Government of Grenada",2021-12,97.1,same_source,o-8794f653ca
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,73.1,million,73100000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,97.1,same_source,o-7fd5118de3
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,78822511,1,78822511.0,provisional,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,97.1,same_source,o-ba6af38b66
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,135.4,million,135400000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,97.1,same_source,o-349d931d44
+GRD,grd-cbi,cbi_fiscal_revenue,2022,XCD,135.4,million,135400000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,97.1,same_source,o-4aa147cbf0
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,4.1,million,4099999.9999999995,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,99.1,same_source,o-cf8e0bd7db
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,240461920,1,240461920.0,budget,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,99.1,same_source,o-327f7a123b
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,375269871,1,375269871.0,provisional,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,99.1,same_source,o-bb1ffff518
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,99.1,same_source,o-6de65b6a26
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,99.1,same_source,o-fd9e533b2e
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,382.2,million,382200000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,99.1,same_source,o-e8be96fc2d
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,99.1,same_source,o-a3d6fca9e2
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,457.3,million,457300000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,99.1,same_source,o-ea4cfa188a
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,458.3,million,458300000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,99.1,same_source,o-fb4a2e6795
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,4.3,million,4300000.0,projection,grd-imf-art4-2019,International Monetary Fund,2019-07,99.2,same_source,o-e44a1f3d30
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,280697921,1,280697921.0,budget,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,99.2,same_source,o-dd04dcf42c
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,280.7,million,280700000.0,budget,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,99.2,same_source,o-ba5c937138
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,398.5,million,398500000.0,estimate,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,99.2,same_source,o-78543bd925
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,451.3,million,451300000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,99.2,same_source,o-553c5e810e
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,472981142,1,472981142.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,99.2,same_source,o-c58ec9a346
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,473.0,million,473000000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,99.2,same_source,o-5d6357dfe7
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,99.2,same_source,o-4b20117357
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553.7,million,553700000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,99.2,same_source,o-63a62abd87
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,553710178,1,553710178.0,provisional,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,99.2,same_source,o-d206eb6b87
+GRD,grd-cbi,cbi_fiscal_revenue,2024,XCD,555.8,million,555800000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,99.2,same_source,o-f8b1679fa3
+GRD,grd-cbi,cbi_fiscal_revenue,2024-10,XCD,50500632,1,50500632.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,15.6,conflict,o-5080685c85
+GRD,grd-cbi,cbi_fiscal_revenue,2024-10,XCD,59813314.64,1,59813314.64,actual,grd-mof-imastats-2024q4,"Government of Grenada, Ministry of Finance",2025,15.6,conflict,o-3fa9a4af95
+GRD,grd-cbi,cbi_fiscal_revenue,2024-11,XCD,21688893,1,21688893.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,12.6,conflict,o-8ebe5d91af
+GRD,grd-cbi,cbi_fiscal_revenue,2024-11,XCD,24812599.55,1,24812599.55,actual,grd-mof-imastats-2024q4,"Government of Grenada, Ministry of Finance",2025,12.6,conflict,o-3c9bb5fb5b
+GRD,grd-cbi,cbi_fiscal_revenue,2024-12,XCD,10474175,1,10474175.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,44.9,conflict,o-a4b49b5bce
+GRD,grd-cbi,cbi_fiscal_revenue,2024-12,XCD,19006681.54,1,19006681.54,actual,grd-mof-imastats-2024q4,"Government of Grenada, Ministry of Finance",2025,44.9,conflict,o-a0ab1654e7
+GRD,grd-cbi,cbi_fiscal_revenue,2024-Q4,XCD,82663700,1,82663700.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,20.2,conflict,o-144511f2b8
+GRD,grd-cbi,cbi_fiscal_revenue,2024-Q4,XCD,103632595.74,1,103632595.74,actual,grd-mof-imastats-2024q4,"Government of Grenada, Ministry of Finance",2025,20.2,conflict,o-8d8446df32
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,140417136,1,140417136.0,budget,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,39.3,same_source,o-e66c2cc906
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,152999122,1,152999122.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,39.3,same_source,o-9b60acfb68
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,165.6,million,165600000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,39.3,same_source,o-01bf324ffd
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,165906890,1,165906890.0,provisional,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,39.3,same_source,o-468e8e6659
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,175.6,million,175600000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,39.3,same_source,o-82e6916f53
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,185.5,million,185500000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,39.3,same_source,o-c1f1388576
+GRD,grd-cbi,cbi_fiscal_revenue,2025,XCD,231.3,million,231300000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,39.3,same_source,o-1c920a1ff0
+GRD,grd-cbi,cbi_fiscal_revenue,2025-10,XCD,7186044,1,7186044.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,25.0,conflict,o-ed8f6d4203
+GRD,grd-cbi,cbi_fiscal_revenue,2025-10,XCD,9582895.36,1,9582895.36,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,25.0,conflict,o-6c3f0b9aa2
+GRD,grd-cbi,cbi_fiscal_revenue,2025-11,XCD,23580322,1,23580322.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,9.4,conflict,o-41ce59886d
+GRD,grd-cbi,cbi_fiscal_revenue,2025-11,XCD,26030774.62,1,26030774.62,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,9.4,conflict,o-975ddbd831
+GRD,grd-cbi,cbi_fiscal_revenue,2025-12,XCD,12374533,1,12374533.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,15.7,conflict,o-f1c93e9038
+GRD,grd-cbi,cbi_fiscal_revenue,2025-12,XCD,14682405.38,1,14682405.38,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,15.7,conflict,o-d795e12afa
+GRD,grd-cbi,cbi_fiscal_revenue,2025-Q4,XCD,43140899,1,43140899.0,actual,grd-ima-stats-2025q4,Investment Migration Agency Grenada,2026-02,14.2,conflict,o-76e4250455
+GRD,grd-cbi,cbi_fiscal_revenue,2025-Q4,XCD,50296075.36,1,50296075.36,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,14.2,conflict,o-998263665c
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,131.1,million,131100000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,24.6,same_source,o-a5cfe2e8dc
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,143.8,million,143800000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,24.6,same_source,o-ecc27e56af
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,147.9,million,147900000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,24.6,same_source,o-4de54a5da1
+GRD,grd-cbi,cbi_fiscal_revenue,2026,XCD,173973807,1,173973807.0,budget,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,24.6,same_source,o-07a91e889a
+GRD,grd-cbi,cbi_fiscal_revenue,2027,XCD,133.6,million,133600000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,10.9,same_source,o-122fa9d62e
+GRD,grd-cbi,cbi_fiscal_revenue,2027,XCD,148.1,million,148100000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,10.9,same_source,o-3464b40fd6
+GRD,grd-cbi,cbi_fiscal_revenue,2027,XCD,149.9,million,149900000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,10.9,same_source,o-524d53b1e0
+GRD,grd-cbi,cbi_fiscal_revenue,2027,XCD,149.9,million,149900000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,10.9,same_source,o-d8fcf904c1
+GRD,grd-cbi,cbi_fiscal_revenue,2028,XCD,133.6,million,133600000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.8,same_source,o-9f91da45a9
+GRD,grd-cbi,cbi_fiscal_revenue,2028,XCD,148.1,million,148100000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.8,same_source,o-910ea33c92
+GRD,grd-cbi,cbi_fiscal_revenue,2028,XCD,151.4,million,151400000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.8,same_source,o-68dc52f51c
+GRD,grd-cbi,cbi_fiscal_revenue,2028,XCD,151.4,million,151400000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.8,same_source,o-242cf3a1ed
+GRD,grd-cbi,cbi_fiscal_revenue,2029,XCD,133.6,million,133600000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.8,same_source,o-ae19b97593
+GRD,grd-cbi,cbi_fiscal_revenue,2029,XCD,148.1,million,148100000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.8,same_source,o-c18cb06baa
+GRD,grd-cbi,cbi_fiscal_revenue,2029,XCD,151.5,million,151500000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.8,same_source,o-0b28edc551
+GRD,grd-cbi,cbi_fiscal_revenue,2029,XCD,151.5,million,151500000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.8,same_source,o-06e32a53fe
 GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,0.5,1,0.5,reported,grd-imf-art4-2016,International Monetary Fund,2016-05,28.6,revision,o-8317016017
 GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,0.7,1,0.7,actual,grd-imf-art4-2016,International Monetary Fund,2016-05,28.6,revision,o-af27040fd7
-GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,0.6,1,0.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.3,revision,o-407b084d99
-GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,3.6,1,3.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,83.3,revision,o-38712a5786
-GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,12.0,1,12.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.4,revision,o-c87be382da
-GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,14.7,1,14.7,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.4,revision,o-84bce4e99e
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,0.2,1,0.2,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,93.1,same_source,o-93709cfcdd
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,2.9,1,2.9,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,93.1,same_source,o-55158f6255
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,0.6,1,0.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.3,same_source,o-407b084d99
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,3.6,1,3.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,83.3,same_source,o-6fb5e8dd23
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,3.6,1,3.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,83.3,same_source,o-38712a5786
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,1.1,1,1.1,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,72.5,same_source,o-84e8b93f07
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,4.0,1,4.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,72.5,same_source,o-ed1b9692ba
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,4.0,1,4.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,72.5,same_source,o-34072e2dc9
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,2.2,1,2.2,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,46.3,same_source,o-36d6fe5e70
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,4.1,1,4.1,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,46.3,same_source,o-ebc8494108
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,4.1,1,4.1,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,46.3,same_source,o-8631d988fb
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,10.5,1,10.5,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.0,same_source,o-a272a9c182
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,10.6,1,10.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.0,same_source,o-a9dd19047b
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,10.7,1,10.7,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.0,same_source,o-26e49aebaf
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,12.7,1,12.7,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.0,same_source,o-5c846e67cc
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,12.8,1,12.8,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.0,same_source,o-5db379c617
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,12.0,1,12.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.9,same_source,o-c87be382da
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,14.7,1,14.7,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,18.9,same_source,o-84bce4e99e
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,14.8,1,14.8,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,18.9,same_source,o-c1908b71c4
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.2,1,4.2,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,27.6,same_source,o-648ba82643
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.4,1,4.4,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,27.6,same_source,o-0362f8c477
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,4.7,1,4.7,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,27.6,same_source,o-22c4fda4df
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.8,1,5.8,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,27.6,same_source,o-c10746bf7c
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,3.1,1,3.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.4,same_source,o-9df52b511f
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,3.5,1,3.5,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.4,same_source,o-e10f694642
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,3.5,1,3.5,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.4,same_source,o-7eb6fe9b54
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,3.5,1,3.5,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.4,same_source,o-4b9ee9e3f9
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,3.1,1,3.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.4,same_source,o-750cb013ab
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,3.4,1,3.4,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,11.4,same_source,o-1be8ab1c17
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,3.5,1,3.5,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.4,same_source,o-166995e401
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,3.5,1,3.5,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,11.4,same_source,o-dfacf91d24
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,2.9,1,2.9,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,12.1,same_source,o-a68bfce37d
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,3.2,1,3.2,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,12.1,same_source,o-2a1a30fc73
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,3.3,1,3.3,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,12.1,same_source,o-922dc0286b
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,3.3,1,3.3,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,12.1,same_source,o-451fa44003
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,2.8,1,2.8,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,12.5,same_source,o-1c39e2980b
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,3.1,1,3.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,12.5,same_source,o-cc43db776b
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,3.2,1,3.2,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,12.5,same_source,o-7b8450a5f4
+GRD,grd-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,3.2,1,3.2,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,12.5,same_source,o-52451a5039
 GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-04,XCD,231120,1,231120.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,89.6,revision,o-cce554559a
 GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-04,XCD,2214000,1,2214000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,89.6,revision,o-e437dbfe23
 GRD,grd-cbi,cbi_fund_payments [category=ntf_contingency_fund_allocation],2023-05,XCD,104085,1,104085.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,93.6,revision,o-0a836c86e9
@@ -639,6 +722,8 @@ GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-06,XCD,7481255,1,7481255
 GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-06,XCD,30163865,1,30163865.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,75.2,revision,o-c2150aa4dd
 GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-Q2,XCD,22149126,1,22149126.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,72.5,revision,o-9870051833
 GRD,grd-cbi,cbi_fund_payments [category=ntf_usage],2023-Q2,XCD,80665403,1,80665403.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,72.5,revision,o-1ebaa88091
+GRD,grd-cbi,cbi_inflows,2014-03/2015-12,XCD,70200000,1,70200000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.1,same_source,o-123c566bfb
+GRD,grd-cbi,cbi_inflows,2014-03/2015-12,XCD,71685000,1,71685000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.1,same_source,o-0c8e42fa61
 GRD,grd-cbi,cbi_inflows,2023-01/2023-04,XCD,315900000,1,315900000.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,6.5,revision,o-331fcf7385
 GRD,grd-cbi,cbi_inflows,2023-01/2023-04,XCD,337999447,1,337999447.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,6.5,revision,o-4b3b7e6a6f
 GRD,grd-cbi,cbi_inflows,2023-01/2023-05,XCD,433350000,1,433350000.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,6.0,revision,o-784d8721ca
@@ -653,6 +738,10 @@ GRD,grd-cbi,cbi_inflows,2023-06,XCD,111808931,1,111808931.0,actual,grd-mof-cbist
 GRD,grd-cbi,cbi_inflows,2023-06,XCD,111837503,1,111837503.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-89f08ff831
 GRD,grd-cbi,cbi_inflows,2023-Q2,XCD,329299715,1,329299715.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.0,revision,o-c69c6fd38c
 GRD,grd-cbi,cbi_inflows,2023-Q2,XCD,329362089,1,329362089.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.0,revision,o-b88777f0c4
+GRD,grd-cbi,cbi_inflows [category=approved_projects],2014-03/2015-12,XCD,54000000,1,54000000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.4,same_source,o-f842f589a1
+GRD,grd-cbi,cbi_inflows [category=approved_projects],2014-03/2015-12,XCD,55350000,1,55350000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.4,same_source,o-395368f363
+GRD,grd-cbi,cbi_inflows [category=budgetary_fees],2014-03/2015-12,XCD,5400000,1,5400000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.4,same_source,o-f2442ce096
+GRD,grd-cbi,cbi_inflows [category=budgetary_fees],2014-03/2015-12,XCD,5535000,1,5535000.0,actual,grd-mof-cbistats-2014-15,"Government of Grenada, Ministry of Finance",2016,2.4,same_source,o-b9cd4fe1ed
 GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-04,XCD,22099447,1,22099447.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-35e791b6a2
 GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-04,XCD,22196453,1,22196453.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-80dd5facee
 GRD,grd-cbi,cbi_inflows [category=related_fees],2023-01/2023-05,XCD,27532366,1,27532366.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,0.4,revision,o-006fb78581
@@ -669,12 +758,45 @@ GRD,grd-cbi,cbi_inflows [category=related_fees],2023-Q2,XCD,14209715,1,14209715.
 GRD,grd-cbi,cbi_inflows [category=related_fees],2023-Q2,XCD,14272089,1,14272089.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,0.4,revision,o-0c39a41c20
 GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,4,1,4.0,estimate,grd-imf-art4-2022,International Monetary Fund,2022-05,57.0,revision,o-956a833cc9
 GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,9.3,1,9.3,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,57.0,revision,o-efc1fdb97a
+GRD,grd-cbi,cbi_inflows_pct_gdp,2021,percent_of_gdp,9.3,1,9.3,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,57.0,revision,o-002a5faf72
+GRD,grd-cbi,cbi_inflows_pct_gdp,2022,percent_of_gdp,10.8,1,10.8,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,0.9,revision,o-39a72bc0e8
+GRD,grd-cbi,cbi_inflows_pct_gdp,2022,percent_of_gdp,10.9,1,10.9,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.9,revision,o-567dbd2a33
 GRD,grd-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,31.3,1,31.3,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.9,revision,o-3929404316
 GRD,grd-cbi,cbi_inflows_pct_gdp,2023,percent_of_gdp,31.6,1,31.6,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,0.9,revision,o-b9f854db98
 GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,29.6,1,29.6,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,5.1,revision,o-1e76f430f4
 GRD,grd-cbi,cbi_inflows_pct_gdp,2024,percent_of_gdp,31.2,1,31.2,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,5.1,revision,o-883af41271
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,10.2,1,10.2,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,8.1,vintage,o-1a7bb51cbb
 GRD,grd-cbi,cbi_inflows_pct_gdp,2025,percent_of_gdp,11.1,1,11.1,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.1,vintage,o-b351fef4e6
+GRD,grd-cbi,cbi_inflows_pct_gdp,2026,percent_of_gdp,7.8,1,7.8,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,10.3,vintage,o-7016e8dded
+GRD,grd-cbi,cbi_inflows_pct_gdp,2026,percent_of_gdp,8.7,1,8.7,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,10.3,vintage,o-b00420aaa8
+GRD,grd-cbi,cbi_inflows_pct_gdp,2027,percent_of_gdp,7.7,1,7.7,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,7.2,vintage,o-76486e609a
+GRD,grd-cbi,cbi_inflows_pct_gdp,2027,percent_of_gdp,8.3,1,8.3,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,7.2,vintage,o-345450933f
+GRD,grd-cbi,cbi_inflows_pct_gdp,2028,percent_of_gdp,7.4,1,7.4,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,6.3,vintage,o-899c7f933a
+GRD,grd-cbi,cbi_inflows_pct_gdp,2028,percent_of_gdp,7.9,1,7.9,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,6.3,vintage,o-1aa935ed93
+GRD,grd-cbi,cbi_inflows_pct_gdp,2029,percent_of_gdp,7.1,1,7.1,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,5.3,vintage,o-cce2ec8f48
+GRD,grd-cbi,cbi_inflows_pct_gdp,2029,percent_of_gdp,7.5,1,7.5,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,5.3,vintage,o-5758f239b8
+GRD,grd-cbi,cbi_linked_debt_payments,2020,XCD,11.7,million,11700000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,11.4,revision,o-48756ef83f
+GRD,grd-cbi,cbi_linked_debt_payments,2020,XCD,13.2,million,13200000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,11.4,revision,o-5d26326fee
+GRD,grd-cbi,cbi_linked_debt_payments,2021,XCD,11.7,million,11700000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,4.1,revision,o-44bc609bd3
+GRD,grd-cbi,cbi_linked_debt_payments,2021,XCD,12.2,million,12200000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,4.1,revision,o-e7703674b4
+GRD,grd-cbi,cbi_linked_debt_payments,2022,XCD,13.0,million,13000000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,1.5,revision,o-e49bfc44de
+GRD,grd-cbi,cbi_linked_debt_payments,2022,XCD,13.2,million,13200000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,1.5,revision,o-cd9cb76fad
+GRD,grd-cbi,cbi_linked_debt_payments,2023,XCD,7.2,million,7200000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,7.7,revision,o-1de142a5c0
+GRD,grd-cbi,cbi_linked_debt_payments,2023,XCD,7.8,million,7800000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,7.7,revision,o-9ace4bf5be
+GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78.1,million,78100000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,0.4,revision,o-a4fe203051
+GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78.4,million,78400000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.4,revision,o-d1826d528d
+GRD,grd-cbi,cbi_linked_debt_payments,2025,XCD,99.6,million,99600000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,15.4,vintage,o-42fd8e127a
+GRD,grd-cbi,cbi_linked_debt_payments,2025,XCD,117.8,million,117800000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,15.4,vintage,o-68abc67147
+GRD,grd-cbi,cbi_linked_debt_payments,2026,XCD,15.7,million,15700000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,8.7,vintage,o-769f7715e0
+GRD,grd-cbi,cbi_linked_debt_payments,2026,XCD,17.2,million,17200000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,8.7,vintage,o-6b1c750869
+GRD,grd-cbi,cbi_linked_debt_payments,2028,XCD,9.2,million,9200000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,10.7,vintage,o-e6d3ce132f
+GRD,grd-cbi,cbi_linked_debt_payments,2028,XCD,10.3,million,10300000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,10.7,vintage,o-0fe37fd95e
+GRD,grd-cbi,cbi_linked_debt_payments,2029,XCD,9.2,million,9200000.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,12.4,vintage,o-22e982ebfe
+GRD,grd-cbi,cbi_linked_debt_payments,2029,XCD,10.5,million,10500000.0,projection,grd-imf-art4-2025,International Monetary Fund,2026-01,12.4,vintage,o-86f0b6dea9
+GRD,grd-cbi,cbi_linked_debt_payments_pct_gdp,2020,percent_of_gdp,0.4,1,0.4,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,20.0,revision,o-622750ef0c
+GRD,grd-cbi,cbi_linked_debt_payments_pct_gdp,2020,percent_of_gdp,0.5,1,0.5,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,20.0,revision,o-e77800e928
+GRD,grd-cbi,cbi_linked_debt_payments_pct_gdp,2025,percent_of_gdp,2.5,1,2.5,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,16.7,vintage,o-6115baf9ba
+GRD,grd-cbi,cbi_linked_debt_payments_pct_gdp,2025,percent_of_gdp,3.0,1,3.0,projection,grd-imf-art4-2024,International Monetary Fund,2025-02,16.7,vintage,o-3b15151224
 GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-04,XCD,936765,1,936765.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,95.3,revision,o-9b8daed2ac
 GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-04,XCD,19926000,1,19926000.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,95.3,revision,o-bc769bde81
 GRD,grd-cbi,cbi_transfers_to_government [category=ntf_budgetary_support],2023-05,XCD,1180980,1,1180980.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,91.9,revision,o-3d10d15388
@@ -695,6 +817,8 @@ GRD,grd-cbi,persons_naturalised [route=real_estate],2023-05,persons,60,1,60.0,pr
 GRD,grd-cbi,persons_naturalised [route=real_estate],2023-05,persons,444,1,444.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,86.5,revision,o-188a121446
 GRD,grd-cbi,persons_naturalised [route=real_estate],2023-Q2,persons,772,1,772.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,33.2,revision,o-4b4050f61a
 GRD,grd-cbi,persons_naturalised [route=real_estate],2023-Q2,persons,1156,1,1156.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,33.2,revision,o-de7f63b8fc
+GRD,grd-cbi,primary_balance_excl_cbi_pct_gdp,2015,percent_of_gdp,1.6,1,1.6,actual,grd-imf-art4-2016,International Monetary Fund,2016-05,5.9,vintage,o-fdbbcd5e43
+GRD,grd-cbi,primary_balance_excl_cbi_pct_gdp,2015,percent_of_gdp,1.7,1,1.7,projection,grd-imf-art4-2016,International Monetary Fund,2016-05,5.9,vintage,o-7dcb5e54f6
 HKG,hkg-cies,main_applicants_approved,2008,persons,129,1,129.0,actual,hkg-legco-lcq7-cies-2011,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2011-02-23,91.7,revision,o-40a155cf34
 HKG,hkg-cies,main_applicants_approved,2008,persons,1547,1,1547.0,actual,hkg-legco-lcq12-cies-2010-annex,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2010-05-05,91.7,revision,o-57e8f580ca
 HKG,hkg-cies,main_applicants_approved,2009,persons,217,1,217.0,actual,hkg-legco-lcq7-cies-2011,"Hong Kong SAR Government (written reply to a Legislative Council question, issued by the Information Services Department)",2011-02-23,91.7,revision,o-1560ce9f4f
