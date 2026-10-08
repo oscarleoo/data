@@ -391,3 +391,20 @@ says what was done to it.
 - **Decision needed:** Estimates 2023 p. 30 appears to swap the labels of the CIU and Human Resources
   rows (the 2024 volume reprints them the other way round). Those 2023 figures are held back.
 - Not stored: Estimates Volume I for 2020.
+
+### Grenada, batch 2 (pass `extract-cbi-grd2`)
+- 16 documents reviewed: 15 complete, 1 partial.
+- Added 2,333 numbers, 15 rules, 1 event: statistics sheets 2018, 2020 Q4, 2021 Q4 (every cell);
+  budget books 2017-2026 (the programme fee line and parts, the "CBI Committee" dividend line,
+  National Transformation Fund grants, and every capital project funded by that fund, 1,781 rows);
+  the 2024-2025 fiscal frameworks; SRO 12 of 2024 fees; the 2025 Citizenship by Invitation launch.
+- Did not add up (recorded as printed): fund project lines vs printed totals in the 2021 and 2022
+  books (EC$120,000 and EC$100,000 short); 2025 book Table 3 vs line item for 2024 revenue
+  (334.3m vs 280,697,922); small rounding gaps.
+- **Decisions needed:**
+  - The 1,781 fund project lines (cells printed "-" recorded as 0, as earlier passes did): keep all,
+    or keep only totals?
+  - "International Bonds 2015-2030 ERI" interest is recorded as programme-linked bond payments
+    because the amounts match the IMF's "Bondholder CBI-related payments"; the books never spell out ERI.
+    That is an inference.
+  - Partial: a press release says collections beat target by $7.7m without printing either figure.
