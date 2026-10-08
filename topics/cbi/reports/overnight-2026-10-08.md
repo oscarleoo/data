@@ -890,3 +890,13 @@ says what was done to it.
   schedules (investor names left out); National Economic Fund contributions and a project it financed.
 - St Lucia now: all 40 stored St Lucia documents reviewed (29 complete, 11 partial; checked in the ledger).
 - **Decision needed:** investor names in the debt schedules were left out of rows and quotes: confirm.
+
+### United Arab Emirates, batch 1 (pass `extract-cbi-are1`)
+- 16 documents reviewed: 14 complete, 2 partial.
+- Added 3 numbers, 40 rules, 1 event. Main finding: the stored PDF of Cabinet Resolution 65/2022 does contain the
+  golden-residence annex (earlier noted as unreadable), so the 2022 investor thresholds now rest on the law
+  itself (AED 2m deposit, company capital or property; AED 250,000 a year in tax; 10-year permits). Also the
+  2018 rules, Dubai fees (DLD, GDRFA), Abu Dhabi rules, first permit issued 3 June 2019.
+- Arabic quotes from the 2018 resolution were retyped from a garbled text layer: flagged for the second reading.
+- **Decision needed:** add programmes for the 5-year green residence, retiree residence (AED 1m) and
+  property-owner residence (the reason two documents are partial)?
