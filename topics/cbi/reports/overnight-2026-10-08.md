@@ -866,3 +866,18 @@ says what was done to it.
 - Every table with printed totals adds up. Partial: a 2015 monthly chart with no printed values.
 - **Decision needed:** older real-estate nationality rows use `nationality=X` alone; new rows use
   `route=real_estate;nationality=X` (needed to keep routes apart). A correction should add the route to the old rows.
+
+### Cyprus, batch 1 (pass `extract-cbi-cyp1`)
+- 20 documents reviewed (the 2021 Nicolatos inquiry report, Audit Office reports 2020 and 2022, Interior
+  Ministry revocations release, regulations and laws): 19 complete, 1 partial.
+- Added 530 numbers, 77 rules, 34 events: naturalisations by year 2008-2020 by applicant type (adds to 6,779);
+  sub-programme subtotals; risk statistics; applicants not meeting criteria; revocation recommendations (53, 3,
+  29, 16); processing days; cancelled and unregistered property contracts; reduced VAT; 2025 revocations
+  (69 deprivation orders). Witness figures marked as claims.
+- The two large reports were read by helper agents in page ranges: **lower assurance until the second reading**
+  covers them (heavier sample planned).
+- Did not add up (all kept): low-risk total 6,061 vs 6,182 in two chapters; reduced-VAT top-10 sums to
+  EUR 5,283,019 vs printed EUR 4,914,238; approvals after August 2020: 250 vs 233.
+- Nationality shares exist but country names are blacked out in the published report (recorded as redacted
+  categories). Partial: an anonymised top-15 service-provider table.
+- **Decisions needed:** 9 new indicators; testimony figures as claims (some are officials quoting their own data).

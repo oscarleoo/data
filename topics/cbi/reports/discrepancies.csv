@@ -312,6 +312,18 @@ COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,estimate,co
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,estimate,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef
 COM,com-ecp,passports_issued,2008-2017,passports,47950,1,47950.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,0.1,conflict,o-2f5a85790a
 COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-reuters-2018-03-23,Reuters,2018-03-23,0.1,conflict,o-e5f6e475d8
+CYP,cyp-cip,cases_meeting_condition [category=property_contract_still_unregistered],2022-01-31,persons,1914,1,1914.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,1.2,same_source,o-788368241f
+CYP,cyp-cip,cases_meeting_condition [category=property_contract_still_unregistered],2022-01-31,persons,1938,1,1938.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,1.2,same_source,o-a0af8a5867
+CYP,cyp-cip,main_applicants_approved,2015,persons,336,1,336.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.6,conflict,o-87feb0d8cf
+CYP,cyp-cip,main_applicants_approved,2015,persons,338,1,338.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.6,conflict,o-1783670291
+CYP,cyp-cip,main_applicants_approved,2016,persons,443,1,443.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.9,conflict,o-d054baca9e
+CYP,cyp-cip,main_applicants_approved,2016,persons,447,1,447.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.9,conflict,o-1ac4408504
+CYP,cyp-cip,main_applicants_approved,2018,persons,578,1,578.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.7,conflict,o-9f55438dc2
+CYP,cyp-cip,main_applicants_approved,2018,persons,582,1,582.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.7,conflict,o-ed1ce90d00
+CYP,cyp-cip,main_applicants_approved,2019,persons,576,1,576.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.3,conflict,o-4d2afb0784
+CYP,cyp-cip,main_applicants_approved,2019,persons,578,1,578.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.3,conflict,o-4aa1dcf6ca
+CYP,cyp-cip,rbi_investment_total [route=real_estate;category=property_contract_still_unregistered],2022-01-31,EUR,3.5,billion,3500000000.0,estimate,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,11.3,revision,o-8045a81c5d
+CYP,cyp-cip,rbi_investment_total [route=real_estate;category=property_contract_still_unregistered],2022-01-31,EUR,3947847393,1,3947847393.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,11.3,revision,o-72c34dc78f
 DMA,dma-cbi,applications_rejected,2023,applications,180,1,180.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,14.3,same_source,o-74c55bada9
 DMA,dma-cbi,applications_rejected,2023,applications,210,1,210.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,14.3,same_source,o-9348108c33
 DMA,dma-cbi,applications_rejected,2023,applications,210,1,210.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,14.3,same_source,o-1ae283e0c2
