@@ -608,3 +608,14 @@ says what was done to it.
 - **Decisions needed:** 7 new indicators; existing rows from unmarked past IMF columns are labelled
   "estimate" while new rows use "actual" (as the data model says): the old rows likely need correcting
   (same issue as St Kitts).
+
+### Ireland, batch 2 (pass `extract-cbi-irl2`)
+- 20 documents reviewed (written answers 2012-2026, the closure and wind-down pages): all complete.
+- Added 333 numbers, 2 events: applications received, approved and value by year 2012 to June 2025;
+  approvals and value by investment type; Chinese applicants by type and year 2016-2021; Russian applicants
+  (3 since 2012); staffing of the investor unit; pending project proposals; 2018 tighter checks.
+- Did not add up: the 18 October 2022 answer totals 1,623 approvals in one table and 1,613 in two others
+  (both kept); 2017-2018 endowment values for Chinese applicants look misprinted (kept with a note).
+- **Decisions needed:** the existing event dating Ireland's Russian ban to 6 April 2022 is too late (a
+  22 March 2022 answer already mentions it); one guidelines source titled "October 2022" says "Published
+  February 2019" on its cover.

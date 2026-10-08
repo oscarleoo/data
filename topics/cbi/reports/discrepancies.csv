@@ -2506,113 +2506,205 @@ INTL,,passports_issued,to 2025,passports,107000,1,107000.0,estimate,intl-ec-com-
 INTL,,passports_issued,to 2025,passports,107625,1,107625.0,estimate,intl-ec-swd-2025-429,European Commission,2025-12-19,0.6,revision,o-f2f94fd50a
 IRL,irl-ibn,applications_approved,1992,applications,17,1,17.0,actual,irl-dail-wa-1994-06-14,Houses of the Oireachtas,1994-06-14,15.0,revision,o-e3fa100678
 IRL,irl-ibn,applications_approved,1992,applications,20,1,20.0,actual,irl-dail-pq-1994-10-25,Houses of the Oireachtas,1994-10-25,15.0,revision,o-d1258728d8
+IRL,irl-iip,applications_approved,2012/2022-09-30,applications,1613,1,1613.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.6,same_source,o-55a49acd74
+IRL,irl-iip,applications_approved,2012/2022-09-30,applications,1623,1,1623.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.6,same_source,o-73f6ad3338
 IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,37.5,revision,o-69eada2d46
+IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,37.5,revision,o-df2f24ac0e
+IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,37.5,revision,o-f17febc941
 IRL,irl-iip,applications_approved,2014,applications,5,1,5.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,37.5,revision,o-79c18aa3ce
 IRL,irl-iip,applications_approved,2014,applications,8,1,8.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,37.5,revision,o-af5eeac9cc
+IRL,irl-iip,applications_approved,2014,applications,8,1,8.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,37.5,revision,o-13281c7b54
+IRL,irl-iip,applications_approved,2015,applications,67,1,67.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,5.6,revision,o-fdeb24a99c
 IRL,irl-iip,applications_approved,2015,applications,67,1,67.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.6,revision,o-eb8e10c834
 IRL,irl-iip,applications_approved,2015,applications,70,1,70.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.6,revision,o-f6568be0d6
+IRL,irl-iip,applications_approved,2015,applications,70,1,70.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,5.6,revision,o-b49d1097f9
 IRL,irl-iip,applications_approved,2015,applications,71,1,71.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,5.6,revision,o-5a9b557471
+IRL,irl-iip,applications_approved,2015,applications,71,1,71.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,5.6,revision,o-5dbf6cce72
 IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,87.3,conflict,o-cd75f6a11b
+IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,87.3,conflict,o-9ce7776b51
 IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,87.3,conflict,o-63bd0966a0
+IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,87.3,conflict,o-cdb228f0c4
+IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,87.3,conflict,o-ddd8c9df53
 IRL,irl-iip,applications_approved,2016,applications,33,1,33.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,87.3,conflict,o-901c97b31d
 IRL,irl-iip,applications_approved,2016,applications,260,1,260.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,87.3,conflict,o-c331312efd
+IRL,irl-iip,applications_approved,2017,applications,360,1,360.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,3.5,revision,o-31f7822d20
 IRL,irl-iip,applications_approved,2017,applications,360,1,360.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.5,revision,o-d2b5fc91b7
 IRL,irl-iip,applications_approved,2017,applications,369,1,369.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.5,revision,o-5c4d51b1d8
+IRL,irl-iip,applications_approved,2017,applications,369,1,369.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,3.5,revision,o-90c1738dd2
 IRL,irl-iip,applications_approved,2017,applications,370,1,370.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,3.5,revision,o-9741cf5d68
 IRL,irl-iip,applications_approved,2017,applications,373,1,373.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.5,revision,o-750ded7214
+IRL,irl-iip,applications_approved,2017,applications,373,1,373.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,3.5,revision,o-36bb2d449b
+IRL,irl-iip,applications_approved,2018,applications,145,1,145.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,19.9,revision,o-deabd88d71
 IRL,irl-iip,applications_approved,2018,applications,145,1,145.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,19.9,revision,o-b08f08b998
 IRL,irl-iip,applications_approved,2018,applications,155,1,155.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,19.9,revision,o-aa4057327a
+IRL,irl-iip,applications_approved,2018,applications,155,1,155.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,19.9,revision,o-b950a4bbfd
 IRL,irl-iip,applications_approved,2018,applications,156,1,156.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,19.9,revision,o-8174a0327f
+IRL,irl-iip,applications_approved,2018,applications,156,1,156.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,19.9,revision,o-cbf4006958
 IRL,irl-iip,applications_approved,2018,applications,181,1,181.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,19.9,revision,o-96411de52c
+IRL,irl-iip,applications_approved,2019,applications,222,1,222.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,6.3,revision,o-7ec9a1e54c
 IRL,irl-iip,applications_approved,2019,applications,222,1,222.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,6.3,revision,o-d317185b39
 IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,6.3,revision,o-005b903260
+IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,6.3,revision,o-58003f15ed
 IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,6.3,revision,o-39d991d75a
+IRL,irl-iip,applications_approved,2019,applications,237,1,237.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,6.3,revision,o-3c8657c0d8
+IRL,irl-iip,applications_approved,2020,applications,267,1,267.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,1.1,revision,o-e38bf78ef7
 IRL,irl-iip,applications_approved,2020,applications,267,1,267.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-a41327b141
 IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.1,revision,o-6bf1e25c69
+IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,1.1,revision,o-017e7d3454
 IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-4912d3a70b
+IRL,irl-iip,applications_approved,2020,applications,270,1,270.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,1.1,revision,o-113fa2d888
 IRL,irl-iip,applications_approved,2021,applications,264,1,264.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.8,revision,o-fbf4829516
+IRL,irl-iip,applications_approved,2021,applications,264,1,264.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.8,revision,o-8e414fa9ff
+IRL,irl-iip,applications_approved,2021,applications,264,1,264.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.8,revision,o-7931aabfe0
 IRL,irl-iip,applications_approved,2021,applications,265,1,265.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.8,revision,o-8c595f515c
+IRL,irl-iip,applications_approved,2021,applications,265,1,265.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.8,revision,o-40ef63d644
 IRL,irl-iip,applications_approved,2021,applications,266,1,266.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.8,revision,o-1cd74f3ee7
 IRL,irl-iip,applications_approved,2022,applications,306,1,306.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.3,revision,o-7f87b6ab80
+IRL,irl-iip,applications_approved,2022,applications,306,1,306.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.3,revision,o-fd18a60028
+IRL,irl-iip,applications_approved,2022,applications,307,1,307.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.3,revision,o-cc9c7a554a
 IRL,irl-iip,applications_approved,2022,applications,307,1,307.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.3,revision,o-b7b563dc46
+IRL,irl-iip,applications_approved,2024,applications,535,1,535.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.9,revision,o-4b3418d528
+IRL,irl-iip,applications_approved,2024,applications,540,1,540.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.9,revision,o-8df60ef03f
 IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,10.0,conflict,o-47ef138670
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,10.0,conflict,o-20989c168e
 IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,10.0,conflict,o-c3bf47ffa5
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,10.0,conflict,o-be7ed9a144
+IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,10.0,conflict,o-b8b7efa74c
 IRL,irl-iip,applications_received,2013,applications,18,1,18.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,10.0,conflict,o-6d2bfa34a2
 IRL,irl-iip,applications_received,2013,applications,20,1,20.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,10.0,conflict,o-5a6212fec3
 IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,9.1,conflict,o-fd53acb30b
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,9.1,conflict,o-5b6edaf6a6
 IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,9.1,conflict,o-dbf0a1e25d
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,9.1,conflict,o-ba1461043f
+IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,9.1,conflict,o-b43577afff
 IRL,irl-iip,applications_received,2014,applications,30,1,30.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,9.1,conflict,o-4fb228bf79
 IRL,irl-iip,applications_received,2014,applications,33,1,33.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,9.1,conflict,o-706f50ba12
 IRL,irl-iip,applications_received,2015,applications,66,1,66.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,12.0,conflict,o-3b0978daf9
 IRL,irl-iip,applications_received,2015,applications,67,1,67.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,12.0,conflict,o-4e0be201b3
 IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,12.0,conflict,o-2a90c10b62
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,12.0,conflict,o-f91e15a228
 IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,12.0,conflict,o-530ca1bb6a
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,12.0,conflict,o-d24bac3de4
+IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,12.0,conflict,o-04592a9d4f
 IRL,irl-iip,applications_received,2015,applications,75,1,75.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,12.0,conflict,o-37f8cc4b72
 IRL,irl-iip,applications_received,2016,applications,317,1,317.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,5.1,conflict,o-7f4716709a
 IRL,irl-iip,applications_received,2016,applications,329,1,329.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,5.1,conflict,o-6c6d07a4f3
 IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,5.1,conflict,o-2525e9cc46
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,5.1,conflict,o-63b473647c
 IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,5.1,conflict,o-16cf74e45d
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,5.1,conflict,o-a931194675
+IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,5.1,conflict,o-648cc9f545
 IRL,irl-iip,applications_received,2016,applications,334,1,334.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,5.1,conflict,o-80589f0673
 IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.0,conflict,o-7a8f6b2c46
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,3.0,conflict,o-888b2cb791
 IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.0,conflict,o-5299e47c4f
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,3.0,conflict,o-fcf1d120e8
+IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,3.0,conflict,o-8d923b6359
 IRL,irl-iip,applications_received,2017,applications,324,1,324.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.0,conflict,o-58a66c35f9
 IRL,irl-iip,applications_received,2017,applications,326,1,326.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,3.0,conflict,o-539ae97cb2
 IRL,irl-iip,applications_received,2017,applications,334,1,334.0,reported,intl-ec-swd-2019-5,European Commission,2019-01-23,3.0,conflict,o-31ad99893d
 IRL,irl-iip,applications_received,2017,applications,360,1,360.0,projection,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.0,conflict,o-4d97cebb56
 IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.2,revision,o-c561e23079
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.2,revision,o-b4459b4527
 IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.2,revision,o-832bb5ec12
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.2,revision,o-a4629902f4
+IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.2,revision,o-747b462687
 IRL,irl-iip,applications_received,2018,applications,423,1,423.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.2,revision,o-1352a71eb1
 IRL,irl-iip,applications_received,2018,applications,424,1,424.0,provisional,irl-oir-wa-2019-11-06,Houses of the Oireachtas,2019-11-06,0.2,revision,o-d73040c8b6
 IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.4,revision,o-4cd7bc842b
+IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.4,revision,o-a489567363
 IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-d5440b2025
+IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.4,revision,o-05c4062881
+IRL,irl-iip,applications_received,2019,applications,443,1,443.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.4,revision,o-7f884ba665
 IRL,irl-iip,applications_received,2019,applications,445,1,445.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-6c82311832
 IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,0.4,revision,o-a0363d15b1
+IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,0.4,revision,o-011d252411
 IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.4,revision,o-14b64eb20f
+IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.4,revision,o-818503347b
+IRL,irl-iip,applications_received,2021,applications,258,1,258.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.4,revision,o-ad1bb68ca0
 IRL,irl-iip,applications_received,2021,applications,259,1,259.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.4,revision,o-8978353835
 IRL,irl-iip,applications_received,2022,applications,1316,1,1316.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,2.0,revision,o-19cff1757e
+IRL,irl-iip,applications_received,2022,applications,1316,1,1316.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,2.0,revision,o-e4c2b2ca27
+IRL,irl-iip,applications_received,2022,applications,1316,1,1316.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,2.0,revision,o-69269d0afe
 IRL,irl-iip,applications_received,2022,applications,1343,1,1343.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,2.0,revision,o-037e97cbef
+IRL,irl-iip,applications_received,2023,applications,1932,1,1932.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-03c00b56a3
+IRL,irl-iip,applications_received,2023,applications,1954,1,1954.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,1.1,revision,o-8f08010593
 IRL,irl-iip,applications_received [nationality=CHN],2018,applications,297,1,297.0,reported,irl-doj-iip-review-phase1,Ernst & Young for the Irish Naturalisation and Immigration Service,2020-04-24,27.9,conflict,o-1d58f1888e
 IRL,irl-iip,applications_received [nationality=CHN],2018,applications,412,1,412.0,provisional,irl-oir-wa-2022-03-22,Houses of the Oireachtas,2022-03-22,27.9,conflict,o-c9da2bb6c3
 IRL,irl-iip,cbi_projects_approved [route=enterprise],2012-2016,projects,37,1,37.0,estimate,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,26.0,same_source,o-9de7c35538
 IRL,irl-iip,cbi_projects_approved [route=enterprise],2012-2016,projects,50,1,50.0,estimate,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,26.0,same_source,o-93e2e0a90c
 IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,40.0,conflict,o-04c997f326
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,40.0,conflict,o-3b251a2ccf
 IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,40.0,conflict,o-be31db8dfc
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,40.0,conflict,o-dd0976446c
+IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,40.0,conflict,o-11e78b11bc
 IRL,irl-iip,rbi_investment_total,2012,EUR,1500000,1,1500000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,40.0,conflict,o-0bf756bec5
 IRL,irl-iip,rbi_investment_total,2012,EUR,2500000,1,2500000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,40.0,conflict,o-b4db785e5f
 IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.6,conflict,o-707070c447
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,3.6,conflict,o-9780336208
 IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.6,conflict,o-d400fff515
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,3.6,conflict,o-bd3872ade5
+IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,3.6,conflict,o-abc77d4e4a
 IRL,irl-iip,rbi_investment_total,2013,EUR,12200000,1,12200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.6,conflict,o-8f2bd8ddfb
 IRL,irl-iip,rbi_investment_total,2013,EUR,12650000,1,12650000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.6,conflict,o-e22dd2ea81
+IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,78.9,conflict,o-4589bfd967
 IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,78.9,conflict,o-771b207b69
+IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,78.9,conflict,o-f0687cafe1
+IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,78.9,conflict,o-c3be134d4a
 IRL,irl-iip,rbi_investment_total,2014,EUR,2950000,1,2950000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,78.9,conflict,o-ca6e98b3a1
 IRL,irl-iip,rbi_investment_total,2014,EUR,4450000,1,4450000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,78.9,conflict,o-7222e6e262
 IRL,irl-iip,rbi_investment_total,2014,EUR,13950000,1,13950000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,78.9,conflict,o-0a2753d239
 IRL,irl-iip,rbi_investment_total,2015,EUR,36250000,1,36250000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,6.6,conflict,o-a35e81dcc6
+IRL,irl-iip,rbi_investment_total,2015,EUR,36800000,1,36800000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,6.6,conflict,o-0624361941
 IRL,irl-iip,rbi_investment_total,2015,EUR,36800000,1,36800000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,6.6,conflict,o-a382b55511
+IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,6.6,conflict,o-8e15eca63d
 IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,6.6,conflict,o-0b0863e812
+IRL,irl-iip,rbi_investment_total,2015,EUR,38300000,1,38300000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,6.6,conflict,o-3b3b975d94
 IRL,irl-iip,rbi_investment_total,2015,EUR,38800000,1,38800000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,6.6,conflict,o-ffdac442e7
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,87.0,conflict,o-18c9a77df9
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,87.0,conflict,o-efe67bde3f
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,87.0,conflict,o-2d34261ca7
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,87.0,conflict,o-6dd2d4cad0
+IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,87.0,conflict,o-1857f43628
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,87.0,conflict,o-26c3973f44
 IRL,irl-iip,rbi_investment_total,2016,EUR,144300000,1,144300000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,87.0,conflict,o-78549707cb
+IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,3.7,revision,o-bf3c25d8db
 IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.7,revision,o-9381540ac4
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,3.7,revision,o-54a7a09e10
 IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.7,revision,o-f2fa160e5d
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,3.7,revision,o-b9f4c2d20d
 IRL,irl-iip,rbi_investment_total,2017,EUR,253700000,1,253700000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.7,revision,o-f64c5b1afe
 IRL,irl-iip,rbi_investment_total,2017,EUR,291,million,291000000.0,projection,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.7,revision,o-9efb5e242c
-IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.8,revision,o-b5a8118ba0
-IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.8,revision,o-dbec29bcf9
-IRL,irl-iip,rbi_investment_total,2018,EUR,139750000,1,139750000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,7.8,revision,o-65c5aac282
+IRL,irl-iip,rbi_investment_total,2018,EUR,128750000,1,128750000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,7.9,revision,o-7df9203c62
+IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.9,revision,o-b5a8118ba0
+IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,7.9,revision,o-ee0e1da3cd
+IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.9,revision,o-dbec29bcf9
+IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,7.9,revision,o-1a28d1e48b
+IRL,irl-iip,rbi_investment_total,2018,EUR,139750000,1,139750000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,7.9,revision,o-65c5aac282
+IRL,irl-iip,rbi_investment_total,2019,EUR,194200000,1,194200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,7.2,revision,o-5250ef26bc
 IRL,irl-iip,rbi_investment_total,2019,EUR,194200000,1,194200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.2,revision,o-687298ecbd
 IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,7.2,revision,o-4fc6c52c55
+IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,7.2,revision,o-8f8dc63f45
 IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,7.2,revision,o-52d745ac3c
+IRL,irl-iip,rbi_investment_total,2019,EUR,209300000,1,209300000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,7.2,revision,o-5185938830
+IRL,irl-iip,rbi_investment_total,2020,EUR,186200000,1,186200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,1.0,revision,o-c6b815670f
 IRL,irl-iip,rbi_investment_total,2020,EUR,186200000,1,186200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.0,revision,o-6f7c9d19c9
 IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.0,revision,o-56f3ad5956
+IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,1.0,revision,o-a9cb0e2037
 IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.0,revision,o-bdfa53d74f
+IRL,irl-iip,rbi_investment_total,2020,EUR,188000000,1,188000000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,1.0,revision,o-f396dc9c0f
+IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,1.1,revision,o-a6f6579ddb
 IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,1.1,revision,o-53c5d3f6bc
+IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,1.1,revision,o-632d89bed5
+IRL,irl-iip,rbi_investment_total,2021,EUR,185700000,1,185700000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,1.1,revision,o-bfd04b1d91
 IRL,irl-iip,rbi_investment_total,2021,EUR,186100000,1,186100000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,1.1,revision,o-df1a16821c
 IRL,irl-iip,rbi_investment_total,2021,EUR,187700000,1,187700000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,1.1,revision,o-b16abfa026
 IRL,irl-iip,rbi_investment_total,2022,EUR,205900000,1,205900000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,0.5,revision,o-6ae4ce7d4f
+IRL,irl-iip,rbi_investment_total,2022,EUR,205900000,1,205900000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,0.5,revision,o-75c9455a41
+IRL,irl-iip,rbi_investment_total,2022,EUR,206900000,1,206900000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.5,revision,o-369fbde019
 IRL,irl-iip,rbi_investment_total,2022,EUR,206900000,1,206900000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.5,revision,o-0d59157937
+IRL,irl-iip,rbi_investment_total,2024,EUR,314300000,1,314300000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,0.6,revision,o-f339071385
+IRL,irl-iip,rbi_investment_total,2024,EUR,316300000,1,316300000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,0.6,revision,o-f957b26be6
 KNA,,sugar_industry_employment,2005,persons,1400,1,1400.0,estimate,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-d6ac0d06ab
 KNA,,sugar_industry_employment,2005,persons,1406,1,1406.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,0.4,revision,o-86419fadf5
 KNA,,sugar_severance_cost,2005,XCD,27.4,million,27400000.0,reported,kna-sugar-imf-cr07141,International Monetary Fund,2007-04,37.7,conflict,o-29464df62d
