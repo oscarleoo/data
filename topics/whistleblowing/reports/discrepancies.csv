@@ -2054,14 +2054,19 @@ USA,usa-irs-wbo,tips_received [subsection=7623b],FY2011,taxpayers,734,1,734.0,ac
 USA,usa-sec-wb,awards_paid_amount,FY2016,USD,34945648.43,1,34945648.43,actual,usa-sec-owb-ar-2016,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2016,38.7,same_source,o-4259c5fc70
 USA,usa-sec-wb,awards_paid_amount,FY2016,USD,57,million,57000000.0,actual,usa-sec-owb-ar-2016,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2016,38.7,same_source,o-5d34e79b17
 USA,usa-sec-wb,awards_paid_amount,FY2017,USD,49041304.95,1,49041304.95,actual,usa-sec-owb-ar-2017,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2017,1.9,same_source,o-9ad9957cfb
+USA,usa-sec-wb,awards_paid_amount,FY2017,USD,50000000,1,50000000.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,1.9,same_source,o-5bed92cd20
 USA,usa-sec-wb,awards_paid_amount,FY2017,USD,50,million,50000000.0,actual,usa-sec-owb-ar-2017,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2017,1.9,same_source,o-b4b0f9314a
 USA,usa-sec-wb,awards_paid_amount,FY2018,USD,94348311.0,1,94348311.0,actual,usa-sec-owb-ar-2018,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2018,43.8,same_source,o-bf74faede4
+USA,usa-sec-wb,awards_paid_amount,FY2018,USD,168000000,1,168000000.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,43.8,same_source,o-d14577f3da
 USA,usa-sec-wb,awards_paid_amount,FY2018,USD,168,million,168000000.0,actual,usa-sec-owb-ar-2018,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2018,43.8,same_source,o-75145eeb22
+USA,usa-sec-wb,awards_paid_amount,FY2019,USD,60000000,1,60000000.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,57.7,same_source,o-46c00cf3de
 USA,usa-sec-wb,awards_paid_amount,FY2019,USD,60,million,60000000.0,actual,usa-sec-owb-ar-2019,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2019,57.7,same_source,o-bbe686d137
 USA,usa-sec-wb,awards_paid_amount,FY2019,USD,141976223.37,1,141976223.37,actual,usa-sec-owb-ar-2019,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2019,57.7,same_source,o-15b6a21096
 USA,usa-sec-wb,awards_paid_amount,FY2020,USD,95733263.56,1,95733263.56,actual,usa-sec-owb-ar-2020,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2020,45.3,same_source,o-758cfd1541
+USA,usa-sec-wb,awards_paid_amount,FY2020,USD,175000000,1,175000000.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,45.3,same_source,o-1357d8f2f0
 USA,usa-sec-wb,awards_paid_amount,FY2020,USD,175,million,175000000.0,actual,usa-sec-owb-ar-2020,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2020,45.3,same_source,o-6f3bdcf94a
 USA,usa-sec-wb,awards_paid_amount,FY2021,USD,465604025.82,1,465604025.82,actual,usa-sec-owb-ar-2021,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2021,17.4,same_source,o-08bea309e0
+USA,usa-sec-wb,awards_paid_amount,FY2021,USD,564000000,1,564000000.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,17.4,same_source,o-4c2f4d8aea
 USA,usa-sec-wb,awards_paid_amount,FY2021,USD,564,million,564000000.0,actual,usa-sec-owb-ar-2021,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2021,17.4,same_source,o-1c7812ea5b
 USA,usa-sec-wb,awards_paid_amount,FY2022,USD,229,million,229000000.0,actual,usa-sec-owb-ar-2022,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2022-11-15,20.3,same_source,o-6bbcc04e25
 USA,usa-sec-wb,awards_paid_amount,FY2022,USD,287212185.03,1,287212185.03,actual,usa-sec-owb-ar-2022,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2022-11-15,20.3,same_source,o-125492e773
@@ -2072,5 +2077,10 @@ USA,usa-sec-wb,awards_paid_amount,FY2024,USD,255,million,255000000.0,actual,usa-
 USA,usa-sec-wb,awards_paid_amount,FY2024,USD,575226473.4,1,575226473.4,actual,usa-sec-owb-ar-2024,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2024-11-15,55.7,same_source,o-16b952ff0c
 USA,usa-sec-wb,awards_paid_amount,FY2025,USD,60,million,60000000.0,actual,usa-sec-owb-ar-2025,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2026-02-11,64.8,same_source,o-f96d13ec8f
 USA,usa-sec-wb,awards_paid_amount,FY2025,USD,170221335.88,1,170221335.88,actual,usa-sec-owb-ar-2025,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2026-02-11,64.8,same_source,o-6e73abad1e
+USA,usa-sec-wb,claims_closed,FY2020,claims,197,1,197.0,actual,usa-sec-owb-ar-2020,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2020,5.7,conflict,o-3fcabba8ae
+USA,usa-sec-wb,claims_closed,FY2020,claims,209,1,209.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,5.7,conflict,o-f091a04262
+USA,usa-sec-wb,claims_closed,FY2021,claims,318,1,318.0,actual,usa-sec-owb-ar-2021,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2021,0.6,conflict,o-c3d0ddcf90
+USA,usa-sec-wb,claims_closed,FY2021,claims,320,1,320.0,actual,usa-sec-oig-575-2022,"U.S. Securities and Exchange Commission, Office of Inspector General",2022-12-19,0.6,conflict,o-1d38b1d065
 USA,usa-sec-wb,tips_received,FY2023,tips,18000,1,18000.0,reported,gbr-fisher-review-fraud-digital-age-2026,Home Office,2026-07-14,1.9,conflict,o-ac276044a9
 USA,usa-sec-wb,tips_received,FY2023,tips,18354,1,18354.0,actual,usa-sec-owb-ar-2023,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2023-11-14,1.9,conflict,o-0b84bed276
+USA,usa-sec-wb,tips_received,FY2023,tips,18354,1,18354.0,actual,usa-sec-owb-ar-2024,"U.S. Securities and Exchange Commission, Office of the Whistleblower",2024-11-15,1.9,conflict,o-dd9404f348

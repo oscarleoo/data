@@ -1072,4 +1072,4 @@ totals?
   budget rows where the reader gave the actual, Malta lease-only rows the reader added to purchases.
 - Whistleblowing: 479 numbers read blind; 9 ruled. **One row recommended for removal:** the Hungarian 2011
   "about 20" informant enquiries is an inference from "as in 2011", not a printed figure.
-- Batch z6 (whistleblowing) is still being read.
+- Batch z6: 88 more numbers, 5 rulings (same numbers written differently). 0 open differences in either dataset.
