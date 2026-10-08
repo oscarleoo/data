@@ -253,3 +253,15 @@ says what was done to it.
 - Sources disagree on 2022 revenue: 2023 speech EC$88.8m vs 2024 budget EC$67.9m vs IMF 68. All kept.
 - Possible correction: the 2026 IMF report says the regional regulator law was approved "in late
   2025"; the existing event says no date is given.
+
+### Malta, batch 1 (pass `extract-cbi-mlt1`)
+- 20 documents reviewed (legal notices 2013-2026, the EU Court of Justice case C-181/23, Commission
+  documents, IMF 2019): 19 complete, 1 partial.
+- Added 24 numbers (IMF budget balances excluding programme money, 2016-2024), 37 rules (deposits,
+  due-diligence, administrative, residence-permit, passport, agent-licence and renewal fees; property,
+  rent, income and asset thresholds; donations) and 7 events (court case milestones 2020-2023;
+  agents' promotional payments; cessation grounds deleted 2017; applications lapsing 29 April 2025).
+- Partial: the Commission's 2019 report is stored twice as different PDFs; only Malta's part taken here.
+- **Worth a look:** L.N. 159 of 2025 says investment-route applications not approved before
+  29 April 2025 "shall cease to have effect". That is a primary source for the closure date the
+  Malta programme note currently calls unverified.
