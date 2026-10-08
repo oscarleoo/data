@@ -630,3 +630,12 @@ says what was done to it.
   (farming, forestry, Panamá-Pacífico, export zones, call centres, film) that have no programme in the dataset.
 - **Decisions needed:** add those six routes as programmes? Existing Decree 193 rule and event mention
   co-ownership and an unchanged B/.750,000 deposit that the stored pages don't show.
+
+### Panama, batch 2 (pass `extract-cbi-pan2`)
+- 12 documents reviewed (migration service statistics 2010-2026, Commerce Ministry releases): 8 complete, 4 partial.
+- Added 33 numbers: 2010-2021 totals for the programme rows; monthly approvals January-August 2026 for
+  Qualified Investor, Friendly Nations and Solvencia; the vice-minister's monthly application figures (claims).
+- Partial (4 statistics files): they also print other investor categories with no programme in the dataset
+  (forestry, small business, general investor, call centre, farming, retiree). Same decision as batch 1:
+  add those programmes, or mark the files complete as they stand.
+- New period type `peak_month` used for "a peak of 38 in a single month": **confirm**.
