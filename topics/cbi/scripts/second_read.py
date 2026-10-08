@@ -52,6 +52,7 @@ def readings(v):
         return [0.0]
     raw = re.sub(r"^(fewer|less|more) than |^over |^about |^around |^approximately ", "", raw)
     raw = re.sub(r"^(us\$|ec\$|xcd\$|hk\$|a\$|c\$|\$|\u20ac|\u00a3|usd|eur|hkd)\s*", "", raw)  # $ 34,348,255.50
+    raw = re.sub(r"\s*(\u20ac|eur|usd|\$)$", "", raw)  # trailing currency: 23.165,10 €
     raw = raw.replace("'", "").replace("\u2019", "").rstrip("+")  # 5'003 (Swiss), 119+
     t = re.sub(r"\s", "", raw).rstrip("%")
     for k, f in FRACTIONS.items():
