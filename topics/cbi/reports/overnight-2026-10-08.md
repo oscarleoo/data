@@ -475,3 +475,14 @@ says what was done to it.
   awards on the same page (20% and 30%) were also separated.
 - merge.py (both topics) now prints a warning whenever two different rows would get the same id.
   Observations were checked for every pass tonight: every inbox row is in the data.
+
+### International documents, batch 2 (pass `extract-cbi-intl2`)
+- 20 documents reviewed (EU visa-waiver acts, European Parliament resolution 2022, EPRS studies 2018
+  and 2021): 18 complete, 2 partial.
+- Added 109 numbers, 76 rules, 5 events: Cyprus 6,779 passports 2007-2020; Vanuatu 2023 applications
+  from China (519) and Russia (237); programme shares of permits and naturalisations by country; shares
+  of GDP (Malta 4.3%, St Kitts 35-40%); rejection rates; minimum investments copied by the studies.
+- Partial: the 2018 study's Table 4 prints amounts without decimal points ("52 41"; confirmed on the page
+  image, not guessed); the 2021 study's charts have no printed values.
+- **Decisions needed:** 6 new indicators (incl. processing time in days); whether to keep minimum
+  investments the studies copy from other sources (some differ from the laws, e.g. Gozo EUR 250,000 vs 220,000).
