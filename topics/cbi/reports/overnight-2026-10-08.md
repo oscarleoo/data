@@ -1042,3 +1042,9 @@ corrections held in inbox files (whistleblowing US batch 10); CFTC collision fix
 no count per nationality. The nationality rows from `extract-cbi-egy1` are therefore tallies of entries, not
 printed figures. That is close to "calculated". Keep them (with a note), or drop them and keep only the decree
 totals?
+
+### Whistleblowing: US batches 13-15 (SEC award orders)
+- 60 orders reviewed: all complete. Added 33 cases (denied claimants; two awards to second claimants).
+- 145 suggested corrections held in the inbox files (not applied). Several fix real errors in existing rows:
+  amounts or percentages recorded as missing that the orders print (93274 ~$100,000; 92621 ~$3.5m; 93016 30%),
+  "over" where the order says "approximately" (91903), and two rows that combine two claimants' awards.
