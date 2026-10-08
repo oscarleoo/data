@@ -900,3 +900,12 @@ says what was done to it.
 - Arabic quotes from the 2018 resolution were retyped from a garbled text layer: flagged for the second reading.
 - **Decision needed:** add programmes for the 5-year green residence, retiree residence (AED 1m) and
   property-owner residence (the reason two documents are partial)?
+
+### Cayman Islands and Bermuda (passes `extract-cbi-cym1`, `extract-cbi-bmu1`)
+- Cayman: 10 documents, all complete. 47 rules and fees, 10 events: residency certificate thresholds,
+  deposits, quotas (250 a year), validity, fees 2012-2026, the 2025 amendment (10-year permanent certificate).
+  No document gives counts of certificates.
+- Bermuda: 10 documents, 9 complete, 1 partial. 5 numbers, 9 rules, 1 event: expressions of interest, pipeline
+  investment, processing time, holding periods; the yearly investment tables (2023-2025) add up.
+- **Decisions needed:** a Bermuda 2021 statement says "$14.3 injected" with no "million" (left out); bare "$"
+  recorded as Bermuda dollars like the older rows (data model says "unspecified").
