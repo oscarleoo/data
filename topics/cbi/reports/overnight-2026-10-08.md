@@ -762,3 +762,13 @@ says what was done to it.
   investments over time ($1.8m/$900k under the 2019 rule, struck down June 2021; $1,050,000/$800,000 from 2022);
   visa set-asides; Integrity Fund fees; Zhang class certification; 2025 fee schedule.
 - United States now: all 90 stored US documents reviewed (89 complete, 1 partial; checked in the ledger).
+
+### Australia, batch 2 (pass `extract-cbi-aus2`)
+- 12 documents reviewed (migration programme reports 2014-15 to 2024-25, 2023 Review of the Migration System,
+  LIN 21/041 statement): all complete.
+- Added 275 numbers, 10 rules, 3 events: business and investor programme applications, places granted, pending,
+  grant and refusal rates; places by state and by stream; the review's census charts and Treasury's lifetime
+  fiscal impact per business/investor migrant (-$80k); 2021 investment rules; Ministerial Direction 114 (2025).
+- **Worth a look:** chart values in the review were matched to bars by position and label colour (flagged for
+  the second reading); two review charts conflict (72% vs 42% labour force participation).
+- Australia now: all 34 stored Australian documents reviewed (checked in the ledger).

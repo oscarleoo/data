@@ -107,13 +107,34 @@ ATG,atg-cbi,passports_issued,2016,persons,116,1,116.0,actual,atg-ciu-6m-2024h1,"
 ATG,atg-cbi,passports_issued,2016,persons,314,1,314.0,actual,atg-ciu-6m-2017h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2018-01-05,88.6,revision,o-b81f438676
 ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2016h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2017-01-13,88.6,revision,o-02a5d29e29
 ATG,atg-cbi,passports_issued,2016,persons,1016,1,1016.0,actual,atg-ciu-6m-2019h2,"Citizenship by Investment Unit (CIU), Government of Antigua and Barbuda",2020-01-17,88.6,revision,o-82b6dd72fc
+AUS,aus-biip,applications_grant_rate,FY2017/18,percent,73.3,1,73.3,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,15.4,revision,o-2c2be26c0b
+AUS,aus-biip,applications_grant_rate,FY2017/18,percent,86.6,1,86.6,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.4,revision,o-fd7ef6f98a
+AUS,aus-biip,applications_grant_rate,FY2017/18,percent,86.6,1,86.6,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,15.4,revision,o-8fb862fb8b
+AUS,aus-biip,applications_grant_rate,FY2018/19,percent,71.1,1,71.1,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,15.9,revision,o-80a58655d0
+AUS,aus-biip,applications_grant_rate,FY2018/19,percent,71.1,1,71.1,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,15.9,revision,o-8e6747574a
+AUS,aus-biip,applications_grant_rate,FY2018/19,percent,84.5,1,84.5,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.9,revision,o-f52522dcbc
+AUS,aus-biip,applications_grant_rate,FY2018/19,percent,84.5,1,84.5,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,15.9,revision,o-aee0e2e6fe
+AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,21.5,revision,o-0e7bbd9cfd
+AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,21.5,revision,o-37652692ef
+AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dha-mp-report-2022-23,Department of Home Affairs (Australia),2023,21.5,revision,o-828bd888bc
+AUS,aus-biip,applications_grant_rate,FY2019/20,percent,82.2,1,82.2,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,21.5,revision,o-c475c2983f
 AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10321,1,10321.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.2,revision,o-4ede003b68
 AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10451,1,10451.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.2,revision,o-b5179c1968
+AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,1.1,revision,o-bacdbf2f47
+AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.1,revision,o-af8b9d5c39
+AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.1,revision,o-72720fcf03
+AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.1,revision,o-c24afa3517
 AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.0,revision,o-221ba9249d
+AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.0,revision,o-24e96051c7
+AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,1.0,revision,o-9a2017d6b5
 AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23223,1,23223.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.0,revision,o-40c05b0b6a
 AUS,aus-biip,applications_received,FY2014/15,persons,12107,1,12107.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.0,revision,o-65ca02680e
 AUS,aus-biip,applications_received,FY2014/15,persons,12225,1,12225.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.0,revision,o-d6a7309cc9
+AUS,aus-biip,applications_received,FY2016/17,persons,15076,1,15076.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,5.1,revision,o-07292db282
+AUS,aus-biip,applications_received,FY2016/17,persons,15888,1,15888.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,5.1,revision,o-fc23f6c260
 AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.2,revision,o-1ad8f7abff
+AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,15.2,revision,o-5b65b61cc4
+AUS,aus-biip,applications_received,FY2017/18,persons,14259,1,14259.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,15.2,revision,o-436c4ca85b
 AUS,aus-biip,applications_received,FY2017/18,persons,16816,1,16816.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,15.2,revision,o-604605b2e7
 AUS,aus-biip,applications_received [route=investor;category=nominator_NSW],FY2018/19,applications,202,1,202.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,5.2,revision,o-d4175dbe7a
 AUS,aus-biip,applications_received [route=investor;category=nominator_NSW],FY2018/19,applications,213,1,213.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,5.2,revision,o-5be886f3ae
@@ -125,6 +146,17 @@ AUS,aus-biip,applications_received [route=investor;category=nominator_VIC],FY201
 AUS,aus-biip,applications_received [route=investor;category=nominator_VIC],FY2018/19,applications,414,1,414.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,8.5,revision,o-7cd4423a7d
 AUS,aus-biip,applications_received [route=investor;category=nominator_WA],FY2018/19,applications,42,1,42.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,12.5,revision,o-2af7acabd8
 AUS,aus-biip,applications_received [route=investor;category=nominator_WA],FY2018/19,applications,48,1,48.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,12.5,revision,o-b293a5f408
+AUS,aus-biip,cbi_rejection_rate,FY2017/18,percent,11.3,1,11.3,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,15.7,revision,o-4a8c5eb6e8
+AUS,aus-biip,cbi_rejection_rate,FY2017/18,percent,13.4,1,13.4,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,15.7,revision,o-d2dc10f5e9
+AUS,aus-biip,cbi_rejection_rate,FY2017/18,percent,13.4,1,13.4,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,15.7,revision,o-1f42ba7687
+AUS,aus-biip,cbi_rejection_rate,FY2018/19,percent,13.0,1,13.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,16.1,revision,o-9805aa30d9
+AUS,aus-biip,cbi_rejection_rate,FY2018/19,percent,13.0,1,13.0,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,16.1,revision,o-c71b640fad
+AUS,aus-biip,cbi_rejection_rate,FY2018/19,percent,15.5,1,15.5,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,16.1,revision,o-0d27417f1b
+AUS,aus-biip,cbi_rejection_rate,FY2018/19,percent,15.5,1,15.5,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,16.1,revision,o-26592f082c
+AUS,aus-biip,cbi_rejection_rate,FY2019/20,percent,13.9,1,13.9,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,21.9,revision,o-fb76344064
+AUS,aus-biip,cbi_rejection_rate,FY2019/20,percent,13.9,1,13.9,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,21.9,revision,o-1386f1cf21
+AUS,aus-biip,cbi_rejection_rate,FY2019/20,percent,13.9,1,13.9,actual,aus-dha-mp-report-2022-23,Department of Home Affairs (Australia),2023,21.9,revision,o-99931c6575
+AUS,aus-biip,cbi_rejection_rate,FY2019/20,percent,17.8,1,17.8,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,21.9,revision,o-23aaac74c9
 AUS,aus-biip,main_applicants_approved [route=business_innovation],FY2013/14,persons,444,1,444.0,actual,aus-dha-foi-160600956-2016,Department of Home Affairs (Freedom of Information disclosure log),2016,0.2,revision,o-9561c12c54
 AUS,aus-biip,main_applicants_approved [route=business_innovation],FY2013/14,persons,445,1,445.0,actual,aus-dha-foi-170600834-2017,Department of Home Affairs (Freedom of Information disclosure log),2017,0.2,revision,o-d293519359
 AUS,aus-biip,main_applicants_approved [route=business_innovation],FY2018/19,persons,1118,1,1118.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,0.5,conflict,o-e6ddafe3ff
@@ -185,6 +217,8 @@ AUS,aus-biip,main_applicants_approved [route=investor],FY2018/19,persons,329,1,3
 AUS,aus-biip,main_applicants_approved [route=investor],FY2018/19,persons,341,1,341.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,3.5,conflict,o-9cdcdd44e7
 AUS,aus-biip,main_applicants_approved [route=significant_business_history],FY2018/19,persons,381,1,381.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,10.6,conflict,o-445faea9cd
 AUS,aus-biip,main_applicants_approved [route=significant_business_history],FY2018/19,persons,426,1,426.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,10.6,conflict,o-1d8e7128a2
+AUS,aus-biip,residence_permits_issued [route=state_territory_sponsored_business_skills],FY2017/18,persons,26,1,26.0,actual,aus-dha-bp0068-2025,Department of Home Affairs (Australia),2025,97.5,revision,o-f665a618c4
+AUS,aus-biip,residence_permits_issued [route=state_territory_sponsored_business_skills],FY2017/18,persons,1055,1,1055.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,97.5,revision,o-f604ece903
 AUS,aus-siv,applications_received [category=nominator_NSW],FY2018/19,applications,175,1,175.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,45.8,revision,o-c3126495cd
 AUS,aus-siv,applications_received [category=nominator_NSW],FY2018/19,applications,323,1,323.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,45.8,revision,o-120742dbd3
 AUS,aus-siv,applications_received [category=nominator_QLD],FY2018/19,applications,21,1,21.0,actual,aus-dha-foi-200500111-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,50.0,revision,o-75fec32f24
