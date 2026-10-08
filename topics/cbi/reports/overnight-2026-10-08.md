@@ -433,4 +433,4 @@ says what was done to it.
   raw-sugar exports 2008-2017 and 2022.
 - **Correction needed:** an existing event attributes the January-June 2023 US$125,000 price to a
   news article that doesn't say it; it comes from the CIU head's December 2022 address.
-- St Kitts now: see the ledger for the remaining St Kitts documents.
+- St Kitts now: all 61 stored St Kitts documents reviewed (49 complete, 12 partial; checked in the ledger).
