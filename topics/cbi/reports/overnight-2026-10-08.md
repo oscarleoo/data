@@ -683,3 +683,13 @@ says what was done to it.
 - Partial (BP0068): non-investor business streams have only totals; cross-splits beyond citizenship left.
 - **Decisions needed:** 6 new indicators; bare "$" recorded as unspecified while older rows from the same
   documents say AUD; a wrong description of FOI FA 20/12/01057 in the sources table.
+
+### Whistleblowing: Korea, batch 3 (pass `extract-whistleblowing-kor3`)
+- 15 documents reviewed (enforcement decrees of the anti-corruption, public-interest whistleblower and
+  public-funds recovery laws, 2005-2026): all complete.
+- Added 41 rules, 10 events: award and reward caps over time (KRW 50m, 100m, 200m, 500m, 3bn, cap removed
+  2024), minimum rewards, rate scales, up-front payment shares, relief money rules, reporting through a lawyer.
+- Korea now: all stored Korean whistleblowing documents reviewed (see ledger counts in the summary).
+- **Decisions needed:** each rule recorded once from the version that introduced it (strict "two sources,
+  two rows" would add about 150 near-identical rows); 7 new rule types; the 2014 annual report's description
+  of the 2 September 2014 change conflicts with the decree text; rule r-8ebdd004b6 could get an end date.
