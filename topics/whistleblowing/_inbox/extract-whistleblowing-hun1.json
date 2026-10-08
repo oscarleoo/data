@@ -1,0 +1,307 @@
+{
+ "slug": "extract-whistleblowing-hun1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass on the Hungarian Competition Authority (GVH) informant-reward FAQ page and its annual reports to Parliament for 2010 and 2012-2016. The reports give only a few programme numbers a year (enquiries, admitted applications); most were already in the data. Added the 2010 split of enquiries, 2011 enquiries, 2016 proceedings prepared from the reward and Kartell Chat, and the FAQ procedural rules.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "tips_share",
+   "breakdown": "item=not_cartel",
+   "period": "2010",
+   "period_basis": "calendar_year",
+   "value": "50",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2010",
+   "location": "PDF p. 7 (printed p. 5), section on cartels, paragraph on the informant reward (not_cartel)",
+   "quote": "a jelzések 50%-ában a közölt információk nem kartell",
+   "notes": "Share of the about 20 private persons who came forward in 2010 claiming information on a cartel (tips_received 2010 already in the data). The three shares add up to 100%. The 10% are cases where the reward application was admitted (\"az informátori díjra vonatkozó kérelem befogadásra került\"); the report gives no count of admitted applications."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "tips_share",
+   "breakdown": "item=cartel_not_meeting_requirements",
+   "period": "2010",
+   "period_basis": "calendar_year",
+   "value": "40",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2010",
+   "location": "PDF p. 7 (printed p. 5), section on cartels, paragraph on the informant reward (cartel_not_meeting_requirements)",
+   "quote": "Az esetek 40%-ában az információk kartellre utaltak ugyan, de nem feleltek meg",
+   "notes": "Share of the about 20 private persons who came forward in 2010 claiming information on a cartel (tips_received 2010 already in the data). The three shares add up to 100%. The 10% are cases where the reward application was admitted (\"az informátori díjra vonatkozó kérelem befogadásra került\"); the report gives no count of admitted applications."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "tips_share",
+   "breakdown": "item=application_admitted",
+   "period": "2010",
+   "period_basis": "calendar_year",
+   "value": "10",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2010",
+   "location": "PDF p. 7 (printed p. 5), section on cartels, paragraph on the informant reward (application_admitted)",
+   "quote": "Az esetek fennmaradó 10%-ában az átadott infor-",
+   "notes": "Share of the about 20 private persons who came forward in 2010 claiming information on a cartel (tips_received 2010 already in the data). The three shares add up to 100%. The 10% are cases where the reward application was admitted (\"az informátori díjra vonatkozó kérelem befogadásra került\"); the report gives no count of admitted applications."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "tips_received",
+   "breakdown": "",
+   "period": "2011",
+   "period_basis": "calendar_year",
+   "value": "20",
+   "value_high": "",
+   "unit": "tips",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2012",
+   "location": "PDF p. 9 (printed p. 7), executive summary, cartel paragraph",
+   "quote": "2011-hez hasonlóan, az elmúlt évben is közel 20 informátori megkeresés érkezett a Hivatalhoz",
+   "notes": "The 2012 report says that in 2012, as in 2011, nearly (\"közel\") 20 informant inquiries arrived; this row is the 2011 figure the sentence implies (\"is\" = also). Rounded. The 2012 row from the same sentence is already in the data. Worth a check by the main session that this reading is acceptable."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "investigations_opened",
+   "breakdown": "item=informant_reward",
+   "period": "2016",
+   "period_basis": "calendar_year",
+   "value": "1",
+   "value_high": "",
+   "unit": "proceedings",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2016",
+   "location": "PDF p. 12, section on restrictive agreements, right column",
+   "quote": "az informátori díj eredményeként 1 eljárás",
+   "notes": "Full sentence: \"A Kartell Chat eredményeként 2, az informátori díj eredményeként 1 eljárásindítás volt előkészíthető\" (2 proceedings could be prepared as a result of Kartell Chat, 1 as a result of the informant reward). \"Prepared\", not necessarily opened in 2016. Quote spans a soft hyphen in \"eljárás‑indítás\". Proposed new indicator."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "investigations_opened",
+   "breakdown": "item=kartell_chat",
+   "period": "2016",
+   "period_basis": "calendar_year",
+   "value": "2",
+   "value_high": "",
+   "unit": "proceedings",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2016",
+   "location": "PDF p. 12, section on restrictive agreements, right column",
+   "quote": "A Kartell Chat eredményeként",
+   "notes": "\"A Kartell Chat eredményeként 2, az informátori díj eredményeként 1 eljárásindítás volt előkészíthető\": 2 proceedings could be prepared from Kartell Chat contacts. Kartell Chat is the GVH anonymous channel for people asking about cartels, leniency and the informant reward; context for the reward programme, not reward cases. Quote shortened because the line breaks before the number."
+  },
+  {
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "indicator": "enquiries_received",
+   "breakdown": "channel=kartell_chat",
+   "period": "2016",
+   "period_basis": "calendar_year",
+   "value": "20",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hun-gvh-ogy-beszamolo-2016",
+   "location": "PDF p. 100, section on competition culture",
+   "quote": "2016‑ban 20-an regisztráltak",
+   "notes": "Registrations on Kartell Chat, the anonymous channel \"for those asking about cartels, leniency policy and the informant reward\"; not limited to reward claimants. Also on PDF p. 12: \"a Kartell Chat-en regisztrált 20 megkeresés elérte az informátori díjas megkeresések átlagos számát\" (the 20 Kartell Chat contacts matched the average number of informant-reward enquiries; no informant-reward count for 2016 is printed)."
+  }
+ ],
+ "program_rules": [
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "percent",
+   "applies_to": "total fines imposed in the case (fines on all parties added together)",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 11",
+   "quote": "Az informátori díj összege az eljáró versenytanács által az ügyben kiszabott bírság egy százaléka, de legfeljebb ötvenmillió forint.",
+   "notes": "Fixed share: 1% of the fine, capped at HUF 50 million (cap already recorded from this FAQ). Base is all fines in the case: \"A díj alapja az ügyben kiszabott összes bírság\". Page undated (accessed 2026-10-05); valid_from left empty because the page does not give one."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "percent",
+   "applies_to": "total fines imposed in the case (fines on all parties added together)",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 11",
+   "quote": "Az informátori díj összege az eljáró versenytanács által az ügyben kiszabott bírság egy százaléka, de legfeljebb ötvenmillió forint.",
+   "notes": "See award_pct_min: fixed 1%."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5",
+   "unit": "days",
+   "applies_to": "to announce the reward claim after the GVH notifies the person that the evidence may qualify",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 9",
+   "quote": "az erről való értesítéstől számított legkésőbb öt napon belül kell bejelentenie díjigényét, különben nem jár díj a későbbiekben",
+   "notes": "Five days (the source does not say calendar or working days)."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "decision_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "decision on the amount and payment of the reward, counted from the competition council's closing decision",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 10",
+   "quote": "A díj konkrét összegéről és kifizetéséről az eljáró versenytanács az eljárást befejező határozatának meghozatalát követő harminc napon belül dönt.",
+   "notes": "Proposed rule (not in DATA_MODEL list): deadline for deciding the reward."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "payment_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "payment of the reward, counted from the reward order becoming final",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 10",
+   "quote": "A díj a végzés véglegessé válásától számított harminc napon belül esedékes.",
+   "notes": "Proposed rule (not in DATA_MODEL list): deadline for paying the reward."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "tax_exempt",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "personal income tax on the reward",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 11",
+   "quote": "a díjat személyi jövedelemadó-fizetési kötelezettség nem terheli",
+   "notes": "Proposed rule (not in DATA_MODEL list): 1 = reward is free of personal income tax."
+  },
+  {
+   "program_id": "hun-gvh-informant-rewards",
+   "rule": "leniency_applicant_staff_excluded",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "officers, members, supervisory board members, employees or agents of a company that earlier filed a leniency application for the same conduct",
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "location": "FAQ 5 and 6",
+   "quote": "Nem jogosult a díjra annak a vállalkozásnak a vezető tisztségviselője, tagja, felügyelő bizottságának tagja, alkalmazottja vagy megbízottja, amelynek nevében korábban ugyanazon magatartás miatt",
+   "notes": "Proposed rule (not in DATA_MODEL list): eligibility exclusion. FAQ 6 adds that former managers and employees of the leniency applicant are not excluded. Other exclusions in FAQ 5 (evidence obtained by crime or petty offence; no fine imposed, incl. cases taken over by the European Commission; evidence split only to multiply rewards; breach of GVH-ordered cooperation) are described in the ledger contains, not as rows."
+  }
+ ],
+ "cases": [],
+ "events": [
+  {
+   "event_id": "",
+   "date": "2010-03",
+   "date_precision": "month",
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "category": "context",
+   "title": "GVH press conference on the introduction of the informant reward",
+   "description": "At the end of March 2010 the Hungarian Competition Authority held a press conference on the introduction of the informant reward, which took effect on 1 April 2010.",
+   "source_id": "hun-gvh-ogy-beszamolo-2010",
+   "location": "PDF p. 69 (printed p. 67), para 353",
+   "quote": "március végén az informátori díj bevezetésével kapcsolatban"
+  },
+  {
+   "event_id": "",
+   "date": "2015-11-25",
+   "date_precision": "day",
+   "jurisdiction": "HUN",
+   "program_id": "hun-gvh-informant-rewards",
+   "category": "context",
+   "title": "GVH launches Kartell Chat, an anonymous channel for cartel informants",
+   "description": "The Hungarian Competition Authority presented at a press conference its \"Nem marad köztetek\" leniency campaign and the launch of Kartell Chat, a web channel for contacting it anonymously about cartels, leniency and the informant reward (in operation from December 2015).",
+   "source_id": "hun-gvh-ogy-beszamolo-2015",
+   "location": "PDF p. 29, calendar of events, 25 November; PDF p. 10 and p. 103",
+   "quote": "A GVH sajtótájékoztatója az engedékenységi politikát népszerűsítő „Nem marad köztetek” kampány és a Kartell chat indításáról"
+  }
+ ],
+ "programs": [],
+ "new_indicators": [
+  {
+   "indicator": "investigations_opened",
+   "name": "Proceedings opened on whistleblower information",
+   "definition": "Investigations or proceedings an authority opened (or prepared to open) in a period on the basis of information from whistleblowers or informants; breakdown item= says which channel or programme.",
+   "unit_kind": "count",
+   "notes": "proposed by extract-whistleblowing-hun1 (GVH 2016 report: 1 proceeding from the informant reward, 2 from Kartell Chat)."
+  }
+ ],
+ "gaps": [
+  "No GVH report in this batch gives reward amounts paid or the number of rewards paid; 2016 gives no informant-enquiry count."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "hun-gvh-informant-reward-page-2026",
+   "status": "complete",
+   "contains": "GVH web page (undated, current at 2026-10-05): 13 questions and answers on the informant reward under Tpvt. s. 79/A. Covers why rewards are paid; what a hardcore cartel is; which evidence qualifies (indispensable written evidence, or information enabling a court-authorised dawn raid that finds such evidence); who may inform (any natural person); exclusions (staff of a prior leniency applicant, evidence obtained by crime or petty offence, evidence split to multiply rewards, no fine imposed incl. cases taken over by the European Commission, breach of GVH-ordered cooperation); criminal-law context (Criminal Code s. 420: 1-5 years for bid-rigging cartels; immunity only for those reporting first to criminal authorities or under a corporate leniency application: out of scope); contact details (Detection Office, anonymous enquiry and Kartell Chat); procedure (anonymous prior enquiry; 5-day deadline to claim after notification; separate order if evidence unsuitable; preliminary assessments not binding); decision within 30 days of the closing decision and payment due 30 days after the order is final; amount 1% of all fines in the case, max HUF 50 million, free of personal income tax; not reclaimable if a court later cuts the fine unless the evidence proves unlawful through the informant's fault; one reward per person per case, separate rewards for separate people; informant may be heard as a witness and can ask for sealed identity data. No statistics. Anonymous filing of a reward claim is not provided (only anonymous enquiries; identity can be sealed), so no anonymous_filing row. Rules extracted: pct min/max, filing deadline, decision and payment deadlines, tax exemption, leniency-staff exclusion (cap already in data).",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2010",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2010 (96 pp.): competition enforcement (cartels, abuse of dominance, mergers, consumer protection), fines, court review, advocacy, international work, budget and staff. Programme content only on PDF p. 7 (informant reward introduced 1 April 2010: 1% of fine, max HUF 50 million; about 20 private persons came forward vs 2-3 non-complainant signals a year before; 50% not cartel, 40% cartel but not meeting the law's requirements, 10% application admitted), p. 35 (reward mentioned as a detection tool) and p. 69 (press conference end of March 2010). Rule rows, launch event and tips_received 2010 were already in the data; added the three shares and the press-conference event. The 2-3 pre-reward signals a year are not a programme number (before launch) and are left out. Everything else (cartel fines e.g. HUF 9.6 bn in 2010, leniency applications 3) is out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2012",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2012 (126 pp.): enforcement, fines, consumer protection, advocacy, budget. Programme content: PDF p. 9 (nearly 20 informant inquiries in 2012 as in 2011; most did not meet the legal requirements; no details on admitted applications), p. 46 (number of enquiries about the reward unchanged from 2011 but applications actually filed fell, possibly from fear of losing anonymity: words only, no numbers) and p. 47 (informants mentioned alongside an OLAF referral). Added tips_received 2011 (the 2012 row was already in the data). Cartel fines (HUF 1,250 million in 2012), leniency (3 applications) and other activity are out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2013",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2013 (148 pp.). Programme content: PDF p. 10 (2013 talks with about 25-30 potential applicants, one application admitted; first proceeding opened largely on an informant's information closed in 2013, Vj-43/2011 office supplies, eleven companies fined HUF 1,003.6 million, reward payable over HUF 10 million; others failed the indispensability test or withdrew from fear) and p. 53 (office-supplies cartel decided in December 2013; no further reward numbers); p. 7, 16, 19-20, 25 on the new Detection Office (set up 15 April 2013) without reward numbers; p. 101 decision table lists Vj-43/2011 with the HUF 1,003,600,000 fine. All in-scope rows (tips 25-30, 1 admitted, the case) were already in the data; nothing new to add. Rest of the report (other cases, fines, leniency, consumer protection, budget) out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2014",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2014 (122 pp.). Programme content: PDF p. 13 (informant enquiries rose again in 2014 after the 2013 dip; about 20 potential informant enquiries, 2 applications admitted; informant reward said to help detection more than leniency, of which none admitted in 2014) and p. 22 (calendar: 24 January 2014 press conference on the first cartel case with an informant reward payment). All three items were already in the data; nothing new. Rest (fines, other cases, consumer protection, budget) out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2015",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2015 (160 pp.). Programme content: PDF p. 15 (informant-reward enquiries unchanged from the previous year at 20; no new informant application admitted in 2015 because none met the legal conditions), p. 16 (informant reward and leniency both fluctuate), p. 10, 21, 26, 29, 103-104 (Kartell Chat anonymous contact channel introduced in 2015, press conference 25 November 2015, Honorable Mention award). tips_received 2015 and admitted 0 were already in the data; added the Kartell Chat launch as a context event. Leniency (3 admitted), fines and the rest are out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hun-gvh-ogy-beszamolo-2016",
+   "status": "complete",
+   "contains": "GVH annual report to Parliament on 2016 (158 pp.). Programme content: PDF p. 5 and 8 (Kartell Chat a new information source alongside leniency and the informant reward), p. 12 (20 Kartell Chat contacts matched the average number of informant-reward enquiries; 2 proceedings prepared from Kartell Chat, 1 from the informant reward; leniency applications admitted 2), p. 100 (Kartell Chat in operation since December 2015; 20 registered in 2016; Honorable Mention April 2016) and p. 146 (GVH comment on the budget law asking for exceptions for informant-reward payments from the centralised fine account; 2016 Act CXLII: words only). No count of informant-reward enquiries, applications or payments for 2016 is printed. Added proceedings from the reward (1) and Kartell Chat (2) under a proposed indicator, and Kartell Chat registrations (20). Image charts (fines by year) are about general enforcement; out of scope.",
+   "to_do": ""
+  }
+ ]
+}

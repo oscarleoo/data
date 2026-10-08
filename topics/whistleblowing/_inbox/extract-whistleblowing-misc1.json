@@ -1,0 +1,460 @@
+{
+ "slug": "extract-whistleblowing-misc1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass on ten laws, court judgments and web pages from several countries (ECHR Halet judgment, EU Whistleblower Directive in two copies, Slovak Acts 307/2014 and 187/2021, Taiwan corruption-reward regulation in Chinese and English, Australian Treasury review page, Swiss BGE 145 IV 114, Ghana Act 720). None holds programme statistics; added rules and dated events. The Taiwan reward schedule attachment is not stored.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "intl-eu-wb-directive",
+   "rule": "internal_channel_threshold_workers",
+   "valid_from": "2019-12",
+   "valid_to": "",
+   "value": "50",
+   "unit": "workers",
+   "applies_to": "private-sector legal entities that must set up internal reporting channels",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 8(3), OJ L 305 p. 37 (PDF p. 22)",
+   "quote": "Paragraph 1 shall apply to legal entities in the private sector with 50 or more workers.",
+   "notes": "Proposed rule (not in DATA_MODEL list). valid_from left as month of entry into force: the Directive enters into force on the twentieth day after publication (OJ 26.11.2019); the exact date is not printed. Entities with 50-249 workers had until 17 Dec 2023 (Art. 26(2)) and may share resources (Art. 8(6))."
+  },
+  {
+   "program_id": "intl-eu-wb-directive",
+   "rule": "acknowledgment_deadline_days",
+   "valid_from": "2019-12",
+   "valid_to": "",
+   "value": "7",
+   "unit": "days",
+   "applies_to": "acknowledging receipt of a report (internal channels, Art. 9(1)(b); external channels, Art. 11(2)(b))",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 9(1)(b), PDF p. 22",
+   "quote": "acknowledgment of receipt of the report to the reporting person within seven days of that receipt",
+   "notes": "Proposed rule (not in DATA_MODEL list)."
+  },
+  {
+   "program_id": "intl-eu-wb-directive",
+   "rule": "feedback_deadline_months",
+   "valid_from": "2019-12",
+   "valid_to": "",
+   "value": "3",
+   "unit": "months",
+   "applies_to": "feedback to the reporting person on internal reports (from acknowledgment, or from the end of the 7-day period)",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 9(1)(f), PDF p. 23",
+   "quote": "a reasonable timeframe to provide feedback, not exceeding three months from the acknowledgment of receipt",
+   "notes": "Proposed rule. For external reports (Art. 11(2)(d)) the limit is three months, or six months in duly justified cases."
+  },
+  {
+   "program_id": "intl-eu-wb-directive",
+   "rule": "feedback_deadline_months",
+   "valid_from": "2019-12",
+   "valid_to": "",
+   "value": "6",
+   "unit": "months",
+   "applies_to": "feedback on external reports to competent authorities, in duly justified cases (normally three months)",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 11(2)(d), PDF p. 23",
+   "quote": "provide feedback to the reporting person within a reasonable timeframe not exceeding three months, or six months",
+   "notes": "Proposed rule. Upper limit for justified cases."
+  },
+  {
+   "program_id": "svk-msr-rewards",
+   "rule": "conviction_required",
+   "valid_from": "2015-01-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "Ministry of Justice reward: a final decision finding the offender guilty (criminal) or the administrative offence committed",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "§ 9(1), PDF p. 5",
+   "quote": "ak v trestnom konaní nadobudlo právoplatnosť rozhodnutie, ktorým bol páchateľ uznaný vinným zo spáchania trestného činu",
+   "notes": "Proposed rule (not in DATA_MODEL list): 1 = reward only after a final conviction or final administrative decision. Amount weighs the whistleblower's contribution and the property protected or returned (§ 9(5))."
+  },
+  {
+   "program_id": "svk-msr-rewards",
+   "rule": "decision_deadline_days",
+   "valid_from": "2015-01-01",
+   "valid_to": "",
+   "value": "6",
+   "unit": "months",
+   "applies_to": "Ministry decision on a reward request, from its delivery",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "§ 9(6), PDF p. 5",
+   "quote": "Ministerstvo rozhodne o žiadosti o poskytnutie odmeny do šiestich mesiacov odo dňa jej doručenia.",
+   "notes": "Printed as six months (not converted to days). No right to a reward and no court review (§ 9(7))."
+  },
+  {
+   "program_id": "svk-msr-rewards",
+   "rule": "anonymous_filing",
+   "valid_from": "2015-01-01",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "reward request",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "§ 9(4), PDF p. 5",
+   "quote": "Žiadosť podľa odseku 1 obsahuje meno a priezvisko, dátum narodenia a adresu bydliska oznamovateľa",
+   "notes": "The reward request must give name, date of birth and address. Anonymous reports count as \"podnet\" for internal systems (§ 2(1)(d), § 2(3)) but a reward goes only to an identified whistleblower."
+  },
+  {
+   "program_id": "svk-msr-rewards",
+   "rule": "sanctions_threshold",
+   "valid_from": "2015-01-01",
+   "valid_to": "",
+   "value": "50000",
+   "unit": "EUR",
+   "applies_to": "administrative offences: the maximum fine the law allows for the offence must be at least EUR 50,000 for it to count as serious anti-social activity",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "§ 2(1)(c)(3), PDF p. 2",
+   "quote": "správnym deliktom, za ktorý možno uložiť pokutu s hornou hranicou vo výške najmenej 50 000 eur",
+   "notes": "Statutory maximum of the offence, not the sanction actually imposed. Crimes qualify if listed (EU financial interests, procurement, public officials, corruption) or punishable by more than three years (§ 2(1)(c)(1)-(2))."
+  },
+  {
+   "program_id": "svk-msr-rewards",
+   "rule": "employer_fine_max",
+   "valid_from": "2015-01-01",
+   "valid_to": "",
+   "value": "20000",
+   "unit": "EUR",
+   "applies_to": "employer breaching the internal reporting-system and record-keeping duties (§ 11-12), imposed by the labour inspectorate",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "§ 15(1), PDF p. 8",
+   "quote": "inšpektorát práce môže uložiť pokutu do 20 000 eur",
+   "notes": "Act-level rule (protection side of Act 307/2014), filed under the reward programme because Act 307/2014 has no separate protection programme row. Also procedural fines up to EUR 500 (§ 14(1))."
+  },
+  {
+   "program_id": "svk-pmu-cartel-rewards",
+   "rule": "award_cap",
+   "valid_from": "2021-06-01",
+   "valid_to": "",
+   "value": "100000",
+   "unit": "EUR",
+   "applies_to": "per reward (fines paid)",
+   "source_id": "svk-zz-2021-187-competition-act",
+   "location": "§ 53(4), PDF p. 32",
+   "quote": "Odmena pre oznamovateľa je 1 % zo súčtu pokút uložených všetkým účastníkom dohody obmedzujúcej súťaž v rozhodnutí úradu, najviac však 100 000 eur",
+   "notes": "Main cap. If a court changes the fine, the changed fine is the base. The 50% / EUR 10,000 rule when fines are not paid is already in the data."
+  },
+  {
+   "program_id": "svk-pmu-cartel-rewards",
+   "rule": "award_partial_payment_pct",
+   "valid_from": "2021-06-01",
+   "valid_to": "",
+   "value": "50",
+   "unit": "percent",
+   "applies_to": "fines not paid within 100 days of the decision becoming enforceable (or of the final court judgment upholding or reducing them): the whistleblower gets 50% of the reward, max EUR 10,000",
+   "source_id": "svk-zz-2021-187-competition-act",
+   "location": "§ 53(4), PDF p. 32",
+   "quote": "oznamovateľovi patrí 50 % odmeny",
+   "notes": "Same sentence sets the EUR 10,000 cap already in the data (award_cap 10000, applies_to fines not paid)."
+  },
+  {
+   "program_id": "svk-pmu-cartel-rewards",
+   "rule": "leniency_applicant_staff_excluded",
+   "valid_from": "2021-06-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "entrepreneurs, and employees of a leniency applicant that applied before the informant gave the evidence",
+   "source_id": "svk-zz-2021-187-competition-act",
+   "location": "§ 53(2), PDF p. 32",
+   "quote": "Oznamovateľom podľa odseku 1 nie je fyzická osoba, ktorá je podnikateľom, zamestnanec žiadateľa o neuloženie pokuty alebo zamestnanec žiadateľa o zníženie pokuty podľa § 51",
+   "notes": "Proposed rule (not in DATA_MODEL list): eligibility exclusion. Only the first natural person to deliver decisive evidence qualifies (§ 53(1))."
+  },
+  {
+   "program_id": "svk-pmu-cartel-rewards",
+   "rule": "anonymous_filing",
+   "valid_from": "2021-06-01",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "reward: identity protected on request, not anonymous",
+   "source_id": "svk-zz-2021-187-competition-act",
+   "location": "§ 53(7), PDF p. 33",
+   "quote": "Úrad chráni identitu oznamovateľa, ak o to oznamovateľ požiada.",
+   "notes": "The Office protects the informant's identity on request; the law does not provide for an anonymous reward claim (a claim must be requested by the informant, § 53(3)). Reward decisions are not published (§ 53(6)) and cannot be appealed by \"rozklad\" (§ 27(7)(c), PDF p. 20). Check whether 0 is the right reading."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "conviction_required",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "corruption rewards: one third after a court conviction, the rest after the conviction becomes final",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 7(1)",
+   "quote": "檢舉貪污瀆職案件，經法院判決有罪者，依附表之標準給與獎金三分之一，經法院判決有罪確定後，給與其餘獎金。",
+   "notes": "Proposed rule (not in DATA_MODEL list). Amounts by sentence length are in the schedule (附表), which is not stored."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "award_partial_payment_share",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "thirds",
+   "applies_to": "share of the scheduled reward paid after a first-instance (non-final) conviction; the rest after the conviction is final",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 7(1)",
+   "quote": "依附表之標準給與獎金三分之一",
+   "notes": "Proposed rule: printed as one third (三分之一); recorded as 1 with unit thirds, not converted to a percentage."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "award_reduced_share",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "tenths",
+   "applies_to": "reward when the reported facts differ from the judgment but the review committee finds the report directly and importantly helped uncover the case and the conviction is final",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 7(2)",
+   "quote": "得依附表之標準給與十分之一獎金",
+   "notes": "Proposed rule: printed as one tenth (十分之一) of the scheduled reward."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "award_increase_share",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "1",
+   "unit": "halves",
+   "applies_to": "extra reward when more than five offenders in the same case are finally convicted (total capped at NT$10 million)",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 5",
+   "quote": "經法院判決有罪確定逾五人者，增給二分之一獎金",
+   "notes": "Proposed rule: printed as one half (二分之一) extra. The NT$10 million cap is already in the data."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "tax_exempt",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "tax on the reward",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 7(3)",
+   "quote": "檢舉獎金於扣除應繳稅額後給與之。",
+   "notes": "Proposed rule: 0 = paid after deducting tax due. The official English translation renders this as \"a net prize without tax payable\"; the Chinese text prevails."
+  },
+  {
+   "program_id": "twn-moj-corruption-rewards",
+   "rule": "discretionary",
+   "valid_from": "2019-02-01",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "rewards for reports made before the corruption was discovered, once conditions are met",
+   "source_id": "twn-moj-reward-regulation-2019",
+   "location": "Art. 3 and 8(1)",
+   "quote": "依本辦法規定核給檢舉獎金",
+   "notes": "The receiving agency grants the reward without waiting for the informant's request (Art. 8(1)); a Ministry of Justice review committee checks it. Distribution among several informants of different facts is at the committee's discretion (Art. 6(2)(3))."
+  },
+  {
+   "program_id": "gha-whistleblower-fund",
+   "rule": "discretionary",
+   "valid_from": "2006-10-16",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "rewards on conviction (s. 23) and on recovery of money (s. 24)",
+   "source_id": "gha-parliament-act720-2006",
+   "location": "ss. 23-24, PDF p. 11",
+   "quote": "shall be rewarded with money from the",
+   "notes": "\"Shall be rewarded\": mandatory. The amount on recovery is 10% or an amount the Attorney-General sets with the Inspector-General of Police (s. 24(b)); s. 23 sets no amount. The Commission on Human Rights and Administrative Justice may also order a reward from the Fund in a victimisation case (s. 14(4))."
+  },
+  {
+   "program_id": "gha-whistleblower-fund",
+   "rule": "conviction_required",
+   "valid_from": "2006-10-16",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "reward on conviction (s. 23): disclosure must lead to arrest and conviction; the recovery route (s. 24) needs recovery of money instead",
+   "source_id": "gha-parliament-act720-2006",
+   "location": "s. 23, PDF p. 11",
+   "quote": "A whistleb10wer who makes a disclosure that leads to the arrest and conviction of an accused person",
+   "notes": "Proposed rule (not in DATA_MODEL list). Quote keeps the OCR-like \"whistleb10wer\" spelling of the stored copy."
+  },
+  {
+   "program_id": "gha-whistleblower-fund",
+   "rule": "investigation_deadline_days",
+   "valid_from": "2006-10-16",
+   "valid_to": "",
+   "value": "60",
+   "unit": "days",
+   "applies_to": "investigation of a disclosure, from receipt of the disclosure or of the directive to investigate",
+   "source_id": "gha-parliament-act720-2006",
+   "location": "s. 8(3), PDF p. 7",
+   "quote": "sixty days of receipt of the disclosure",
+   "notes": "Proposed rule (not in DATA_MODEL list). Delays must be reported to the Attorney-General (s. 10(2)). Disclosures go to the Attorney-General within seven working days (ss. 7, 8(1))."
+  },
+  {
+   "program_id": "gha-whistleblower-fund",
+   "rule": "confidentiality_breach_fine_max",
+   "valid_from": "2006-10-16",
+   "valid_to": "",
+   "value": "1000",
+   "unit": "penalty units",
+   "applies_to": "person receiving a disclosure who fails to keep it confidential (alternatively or also 2 to 4 years' imprisonment); minimum 500 penalty units",
+   "source_id": "gha-parliament-act720-2006",
+   "location": "s. 6(3), PDF p. 6",
+   "quote": "not less than five hundred penalty units and not more than one thousand penalty units",
+   "notes": "Proposed rule (not in DATA_MODEL list). Concealing evidence during an investigation: 2 to 5 years' imprisonment (s. 8(4))."
+  }
+ ],
+ "cases": [],
+ "events": [
+  {
+   "event_id": "",
+   "date": "2014-11-05",
+   "date_precision": "day",
+   "jurisdiction": "LUX",
+   "program_id": "",
+   "category": "scandal",
+   "title": "LuxLeaks: ICIJ publishes PwC Luxembourg tax rulings and returns",
+   "description": "On 5 and 6 November 2014 the International Consortium of Investigative Journalists posted online sixteen PwC documents (tax returns) passed on by Raphaël Halet, in what it called \"Luxembourg Leaks\".",
+   "source_id": "intl-echr-halet-gc-2023",
+   "location": "para 15, PDF p. 8",
+   "quote": "On 5 and 6 November 2014, the sixteen documents were posted online by an association of journalists known as the International Consortium of Investigative Journalists (ICIJ)."
+  },
+  {
+   "event_id": "",
+   "date": "2017-03-15",
+   "date_precision": "day",
+   "jurisdiction": "LUX",
+   "program_id": "",
+   "category": "legal",
+   "title": "LuxLeaks: Luxembourg Court of Appeal judgment",
+   "description": "The Court of Appeal accepted the whistleblower defence for A.D. (Antoine Deltour) on handing documents to the journalist (prison term cut to six months suspended, EUR 1,500 fine kept) but not for Raphaël Halet, whose prison sentence it dropped while upholding a EUR 1,000 fine; both owed PwC a symbolic one euro.",
+   "source_id": "intl-echr-halet-gc-2023",
+   "location": "paras 24 and 38-40, PDF p. 11-14",
+   "quote": "In a judgment of 15 March 2017, the Court of Appeal of the Grand Duchy of Luxembourg"
+  },
+  {
+   "event_id": "",
+   "date": "2021-05-11",
+   "date_precision": "day",
+   "jurisdiction": "INTL",
+   "program_id": "",
+   "category": "legal",
+   "title": "ECHR Chamber finds no violation in Halet v. Luxembourg",
+   "description": "A Chamber of the European Court of Human Rights held, by five votes to two, that Halet's conviction did not violate Article 10; the case was referred to the Grand Chamber on 6 September 2021.",
+   "source_id": "intl-echr-halet-gc-2023",
+   "location": "paras 5 and 63, PDF p. 4 and 32",
+   "quote": "by five votes to two, that there had been no violation of Article 10 of the Convention"
+  },
+  {
+   "event_id": "",
+   "date": "2021-12-17",
+   "date_precision": "day",
+   "jurisdiction": "INTL",
+   "program_id": "intl-eu-wb-directive",
+   "category": "rule_change",
+   "title": "Deadline for EU member states to transpose the Whistleblower Directive",
+   "description": "Member states had to bring into force the laws needed to comply with Directive (EU) 2019/1937 by 17 December 2021 (17 December 2023 for internal channels in private entities with 50 to 249 workers).",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 26(1)-(2), OJ L 305 p. 45-46 (PDF p. 29)",
+   "quote": "this Directive by 17 December 2021."
+  },
+  {
+   "event_id": "",
+   "date": "2023-12-17",
+   "date_precision": "day",
+   "jurisdiction": "INTL",
+   "program_id": "intl-eu-wb-directive",
+   "category": "rule_change",
+   "title": "EU Whistleblower Directive: deadline for internal channels in mid-sized firms",
+   "description": "Deadline for member states to apply the internal-reporting-channel obligation to private entities with 50 to 249 workers; also the date by which the Commission was to report on implementation (Art. 27(1)).",
+   "source_id": "intl-eu-directive-2019-1937",
+   "location": "Art. 26(2) and 27(1), PDF p. 29",
+   "quote": "Member States shall by 17 December 2023 bring into force"
+  },
+  {
+   "event_id": "",
+   "date": "2014-10-16",
+   "date_precision": "day",
+   "jurisdiction": "SVK",
+   "program_id": "svk-msr-rewards",
+   "category": "legal",
+   "title": "Slovakia adopts Act 307/2014 on reporting anti-social activity (whistleblower rewards)",
+   "description": "The National Council adopts Act No. 307/2014: protection of whistleblowers via labour-inspectorate consent, internal reporting systems for employers with 50 or more staff and public bodies, and Ministry of Justice rewards of up to 50 times the minimum wage after a final conviction. In force 1 January 2015.",
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "location": "title page, PDF p. 1",
+   "quote": "zo 16. októbra 2014"
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "Taiwan reward schedule (附表) by sentence length not stored.",
+  "Ghana Act 720 copy lacks sections 26-32."
+ ],
+ "leads": [
+  "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070003 (attachment 附表：貪污瀆職案件檢舉獎金給獎標準)"
+ ],
+ "ledger": [
+  {
+   "source_id": "intl-echr-halet-gc-2023",
+   "status": "complete",
+   "contains": "ECHR Grand Chamber judgment Halet v. Luxembourg (14 Feb 2023, 82 pp., incl. dissenting opinions): LuxLeaks facts (PwC tax rulings and returns, ICIJ publication Nov 2014, PwC settlement of 2 Dec 2014 limiting its claim to one euro with a EUR 10 million mortgage on Halet's assets), Luxembourg criminal proceedings (2016 first instance: A.D. 12 months suspended + EUR 1,500, Halet 9 months suspended + EUR 1,000; 2017 appeal; 2018 cassation), domestic law penalty ranges, international and EU law (Directive 2019/1937, CoE Recommendation CM/Rec(2014)7), third-party submissions, the Court's whistleblower criteria, operative part (violation 12-5; EUR 15,000 non-pecuniary damage and EUR 40,000 costs; claims of EUR 51,159 and EUR 26,150 in costs). No reward programme or programme statistics. The two cases (Deltour, Halet) and three events were already in the data; added the ICIJ publication, the 2017 appeal judgment and the 2021 Chamber judgment as events. Tax amounts discussed in LuxLeaks reporting (e.g. EUR 198 million arrears) and criminal penalty ranges are context, not programme numbers.",
+   "to_do": ""
+  },
+  {
+   "source_id": "intl-eu-directive-2019-1937",
+   "status": "complete",
+   "contains": "Directive (EU) 2019/1937 of 23 Oct 2019 on the protection of persons who report breaches of Union law, OJ L 305 of 26.11.2019 (40 pp.): 110 recitals and 29 articles on scope, conditions for protection, internal and external reporting channels and deadlines (acknowledgment within 7 days, feedback within 3 months, or 6 for external reports in justified cases), public disclosure, confidentiality, anonymous reports left to member states (Art. 6(2)), ban on retaliation, support and protection measures, penalties (Art. 23), transposition (17 Dec 2021; 17 Dec 2023 for 50-249 workers), Commission reports (17 Dec 2023 and 17 Dec 2025), member-state annual statistics (Art. 27(2)), annex of Union acts. No reward scheme: recital 30 excludes registered informants who report to enforcement authorities in return for reward or compensation. No statistics. Adoption event already in the data; added channel threshold, acknowledgment and feedback deadlines (proposed rules) and the two transposition deadlines as events. The EUR-Lex HTML copy (euu-eurlex-directive-2019-1937) is the same text and is not extracted again.",
+   "to_do": ""
+  },
+  {
+   "source_id": "euu-eurlex-directive-2019-1937",
+   "status": "complete",
+   "contains": "EUR-Lex HTML copy of Directive (EU) 2019/1937 (same text as intl-eu-directive-2019-1937, the OJ PDF). Not extracted a second time: rules and events from the Directive were taken once, from the PDF copy, in this pass; the adoption event from this copy was already in the data.",
+   "to_do": ""
+  },
+  {
+   "source_id": "svk-zz-2014-307-whistleblower-act",
+   "status": "complete",
+   "contains": "Slovak Act No. 307/2014 of 16 Oct 2014 (version in force 1 Jan 2015-30 Jun 2016, 21 pp.): definitions (serious anti-social activity: listed crimes, crimes punishable by over 3 years, administrative offences with a maximum fine of at least EUR 50,000); protection in criminal and administrative proceedings (labour inspectorate consent for labour-law acts against a protected whistleblower, decision within 30 days); end of protection; § 9-10 Ministry of Justice reward up to 50 times the minimum wage after a final decision, request within 6 months, decision within 6 months, no legal right and no court review; internal reporting systems for employers with 50+ staff and public bodies (review within 90 days, +30; reply within 10 days; records kept 3 years); suspension of labour-law acts (request within 7 days, 14-day suspension); procedural fines up to EUR 500 and administrative fines up to EUR 20,000; legal aid; prevention and education; transitional rules; amendments to other acts (Labour Code, Criminal Procedure Code, civil service, legal aid, labour inspection, schools). No statistics. Cap, discretionary flag, filing deadline and launch were already in the data; added conviction requirement, decision deadline, no anonymous request, the EUR 50,000 offence threshold, the employer fine cap and the adoption event.",
+   "to_do": ""
+  },
+  {
+   "source_id": "svk-zz-2021-187-competition-act",
+   "status": "complete",
+   "contains": "Slovak Act No. 187/2021 on the protection of competition (version 1 Jun 2021-29 Feb 2024, 46 pp.): prohibited agreements, dominance, mergers, procedure, inspections, fines (up to 10% of turnover), leniency (§ 51), settlement, § 53 reward for the first natural person to deliver decisive evidence of a horizontal agreement: entitlement on request once the decision is final and the fine paid (or after court review); 1% of all fines, max EUR 100,000; 50% (max EUR 10,000) if fines unpaid within 100 days; entrepreneurs and staff of earlier leniency applicants excluded; reward decision not published, no appeal; identity protected on request; Act 54/2019 does not apply; amendments to other acts; in force 1 Jun 2021. No statistics. Rate, unpaid-fine cap, entitlement flag and entry-into-force event were already in the data; added the EUR 100,000 cap, the 50% partial rule, the exclusion and the identity rule.",
+   "to_do": ""
+  },
+  {
+   "source_id": "twn-moj-reward-regulation-2019",
+   "status": "partial",
+   "contains": "Taiwan Ministry of Justice Anti-Corruption Informant Rewards and Protection Regulation (獎勵保護檢舉貪污瀆職辦法), text as amended 1 Feb 2019, 15 articles: covered offences; reward for reports made before discovery to prosecutors, judicial police or ethics units; exclusions (facts not matching the judgment, officials reporting in the course of duty, accomplices, bribe-givers, anonymous or false-name reports, reports by proxy); +50% when more than five offenders convicted, max NT$10 million; one case one reward, sharing rules; one third after conviction, rest when final; one tenth in special cases; tax deducted; heirs; recovery only for false accusation; MOJ review committee; written or oral reports with identity; confidentiality; protection; dedicated hotlines; transitional rule. Anonymous_filing and cap already in the data; added conviction requirement, partial payment, reduced and increased shares, tax and entitlement rules.",
+   "to_do": "The reward schedule by sentence length (附表：貪污瀆職案件檢舉獎金給獎標準, PDF/DOC attachment) is not stored; download and extract the amounts per sentence band."
+  },
+  {
+   "source_id": "twn-moj-reward-regulation-en-2019",
+   "status": "partial",
+   "contains": "Official English translation of the same regulation (amended 2019-02-01); the Chinese text prevails. Rules were taken once, from the Chinese version (twn-moj-reward-regulation-2019), and not repeated here. Translation differs on tax (English: \"net prize without tax payable\"; Chinese: paid after deducting tax due).",
+   "to_do": "The English schedule attachment (Awarding Criteria for Informant Prize on Corruption & Malfeasance Case, PDF/DOC) is not stored; same gap as the Chinese version."
+  },
+  {
+   "source_id": "aus-treasury-review-whistleblowing-2026",
+   "status": "complete",
+   "contains": "Treasury web page for the statutory review of tax and corporate whistleblowing laws (Corporations Act s 1317AK review, to start after 1 July 2024; follows the 2019 amendments; consultation responses by 29 July 2026; roundtables; written report to government). No numbers about any reward programme (Australia has none); the consultation paper itself is a separate page not stored. The review event was already in the data; nothing to add.",
+   "to_do": ""
+  },
+  {
+   "source_id": "che-bger-bge-145-iv-114-2018",
+   "status": "complete",
+   "contains": "Swiss Federal Supreme Court leading decision BGE 145 IV 114 (10 Oct 2018, excerpt): Rudolf Elmer (anonymised \"X.\") case history (employment with Julius Bär in Zurich and the Cayman Islands subsidiary 1987-2002; leaks to tax authorities, Cash magazine and WikiLeaks; Zurich District Court 2011: 240 day-fines of CHF 30 suspended; 2015: 300 day-fines of CHF 150 suspended; High Court 2016: acquittal on bank secrecy, 14 months suspended for threats and forgery with 220 days served; prosecution sought 36 months) and the legal reasoning that he was not an employee or agent of a Swiss bank under Art. 47 Banking Act (pre-2004 penalty up to six months or CHF 50,000 fine; now up to three years). No reward programme (Switzerland has none) and no programme numbers. The case row, with these sentences in its summary and notes, was already in the data; nothing to add.",
+   "to_do": ""
+  },
+  {
+   "source_id": "gha-parliament-act720-2006",
+   "status": "complete",
+   "contains": "Ghana Whistleblower Act, 2006 (Act 720), assent 16 Oct 2006; stored copy (12 pp.) prints the arrangement of 32 sections but the text stops after s. 25 (ss. 26-32 on fund management, disbursement, accounts and audit, annual report, regulations and interpretation are missing from this copy). Contents: disclosable improprieties, who may disclose and to whom (18 recipients), procedure, confidentiality (offence: 500-1,000 penalty units or 2-4 years), forwarding to the Attorney-General within 7 working days, 60-day investigation, protection from victimisation, CHRAJ complaints and orders (incl. a reward from the Fund), legal aid, police protection, immunity, void gag clauses, Whistleblower Reward Fund (voluntary contributions and money voted by Parliament), reward on conviction, reward of 10% of money recovered or an amount set by the Attorney-General. No statistics. The 10% rule and assent event were already in the data; added entitlement, conviction route, investigation deadline and the confidentiality fine. Sections 26-32 cannot be extracted from this copy (they are absent, not unread).",
+   "to_do": ""
+  }
+ ]
+}
