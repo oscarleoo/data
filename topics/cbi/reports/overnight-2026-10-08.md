@@ -693,3 +693,14 @@ says what was done to it.
 - **Decisions needed:** each rule recorded once from the version that introduced it (strict "two sources,
   two rows" would add about 150 near-identical rows); 7 new rule types; the 2014 annual report's description
   of the 2 September 2014 change conflicts with the decree text; rule r-8ebdd004b6 could get an end date.
+
+### United States EB-5, batch 4 (pass `extract-cbi-usa4`)
+- 20 documents reviewed: all complete.
+- Added 4,108 numbers, 2 rules, 3 events: USCIS quarterly all-forms reports FY2020-FY2026 Q3 (every EB-5
+  form: received, approved, denied, completed, pending, median processing time); I-526/I-526E receipts by
+  month, set-aside and country of birth FY2022-FY2025 (3,624 cells); approved petitions awaiting visas by
+  country 2024-2026; GAO-15-696 and GAO-16-828; SEC releases; the 1990, 1992 and 2022 laws (set-asides,
+  processing goals).
+- Every table adds up (months to years, countries to set-asides, approved + denied = completed).
+- **Decisions needed:** 9 new indicators (completions, pending and filings columns); older I-526E set-aside
+  rows lack the `form=` label the new rows use (a correction should add it).
