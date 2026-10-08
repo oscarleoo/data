@@ -1048,3 +1048,10 @@ totals?
 - 145 suggested corrections held in the inbox files (not applied). Several fix real errors in existing rows:
   amounts or percentages recorded as missing that the orders print (93274 ~$100,000; 92621 ~$3.5m; 93016 30%),
   "over" where the order says "approximately" (91903), and two rows that combine two claimants' awards.
+
+### Whistleblowing: US batches 16-18 (SEC award orders)
+- 60 orders reviewed: all complete. Added 22 cases (denied claimants; one award to a second claimant).
+- 143 suggested corrections held in the inbox files (not applied). Errors in existing rows include: 93637 and
+  94789 paid several whistleblowers, not one; 94398 the Commission overruled its staff's recommendation to deny
+  (notes say the opposite); 94519 prints "approximately $1.25 million" though the note says no amount;
+  95834 "$1.5 million" recorded as a lower bound.
