@@ -804,5 +804,6 @@ says what was done to it.
 - Partial: region maps whose counts can't be tied to regions; a few unreadable monthly bars; education pies.
 - Reports restate earlier figures differently (all kept with notes), e.g. 2022 IIP contributions EUR
   1,153,415,534 in the text vs EUR 1,150,300,000 in Table 35.
+- Malta now: all 37 stored Maltese documents reviewed (28 complete, 9 partial; checked in the ledger).
 - **Decisions needed:** the 2018 report labels cumulative payouts "till 30 June 2017" though they clearly run to
   June 2018; donations by named recipient recorded under `category=recipient_<name>`.
