@@ -881,3 +881,12 @@ says what was done to it.
 - Nationality shares exist but country names are blacked out in the published report (recorded as redacted
   categories). Partial: an anonymised top-15 service-provider table.
 - **Decisions needed:** 9 new indicators; testimony figures as claims (some are officials quoting their own data).
+
+### St Lucia, batch 2 (pass `extract-cbi-lca2`)
+- 16 documents reviewed (IMF Article IV 2017-2025, budget estimates 2016-17 to 2024-25, National Economic Fund
+  Act 2019): all complete.
+- Added 202 numbers, 7 rules, 2 events: programme revenue in EC$ and % of GDP for every column; first-year
+  approvals (2017 box); programme money as a capital financing source; individual programme bonds in the debt
+  schedules (investor names left out); National Economic Fund contributions and a project it financed.
+- St Lucia now: all stored St Lucia documents reviewed (see ledger counts).
+- **Decision needed:** investor names in the debt schedules were left out of rows and quotes: confirm.

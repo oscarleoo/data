@@ -4238,6 +4238,8 @@ LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,42295519,1,42295519.0,actual,lca-ci
 LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,47695500,1,47695500.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-2e7e48c1be
 LCA,lca-cbi,cbi_bond_purchases [route=bonds_covid],FY2021/22,XCD,44860500,1,44860500.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,2.9,same_source,o-f1d6232925
 LCA,lca-cbi,cbi_bond_purchases [route=bonds_covid],FY2021/22,XCD,46210500,1,46210500.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,2.9,same_source,o-8d343f2e72
+LCA,lca-cbi,cbi_contributions,FY2017/18,USD,9,million,9000000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,30.4,vintage,o-21c4554e31
+LCA,lca-cbi,cbi_contributions,FY2017/18,USD,12940000,1,12940000.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,30.4,vintage,o-5abb61edaf
 LCA,lca-cbi,cbi_contributions,FY2020/21,USD,17853500,1,17853500.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.3,revision,o-a8530c0590
 LCA,lca-cbi,cbi_contributions,FY2020/21,USD,17900000,1,17900000.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.3,revision,o-26bc01bb70
 LCA,lca-cbi,cbi_contributions,FY2021/22,USD,24200000,1,24200000.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.3,same_source,o-cd466504de
@@ -4260,62 +4262,175 @@ LCA,lca-cbi,cbi_fee_revenue [category=processing_fees],FY2015/16,XCD,16200,1,162
 LCA,lca-cbi,cbi_fee_revenue [category=processing_fees],FY2015/16,XCD,18900,1,18900.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,14.3,vintage,o-830e15bb20
 LCA,lca-cbi,cbi_fee_revenue [category=promoter_licence_fees],FY2015/16,XCD,23267,1,23267.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,65.5,vintage,o-6efb3bb77e
 LCA,lca-cbi,cbi_fee_revenue [category=promoter_licence_fees],FY2015/16,XCD,67500,1,67500.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,65.5,vintage,o-d9a1443390
+LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0.0,million,0.0,actual,lca-imf-art4-2017,International Monetary Fund,2017-03,100.0,vintage,o-df2ada9def
+LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0.0,million,0.0,actual,lca-imf-art4-2018,International Monetary Fund,2018-06,100.0,vintage,o-99687bc67d
+LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0.0,million,0.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,100.0,vintage,o-c4b8eb8fe1
 LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0,1,0.0,estimate,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,100.0,vintage,o-f79ac21319
+LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,0,1,0.0,actual,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,100.0,vintage,o-2c65113234
 LCA,lca-cbi,cbi_fiscal_revenue,FY2015/16,XCD,12000000,1,12000000.0,budget,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,100.0,vintage,o-b9d931e57a
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,3.6,million,3600000.0,estimate,lca-imf-art4-2017,International Monetary Fund,2017-03,39.3,conflict,o-640ac804a9
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-art4-2018,International Monetary Fund,2018-06,39.3,conflict,o-4a37b35ae5
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,39.3,conflict,o-98f5635a28
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5.9,million,5900000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,39.3,conflict,o-a7f8bd3b47
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5935546,1,5935546.0,estimate,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,39.3,conflict,o-8c26c09e42
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,5935546,1,5935546.0,actual,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,39.3,conflict,o-b3f7af154d
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,16.0,million,16000000.0,budget,lca-imf-art4-2017,International Monetary Fund,2017-03,39.3,conflict,o-d389250610
 LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,24000000,1,24000000.0,budget,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,39.3,conflict,o-8a1bb82a88
+LCA,lca-cbi,cbi_fiscal_revenue,FY2016/17,XCD,24000000,1,24000000.0,budget,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,39.3,conflict,o-faf7788ebe
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,16.0,million,16000000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,23.1,conflict,o-9299dbe752
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,21408825,1,21408825.0,estimate,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,23.1,conflict,o-fee53cb6d6
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,estimate,lca-imf-art4-2018,International Monetary Fund,2018-06,23.1,conflict,o-67c98083a6
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,23.1,conflict,o-74b45c4d84
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27.8,million,27800000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,23.1,conflict,o-50394f53a1
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,27828246,1,27828246.0,actual,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,23.1,conflict,o-43a29a2d08
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,36000000,1,36000000.0,projection,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,23.1,conflict,o-86197fe66d
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43.0,million,43000000.0,budget,lca-imf-art4-2018,International Monetary Fund,2018-06,23.1,conflict,o-c519db9c10
 LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43011200,1,43011200.0,budget,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,23.1,conflict,o-3268f39c97
+LCA,lca-cbi,cbi_fiscal_revenue,FY2017/18,XCD,43011200,1,43011200.0,budget,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,23.1,conflict,o-0ad5eea616
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,10.0,million,10000000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,0.9,conflict,o-ff7063788a
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29.0,million,29000000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,0.9,conflict,o-f60a1c6bd0
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29032560,1,29032560.0,budget,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,0.9,conflict,o-2a471cd01e
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,29032560,1,29032560.0,budget,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,0.9,conflict,o-c60f789600
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,51613440,1,51613440.0,projection,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,0.9,conflict,o-0faaba56b8
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,54000000,1,54000000.0,projection,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,0.9,conflict,o-36597806b5
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,66373417,1,66373417.0,estimate,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,0.9,conflict,o-8239c8a1dd
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,0.9,conflict,o-1e94f0c096
+LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,0.9,conflict,o-fead5fc58b
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67.0,million,67000000.0,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,0.9,conflict,o-354d307c28
 LCA,lca-cbi,cbi_fiscal_revenue,FY2018/19,XCD,67000716,1,67000716.0,actual,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,0.9,conflict,o-71c13db400
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,4.4,million,4400000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,85.5,conflict,o-31087cd8b9
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,4.4,million,4400000.0,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,85.5,conflict,o-45fae72ed8
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,9.7,million,9700000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,85.5,conflict,o-5acf163212
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,28107819,1,28107819.0,estimate,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,85.5,conflict,o-c7e134f470
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,28107819,1,28107819.0,actual,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,85.5,conflict,o-6201842f8d
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,30.4,million,30400000.0,estimate,lca-imf-rcf-2020,International Monetary Fund,2020-05,85.5,conflict,o-34b8cad3e7
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,30.5,million,30500000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,85.5,conflict,o-ffabb638ef
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,85.5,conflict,o-9b110627a2
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,51613440,1,51613440.0,projection,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,85.5,conflict,o-51bbf43f58
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,64516800,1,64516800.0,projection,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,85.5,conflict,o-0fcbf31b56
 LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,65549069,1,65549069.0,budget,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,85.5,conflict,o-1b40f4be54
-LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-e7bb911a3d
-LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,22.7,million,22700000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,vintage,o-63dda6c317
-LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,vintage,o-226a6a03d3
-LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,41.5,vintage,o-3aa82f6134
-LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,provisional,lca-imf-art4-2022,International Monetary Fund,2022-11,41.5,vintage,o-f95e17866e
-LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,41.5,vintage,o-77a394d3f0
-LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,61.5,vintage,o-1b4551cf26
-LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,32.5,million,32500000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,61.5,vintage,o-bf11165eb6
-LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,65.0,million,65000000.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,61.5,vintage,o-e89fb18b67
-LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,56.0,vintage,o-6e02ce3440
-LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,56.8,million,56800000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,56.0,vintage,o-c8069af3e1
+LCA,lca-cbi,cbi_fiscal_revenue,FY2019/20,XCD,65549069,1,65549069.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,85.5,conflict,o-9c6429eba3
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,conflict,o-e7bb911a3d
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,conflict,o-a594d64ba5
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,0,1,0.0,estimate,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,conflict,o-0ad494ad4a
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,10.1,million,10100000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,100.0,conflict,o-151420d783
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,22.7,million,22700000.0,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,conflict,o-63dda6c317
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,22.7,million,22700000.0,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,100.0,conflict,o-95417e356e
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,conflict,o-226a6a03d3
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,31.9,million,31900000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,100.0,conflict,o-60389aa471
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,100.0,conflict,o-f6fd04fb24
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,64516800,1,64516800.0,projection,lca-mof-estimates-2018-19,"Department of Finance, Government of Saint Lucia",2018-04,100.0,conflict,o-fbad8de942
+LCA,lca-cbi,cbi_fiscal_revenue,FY2020/21,XCD,64516800,1,64516800.0,projection,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,100.0,conflict,o-f4d2fb617c
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,0,1,0.0,projection,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-a091fc95d3
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,0,1,0.0,budget,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,vintage,o-afe1fb1753
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,10.5,million,10500000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,100.0,vintage,o-69ba09485c
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,vintage,o-3aa82f6134
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,33.0,million,33000000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,100.0,vintage,o-45c263512e
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,100.0,vintage,o-5e3097bf4c
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,provisional,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,vintage,o-f95e17866e
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,42.7,million,42700000.0,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,100.0,vintage,o-77a394d3f0
+LCA,lca-cbi,cbi_fiscal_revenue,FY2021/22,XCD,61936128,1,61936128.0,projection,lca-mof-estimates-2019-20,"Department of Finance, Government of Saint Lucia",2019-04,100.0,vintage,o-9321e501f9
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,0,1,0.0,projection,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-7c8262dbf5
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,0,1,0.0,projection,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,vintage,o-dfda76bd10
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,10.7,million,10700000.0,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,100.0,vintage,o-580ccc72a2
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,vintage,o-1b4551cf26
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,32.5,million,32500000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,vintage,o-bf11165eb6
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,100.0,vintage,o-57a558fd29
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,34.0,million,34000000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,100.0,vintage,o-2db52312b2
+LCA,lca-cbi,cbi_fiscal_revenue,FY2022/23,XCD,65.0,million,65000000.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,100.0,vintage,o-e89fb18b67
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,0,1,0.0,projection,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,vintage,o-50d3c18400
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,100.0,vintage,o-6e02ce3440
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,100.0,vintage,o-81834ad315
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,35.1,million,35100000.0,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,100.0,vintage,o-4f0f517261
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,35.3,million,35300000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,100.0,vintage,o-04edcc5ba6
+LCA,lca-cbi,cbi_fiscal_revenue,FY2023/24,XCD,56.8,million,56800000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,100.0,vintage,o-c8069af3e1
+LCA,lca-cbi,cbi_fiscal_revenue,FY2024/25,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,46.7,vintage,o-f8827e00ba
+LCA,lca-cbi,cbi_fiscal_revenue,FY2024/25,XCD,33.5,million,33500000.0,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,46.7,vintage,o-6ae3e243db
+LCA,lca-cbi,cbi_fiscal_revenue,FY2024/25,XCD,37.4,million,37400000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,46.7,vintage,o-a4415bf1a4
+LCA,lca-cbi,cbi_fiscal_revenue,FY2024/25,XCD,46.9,million,46900000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,46.7,vintage,o-7613204248
+LCA,lca-cbi,cbi_fiscal_revenue,FY2025/26,XCD,25.0,million,25000000.0,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,47.4,vintage,o-1774b54f28
+LCA,lca-cbi,cbi_fiscal_revenue,FY2025/26,XCD,39.1,million,39100000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,47.4,vintage,o-244320b900
+LCA,lca-cbi,cbi_fiscal_revenue,FY2025/26,XCD,47.5,million,47500000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,47.4,vintage,o-bf4b776261
+LCA,lca-cbi,cbi_fiscal_revenue,FY2026/27,XCD,40.7,million,40700000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,14.1,vintage,o-56b48b94ab
+LCA,lca-cbi,cbi_fiscal_revenue,FY2026/27,XCD,47.4,million,47400000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,14.1,vintage,o-e6b393ccbb
+LCA,lca-cbi,cbi_fiscal_revenue,FY2027/28,XCD,42.3,million,42300000.0,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,12.2,vintage,o-e18c8c4051
+LCA,lca-cbi,cbi_fiscal_revenue,FY2027/28,XCD,48.2,million,48200000.0,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,12.2,vintage,o-23cbfedfa0
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,0.1,1,0.1,estimate,lca-imf-art4-2017,International Monetary Fund,2017-03,75.0,vintage,o-6d204942a0
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,0.1,1,0.1,actual,lca-imf-art4-2018,International Monetary Fund,2018-06,75.0,vintage,o-132ca1a6e9
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,0.1,1,0.1,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,75.0,vintage,o-c35a5900ce
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,0.1,1,0.1,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,75.0,vintage,o-22908323db
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2016/17,percent_of_gdp,0.4,1,0.4,budget,lca-imf-art4-2017,International Monetary Fund,2017-03,75.0,vintage,o-d10e6a296b
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.4,1,0.4,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,16.7,revision,o-aa4e37c7c2
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.5,1,0.5,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,16.7,revision,o-61f4d5a581
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.6,1,0.6,estimate,lca-imf-art4-2018,International Monetary Fund,2018-06,16.7,revision,o-1a88342e8e
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.6,1,0.6,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,16.7,revision,o-981887cfdd
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2017/18,percent_of_gdp,0.9,1,0.9,budget,lca-imf-art4-2018,International Monetary Fund,2018-06,16.7,revision,o-e405d0a514
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,0.3,1,0.3,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,7.7,revision,o-58f073f83b
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,7.7,revision,o-dcf8a84e05
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,1.2,1,1.2,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,7.7,revision,o-3979713021
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,1.2,1,1.2,actual,lca-imf-rcf-2020,International Monetary Fund,2020-05,7.7,revision,o-6d58bdb88a
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2018/19,percent_of_gdp,1.3,1,1.3,actual,lca-imf-art4-2019,International Monetary Fund,2020-02,7.7,revision,o-ad147e86b1
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,50.0,vintage,o-a0d5efcaaa
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.8,1,0.8,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,50.0,vintage,o-470740cc62
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,60.0,vintage,o-fdd7b92fe4
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,1.0,1,1.0,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,60.0,vintage,o-af335cc48a
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,42.9,vintage,o-68f8e9cae8
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,42.9,vintage,o-f36cb8cec8
-LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,42.9,vintage,o-3c65c6535a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.1,1,0.1,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,80.0,revision,o-5541b79227
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.1,1,0.1,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,80.0,revision,o-252f8656f4
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.2,1,0.2,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,80.0,revision,o-0ab6222e83
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.5,1,0.5,estimate,lca-imf-rcf-2020,International Monetary Fund,2020-05,80.0,revision,o-a825741059
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,80.0,revision,o-cedf362e64
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2019/20,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,80.0,revision,o-d880921dd6
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.2,1,0.2,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,66.7,vintage,o-ae205f62d1
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.5,1,0.5,actual,lca-imf-art4-2022,International Monetary Fund,2022-11,66.7,vintage,o-ec7194fc3d
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.5,1,0.5,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,66.7,vintage,o-13bcc822b7
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.5,1,0.5,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,66.7,vintage,o-5136c041f2
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.5,1,0.5,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,66.7,vintage,o-cf4cee2585
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.5,1,0.5,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,66.7,vintage,o-95087ea762
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,66.7,vintage,o-96da813ad5
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2020/21,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,66.7,vintage,o-d5fd17f8e5
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.2,1,0.2,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,11.1,revision,o-0b6c712ccc
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,11.1,revision,o-a0d5efcaaa
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,11.1,revision,o-c0d34f614d
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,11.1,revision,o-4f439747b5
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.8,1,0.8,actual,lca-imf-art4-2023,International Monetary Fund,2024-03,11.1,revision,o-838d98f895
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.8,1,0.8,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,11.1,revision,o-d60127db37
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.8,1,0.8,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,11.1,revision,o-470740cc62
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2021/22,percent_of_gdp,0.9,1,0.9,provisional,lca-imf-art4-2022,International Monetary Fund,2022-11,11.1,revision,o-260f817ff1
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.2,1,0.2,projection,lca-imf-art4-2017,International Monetary Fund,2017-03,80.0,vintage,o-3633fcfd62
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,80.0,vintage,o-fdd7b92fe4
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.5,1,0.5,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,80.0,vintage,o-02c2f9a66a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,80.0,vintage,o-ee640061a4
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,80.0,vintage,o-6eee520777
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,1.0,1,1.0,estimate,lca-imf-art4-2023,International Monetary Fund,2024-03,80.0,vintage,o-e42ca31ef9
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,1.0,1,1.0,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,80.0,vintage,o-af335cc48a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2022/23,percent_of_gdp,1.0,1,1.0,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,80.0,vintage,o-11bca6855f
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,50.0,vintage,o-68f8e9cae8
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.5,1,0.5,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,50.0,vintage,o-8f10b4e395
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2018,International Monetary Fund,2018-06,50.0,vintage,o-79de1104c4
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,50.0,vintage,o-e54afeabc0
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2024,International Monetary Fund,2025-03,50.0,vintage,o-f36cb8cec8
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.7,1,0.7,actual,lca-imf-art4-2025,International Monetary Fund,2026-01,50.0,vintage,o-3c65c6535a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2023/24,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,50.0,vintage,o-8af5e091a3
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,50.0,vintage,o-dd4ecc4a53
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.5,1,0.5,projection,lca-imf-art4-2019,International Monetary Fund,2020-02,50.0,vintage,o-248bff4303
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,50.0,vintage,o-cd91f3374e
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.7,1,0.7,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,50.0,vintage,o-b87ec3e1c8
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.8,1,0.8,estimate,lca-imf-art4-2024,International Monetary Fund,2025-03,50.0,vintage,o-e3565acfaf
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2024/25,percent_of_gdp,0.8,1,0.8,estimate,lca-imf-art4-2025,International Monetary Fund,2026-01,50.0,vintage,o-33d322aa7b
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,0.4,1,0.4,projection,lca-imf-rcf-2020,International Monetary Fund,2020-05,60.0,vintage,o-95a2307aaa
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,60.0,vintage,o-85a0c95777
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,60.0,vintage,o-38bd2f0a41
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2024,International Monetary Fund,2025-03,60.0,vintage,o-38d04fac54
 LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2025/26,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,60.0,vintage,o-7af0d5b57b
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2026/27,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,40.0,vintage,o-438a599c4a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2026/27,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,40.0,vintage,o-14f5f8e585
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2026/27,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2024,International Monetary Fund,2025-03,40.0,vintage,o-4ea532c40a
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2026/27,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,40.0,vintage,o-a7de3e5eec
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2027/28,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2022,International Monetary Fund,2022-11,40.0,vintage,o-9a5e8a6d79
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2027/28,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,40.0,vintage,o-061beba9e1
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2027/28,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2024,International Monetary Fund,2025-03,40.0,vintage,o-311c70aa69
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2027/28,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,40.0,vintage,o-fe4bff2d35
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2028/29,percent_of_gdp,0.6,1,0.6,projection,lca-imf-art4-2023,International Monetary Fund,2024-03,40.0,vintage,o-8b166d7249
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2028/29,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2024,International Monetary Fund,2025-03,40.0,vintage,o-45cf140821
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2028/29,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,40.0,vintage,o-758977d864
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2029/30,percent_of_gdp,0.8,1,0.8,projection,lca-imf-art4-2024,International Monetary Fund,2025-03,20.0,vintage,o-3a509c1ee6
+LCA,lca-cbi,cbi_fiscal_revenue_pct_gdp,FY2029/30,percent_of_gdp,1.0,1,1.0,projection,lca-imf-art4-2025,International Monetary Fund,2026-01,20.0,vintage,o-bcb4fc4467
 LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,669,thousand,669000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,1.5,revision,o-216309bc63
 LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,678883,1,678883.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,1.5,revision,o-a9426ddcad
 LCA,lca-cbi,cbi_fund_payments [category=ciu_program_costs],FY2015/16,XCD,495,thousand,495000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,7.3,revision,o-4cca19765b
@@ -4326,6 +4441,9 @@ LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,
 LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,XCD,3665250,1,3665250.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,49.8,same_source,o-9b04cfb6a7
 LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1119162,1,1119162.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,9.4,revision,o-8d4a56ecc7
 LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1235750,1,1235750.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,9.4,revision,o-ce178d2b8a
+LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,400000,1,400000.0,actual,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,20.1,revision,o-37195ed645
+LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,500000,1,500000.0,budget,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,20.1,revision,o-f3eafea263
+LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,500715,1,500715.0,estimate,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,20.1,revision,o-4f7004b54d
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2016/17,XCD,1597337,1,1597337.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.8,same_source,o-525c699af8
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2016/17,XCD,1678642,1,1678642.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.8,same_source,o-db2a87391e
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2017/18,XCD,11096992,1,11096992.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,24.9,same_source,o-f51d95c7d4
@@ -4406,8 +4524,19 @@ LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,64108843,1,64108843.0,actu
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,86150190,1,86150190.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,same_source,o-6eb79d2e1a
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,same_source,o-983e1e3b5b
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,reported,lca-slutimes-2026-08,St. Lucia Times,2026-08-07,39.2,same_source,o-d35ee017dd
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2019/20,XCD,0,1,0.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-1c07dc4cd1
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2019/20,XCD,3000000,1,3000000.0,estimate,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-b6b1068e9d
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2019/20,XCD,3000000,1,3000000.0,actual,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,vintage,o-dbed2ebfaa
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,53.8,revision,o-83d5121905
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,0,1,0.0,budget,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,53.8,revision,o-bb18ec38e6
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,7758308,1,7758308.0,estimate,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,53.8,revision,o-c066a6586c
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,16804926,1,16804926.0,actual,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,53.8,revision,o-09acba0aa0
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XCD,0,1,0.0,projection,lca-mof-estimates-2020-21,"Department of Finance, Government of Saint Lucia",2020-04,100.0,vintage,o-15c42e9cb1
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XCD,0,1,0.0,budget,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,100.0,vintage,o-c9407cac78
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XCD,0,1,0.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-bbf383a11f
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XCD,5373732,1,5373732.0,estimate,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-d0cbcf01f2
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2024/25,XCD,0,1,0.0,budget,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,100.0,vintage,o-f3bfddc782
+LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2024/25,XCD,2000000,1,2000000.0,projection,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-124ae1432e
 LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13737689.86,1,13737689.86,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,revision,o-b5e766437f
 LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992,1,13797992.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-aa2d7cce50
 LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992.19,1,13797992.19,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-a5fb2b3d2d
@@ -4417,6 +4546,11 @@ LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XC
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XCD,35500000,1,35500000.0,estimate,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,1.4,vintage,o-39ece03d41
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,2661825,1,2661825.0,actual,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,95.9,vintage,o-ad421eec2a
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,65000000,1,65000000.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,95.9,vintage,o-a19248c1d6
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2023/24,XCD,0,1,0.0,budget,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,100.0,vintage,o-164147a9a7
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2023/24,XCD,0,1,0.0,estimate,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,100.0,vintage,o-a7760b59aa
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2023/24,XCD,40000000,1,40000000.0,projection,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-ff0c3d1c96
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2024/25,XCD,0,1,0.0,budget,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,100.0,vintage,o-019f634897
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2024/25,XCD,42000000,1,42000000.0,projection,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-4ddb00ea87
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-faba01aec0
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-85bf2fb5f2
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-ffe5b5a91c
