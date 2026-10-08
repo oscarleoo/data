@@ -978,3 +978,40 @@ says what was done to it.
   rules) are held in the inbox file under `suggested_corrections`, **not applied**: they change existing rows,
   so they wait for your review. One existing note calls a $1,000,000 award "over" when the order says
   "approximately".
+
+### Seychelles, Jordan, Bahrain, Bahamas (passes , , , )
+- 25 documents, all complete: 194 rules, 4 numbers, 1 event (thresholds, fees, processing times).
+- **Decisions needed:** an existing Bahrain event says "35% cut", a figure the release never prints (it was
+  calculated); bare "$" in Bahamas documents (new rows unspecified, old rows BSD).
+
+## Morning summary (written when the session's usage limit was reached, 9 October)
+
+**Ledger now**
+- CBI: Review status: not_reviewed 297, partial 98, complete 1034, not_applicable 14
+- Whistleblowing: Review status: not_reviewed 312, partial 26, complete 242, not_applicable 2
+- Per document: `data/extraction_status.csv` in each topic. Nothing is marked complete without a recorded review.
+
+**Fully reviewed countries (checked in the ledger):** Hong Kong, St Kitts, Vanuatu, Latvia, Ireland, New Zealand,
+Panama, Singapore, Dominica, United States (EB-5), Australia, St Lucia, Malta, Spain, United Kingdom, Turkey,
+Egypt, Cyprus, North Macedonia, Malaysia, Nauru, Montenegro, Canada, Italy, Hungary, the international
+documents; whistleblowing Korea. Greece and Antigua were reviewed earlier (several partial).
+
+**Not finished**
+- Batches still running when the session stopped; their inbox files are listed in `_inbox/IN_PROGRESS` and are
+  **not merged** (they may be complete or half-written): see that file in each topic.
+- CBI queue: Philippines/Thailand/Oman, small-jurisdiction batches 1-4, Austria/Brazil/Switzerland, and
+  every document still `not_reviewed` in the ledger.
+- Whistleblowing queue: US batches 8, 9, 11-22 (mostly SEC award orders), Hungary, Lithuania, other countries.
+- Second reading: everything merged after batch j7/y2 (Latvia batch 1 onwards) has had the automatic quote check
+  only, not the blind second reading. Priority: Hungarian bond table (read by digit shapes), Cyprus reports
+  (read by helper agents), Malta image charts, Australia review charts, UAE Arabic quotes.
+- The quote check started for both topics did not report back before the stop.
+
+**Decisions waiting for you** (details in each section above): bare "$" rule vs local currency (many
+countries); zero cells (Canada, Latvia, UK); zeros from words (St Lucia, Hong Kong); inferred units
+(Philippines); "estimate" vs "actual" for unmarked IMF past years; dozens of proposed indicators and route
+names; new programmes (Panama routes, UAE green/retiree residence, state False Claims Acts); suggested
+corrections held in inbox files (whistleblowing US batch 10); CFTC collision fix needs a site republish
+(8 cases were missing on the live page).
+
+**Nothing was pushed** to GitHub or the site. All work is committed locally in ~/Claude/data.
