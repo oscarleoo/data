@@ -807,3 +807,15 @@ says what was done to it.
 - Malta now: all 37 stored Maltese documents reviewed (28 complete, 9 partial; checked in the ledger).
 - **Decisions needed:** the 2018 report labels cumulative payouts "till 30 June 2017" though they clearly run to
   June 2018; donations by named recipient recorded under `category=recipient_<name>`.
+
+### Mauritius, batch 1 (pass `extract-cbi-mus1`)
+- 19 documents reviewed (EDB annual report 2020/21, Finance Acts 2015-2025, Immigration and Citizenship Acts,
+  EDB web pages, 2018 budget speech): all complete.
+- Added 14 numbers, 81 rules, 10 events: investor, retiree and property-scheme thresholds and fees across
+  every Finance Act; projects approved in 2020/21; permits extended to 10 years (764 investor, 668 retiree);
+  a target of 50,000 retirees. No document gives the investment routes by nationality (the one nationality
+  split covers all permit holders, mostly professionals).
+- Did not add up: EDB report Table 5 prints 1,632 while its rows add to 1,790.
+- **Decisions needed:** Finance Act 2020 changes start 2 September 2020 (existing rows use 7 August, the Act's
+  date); the 2023 senior-living route is deemed in force from 27 April 2019 (existing rows say 20 July 2023);
+  the 2003 citizenship consolidation prints "5,000 US dollars" where the 1999 Act says 500,000.
