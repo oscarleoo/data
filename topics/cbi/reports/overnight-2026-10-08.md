@@ -128,3 +128,17 @@ says what was done to it.
 - 2 St Lucia 2015-16 rows are zeros taken from words ("there were no investment inflows", "no outflows").
   No figure is printed. Kept as first reading, but **worth a look**: is a zero from words acceptable?
 - 0 open differences in the CBI dataset after this round.
+
+### United States EB-5, batch 1 (pass `extract-cbi-usa1`)
+- 20 documents reviewed: all complete.
+- Added 3,258 numbers, 6 rules, 5 events.
+  - State Department Visa Office tables V and VI, FY2005-FY2008: EB-5 visas for every country listed
+    (zeros included), by class (C5, T5, R5, I5) wherever the total is not zero, plus region totals.
+  - DHS yearbooks 2013 and 2023: EB-5 green cards by class, by adjustment vs new arrival.
+  - DHS Inspector General 2013 and 2015 reports: regional-centre counts and decisions, processing
+    times, fees. Court orders in Behring (2021, 2022). trumpcard.gov fees. Jay Peak restitution.
+- Every printed total adds up, with three explained exceptions: the 2023 yearbook rounds cells to the
+  nearest ten; the 2013 yearbook withholds five small cells ("D"); FY2006 East Timor shows 11 visas
+  (looks misplaced in the source, recorded as printed).
+- 5 new indicators proposed (regional-centre applications received, approved, denied; intermediary
+  fee per investor; processing time in months).

@@ -1,4 +1,4 @@
 Sources: 1443 (1267 with a stored copy)
-Review status: not_reviewed 1298, partial 36, complete 108, not_applicable 1
-Stored documents with no numbers extracted: 601
-Stored documents with 1-2 numbers extracted: 163
+Review status: not_reviewed 1278, partial 36, complete 128, not_applicable 1
+Stored documents with no numbers extracted: 597
+Stored documents with 1-2 numbers extracted: 165
