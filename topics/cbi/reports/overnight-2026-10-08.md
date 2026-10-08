@@ -729,7 +729,7 @@ says what was done to it.
 
 ### Whistleblowing: United States, batches 4 and 5 (passes `extract-whistleblowing-usa4`, `-usa5`)
 - 40 documents reviewed: 39 complete, 1 not applicable.
-- Added 2,794 numbers, 29 rules, 30 cases, 2 events.
+- Added 2,888 numbers (1,526 + 1,362), 29 rules, 30 cases, 2 events.
   - Justice Department fraud statistics FY1987-FY2023 and FY1987-FY2024 editions: every cell of the four
     tables (new matters, qui tam vs non-qui tam, recoveries, relator share awards; overall, HHS, Defense,
     other). Before tonight only about 300 of these cells were in the data. Counts add up exactly; dollars
