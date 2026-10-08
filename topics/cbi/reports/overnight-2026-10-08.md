@@ -771,4 +771,4 @@ says what was done to it.
   fiscal impact per business/investor migrant (-$80k); 2021 investment rules; Ministerial Direction 114 (2025).
 - **Worth a look:** chart values in the review were matched to bars by position and label colour (flagged for
   the second reading); two review charts conflict (72% vs 42% labour force participation).
-- Australia now: all 34 stored Australian documents reviewed (checked in the ledger).
+- Australia now: all 34 stored Australian documents reviewed (32 complete, 1 partial, 1 not applicable; checked in the ledger).
