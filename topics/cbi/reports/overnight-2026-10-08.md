@@ -215,3 +215,13 @@ says what was done to it.
   2015" recorded for 2016-2020; St Kitts "more than 10%" recorded as 2014). Notes say so.
 - Gaps: the stored 2019 regulations scan stops mid-page 6; the commencement order and the 2016
   regulations are not stored.
+
+### Second reading of US batches 1-2, Hungary/Malta/Europe, other countries, Portugal 3 (batches h1-h5)
+- 389 new numbers read blind (up to 8 per document): 374 agreed, after fixing the comparison
+  script for amounts written with "billion", "₱" or "Php".
+- Ruled: one target vs accomplishment (both printed); three figures printed in words or wrapped over
+  two lines (agree); a Denmark visa total where the second reader took the wrong column.
+- **Worth a look:** four Philippine chart values have no printed unit. The first reading recorded
+  them in thousands, inferred from other printed figures, and says so in the notes. Digits agree.
+  Should values with an inferred unit stay, or be dropped?
+- 0 open differences in the CBI dataset after this round.
