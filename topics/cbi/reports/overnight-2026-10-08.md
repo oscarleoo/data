@@ -434,3 +434,19 @@ says what was done to it.
 - **Correction needed:** an existing event attributes the January-June 2023 US$125,000 price to a
   news article that doesn't say it; it comes from the CIU head's December 2022 address.
 - St Kitts now: all 61 stored St Kitts documents reviewed (49 complete, 12 partial; checked in the ledger).
+
+### United States EB-5, batch 3 (pass `extract-cbi-usa3`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 9,833 numbers, 36 rules, 37 events.
+  - Visa Office tables V and VI, FY2019-FY2024 (8,264 numbers): every country, every class, including
+    the post-2022 set-aside categories (rural, high unemployment, infrastructure). Every table adds up.
+    FY2019 and FY2020 Table V are marked provisional (printed as preliminary).
+  - Federal Register: the 2019 modernization rule, 2023 Integrity Fund notice, 2024 and 2026 fee rules,
+    2025 fee proposal, 2026 integrity proposal: fees, filing counts, regulatory impact estimates, events.
+- Partial: the 2026 integrity proposal's cost estimates, staffing figures and small-business tables.
+- Documents contradict themselves in places (fee-rule table totals, regional-centre counts 547/589/640);
+  recorded as printed with notes.
+- **Decisions needed:** 18 new indicators, many for regulatory impact estimates (medians, discounted
+  totals): keep that kind of number or drop it? Nine new fee route names. The four largest Federal Register
+  documents were read by helper agents and not re-read by the pass itself: **lower assurance** until the
+  second reading covers them.
