@@ -784,3 +784,11 @@ says what was done to it.
 - Reports disagree with each other on some years (e.g. 2020/21 applications 408 vs 383 later); both kept.
 - Partial: mainly the CIU's own balance sheets and cash flows. **Decision needed:** are those in scope? If
   yes they'll be extracted; if not, the reports can be marked complete. Also 4 proposed indicators.
+
+### Egypt, batch 1 (pass `extract-cbi-egy1`)
+- 20 documents reviewed (12 naturalisation decrees 2022-2023, the investment-citizenship unit's web pages,
+  Law 140/2019 and implementing decrees): 19 complete, 1 partial.
+- Added 31 numbers, 25 rules: each decree's naturalisations split by nationality (Syrian, Palestinian,
+  Lebanese, British, Libyan, Iraqi, Yemeni, Sri Lankan; every decree adds up to its existing total; no names
+  recorded); the four routes' current amounts, holding periods, fees, instalments, processing times (claims).
+- Partial: the stored FAQ page is page 1 of 2 (5 of 15 questions missing).
