@@ -704,3 +704,13 @@ says what was done to it.
 - Every table adds up (months to years, countries to set-asides, approved + denied = completed).
 - **Decisions needed:** 9 new indicators (completions, pending and filings columns); older I-526E set-aside
   rows lack the `form=` label the new rows use (a correction should add it).
+
+### Singapore, batch 1 (pass `extract-cbi-sgp1`)
+- 20 documents reviewed (GIP factsheets 2009-2025, EDB fund release 2023, parliamentary answers 2012-2026):
+  all complete.
+- Added 13 numbers, 36 rules, 1 event: thresholds by factsheet version (company turnover S$10m in 2009,
+  S$30m 2010, S$50m/200m 2012; four applicant profiles 2021; March 2023 renewal conditions); processing
+  times (9-12 months, then about 12); GIP-select fund results (24,699 jobs 2011-2022; S$1.41bn invested,
+  S$930m in Singapore companies); GIP approvals "much lesser than 1%" of all PR approvals.
+- **Decisions needed:** two rows on family-office tax-incentive applications (about 3% of 1,300 rejected)
+  aren't GIP residence figures; many factsheet rules have no dates (factsheets don't say when they changed).
