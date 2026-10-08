@@ -1,0 +1,747 @@
+{
+ "slug": "extract-whistleblowing-usa15",
+ "researched_on": "2026-10-08",
+ "summary": "Full read of 20 SEC whistleblower award orders (2 Aug - 8 Oct 2021); short last pages were also OCRed (no extra content). Adds 11 denial case rows (other claimants and related-action claims denied in the same orders). Suggested corrections add to each existing award row how the claimant qualified, contests, reductions for reporting delay, the 30% presumption, the compliance-role 120-day exception, independent analysis and internal-reporting facts, and fix three data errors: Release 93274 prints \"approximately $100,000\" but the row has no amount; Release 92621 prints \"approximately $3.5 million\" whole (note wrongly says no amount / split by a redaction); Release 93016 award_pct should be 30 (joint award). No statistics, new rules or new events.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [],
+ "cases": [
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-02",
+   "summary": "Award claim of a third claimant preliminarily denied; no reconsideration sought, so the denial became the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92542",
+   "location": "p. 1, footnote 2, third claimant (Release No. 92542)",
+   "quote": "The CRS also preliminarily recommended denying the award application of a third claimant, who did not seek reconsideration.",
+   "notes": "Exchange Act Release No. 92542, File No. 2021-77. Anonymous claimant; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-06",
+   "summary": "Award claim of Claimant 3 on the same covered action preliminarily denied; not contested, so the denial is the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92589",
+   "location": "p. 1, footnote 1, Claimant 3 (Release No. 92589)",
+   "quote": "A third claimant (“Claimant 3”) did not contest the Preliminary Determination denying Claimant 3’s claim.",
+   "notes": "Exchange Act Release No. 92589, File No. 2021-79. Anonymous claimant; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-19",
+   "summary": "Award claims of Claimants 2 and 3 on the same covered action preliminarily denied; not contested, so the denials became the Commission's final orders.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92708",
+   "location": "p. 1, footnote 1, Claimants 2 and 3 (Release No. 92708)",
+   "quote": "The CRS also recommended the denial of the award applications from Claimant 2 and Claimant 3, neither of whom contested the Preliminary Determinations.",
+   "notes": "Exchange Act Release No. 92708, File No. 2021-83. Two anonymous claimants in one row; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-19",
+   "summary": "Award claim of Claimant 4 denied after contest: information came more than two years after the investigation opened and after the action was filed; staff already knew of the added defendants. Related-action claim also denied (uncontested).",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92708",
+   "location": "pp. 2-5, Parts I.B-III and footnote 2, Claimant 4 (Release No. 92708)",
+   "quote": "It is further ORDERED that Claimant 4’s whistleblower award application in the Covered Action be, and hereby is, denied.",
+   "notes": "Exchange Act Release No. 92708, File No. 2021-83. Anonymous claimant. Neither Rule 21F-4(c)(1) (conceded) nor (c)(2) met; supplemental staff declaration credited. Footnote 2: related-action award denial became final under Rule 21F-11(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-27",
+   "summary": "The same claimant's claim for a related-action award preliminarily denied; not contested, so the denial is the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92777",
+   "location": "p. 1, footnote 1, related-action claim (Release No. 92777)",
+   "quote": "The CRS also recommended the denial of a related action award to Claimant.",
+   "notes": "Exchange Act Release No. 92777, File No. 2021-85. Anonymous claimant (the same person awarded on the covered action); no reasons given. Final under Rule 21F-11(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-08-27",
+   "summary": "Award claim of Claimant 4 on the same covered action preliminarily denied; not contested, so the denial became the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92778",
+   "location": "p. 1, footnote 1, Claimant 4 (Release No. 92778)",
+   "quote": "The CRS also recommended denying an award to a fourth claimant (“Claimant 4”), who did not contest the preliminary denial.",
+   "notes": "Exchange Act Release No. 92778, File No. 2021-86. Anonymous claimant; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-09-10",
+   "summary": "The same claimant's claim for a related-action award preliminarily denied; not contested, so the denial is the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92929",
+   "location": "p. 1, footnote 1, related-action claim (Release No. 92929)",
+   "quote": "The CRS also recommended the denial of a related action award to Claimant.",
+   "notes": "Exchange Act Release No. 92929, File No. 2021-88. Anonymous claimant (the same person awarded on the covered action); no reasons given. Final under Rule 21F-11(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-09-10",
+   "summary": "Award claim of a second claimant preliminarily denied; no reconsideration requested, so the denial became the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-92931",
+   "location": "p. 1, footnote 1, second claimant (Release No. 92931)",
+   "quote": "The Preliminary Determination of the CRS also recommended denying an award to a second claimant, who did not submit a request for reconsideration.",
+   "notes": "Exchange Act Release No. 92931, File No. 2021-89. Anonymous claimant; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-09-17",
+   "summary": "Award claims of three other claimants preliminarily denied; none requested reconsideration, so the denials became the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-93049",
+   "location": "p. 1, footnote 1, three other claimants (Release No. 93049)",
+   "quote": "The CRS also preliminarily determined to recommend that the award applications of three other claimants be denied.",
+   "notes": "Exchange Act Release No. 93049, File No. 2021-94. Three anonymous claimants in one row; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-09-20",
+   "summary": "Award claim of Claimant 2 on the same covered action preliminarily denied; not contested, so the denial became the Commission's final order.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-93055",
+   "location": "p. 1, footnote 1, Claimant 2 (Release No. 93055)",
+   "quote": "A second claimant (“Claimant 2”) did not contest the Preliminary Determination denying Claimant 2’s claim.",
+   "notes": "Exchange Act Release No. 93055, File No. 2021-95. Anonymous claimant; no reasons given. Final under Rule 21F-10(f)."
+  },
+  {
+   "jurisdiction": "USA",
+   "program_id": "usa-sec-wb",
+   "date_precision": "day",
+   "whistleblower": "",
+   "target": "",
+   "sanctions_amount": "",
+   "award_amount": "",
+   "award_pct": "",
+   "currency": "USD",
+   "date": "2021-10-01",
+   "summary": "Award claim of Claimant 2 denied after contest: the investigation was opened on Claimant 1's information and Claimant 2's information duplicated what staff already had and was not used for any charge.",
+   "outcome": "denied",
+   "source_id": "usa-sec-wb-order-34-93233",
+   "location": "pp. 2-5, Parts I.B-IV, Claimant 2 (Release No. 93233)",
+   "quote": "Claimant 2’s whistleblower award application be, and hereby is, denied.",
+   "notes": "Exchange Act Release No. 93233, File No. 2022-1. Anonymous claimant. Neither Rule 21F-4(c)(1) nor (c)(2) met; declaration and supplemental declaration of investigative staff credited."
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "Award percentages, sanctions, respondents and dates are redacted in most orders; nothing more can be taken from the documents."
+ ],
+ "leads": [],
+ "suggested_corrections": [
+  {
+   "table": "cases.csv",
+   "id": "c-38d5151106",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92542, File No. 2021-77. Listed on the SEC Final Orders page as \"Award Orders (PDF)\" (Aug. 2, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 1 (claimants numbered in the order the amounts appear). Amount as printed: \"more than\": lower bound. Claimant 1. Not contested. First to tell staff of the conduct at issue (\"Issue A\"), several months before Claimant 2, establishing the outline of the case; information broader and more current; raised concerns internally repeatedly; telephone interview and documents, though stopped assisting at one point despite staff requests. Presumption criteria discussed for Claimant 1 (no negative factors). Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-38d5151106",
+   "field": "summary",
+   "value": "Larger share to the first claimant to report the conduct, who had repeatedly raised concerns internally.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-f508b2df83",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92542, File No. 2021-77. Listed on the SEC Final Orders page as \"Award Orders (PDF)\" (Aug. 2, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 2 (claimants numbered in the order the amounts appear). Amount as printed: \"more than\": lower bound. Claimant 2. Contested the split, seeking a larger share; rejected. Reduced for unreasonable reporting delay (about four years after learning of the conduct, with no steps to remedy it; futility of internal reporting and late understanding of illegality rejected). Contributions to a separate covered action against the company (\"Issue B\") to be considered separately; no credit for charges the SEC could have brought (citing Release No. 90872). Ongoing assistance during the investigation. Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-f508b2df83",
+   "field": "summary",
+   "value": "Smaller share, upheld on reconsideration, for a claimant who waited about four years to report; credit for a separate action left for later.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-1d9820e149",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92587, File No. 2021-78. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 6, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately\". Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Tip about an ongoing fraud prompted the opening of an investigation; multiple voluntary interviews and documents. Footnote 1: a separate action arising from the same facts will be treated as part of the covered action if its sanctions are under $1,000,000 (Rule 21F-4(d)(2)). Percentage redacted; contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-1d9820e149",
+   "field": "summary",
+   "value": "Award for a tip about an ongoing fraud that opened the investigation.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-158e7e1ba7",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92589, File No. 2021-79. Listed on the SEC Final Orders page as \"Award Orders (PDF)\" (Aug. 6, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 1 (claimants numbered in the order the amounts appear). Amount as printed: \"approximately\". Claimant 1. Not contested. Information served as a roadmap for the investigation; ongoing assistance. Percentage redacted. Claimant 3 denied (separate row).",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-158e7e1ba7",
+   "field": "summary",
+   "value": "Larger award to the claimant whose information was a roadmap for the investigation.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-457490f2dd",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92589, File No. 2021-79. Listed on the SEC Final Orders page as \"Award Orders (PDF)\" (Aug. 6, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 2 (claimants numbered in the order the amounts appear). Amount as printed: \"approximately\". Claimant 2. Not contested. Independent analysis narrowed the investigation's focus and helped craft a subpoena, and informed the final charges, but was less impactful than Claimant 1's information. Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-457490f2dd",
+   "field": "summary",
+   "value": "Smaller award to a claimant whose independent analysis narrowed the investigation and helped draft a subpoena.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-bc64013499",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92621, File No. 2021-80. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 10, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately $3.5 million\" (text layer and OCR read the phrase whole across a line break; the earlier note said a redaction fell inside it). Percentage redacted. Claimant, a foreign national, alerted staff to violations, prompting them to expand an existing investigation into another geographic area; travelled to meet staff in person, identified an important witness, made multiple supplemental submissions. Contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-bc64013499",
+   "field": "summary",
+   "value": "Award to a foreign national whose tip expanded an existing investigation to another region; travelled to meet SEC staff.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-bc64013499",
+   "field": "quote",
+   "value": "receive a whistleblower award of approximately $3.5 million",
+   "reason": "Text layer and OCR both read the phrase without a redaction (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-9873de945a",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92622, File No. 2021-81. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 10, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately\". Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Claimant first reported concerns internally to the employer, then alerted SEC staff, prompting an investigation; met staff in person, documents, potential witnesses. Percentage redacted; contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-9873de945a",
+   "field": "summary",
+   "value": "Award to an employee who reported internally first and whose tip opened the investigation.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-92e8ec89dd",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92623, File No. 2021-82. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 10, 2021). Whistleblowers awarded: 1. Amount as printed: \"over\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Rule 21F-9(e) waiver: Form TCR filed under penalty of perjury within 30 days of learning of the requirement. Tip about an ongoing fraudulent scheme in part prompted the investigation; several interviews, witnesses, documents evidencing misrepresentations. Percentage redacted; contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-92e8ec89dd",
+   "field": "summary",
+   "value": "Award for a tip about an ongoing fraudulent scheme; late Form TCR excused under Rule 21F-9(e).",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-13111dd612",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92708, File No. 2021-83. Listed on the SEC Final Orders page as \"Award and Denial Orders (PDF)\" (Aug. 19, 2021). Whistleblowers awarded: 1. The order gives no dollar amount and the percentage is redacted. Claimant 1. Not contested. Civil action in federal court, complaint later amended to add defendants; final judgment entered. New information caused staff to open a new investigation; charges directly based on it; ongoing assistance. Claimants 2 and 3 (uncontested) and Claimant 4 (contested) denied (separate rows). Percentage and amount redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-13111dd612",
+   "field": "summary",
+   "value": "Award for new information that opened an investigation and directly supported the charges; three other claimants denied.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-8584131b6f",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92767, File No. 2021-84. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 26, 2021). Whistleblowers awarded: 1. The order gives no dollar amount; percentage stated: 30%. Maximum award under the Rule 21F-6(c) presumption. Claimant, a harmed investor, gave important information on misrepresentations used to induce the investment, which significantly contributed to the action; spoke with staff and gave documents. The order says that because nothing has been collected, the 30% award would not result in any payment. Contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-8584131b6f",
+   "field": "summary",
+   "value": "Maximum 30% award under the presumption to a harmed investor; nothing collected, so no payment.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-3d8ad3a794",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92777, File No. 2021-85. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 27, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately\". Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Outsider credited with \"independent analysis\" (Rule 21F-4(b)(3)): built and applied a complex algorithm to publicly available data; information early in the investigation significantly contributed (saved time, helped in settlement negotiations with the company); ongoing assistance by phone and email. Related-action claim denied (separate row). Percentage redacted; contest status not stated.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-3d8ad3a794",
+   "field": "summary",
+   "value": "Award for independent analysis: an algorithm applied to public data that helped the investigation and settlement talks; related-action claim denied.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-d67a3f7bf4",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92778, File No. 2021-86. Listed on the SEC Final Orders page as \"Award Orders (PDF)\" (Aug. 27, 2021). Whistleblowers awarded: 3. Amount as printed: \"over\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Three claimants, separate (redacted) percentages; awards \"collectively\" over $1 million, no per-claimant amount printed. None contested. All three held compliance roles but qualified under the 120-day exception (Rule 21F-4(b)): Claimants 1 and 2 waited more than 120 days after reporting internally; Claimant 3 reported over 120 days after learning senior management already knew. Claimant 1: most significant information, extraordinary assistance; Claimant 2: first to report, framework for information requests; Claimant 3: less significant. Claimant 4 denied (separate row).",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-d67a3f7bf4",
+   "field": "summary",
+   "value": "Awards to three compliance-role insiders, eligible under the 120-day exception after reporting internally first; combined over $1 million.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-08bc67ec78",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92780, File No. 2021-87. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Aug. 27, 2021). Whistleblowers awarded: 1. Amount as printed: \"more than\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Not contested. Outsider credited with \"independent analysis\" of public information: identified a microcap company whose stock was the subject of a suspicious promotional campaign, comparing touting emails with other campaigns (expertise built over many years); caused staff to inquire into different conduct in a current investigation (Rule 21F-4(c)(1)); real-time information on the incipient campaign. A related enforcement action will count as part of the covered action if its sanctions are $1 million or less. Percentage redacted; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-08bc67ec78",
+   "field": "summary",
+   "value": "Award to an outside analyst whose comparison of stock-promotion emails exposed a microcap promotion campaign.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-e77c139bbe",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92929, File No. 2021-88. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 10, 2021). Whistleblowers awarded: 1. Amount as printed: \"over\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Substantial ongoing assistance; ongoing fraud involving misappropriation of investor funds. Related-action claim denied (separate row). Percentage redacted; most reasoning redacted; contest status not stated.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-e77c139bbe",
+   "field": "summary",
+   "value": "Award for help uncovering an ongoing misappropriation of investor funds; related-action claim denied.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-b659d3c8f0",
+   "field": "notes",
+   "value": "Exchange Act Release No. 92931, File No. 2021-89. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 10, 2021). Whistleblowers awarded: 1. Amount as printed: \"more than\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Not contested. Claimant, a harmed investor, prompted the opening of the investigation; met staff in person, dozens of communications, and gave the information that led to recovering the only assets used to compensate harmed investors. One other claimant denied (separate row). Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-b659d3c8f0",
+   "field": "summary",
+   "value": "Award to a harmed investor whose tip opened the investigation and led to the only assets recovered for investors.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-d23939766f",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93013, File No. 2021-92. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 16, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately\". Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Information prompted the opening of the investigation; substantial continuing assistance (identified witnesses, helped draft targeted information requests, explained key documents). Percentage redacted; much of the reasoning redacted; contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-d23939766f",
+   "field": "summary",
+   "value": "Award for a tip that opened the investigation and continuing help with witnesses and information requests.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-5018bc1dcb",
+   "field": "award_pct",
+   "value": "30",
+   "reason": "The order states a joint award of thirty percent (30%) in both the covered and the related action; the field was empty (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-5018bc1dcb",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93016, File No. 2021-93. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 16, 2021). Joint award to whistleblowers acting together (number not stated in the ordering paragraph). The order gives no dollar amount; percentages: 30%. Joint award of 30% to two claimants (footnote 6: \"between the two of them\"; paid 50% each unless they ask otherwise), on the covered action and on a related action by another agency (name redacted), under the Rule 21F-6(c) presumption. Their information caused the SEC's and the other agency's investigations to open and formed the basis of both actions; fraud involving misappropriation of investor funds. No collections to date. Contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-5018bc1dcb",
+   "field": "summary",
+   "value": "Joint maximum 30% award to two claimants whose tip opened SEC and other-agency investigations into misappropriation of investor funds; no collections yet.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-aaf030fc53",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93049, File No. 2021-94. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 17, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 1 (claimants numbered in the order the amounts appear). Amount as printed: \"nearly\": upper bound. Claimant 1. Not contested. Settled administrative proceeding against a firm (negligence-based violations; disgorgement, interest and penalty fully collected, amounts redacted). Tip was the initial source of the investigation and exposed abuses hard to detect otherwise; extensive assistance; used to plan the investigation and first document requests; persistent efforts to remedy while suffering hardships; main source of information. Three other claimants denied (separate row). Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-aaf030fc53",
+   "field": "summary",
+   "value": "Larger award to the claimant whose early, persistent tips started the investigation of a firm; suffered hardships.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-483fd9f46d",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93049, File No. 2021-94. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 17, 2021). Separate award amounts per claimant in one order: this row is the amount stated for Claimant 2 (claimants numbered in the order the amounts appear). Amount as printed: \"more than\": lower bound. Claimant 2. Not contested. More recent first-hand experience helped staff tailor requests to the firm and in settlement talks; interviews and documents. Reduced for unreasonable reporting delay (several years after becoming aware), by less than otherwise because Claimant 2 had passed information to Claimant 1 knowing it went to the SEC. Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-483fd9f46d",
+   "field": "summary",
+   "value": "Smaller award, reduced for a reporting delay of several years, to a claimant with recent first-hand knowledge of the firm.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-bc2e63672a",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93055, File No. 2021-95. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Sept. 20, 2021). Whistleblowers awarded: 1. Amount as printed: \"more than\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Information caused staff to open an investigation into a company; interviews, identified key individuals and entities; Claimant raised concerns multiple times inside the company. One other claimant denied (separate row). Percentage redacted; contest status not stated.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-bc2e63672a",
+   "field": "summary",
+   "value": "Award for a tip that opened an investigation into a company; claimant had raised concerns internally several times.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-4492cfbdae",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93233, File No. 2022-1. Listed on the SEC Final Orders page as \"Award and Denial Orders (PDF)\" (Oct. 1, 2021). Whistleblowers awarded: 1. Amount as printed: \"more than\": lower bound. Award amount and percentage are as recommended by the Claims Review Staff and adopted by the Commission unless the order says otherwise. Claimant 1. Not contested. Civil enforcement action in court; final judgments; court-appointed receiver. New, detailed, highly valuable information prompted the investigation; met staff multiple times; critical sworn testimony; information formed part of the charges; helped the receiver secure millions of dollars returned to harmed investors. Claimant 2 denied after contest (separate row). Percentage redacted.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-4492cfbdae",
+   "field": "summary",
+   "value": "Award for a tip that opened the investigation and testimony that helped a receiver return millions to investors; second claimant denied.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-0742cdcee6",
+   "field": "award_amount",
+   "value": "100000",
+   "reason": "The order prints the amount: \"receive a whistleblower award of approximately $100,000\" (p. 1; text layer and OCR agree). The row had no amount (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-0742cdcee6",
+   "field": "quote",
+   "value": "receive a whistleblower award of approximately $100,000",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-0742cdcee6",
+   "field": "location",
+   "value": "p. 1",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-0742cdcee6",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93274, File No. 2022-2. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Oct. 8, 2021). Whistleblowers awarded: 1. Amount as printed: \"approximately $100,000\"; percentage redacted. Important new information prompted staff to open an investigation; charges directly based on it; assistance saved time and resources. Contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-0742cdcee6",
+   "field": "summary",
+   "value": "Award of about $100,000 for new information that opened an investigation and directly supported the charges.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-69bf0df82b",
+   "field": "notes",
+   "value": "Exchange Act Release No. 93275, File No. 2022-3. Listed on the SEC Final Orders page as \"Award Order (PDF)\" (Oct. 8, 2021). Whistleblowers awarded: 1. The order gives no dollar amount; percentage stated: 30%. Maximum award under the Rule 21F-6(c) presumption. Tip about an ongoing fraud prompted the opening of the investigation; multiple voluntary interviews and numerous documents. No collections to date. Contest status not stated; no other claimants.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  },
+  {
+   "table": "cases.csv",
+   "id": "c-69bf0df82b",
+   "field": "summary",
+   "value": "Maximum 30% award under the presumption for a tip that opened an investigation into an ongoing fraud; no collections yet.",
+   "reason": "Order read in full (extract-whistleblowing-usa15).",
+   "by": "extract-whistleblowing-usa15"
+  }
+ ],
+ "ledger": [
+  {
+   "source_id": "usa-sec-wb-order-34-92542",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92542 (2 Aug 2021, File No. 2021-77, 5 pp., redacted; p. 5 also OCRed): awards of more than $1.1 million (Claimant 1) and more than $500,000 (Claimant 2, contest rejected, reduced for four-year delay) (both already recorded); footnote 2: third claimant denied (uncontested). Added: 1 denial row; suggested summary/notes corrections for both rows.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92587",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92587 (6 Aug 2021, File No. 2021-78, 2 pp., redacted): award of approximately $2 million (already recorded); percentage redacted; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92589",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92589 (6 Aug 2021, File No. 2021-79, 3 pp., redacted): awards of approximately $1,000,000 (Claimant 1) and approximately $500,000 (Claimant 2) (both already recorded); footnote 1: Claimant 3 denied (uncontested). Added: 1 denial row; suggested summary/notes corrections for both rows.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92621",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92621 (10 Aug 2021, File No. 2021-80, 2 pp., redacted): award of approximately $3.5 million to a foreign national (already recorded); percentage redacted; no other claimants. Suggested corrections: notes wrongly say \"no dollar amount\" and that a redaction splits the phrase.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92622",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92622 (10 Aug 2021, File No. 2021-81, 2 pp., redacted): award of approximately $2.4 million (already recorded); percentage redacted; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92623",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92623 (10 Aug 2021, File No. 2021-82, 2 pp., redacted, poor text layer): award of over $17,000 (already recorded); Rule 21F-9(e) waiver; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92708",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92708 (19 Aug 2021, File No. 2021-83, 5 pp., redacted): award to Claimant 1, percentage and amount redacted (already recorded); Claimants 2 and 3 denied (uncontested); Claimant 4 denied after contest, plus related-action denial. Added: 2 denial rows; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92767",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92767 (26 Aug 2021, File No. 2021-84, 2 pp.): 30% award under the Rule 21F-6(c) presumption to a harmed investor (already recorded); no collections, so no payment; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92777",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92777 (27 Aug 2021, File No. 2021-85, 3 pp., redacted; p. 3 also OCRed): award of approximately $1.2 million for independent analysis of public data (already recorded); footnote 1: same claimant's related-action claim denied (uncontested). Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92778",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92778 (27 Aug 2021, File No. 2021-86, 3 pp., redacted): awards to three compliance-role claimants totalling over $1 million (already recorded as one row; no per-claimant amounts or percentages printed); footnote 1: Claimant 4 denied (uncontested). Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92780",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92780 (27 Aug 2021, File No. 2021-87, 3 pp., redacted; p. 3 also OCRed): award of more than $350,000 for independent analysis of a microcap promotion (already recorded); percentage redacted; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92929",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92929 (10 Sept 2021, File No. 2021-88, 2 pp., heavily redacted): award presently over $700,000 (already recorded); footnote 1: same claimant's related-action claim denied (uncontested). Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92931",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92931 (10 Sept 2021, File No. 2021-89, 2 pp., redacted): award of more than $400,000 to a harmed investor (already recorded); footnote 1: second claimant denied (uncontested). Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93013",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93013 (16 Sept 2021, File No. 2021-92, 2 pp., heavily redacted): award of approximately $1.2 million (already recorded); percentage redacted; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93016",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93016 (16 Sept 2021, File No. 2021-93, 3 pp., redacted): joint 30% award to two claimants on covered and related action under the Rule 21F-6(c) presumption (already recorded; award_pct field empty, correction suggested); no collections; no other claimants.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93049",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93049 (17 Sept 2021, File No. 2021-94, 4 pp., redacted; p. 4 also OCRed): awards of nearly $7 million (Claimant 1) and more than $4.5 million (Claimant 2, reduced for delay) (both already recorded); footnote 1: three other claimants denied (uncontested). Added: 1 denial row; suggested summary/notes corrections for both rows.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93055",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93055 (20 Sept 2021, File No. 2021-95, 3 pp., redacted; p. 3 also OCRed): award of more than $2.5 million (already recorded); footnote 1: Claimant 2 denied (uncontested). Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93233",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93233 (1 Oct 2021, File No. 2022-1, 5 pp., redacted): award of more than $1.7 million to Claimant 1 (already recorded); Claimant 2 denied after contest. Added: 1 denial row; suggested summary/notes correction.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93274",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93274 (8 Oct 2021, File No. 2022-2, 2 pp., redacted): award of approximately $100,000 (existing row lacks the amount and says none is given; correction suggested); percentage redacted; no other claimants.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93275",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93275 (8 Oct 2021, File No. 2022-3, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction.",
+   "to_do": ""
+  }
+ ]
+}
