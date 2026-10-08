@@ -1115,3 +1115,482 @@ o-c5302c49ae,"(2,549,795)",,1,FY 2025,PDF p. 22,"Amount obligated and/or paid fr
 o-2de41f1661,2,,1,Snapshot,PDF p. 4,CFTC issued two orders granting awards in FY 2025,medium,Orders granting awards = two (three applications granted). 120 denials also issued (p.4); no total-orders figure found.,claude-sonnet-5,2026-10-09,1,no
 o-181389eae2,"$9,728,902",,1,Note 5,PDF p. 44,"$9,728,902 from accounts payable at the end of FY 2024",high,,claude-sonnet-5,2026-10-09,1,no
 o-d0f440c5e3,"$30,277,233",,1,Note 5,PDF p. 44,"would be required to pay whistleblowers an additional $30,277,233 if all collections were received on these matters",high,,claude-sonnet-5,2026-10-09,1,no
+o-396ff2f376,50%,,1,,PDF p. 7,a jelzések 50%-ában a közölt információk nem kartell magatartásra utaltak,high,,claude-sonnet-5,2026-10-09,1,no
+o-8dee6046eb,40%,,1,,PDF p. 7,"Az esetek 40%-ában az információk kartellre utaltak ugyan, de nem feleltek meg ... követelményeknek",high,,claude-sonnet-5,2026-10-09,1,no
+o-71028feb8b,10%,,1,,PDF p. 7,Az esetek fennmaradó 10%-ában ... a kérelem befogadásra került,high,,claude-sonnet-5,2026-10-09,1,no
+o-d5727be5b4,,,1,,PDF p. 9,"2012-ben ... 2011-hez hasonlóan, az elmúlt évben is közel 20 informátori megkeresés érkezett",low,"No 2011 figure printed in the 2012 report. Only 2012 stated: close to 20 informant enquiries (közel 20), and ""like 2011"". Not a 2011 number as such.",claude-sonnet-5,2026-10-09,1,no
+o-bda9679f6d,20,,1,,PDF p. 100,a Kartell Chat ... felületen 2016‑ban 20-an regisztráltak,high,Also p.12: 20 enquiries registered on Kartell Chat,claude-sonnet-5,2026-10-09,1,no
+o-0cd733d434,1,,1,,PDF p. 12,az informátori díj eredményeként 1 eljárásindítás volt előkészíthető,medium,Printed as procedure initiations that could be prepared (előkészíthető),claude-sonnet-5,2026-10-09,1,no
+o-935e90427f,2,,1,,PDF p. 12,A Kartell Chat eredményeként 2 ... eljárásindítás volt előkészíthető,medium,Printed as procedure initiations that could be prepared (előkészíthető),claude-sonnet-5,2026-10-09,1,no
+o-d5c075bcdf,92,,1,Total,PDF p. 62,2007  92  92  70  22 -,high,,claude-sonnet-5,2026-10-09,1,no
+o-153d3338a3,1,,1,,PDF p. 62,"8 to central government agencies, 1 to the Board of Audit and Inspection, and 2 to others",high,Of the 81 cases transferred in 2010,claude-sonnet-5,2026-10-09,1,no
+o-658ac6115a,171.2,,billion,KRW,PDF p. 62,the total amount of financial collection or redemption ... reached 171.2 billion KRW,high,,claude-sonnet-5,2026-10-09,1,no
+o-0f55d9d56d,57,,1,,PDF p. 62,local government agencies-57(7.6%),high,,claude-sonnet-5,2026-10-09,1,no
+o-b425c92621,82,,1,Subtotal ① (completion of investigation),PDF p. 62,2005 82 82 53 29,high,"Total 82, completion-of-investigation subtotal also 82",claude-sonnet-5,2026-10-09,1,no
+o-60235647ff,113,,1,2003,PDF p. 61,Corruption 137 113 84 95 ... (2003 column),high,"Row Corruption, column 2003; Subtotal of allegations 2003 also 113",claude-sonnet-5,2026-10-09,1,no
+o-520d51bbae,"2,711,000",,1,Average reward amount (won),PDF p. 67,"2011  12  18,834,014,000 1,499,401,000 2,711,000 12.5",medium,"Table prints 2,711,000 in Average reward amount for 2011 (1,499,401,000/12 would be ~125 million, so table figure looks inconsistent); not independently checked",claude-sonnet-5,2026-10-09,1,no
+o-cb62b1cc75,11.0,,1,Rate of reward amount compared to reward money payable (%),PDF p. 67,"2009  20  5,811,771,029 642,146,000 32,103,000 11.0",high,,claude-sonnet-5,2026-10-09,1,no
+o-282cd7907e,55,,1,,PDF p. 60,* Excluding 55 cases currently under review,medium,"Footnote to Corruption reports handled table (Total 22,047); cases still under review at end 2011",claude-sonnet-5,2026-10-09,1,no
+o-40db9dd947,33,,1,Acquittal,PDF p. 61,2003 100 100 67 33 -,high,,claude-sonnet-5,2026-10-09,1,no
+o-2b5e5d86ce,169,,1,,PDF p. 70,Total 292 | Health 169,high,Health column; period is Sep 30-Dec 31 2011,claude-sonnet-5,2026-10-09,1,no
+o-1b582f1b5c,2,,1,,PDF p. 67,"in the year 2002 there were recorded 2 cases, ... 2 cases in 2007",high,Fines levied for violation of identity protection regulations: 2007 = 2 cases,claude-sonnet-5,2026-10-09,1,no
+o-5ac3d91a7a,83,,1,Subtotal ① (notification of results),PDF p. 60,2006 83 83 63 20 -,high,Total 83 and Notification-of-results subtotal 83,claude-sonnet-5,2026-10-09,1,no
+o-ee29139b69,21,,1,,PDF p. 61,"followed by to the Supreme Prosecutor’s Office (21, 15.1%)",high,Text on the 139 people accused in 2013; 21 cases referred to Supreme Prosecutors Office,claude-sonnet-5,2026-10-09,1,no
+o-d6dd9cf725,"28,246",,1,Total (reports handled),PDF p. 60,"Reports handled 28,246 1,035 430 9,620 17,161",high,,claude-sonnet-5,2026-10-09,1,no
+o-3c1a7cfaae,9,,1,,PDF p. 70,"a total of 9 cases were accepted (7 for protective measures, 1 for personal safety, and 1 for remission of culpability)",high,"Text, cumulative since 30 Sep 2011; unit printed as cases",claude-sonnet-5,2026-10-09,1,no
+o-78729edc7a,3,,1,,PDF p. 65,3 for confirming the confidentiality of personal information,high,"In 2013 a total of 27 requests (20 public position, 4 personal safety, 3 confidentiality)",claude-sonnet-5,2026-10-09,1,no
+o-b5e1879808,5,,1,,PDF p. 70,"a total of 33 reports that should be protected, including 20 for protective measures and 5 for guarantee of confidentiality",medium,"Text states reports/cases to be protected; cumulative since Sep 30, 2011",claude-sonnet-5,2026-10-09,1,no
+o-fa95e02412,95,,1,,PDF p. 62,"95 people were charged, dismissed or have resigned",high,"Text, cumulative 2002-2014 (persons)",claude-sonnet-5,2026-10-09,1,no
+o-7fe8940024,688,,1,Environment,PDF p. 71,"Total 13,462 | Public Health 7,336 | Safety 2,409 | Environment 688",high,"Table as of end Dec 2014, cumulative since 30 Sep 2011",claude-sonnet-5,2026-10-09,1,no
+o-f1445f328c,"4,510",,1,2014,PDF p. 62,"No. of Cases Received ... 2013 3,735 2014 4,510",high,,claude-sonnet-5,2026-10-09,1,no
+o-6dbfcb960b,201,,1,,PDF p. 62,private sector institutions showed the largest number with 201 cases (85.2%),high,Of the 236 cases referred in 2014,claude-sonnet-5,2026-10-09,1,no
+o-7b6a032a2e,104,,1,,PDF p. 71,fines were levied for 104 cases,high,"Text: criminal charges 484, fines 104, administrative charges/penalties 531",claude-sonnet-5,2026-10-09,1,no
+o-98ab441bc2,"1,271",,1,Referred,PDF p. 62,"Reports handled 32,727 | Referred 1,271",high,,claude-sonnet-5,2026-10-09,1,no
+o-1e61fab2d1,147,,1,Month average,PDF p. 33,"2004 1,763 147",high,"Monthly average column; cases received that year 1,763",claude-sonnet-5,2026-10-09,1,no
+o-155a5fb3d1,"12,303",,1,,PDF p. 36,"12,303 cases referred or forwarded to inspection/investigative agencies",high,Cumulative since Public Interest Whistleblower Protection Act; found on PDF p. 36,claude-sonnet-5,2026-10-09,1,no
+o-b57761db89,331.55,,million,KRW,PDF p. 36,331.55 million KRW in total was paid as reward,medium,"Text on public health sector reward in 2015 (found on PDF p. 36, not 35); ""in 2015, KRW 380 million to 511 whistleblowers"" context",claude-sonnet-5,2026-10-09,1,no
+o-a5d408a340,340,,1,,PDF p. 3,"Last year, we received and handled a total of 340 cases of report and recovered KRW 28.7 billion (for 125 cases)",high,Center for Reporting Public Subsidy Fraud,claude-sonnet-5,2026-10-09,1,no
+o-c5282a6343,474,,billion,KRW,PDF p. 33,amount recovered or collected as a result of internal corrupt reports is approximately KRW 474 billion,high,Approximately; 80.4% of KRW 590 billion total,claude-sonnet-5,2026-10-09,1,no
+o-838f22575c,145,,1,Month average,PDF p. 33,"2006 1,745 145",high,Monthly average column,claude-sonnet-5,2026-10-09,1,no
+o-060dd95173,4,,1,2015,PDF p. 67,Confirmation of details on identity disclosure ... 2015: 4,medium,"Mapped confidentiality to the row Confirmation of details on identity disclosure (Total 22), year 2015 column; table counts requests",claude-sonnet-5,2026-10-09,1,no
+o-fbe7789f4e,27.4,,1,,PDF p. 68,system increased from 27.4% in 2015 to 28.4% in 2016,medium,"Sentence is split across columns; the preceding text concerns awareness of the whistleblowing system (on this page, left column ends ""awareness of the public interest whistleblower protection system""...)",claude-sonnet-5,2026-10-09,1,no
+o-b0596c4d9d,1,,1,2014,PDF p. 67,Mitigation of culpability 5 (1) - 1 1 1 -,medium,"Row Mitigation of culpability: 2011 -, 2012 1, 2013 1, 2014 1, 2015 -; ""remission of culpability"" mapped to this row",claude-sonnet-5,2026-10-09,1,no
+o-85273c2add,"1,881",,1,Others,PDF p. 67,"2015 5,771 1,931 595 1,151 174 39 1,881",high,,claude-sonnet-5,2026-10-09,1,no
+o-38321ed05d,625,,billion,KRW,PDF p. 64,"approximately KRW 625 billion, accounting for 82.1% of the total recoverable or collectible amount",high,,claude-sonnet-5,2026-10-09,1,no
+o-8dc8750fa5,376,,1,Monthly average,PDF p. 64,Monthly average ... 2014 376,high,"2014 cases 4,510",claude-sonnet-5,2026-10-09,1,no
+o-a2e0b445da,"9,713",,million,Amount to be recovered or collected (mil. won),PDF p. 128,"2006  304  148  156  -  4  4  9,713",high,Column Amount to be recovered or collected (mil. won),claude-sonnet-5,2026-10-09,1,no
+o-6956c15f02,32,,1,Handled(a+b+c),PDF p. 140,2012 32 cases | Paid 32 | Dismissed - | Concluded -,high,Handled(a+b+c)=32 and Paid=32 are the same,claude-sonnet-5,2026-10-09,1,no
+o-f99c23b59f,94,,1,Fair competition,PDF p. 137,"2014 9,130 5,570 1,936 312 345 94 873",high,,claude-sonnet-5,2026-10-09,1,no
+o-189b27c7f5,37,,1,Number of cases,PDF p. 134,"2013  37  8,393,380  951,210",high,,claude-sonnet-5,2026-10-09,1,no
+o-c34bdd4f36,87,,1,,PDF p. 16,"24,365 public interest whistleblowing cases have been received and processed, and 87 requests for protection have been received",high,,claude-sonnet-5,2026-10-09,1,no
+o-45e1ba6ed5,"1,573",,1,,PDF p. 138,"penalty surcharge/administrative fines for 1,573 cases",high,"Text; table shows additional charge 774 and administrative fine 799 (sum 1,573)",claude-sonnet-5,2026-10-09,1,no
+o-c8679e3d3c,324,,1,Monthly average,PDF p. 92,"Monthly average ... 2015: 324 (cases 3,885)",high,"Columns aligned by counting: ...2013 311, 2014 376, 2015 324",claude-sonnet-5,2026-10-09,1,no
+o-a4a0128fb5,"9,943",,1,"Phone call, 2013",PDF p. 91,"Phone call 106,996 83.2 11,642 4,739 4,352 4,418 3,628 5,129 5,063 4,689 5,714 9,943",high,"2013 column; checked: phone 9,943 + internet 400 + visitation 384 = 10,727 total",claude-sonnet-5,2026-10-09,1,no
+o-8abe85ff95,"2,509",,1,Total,PDF p. 94,"2013 2,509 73 1,427 1,009",high,Total handled in 2013,claude-sonnet-5,2026-10-09,1,no
+o-4a52b8f851,1,,1,Prohibition of disadvantageous measures,PDF p. 101,2018 75 22 6 7 2 1 6 ...,medium,"Column Prohibition of disadvantageous measures (accepted), 2018; subtotal accepted 22 = 6+7+2+1+6",claude-sonnet-5,2026-10-09,1,no
+o-abe979a857,32,,1,Number of cases,PDF p. 104,"2012  32건  147,860  28,472",high,Number of cases (건 = cases),claude-sonnet-5,2026-10-09,1,no
+o-c630456a8d,"3,628",,1,"Phone call, 2008",PDF p. 91,"Phone call ... 2008: 3,628",high,"2008 total 4,049 = 3,628+212+209",claude-sonnet-5,2026-10-09,1,no
+o-dfc8139e4c,446,,1,,PDF p. 93,"Referred and forwarded 1,951; Completed 1,505; Under investigation 446",high,"Cumulative since Center launched (Oct 2013), to end 2019",claude-sonnet-5,2026-10-09,1,no
+o-58f546bd56,"3,771",,1,Others,PDF p. 90,"33,452 33,092 17,711 15,381 15,535 7,421 47.8% 8,114 2,176 881 993 130 898 1,025 3,771",medium,"Last column Others (in Result of investigation), unit cases; column assignment by position (prosecution 881+accusation 993 = 1,874 and additional charge 898+admin fine 1,025 = 1,923 match the text)",claude-sonnet-5,2026-10-09,1,no
+o-51fa06bb66,954,,1,,PDF p. 88,"Report handling 60,274 | Referral 2,833 | Notification of violation of code of conduct 954",high,,claude-sonnet-5,2026-10-09,1,no
+o-a908f70a1d,2,,1,Rejected,PDF p. 97,2012 9 3 1 1 - - 1 2 1 3 -,high,"Rejected column, 2012",claude-sonnet-5,2026-10-09,1,no
+o-c3b4386cca,"1,181",,1,2019 1st half,PDF p. 57,"Improper solicitation: 2017 242/193; 2018 2,055/1,275; 2019 1st half 1,181; Total 4,946",high,,claude-sonnet-5,2026-10-09,1,no
+o-8f640e01ed,13,,1,Protective measures,PDF p. 97,2019 168 42 13 13 9 1 6 22 17 49 38,high,"Protective measures (accepted) column, 2019; subtotal 42 = 13+13+9+1+6",claude-sonnet-5,2026-10-09,1,no
+o-a7f7da6dff,296,,1,"Monthly average, Total",PDF p. 76,"Monthly average 296 (Total 67,449 cases)",high,"Cumulative monthly average, 2002-2020",claude-sonnet-5,2026-10-09,1,no
+o-82f3fa22ef,73,,1,Referred,PDF p. 79,’19 Consumer interest 609 | Referred 73 | Forwarded 396 | Closed 140,high,,claude-sonnet-5,2026-10-09,1,no
+o-faec4dda01,959,,1,Acceptance of money and other valuables,PDF p. 51,"’18  3,330 cases | 959 cases | 97 cases | 4,386 cases",high,"Acceptance of money and other valuables, 2018",claude-sonnet-5,2026-10-09,1,no
+o-50873f6865,50,,1,Forwarded,PDF p. 78,’17 Consumer interest 137 | 4 | 50 | 83,high,,claude-sonnet-5,2026-10-09,1,no
+o-33e9f26808,569,,1,Forwarded,PDF p. 78,’11~’15 Consumer interest 854 | 28 | 569 | 257,high,,claude-sonnet-5,2026-10-09,1,no
+o-130da1fdd8,"1,153",,1,2012,PDF p. 77,"No. of cases 38,998 292 1,153 2,887 ...",high,2012 column,claude-sonnet-5,2026-10-09,1,no
+o-08a397ecce,"1,446",,1,Reports received,PDF p. 72,"2018  1,446  1,428  265  227  936",high,"Reports received column (Table 3-9); older 2019 report prints same 1,446",claude-sonnet-5,2026-10-09,1,no
+o-3b2291e89b,227,,1,Referred,PDF p. 70,"2011~2019 Public safety 5,303 | Referred 227 | Forwarded 3,530 | Closed 1,546",high,"Row Public safety, column Referred",claude-sonnet-5,2026-10-09,1,no
+o-3781b50bf1,"10,014",,1,"Phone call, 2017",PDF p. 67,"Phone call 146,310 80.0 16,381 22,590 4,689 5,714 9,943 8,287 8,577 9,719 10,014 11,082",high,2017 column by counting after 2011,claude-sonnet-5,2026-10-09,1,no
+o-2c4c0f5855,3,,1,Temporary suspension,PDF p. 78,2018 38 25 - 10 3 | 53 ...,high,"Temporary suspension (corruption reporters), 2018",claude-sonnet-5,2026-10-09,1,no
+o-3e6a5833ca,8,,1,Referred,PDF p. 70,2020 Fair competition 96 | 8 | 46 | 42,high,Referred column,claude-sonnet-5,2026-10-09,1,no
+o-90827180c9,321,,1,Referred,PDF p. 72,"2019  1,537  1,527  321  225  981",high,Referred column (Table 3-9),claude-sonnet-5,2026-10-09,1,no
+o-a04fd29e35,346,,1,"Monthly average, Total",PDF p. 66,"Monthly average 346 (Total 91,292 cases)",high,Cumulative 2002-2023,claude-sonnet-5,2026-10-09,1,no
+o-9b9a9a2700,2,,1,Confirmation of details on identity disclosures,PDF p. 75,2013 | 17 13 1 2 - 1 (public interest reporters),medium,"Public interest side, 2013 row, column Confirmation of details on identity disclosures; mapped confidentiality to this column. Other 2013 columns: guarantee of position 13, personal safety 1, exemption of liability 1",claude-sonnet-5,2026-10-09,1,no
+o-7f8c56b828,325,,1,"Monthly average, Total",PDF p. 67,"Monthly average 325 (Total 49,800)",high,Cumulative since 30 Sep 2011,claude-sonnet-5,2026-10-09,1,no
+o-910c1da6aa,5,,1,Guarantee of position (first measure column),PDF p. 75,2012 | 11 5 3 1 1 1 (public interest reporters),low,"Public interest side, 2012 row, first column after Total (Guarantee of position in the header, 5). Mapping protective_measures to that column is an assumption. Other columns: personal safety 3, identity disclosure 1, temporary suspension 1, exemption 1",claude-sonnet-5,2026-10-09,1,no
+o-092378ca91,51,,1,Forwarded,PDF p. 69,2022 the equivalent public interest 67 | 2 | 51 | 14,high,Forwarded column,claude-sonnet-5,2026-10-09,1,no
+o-0aafdbf64d,9,,1,Temporary suspension,PDF p. 75,2023 | 189 82 26 47 9 25 (public interest reporters),high,"Temporary suspension column, public interest side",claude-sonnet-5,2026-10-09,1,no
+o-c527d02310,"1,426",,1,2006~2010,PDF p. 71,"Visitation 12,841 5.7 4,878 1,426 1,882 ...",high,"Column 2006~2010 (includes fax, mail, in-person meeting per footnote)",claude-sonnet-5,2026-10-09,1,no
+o-9730a19d74,1,,1,Mitigation of culpability,PDF p. 84,2012  25 19 2 4 0 0 | 9 3 3 1 1 1,high,"Public interest reporters, last column Mitigation of culpability, 2012",claude-sonnet-5,2026-10-09,1,no
+o-e3279e4104,225,,1,Forwarded,PDF p. 77,"2019  1,537  1,527  321  225  981",high,Forwarded column,claude-sonnet-5,2026-10-09,1,no
+o-2354aed300,46,,1,Forwarded,PDF p. 74,2020 Fair competition 96 | 8 | 46 | 42,high,Forwarded column,claude-sonnet-5,2026-10-09,1,no
+o-7d5c822fe0,786,,1,Monthly average,PDF p. 72,Monthly average 356 | 167 193 287 | 313 339 610 786 ...,high,"2019 monthly average (cases 9,435)",claude-sonnet-5,2026-10-09,1,no
+o-f6cd062519,"1,854",,1,Closed,PDF p. 74,"2018 Others 1,854 | 0 | 0 | 1,854",high,Closed column,claude-sonnet-5,2026-10-09,1,no
+o-4255bb6fea,292,,1,2011,PDF p. 74,"No. of cases 61,219 292 1,153 2,887",high,,claude-sonnet-5,2026-10-09,1,no
+o-7412a85930,"1,600",,1,Reports received 2023,PDF p. 78,"2023 1,600 1,532 58 319 1,155",high,,claude-sonnet-5,2026-10-09,1,no
+o-1c022e69ce,82,,1,"Guarantee of position, 2019",PDF p. 85,2019 123 82 6 23 12 -,high,,claude-sonnet-5,2026-10-09,1,no
+o-d3d89036da,565,,1,Monthly average 2024,PDF p. 72,Monthly average ... 608 572 565 693,high,"Monthly average row, 2024 column (annual total 6,771 / 12 = 565); columns 2022=608, 2023=572, 2024=565",claude-sonnet-5,2026-10-09,1,no
+o-1f266306ff,81,,1,"Guarantee of position, 2021",PDF p. 85,2021 118 81 4 28 5 -,high,,claude-sonnet-5,2026-10-09,1,no
+o-1447c66f7f,14,,1,"Excessive honoraria, 2020",PDF p. 40 (report p. 39),"1,761 / 1,110 / 637 / 14 (Figure 2-1, 2020 column)",medium,"Figure labels read from text layout; honoraria values 166,97,43,14,25,68,11,94 sum to 518 matching text total; 2020 = 14",claude-sonnet-5,2026-10-09,1,no
+o-1e4e06c3d0,"35억 5,000여만 원",,1,"amount unjustly paid, recovered to treasury as a result of 25 reports",p. 1 para 1,"이들 25 명의 신고로 부당하게 지급된 35 억 5,000 여만 원이 국고로 환수됐다",high,approx. (여만 = 'and some'),claude-sonnet-5,2026-10-09,1,no
+o-5c303628ee,7,,1,persons receiving reward of 100 million won or more in 2016,p. 1 para 2,이중 1 억 원 이상의 보상금을 받은 부패신고자는 총 7 명,high,year-to-date 2016 including this payment,claude-sonnet-5,2026-10-09,1,no
+o-bb32fd5917,"4억 7,700여만 원",,1,total rewards (보상금) + awards (포상금) decided 5 Dec 2016,p. 1 para 1,"보상금 4 억 5,400 여만 원과 포상금 2,300 여만 원 등 총 4 억 7,700 여만 원",high,"year-to-date total incl. this payment is 23억 2,600여만 원 (para 2)",claude-sonnet-5,2026-10-09,1,no
+o-4c454a0501,"4억 5,400여만 원",,1,보상금 (monetary reward),p. 1 para 1,"보상금 4 억 5,400 여만 원",high,"Annex 1 says 23건, 4억 5,400여만 원",claude-sonnet-5,2026-10-09,1,no
+o-c8ea12a4d2,"4억 7,700여만 원",,1,total payout decided 5 Dec 2016,p. 1 para 1,"총 4 억 7,700 여만 원의 지급을 결정",low,"Row has no item; taken as total of this decision. Alternative: year-to-date total 23억 2,600여만 원 (para 2).",claude-sonnet-5,2026-10-09,1,no
+o-10cde90c3a,23,,1,보상금 지급 건수,"Annex 1 (붙임 1), p. 2","보상금 지급 건수 및 금액 : 23 건 , 4 억 5,400 여만 원",high,"Annex is numbered 붙임 1 in document (location said Annex 2); 포상금 annex 2 says 3건, 2,320만원",claude-sonnet-5,2026-10-09,1,no
+o-2025b84f88,28,,1,"부패신고 persons paid, Jan-May 2017",p. 1 footnote,"부패신고 : 28 명 , 2 억 1,385 만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-0b346433eb,304,,1,"공익신고 persons paid, Jan-May 2017",p. 1 footnote,"공익신고 : 304 명 , 15 억 1,703 만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-e857c5013f,"8억 4,917만 원",,1,"보상금과 포상금, 구조금 total",p. 1 para 1,"공익신고자 18 명에게 총 8 억 4,917 만 원의 보상금과 포상금 , 구조금을 지급",high,,claude-sonnet-5,2026-10-09,1,no
+o-65905b5e44,"654억 9,800여만 원",,1,국가와 지방자치단체 환수액,p. 1 para 1,"국가와 지방자치단체 환수액은 654 억 9,800 여만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-204c48fb8b,18,,1,공익신고자 persons,p. 1 para 1,"공익신고자 18 명에게 총 8 억 4,917 만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-453593e721,"12억 5,076만 원",,1,December 2019 decisions (22nd and 23rd plenary meetings),p. 1 para 2,"부패 · 공익신고자 66 명에게 12 억 5,076 만 원의 보상금과 포상금 등을 지급하기로 결정",high,"Full-year 2019 total is 43억 1,983만 원 for 312 persons (para 1)",claude-sonnet-5,2026-10-09,1,no
+o-6a6a801b06,66,,1,December 2019 decisions,p. 1 para 2,"부패 · 공익신고자 66 명에게 12 억 5,076 만 원",high,Full-year 2019: 312 persons,claude-sonnet-5,2026-10-09,1,no
+o-17603086c7,41,,1,공정한 경쟁 분야 지급건수,p. 2 text,"(공정한 경쟁 분야) 보상금 지급액은 총 29억 1,558만 원 ... (지급건수 41건, 전체의 0.6%)",high,"from running text; the table itself (단위: 건, 천원) is not in extracted text",claude-sonnet-5,2026-10-09,1,no
+o-3da4d98fc3,"5억 7,299만 원",,1,소비자 이익 분야 보상금 지급액,p. 2 text,"(소비자 이익 분야) 보상금 지급액은 총 5억 7,299만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-22bd82bb56,1,,1,이에 준하는 공공의 이익 지급건수,p. 2 text,보상금 지급액은 40만원(지급건수 1건),high,,claude-sonnet-5,2026-10-09,1,no
+o-4db68c5c7a,"48억 6,787만 원",,1,건강 분야 보상금 지급액,p. 2 text,"(건강 분야) 보상금 지급액은 총 48억 6,787만 원",high,,claude-sonnet-5,2026-10-09,1,no
+o-e1a5b647d3,771,,1,소비자 이익 분야 지급건수,p. 2 text,"지급건수 771건, 전체의 12.1%",high,,claude-sonnet-5,2026-10-09,1,no
+o-716c526d2c,8억 832만 원,,1,안전 분야 보상금 지급액,p. 2 text,(안전 분야) 보상금 지급액은 총 8억 832만 원,high,,claude-sonnet-5,2026-10-09,1,no
+o-4381d44dae,5억 872만 원,,1,보상금·포상금 paid to 25 persons,p. 1 para 1,부패 ‧ 공익신고자 25 명에게 총 5 억 872 만 원의 보상금 · 포상금 을 지급,high,"Full-year 2020 total: 55억 2,740만 원 (441 cases)",claude-sonnet-5,2026-10-09,1,no
+o-adb0460306,712억 1천여만 원,,1,2020 revenue recovered by public bodies,p. 1 (3rd para of body),공공기관이 회복한 수입금액은 712 억 1 천여만 원에 달한다,high,approx; headline says 712억 1천여만 원,claude-sonnet-5,2026-10-09,1,no
+o-512b0e4a19,25,,1,부패 ‧ 공익신고자,p. 1 para 1,부패 ‧ 공익신고자 25 명에게 총 5 억 872 만 원,high,,claude-sonnet-5,2026-10-09,1,no
+o-6a355cb6a3,"481,296",,thousand,공익 공정한 경쟁 지급액,p. 2 table,"공정한 경쟁 3(1.2%) 481,296(30.8%)",high,unit 천원 (thousand KRW) per table header,claude-sonnet-5,2026-10-09,1,no
+o-267d358509,"904,545",,thousand,공익 국민의 건강 지급액,p. 2 table,"국민의 건강 199(80%) 904,545(57.9%)",high,unit 천원 (thousand KRW) per table header,claude-sonnet-5,2026-10-09,1,no
+o-8c8fdaddf7,"1,773,954",,thousand,부패 공공기관 예산 편취 지급액,p. 2 table,"공공기관 예산 편취 14(5.9%) 1,773,954(46.3%)",high,unit 천원 (thousand KRW) per table header,claude-sonnet-5,2026-10-09,1,no
+o-2fcbbea7b2,"7,600",,thousand,공익 환경 지급액,p. 2 table,"환경 7(2.8%) 7,600(0.5%)",high,unit 천원 (thousand KRW) per table header,claude-sonnet-5,2026-10-09,1,no
+o-16f11b9a04,"103,501",,thousand,공익 소비자의 이익 지급액,p. 2 table,"소비자의 이익 22(8.8%) 103,501(6.6%)",high,unit 천원 (thousand KRW) per table header,claude-sonnet-5,2026-10-09,1,no
+o-6c2118ff05,3,,1,공익 공정한 경쟁 지급건수,p. 2 table,공정한 경쟁 3(1.2%),high,count,claude-sonnet-5,2026-10-09,1,no
+o-57a75e27c9,"16,147",,1,이첩·송부 (referred/forwarded to investigative bodies),p. 1,"총 58,307 건을 접수 , 이중 총 16,147 건 (27.7%) 을 수사 · 조사기관에 이첩 · 송부",high,,claude-sonnet-5,2026-10-09,1,no
+o-a8528dc7b3,"1,005",,1,보호신청 접수,p. 2,"총 1,005 건의 보호신청을 접수해 총 848 건을 처리",high,,claude-sonnet-5,2026-10-09,1,no
+o-abb9296909,848,,1,보호신청 처리,p. 2,"총 1,005 건의 보호신청을 접수해 총 848 건을 처리",high,,claude-sonnet-5,2026-10-09,1,no
+o-1b2af53ca9,"58,307",,1,총 접수 (all reports),p. 1,"지난 5 년간 총 58,307 건을 접수",high,,claude-sonnet-5,2026-10-09,1,no
+o-629bf325e3,"36,622",,1,부패행위 신고,p. 1 footnote,"* 부패행위 신고 36,622 건 , 공익신고 21,685 건 등",high,,claude-sonnet-5,2026-10-09,1,no
+o-9fb8179766,"21,685",,1,공익신고,p. 1 footnote,"공익신고 21,685 건 등",high,,claude-sonnet-5,2026-10-09,1,no
+o-d109a82c30,"16,147",,1,이첩·송부,p. 1 para 4,"총 16,147 건 (27.7%) 을 수사 · 조사기관에 이첩 · 송부",high,,claude-sonnet-5,2026-10-09,1,no
+o-6e75056636,"58,307",,1,총 신고 접수,p. 1 para 4,"지난 5 년간 총 58,307 건 * 의 신고를 접수",high,,claude-sonnet-5,2026-10-09,1,no
+o-ef8ccdb89a,"36,622",,1,부패행위 신고,p. 1 footnote,"* 부패행위 신고 36,622 건 , 공익신고 21,685 건 등",high,,claude-sonnet-5,2026-10-09,1,no
+o-af951bbad5,"21,685",,1,공익신고,p. 1 footnote,"공익신고 21,685 건 등",high,,claude-sonnet-5,2026-10-09,1,no
+o-9fdb2c856d,23,,1,복지 건수,PDF p. 1,"▴복지(23건, 34%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-776806e2e7,2억8천여만 원,,1,고용 지급액,PDF p. 1,"▴고용(2억8천여만 원, 34%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-9ad45c1170,8천여만 원,,1,의료 지급액,PDF p. 1,"▴의료 (8천여만 원, 10%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-ac8baa5a61,1억1천여만 원,,1,복지 지급액,PDF p. 1,"▴복지(1억1천여만 원, 14%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-e447892a51,21,,1,고용 건수,PDF p. 1,"▴고용(21건, 31%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-8e18e2ed49,1억9천여만 원,,1,연구개발 지급액,PDF p. 1,"▴연구개발(1억9천여만 원, 24%)",high,Printed as approximate (약/여). Doc header prints 보도시점 2023. 4. 23. and 금융위원회 though text names ACRC chair 유철환 and '올해 1분기'; year not stated in body,claude-sonnet-5,2026-10-09,1,no
+o-619a5021f8,29,,1,고용 건수,PDF p. 1,"▴고용 (29건, 27%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-90d8d5d64b,1억6천여만 원,,1,연구개발 지급액,PDF p. 1,"▴연구개발(1억6천여만 원, 15%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-231a99e9ed,44,,1,복지 건수,PDF p. 1,"▴복지(44건, 41%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-68fc06aa22,1억3천여만 원,,1,복지 지급액,PDF p. 1,"▴복지(1억3천여만 원, 12%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-786064009f,3억8천여만 원,,1,산업 지급액,PDF p. 1,"▴산업(3억8천여만 원, 35%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-52dc4ab5db,3억여만 원,,1,고용 지급액,PDF p. 1,"▴고용(3억여만 원, 28%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-548f3ad13a,3억8천여만 원,,1,연구개발 지급액,PDF p. 1,"▴연구개발(3억8천여만 원, 37%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-704f5baecd,1억3천여만 원,,1,복지 지급액,PDF p. 1,"▴복지(1억3천여만 원, 13%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-1dfe4136d9,17,,1,고용 건수,PDF p. 1,"▴고용(17건, 22%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-3f24e66a4e,2억4천여만 원,,1,고용 지급액,PDF p. 1,"▴고용(2억4천여만 원, 23%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-b89f0e7892,1억5천5백여만 원,,1,의료 지급액,PDF p. 1,"▴의료(1억5천5백여만 원, 15%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-24204da5a7,2,,1,추가 보상금 신청 건수,PDF p. 3-4 (text after page marker 3),추가로 보상금을 신청한 2건에 6천5백여만 원의 보상금을 지급했다,high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-40f0df88ec,8억9천여만 원,,1,산업 지급액,PDF p. 1,"▴산업(8억9천여만 원, 52%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-9232aa6bc7,15,,1,산업 건수,PDF p. 1,"▴산업(15건, 21%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-e3fea9289e,1억1천여만 원,,1,환경국토 지급액,PDF p. 1,"▴환경국토(1억1천여만 원, 7%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-23f2542ee1,3억7천여만 원,,1,고용 지급액,PDF p. 1,"▴고용(3억7천여만 원, 22%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-9a50a8845f,19,,1,복지 건수,PDF p. 1,"▴복지(19건, 26%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-dfe62ca308,8천9백여만 원,,1,복지 지급액,PDF p. 1,"▴복지(8천9백여만 원, 5%)",high,Printed as approximate (약/여).,claude-sonnet-5,2026-10-09,1,no
+o-5a1b6ea7a1,1.6억 원,,1,의료 지급액,PDF p. 1,"▴의료 (1.6억 원, 26.4%)",high,"Rounded to 0.1억 in the text (sector shares printed alongside); the case table below gives example-case amounts, not sector totals",claude-sonnet-5,2026-10-09,1,no
+o-e2ad778c81,1.6억 원,,1,고용 지급액,PDF p. 1,"▴고용(1.6억 원, 25.6%)",high,"Rounded to 0.1억 in the text (sector shares printed alongside); the case table below gives example-case amounts, not sector totals",claude-sonnet-5,2026-10-09,1,no
+o-d34a6a95c0,1.5억 원,,1,복지 지급액,PDF p. 1,"▴복지(1.5억 원, 24%)",high,"Rounded to 0.1억 in the text (sector shares printed alongside); the case table below gives example-case amounts, not sector totals",claude-sonnet-5,2026-10-09,1,no
+o-2a1429d69d,약 1.9억 원,,1,연구개발,PDF p. 1,"▴연구개발(약 1.9억 원, 28.4%)",high,"Rounded as printed (약), share % printed alongside",claude-sonnet-5,2026-10-09,1,no
+o-e9ec894baf,약 1.7억 원,,1,의료,PDF p. 1,"▴의료(약 1.7억 원, 26.2%)",high,"Rounded as printed (약), share % printed alongside",claude-sonnet-5,2026-10-09,1,no
+o-73c1b2bfbf,약 1.4억 원,,1,산업,PDF p. 1,"▴산업(약 1.4억 원, 21.7%)",high,"Rounded as printed (약), share % printed alongside",claude-sonnet-5,2026-10-09,1,no
+o-73ab5f8359,2,,1,'25년 상반기 포상 대상자,PDF p. 1,’25년 상반기 포상 대상자로 선정된 신고자 2명에게 포상금 6천여만 원,medium,"H1 포상금 (award) recipients = 2; if the row means 보상금 (reward) recipients, the document gives 44 for Q2 2025 only (no H1 figure)",claude-sonnet-5,2026-10-09,1,no
+o-fbd811437b,약 1억 6천만 원,,1,고용,PDF p. 1,"▴고용 분야(약 1억 6천만 원, 55.5%)",high,Rounded as printed (약),claude-sonnet-5,2026-10-09,1,no
+o-8ee7053cce,약 6천만 원,,1,연구개발,PDF p. 1,"▴연구개발 분야(약 6천만 원, 21.2%)",high,Rounded as printed (약),claude-sonnet-5,2026-10-09,1,no
+o-9ec4cf9081,약 2천만 원,,1,복지,PDF p. 1,"▴복지 분야(약 2천 만 원, 8.2%)",high,Rounded as printed (약),claude-sonnet-5,2026-10-09,1,no
+o-4b5ecdcd83,약 700만 원,,1,추가 지급,PDF p. 1-2 (last section),신고자 6명에게 보상금 약 700만 원을 추가로 지급,high,Rounded as printed (약),claude-sonnet-5,2026-10-09,1,no
+o-56db4d2c04,6,,1,추가 지급 신고자,PDF p. 1-2 (last section),수입 회복이 추가로 이뤄진 사건들의 신고자 6명에게 보상금 약 700만 원을 추가로 지급,high,Rounded as printed (약),claude-sonnet-5,2026-10-09,1,no
+o-54a8849779,2.1억 원,,1,연구개발,PDF p. 1,"▲연구개발(2.1억 원, 22.9%)",high,Rounded to 0.1억 as printed; share % alongside,claude-sonnet-5,2026-10-09,1,no
+o-2644add695,1.9억 원,,1,공직부패,PDF p. 1,"▲공직부패(1.9억 원, 20.9%)",high,Rounded to 0.1억 as printed; share % alongside,claude-sonnet-5,2026-10-09,1,no
+o-1ee38377a5,1.6억 원,,1,고용,PDF p. 1,"▲고용(1.6억 원, 18.0%)",high,Rounded to 0.1억 as printed; share % alongside,claude-sonnet-5,2026-10-09,1,no
+o-39c25b2203,1.5억 원,,1,복지,PDF p. 1,"▲복지(1.5억 원, 16.8%)",high,Rounded to 0.1억 as printed; share % alongside,claude-sonnet-5,2026-10-09,1,no
+o-efc9cb2bcd,37,,1,보호사건 처리건수 ('17),PDF p. 4,(처리건수) 37건(’17년) → 90건(’18년),high,Counts of protection cases handled; printed in p.4 (report p.2) footnote,claude-sonnet-5,2026-10-09,1,no
+o-c748d272a7,"3,952",,1,공익신고 처리건수 ('18),PDF p. 3,"공익신고 접수 : (’17) 2,521건 → (’18) 3,923건 ※ 처리건수: (’17) 2,238건 → (’18) 3,952건",high,,claude-sonnet-5,2026-10-09,1,no
+o-8e947ddaae,"3,923",,1,공익신고 접수 ('18),PDF p. 3,"(’18) 3,923건 (1,402건 증가)",high,,claude-sonnet-5,2026-10-09,1,no
+o-caddb79339,58.6%,,1,신고자 보호인용률 ('18),PDF p. 3,신고자 보호인용률 : (’17) 52.4% → (’18) 58.6%,high,Printed as 보호인용률 (rate of protection requests granted),claude-sonnet-5,2026-10-09,1,no
+o-7417438e6b,90,,1,보호사건 처리건수 ('18),PDF p. 4,(처리건수) 37건(’17년) → 90건(’18년),high,Counts of protection cases handled; printed in p.4 (report p.2) footnote,claude-sonnet-5,2026-10-09,1,no
+o-a01c9fcf71,"2,521",,1,공익신고 접수 ('17),PDF p. 3,"공익신고 접수 : (’17) 2,521건",high,,claude-sonnet-5,2026-10-09,1,no
+o-075535833d,5,,1,2023 m. antrinė teisinė pagalba suteikta pranešėjams,PDF p. 25,antrinė teisinė pagalba suteikta 5 pranešėjams (2022 m. – 5),high,,claude-sonnet-5,2026-10-09,1,no
+o-e919612afb,317 672,,1,į valstybės biudžetą sumokėta,PDF p. 23,į valstybės biudžetą sumokėta 317 672 Eur,high,Cumulative as stated in 2023 report section 12,claude-sonnet-5,2026-10-09,1,no
+o-85d5554389,67,,1,pranešimus pateikė 67 asmenys,PDF p. 23,2023 m. 76 pranešimus ... pateikė 67 asmenys (5 kreipėsi po kelis kartus),high,76 reports by 67 persons,claude-sonnet-5,2026-10-09,1,no
+o-5fc57bf0c0,57,,1,Pripažinti,PDF p. 24,Pripažinti 57 % Nepripažinti 43 %,high,,claude-sonnet-5,2026-10-09,1,no
+o-c542875d43,10,,1,2022 m.,PDF p. 25,2023 m. 8 asmenys (2022 m. – 10) kreipėsi dėl ... neigiamo poveikio priemonių,high,,claude-sonnet-5,2026-10-09,1,no
+o-e1fff2389c,11,,1,"Pradėta ikiteisminių tyrimų, 2021 m.",PDF p. 24,bar chart labels 2021: 11 and 26; 2022: 7 and 10; 2023: 9 and 13,medium,"Chart read by label x-position: left bar of each year assumed = first legend item Pradėta (11), right bar = Atsisakyta (26); colour not verified",claude-sonnet-5,2026-10-09,1,no
+o-e0fa12e690,3,,million,pareikšta civilinių ieškinių,PDF p. 25,"pareikšta civilinių ieškinių, kurių reikalavimų suma daugiau kaip 3 mln. Eur",high,"""more than 3 million"" (lower bound, not exact)",claude-sonnet-5,2026-10-09,1,no
+o-46280c1cbe,3,,1,prašymai atlyginti už vertingą informaciją (2023 m. – 3),PDF p. 26,3 prašymai atlyginti už vertingą informaciją (2023 m. – 3),high,,claude-sonnet-5,2026-10-09,1,no
+o-3cb3661a9b,50,,1,Asmenys pripažinti pranešėjais,PDF p. 25,Asmenys pripažinti pranešėjais 50 % ; nepripažinti 49 %,high,,claude-sonnet-5,2026-10-09,1,no
+o-f0bbccd1f1,2,,1,prašymai palikti nenagrinėti ir grąžinti,PDF p. 26,"2 prašymai buvo palikti nenagrinėti ir grąžinti, nustačius, kad pareiškėjams nebuvo suteiktas pranešėjo statusas",medium,"Of 3 reward applications, 2 returned unexamined as applicants lacked status. Pie chart on p.25 separately shows 1% reports left unexamined.",claude-sonnet-5,2026-10-09,1,no
+o-57de16674b,5,,1,antrinė teisinė pagalba,PDF p. 26,2024 m. antrinė valstybės garantuojama teisinė pagalba buvo suteikta 5 pranešėjams (2023 m. – 5),high,,claude-sonnet-5,2026-10-09,1,no
+o-5f8bec19d8,76,,1,2023 m. (76),PDF p. 25,arba 5 proc. daugiau negu 2023 m. (76),high,,claude-sonnet-5,2026-10-09,1,no
+o-f469e88fe8,300,,million,awards to whistleblowers since 2014,html,has awarded more than $300 million to whistleblowers,high,"""more than"" lower bound",claude-sonnet-5,2026-10-09,1,no
+o-a86100b7ab,3,,billion,monetary sanctions,html,monetary sanctions totaling more than $3 billion,high,"""more than"" lower bound",claude-sonnet-5,2026-10-09,1,no
+o-58cf3008ad,300,,million,awards since 2014,html,awards amounting to approximately $300 million,high,approximate,claude-sonnet-5,2026-10-09,1,no
+o-fe75ff4841,3,,billion,monetary sanctions,html,monetary sanctions totaling more than $3 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-5928061f72,380,,million,awards since 2014,html,awards amounting to approximately $380 million,high,approximate,claude-sonnet-5,2026-10-09,1,no
+o-f64f05fc37,12,,1,orders granting awards this fiscal year,html,"the CFTC has issued 12 orders granting whistleblower awards this fiscal year, the most on record",medium,Count of award ORDERS (not awardees; the 4 orders on the day covered 7 whistleblowers),claude-sonnet-5,2026-10-09,1,no
+o-4f87cec7bc,3.2,,billion,monetary sanctions,html,monetary sanctions totaling nearly $3.2 billion,high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-dcb5e52425,395,,million,awards since 2014,html,awarded more than $395 million to whistleblowers,high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-008c1f1a69,3.3,,billion,monetary sanctions,html,more than $3.3 billion in monetary sanctions,high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-08357ab027,430,,million,awards since 2014,html,awarded more than $430 million to whistleblowers,high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-12cacf7ef8,3.7,,billion,monetary sanctions,html,more than $3.7 billion in monetary sanctions,high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-7e4c49e0a1,"450,000",,1,"authorized to be appropriated, fiscal year 2021",PDF p. 1449,"(A) $450,000 for fiscal year 2021;",high,Part (B) for later years is open-ended (up to amount recovered),claude-sonnet-5,2026-10-09,1,no
+o-a1c478d290,20,,billion,Introduction,PDF pp. 5-6,"From 1986 until expansion of the Act in 2009, Justice Department recoveries totaled in excess of $20 billion.",high,"""in excess of"" lower bound; sentence spans p.5 to p.6",claude-sonnet-5,2026-10-09,1,no
+o-24308fe58f,40,,billion,Introduction,PDF p. 6,"Since then, the Justice Department has recovered over $40 billion",high,"""over""; since 2009 expansion",claude-sonnet-5,2026-10-09,1,no
+o-255b54acbb,3,,billion,Introduction,PDF p. 6,including over $3 billion in FY 2019,high,"""over""",claude-sonnet-5,2026-10-09,1,no
+o-06e6672a0d,62,,billion,fn 9,PDF p. 6,the FCA has recovered over $62 billion since 1986,high,"Quote from Tschepik 2020 law review comment in CRS fn 9; ""over""",claude-sonnet-5,2026-10-09,1,no
+o-0423980422,7.3,,billion,fn 9,PDF p. 6,with $7.3 billion of those dollars flowing to whistleblowers,high,Quote from Tschepik 2020 in CRS fn 9,claude-sonnet-5,2026-10-09,1,no
+o-d8d3a1994e,820,,million,Pandemic Fraud,PDF p. 6,"To date, the Department has collected over $820 million in civil settlements and judgments relating to alleged fraud or improper payments in connection with pandemic relief programs.",high,"""over""",claude-sonnet-5,2026-10-09,1,no
+o-a20933d28d,52,,million,Cybersecurity Fraud,PDF p. 5,"In this year alone, the Department has recovered over $52 million in nine cybersecurity fraud settlements",high,"""over""",claude-sonnet-5,2026-10-09,1,no
+o-f2bd6989e6,230,,million,Pandemic Fraud,PDF p. 6,"During fiscal year 2025, ... more than 200 False Claims Act settlements and judgments, which collectively exceeded more than $230 million",high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-31417afdca,2.9,,billion,main text,html,"obtained more than $2.9 billion in settlements and judgments ... in the fiscal year ending Sept. 30, 2024",high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-114e976f7c,140,,million,press release text,html,recoveries also included over $140 million in settlements with twenty-five brokerage firms ... artificially low yields to municipalities refunding tax-exempt bonds,high,"""over""",claude-sonnet-5,2026-10-09,1,no
+o-ecd9679e32,230,,million,press release text (FY2001 release),html,"more than $194 million from companies alleged to have underpaid royalties ..., in addition to $230 million recovered last fiscal year",high,"Period FY2000 = ""last fiscal year"" in the FY2001 release; the FY2001 figure is $194 million",claude-sonnet-5,2026-10-09,1,no
+o-9222d57849,49,,million,press release text,html,fraud in connection with gas leases with the Department of the Interior totaled another $49 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-f55028ad3f,72,,1,health care,html,"By industry, 72 percent of the recoveries were in health care, 20 percent in defense, and 8 percent other.",high,,claude-sonnet-5,2026-10-09,1,no
+o-20e398b911,20,,1,defense,html,"By industry, 72 percent of the recoveries were in health care, 20 percent in defense, and 8 percent other.",high,,claude-sonnet-5,2026-10-09,1,no
+o-e784333c96,8,,1,other,html,"By industry, 72 percent of the recoveries were in health care, 20 percent in defense, and 8 percent other.",high,,claude-sonnet-5,2026-10-09,1,no
+o-c430883120,28,,1,outside health care,html,"recoveries outside the health care arena, which accounted for 28 percent of the total",high,,claude-sonnet-5,2026-10-09,1,no
+o-eb47062759,264,,million,state Medicaid programs,html,"In addition to federal recoveries, pharmaceutical fraud cases returned $264 million to state Medicaid programs.",high,,claude-sonnet-5,2026-10-09,1,no
+o-2ab3f7ff24,430,,million,state Medicaid programs,html,these pharmaceutical fraud cases returned $430 million to state Medicaid programs.,high,,claude-sonnet-5,2026-10-09,1,no
+o-2656f9fa35,866.7,,million,pharmaceutical and medical device,html,"pharmaceutical and medical device industries, which accounted for $866.7 million in settlements",high,,claude-sonnet-5,2026-10-09,1,no
+o-6192f86635,402,,million,state Medicaid programs,html,these pharmaceutical and medical device fraud cases returned $402 million to state Medicaid programs.,high,,claude-sonnet-5,2026-10-09,1,no
+o-40d07b20ab,59,,million,procurement,html,"Of that amount, $59 million related to contracts in support of the wars in Iraq and Afghanistan",high,Within $422 million DoD contracts,claude-sonnet-5,2026-10-09,1,no
+o-ea99fc3933,76,,million,procurement,html,settlements and judgments in procurement fraud cases involving the wars in Southwest Asia to a total of $76 million,high,Wars in Southwest Asia cumulative; described as total with matters pending,claude-sonnet-5,2026-10-09,1,no
+o-4fcad27a16,1.6,,billion,pharmaceutical and medical device,html,"pharmaceutical and medical device industries, which accounted for $1.6 billion in settlements",high,,claude-sonnet-5,2026-10-09,1,no
+o-40003e2dc9,5.4,,billion,press release text,html,amounts recovered under the False Claims Act since January 2009 ... with $5.4 billion in taxpayer dollars returned to federal programs,high,,claude-sonnet-5,2026-10-09,1,no
+o-bc700d282f,327.2,,million,financial fraud task force cases,html,"False Claims Act recoveries in these cases accounted for 11 percent of fiscal year 2010 recoveries, with $327.2 million",high,"Covers mortgage fraud, non-war procurement fraud, TARP, ARRA etc. (financial fraud task force)",claude-sonnet-5,2026-10-09,1,no
+o-17687dc8f1,4.6,,billion,press release text,html,since January 2009 ... recovering $4.6 billion in taxpayer funds under the False Claims Act from health care providers and others in the industry,high,,claude-sonnet-5,2026-10-09,1,no
+o-a355c652ea,11,,1,financial fraud task force cases,html,"accounted for 11 percent of fiscal year 2010 recoveries, with $327.2 million",high,,claude-sonnet-5,2026-10-09,1,no
+o-1b237bc0f2,114.7,,million,press release text,html,"Of this amount, $114.7 million has been recovered since January 2009.",high,Of $137.2 million total for wars in Southwest Asia to date,claude-sonnet-5,2026-10-09,1,no
+o-679006b703,358,,million,non-war procurement and consumer-related financial fraud,html,these non-war related procurement and consumer-related financial fraud cases accounted for nearly $358 million,high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-295e2266f8,8.7,,billion,press release text,html,bringing the total since January 2009 to $8.7 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-ce59ee8562,153.4,,million,press release text,html,recoveries in connection with the wars in Southwest Asia since January 2009 to $153.4 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-3af77f128c,28,,1,press release text,html,Twenty-eight percent of the recoveries in the last 25 years were obtained since President Obama took office,high,"Written out ""Twenty-eight percent""",claude-sonnet-5,2026-10-09,1,no
+o-8a9a2094f9,6.6,,billion,press release text,html,"Since January 2009 alone, the department has used the False Claims Act to recover more than $6.6 billion in federal health care dollars",high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-142a8801b9,421,,million,press release text,html,"nearly $2.2 billion in civil claims against the pharmaceutical industry in fiscal year 2011, including $1.76 billion in federal recoveries and $421 million in state",high,"Text cut: ""...$421 million in state [Medicaid recoveries]""; verify word after ""state"" if needed",claude-sonnet-5,2026-10-09,1,no
+o-3080e69548,745,,million,state Medicaid programs,html,"and, in addition, returned $745 million to state Medicaid programs",high,,claude-sonnet-5,2026-10-09,1,no
+o-23ebc1c6fc,13.3,,billion,press release text,html,brings total recoveries under the False Claims Act since January 2009 to $13.3 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-ccf88db388,1.4,,billion,press release text,html,Housing and mortgage fraud accounted for an unprecedented $1.4 billion.,high,,claude-sonnet-5,2026-10-09,1,no
+o-c26ae9af6c,9.5,,billion,Health Care Fraud section,html,"From January 2009 through the end of the 2012 fiscal year, the department used the False Claims Act to recover more than $9.5 billion in federal health care dollars",high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-c5cfae1a80,10.5,,billion,Recoveries in Whistleblower Suits,html,"$24.2 billion since 1986, with nearly $10.5 billion of that amount recovered from January 2009 through fiscal year 2012",high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-79b366d3da,2,,billion,press release text,html,The department recovered nearly $2 billion in cases alleging false claims for drugs and medical devices under federally insured health programs,high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-1753741103,17,,billion,press release text,html,brings total recoveries under the False Claims Act since January 2009 to $ 17 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-70d04a2d2b,12.1,,billion,Health Care Fraud,html,"From January 2009 through the end of the 2013 fiscal year, the department used the False Claims Act to recover $12 .1 billion in federal health care dollars",high,"Source HTML has stray spaces inside numbers (""$12 .1"")",claude-sonnet-5,2026-10-09,1,no
+o-a16ac350ab,890,,million,press release text,html,Procurement fraud (related primarily to defense contracts) accounted for another $ 890 million,high,"Procurement section later says ""more than $887 million"" (row o-741d13840d)",claude-sonnet-5,2026-10-09,1,no
+o-741d13840d,887,,million,Procurement Fraud,html,The department secured more than $887 million in settlements and judgments based on allegations of false claims and corruption involving government contracts,high,"""more than""; differs from $890 million in the opening paragraph",claude-sonnet-5,2026-10-09,1,no
+o-d7056fd32f,443,,million,press release text,html,plus another $443 million in recoveries for state Medicaid programs,high,,claude-sonnet-5,2026-10-09,1,no
+o-e1fb7157ed,1.8,,billion,Health Care Fraud,html,"Of the $2. 6 billion in federal health care fraud recoveries, $1.8 billion were from alleged false claims for drugs and medical devices",high,,claude-sonnet-5,2026-10-09,1,no
+o-9d01980aa5,30,,1,Recoveries in Whistleblower Suits,html,The number of qui tam suits rose from 30 in 1987,high,,claude-sonnet-5,2026-10-09,1,no
+o-c2235e4433,3.1,,billion,press release text,html,"In fiscal year 2014, the department recovered an unprecedented $3.1 billion from banks and other financial institutions involved in making false claims for federally insured mortgages and loans",high,,claude-sonnet-5,2026-10-09,1,no
+o-66eeba93b4,4.65,,billion,Housing and Mortgage Fraud,html,from January 2009 through the end of fiscal year 2014 to $4.65 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-ef38c44f0d,700,,1,Recoveries in Whistleblower Suits,html,to more than 700 for each of the last two fiscal years,low,"No exact FY2013 count in this FY2014 release; only ""more than 700 for each of the last two fiscal years"" (FY2013 and FY2014). 700 is a lower bound. Header: ""Over 700 Whistleblower Lawsuits for Second Consecutive Year""",claude-sonnet-5,2026-10-09,1,no
+o-41823f59e8,333,,million,Health Care Fraud,html,Cases involving hospitals resulted in $333 million in fiscal year 2014 settlements and judgments,high,,claude-sonnet-5,2026-10-09,1,no
+o-d3c1d07f0a,22.75,,billion,press release text,html,brings total recoveries from January 2009 through the end of the fiscal year to $22.75 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-db5020a52c,16.5,,billion,Health Care Fraud,html,the department has recovered nearly $16.5 billion in health care fraud since January 2009 to the end of fiscal year 2015,high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-ab6c45a70d,4,,billion,Government Contracts,html,bringing procurement fraud totals to nearly $4 billion from January 2009 to the end of the fiscal year,high,"""nearly""",claude-sonnet-5,2026-10-09,1,no
+o-110c866136,365,,million,Housing and Mortgage Fraud,html,including this past year's recoveries of $365 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-60398fb107,5,,billion,Housing and Mortgage Fraud,html,The department has recovered over $5 billion in housing and mortgage fraud from January 2009 to the end of fiscal year 2015,high,"""over""",claude-sonnet-5,2026-10-09,1,no
+o-9d2db461d2,1.1,,billion,Government Contracts,html,Government contracts and federal procurement accounted for $1.1 billion in fraud settlements and judgments in fiscal year 2015,high,Row location says press release text para 4; same sentence found under Government Contracts section; check for an earlier intro mention not done,claude-sonnet-5,2026-10-09,1,no
+o-46ab470b1e,26.4,,billion,press release text,html,brings total recoveries from January 2009 to the end of the fiscal year to $26.4 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-5e7377e387,57,,1,Health Care Fraud,html,$19.3 billion in health care fraud claims from January 2009 to the end of fiscal year 2016 – 57 percent of the health care fraud dollars recovered in the 30 years since the 1986 amendments,high,Share of 1986-2016 health care total recovered since Jan 2009,claude-sonnet-5,2026-10-09,1,no
+o-80e80e50a1,19.3,,billion,Health Care Fraud,html,The Department recovered $19.3 billion in health care fraud claims from January 2009 to the end of fiscal year 2016,high,,claude-sonnet-5,2026-10-09,1,no
+o-328041f97c,160,,million,Health Care Fraud,html,Cases involving nursing homes and skilled nursing facilities accounted for more than $160 million in settlements and judgments this past fiscal year,high,"""more than""",claude-sonnet-5,2026-10-09,1,no
+o-3035e16f81,1.2,,billion,Health Care Fraud,html,The largest recoveries this past year – $1.2 billion – came from the drug and medical device industry,high,,claude-sonnet-5,2026-10-09,1,no
+o-3ba1c16044,1.6,,billion,Housing and Mortgage Fraud,html,including settlements and judgments totaling $1.6 billion this past fiscal year,high,,claude-sonnet-5,2026-10-09,1,no
+o-7f4067f494,360,,million,Health Care Fraud,html,Hospitals and outpatient clinics accounted for $360 million in recoveries,high,"Category ""hospitals and outpatient clinics""",claude-sonnet-5,2026-10-09,1,no
+o-1067dc0013,900,,million,,HTML,over $900 million – came from the drug and medical device industry,high,"'over $900 million'; HTML, Health Care Fraud section",claude-sonnet-5,2026-10-09,1,no
+o-4bac7d8d76,543,,million,,HTML,totaling over $543 million in the areas of housing and mortgage fraud,high,'over $543 million',claude-sonnet-5,2026-10-09,1,no
+o-46958f83b9,60,,million,,HTML,more than $60 million in settlements and judgments with individuals,high,'more than $60 million'; individuals not jointly liable with corporate entity,claude-sonnet-5,2026-10-09,1,no
+o-c6dde82214,132,,million,,HTML,more than $132 million has been recovered ... Zylon,high,'more than $132 million'; cumulative Zylon total incl. Toyobo $66 million (Toyobo alone paid $66 million),claude-sonnet-5,2026-10-09,1,no
+o-8e6b51e38c,624,,million,,HTML,combined total of over $624 million to resolve claims that they illegally paid patient copays,high,'over $624 million' combined for seven manufacturers,claude-sonnet-5,2026-10-09,1,no
+o-ba3e87bb91,148,,million,,HTML,Novartis and Gilead Sciences – paid a combined total of over $148 million,high,'over $148 million' combined for two manufacturers,claude-sonnet-5,2026-10-09,1,no
+o-4948a928b3,13,,million,,HTML,four of the purportedly independent foundations paid a total of $13 million,high,'$13 million' total for four foundations,claude-sonnet-5,2026-10-09,1,no
+o-4c810305a1,6.8,,million,,HTML,"resolved 35 False Claims Act matters, recovering over $6.8 million",high,"'over $6.8 million' for PPP matters; located in COVID-RELATED FRAUD section, para 2 (35 matters)",claude-sonnet-5,2026-10-09,1,no
+o-522c706db2,136,,million,,HTML,total recoveries of over $136 million from 17 different entities and individuals,high,"'over $136 million' (Zylon, Honeywell paragraph)",claude-sonnet-5,2026-10-09,1,no
+o-2d8612d759,84,,million,,HTML,the United States has recovered more than $84 million,high,'more than $84 million' (international mail air carriers),claude-sonnet-5,2026-10-09,1,no
+o-a80b73cdce,351,,1,,HTML,party to 351 settlements and judgments,high,,claude-sonnet-5,2026-10-09,1,no
+o-0cf6cc5964,35,,1,,HTML,"resolved 35 False Claims Act matters, recovering over $6.8 million",high,35 PPP matters resolved (section titled COVID-RELATED FRAUD),claude-sonnet-5,2026-10-09,1,no
+o-d16f47afb5,48.3,,million,,HTML,"resolved approximately 270 False Claims Act matters, recovering over $48.3 million in connection with improper PPP loans",high,'over $48.3 million' PPP,claude-sonnet-5,2026-10-09,1,no
+o-cec4054dc2,2.6,,million,,HTML,Five corporate entities and ten individuals paid over $2.6 million to settle allegations of kickbacks for laboratory referrals,high,'over $2.6 million',claude-sonnet-5,2026-10-09,1,no
+o-8ce35a9f7a,46,,million,,HTML,settlements with 43 physicians and recoveries of over $46 million,high,'over $46 million' cumulative MSO kickbacks investigation,claude-sonnet-5,2026-10-09,1,no
+o-e06059a749,543,,1,,HTML,"party to 543 settlements and judgments, the highest number",high,,claude-sonnet-5,2026-10-09,1,no
+o-c7b979f540,270,,1,,HTML,resolved approximately 270 False Claims Act matters,high,'approximately 270' PPP matters,claude-sonnet-5,2026-10-09,1,no
+o-45c1825ec5,43,,1,,HTML,settlements with 43 physicians,high,"count is physicians settled with (cumulative, MSO kickbacks)",claude-sonnet-5,2026-10-09,1,no
+o-98404069d8,48,,1,,HTML,False Claims Act settlements with 48 physicians,high,"48 physicians (cumulative, MSO kickbacks)",claude-sonnet-5,2026-10-09,1,no
+o-ea7e96f49b,53,,million,,HTML,recovered over $53 million relating to conduct involving MSO kickbacks,high,'over $53 million',claude-sonnet-5,2026-10-09,1,no
+o-73925d17e9,566,,1,,HTML,after last year's record of 566 recoveries,high,FY2023 count as printed in the FY2024 release (the FY2023 release itself printed 543),claude-sonnet-5,2026-10-09,1,no
+o-50e8fe9f3f,250,,million,,HTML,"more than 250 False Claims Act settlements and judgments, which collectively exceeded more than $250 million, resolving allegations of pandemic-related fraud",high,'exceeded more than $250 million',claude-sonnet-5,2026-10-09,1,no
+o-6df1a5893c,558,,1,,HTML,party to 558 settlements and judgments,high,,claude-sonnet-5,2026-10-09,1,no
+o-a51d5e2551,250,,1,,HTML,more than 250 False Claims Act settlements and judgments,high,'more than 250',claude-sonnet-5,2026-10-09,1,no
+o-c2bfa04971,"504,923,718",,1,Relator share awards - total,PDF p. 5,"2013 30 504 61,354,329 ... 504,923,718",high,,claude-sonnet-5,2026-10-09,1,no
+o-05ab042484,757,,1,New matters - qui tam,PDF p. 2,2013 117 757,high,"Overview row FY2013: non qui tam 117, qui tam 757",claude-sonnet-5,2026-10-09,1,no
+o-01c093ccd5,"47,272,462",,1,Settlements and judgments - qui tam - total,PDF p. 8,"2013 16 78 4,869,169 47,118,462 154,000 47,272,462",high,,claude-sonnet-5,2026-10-09,1,no
+o-4dff778966,"6,590,936",,1,Relator share awards - where U.S. intervened or otherwise pursued,PDF p. 1,"1990 232 83 189,564,367 40,483,367 75,000 40,558,367 230,122,734 6,590,936",high,,claude-sonnet-5,2026-10-09,1,no
+o-d6f00d33ed,61,,1,New matters - qui tam,PDF p. 10,1994 175 61,high,,claude-sonnet-5,2026-10-09,1,no
+o-747dacbade,"100,389,203",,1,Settlements and judgments - qui tam - where U.S. intervened or otherwise pursued,PDF p. 11,"2019 78 148 86,091,121 100,389,203 20,838,022",high,,claude-sonnet-5,2026-10-09,1,no
+o-197a386280,"284,796,601",,1,Relator share awards - total,PDF p. 4,"2003 27 215 541,929,810 ... 284,796,601",high,,claude-sonnet-5,2026-10-09,1,no
+o-d7fd96d5d3,"1,012,649,946",,1,Settlements and judgments - qui tam - total,PDF p. 5,"2008 64 231 162,972,022 1,005,797,375 6,852,571 1,012,649,946",high,,claude-sonnet-5,2026-10-09,1,no
+o-0bb6525544,"937,841,186",,1,Settlements and judgments - qui tam - where U.S. intervened or otherwise pursued,PDF p. 4,"2002 22 194 74,454,427 937,841,186",high,,claude-sonnet-5,2026-10-09,1,no
+o-b17c7a7246,"35,000",,1,Settlements and judgments - qui tam - where U.S. declined,PDF p. 8,"2021 26 27 21,778,471 98,491,421 35,000 98,526,421",high,,claude-sonnet-5,2026-10-09,1,no
+o-86049243e1,"181,972,568",,1,Settlements and judgments - total qui tam and non qui tam,PDF p. 4,"1995 26 87 96,290,779 84,061,789 1,620,000 85,681,789 181,972,568",high,,claude-sonnet-5,2026-10-09,1,no
+o-0b00bfc4eb,158,,1,New matters - non qui tam,PDF p. 2,2012 158 655,high,,claude-sonnet-5,2026-10-09,1,no
+o-cf4c26d1aa,4.2,,billion,,HTML,recover approximately $4.2 billion since January 2009 in cases involving fraud against federal health care programs,high,'approximately $4.2 billion',claude-sonnet-5,2026-10-09,1,no
+o-26f38ccef3,5.4,,billion,,HTML,total recoveries in False Claims Act cases since January 2009 have topped $5.4 billion,high,'topped $5.4 billion',claude-sonnet-5,2026-10-09,1,no
+o-a5ce2eb6d6,7.4,,billion,,HTML,recover more than $7.4 billion since January 2009 in cases involving fraud against federal health care programs,high,'more than $7.4 billion',claude-sonnet-5,2026-10-09,1,no
+o-826caf8b9c,10.2,,billion,,HTML,total recoveries in False Claims Act cases since January 2009 will exceed $10.2 billion,high,'will exceed $10.2 billion' (with the settlement announced),claude-sonnet-5,2026-10-09,1,no
+o-6beeb13546,2.8,,billion,,HTML,recover almost $2.8 billion since January 2009 in cases involving fraud against federal health care programs,high,'almost $2.8 billion',claude-sonnet-5,2026-10-09,1,no
+o-8a4a27287f,3.75,,billion,,HTML,total recoveries in FCA cases since January 2009 are over $3.75 billion,high,'over $3.75 billion',claude-sonnet-5,2026-10-09,1,no
+o-dc697e4be0,16.7,,billion,,HTML,recovered a total of more than $16.7 billion through False Claims Act cases,high,'more than $16.7 billion',claude-sonnet-5,2026-10-09,1,no
+o-8d358f9f4f,11.9,,billion,,HTML,more than $11.9 billion of that amount recovered in cases involving fraud against federal health care programs,high,'more than $11.9 billion',claude-sonnet-5,2026-10-09,1,no
+o-50c6b6af78,29,,billion,,HTML,recovered a total of more than $29 billion through False Claims Act cases,high,'more than $29 billion',claude-sonnet-5,2026-10-09,1,no
+o-3076111b96,17.5,,billion,,HTML,with more than $17.5 billion of that amount recovered in cases involving fraud against federal health care programs,high,'more than $17.5 billion',claude-sonnet-5,2026-10-09,1,no
+o-69e0258b0d,8.3%,,1,Original Form TCRs subsequently supplemented,PDF p. 25,2021 | 12 | 8.3% | 1 | 0.08 | 0.00%,medium,Table 4 is an image; read by cell OCR. 1 of 12 = 8.3% consistent,claude-sonnet-5,2026-10-09,1,no
+o-032b5e83a9,"300,000",,1,,PDF p. 28,"average direct spending of approximately $300,000 per year on program development through the first two years of full operation",high,"CBO estimate quoted by FinCEN; 'approximately $300,000 per year'",claude-sonnet-5,2026-10-09,1,no
+o-639235fcb6,1,,1,Supplemental Form TCRs filed,PDF p. 25,2021 | 12 | 8.3% | 1 | 0.08 | 0.00%,medium,"Table 4 is an image; cell OCR and pixel check give '1'. Note: other rows show count equal to originals supplemented (e.g. 2022: 74, 36.5%, 27), so column may be count of supplemented originals",claude-sonnet-5,2026-10-09,1,no
+o-bbdb045add,1.95,,1,Average Supplemental Form TCRs per supplemented Original Form TCR,PDF p. 25,Total | 480 | 60.7% | 291 | 1.95 | 1.92%,medium,"Table 4 image, row 'Total' (includes projected 2025)",claude-sonnet-5,2026-10-09,1,no
+o-655a16e5fe,0.08,,1,Average Supplemental Form TCRs per supplemented Original Form TCR,PDF p. 25,2021 | 12 | 8.3% | 1 | 0.08 | 0.00%,medium,Table 4 image; pixel-level check confirms 0.08,claude-sonnet-5,2026-10-09,1,no
+o-be10c5911f,0.00%,,1,Number of award applications later filed in association with Original Form TCRs (percent),PDF p. 25,2021 | 12 | 8.3% | 1 | 0.08 | 0.00%,medium,,claude-sonnet-5,2026-10-09,1,no
+o-9c08e410b8,2.3,,million,,PDF p. 7,to roughly $2.3 million in 1988,high,'roughly $2.3 million',claude-sonnet-5,2026-10-09,1,no
+o-bfd943a654,500,,1,,PDF p. 5,compared to 500 outside the qui tam process,high,"Footnote text running across pp. 4-5 ('712 new FCA qui tam matters in fiscal year 2023, compared to 500 outside the qui tam process')",claude-sonnet-5,2026-10-09,1,no
+o-7dee02d134,6,,1,,PDF p. 7,DOJ used to receive about six qui tam cases a year,high,'about six' per year before 1986 (quoting Steve France),claude-sonnet-5,2026-10-09,1,no
+o-b777dcf964,2.3,,billion,,PDF p. 7,settlements and judgments in FCA qui tam actions totaled over $2.3 billion,high,'over $2.3 billion',claude-sonnet-5,2026-10-09,1,no
+o-c5f80a59cf,31,,1,,PDF p. 7,showing 31 new FCA qui tam matters in fiscal year 1987,high,,claude-sonnet-5,2026-10-09,1,no
+o-6d7ca1e595,three,,1,,PDF p. 6,DOJ's records reveal only three qui tam actions in the four decades between 1943 and 1986,high,printed in words: 'three' = 3,claude-sonnet-5,2026-10-09,1,no
+o-3f6e92fa36,45,,1,FY 2010,PDF p. 12 (printed p. 8),Whistleblower Office final review 12 52 98 45 2 209,high,,claude-sonnet-5,2026-10-09,1,no
+o-f9220a156b,20,,1,,PDF p. 8 (printed p. 4),"As of May 2011, the Whistleblower Office had 20 staff members.",high,,claude-sonnet-5,2026-10-09,1,no
+o-349483519f,503,,1,Total number of claims rejected,PDF p. 17 (printed p. 13),Whistleblower Office final review(a) 503,high,,claude-sonnet-5,2026-10-09,1,no
+o-2eae464908,2,,1,"FY 2011 (to Apr 25, 2011)",PDF p. 12 (printed p. 8),Whistleblower Office final review 12 52 98 45 2 209,high,,claude-sonnet-5,2026-10-09,1,no
+o-983acf0129,15,,1,FY 2007,PDF p. 12 (printed p. 8),"Claim suspended 15 191 681 3,344 7 4,238",high,footnote marker b sits on separate line above the row label; value 15,claude-sonnet-5,2026-10-09,1,no
+o-299f0ff442,"1,859",,1,Total,PDF p. 12 (printed p. 8),"Operating division examination 498 274 541 425 121 1,859",high,,claude-sonnet-5,2026-10-09,1,no
+o-95a0edcdb3,132,,1,Number of whistleblowers who submitted these claims,PDF p. 59 (printed p. 54),"SB/SE 641 132 2,213",medium,"unit persons -> whistleblowers column (OD field, SB/SE). Number of claims in same row is 641",claude-sonnet-5,2026-10-09,1,no
+o-cdeb0dbeb1,"1,877",,1,Longest days currently in status,PDF p. 59 (printed p. 54),"Form 11369 review 577 212 1,877",high,,claude-sonnet-5,2026-10-09,1,no
+o-2d5b6660b6,23,,1,Number of claims,PDF p. 59 (printed p. 54),Rejection/denial letter pending 23 10 70,high,,claude-sonnet-5,2026-10-09,1,no
+o-ddeeb3be40,"1,038",,1,Longest days currently in status,PDF p. 59 (printed p. 54),"Litigation 60 27 1,038",high,,claude-sonnet-5,2026-10-09,1,no
+o-dc19a5300c,1,,1,2014,PDF p. 58 (printed p. 53),Subject matter expert ... Other 1 1 - 2,high,"Table 5, 'Other' under 'Subject matter expert': 2013=1, 2014=1, 2015=-, total 2",claude-sonnet-5,2026-10-09,1,no
+o-0787a2cfed,17,,1,7623(b) claims,PDF p. 28 (printed p. 23),Table 3 ... 7623(b) claims 17,high,"Table 3 'Number of whistleblower awards' FY2011 through June 30, 2015: 483 (7623a), 17 (7623b), 500 total; text: awards paid on 17 high-dollar claims",claude-sonnet-5,2026-10-09,1,no
+o-71a28dbd0c,0,,1,Total reward amount (dollars),PDF p. 21 (printed p. 16),NOAA 2014 0 0 0 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-9cdba5e8be,975,,million,,PDF p. 31 (printed p. 26),SEC's whistleblower program generated tips that led to more than $975 million in monetary sanctions,high,footnote 40; 'more than $975 million',claude-sonnet-5,2026-10-09,1,no
+o-fcad43cd00,"12,000",,1,Highest reward amount (dollars),PDF p. 21 (printed p. 16),"FWS 2008 2 7,500 12,000 19,500",high,,claude-sonnet-5,2026-10-09,1,no
+o-3cfd786211,"20,000",,1,Highest reward amount (dollars),PDF p. 21 (printed p. 16),"NOAA 2015 1 20,000 20,000 20,000",high,,claude-sonnet-5,2026-10-09,1,no
+o-95ac4645e0,3,,1,,PDF p. 37 (printed p. 32),"3 rewards with a combined total of $2,500 that NOAA reported paying",high,"footnote 4, count of NOAA rewards excluded (other than wildlife trafficking)",claude-sonnet-5,2026-10-09,1,no
+o-3b400fc866,"1,000",,1,Lowest reward amount (dollars),PDF p. 21 (printed p. 16),"NOAA 2012 1 1,000 1,000 1,000",high,,claude-sonnet-5,2026-10-09,1,no
+o-f2ada3ce40,92,,1,Number of claims in population,PDF p. 23 (printed p. 18),Matched claims 92 92 85,high,,claude-sonnet-5,2026-10-09,1,no
+o-d313248fcd,367,,1,,PDF p. 12 (printed p. 7),IRS also paid out $34 million on 367 claims,high,FY2017 paid on 367 claims,claude-sonnet-5,2026-10-09,1,no
+o-1eff5c7050,1,,1,Number of reviewed claims containing alleged FBAR noncompliance,PDF p. 23 (printed p. 18),No Title 26 collected proceeds claims 10 10 1,high,,claude-sonnet-5,2026-10-09,1,no
+o-73ebb1d6d0,11,,1,Number of reviewed claims containing alleged FBAR noncompliance,PDF p. 23 (printed p. 18),Key terms claims 299 30a 11,high,,claude-sonnet-5,2026-10-09,1,no
+o-9fdf573d9d,1.4,,1,,PDF p. 23 (printed p. 18),at least 1.4 percent (or at least 146 claims),high,"lower bound estimate, 'at least 1.4 percent' of 7623(b) claims",claude-sonnet-5,2026-10-09,1,no
+o-0b2b66d2bf,10,,1,Number of claims reviewed by GAO,PDF p. 23 (printed p. 18),No Title 26 collected proceeds claims 10 10 1,high,,claude-sonnet-5,2026-10-09,1,no
+o-81e3fafce7,"450,000",,1,,PDF p. 9,"(A) $450,000 for fiscal year 2021",high,,claude-sonnet-5,2026-10-09,1,no
+o-2f49a6f15d,178,,1,Taxpayers Identified,printed p. 8 (PDF p. 9),May 2008 78 178,high,,claude-sonnet-5,2026-10-09,1,no
+o-d0740bc906,78,,1,Submissions,printed p. 8 (PDF p. 9),May 2008 78 178,high,,claude-sonnet-5,2026-10-09,1,no
+o-bee4f038f9,46,,1,,printed p. 2 (PDF p. 3),claims ... on 46 taxpayers in the first three months of FY 2008,high,first three months of FY2008 = Q1,claude-sonnet-5,2026-10-09,1,no
+o-31653e9e3b,284,,1,Taxpayers Identified,printed p. 8 (PDF p. 9),August 2008 162 284,high,,claude-sonnet-5,2026-10-09,1,no
+o-8e19373b25,50,,1,Submissions,printed p. 8 (PDF p. 9),January 2008 50 50,high,,claude-sonnet-5,2026-10-09,1,no
+o-d245f37faa,162,,1,Submissions,printed p. 8 (PDF p. 9),August 2008 162 284,high,,claude-sonnet-5,2026-10-09,1,no
+o-e9e0c23b7a,96,,1,Taxpayers Identified (August 2009),PDF p. 7,August 2009  48  96,high,"Table 1 is on PDF p. 7 (printed p. 5), not PDF p. 6.",claude-sonnet-5,2026-10-09,1,no
+o-c89d1c15a3,23,,1,"Submissions (October 2008 block, November 2008)",PDF p. 7,November 2008  23  217,high,PDF p. 7 (printed p. 5).,claude-sonnet-5,2026-10-09,1,no
+o-723f3d5cd9,90,,1,Taxpayers Identified (April 2009),PDF p. 7,April 2009  58  90,high,PDF p. 7 (printed p. 5).,claude-sonnet-5,2026-10-09,1,no
+o-a3f1ef73d2,48,,1,Submissions (August 2009),PDF p. 7,August 2009  48  96,high,PDF p. 7 (printed p. 5).,claude-sonnet-5,2026-10-09,1,no
+o-6f50f5a4c4,one,,1,"text, no table",PDF p. 7,"Only 5 of 110 full paid claims in 2009 involved collections of more than $2 million, and only one involved collections of more than $10 million",medium,"Printed as the word 'one' (=1), PDF p. 7 (printed p. 5). Refers to full paid claims in 2009 (old informant program).",claude-sonnet-5,2026-10-09,1,no
+o-7e10c65bbb,ten,,1,text,PDF p. 5,"As of the end of FY 2009, the staff includes ten analysts",high,"Printed as the word 'ten' (=10); found on PDF p. 5 (printed p. 3), not PDF p. 4.",claude-sonnet-5,2026-10-09,1,no
+o-3219863c4e,12,,1,"2007 column, Collections over $2 million",PDF p. 17,Collections over $2 million NA 12 8 5 9,high,Table 2 (7623(a)).,claude-sonnet-5,2026-10-09,1,no
+o-836f869005,8,,1,"2008 column, Collections over $2 million",PDF p. 17,NA 12 8 5 9,high,,claude-sonnet-5,2026-10-09,1,no
+o-3fb9305dc2,5,,1,"2009 column, Collections over $2 million",PDF p. 17,NA 12 8 5 9,high,,claude-sonnet-5,2026-10-09,1,no
+o-c1c0ed0ae0,9,,1,"2010 column, Collections over $2 million",PDF p. 17,NA 12 8 5 9,high,,claude-sonnet-5,2026-10-09,1,no
+o-d17cb23a15,17,,1,footnote 16,PDF p. 17,"In FY 2010, 17 informants received partial payments totaling $13 million.",high,"Counted as informants, not awards; footnote 16 says 17 informants received partial payments.",claude-sonnet-5,2026-10-09,1,no
+o-94135aa8e8,85,,1,Approximately 85 percent,PDF p. 13,Approximately 85 percent of submissions do not appear to meet the income or amount in dispute thresholds,high,Printed as 'Approximately 85 percent'.,claude-sonnet-5,2026-10-09,1,no
+o-7e76c797cc,315,,1,"Average, Whistleblower Office - Case Suspended",PDF p. 12,Whistleblower Office - Case Suspended 315 783 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-5169f999ad,200,,1,"Average, Appeals",PDF p. 12,Appeals 200 596 7,high,,claude-sonnet-5,2026-10-09,1,no
+o-189df04338,596,,1,"Longest, Appeals",PDF p. 12,Appeals 200 596 7,high,,claude-sonnet-5,2026-10-09,1,no
+o-4d3c1c25f5,109,,1,"Whistleblowers column, Whistleblower Office - Form 11369 Review",PDF p. 11,Whistleblower Office - Form 11369 Review 131 385 109 351,medium,"Unit 'persons' matched to the Whistleblowers column (109). Other columns: Submissions 131, Taxpayers 385, Claim #s 351.",claude-sonnet-5,2026-10-09,1,no
+o-bbc021cd90,1016,,1,"Taxpayers column, Operating Division Subject Matter Expert Review",PDF p. 11,Operating Division Subject Matter Expert Review 264 1016 209 951,high,,claude-sonnet-5,2026-10-09,1,no
+o-6a0f2a098e,131,,1,"Submissions column, Whistleblower Office - Form 11369 Review",PDF p. 11,Whistleblower Office - Form 11369 Review 131 385 109 351,high,,claude-sonnet-5,2026-10-09,1,no
+o-d963050930,54,,1,"Taxpayers column, Whistleblower Office - Case Suspended TEFRA Related",PDF p. 13,Case Suspended TEFRA Related 1 54 1 51,high,,claude-sonnet-5,2026-10-09,1,no
+o-01c532bc33,368,,1,"Average, Whistleblower Office - Case Suspended",PDF p. 14,Whistleblower Office - Case Suspended 368 1175 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-e3da3d1d2b,1,,1,"Submissions column, Case Suspended TEFRA Related",PDF p. 13,Case Suspended TEFRA Related 1 54 1 51,high,,claude-sonnet-5,2026-10-09,1,no
+o-c945b1986f,5,,1,about 5 percent,PDF p. 16,SB/SE ... only about 5 percent were identified as potential 7623(b) claims,high,Printed as 'about 5 percent'.,claude-sonnet-5,2026-10-09,1,no
+o-23f58755c6,94,,1,"Longest, CI Review",PDF p. 14,CI Review 61 94 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-9444f1e34c,44,,1,"Submissions column, Case Suspended Related Claims Still In Process",PDF p. 13,Related Claims Still In Process 44 605 32 550,high,,claude-sonnet-5,2026-10-09,1,no
+o-dd0041fab3,285,,1,"SBSE, Claims, 7623(b)",PDF p. 18,SBSE Claims 6919 285 7204,high,"Row 'Claims' under SBSE, column 7623(b). Submissions would be 79.",claude-sonnet-5,2026-10-09,1,no
+o-0217d294ae,159,,1,"Average Days, Case Suspended: Awaiting Collection Action",PDF p. 23,Whistleblower Office - Case Suspended: Awaiting Collection Action 159 538 5,high,,claude-sonnet-5,2026-10-09,1,no
+o-8236147bcd,1320,,1,"Whistleblowers column, Total row",PDF p. 22,Total 1721 12192 1320 11531,medium,"Unit 'persons' matched to the Whistleblowers column total (1320). Other totals: Submissions 1721, Taxpayers 12192, Claim #s 11531. Row has no item breakdown, so Total row used.",claude-sonnet-5,2026-10-09,1,no
+o-c95730a4e0,75,,1,"Submissions, Whistleblower Office - Initial Review",PDF p. 22,Whistleblower Office - Initial Review 75 379 71 378,high,,claude-sonnet-5,2026-10-09,1,no
+o-edc4b68296,2194,,1,"2012 column, Total row",PDF p. 20,Total 227 24 104 226 333 528 2194 2958 6595,high,"Total row of Table 3, column for claims received in FY2012 (all closure reasons).",claude-sonnet-5,2026-10-09,1,no
+o-c79dc11016,1,,1,"Shortest Days, Whistleblower Office - Case Suspended",PDF p. 23,Whistleblower Office - Case Suspended 270 611 1,high,,claude-sonnet-5,2026-10-09,1,no
+o-00131a4ae7,1382,,1,"Longest Days, Case Suspended: OD Evaluating Bulk Claim",PDF p. 23,Case Suspended: OD Evaluating Bulk Claim Involving a Large Number of Taxpayers 1034 1382 9,high,,claude-sonnet-5,2026-10-09,1,no
+o-6d12f36013,804,,1,"2014 column, Closed - Other",PDF p. 19,Closed - Other 3 2 13 33 37 189 116 423 804 1620,high,Footnote marker 14 on the row label; 2014 column is the one before Total.,claude-sonnet-5,2026-10-09,1,no
+o-ebe6be14fa,2,,1,"Average Days, Rejection/Denial Letter Pending",PDF p. 23,Whistleblower Office - Rejection/Denial Letter Pending 2 3 2,high,,claude-sonnet-5,2026-10-09,1,no
+o-68a048385d,11413,,1,"SBSE, Claims, Grand Total",PDF p. 17,SBSE Claims 10437 976 11413,high,"Breakdown has no subsection, so Grand Total claims used (7623(a) 10437, 7623(b) 976).",claude-sonnet-5,2026-10-09,1,no
+o-8ec64ad57a,228,,1,"LB&I, Submissions, 7623(a)",PDF p. 17,LB&I Submissions 228 134 362,high,,claude-sonnet-5,2026-10-09,1,no
+o-ae5f4d4f65,2,,1,"2014 column, Information Already Known",PDF p. 19,Information Already Known 1 1 74 6 2 10 8 167 2 271,medium,"Row cells have blanks/dashes in extracted text, but 2014 is the column just before Total: 2. Row sums to 271 with the cells read in this order (printed in the table, not computed by me for the value).",claude-sonnet-5,2026-10-09,1,no
+o-ecc8cc30b2,95,,1,"Submissions, Preliminary Award Evaluation 7623(b)",PDF p. 15,Preliminary Award Evaluation 7623(a) 49 61; 7623(b) 95 176,high,,claude-sonnet-5,2026-10-09,1,no
+o-3102cf268e,Less than 1%,,1,As a Percentage of Total Claims,PDF p. 17,Administrative Error - (Duplicate Records Created in Error) 36 Less than 1%,high,"Printed as 'Less than 1%' (so value is an upper bound, 1 is not the printed figure); count column shows 36 claims of 10,615.",claude-sonnet-5,2026-10-09,1,no
+o-7a670a3934,11,,1,"FY 2015 column, Collections over $2,000,000",PDF p. 11,"Collections over $2,000,000 6 9 11",high,Footnote 8: includes pre-enactment 7623(a) claims over $2 million and 7623(b) claims.,claude-sonnet-5,2026-10-09,1,no
+o-d2c28d96be,592,,1,"Related (top stacked segment), Oct",PDF p. 13,Oct column labels: 592 / 170 / 245,medium,"Figure labels only, read by their x/y position in the PDF text layer. Oct column has three labels 592 (top), 170 (middle), 245 (bottom); in the stack Stand Alone is bottom, Master middle, Related top, so Related = 592. Legend colours not visually checked.",claude-sonnet-5,2026-10-09,1,no
+o-4d1151f480,270,,1,"Related (top stacked segment), Aug",PDF p. 13,Aug column labels: 270 / 137 / 235,medium,"Figure labels only, read by x/y position; Aug column has 270 (top), 137 (middle), 235 (bottom); top segment taken as Related. Legend colours not visually checked.",claude-sonnet-5,2026-10-09,1,no
+o-89efb82c36,58,,1,"Number of Claims, Litigation 7623(a)",PDF p. 15,Litigation 7623(a) 26 58,high,Submissions column is 26; claims column is 58.,claude-sonnet-5,2026-10-09,1,no
+o-31627ecd94,"1,365",,1,FY 2013 bar,PDF p. 15,"Figure 5 bar label 1,365 above FY 2013",medium,"Chart label matched to the FY 2013 axis label by horizontal position in the PDF text layer (labels 2,627 / 581 / 1,852 / 1,365 for FY2016/15/14/13). Bar not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-f340f610f4,4.81,,1,"Average Days to Process Awards, 2014, 7623(a)",PDF p. 11,"7623(a) Claims 240; 1,757 (4.81 Years)",high,"Printed in days with years in brackets: 1,757 days (4.81 Years). Value is the years figure as printed; days figure is 1,757.",claude-sonnet-5,2026-10-09,1,no
+o-013bed26f1,7.10,,1,"Average Days to Process Awards, 2016, 7623(a)",PDF p. 11,"7623(a) Claims 602; 2,592 (7.10 Years)",high,"Printed in days with years in brackets: 2,592 days (7.10 Years). Value is the years figure as printed; days figure is 2,592.",claude-sonnet-5,2026-10-09,1,no
+o-82da77ea24,329,,1,"LB&I, Submissions, 7623(a)",PDF p. 13,LB&I Submissions 329 60 389,high,,claude-sonnet-5,2026-10-09,1,no
+o-04ffcbc988,20,,1,"Submissions, Litigation 7623(b)",PDF p. 16,Litigation 7623(a) 9 49; 7623(b) 20 39,high,,claude-sonnet-5,2026-10-09,1,no
+o-6dbfdef9a2,311,,1,"Stand Alone (bottom stacked segment), Apr",PDF p. 12,Apr column labels: 1290 / 149 / 311,medium,"Figure labels only, read by x/y position; Apr column has 1290 (top), 149 (middle), 311 (bottom). Stand Alone is the first series in the legend, taken as bottom segment. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-9dba5b42cb,7.10,,1,"Average Days to Process Awards, 2016, 7623(a)",PDF p. 10,"7623(a) Claims 602; 2,592 (7.10 Years)",high,"Printed as 2,592 days (7.10 Years); value is the years figure. Pairing checked by position in the text layer.",claude-sonnet-5,2026-10-09,1,no
+o-85b6065479,307,,1,"Stand Alone (bottom stacked segment), Jul",PDF p. 11,Jul column labels: 713 / 159 / 307,medium,"Figure labels only, read by x/y position; Jul column has 713 (top), 159 (middle), 307 (bottom). Stand Alone is first in the legend, taken as bottom segment. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-904c59014f,7.32,,1,"Average Days to Process Awards, 2017, 7623(b)",PDF p. 10,"7623(b) Claims 35; 2,672 (7.32 Years)",high,"Printed as 2,672 days (7.32 Years); value is the years figure.",claude-sonnet-5,2026-10-09,1,no
+o-db4e4ead3d,569,,1,"SBSE, Claim Numbers, 7623(b)",PDF p. 12,"SBSE Claim Numbers 9,817 569 10,386",high,Claim Numbers row (submissions row would be 158).,claude-sonnet-5,2026-10-09,1,no
+o-7d4492b455,6.02,,1,"Average Days to Process Awards, 2015, 7623(b)",PDF p. 10,"7623(b) Claims 49; 2,196 (6.02 Years)",high,"Printed as 2,196 days (6.02 Years); value is the years figure.",claude-sonnet-5,2026-10-09,1,no
+o-3913c2e998,111,,1,"Claim Numbers, Interim Award Assessment 7623(b)",PDF p. 15,Interim Award Assessment 7623(a) 429; 7623(b) 111,high,,claude-sonnet-5,2026-10-09,1,no
+o-e205722ae2,400,,1,"Related (top stacked segment), Feb",PDF p. 10,Feb column labels: 400 / 155 / 253,medium,"Figure labels only, read by x/y position; Feb column has 400 (top), 155 (middle), 253 (bottom). Legend order Stand Alone, Master, Related taken as bottom to top (text says each master has at least two related claim numbers, consistent with top segment being larger). Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-8bd5035b57,"1,511",,1,"LB&I, Claim Numbers, Total",PDF p. 11,"LB&I Claim Numbers 1,141 370 1,511",high,"Breakdown has no claim type, so Total column used (7623(a) 1,141, 7623(b) 370). Submissions row would be 483.",claude-sonnet-5,2026-10-09,1,no
+o-4a77393c1b,718,,1,FY 2015 bar,PDF p. 14,Figure 5 bar label 718 above FY 2015,medium,Chart label matched to the FY 2015 axis label by horizontal position in the PDF text layer. Bar not viewed.,claude-sonnet-5,2026-10-09,1,no
+o-36294b702f,"1,487",,1,FY 2014 bar,PDF p. 14,"Figure 5 bar label 1,487 above FY 2014",medium,Chart label matched to the FY 2014 axis label by horizontal position in the PDF text layer. Bar not viewed.,claude-sonnet-5,2026-10-09,1,no
+o-e0a4f25bf8,157,,1,"Master (middle stacked segment), Apr",PDF p. 10,Apr column labels: 658 / 157 / 255,medium,"Figure labels only, read by x/y position; Apr column has 658 (top), 157 (middle), 255 (bottom). Master is second in the legend, taken as middle segment. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-9850f33b97,Less than 1%,,1,"Percent of Total Closures, Deceased Whistleblower Claims",PDF p. 18,"Deceased Whistleblower Claims 23 Less than 1% 3,477",high,"Printed as 'Less than 1%'; count column shows 23 of 12,833 closures.",claude-sonnet-5,2026-10-09,1,no
+o-83238ecad2,228,,1,"Claim Numbers, Appeals 7623(a)",PDF p. 16,Appeals 7623(a) 228; 7623(b) 294,high,,claude-sonnet-5,2026-10-09,1,no
+o-7980859285,8,,1,"Not specified division, Claim Numbers, Total",PDF p. 11,Claim Numbers 8 - 8,high,"Division label is blank in the text layer (footnote 5 marker), last row before totals; Total column used since breakdown has no claim type. Submissions are also 8.",claude-sonnet-5,2026-10-09,1,no
+o-78c28765e0,247,,1,"Stand Alone (bottom stacked segment), Jul",PDF p. 10,Jul column labels: 480 / 186 / 247,medium,"Figure labels only, read by x/y position; Jul column has 480 (top), 186 (middle), 247 (bottom). Stand Alone is first in the legend, taken as bottom segment. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-6278cc6982,7%,,1,"Percent of Total Closures, Claim Denied - Issues Below Threshold for IRS Action",PDF p. 19,"Claim Denied - Issues Below Threshold for IRS Action 1,235 7% 292",high,,claude-sonnet-5,2026-10-09,1,no
+o-a2cfef8b3b,"2,460",,1,FY 2016 bar,PDF p. 15,"Figure 5 bar label 2,460 above FY 2016",medium,Chart label matched to the FY 2016 axis label by horizontal position in the PDF text layer. Bar not viewed.,claude-sonnet-5,2026-10-09,1,no
+o-340e48de48,92,,1,"Total Claims Related to Paid Awards, 2018, 7623(b)",PDF p. 9,"2018 7623(b) Claims 92; 3,401 (9.32 Years)",medium,"Figure 2 label matched to the 2018 7623(b) row by vertical position in the text layer. Count is claims related to paid awards (as asked), not awards.",claude-sonnet-5,2026-10-09,1,no
+o-0d79a13b44,61.90%,,1,"Percentage, CI 7623(b)",PDF p. 10,CI 7623 (b) 63 39 61.90%,high,"Table 2B is on a two-page spread on PDF p. 10 (printed pp. 18-19). Columns: Receipts 63, Total Receipts (selected) 39, Percentage 61.90%.",claude-sonnet-5,2026-10-09,1,no
+o-5e23f385a9,9.32,,1,"Average Days to Process Awards, 2018, 7623(b)",PDF p. 9,"2018 7623(b) Claims 92; 3,401 (9.32) Years",high,"Printed as 3,401 days (9.32) Years; value is the years figure.",claude-sonnet-5,2026-10-09,1,no
+o-1d107c77c3,Less than 1%,,1,"Percent of Total Closures, Claim Denied - No Collected Proceeds (Uncollectible)",PDF p. 15,"Claim Denied - No Collected Proceeds (Uncollectible) 33 Less than 1% 3,430",high,"Printed as 'Less than 1%'; count shows 33 of 11,135 closures.",claude-sonnet-5,2026-10-09,1,no
+o-0f880ef85e,Less than 1%,,1,"Percent of Total Closures, Closed - Other",PDF p. 15,Closed - Other (Used as a General Closure That Does Not Fall Within...) 19 Less than 1% 490,high,"Printed as 'Less than 1%'; count shows 19 of 11,135 closures.",claude-sonnet-5,2026-10-09,1,no
+o-ed42a8771f,466,,1,"CI, Claim Numbers, Total",PDF p. 10,CI Claim Numbers 403 63 466,high,"Breakdown has no claim type, so Total column used (7623(a) 403, 7623(b) 63). Submissions row would be 55.",claude-sonnet-5,2026-10-09,1,no
+o-ecba86d1da,63,,1,"CI, Claim Numbers, 7623(b)",PDF p. 10,CI Claim Numbers 403 63 466,high,"Claim Numbers row, 7623(b) column (submissions would be 26).",claude-sonnet-5,2026-10-09,1,no
+o-2cc2ebdf28,9.09%,,1,"Percentage, Other 7623(a)",PDF p. 13,Other 7623 (a) 11 1 9.09%,high,"Table 2(D), two-page spread. Receipts 11, selected 1, percentage 9.09%.",claude-sonnet-5,2026-10-09,1,no
+o-0cc327ce12,"11,095",,1,"SB/SE, Claim Numbers, Total",PDF p. 13,"SB/SE Claim Numbers 9,846 1,249 11,095",high,"Breakdown has no claim type, so Total column used (7623(a) 9,846, 7623(b) 1,249). Submissions row would be 4,347.",claude-sonnet-5,2026-10-09,1,no
+o-447b4ad253,4%,,1,"Percent of Total Closures, Claim Rejected - No Tax Issue",PDF p. 17,Claim Rejected - No Tax Issue 525 4% 78,high,,claude-sonnet-5,2026-10-09,1,no
+o-d08f0702de,Less than 1%,,1,"Percent of Total Closures, Claim Rejected - Ineligible Whistleblower",PDF p. 17,Claim Rejected - Ineligible Whistleblower 15 Less than 1% 174,high,"Printed as 'Less than 1%'; count shows 15 of 12,584 closures.",claude-sonnet-5,2026-10-09,1,no
+o-dfe2bd4cb2,3,,1,"Other, Claim Numbers, 7623(b)",PDF p. 13,Other Claim Numbers 11 3 14,high,Claim Numbers row (submissions row would be 1).,claude-sonnet-5,2026-10-09,1,no
+o-d6b9c1f87e,119,,1,"Stand Alone (bottom stacked segment), Oct",PDF p. 11,Oct column labels: 341 / 103 / 119,medium,"Figure labels only, read by x/y position; Oct column has 341 (top), 103 (middle), 119 (bottom). Stand Alone is first in the legend, taken as bottom segment. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-12daface8d,2.93,,1,"Longest (years), Waiting for Expiration of Refund Statute",PDF p. 22,Waiting for Expiration of Refund Statute 0.01 2.93,high,,claude-sonnet-5,2026-10-09,1,no
+o-7e171b161b,19.7%,,1,text,PDF p. 19,only 19.7% of the number of award payments made involved IRC Section 7623(b) claims,high,Printed as a share of the number of award payments (Table 1 count for 7623(b): 26 of 132 awards). The row asks for the printed percent.,claude-sonnet-5,2026-10-09,1,no
+o-7b6c920c85,"1,400",,1,"Total Claims, Intake/Classification",PDF p. 26,"Intake/Classification 1,131 269 1,400",high,"Breakdown has no subsection, so Total Claims column used (7623(a) 1,131, 7623(b) 269).",claude-sonnet-5,2026-10-09,1,no
+o-a3c602f01b,$312.2 million,,million,text,PDF p. 20,"In FY 2018, the Whistleblower Office paid 217 awards totaling $312.2 million.",high,Printed in millions of dollars; value as printed. Figure 3 bar has no data labels.,claude-sonnet-5,2026-10-09,1,no
+o-43aa4ecf2a,28,,1,"7623(a) bar, 4-6 years",PDF p. 22,Figure 6 label 28 at 4-6 category,medium,"Chart labels read by x position in the PDF text layer, left bar of each pair taken as 7623(a) (legend order). Check: the left-bar labels 2, 28, 17, 11, 8, 16, 24 are the figures read for 7623(a); the right-bar labels 5, 3, 7, 7, 4 for 7623(b). Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-d44226daeb,16,,1,"7623(a) bar, 12-14 years",PDF p. 22,Figure 6 label 16 at 12-14 category,medium,"Chart labels read by x position in the PDF text layer, left bar of each pair taken as 7623(a) (legend order); right bar at 12-14 is 7. Bars not viewed.",claude-sonnet-5,2026-10-09,1,no
+o-d20dc739ce,11,,1,"Total, Final Review",PDF p. 26,Final Review 4 7 11,high,"Breakdown has no subsection, so Total column used (7623(a) 4, 7623(b) 7). Printed page number is 25.",claude-sonnet-5,2026-10-09,1,no
+o-61ba10828c,1%,,1,"% of Total Closures, Anonymous - Referred to Form 3949-A Program",PDF p. 28,Anonymous - Referred to Form 3949-A Program 168 1%,high,Printed page number is 27.,claude-sonnet-5,2026-10-09,1,no
+o-507618a683,170,,1,"IRC Section 7623(a), Taxpayer Appeals/Litigation",PDF p. 26,Taxpayer Appeals/Litigation 170 449 619,medium,Table has no row named 'Appeals'; closest is 'Taxpayer Appeals/Litigation' (7623(a) 170). Separate row 'Whistleblower Litigation' 7623(a) is 38.,claude-sonnet-5,2026-10-09,1,no
+o-2a888c143e,17.4%,,1,text,PDF p. 19,only 17.4% of the number of award payments made involved IRC Section 7623(b) claims,high,Printed as share of the number of award payments (Table 1: 21 of 121 awards).,claude-sonnet-5,2026-10-09,1,no
+o-c77d84dc02,"2,687",,1,"Total, Interim Award Assessment",PDF p. 26,"Interim Award Assessment 1,324 1,363 2,687",high,"Breakdown has no subsection, so Total column used (7623(a) 1,324, 7623(b) 1,363).",claude-sonnet-5,2026-10-09,1,no
+o-10aa2b0dc4,"12,577",,1,"Total, OD Field Suspense",PDF p. 26,"OD Field Suspense 7,558 5,019 12,577",medium,"Breakdown 'field_suspense' matched to the row 'OD Field Suspense'; no subsection, so Total column used (7623(a) 7,558, 7623(b) 5,019).",claude-sonnet-5,2026-10-09,1,no
+o-46e5aacea0,222,,1,FY2019,PDF p. 44 (printed p. 40),Insider Trading bars 231 / 262 / 222 / 369,medium,"Appendix A bar chart FY2017-2020; read from bar-label coordinates (pdftotext -bbox): Insider Trading group in order FY2017=231, FY2018=262, FY2019=222, FY2020=369 (369 matches the FY2020 chart on p.33)",claude-sonnet-5,2026-10-09,1,no
+o-8db0a0adfd,271,,1,FY2017,PDF p. 44 (printed p. 40),Trading and Pricing bars 271 / 333 / 201 / 300,medium,"Appendix A bar chart; coordinate-based: FY2017=271, FY2018=333, FY2019=201, FY2020=300 (300 matches FY2020 chart)",claude-sonnet-5,2026-10-09,1,no
+o-fa2cc14677,6,,1,FY2020,PDF p. 45 (printed p. 41),VT 6,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-d05fe55427,158,,1,FY2020,PDF p. 45 (printed p. 41),IL 158,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-fe90b32d87,two,,1,FY 2020,PDF p. 10 (printed p. 6),OWB dedicated two attorneys to reviewing likely non-meritorious claims,high,Printed as the word 'two' (= 2); also repeated on printed p.30,claude-sonnet-5,2026-10-09,1,no
+o-a62edfdb91,643,,1,FY2020,PDF p. 45 (printed p. 41),PA 643,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-3117488d45,85,,1,FY2021,PDF p. 41 (printed p. 37),NV 85,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-16ff7a59fc,150,,1,FY2021,PDF p. 17 (printed p. 13),"During FY 2021, OWB posted 150 NoCAs, including three NoCAs for Commission deferred prosecution agreements",high,150 includes three for deferred prosecution agreements,claude-sonnet-5,2026-10-09,1,no
+o-f4bc0e53ae,"1,078",,1,FY2020,PDF p. 40 (printed p. 36),"Offering Fraud bars 1,054 / 692 / 1,078 / 1,910",medium,"Appendix A chart FY2018-2021; coordinate-based: FY2018=1,054, FY2019=692, FY2020=1,078, FY2021=1,910. Same 1,078 as in the FY2020 report",claude-sonnet-5,2026-10-09,1,no
+o-746e264070,32,,1,FY2021,PDF p. 41 (printed p. 37),IA 32,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-848d422a93,approximately 5%,,1,FY2021,PDF p. 24 (printed p. 20),approximately 5% were in the range of 10 to 19%,high,"Share of final award orders in FY2021 with award percentage 10 to 19%; printed as a percent, not a count",claude-sonnet-5,2026-10-09,1,no
+o-d0aec782e6,23,,1,FY2021,PDF p. 41 (printed p. 37),DC 23,high,Appendix B,claude-sonnet-5,2026-10-09,1,no
+o-b2af3cdf33,more than $1.5 billion,,billion,cumulative,PDF p. 1,"of which more than $1.5 billion has been, or is scheduled to be, returned to harmed investors",high,"Cumulative since inception, 'more than'; of >$4.0 billion disgorgement and interest",claude-sonnet-5,2026-10-09,1,no
+o-7bb68b9344,"$2,666,925.27",,1,FY 2022,PDF p. 8,"Amounts of interest receipts from investments during fiscal year $2,666,925.27",medium,Fund table has no line called earnings; nearest is interest receipts from investments,claude-sonnet-5,2026-10-09,1,no
+o-d94e2f9754,"($43,462.61)",,1,FY 2022,PDF p. 8,"Amount disbursed to Office of the Inspector General during fiscal year ($43,462.61)",high,,claude-sonnet-5,2026-10-09,1,no
+o-6ec0802f0d,more than 90%,,1,FY2022,PDF p. 3,presumption for more than 90% of the awards issued in FY 2022,high,Printed as 'more than 90%' of awards issued,claude-sonnet-5,2026-10-09,1,no
+o-f64ad440e3,"4,484",,1,FY2017,PDF p. 5,"FY2017 4,484",high,Bar chart label read by OCR of the page image (300 dpi); value also matches FY2023 report text,claude-sonnet-5,2026-10-09,1,no
+o-6003a020d9,"$55,681,160.13",,1,FY 2022,PDF p. 8,"Amounts estimated to be paid from Fund during fiscal year to whistleblowers $55,681,160.13",medium,"Footnote 25: positive number reflects the lower awards payable balance vs end FY2021, i.e. the change in awards payable",claude-sonnet-5,2026-10-09,1,no
+o-2dc4dfe565,"$643,275,788.95",,1,FY 2023,PDF p. 9,"Amounts deposited into or credited to Fund during fiscal year $643,275,788.95",high,,claude-sonnet-5,2026-10-09,1,no
+o-1a6b8c2c44,"12,21 0",,1,FY2021,PDF p. 5,"FY2021 12,21 0",high,"Text extraction splits the label as '12,21 0'; read as 12,210 (same figure in the FY2022 report)",claude-sonnet-5,2026-10-09,1,no
+o-e60f86b456,"4,484",,1,FY2017,PDF p. 5,"FY2017 4,484",high,,claude-sonnet-5,2026-10-09,1,no
+o-155ac456b6,"($292,509,162.40)",,1,FY 2023,PDF p. 9,"Amounts estimated to be paid from Fund during fiscal year to whistleblowers ($292,509,162.40)",medium,Printed negative in brackets; footnote 25 describes this line as change in awards payable,claude-sonnet-5,2026-10-09,1,no
+o-4f50ee3809,six,,1,FY 2023,"PDF p. 1, footnote 1",The total dollar amount includes six awards that the Commission issued in connection with related actions,high,Printed as the word 'six' (= 6),claude-sonnet-5,2026-10-09,1,no
+o-138c971cb5,14%,,1,FY2023,PDF p. 5,Initial Coin Offerings and Crypto Asset Securities (14%),high,"Share of tips, percent",claude-sonnet-5,2026-10-09,1,no
+o-6196b15c60,$18 million,,1,FY 2024,PDF p. 9,JPMS agreed to pay an $18 million civil penalty,high,"J.P. Morgan Securities LLC, Rule 21F-17 case; civil penalty",claude-sonnet-5,2026-10-09,1,no
+o-c8c2cd39b5,"$ (23,603.98)",,1,FY 2024,PDF p. 13,"Amount disbursed to Office of the Inspector General during fiscal year $ (23,603.98)",medium,Value from OCR text of image table,claude-sonnet-5,2026-10-09,1,no
+o-dacc1eefcf,18,,1,2024-09-30,PDF p. 2,"staffed by additional full-time staff dedicated to the work of OWB, including 18 attorneys",high,,claude-sonnet-5,2026-10-09,1,no
+o-52064b11e7,three,,1,FY 2024,PDF p. 9,"In FY 2024, the Commission reduced three awards for an unreasonable delay in reporting",high,Printed as the word 'three',claude-sonnet-5,2026-10-09,1,no
+o-5169053f71,"$ (28,554,863.00)",,1,FY 2024,PDF p. 13,"Amount of receipts during the fiscal year that are unavailable $ (28,554,863.00)",low,No line labelled sequestered; this line's footnote 37 says amounts temporarily reduced under the Budget Control Act of 2011 (sequestration). Value from OCR of image table,claude-sonnet-5,2026-10-09,1,no
+o-7558a448de,three,,1,2024-09-30,PDF p. 2,managed by three front-line supervisors,high,Printed as the word 'three',claude-sonnet-5,2026-10-09,1,no
+o-9a70243a34,7%,,1,FY2025,PDF p. 4,Cryptocurrencies and Crypto Asset Securities (7%),high,"Share of tips, percent",claude-sonnet-5,2026-10-09,1,no
+o-ba7c25fa52,four,,1,FY 2025,PDF p. 6,The Commission reduced four awards in FY 2025 due to the whistleblower's participation in or benefit from the underlying misconduct,high,Printed as the word 'four',claude-sonnet-5,2026-10-09,1,no
+o-cb14726ef6,82,,1,FY 2025,PDF p. 1,82 Preliminary Determinations were made recommending awards,high,,claude-sonnet-5,2026-10-09,1,no
+o-1c27ad2bda,31,,1,FY 2025,PDF p. 2,"In FY 2025, the Commission granted awards in 31 Covered Actions",high,,claude-sonnet-5,2026-10-09,1,no
+o-ceefcd6e7c,"($21,961,506.00)",,1,FY 2025,PDF p. 7,"Amount of receipts during the fiscal year that are unavailable ($21,961,506.00)",low,No line labelled sequestered; this line's footnote is the Budget Control Act temporary reduction (sequestration),claude-sonnet-5,2026-10-09,1,no
+o-576211f517,27%,,1,FY2025,PDF p. 4,Offering Fraud (27%),high,"Share of tips, percent",claude-sonnet-5,2026-10-09,1,no
+o-c0c18025b1,$1 Billion,,billion,,"HTML list row Sept. 15, 2021, Release 2021-177",SEC Surpasses $1 Billion in Awards to Whistleblowers with Two Awards Totaling $114 Million,low,"List only prints the headline: 'surpasses $1 Billion' (a threshold, not an exact cumulative total) and a separate $114 Million for two awards",claude-sonnet-5,2026-10-09,1,no

@@ -22,3 +22,12 @@ o-4b3c0c98bb,ltu-prokuratura-veikla-2024,first_correct,"The report says the requ
 o-6211f787c7,svk-uoo-vs-2023,first_correct,Row is split retaliation=any: 'Zo 68 prípadov ... došlo v 21 prípadoch k odvetným opatreniam'. 21 of the 68 whistleblower cases; the second reader gave the 68.,claude (page text),2026-10-08
 o-480d146772,usa-cftc-wb-ar-2017,first_correct,Figure 2 (PDF p. 7) prints a label on every bar; the FY bar reads 12. Checked on the page image; the second reader's OCR missed the labels.,claude (page image),2026-10-09
 o-677b7d5913,usa-cftc-wb-ar-2017,first_correct,Figure 2 (PDF p. 7) prints a label on every bar; the FY bar reads 38. Checked on the page image; the second reader's OCR missed the labels.,claude (page image),2026-10-09
+o-d5727be5b4,hun-gvh-ogy-beszamolo-2012,second_correct,"Not printed: the report says only that, as in 2011 ('2011-hez hasonlóan'), nearly 20 enquiries came in during 2012. The 2011 value of 20 is an inference. Recommend removing the row (decision for Oscar).",claude (page text),2026-10-09
+o-c3b4386cca,kor-acrc-ar-2019,both_in_document,"Row takes 8,545 from the quoted Subtotal row; the second reader gave 1,181 from the same table. Column order not re-checked by eye; both numbers are printed.",claude (page text),2026-10-09
+o-4c454a0501,kor-acrc-pr-2016-12-08,first_correct,"Row is the award (포상금 2,300여만 원) printed in para 1; the second reader gave the compensation (보상금 4억 5,400여만 원).",claude (page text),2026-10-09
+o-c8ea12a4d2,kor-acrc-pr-2016-12-08,first_correct,"Row is the compensation (보상금 4억 5,400여만 원), category corruption without item; the second reader gave the combined total (4억 7,700여만 원).",claude (page text),2026-10-09
+o-10cde90c3a,kor-acrc-pr-2016-12-08,first_correct,"Row is the award count (포상금 3건, 2,320만원); the second reader gave the compensation count (23건).",claude (page text),2026-10-09
+o-adb0460306,kor-acrc-pr-2021-01-01,first_correct,"Same number: 712억 1천여만 원 = 712,100 ten thousand won.",claude (page text),2026-10-09
+o-52dc4ab5db,kor-acrc-pr-2024-07-18,first_correct,"Same number: 3억여만 원 = 30,000 ten thousand won.",claude (page text),2026-10-09
+o-155ac456b6,usa-sec-owb-ar-2023,first_correct,"Same number: printed in brackets ($292,509,162.40), recorded as negative.",claude (page text),2026-10-09
+o-6196b15c60,usa-sec-owb-ar-2024,first_correct,Same number: '$18 million' recorded as 18 with scale million.,claude (page text),2026-10-09
