@@ -772,3 +772,15 @@ says what was done to it.
 - **Worth a look:** chart values in the review were matched to bars by position and label colour (flagged for
   the second reading); two review charts conflict (72% vs 42% labour force participation).
 - Australia now: all 34 stored Australian documents reviewed (32 complete, 1 partial, 1 not applicable; checked in the ledger).
+
+### St Lucia, batch 1 (pass `extract-cbi-lca1`)
+- 20 documents reviewed (CIU annual reports 2017/18-2024/25, the 2015 Act and all regulations to 2026,
+  the 2024 budget address): 11 complete (the laws), 9 partial.
+- Added 1,397 numbers, 106 rules, 23 events: applications received, approved, denied by country of birth,
+  investment option and month; contributions and fund flows; due diligence; every fee and price in each
+  set of regulations (incl. the 500-a-year cap of 2015 and 1,500 of 2026, the 2020 COVID bond, the 2025
+  genuine-link and residency requirements). Many tables were images read by OCR; every reconstructed table
+  adds to its printed total except two (one bar without a label, one country missing).
+- Reports disagree with each other on some years (e.g. 2020/21 applications 408 vs 383 later); both kept.
+- Partial: mainly the CIU's own balance sheets and cash flows. **Decision needed:** are those in scope? If
+  yes they'll be extracted; if not, the reports can be marked complete. Also 4 proposed indicators.

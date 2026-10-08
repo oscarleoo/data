@@ -4188,17 +4188,40 @@ KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-18.7,1,-18.7,pr
 KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-6.9,1,-6.9,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,171.0,vintage,o-a221f8d0c6
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,24,1,24.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-633c7ab4c7
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,25,1,25.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-da2d719173
+LCA,lca-cbi,applicant_profile_share [route=donation],FY2020/21,percent,64,1,64.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,3.2,revision,o-3f85571c83
+LCA,lca-cbi,applicant_profile_share [route=donation],FY2020/21,percent,66.1,1,66.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,3.2,revision,o-74e0e2ee74
+LCA,lca-cbi,applicant_profile_share [route=real_estate],FY2020/21,percent,20,1,20.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,5.2,revision,o-7afe9e033c
+LCA,lca-cbi,applicant_profile_share [route=real_estate],FY2020/21,percent,21.1,1,21.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,5.2,revision,o-507e683a4f
+LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,46.4,vintage,o-a8f70abf84
+LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,46.4,vintage,o-2a010f6ad7
+LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,46.4,vintage,o-9469b9aad6
+LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,46.4,vintage,o-441f6e6112
+LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,46.4,vintage,o-ee4b461af7
+LCA,lca-cbi,applications_received,FY2019/20,applications,360,1,360.0,budget,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,46.4,vintage,o-132e07bbf0
+LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,6.1,revision,o-05c91a973d
+LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,6.1,revision,o-2b1fa6d381
 LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,6.1,revision,o-469390b784
 LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,6.1,revision,o-51ca9000fb
 LCA,lca-cbi,applications_received,FY2020/21,applications,408,1,408.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,6.1,revision,o-f51df7c2b2
 LCA,lca-cbi,applications_rejected,2024,applications,81,1,81.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,64.3,revision,o-3c26e71d73
 LCA,lca-cbi,applications_rejected,2024,applications,227,1,227.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,64.3,revision,o-0e5394a13a
+LCA,lca-cbi,applications_rejected,FY2021/22,applications,9,1,9.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,10.0,revision,o-9bc224c37d
+LCA,lca-cbi,applications_rejected,FY2021/22,applications,9,1,9.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,10.0,revision,o-38fad968a6
 LCA,lca-cbi,applications_rejected,FY2021/22,applications,9,1,9.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,10.0,revision,o-b38bc28eca
 LCA,lca-cbi,applications_rejected,FY2021/22,applications,10,1,10.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,10.0,revision,o-63fbc2f73e
+LCA,lca-cbi,applications_rejected,FY2022/23,applications,6,1,6.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,25.0,revision,o-f20ca0ecbd
 LCA,lca-cbi,applications_rejected,FY2022/23,applications,6,1,6.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,25.0,revision,o-d20c47d47c
 LCA,lca-cbi,applications_rejected,FY2022/23,applications,8,1,8.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,25.0,revision,o-9c5975cbe7
 LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,42295519,1,42295519.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-7eeb302e24
 LCA,lca-cbi,cbi_bond_purchases,FY2022/23,XCD,47695500,1,47695500.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,11.3,same_source,o-2e7e48c1be
+LCA,lca-cbi,cbi_bond_purchases [route=bonds_covid],FY2021/22,XCD,44860500,1,44860500.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,2.9,same_source,o-f1d6232925
+LCA,lca-cbi,cbi_bond_purchases [route=bonds_covid],FY2021/22,XCD,46210500,1,46210500.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,2.9,same_source,o-8d343f2e72
+LCA,lca-cbi,cbi_contributions,FY2020/21,USD,17853500,1,17853500.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.3,revision,o-a8530c0590
+LCA,lca-cbi,cbi_contributions,FY2020/21,USD,17900000,1,17900000.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.3,revision,o-26bc01bb70
+LCA,lca-cbi,cbi_contributions,FY2021/22,USD,24200000,1,24200000.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.3,same_source,o-cd466504de
+LCA,lca-cbi,cbi_contributions,FY2021/22,USD,24284500,1,24284500.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.3,same_source,o-eabed4784b
+LCA,lca-cbi,cbi_contributions_count,FY2017/18,contributions,111,1,111.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,44.5,vintage,o-829e2ea599
+LCA,lca-cbi,cbi_contributions_count,FY2017/18,contributions,200,1,200.0,budget,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,44.5,vintage,o-3920e15588
 LCA,lca-cbi,cbi_fee_revenue,FY2015/16,XCD,542700,1,542700.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,4.7,vintage,o-d691166b5f
 LCA,lca-cbi,cbi_fee_revenue,FY2015/16,XCD,569747,1,569747.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,4.7,vintage,o-90936d1a84
 LCA,lca-cbi,cbi_fee_revenue [category=agent_licence_fees],FY2015/16,XCD,135000,1,135000.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,34.6,vintage,o-45ac810e86
@@ -4275,9 +4298,86 @@ LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,66
 LCA,lca-cbi,cbi_fund_payments [category=ciu_operating_expenses],FY2015/16,XCD,678883,1,678883.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,1.5,revision,o-a9426ddcad
 LCA,lca-cbi,cbi_fund_payments [category=ciu_program_costs],FY2015/16,XCD,495,thousand,495000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,7.3,revision,o-4cca19765b
 LCA,lca-cbi,cbi_fund_payments [category=ciu_program_costs],FY2015/16,XCD,533738,1,533738.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,7.3,revision,o-7621f8c8b4
+LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,XCD,1841400,1,1841400.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,49.8,same_source,o-4de7a7551a
+LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,XCD,2315249,1,2315249.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,49.8,same_source,o-45bfe83338
+LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,XCD,3665249,1,3665249.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,49.8,same_source,o-a603f18e58
+LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,XCD,3665250,1,3665250.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,49.8,same_source,o-9b04cfb6a7
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1119162,1,1119162.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,9.4,revision,o-8d4a56ecc7
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1235750,1,1235750.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,9.4,revision,o-ce178d2b8a
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2016/17,XCD,1597337,1,1597337.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.8,same_source,o-525c699af8
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2016/17,XCD,1678642,1,1678642.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.8,same_source,o-db2a87391e
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2017/18,XCD,11096992,1,11096992.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,24.9,same_source,o-f51d95c7d4
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2017/18,XCD,11096993,1,11096993.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,24.9,same_source,o-b0d20333f4
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2017/18,XCD,14782492,1,14782492.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,24.9,same_source,o-cbc752e1c7
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2021/22,XCD,23629192,1,23629192.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-497960b6c3
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2021/22,XCD,23639192,1,23639192.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-8af4e68481
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777686,1,33777686.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-5310c8ce09
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777687,1,33777687.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-4db95723c9
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872329,1,1872329.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-2cd7c8c21a
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872329,1,1872329.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,same_source,o-6db91b9f8c
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872330,1,1872330.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-447b202830
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2019/20,XCD,2765359,1,2765359.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,same_source,o-a7a917ee0b
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2019/20,XCD,2765359,1,2765359.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-dc145b8a08
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2019/20,XCD,2765539,1,2765539.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-1d83436ac9
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2020/21,XCD,7394939,1,7394939.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-0e83e9f826
+LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2020/21,XCD,7397639,1,7397639.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-1e6485f8af
+LCA,lca-cbi,cbi_programme_costs [category=marketing_agent_commissions],FY2017/18,XCD,2339542,1,2339542.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,50.0,same_source,o-16e5159bf8
+LCA,lca-cbi,cbi_programme_costs [category=marketing_agent_commissions],FY2017/18,XCD,2813392,1,2813392.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,50.0,same_source,o-c30bb145c1
+LCA,lca-cbi,cbi_programme_costs [category=marketing_agent_commissions],FY2017/18,XCD,4675042,1,4675042.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,50.0,same_source,o-e4d1a3ffbb
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2016/17,XCD,29717,1,29717.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,73.3,same_source,o-d39e56e08c
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2016/17,XCD,111466,1,111466.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,73.3,same_source,o-efcd7186d4
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2017/18,XCD,62863,1,62863.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.0,same_source,o-47edf5dff5
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2017/18,XCD,62863,1,62863.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-bb8118c3e8
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2017/18,XCD,62883,1,62883.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.0,same_source,o-022d57eb85
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2018/19,XCD,25287,1,25287.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,10.6,same_source,o-718814a682
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2018/19,XCD,25287,1,25287.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,10.6,same_source,o-ea72eca1aa
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2018/19,XCD,28287,1,28287.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,10.6,same_source,o-02527edd59
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2019/20,XCD,37965,1,37965.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,88.0,same_source,o-e683c4a6a7
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2019/20,XCD,37965,1,37965.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,88.0,same_source,o-352947cb57
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2019/20,XCD,316673,1,316673.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,88.0,same_source,o-ff8c6b96f5
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2020/21,XCD,36291,1,36291.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,89.8,same_source,o-ee75a3394f
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2020/21,XCD,355966,1,355966.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,89.8,same_source,o-4c2f3b9ec9
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2022/23,XCD,116680,1,116680.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,revision,o-e084ff32db
+LCA,lca-cbi,cbi_programme_costs [category=marketing_investor_relations],FY2022/23,XCD,116800,1,116800.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.1,revision,o-ae88d069cb
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2016/17,XCD,1764317,1,1764317.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.4,same_source,o-8efcf8a33a
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2016/17,XCD,1845623,1,1845623.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.4,same_source,o-51e8aa7e5f
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2017/18,XCD,2644748,1,2644748.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.0,same_source,o-e876c83ed8
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2017/18,XCD,2644749,1,2644749.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.0,same_source,o-f297753d95
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2017/18,XCD,2644749,1,2644749.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-810b9a9907
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2020/21,XCD,2473459,1,2473459.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-e4de5aedfd
+LCA,lca-cbi,cbi_programme_costs [category=operating_expenses],FY2020/21,XCD,2473460,1,2473460.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,revision,o-2a44ed6c51
+LCA,lca-cbi,cbi_programme_costs [category=opex_board_remuneration],FY2021/22,XCD,123540,1,123540.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-1f52955dff
+LCA,lca-cbi,cbi_programme_costs [category=opex_board_remuneration],FY2021/22,XCD,123548,1,123548.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-62f575c522
+LCA,lca-cbi,cbi_programme_costs [category=opex_communication_it],FY2020/21,XCD,164909,1,164909.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.9,revision,o-51d3d38684
+LCA,lca-cbi,cbi_programme_costs [category=opex_communication_it],FY2020/21,XCD,166438,1,166438.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.9,revision,o-27dc311c4b
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234158,1,234158.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-f3f9c5f2da
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234159,1,234159.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-d065fd723c
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2017/18,XCD,105386,1,105386.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,1.0,revision,o-461151db6e
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2017/18,XCD,106498,1,106498.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,1.0,revision,o-18d33b1ef7
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2019/20,XCD,50872,1,50872.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,31.8,revision,o-99e023cf6e
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2019/20,XCD,74626,1,74626.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,31.8,revision,o-38e5d52967
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2020/21,XCD,38329,1,38329.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,65.2,revision,o-3bf212de25
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2020/21,XCD,110282,1,110282.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,65.2,revision,o-b8f527117c
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2021/22,XCD,160859,1,160859.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,27.3,revision,o-65bf34b326
+LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2021/22,XCD,221133,1,221133.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,27.3,revision,o-3792bbf2e1
+LCA,lca-cbi,cbi_programme_costs [category=opex_payroll],FY2022/23,XCD,2312799,1,2312799.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-84a7710b3e
+LCA,lca-cbi,cbi_programme_costs [category=opex_payroll],FY2022/23,XCD,2312973,1,2312973.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-86fc7630f5
+LCA,lca-cbi,cbi_programme_costs [category=total_expenses],FY2017/18,XCD,13741741,1,13741741.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,21.1,revision,o-d1fd29eb29
+LCA,lca-cbi,cbi_programme_costs [category=total_expenses],FY2017/18,XCD,17427241,1,17427241.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,21.1,revision,o-a32fdd13a9
+LCA,lca-cbi,cbi_transfers_to_government,2016-2020,XCD,131245988,1,131245988.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,revision,o-fab5877ea9
+LCA,lca-cbi,cbi_transfers_to_government,2016-2020,XCD,131245988.60,1,131245988.6,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,revision,o-f497634ac6
 LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,160901673.36,1,160901673.36,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-5ebed2a385
 LCA,lca-cbi,cbi_transfers_to_government,2016-2021,XCD,187568616,1,187568616.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,14.2,same_source,o-90edb4a6c8
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q2,XCD,1053774.40,1,1053774.4,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,30.5,same_source,o-66ed5db375
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q2,XCD,1516145,1,1516145.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,30.5,same_source,o-e92d5484d7
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q3,XCD,2516155.20,1,2516155.2,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.8,same_source,o-02bf363189
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q3,XCD,2537661,1,2537661.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.8,same_source,o-be9fabb283
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q4,XCD,8967835.20,1,8967835.2,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,2.1,same_source,o-64c61539f1
+LCA,lca-cbi,cbi_transfers_to_government,2017-Q4,XCD,9161385,1,9161385.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,2.1,same_source,o-afb7f2b780
+LCA,lca-cbi,cbi_transfers_to_government,2018-Q1,XCD,14613055,1,14613055.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.4,same_source,o-f400cb16b3
+LCA,lca-cbi,cbi_transfers_to_government,2018-Q1,XCD,15290481.60,1,15290481.6,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,4.4,same_source,o-154732d331
 LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,27828246,1,27828246.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-1c0963998b
+LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,27828246.40,1,27828246.4,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-337cba6eeb
 LCA,lca-cbi,cbi_transfers_to_government,FY2017/18,XCD,43011200,1,43011200.0,budget,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,35.3,vintage,o-3cca5ef4b5
 LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,58619887,1,58619887.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-5784c86ceb
 LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,64108843,1,64108843.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-f64fba28e1
@@ -4286,14 +4386,65 @@ LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,141.8,million,141800000.0,reported,lca-slutimes-2026-08,St. Lucia Times,2026-08-07,39.2,same_source,o-d35ee017dd
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,7758308,1,7758308.0,estimate,lca-mof-estimates-2021-22,"Department of Finance, Government of Saint Lucia",2021-04,53.8,revision,o-c066a6586c
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2020/21,XCD,16804926,1,16804926.0,actual,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,53.8,revision,o-09acba0aa0
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13737689.86,1,13737689.86,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,revision,o-b5e766437f
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992,1,13797992.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-aa2d7cce50
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992.19,1,13797992.19,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-a5fb2b3d2d
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2021/22,XCD,6818600,1,6818600.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-d9e3698561
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2021/22,XCD,6848531,1,6848531.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-87a9a01861
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XCD,35000000,1,35000000.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,1.4,vintage,o-a2b8216135
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XCD,35500000,1,35500000.0,estimate,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,1.4,vintage,o-39ece03d41
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,2661825,1,2661825.0,actual,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,95.9,vintage,o-ad421eec2a
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2022/23,XCD,65000000,1,65000000.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,95.9,vintage,o-a19248c1d6
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-faba01aec0
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.0,same_source,o-85bf2fb5f2
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-ffe5b5a91c
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,same_source,o-de2578109c
+LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570523,1,60570523.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-75196850fb
+LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5148336,1,5148336.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,9.6,revision,o-c726b91695
+LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5693736,1,5693736.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,9.6,revision,o-eb4655c097
+LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2021/22,XCD,12290751,1,12290751.0,budget,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,55.7,vintage,o-4cb34e5ae1
+LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2021/22,XCD,27734390,1,27734390.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,55.7,vintage,o-a25b7ec9c3
 LCA,lca-cbi,cbi_unit_revenue,FY2015/16,XCD,269634,1,269634.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,52.7,revision,o-9a27301ed8
 LCA,lca-cbi,cbi_unit_revenue,FY2015/16,XCD,570000,1,570000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,52.7,revision,o-d5a4175d95
-LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18621151,1,18621151.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.5,revision,o-3ed95b9b05
-LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,22858260,1,22858260.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.5,revision,o-879889e072
+LCA,lca-cbi,cbi_unit_revenue,FY2016/17,XCD,3511251,1,3511251.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,0.1,revision,o-c81344685a
+LCA,lca-cbi,cbi_unit_revenue,FY2016/17,XCD,3514201,1,3514201.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,0.1,revision,o-94f5cc78d5
+LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18621151,1,18621151.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.5,same_source,o-3ed95b9b05
+LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,18627360,1,18627360.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.5,same_source,o-18841712dc
+LCA,lca-cbi,cbi_unit_revenue,FY2017/18,XCD,22858260,1,22858260.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.5,same_source,o-879889e072
+LCA,lca-cbi,cbi_unit_revenue,FY2018/19,XCD,20799179,1,20799179.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-0c62e66d0f
+LCA,lca-cbi,cbi_unit_revenue,FY2018/19,XCD,20807270,1,20807270.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-758fdc6dd9
+LCA,lca-cbi,cbi_unit_revenue,FY2018/19,XCD,20807270,1,20807270.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,same_source,o-e3ba7a70aa
+LCA,lca-cbi,cbi_unit_revenue,FY2021/22,XCD,54154643,1,54154643.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-a5cad45633
+LCA,lca-cbi,cbi_unit_revenue,FY2021/22,XCD,54169344,1,54169344.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-65d3d1d35b
+LCA,lca-cbi,cbi_unit_revenue,FY2022/23,XCD,60616615,1,60616615.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-bbbaff9579
+LCA,lca-cbi,cbi_unit_revenue,FY2022/23,XCD,60631316,1,60631316.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-6cf0e02ccf
+LCA,lca-cbi,cbi_unit_revenue [category=administrative_fees_covid_bonds],FY2021/22,XCD,5184000,1,5184000.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-32532dada4
+LCA,lca-cbi,cbi_unit_revenue [category=administrative_fees_covid_bonds],FY2021/22,XCD,5184000,1,5184000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,same_source,o-ddc5ee238b
+LCA,lca-cbi,cbi_unit_revenue [category=administrative_fees_covid_bonds],FY2021/22,XCD,5184400,1,5184400.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-8acf7354f7
+LCA,lca-cbi,cbi_unit_revenue [category=due_diligence_fees],FY2018/19,XCD,3376536,1,3376536.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-0e175d2f05
+LCA,lca-cbi,cbi_unit_revenue [category=due_diligence_fees],FY2018/19,XCD,3376537,1,3376537.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-26ba216b39
+LCA,lca-cbi,cbi_unit_revenue [category=due_diligence_fees],FY2018/19,XCD,3376537,1,3376537.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,same_source,o-0efd0caebe
+LCA,lca-cbi,cbi_unit_revenue [category=incl_grant_income],FY2017/18,XCD,18890077,1,18890077.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,18.3,revision,o-261d4a7870
+LCA,lca-cbi,cbi_unit_revenue [category=incl_grant_income],FY2017/18,XCD,23120977,1,23120977.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,18.3,revision,o-e76edcf43d
+LCA,lca-cbi,cbi_unit_revenue [category=nef_marketing_retention_20pct],FY2017/18,XCD,6987600,1,6987600.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,37.0,revision,o-2949d17ce3
+LCA,lca-cbi,cbi_unit_revenue [category=nef_marketing_retention_20pct],FY2017/18,XCD,11083500,1,11083500.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,37.0,revision,o-cb30f48427
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2017/18,XCD,850896,1,850896.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,13.7,revision,o-ba0980b8ed
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2017/18,XCD,985896,1,985896.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,13.7,revision,o-37661bc8d2
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2018/19,XCD,8091,1,8091.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,99.4,revision,o-c356465f35
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2018/19,XCD,1276634,1,1276634.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,99.4,revision,o-14557b3b82
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2019/20,XCD,120299,1,120299.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,90.0,same_source,o-28e338d4cc
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2019/20,XCD,120299,1,120299.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,90.0,same_source,o-3104906033
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2019/20,XCD,1204481,1,1204481.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,90.0,same_source,o-9651b9305a
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2020/21,XCD,60269,1,60269.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,95.1,same_source,o-65961b3fe7
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2020/21,XCD,226320,1,226320.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,95.1,same_source,o-445bf42845
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2020/21,XCD,1221750,1,1221750.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,95.1,same_source,o-0d81da674f
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,254814,1,254814.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,41.7,same_source,o-b015d31925
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,269515,1,269515.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,41.7,same_source,o-931881f77b
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,437194,1,437194.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,41.7,same_source,o-cae66f55b0
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,305700,1,305700.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,47.0,revision,o-2abdc3c42a
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,576885,1,576885.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,47.0,revision,o-9c405ff7f8
+LCA,lca-cbi,processing_time_days,FY2019/20,days,56,1,56.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,11.1,revision,o-493145de8f
+LCA,lca-cbi,processing_time_days,FY2019/20,days,63,1,63.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,11.1,revision,o-abd64df78f
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.3,conflict,o-7d17947da8
 MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.3,conflict,o-406863c9c4
 MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
