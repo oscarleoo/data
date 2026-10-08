@@ -970,3 +970,11 @@ says what was done to it.
   read by matching digit shapes to the 13 rows already stored, and column sums match the source's totals):
   **lower assurance, needs the second reading**; bond and guest-investor rules.
 - Now fully reviewed (checked in the ledger): Canada 21 (18 complete, 3 partial), Italy 12, Hungary 19.
+
+### Whistleblowing: United States, batch 10 (pass `extract-whistleblowing-usa10`)
+- 20 SEC award orders reviewed: all complete. Every award was already in the data.
+- Added 9 cases (other claimants denied in the same orders; anonymous).
+- 25 suggested corrections to existing award notes (insider status, reduced awards and why, waived filing
+  rules) are held in the inbox file under `suggested_corrections`, **not applied**: they change existing rows,
+  so they wait for your review. One existing note calls a $1,000,000 award "over" when the order says
+  "approximately".
