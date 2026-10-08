@@ -378,3 +378,16 @@ says what was done to it.
 - Hong Kong now: all 69 stored Hong Kong documents reviewed (66 complete, 3 partial; checked in the ledger).
 - **Worth a look:** an existing row (o-17157f5c8a) records 0 rejections from the words "no application
   has been rejected so far". Same question as the St Lucia zeros.
+
+### St Kitts and Nevis, batch 2 (pass `extract-cbi-kna2`)
+- 20 documents reviewed (budget Estimates 2010-2026, budget addresses 2024-2026): 19 complete, 1 partial.
+- Added 324 numbers, 1 rule, 2 events: the programme revenue line in every Estimates volume
+  (forward estimates as projections, approved budgets, actuals), its split by item (fees, application
+  fees, background checks, hurricane relief and sustainable growth fund contributions, the 2024
+  sustainable island state contribution), and the Citizenship by Investment Unit's own budget.
+  The 2013 volume was read entirely by OCR. About 17,500 people received the first citizen dividend.
+- Did not add up (noted on the rows): 2012 and 2013 actuals (items vs summary line), 2024 budget
+  (items EC$5m above the summary).
+- **Decision needed:** Estimates 2023 p. 30 appears to swap the labels of the CIU and Human Resources
+  rows (the 2024 volume reprints them the other way round). Those 2023 figures are held back.
+- Not stored: Estimates Volume I for 2020.
