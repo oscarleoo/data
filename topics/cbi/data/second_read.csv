@@ -6126,3 +6126,254 @@ o-245fb270e9,0,,1,1st Jan 2020 to 30th Jun 2020,PDF p. 3,Singapore 0 0.00 1 0.04
 o-bc2e65ad6a,1,,1,Inception to 30th June 2020,PDF p. 2,Liberia 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
 o-68969e2387,3,,1,Inception to 30th June 2020,PDF p. 3,Spain 0 0.00 3 0.11,high,text layer,claude-sonnet-5,2026-10-08,1,no
 o-e3763885cc,"18,700,000.00",,1,Investment Contribution,PDF p. 14,"$ 18,700,000.00",medium,"scan OCR rotated; same digits at two scales, not cross-checked by sum; US$",claude-sonnet-5,2026-10-08,1,no
+o-94c7db1d00,33,,1,No. of Passports issued,HTML,Iran 27 33,medium,Table reporting period is inception to Dec 2015; text says passports issued within 2013 to June 2015,claude-sonnet-5,2026-10-08,1,no
+o-cfe656ef67,35,,1,No. of Applications Received,HTML,Lebanon 35 58,high,,claude-sonnet-5,2026-10-08,1,no
+o-9f404a0504,3,,1,No. of Applications Received,HTML,Turkey (Istanbul) 3 2,high,,claude-sonnet-5,2026-10-08,1,no
+o-49b262ec62,27,,1,No. of Applications Received,HTML,Iran 27 33,high,,claude-sonnet-5,2026-10-08,1,no
+o-45ee35e483,4,,1,No. of Applications Received,HTML,Iraq 4 6,high,,claude-sonnet-5,2026-10-08,1,no
+o-6b97f6aac7,23,,1,text,HTML,Twenty-three (23) were granted approval,high,,claude-sonnet-5,2026-10-08,1,no
+o-e78b500d29,1,,1,text,HTML,three (3) applications ... one of which was granted approval,high,printed as word 'one',claude-sonnet-5,2026-10-08,1,no
+o-349b7ee405,33,,1,text,HTML,total of thirty-three (33) persons being granted citizenship,high,,claude-sonnet-5,2026-10-08,1,no
+o-838eb21714,2,,1,No. of Passports issued,HTML,Turkey (Istanbul) 3 2,high,,claude-sonnet-5,2026-10-08,1,no
+o-58a38b99a3,6,,1,text,HTML,six (6) persons being granted citizenship,high,,claude-sonnet-5,2026-10-08,1,no
+o-6e21716a60,8,,1,No. of Applications Received,HTML,Egypt 8 21,high,,claude-sonnet-5,2026-10-08,1,no
+o-5a1357cea9,21,,1,No. of Passports issued,HTML,Egypt 8 21,high,,claude-sonnet-5,2026-10-08,1,no
+o-155a8c208d,less than 1,,1,text,PDF p. 14,"ECP receipts ... increased from less than 1 percent of GDP in 2008 to an estimated 13 and 3.4 percent of GDP in St. Kitts and Nevis and Dominica, in 2013",low,Sentence gives a single 'less than 1 percent of GDP in 2008' for both St Kitts and Nevis and Dominica combined; no exact figure,claude-sonnet-5,2026-10-08,1,no
+o-82f40fb898,0.2,0.6,1,text,PDF p. 43,receipts to the budget could amount to 0.2 percent-0.6 percent of GDP a year,medium,"Range, projection not an actual 2015 outturn: low end in value, high end in value_high",claude-sonnet-5,2026-10-08,1,no
+o-7f6dc5f373,0.2,,1,footnote 9,PDF p. 18,receipts have amounted to EC$5.4 million or around 0.2 percent of GDP in the six months to March 2015,high,"Since Sept 2014 inflows began, six months to March 2015",claude-sonnet-5,2026-10-08,1,no
+o-b0b708483b,4,,1,text,PDF p. 68,"large inflows into the National Transformation Fund (NTF) from the CBI programme (4 percent of GDP, in addition to the EC$24 million (1 percent of GDP) ...",medium,Budget assumption for 2015; page shows 4 percent (in addition to 1 percent for arrears); the 4 1/4 figure appears on p. 18 as total CBI inflows,claude-sonnet-5,2026-10-08,1,no
+o-a3740015f7,24.0,,million,2015,PDF p. 33,Transfer from the NTF for arrears repayment 24.0,high,"2014 column blank, 24.0 sits under 2015; table in EC$ million",claude-sonnet-5,2026-10-08,1,no
+o-fb2bb43cf2,"6,645,000",,1,Oct-19,PDF p. 1,"CBI Eligible Revenues 6,645,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-c88a6c5e8e,"6,480,000",,1,Oct-19,PDF p. 1,"5. Amounts due (calculated)* / NTF 6,480,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-5a9b551d64,35,,1,Nov-19,PDF p. 1,2. Applications approved by Cabinet 31 35 43 109,high,,claude-sonnet-5,2026-10-08,1,no
+o-8445a1d432,"483,000",,1,4th Quarter,PDF p. 1,"NTF - Fees Received 165,000 155,000 163,000 483,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-9f7fea81fa,"8,643,569",,1,Nov-19,PDF p. 1,"11 Amounts spent (Treasury) 5,370,050 8,643,569",high,,claude-sonnet-5,2026-10-08,1,no
+o-1d452484c1,"83,700,000",,1,Nov-19,PDF p. 1,"Savings for arrears/general financing 1/ 73,305,000 83,700,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-ac27cf9d63,"8,643,569",,1,Nov-19,PDF p. 1,"Capital projects 5,370,050 8,643,569",high,,claude-sonnet-5,2026-10-08,1,no
+o-f01724f6e8,"118,665,000",,1,Oct-19,PDF p. 1,"6. Amounts due - cumulative (calculated) 118,665,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-f98d0c98a4,10,,1,Oct-19,PDF p. 1,4. Applications rejected by Cabinet 10 14 3 27,high,,claude-sonnet-5,2026-10-08,1,no
+o-3088ff5e36,44,,1,Nov-19,PDF p. 1,3. Number of new citizens / NTF 44 44 58 146,high,,claude-sonnet-5,2026-10-08,1,no
+o-3538c7259e,"17,553,917",,1,4th Quarter,PDF p. 1,"9 CBI Payments to Treasury ... 17,553,917",high,,claude-sonnet-5,2026-10-08,1,no
+o-4bd6fed8c3,60,,1,4th Quarter,PDF p. 1,2. approved / Investment 19 18 23 60,high,,claude-sonnet-5,2026-10-08,1,no
+o-a813dbc993,"2,964,600",,1,4th Quarter,PDF p. 1,"NTF - Fees Received 742,500 1,152,900 1,069,200 2,964,600",high,,claude-sonnet-5,2026-10-08,1,no
+o-edbc25c6c7,-,,1,Nov-22,PDF p. 1,4. Applications rejected / Investment - - - -,high,Printed as a dash (nil/zero),claude-sonnet-5,2026-10-08,1,no
+o-37b7b4ce3f,"2,160,000",,1,Dec-22,PDF p. 1,"5. Amounts due / NTF 3,240,000 5,940,000 2,160,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-1ba561b7a2,45,,1,Oct-22,PDF p. 1,2. approved / Investment 45 51 11 107,high,,claude-sonnet-5,2026-10-08,1,no
+o-471ccd6b26,"2,540,554",,1,Oct-22,PDF p. 1,"Other Fees 2,540,554 2,793,746",high,,claude-sonnet-5,2026-10-08,1,no
+o-42002dc619,-,,1,4th Quarter,PDF p. 1,4. rejected / NTF - - - -,high,Printed as a dash (nil/zero),claude-sonnet-5,2026-10-08,1,no
+o-22bf7c54f5,"72,647,952",,1,Oct-22,PDF p. 1,"10. Amounts Spent - Cumulative (Treasury) 72,647,952",high,,claude-sonnet-5,2026-10-08,1,no
+o-c192efc60b,"3,982,500",,1,Oct-22,PDF p. 1,"7. CBI Eligible Revenues** 3,982,500",high,,claude-sonnet-5,2026-10-08,1,no
+o-705872f247,"2,160,000",,1,Dec-22,PDF p. 1,"7. NTF 3,240,000 5,940,000 2,160,000",high,Row 'NTF' under Eligible Revenues,claude-sonnet-5,2026-10-08,1,no
+o-bb8d40a6b1,428,,1,4th Quarter,PDF p. 1,3. Number of new citizens 173 213 42 428,high,,claude-sonnet-5,2026-10-08,1,no
+o-17241c5bb6,65,,1,4th Quarter,PDF p. 1,3. NTF 13 41 11 65,high,,claude-sonnet-5,2026-10-08,1,no
+o-7f62eff472,"25,785,000",,1,4th Quarter,PDF p. 1,"8. Amounts Due to Government 9,315,000 12,825,000 3,645,000 25,785,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-5be4b47e9e,"25,650,000",,1,Feb-23,PDF p. 1,"Approved Project Investment - Due to Developers 37,125,000 25,650,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-8ddef8e8df,88,,1,Jan-23,PDF p. 1,1. received / Approved Project Investment 88 86 146 320,high,,claude-sonnet-5,2026-10-08,1,no
+o-c62e1d2dd7,"37,260,000",,1,Mar-23,PDF p. 1,"6. Cumulative / NTF Investment 9,180,000 15,120,000 37,260,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-d68235785c,8,,1,1st Quarter,PDF p. 1,4. Applications rejected by Cabinet 1 4 3 8,high,,claude-sonnet-5,2026-10-08,1,no
+o-99b131537c,151,,1,Jan-23,PDF p. 1,1. Applications received 151 159 266 576,high,,claude-sonnet-5,2026-10-08,1,no
+o-bf26f13541,"8,262,000",,1,Feb-23,PDF p. 1,"Transfer to Treasury for Budgetary Support (90% NTF) 1,944,000 8,262,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-347770f1c0,137,,1,Mar-23,PDF p. 1,2. approved / Approved Project Investment 55 38 137 230,high,,claude-sonnet-5,2026-10-08,1,no
+o-b11a59624f,-,,1,Jan-23,PDF p. 1,Debt reduction - - - -,high,Printed as a dash (nil/zero),claude-sonnet-5,2026-10-08,1,no
+o-c9217bcdea,"15,120,000",,1,Feb-23,PDF p. 1,"6. Cumulative / NTF Investment 9,180,000 15,120,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-9928e19ac6,"15,552,000",,1,1st Quarter,PDF p. 1,"Transfer to Treasury for Budgetary Support (90% NTF) ... 15,552,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-fcaf93ca95,"$4,136,582",,1,Jan-23,PDF p. 1,"8. NTF Usage (Treasury)*** $4,136,582 $14,942,705",high,,claude-sonnet-5,2026-10-08,1,no
+o-f270fa2686,63,,1,Jan-23,PDF p. 1,1. received / NTF Investment 63 73 120 256,high,,claude-sonnet-5,2026-10-08,1,no
+o-da6acc1cb7,"$122,906,768",,1,May-23,PDF p. 1,"5. CBI Estimated Revenues* $94,617,819 $122,906,768",high,,claude-sonnet-5,2026-10-08,1,no
+o-ee8071006e,54,,1,Jun-23,PDF p. 1,2. approved / NTF Investment 30 45 54 129,high,,claude-sonnet-5,2026-10-08,1,no
+o-ca8cfcbda2,"$1,622,700",,1,Jun-23,PDF p. 1,"NTF Investment - Fees Received $1,040,850 $1,312,200 $1,622,700",high,,claude-sonnet-5,2026-10-08,1,no
+o-a11655f17b,4,,1,Jun-23,PDF p. 1,4. Applications rejected by Cabinet 4 2 4 10,high,,claude-sonnet-5,2026-10-08,1,no
+o-48f6be8f7f,"77,625,000",,1,May-23,PDF p. 1,"Due to Developers 63,450,000 77,625,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-06977fcaf0,303,,1,2nd Quarter,PDF p. 1,2. approved / Approved Project Investment 94 115 94 303,high,,claude-sonnet-5,2026-10-08,1,no
+o-d122b56753,"466,425",,1,2nd Quarter,PDF p. 1,"Contingency Fund Allocation (10% NTF) 231,120 104,085 131,220 466,425",high,,claude-sonnet-5,2026-10-08,1,no
+o-8288baed65,"63,450,000",,1,Apr-23,PDF p. 1,"Due to Developers 63,450,000 77,625,000 63,450,000 204,525,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-e5b2cc438d,"43,740,000",,1,Apr-23,PDF p. 1,"6. Cumulative / Gov Contribution 43,740,000 59,265,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-d6055a0e76,3,,1,Apr-23,PDF p. 1,4. rejected / Approved Project Investment 3 1 1 5,high,,claude-sonnet-5,2026-10-08,1,no
+o-ef1533d8b2,"538,650,000",,1,Jun-23,PDF p. 1,"6. Cumulative CBI Revenues 315,900,000 433,350,000 538,650,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-fa463e2b8e,436,,1,Apr-23,PDF p. 1,"3. Number of new citizens 436 75 520 1,031",high,,claude-sonnet-5,2026-10-08,1,no
+o-3456acfc44,184,,1,Jun-23,PDF p. 1,1. Applications received 145 172 184 501,high,,claude-sonnet-5,2026-10-08,1,no
+o-1eae1e212f,"34,041,297",,1,Jun-23,PDF p. 1,"6. Related Fees 22,099,447 27,532,366 34,041,297",high,,claude-sonnet-5,2026-10-08,1,no
+o-5a25686392,94,,1,Jun-23,PDF p. 1,2. approved / Approved Project Investment 94 115 94 303,high,,claude-sonnet-5,2026-10-08,1,no
+o-e18697b209,"460,882,366",,1,May-23,PDF p. 1,"6. Cumulative CBI Revenues 337,999,447 460,882,366 572,691,297",high,,claude-sonnet-5,2026-10-08,1,no
+o-d014a2351d,45,,1,May-23,PDF p. 1,2. approved / NTF Investment 30 45 54 129,high,,claude-sonnet-5,2026-10-08,1,no
+o-211d105544,"$18,025,403",,1,2nd Quarter,PDF p. 1,"NTF Operating Expenses 6,667,075 5,494,463 5,863,865 18,025,403",high,"Printed without $ sign: 18,025,403",claude-sonnet-5,2026-10-08,1,no
+o-6dfe8fc829,"$111,808,931",,1,Jun-23,PDF p. 1,"5. CBI Estimated Revenues* $94,607,864 $122,882,919 $111,808,931",high,,claude-sonnet-5,2026-10-08,1,no
+o-850c7dba83,4,,1,Apr-23,PDF p. 1,4. Applications rejected by Cabinet 4 2 4 10,high,,claude-sonnet-5,2026-10-08,1,no
+o-85a90f4259,148,,1,Jun-23,PDF p. 1,3. new citizens / NTF Investment 96 136 148 380,high,,claude-sonnet-5,2026-10-08,1,no
+o-73f03955c8,"572,691,297",,1,Jun-23,PDF p. 1,"6. Cumulative CBI Revenues ... 572,691,297",high,,claude-sonnet-5,2026-10-08,1,no
+o-0e3ae6cf7e,"5,863,865",,1,Jun-23,PDF p. 1,"NTF Operating Expenses 6,667,075 5,494,463 5,863,865",high,,claude-sonnet-5,2026-10-08,1,no
+o-ffe353fd90,"63,450,000",,1,Jun-23,PDF p. 1,"Due to Developers 63,450,000 77,625,000 63,450,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-2dbc11c496,"834,227,327",,1,Sep-23,PDF p. 1,"6. Cumulative CBI Revenues 653,664,176 753,371,326 834,227,327",high,,claude-sonnet-5,2026-10-08,1,no
+o-e4c99e0f1c,376,,1,3rd Quarter,PDF p. 1,3. new citizens / NTF Investment 132 146 98 376,high,,claude-sonnet-5,2026-10-08,1,no
+o-552362f179,"34,369,305",,1,Sep-23,PDF p. 1,"8. NTF Usage (Treasury)*** 35,615,624 32,509,633 34,369,305",high,,claude-sonnet-5,2026-10-08,1,no
+o-f689d80dce,"28,401,300",,1,Jul-23,PDF p. 1,"7. CBI Eligible Revenues** 28,401,300",high,,claude-sonnet-5,2026-10-08,1,no
+o-1df450de5b,"90,180,000",,1,Aug-23,PDF p. 1,"6. Gov Contribution 79,650,000 90,180,000 100,305,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-5349f0350e,"78,472,800",,1,3rd Quarter,PDF p. 1,"7. CBI Eligible Revenues** ... 78,472,800",high,,claude-sonnet-5,2026-10-08,1,no
+o-dda0436d05,359,,1,Sep-23,PDF p. 1,"3. Number of new citizens 329 424 359 1,112",high,,claude-sonnet-5,2026-10-08,1,no
+o-651bcb5e47,"6,049,633",,1,Aug-23,PDF p. 1,"NTF Operating Expenses 6,455,624 6,049,633 6,829,305",high,,claude-sonnet-5,2026-10-08,1,no
+o-88411c456a,159,,1,Aug-23,PDF p. 1,1. received / Approved Project Investment 168 159 52 379,high,,claude-sonnet-5,2026-10-08,1,no
+o-97e5c85fbd,52,,1,Sep-23,PDF p. 1,1. received / Approved Project Investment 168 159 52 379,high,,claude-sonnet-5,2026-10-08,1,no
+o-efbf62d0ea,"17,996,029",,1,3rd Quarter,PDF p. 1,"5. Related Fees 8,342,879 8,987,149 666,001 17,996,029",high,,claude-sonnet-5,2026-10-08,1,no
+o-f9a8877468,"100,305,000",,1,Sep-23,PDF p. 1,"6. Gov Contribution 79,650,000 90,180,000 100,305,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-bcaf242495,76,,1,Oct-23,PDF p. 1,Applications received 76 81 442 599,high,,claude-sonnet-5,2026-10-08,1,no
+o-6391977e8e,"945,182,949",,1,Oct-23,PDF p. 1,"Cumulative CBI Revenues 945,182,949",high,,claude-sonnet-5,2026-10-08,1,no
+o-cabd989934,"112,150,009",,1,Dec-23,PDF p. 1,"CBI Estimated Revenues* 110,955,622 71,414,253 112,150,009",high,,claude-sonnet-5,2026-10-08,1,no
+o-ec9964cb1d,"$810,000",,1,Nov-23,PDF p. 1,"NTF Investment - Fees Received $774,900 $810,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-2caf44890d,"32,940,000",,1,Dec-23,PDF p. 1,"NTF Investment 36,720,000 24,300,000 32,940,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-4f7dd638c3,"97,105,500",,1,4th Quarter,PDF p. 1,"CBI Eligible Revenues** 37,494,900 25,110,000 34,500,600 97,105,500",high,,claude-sonnet-5,2026-10-08,1,no
+o-db228512d4,"64,125,000",,1,Oct-23,PDF p. 1,"Approved Project Investment - Due to Developers 64,125,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-b03d0bd7e7,223,,1,Nov-23,PDF p. 1,Number of new citizens: Approved Project Investment 223 223 306 752,high,,claude-sonnet-5,2026-10-08,1,no
+o-ba3718dda1,"8,046,000",,1,4th Quarter,PDF p. 1,"Contingency Fund Allocation (10% NTF) 1,944,000 3,672,000 2,430,000 8,046,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-4138932928,"274,320,000",,1,Dec-23,PDF p. 1,"Cumulative: NTF Investment 217,080,000 241,380,000 274,320,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-0dc9199821,"36,720,000",,1,Oct-23,PDF p. 1,"Estimated: NTF Investment 36,720,000",high,,claude-sonnet-5,2026-10-08,1,no
+o-d01651e581,2,,1,Oct-23,PDF p. 1,Applications rejected: NTF Investment 2 3 1 6,high,,claude-sonnet-5,2026-10-08,1,no
+o-6906370dc5,"41,207,417.80",,1,Oct-24,PDF p. 1,"Eligible Revenue Data for IMA Calculation Agent * $ 41,207,417.80",high,Title says (EC$M) but figures printed in full units,claude-sonnet-5,2026-10-08,1,no
+o-dbc520213c,"1,637,627.35",,1,Nov-24,PDF p. 1,"Related Fees 1,793,894.04 1,637,627.35",high,,claude-sonnet-5,2026-10-08,1,no
+o-23a89c9f5f,"14,113,050.00",,1,Nov-24,PDF p. 1,"NTF Contribution 41,129,460.00 14,113,050.00 (note i)",high,,claude-sonnet-5,2026-10-08,1,no
+o-1f332a98c2,"740,599.10",,1,4th Quarter,PDF p. 1,"Approved Projects - Processing Fees 202,959.10 260,755.40 276,884.60 740,599.10",high,,claude-sonnet-5,2026-10-08,1,no
+o-e34fbb497b,"129,033.60",,1,4th Quarter,PDF p. 1,"NTF - Application Fees 44,355.30 36,290.70 48,387.60 129,033.60",high,,claude-sonnet-5,2026-10-08,1,no
+o-09b5d53053,"5,241,990.00",,1,Oct-24,PDF p. 1,"Transfer to Contingency Fund **** 5,241,990.00 4,112,946.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-3ede013aa2,"41,129,460.00",,1,Oct-24,PDF p. 1,"NTF Contribution 41,129,460.00 14,113,050.00 10,618,390.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-cce08fbf3f,"66,092,085.20",,1,4th Quarter,PDF p. 1,"Eligible Revenue Data ... 66,092,085.20",high,,claude-sonnet-5,2026-10-08,1,no
+o-876e4e2a24,"3,123,706.76",,1,Nov-24,PDF p. 1,"IMA Outflows $ 9,312,682.79 $ 3,123,706.76",high,,claude-sonnet-5,2026-10-08,1,no
+o-80b45b4f66,"10,766,241.00",,1,4th Quarter,PDF p. 1,"Transfer to Contingency Fund **** ... 10,766,241.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-7e7f5755aa,"174,195,360.00",,1,4th Quarter,PDF p. 1,"NTF Transfers $ 118,952,850.00 $ 41,129,460.00 $ 14,113,050.00 $ 174,195,360.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-df67c6664d,"64,516.80",,1,Nov-24,PDF p. 1,"NTF Contribution - Fees Received 77,957.80 64,516.80",high,,claude-sonnet-5,2026-10-08,1,no
+o-82d38a2d0e,"2,209,157.38",,1,Dec-25,PDF p. 1,"Related Fees 2,010,235.96 2,724,080.62 2,209,157.38",high,,claude-sonnet-5,2026-10-08,1,no
+o-0cd207f088,"502,693.40",,1,Nov-25,PDF p. 1,"NTF Contribution - Fees Received 239,249.80 502,693.40",high,,claude-sonnet-5,2026-10-08,1,no
+o-9db58d3e33,"18,817,400.00",,1,4th Quarter,PDF p. 1,"NTF Contribution ... 18,817,400.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-27121f9ffc,"63,065,172.00",,1,Oct-25,PDF p. 1,"Closing Balance $ 63,065,172.00 $ 63,475,122.50 $ 64,395,831.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-5cb8bc8fb5,"333,336.80",,1,Nov-25,PDF p. 1,"Approved Projects - Processing Fees 358,874.70 333,336.80",high,,claude-sonnet-5,2026-10-08,1,no
+o-d795e12afa,"14,682,405.38",,1,Dec-25,PDF p. 1,"IMA Revenues $ 9,582,895.36 $ 26,030,774.62 $ 14,682,405.38",high,,claude-sonnet-5,2026-10-08,1,no
+o-902c89d80b,"278,228.70",,1,Nov-25,PDF p. 1,"NTF - Application Fees 129,033.60 278,228.70",high,,claude-sonnet-5,2026-10-08,1,no
+o-45e9093274,"427,423.80",,1,Nov-25,PDF p. 1,"Approved Projects - Application Fees 455,649.90 427,423.80",high,,claude-sonnet-5,2026-10-08,1,no
+o-be1f38eb33,"63,475,122.50",,1,Nov-25,PDF p. 1,"Closing Balance ... $ 63,475,122.50",high,,claude-sonnet-5,2026-10-08,1,no
+o-de90581d79,"318,551.70",,1,Dec-25,PDF p. 1,"Approved Projects - Processing Fees ... 318,551.70",high,,claude-sonnet-5,2026-10-08,1,no
+o-0152e9506d,"12,836,155.00",,1,Nov-25,PDF p. 1,"Approved Project Investment - Government Contribution 2,419,380.00 12,836,155.00",high,,claude-sonnet-5,2026-10-08,1,no
+o-2b90d16d06,"220,432.40",,1,Dec-25,PDF p. 1,"NTF - Processing Fees 110,216.20 224,464.70 220,432.40",high,,claude-sonnet-5,2026-10-08,1,no
+o-03727f695d,4 187,,1,2011,HTML Appendix 5 (AR 2013),Entry Visas under 'Capital Investment Entrant Scheme' 4 187 3 804 3 734,high,,claude-sonnet-5,2026-10-08,1,no
+o-80697b9ad7,3 804,,1,2012,HTML Appendix 5 (AR 2013),Entry Visas under 'Capital Investment Entrant Scheme' 4 187 3 804 3 734,high,,claude-sonnet-5,2026-10-08,1,no
+o-65b5653aa6,"3,804",,1,2012,HTML Appendix 5 (AR 2014),"Entry Visas under 'Capital Investment Entrant Scheme' 3,804 3,734 4,855",high,,claude-sonnet-5,2026-10-08,1,no
+o-3161e5c395,"3,734",,1,2013,HTML Appendix 5 (AR 2014),"Entry Visas under 'Capital Investment Entrant Scheme' 3,804 3,734 4,855",high,,claude-sonnet-5,2026-10-08,1,no
+o-bb0710837d,"3,734",,1,2013,HTML Appendix 5 (AR 2015),"Entry Visas under 'Capital Investment Entrant Scheme' 3,734 4,855 2,739",high,,claude-sonnet-5,2026-10-08,1,no
+o-693babbce3,"4,855",,1,2014,HTML Appendix 5 (AR 2015),"Entry Visas under 'Capital Investment Entrant Scheme' 3,734 4,855 2,739",high,,claude-sonnet-5,2026-10-08,1,no
+o-995fe4351b,"4,855",,1,2014,HTML Appendix 5 (AR 2016),"Entry Visas under 'Capital Investment Entrant Scheme' 4,855 2,739 2,667",high,,claude-sonnet-5,2026-10-08,1,no
+o-f7559e8823,"2,739",,1,2015,HTML Appendix 5 (AR 2016),"Entry Visas under 'Capital Investment Entrant Scheme' 4,855 2,739 2,667",high,,claude-sonnet-5,2026-10-08,1,no
+o-c832dd2a20,"2,739",,1,2015,HTML Appendix 5 (AR 2017),"Entry Visas under 'Capital Investment Entrant Scheme' 2,739 2,667 2,640",high,,claude-sonnet-5,2026-10-08,1,no
+o-14560d8f6e,"2,667",,1,2016,HTML Appendix 5 (AR 2017),"Entry Visas under 'Capital Investment Entrant Scheme' 2,739 2,667 2,640",high,,claude-sonnet-5,2026-10-08,1,no
+o-d7cacc1193,"2,667",,1,2016,HTML Appendix 5 (AR 2018),"Entry Visas under 'Capital Investment Entrant Scheme' 2,667 2,640 1,567",high,,claude-sonnet-5,2026-10-08,1,no
+o-c03dc51d99,"2,640",,1,2017,HTML Appendix 5 (AR 2018),"Entry Visas under 'Capital Investment Entrant Scheme' 2,667 2,640 1,567",high,,claude-sonnet-5,2026-10-08,1,no
+o-a72f93c9f1,"2,640",,1,2017,HTML Appendix 5 (AR 2019),"Entry Visas under 'Capital Investment Entrant Scheme' 2,640 1,567 312",high,,claude-sonnet-5,2026-10-08,1,no
+o-bbbe5f7b42,"1,567",,1,2018,HTML Appendix 5 (AR 2019),"Entry Visas under 'Capital Investment Entrant Scheme' 2,640 1,567 312",high,,claude-sonnet-5,2026-10-08,1,no
+o-dd4873dc18,"1,567",,1,2018,HTML Appendix 5 (AR 2020),"Entry Visas under 'Capital Investment Entrant Scheme' 1,567 312 20",high,,claude-sonnet-5,2026-10-08,1,no
+o-e7b87abf44,312,,1,2019,HTML Appendix 5 (AR 2020),"Entry Visas under 'Capital Investment Entrant Scheme' 1,567 312 20",high,,claude-sonnet-5,2026-10-08,1,no
+o-34e5047199,312,,1,2019,HTML Appendix 5 (AR 2021),Entry Visas under 'Capital Investment Entrant Scheme' 312 20 7,high,,claude-sonnet-5,2026-10-08,1,no
+o-9c56b8e867,20,,1,2020,HTML Appendix 5 (AR 2021),Entry Visas under 'Capital Investment Entrant Scheme' 312 20 7,high,,claude-sonnet-5,2026-10-08,1,no
+o-d3f9cfda80,20,,1,2020,HTML Appendix 5 (AR 2022),Entry Visas under 'Capital Investment Entrant Scheme' 20 7 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-7f39f8c145,7,,1,2021,HTML Appendix 5 (AR 2022),Entry Visas under 'Capital Investment Entrant Scheme' 20 7 0,high,,claude-sonnet-5,2026-10-08,1,no
+o-7807816ee2,7,,1,2021,HTML Appendix 5 (AR 2023),Entry Visas under 'Capital Investment Entrant Scheme' 7 0 5,high,,claude-sonnet-5,2026-10-08,1,no
+o-0363728d90,0,,1,2022,HTML Appendix 5 (AR 2023),Entry Visas under 'Capital Investment Entrant Scheme' 7 0 5,high,,claude-sonnet-5,2026-10-08,1,no
+o-aa814c2558,570,,1,first nine months 2010,HTML (Question c),average of 570 a month in the first nine months in 2010,high,,claude-sonnet-5,2026-10-08,1,no
+o-d9f376432f,242,,1,last December (Dec 2010),HTML (Question c),dropped ... to 242 last December,high,,claude-sonnet-5,2026-10-08,1,no
+o-7ca1de50cc,1,,1,,HTML (Question b and Reply b),CIES real estate investment accounts for only around 1% in terms of the value of the total real estate transactions,medium,"Printed as ""around 1%"" / ""about 1%""; no period stated beyond ""in recent years""",claude-sonnet-5,2026-10-08,1,no
+o-40a155cf34,129,,1,2008,HTML Reply (c)(i),2008 129 0.919 billion,high,,claude-sonnet-5,2026-10-08,1,no
+o-1560ce9f4f,217,,1,2009,HTML Reply (c)(i),2009 217 (+68%) 1.519 billion (+65%),high,,claude-sonnet-5,2026-10-08,1,no
+o-79b2615c8e,248,,1,2010,HTML Reply (c)(i),2010 248 (+14%) 1.771 billion (+17%),high,,claude-sonnet-5,2026-10-08,1,no
+o-7c0cebb2a3,0.919,,billion,2008,HTML Reply (c)(i),2008 129 0.919 billion,high,,claude-sonnet-5,2026-10-08,1,no
+o-56775db5c1,1.519,,billion,2009,HTML Reply (c)(i),2009 217 (+68%) 1.519 billion (+65%),high,,claude-sonnet-5,2026-10-08,1,no
+o-a091477b90,1.771,,billion,2010,HTML Reply (c)(i),2010 248 (+14%) 1.771 billion (+17%),high,,claude-sonnet-5,2026-10-08,1,no
+o-65ab1cd8a1,"5,578.45",,1,2015 ($),PDF p. 33 (Table 10),"CIU Contingency Account 5,578.45 5,578.45",high,,claude-sonnet-5,2026-10-08,1,no
+o-b8c118be8d,"8,663,753.30",,1,2015 ($),PDF p. 33 (Table 10),"Office of the Prime Minister/CIU 8,663,753.30 8,663,753.30",high,,claude-sonnet-5,2026-10-08,1,no
+o-416fc45426,"5,578.45",,1,2016 ($),PDF p. 33 (Table 10),"CIU Contingency Account 5,578.45",high,,claude-sonnet-5,2026-10-08,1,no
+o-c30170103b,"8,663,753.30",,1,2016 ($),PDF p. 33 (Table 10),"Office of the Prime Minister/CIU 8,663,753.30",high,,claude-sonnet-5,2026-10-08,1,no
+o-bfd3d8fbd0,200,,million,,PDF p. 14,estimated revenue from this source was reduced from $200 million in 2015 to $150 million in 2016,low,"Only the 2015 ESTIMATE ($200 million) is printed here, not an actual 2015 collection",claude-sonnet-5,2026-10-08,1,no
+o-e9d0d8b65c,175,,million,,PDF p. 18,revenue collected under the Citizenship by Investment programme surpassed its 2016 target of $150 million by $25 million,medium,Not printed directly: target $150 million plus surplus $25 million = 175 (derived),claude-sonnet-5,2026-10-08,1,no
+o-bf316cc578,92,,1,,PDF p. 18,Citizenship by Investment fees accounted for 92% of the total collections by the Citizenship by Investment Unit,high,,claude-sonnet-5,2026-10-08,1,no
+o-91c21b7092,15,,million,,PDF p. 19,$15 million from the Sugar Industry Diversification Foundation (SIDF),high,Budgetary grant receipt from SIDF,claude-sonnet-5,2026-10-08,1,no
+o-aa84ef6232,78,,million,,PDF p. 23,Actual Government fees totaled $78 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-34c633a2bd,242,,million,,PDF p. 23,Fees collected for the Hurricane Relief Fund and the Sustainable Growth Fund totaled $242 million and $2 million respectively,high,,claude-sonnet-5,2026-10-08,1,no
+o-48f0b44487,2,,million,,PDF p. 23,Hurricane Relief Fund and the Sustainable Growth Fund totaled $242 million and $2 million respectively,high,,claude-sonnet-5,2026-10-08,1,no
+o-ca4e274136,8,,million,,PDF p. 23,Application fees collected amounted to $8 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-addf800032,88,,million,,PDF p. 23,fees collected for background checks were $88 million,high,"Printed as ""background checks"" (due diligence)",claude-sonnet-5,2026-10-08,1,no
+o-794f168fbb,32,,1,,PDF p. 34,fees collected by the Citizenship by Investment unit accounted for 32% of the total receipts from operating activities,high,,claude-sonnet-5,2026-10-08,1,no
+o-80afdcc109,14,,million,,PDF p. 27,Marketing Fees for the Citizenship by Investment Unit - $14 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-d457e8324f,56,,million,,PDF p. 27,Consultancy fees and operational costs for the Citizenship by Investment programme for the last quarter of 2018 - $56 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-5636689693,168,,million,,PDF p. 23,Actual Government fees totaled $168 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-23df6e675c,139,,million,,PDF p. 23,Hurricane Relief Fund and the Sustainable Growth Fund totaled $139 million and $78 million respectively,high,,claude-sonnet-5,2026-10-08,1,no
+o-33ead27d5a,78,,million,,PDF p. 23,Hurricane Relief Fund and the Sustainable Growth Fund totaled $139 million and $78 million respectively,high,,claude-sonnet-5,2026-10-08,1,no
+o-82e18d1dfa,12,,million,,PDF p. 23,Application fees collected amounted to $12 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-97bc015396,46,,million,,PDF p. 23,fees collected for background checks were $46 million,high,"Printed as ""background checks"" (due diligence)",claude-sonnet-5,2026-10-08,1,no
+o-4c5422a188,36,,1,,PDF p. 33,fees collected by the Citizenship by Investment Unit accounted for 36% of the total receipts from operating activities,high,,claude-sonnet-5,2026-10-08,1,no
+o-15777926cb,25,,million,,PDF p. 29,Provide for additional funding to facilitate consultancy fees for due diligence and operational costs for citizenship by investment - $25 million,high,Printed as additional funding provided via appropriation warrant,claude-sonnet-5,2026-10-08,1,no
+o-36731dfd03,278,,million,Actual Government fees,PDF p. 21,Actual Government fees totaled $278 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-1f1a47b394,333,,thousand,Hurricane Relief Fund,PDF p. 21,Hurricane Relief Fund ... totaled $333 thousand,high,,claude-sonnet-5,2026-10-08,1,no
+o-24c34ff909,123,,million,Sustainable Growth Fund,PDF p. 21,Sustainable Growth Fund totaled $123 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-8f19499637,27,,million,Application fees,PDF p. 21,Application fees collected amounted to $27 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-1ced286ca4,114,,million,background checks,PDF p. 21,fees collected from background checks were $114 million,high,due diligence = background checks,claude-sonnet-5,2026-10-08,1,no
+o-fbcc8161ab,18,,million,Office of the Prime Minister,PDF p. 25,due diligence and expenses of the Citizinship by Investment Unit - $18 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-46213494c3,19,,million,"revised capital budget, OPM",PDF p. 29,two disbursements for the payment of Citizenship by Investment dividend ... - $19 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-b22583b7e1,19,,million,actual expenditure,PDF p. 31,Citizenship by Investment Dividend Payout showed an expenditure of $19 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-80e9c76a57,14.8,,million,Social Security Board paid out,PDF p. 32,over $14.8 million had been paid out by the Social Security Board with respect to the December 2022 Dividend payout,medium,'over $14.8 million' is a lower bound as of Aug 2023,claude-sonnet-5,2026-10-08,1,no
+o-a1668a2dce,343,,million,Actual Government fees,PDF p. 21,Actual Government fees totaled $343 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-a1c83ae862,376,,thousand,Hurricane Relief Fund,PDF p. 21,Hurricane Relief Fund ... totaled $376 thousand,high,,claude-sonnet-5,2026-10-08,1,no
+o-be2a2b4a86,123,,million,Sustainable Growth Fund,PDF p. 21,Sustainable Growth Fund totaled $123 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-7968951032,29,,million,Application fees,PDF p. 21,Application fees collected amounted to $29 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-63f5f6c9dd,174,,million,background checks,PDF p. 21,fees collected from background checks were $174 million,high,due diligence = background checks,claude-sonnet-5,2026-10-08,1,no
+o-9f5dc622d9,17,,million,"revised capital budget, OPM",PDF p. 30,payments of Citizenship by Investment Dividends - $17 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-fae1b76f93,24,,million,actual expenditure,PDF p. 32,Citizenship by Investment Dividend Payout showed an expenditure of $24 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-b4bb2d2e04,423,,million,Actual Government fees,PDF p. 24,Actual Government fees totaled $423 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-596f1750f8,333,,thousand,Hurricane Relief Fund,PDF p. 24,Hurricane Relief Fund ... totaled $333 thousand,high,,claude-sonnet-5,2026-10-08,1,no
+o-b59e1254c9,81,,million,Sustainable Growth Fund,PDF p. 24,Sustainable Growth Fund totaled $81 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-aa4100616e,10,,million,Application fees,PDF p. 24,Application fees collected amounted to $10 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-8344275ca4,108,,million,background checks,PDF p. 24,fees collected from background checks were $108 million,high,due diligence = background checks,claude-sonnet-5,2026-10-08,1,no
+o-a016b1aad5,203,,million,Actual Government fees,PDF p. 21,Actual Government fees totaled $203 million,high,Jan-Aug 2024,claude-sonnet-5,2026-10-08,1,no
+o-fd0e873445,36,,million,Sustainable Growth Fund,PDF p. 21,Fees collected via the Sustainable Growth Fund contribution amounted to $36 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-ea140720bb,1.9,,million,Application fees,PDF p. 22,Application fees collected amounted to $1.9 million,high,,claude-sonnet-5,2026-10-08,1,no
+o-dd3818648e,2.9,,million,background checks,PDF p. 22,fees collected from background checks were $2.9 million,high,due diligence = background checks,claude-sonnet-5,2026-10-08,1,no
+o-45ac810e86,"135,000",,1,Budget 2016,PDF p. 30,"License Fees — AA 206,289 135,000 71,289",high,OCR of image table (ECS),claude-sonnet-5,2026-10-08,1,no
+o-07e31a13d4,"243,000",,1,Budget 2016,PDF p. 30,"License Fees — MA 162,000 243,000 (81,000)",high,OCR of image table,claude-sonnet-5,2026-10-08,1,no
+o-7c3cc2f577,"13,500",,1,Budget 2016,PDF p. 30,"Application Fees — AA 21,596 13,500 8,096",high,"OCR of image table; cropped/enlarged OCR, consistent with variance 8,096",claude-sonnet-5,2026-10-08,1,no
+o-c04dd0fb1a,"162,000",,1,Actual 2016,PDF p. 30,"License Fees — MA 162,000 243,000 (81,000)",high,OCR of image table,claude-sonnet-5,2026-10-08,1,no
+o-7aadd82eb8,"2,696",,1,Actual 2016,PDF p. 30,"Application Fees — PR 2,696 6,750 (4,054)",high,OCR of image table,claude-sonnet-5,2026-10-08,1,no
+o-90936d1a84,"569,747",,1,Actual 2016,PDF p. 30,"Total 569,747 542,700 27,047",high,OCR of image table; text also says total revenue $570 000,claude-sonnet-5,2026-10-08,1,no
+o-8b5671874e,"21,596",,1,Actual 2016,PDF p. 30,"Application Fees — AA 21,596 13,500 8,096",high,OCR of image table,claude-sonnet-5,2026-10-08,1,no
+o-216309bc63,669,,thousand,total cost,PDF p. 30,incurring total cost of $669 thousand within budget,high,s.11.2 Operational expenses; currency symbol $ (EC$ presumably),claude-sonnet-5,2026-10-08,1,no
+o-26a00e01c5,84,,thousand,fees paid to due diligence firms,PDF p. 30,fees paid to the due diligence firms for the year 2016 is $84 thousand,high,s.11.1.3,claude-sonnet-5,2026-10-08,1,no
+o-2cc33c8b8a,,,1,,PDF p. 31,Although in this financial year there were no investment inflows,medium,"No number printed; text says no investment inflows (s.11.5), i.e. none/zero implied. Not a printed figure.",claude-sonnet-5,2026-10-08,1,no
+o-456f81fadf,,,1,,PDF p. 31,in this first year there are no investments realized and as a consequence there are no outflows to government,medium,No number printed; s.11.5.4 says no outflows to government (zero implied).,claude-sonnet-5,2026-10-08,1,no
+o-4add73c145,2,,1,Investment Option = Donation,PDF p. 20 (and p. 30),"March 9, 2016 India ... Donation $250,000; March 14, 2016 Nigeria & Lebanon ... Donation",medium,"Counted 2 rows in s.9.3 table, both Donation; p.30 says processing fees from (2) principal applicants under National Economic Fund. Count by me, not printed.",claude-sonnet-5,2026-10-08,1,no
+o-c7e7142c7a,"162,000",,1,Revenue (EC$),PDF p. 18,"License Fees — MA 162,000",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-ba5be6d515,16,,1,,PDF p. 5,Sixteen (16) applications for citizenship were granted by the Citizenship by Investment Board,high,OCR of scanned page; one further granted via Request for Review (total 17),claude-sonnet-5,2026-10-08,1,no
+o-f4afe73976,"25,200",,1,"EC$ ('000 per header, figures printed in full)",PDF p. 20,"Professional Fees & Consultancy 25,200",high,"OCR of scanned page; table header reads EC$ ('000)? but total 1,764,317 consistent with full dollars",claude-sonnet-5,2026-10-08,1,no
+o-a84ff57f31,"116,373",,1,EC$,PDF p. 20,"Communication & IT 116,373",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-927b32e564,"5,400",,1,Revenue,PDF p. 18,"Application Fees - AA 5,400",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-a1f40523ed,"2,950",,1,Revenue,PDF p. 18,"Interest Income 2,950",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-e32a6ef922,"7,557",,1,EC$,PDF p. 20,"Utilities 7,557",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-3a18646ffc,"681,942",,1,Program Cost,PDF p. 19,"Marketing Agents' Commission 681,942",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-6f1e2e3f25,"41,185",,1,Revenue,PDF p. 18,"License Fees — PR 41,185",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-c5becbcfe2,"11,879",,1,EC$,PDF p. 20,"Travel Allowance 11,879",high,OCR of scanned page,claude-sonnet-5,2026-10-08,1,no
+o-ee7aac156b,"1,764,317",,1,EC$,PDF p. 20,"Total 1,764,317",high,OCR of scanned page; components sum to total,claude-sonnet-5,2026-10-08,1,no
+o-a0718866df,"1,490,400",,1,Revenue,PDF p. 18,"20% Marketing & Promotions Fees ,490,40C",medium,"OCR of scanned page; OCR shows leading digit and last digit clipped ('1,490,40C'); 1,490,400 inferred because other rows sum to total 3,795,154",claude-sonnet-5,2026-10-08,1,no
+o-354d307c28,67.0,,million,2018,PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-f87f9ba50c,33.5,,million,2020 (pre-virus),PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-a7f8bd3b47,5.9,,million,2016,PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-50394f53a1,27.8,,million,2017,PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-1774b54f28,25.0,,million,2025,PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-1b4551cf26,25.0,,million,2022,PDF p. 17,of Which: Citizen by Investment Program (CIP) 5.9 27.8 67.0 30.4 33.5 25.0 25.0 25.0 25.0 25.0 25.0,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; EC$ millions",claude-sonnet-5,2026-10-08,1,no
+o-68f02dfdb7,0.6,,1,2020 (pre-virus),PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-dd4ecc4a53,0.4,,1,2024,PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-22908323db,0.1,,1,2016,PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-61f4d5a581,0.5,,1,2017,PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-95a2307aaa,0.4,,1,2025,PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-a825741059,0.5,,1,2019,PDF p. 18,o.w. Citizen by Investment Program (CIP) 0.1 0.5 1.2 0.5 0.6 0.5 0.4 0.4 0.4 0.4 0.4,high,"OCR of scanned table, two OCR passes agree; columns 2016..2019, 2020 (pre-virus), 2020..2025; percent of GDP",claude-sonnet-5,2026-10-08,1,no
+o-08dd76476e,"2 155 873,56",,1,Investimento total 2012,PDF p. 1,"2 INVESTIMENTO 155 873,56 € TOTAL 2012",medium,"Extracted text interleaves two boxes; the 2012 total is 2 155 873,56 € (matches the capital-transfer line '2 ARI EM 2012 2 155 873,56 €'). The 304 002 774,99 € printed near 'TOTAL INVESTMENT 2012' is actually the 2013 total (269 775 097,81 + 34 227 677,18).",claude-sonnet-5,2026-10-08,1,no
+o-5134471a50,150.2,,million,December,PDF p. 1,"VERP... VDSP and Vanuatu Contribution Programme (VCP), together collected VT 150.2 million in December",high,"VDSP + VCP combined, December 2017 month only (full-year VERP+VDSP+VCP VT 3,492.9 million)",claude-sonnet-5,2026-10-08,1,no
+o-c6726dd3ad,"12,558.2",,million,same period last year (2019),PDF p. 2,"14.3 per cent more than the VT 12,558.2 million collected in the same period last year",high,VDSP+VCP total for 2019 as quoted in the Dec 2020 report,claude-sonnet-5,2026-10-08,1,no
+o-c6006a7fa1,"1,280.8",,million,December 2020,PDF p. 2,"VDSP and VCP together collected VT 1,280.8 million in December",medium,"Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 1,183.5 million.",claude-sonnet-5,2026-10-08,1,no
+o-7687b33c74,"1,280.8",,million,December 2020,PDF p. 2,"VDSP and VCP together collected VT 1,280.8 million in December",medium,"Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 1,183.5 million.",claude-sonnet-5,2026-10-08,1,no
+o-00386cb14b,"14,354.1",,million,collected up to December last year (2020),PDF p. 2 (OCR),"10.5 per cent lower than the VT 14,354.1 million that was collected up to December last year",medium,"Scanned page, own OCR at 300dpi. Note the Dec 2020 report printed 14,351.8 for 2020 (revised in 2021 report).",claude-sonnet-5,2026-10-08,1,no
+o-1949d82057,"1,405.2",,million,December 2021,PDF p. 2 (OCR),"VDSP and VCP together collected VT 1,405.2 million in December",medium,"Scanned page, own OCR. Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 1,381.7 million.",claude-sonnet-5,2026-10-08,1,no
+o-2cafd52c9f,"1,405.2",,million,December 2021,PDF p. 2 (OCR),"VDSP and VCP together collected VT 1,405.2 million in December",medium,"Scanned page, own OCR. Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 1,381.7 million.",claude-sonnet-5,2026-10-08,1,no
+o-dc3b2d7333,"14,732.7",,million,total collections to date (2025),PDF p. 2,"To date total collections are 14,732.7 million",medium,"Printed without 'VT' prefix; VDSP+VCP cumulative; compares to 9,390.7 million in 2024",claude-sonnet-5,2026-10-08,1,no
+o-7042a8a964,887.3,,million,December 2025,PDF p. 2,VDSP and VCP together made VT 887.3 million in December,medium,"Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 618.3 million.",claude-sonnet-5,2026-10-08,1,no
+o-a5dc3c7174,887.3,,million,December 2025,PDF p. 2,VDSP and VCP together made VT 887.3 million in December,medium,"Two batch rows are identical in period/basis/indicator, so I cannot tell which is meant; the printed actual is given for both. Forecast printed: VT 618.3 million.",claude-sonnet-5,2026-10-08,1,no
