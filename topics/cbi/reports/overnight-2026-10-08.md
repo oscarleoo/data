@@ -464,3 +464,14 @@ says what was done to it.
 - **Decisions needed:** two ids are the same 1986 law; award decisions under Dodd-Frank and the AML Act
   recorded as discretionary, unlike existing rows reading "shall pay" as mandatory; proposed programme
   for the 25 U.S.C. 201 informer qui tam.
+
+### Fix: CFTC award orders were collapsing into one row (whistleblowing)
+- Found while merging the US batch 2: cases get their id from source, date, target, amount and
+  location. Every row from the CFTC orders list had the same location ("orders table"), so orders
+  issued on the same day merged into one. 56 of tonight's 161 new cases were lost on first merge, and
+  8 cases from an earlier research wave (October) had been lost the same way.
+- Fixed by giving each row its order number (or the link to its order PDF) in the location, in both
+  inbox files, and re-merging. Now: 170 orders on the CFTC list, 170 cases, each once. Two 2020 SEC
+  awards on the same page (20% and 30%) were also separated.
+- merge.py (both topics) now prints a warning whenever two different rows would get the same id.
+  Observations were checked for every pass tonight: every inbox row is in the data.
