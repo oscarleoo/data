@@ -948,3 +948,14 @@ says what was done to it.
 - Did not add up: IRS FY2008 monthly submissions add to 982 while the text says 476.
 - Partial: a FinCEN table total unreadable by OCR; a GAO staffing chart; two decisions (an intervention-rate
   indicator for DOJ's "about 1 in 5"; programmes for 20 more state False Claims Acts that HHS-OIG lists).
+
+### Montenegro, batch 1 (pass `extract-cbi-mne1`)
+- 16 documents reviewed (government status reports 2021 and 2026, gazette decisions 2018-2023, EU reports
+  2019-2024): 15 complete, 1 not applicable.
+- Added 232 numbers, 39 rules, 23 events: applications by agent and processing stage; donations transferred to
+  the municipal development account; escrow balances; the tourism project list (15 projects: EUR 413.70m planned,
+  2,507 units, 1,851 jobs, all adding up); agent licences; the 2,000-application cap; EU figures (more than 70% of
+  passports to Russians). Every table adds up.
+- The 2021 report also describes other countries' programmes; recorded on those programmes (Malta link chosen by
+  date: check).
+- Montenegro now: all stored Montenegro documents reviewed (see ledger count).
