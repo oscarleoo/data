@@ -1,0 +1,539 @@
+{
+ "slug": "extract-cbi-hkg1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over 20 stored Hong Kong CIES / New CIES documents (ImmD annual-report chapters and appendices, ImmD CIES statistics pages and web pages, LegCo brief, FSTB press release). Most programme numbers were already in the dataset; this pass adds the CPA-report counts and shares (2009-2014), CIES visas for 2022-2023, the 2010 announcement's cumulative admissions and investment, New CIES enquiries, and net-asset and threshold rule rows.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-new-cies",
+   "indicator": "enquiries_received",
+   "breakdown": "",
+   "period": "2024-03-01/2024-12-31",
+   "period_basis": "cumulative",
+   "value": "7000",
+   "value_high": "",
+   "unit": "enquiries",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-fstb-pr-new-cies-enhancements-2025",
+   "location": "section (2) key numbers table, row 'Number of enquiries'",
+   "quote": "Number of enquiries Nearly 7 000",
+   "notes": "Printed as 'Nearly 7 000' (rounded; an upper bound). 'First 10 months' of the scheme (launched 1 March 2024), i.e. to the end of December 2024; the release does not give an exact cut-off date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applications_received",
+   "breakdown": "category=cpa_financial_report",
+   "period": "to 2010-03-31",
+   "period_basis": "cumulative",
+   "value": "1686",
+   "value_high": "",
+   "unit": "applications",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2009-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at March 31, 2010, 1 686 applications were submitted with financial reports prepared by Certificed Public Accountant (Practising), representing around 50 per cent of new applications received.",
+   "notes": "Entrant applications submitted with a financial report prepared by a Certified Public Accountant (Practising) to show the net-asset requirement; a subset of applications received. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "applicant=main;category=cpa_financial_report",
+   "period": "to 2010-03-31",
+   "period_basis": "cumulative",
+   "value": "50",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2009-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at March 31, 2010, 1 686 applications were submitted with financial reports prepared by Certificed Public Accountant (Practising), representing around 50 per cent of new applications received.",
+   "notes": "Share of new applications received that came with a CPA (Practising) financial report; rounded ('around'). Base is new applications received (as printed), not approvals. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applications_received",
+   "breakdown": "category=cpa_financial_report",
+   "period": "to 2011-12-31",
+   "period_basis": "cumulative",
+   "value": "8019",
+   "value_high": "",
+   "unit": "applications",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2011-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at December 31, 2011, 8 019 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 62 per cent of new applications received.",
+   "notes": "Entrant applications submitted with a financial report prepared by a Certified Public Accountant (Practising) to show the net-asset requirement; a subset of applications received. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "applicant=main;category=cpa_financial_report",
+   "period": "to 2011-12-31",
+   "period_basis": "cumulative",
+   "value": "62",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2011-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at December 31, 2011, 8 019 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 62 per cent of new applications received.",
+   "notes": "Share of new applications received that came with a CPA (Practising) financial report; rounded ('around'). Base is new applications received (as printed), not approvals. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applications_received",
+   "breakdown": "category=cpa_financial_report",
+   "period": "to 2012-12-31",
+   "period_basis": "cumulative",
+   "value": "12391",
+   "value_high": "",
+   "unit": "applications",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2012-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at December 31, 2012, 12 391 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received.",
+   "notes": "Entrant applications submitted with a financial report prepared by a Certified Public Accountant (Practising) to show the net-asset requirement; a subset of applications received. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "applicant=main;category=cpa_financial_report",
+   "period": "to 2012-12-31",
+   "period_basis": "cumulative",
+   "value": "64",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2012-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at December 31, 2012, 12 391 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received.",
+   "notes": "Share of new applications received that came with a CPA (Practising) financial report; rounded ('around'). Base is new applications received (as printed), not approvals. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applications_received",
+   "breakdown": "category=cpa_financial_report",
+   "period": "to 2013-12-31",
+   "period_basis": "cumulative",
+   "value": "18257",
+   "value_high": "",
+   "unit": "applications",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2013-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at 31 December 2013, 18 257 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received.",
+   "notes": "Entrant applications submitted with a financial report prepared by a Certified Public Accountant (Practising) to show the net-asset requirement; a subset of applications received. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "applicant=main;category=cpa_financial_report",
+   "period": "to 2013-12-31",
+   "period_basis": "cumulative",
+   "value": "64",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2013-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at 31 December 2013, 18 257 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 64 per cent of new applications received.",
+   "notes": "Share of new applications received that came with a CPA (Practising) financial report; rounded ('around'). Base is new applications received (as printed), not approvals. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applications_received",
+   "breakdown": "category=cpa_financial_report",
+   "period": "to 2014-12-31",
+   "period_basis": "cumulative",
+   "value": "22740",
+   "value_high": "",
+   "unit": "applications",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2014-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at 31 December 2014, 22,740 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 65 per cent of new applications received.",
+   "notes": "Entrant applications submitted with a financial report prepared by a Certified Public Accountant (Practising) to show the net-asset requirement; a subset of applications received. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "applicant=main;category=cpa_financial_report",
+   "period": "to 2014-12-31",
+   "period_basis": "cumulative",
+   "value": "65",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2014-ch1",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme', paragraph on Certified Public Accountant reports",
+   "quote": "As at 31 December 2014, 22,740 applications were submitted with financial reports prepared by Certified Public Accountant (Practising), representing around 65 per cent of new applications received.",
+   "notes": "Share of new applications received that came with a CPA (Practising) financial report; rounded ('around'). Base is new applications received (as printed), not approvals. Start of the count not printed; the same paragraph says applicants could choose whether to hire a CPA (Practising) 'with effect from March 16, 2009', so the count presumably runs from then (not stated). Cumulative to the date."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "investor_visas_issued",
+   "breakdown": "",
+   "period": "2022",
+   "period_basis": "calendar_year",
+   "value": "0",
+   "value_high": "",
+   "unit": "visas",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2024-app5",
+   "location": "Appendix 5, row 'Visas / Entry Permits under 'Capital Investment Entrant Scheme'', column 2022",
+   "quote": "Visas / Entry Permits under 'Capital Investment Entrant Scheme' [Remark 2] 0 5 0",
+   "notes": "Columns 2022, 2023, 2024. Remark 2: the scheme has been suspended since 15 January 2015 and all applications were finalised in October 2023."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "investor_visas_issued",
+   "breakdown": "",
+   "period": "2023",
+   "period_basis": "calendar_year",
+   "value": "5",
+   "value_high": "",
+   "unit": "visas",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-ar-2024-app5",
+   "location": "Appendix 5, row 'Visas / Entry Permits under 'Capital Investment Entrant Scheme'', column 2023",
+   "quote": "Visas / Entry Permits under 'Capital Investment Entrant Scheme' [Remark 2] 0 5 0",
+   "notes": "Columns 2022, 2023, 2024. Remark 2: the scheme has been suspended since 15 January 2015 and all applications were finalised in October 2023."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "main_applicants_approved",
+   "breakdown": "",
+   "period": "2003-10/2010-10",
+   "period_basis": "cumulative",
+   "value": "8200",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "location": "paragraph 'Introduced in October 2003 ...'",
+   "quote": "Since its introduction, around 8 200 investors with 15 500 dependants have been admitted to Hong Kong, bringing in around $58 billion of investment.",
+   "notes": "Rounded ('around'). Cumulative from the scheme's introduction (October 2003) to the government's announcement of 13 October 2010; the cut-off date of the figures is not printed. 'Admitted' is taken as formal approval (not stated)."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "dependants_approved",
+   "breakdown": "",
+   "period": "2003-10/2010-10",
+   "period_basis": "cumulative",
+   "value": "15500",
+   "value_high": "",
+   "unit": "persons",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "location": "paragraph 'Introduced in October 2003 ...'",
+   "quote": "Since its introduction, around 8 200 investors with 15 500 dependants have been admitted to Hong Kong, bringing in around $58 billion of investment.",
+   "notes": "Rounded ('around'). Cumulative from the scheme's introduction (October 2003) to the government's announcement of 13 October 2010; the cut-off date of the figures is not printed. 'Admitted' is taken as formal approval (not stated)."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "rbi_investment_total",
+   "breakdown": "",
+   "period": "2003-10/2010-10",
+   "period_basis": "cumulative",
+   "value": "58",
+   "value_high": "",
+   "unit": "HKD",
+   "scale": "billion",
+   "status": "actual",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "location": "paragraph 'Introduced in October 2003 ...'",
+   "quote": "Since its introduction, around 8 200 investors with 15 500 dependants have been admitted to Hong Kong, bringing in around $58 billion of investment.",
+   "notes": "Rounded ('around'). Cumulative from the scheme's introduction (October 2003) to the government's announcement of 13 October 2010; the cut-off date of the figures is not printed. 'Admitted' is taken as formal approval (not stated). Printed as '$'; the same announcement states the thresholds in HK$, and the dataset reads ImmD '$' as HKD for this scheme."
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "indicator": "applicant_profile_share",
+   "breakdown": "category=invested_before_application",
+   "period": "to 2010-10",
+   "period_basis": "unspecified",
+   "value": "11",
+   "value_high": "",
+   "unit": "percent",
+   "scale": "1",
+   "status": "actual",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "location": "paragraph 'Under the existing Scheme Rules ...'",
+   "quote": "According to past statistics, around 11% of the CIES entrants actually made the required investment before submitting an application.",
+   "notes": "Share of CIES entrants who made the required investment in the six months before applying rather than after approval-in-principle. Rounded ('around'); the period of the 'past statistics' is not given (before the announcement of 13 Oct 2010)."
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "hkg-new-cies",
+   "source_id": "hkg-fstb-legco-brief-new-cies-2023",
+   "route": "net_worth_requirement",
+   "valid_from": "2024-03-01",
+   "valid_to": "2025-02-28",
+   "min_amount": "30000000",
+   "currency": "HKD",
+   "applies_to": "applicant's net assets, held throughout the two years before applying",
+   "location": "p. 3, para 4(c)",
+   "quote": "demonstrating that he/she has net assets of not less than HK$30 million (or equivalent in foreign currencies) to which he/she is absolutely beneficially entitled throughout the two years preceding the application",
+   "notes": "Eligibility condition, not an investment. The brief gives no start date (it says the scheme is to open 'in mid-2024', para 26); valid_from follows the launch date in the dataset (1 Mar 2024, hkg-investhk-pr-new-cies-opens-2024) and valid_to the day before the six-month rule took effect (hkg-fstb-pr-new-cies-enhancements-2025). Same brief: non-residential real estate counts for at most HK$10 million (para 7(g)); certificates of deposit capped at 10% of the minimum investment threshold (para 7(c))."
+  },
+  {
+   "program_id": "hkg-new-cies",
+   "source_id": "hkg-fstb-pr-new-cies-enhancements-2025",
+   "route": "net_worth_requirement",
+   "valid_from": "2025-03-01",
+   "valid_to": "",
+   "min_amount": "30000000",
+   "currency": "HKD",
+   "applies_to": "applicant's net assets, held throughout the six months before applying",
+   "location": "section 1(a)(i)",
+   "quote": "net assets or net equity to which he/she is absolutely beneficially entitled with a market value of not less than HK$30 million net throughout six months (two years before the enhancement) preceding the application",
+   "notes": "Eligibility condition, not an investment. From 1 March 2025 jointly owned net assets count for the applicant's share (section 1(a)(ii)), and investments may be held through a family-owned investment holding vehicle (section 1(b))."
+  },
+  {
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "route": "financial_assets",
+   "valid_from": "2010-10-14",
+   "valid_to": "",
+   "min_amount": "10000000",
+   "currency": "HKD",
+   "applies_to": "main applicant",
+   "location": "first list item",
+   "quote": "The threshold of investment (and Net assets/Net equity requirement) for admission to Hong Kong under the CIES is raised from HK$6.5 million to HK$10 million",
+   "notes": "Real estate suspended as a permissible asset class from the same date. Transitional rule: new applications with investment (including real estate) of at least HK$6.5 million made within the six months before 14 Oct 2010 were still eligible under the old rules. Same threshold applies to the net-asset requirement. The threshold was to be reviewed every three years. valid_to not given here (scheme suspended 15 Jan 2015, see hkg-immd-cies-page-2026)."
+  },
+  {
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-cies-page-2026",
+   "route": "financial_assets",
+   "valid_from": "2010-10-14",
+   "valid_to": "2015-01-14",
+   "min_amount": "10000000",
+   "currency": "HKD",
+   "applies_to": "main applicant (with dependants)",
+   "location": "Before Applying, Eligibility Criteria and footnote *",
+   "quote": "not less than HK$10 million* in permissible investment asset classes",
+   "notes": "Investment within six months before applying or within six months after approval-in-principle (certificates of deposit only after). Footnote: 'The investment threshold (and Net assets or Net equity requirement) has been raised from HK$6.5 million to HK$10 million with effect from 14 October 2010.' valid_to: the page says the scheme 'has been suspended since 15 January 2015'."
+  },
+  {
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-cies-page-2026",
+   "route": "net_worth_requirement",
+   "valid_from": "2010-10-14",
+   "valid_to": "2015-01-14",
+   "min_amount": "10000000",
+   "currency": "HKD",
+   "applies_to": "applicant's net assets, held throughout the two years before applying",
+   "location": "Before Applying, Eligibility Criteria",
+   "quote": "have net assets of not less than HK$10 million* to which he is absolutely beneficially entitled throughout the two years preceding his application",
+   "notes": "Eligibility condition, not an investment. Raised from HK$6.5 million on 14 October 2010 (footnote). Applicants could optionally use a CPA (Practising) report to show it."
+  },
+  {
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-cies-page-2026",
+   "route": "net_worth_requirement",
+   "valid_from": "",
+   "valid_to": "2010-10-13",
+   "min_amount": "6500000",
+   "currency": "HKD",
+   "applies_to": "applicant's net assets, held throughout the two years before applying",
+   "location": "Before Applying, Eligibility Criteria, footnote *",
+   "quote": "The investment threshold (and Net assets or Net equity requirement) has been raised from HK$6.5 million to HK$10 million with effect from 14 October 2010.",
+   "notes": "Start date not given on this page (the scheme opened on 27 Oct 2003 per hkg-isd-pr-cies-launch-2003). The two-year holding period is stated for the current (HK$10m) rule only."
+  }
+ ],
+ "events": [
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-ar-2009-ch1",
+   "date": "2009-03-16",
+   "date_precision": "day",
+   "category": "rule_change",
+   "title": "Accountant's report on net assets made optional",
+   "description": "To shorten processing, CIES applicants may choose whether to hire a Certified Public Accountant (Practising) to prepare the financial report showing they meet the net-asset requirement.",
+   "location": "Chapter text, section 'Capital Investment Entrant Scheme'",
+   "quote": "To shorten the processing time of the applications under the Scheme, with effect from March 16, 2009, applicants may decide on their own whether or not to hire a Certified Public Accountant (Practising)"
+  },
+  {
+   "jurisdiction": "HKG",
+   "program_id": "hkg-cies",
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "date": "2010-10-14",
+   "date_precision": "day",
+   "category": "rule_change",
+   "title": "Insurers allowed as CIES financial intermediaries",
+   "description": "Together with the HK$10 million threshold and the suspension of real estate, insurers authorised for Class C (linked long-term) business may act as the financial intermediary holding an entrant's designated investment account.",
+   "location": "paragraph 'Furthermore, with effect from the commencement date ...'",
+   "quote": "Furthermore, with effect from the commencement date, an insurer authorised to carry on Class C business as specified in Part 2 of the First Schedule to the Insurance Companies Ordinance is permitted to act as a financial intermediary for the purpose of the CIES."
+  }
+ ],
+ "programs": [],
+ "new_indicators": [
+  {
+   "indicator": "enquiries_received",
+   "name": "Enquiries received by the programme",
+   "definition": "Number of enquiries (phone, email, visits, as the source counts them) received by the programme authority from prospective applicants in a period. Not applications.",
+   "unit_kind": "enquiries",
+   "notes": "Proposed by extract-cbi-hkg1 for the Hong Kong New CIES press release of 7 Jan 2025 ('Number of enquiries Nearly 7 000' in the first 10 months)."
+  }
+ ],
+ "gaps": [
+  "The ImmD CIES page (hkg-immd-cies-page-2026) refers to a fee table for the 'specified scheme' that is not part of the stored page."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "hkg-fstb-legco-brief-new-cies-2023",
+   "status": "complete",
+   "contains": "Legislative Council Brief of 19 Dec 2023 on the New CIES: eligibility (age 18+, eligible nationalities, net assets of HK$30m for two years, no adverse record), minimum investment HK$30m (HK$27m permissible assets incl. non-residential real estate capped at HK$10m and certificates of deposit capped at 10%, plus HK$3m in the CIES Investment Portfolio), portfolio maintenance rules, procedure (InvestHK then ImmD; visitor entry up to 180 days to invest; 24-month then 3-year stays; permanent residence after 7 years), buyer's and new residential stamp duty suspension for applicants, implications, planned launch mid-2024. No application statistics. Investment thresholds, Exco approval and the Budget announcement were already recorded; this pass adds the net-asset requirement as a rule row (caps noted in it).",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-fstb-pr-new-cies-enhancements-2025",
+   "status": "complete",
+   "contains": "InvestHK/FSTB press release of 7 Jan 2025: New CIES enhancements effective 1 Mar 2025 (six-month net-asset test instead of two years, jointly owned assets, holding through a family-owned investment holding vehicle or special purpose entity) and key figures for the first 10 months (enquiries nearly 7,000; applications over 800; 733 passed the net-asset check; 240 passed the investment check; expected investment over HK$24 billion). Also a statement that applications in the first 10 months exceeded those in the same period of the original CIES (no number). The four application figures and the rule-change event were already recorded; this pass adds the enquiries figure (new indicator proposed) and the six-month net-asset rule row.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2009-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 (2009-10) of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section, as at 31 Mar 2010: entrant and dependant applications received, approvals (formal and in principle), investment HK$47.3bn ('$'), threshold $6.5m, and from 16 Mar 2009 the optional CPA report with the number and share of applications using it. Main figures were already recorded; this pass adds the CPA count and share and the 16 Mar 2009 rule-change event.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2011-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section, as at 31 Dec 2011: applications received (entrant and dependant), approvals (formal and in principle), investment $94.9bn (printed twice), the Oct 2010 threshold rise to $10m and suspension of real estate (event already in the dataset from hkg-isd-pr-cies-amended-2010), a planned 2013 review, and the CPA-report count and share. Main figures were already recorded; this pass adds the CPA count and share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2012-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section, as at 31 Dec 2012: applications received (entrant and dependant), approvals (formal and in principle; parts add up to the printed total), investment total, the Oct 2010 threshold rise and real-estate suspension (event already in the dataset), and the CPA-report count and share. Main figures were already recorded; this pass adds the CPA count and share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2013-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section, as at 31 Dec 2013: applications received (entrant and dependant), approvals (formal and in principle; parts add up to the printed total), investment total, the Oct 2010 threshold rise and real-estate suspension (event already in the dataset), and the CPA-report count and share. Main figures were already recorded; this pass adds the CPA count and share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2014-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section, as at 31 Dec 2014: applications received (entrant and dependant), approvals (formal and in principle; parts add up to the printed total), investment total, the Oct 2010 threshold rise and real-estate suspension (event already in the dataset), and the CPA-report count and share. Remark that CIES was suspended from 15 Jan 2015 (event already recorded). Main figures were already recorded; this pass adds the CPA count and share.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2015-ch1",
+   "status": "complete",
+   "contains": "Chapter 1 of the ImmD annual report (Visa and Policies): admission schemes and statistics for visitors, employment, talent schemes, students, dependants, one-way permits, right of abode etc. (out of scope) and a section on the Capital Investment Entrant Scheme. CIES section: suspended since 15 Jan 2015; as at 31 Dec 2015, 28,243 formally approved, 1,345 with approval-in-principle, investment up to $243.6bn. All three numbers were already recorded; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2016-ch2",
+   "status": "complete",
+   "contains": "Chapter 2 of the ImmD annual report (Visa and Policies Branch): admission schemes and statistics for visitors, employment, talent schemes, students, dependants etc. (out of scope) and a short CIES section (suspended since 15 Jan 2015; formal approvals, approvals-in-principle and total investment as at 31 Dec 2016). All three CIES numbers were already recorded; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2017-ch2",
+   "status": "complete",
+   "contains": "Chapter 2 of the ImmD annual report (Visa and Policies Branch): admission schemes and statistics for visitors, employment, talent schemes, students, dependants etc. (out of scope) and a short CIES section (suspended since 15 Jan 2015; formal approvals, approvals-in-principle and total investment as at 31 Dec 2017). All three CIES numbers were already recorded; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2018-ch2",
+   "status": "complete",
+   "contains": "Chapter 2 of the ImmD annual report (Visa and Policies Branch): admission schemes and statistics for visitors, employment, talent schemes, students, dependants etc. (out of scope) and a short CIES section (suspended since 15 Jan 2015; formal approvals, approvals-in-principle and total investment as at 31 Dec 2018). All three CIES numbers were already recorded; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2019-ch2",
+   "status": "complete",
+   "contains": "Chapter 2 of the ImmD annual report (Visa and Policies Branch): admission schemes and statistics for visitors, employment, talent schemes, students, dependants etc. (out of scope) and a short CIES section (suspended since 15 Jan 2015; formal approvals, approvals-in-principle and total investment as at 31 Dec 2019). All three CIES numbers were already recorded; nothing else in scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2012-app5",
+   "status": "complete",
+   "contains": "Appendix 5 of the ImmD Annual Report 2012: visas/entry permits issued 2010-2012 by scheme (employment, talent, students, dependants, visit visas, etc.; out of scope) including entry visas under the CIES for 2010, 2011 and 2012. The three CIES numbers were already recorded.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-ar-2024-app5",
+   "status": "complete",
+   "contains": "Appendix 5 of the ImmD Annual Report 2024: visas/entry permits issued 2022-2024 by scheme (Top Talent Pass, employment, labour importation, students, dependants, visit visas etc.; out of scope); CIES visas 2022-2024 (0, 5, 0); New CIES approvals-in-principle and formal approvals for 2024 (625, 215; '-' for 2022-2023 before launch); remarks on the CIES suspension and finalisation (Oct 2023) and the New CIES start (1 Mar 2024). The 2024 figures were already recorded; this pass adds CIES visas for 2022 and 2023. The October 2023 finalisation and the 1 March 2024 launch are already events from other sources.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-announcement-2012",
+   "status": "complete",
+   "contains": "ImmD web announcement (archived Dec 2012) of the CIES rule amendments from 14 Oct 2010: threshold and net-asset requirement raised from HK$6.5m to HK$10m, real estate suspended, Class C insurers allowed as financial intermediaries, three-yearly review, transitional rule for investments made in the six months before; share of entrants who invested before applying (around 11%); cumulative admissions since 2003 (around 8,200 investors, 15,500 dependants, around $58bn); and the separate 6 Jul 2010 refinement admitting investment-linked assurance products (event already recorded). The 14 Oct 2010 threshold change is already an event from hkg-isd-pr-cies-amended-2010. This pass adds the four numbers, the HK$10m rule row and the intermediary event.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-page-2026",
+   "status": "complete",
+   "contains": "ImmD web page on the (suspended) CIES, revised 16 Apr 2026: suspended since 15 Jan 2015; New CIES launched 1 Mar 2024; eligible persons; eligibility (net assets and investment of HK$10m, raised from HK$6.5m on 14 Oct 2010); permissible asset classes; portfolio maintenance; conditions of stay (3+3 months as visitor, 2 years then 3-year extensions, right of abode after 7 years); extension-of-stay procedure; fees by reference to a fee table not included in the stored page. No statistics. The suspension and New CIES launch events are already recorded; this pass adds the HK$10m investment and net-asset rule rows and the earlier HK$6.5m net-asset row.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-stats-2012-12",
+   "status": "complete",
+   "contains": "ImmD CIES statistics page (Traditional Chinese), figures as at 31 Dec 2012: applicants by category (foreign nationals, Macao residents, Chinese nationals with overseas permanent residence, stateless persons, Taiwan residents) for applications received, approvals-in-principle and formal approvals, and the investment in formal-approval cases split into real estate and specified financial assets. All 21 numbers were already recorded and re-checked against the page; categories add up to the printed totals in all three columns and real estate plus financial assets equals the printed total.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-stats-2013-03",
+   "status": "complete",
+   "contains": "ImmD CIES statistics page (English), figures as at 31 Mar 2013: applicants by category (foreign nationals, Macao residents, Chinese nationals with overseas permanent residence, stateless persons, Taiwan residents) for applications received, approvals-in-principle and formal approvals, and the investment in formal-approval cases split into real estate and specified financial assets. All 21 numbers were already recorded and re-checked against the page; categories add up to the printed totals in all three columns and real estate plus financial assets equals the printed total.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-stats-2013-06",
+   "status": "complete",
+   "contains": "ImmD CIES statistics page (English), figures as at 30 Jun 2013: applicants by category (foreign nationals, Macao residents, Chinese nationals with overseas permanent residence, stateless persons, Taiwan residents) for applications received, approvals-in-principle and formal approvals, and the investment in formal-approval cases split into real estate and specified financial assets. All 21 numbers were already recorded and re-checked against the page; categories add up to the printed totals in all three columns and real estate plus financial assets equals the printed total.",
+   "to_do": ""
+  },
+  {
+   "source_id": "hkg-immd-cies-stats-2013-09",
+   "status": "complete",
+   "contains": "ImmD CIES statistics page (English), figures as at 30 Sep 2013: applicants by category (foreign nationals, Macao residents, Chinese nationals with overseas permanent residence, stateless persons, Taiwan residents) for applications received, approvals-in-principle and formal approvals, and the investment in formal-approval cases split into real estate and specified financial assets. All 21 numbers were already recorded and re-checked against the page; categories add up to the printed totals in all three columns and real estate plus financial assets equals the printed total.",
+   "to_do": ""
+  }
+ ]
+}
