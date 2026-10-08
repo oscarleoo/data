@@ -6039,3 +6039,90 @@ o-e3f6004cfe,"$ 5,185,573.74",,1,PAYMENTS AND CHARGES,PDF p. 25,"SEPTEMBER $ 2,1
 o-cb72cc89f4,"$ 2,861,130.00",,1,CREDITS,PDF p. 25,"FEBRUARY $ 2,861,130.00 $ 2,200,044.39",high,scan OCR; monthly column sums to printed total,claude-sonnet-5,2026-10-08,1,no
 o-6e38c1795e,13,,1,Inception to 31 Dec 2016,PDF p. 3,Nigeria 3 2.10 13 1.39,high,scan OCR; 13/934 = 1.39%,claude-sonnet-5,2026-10-08,1,no
 o-7f0edd848f,"$ 24,627,213.29",,1,first amount column (US$),PDF p. 40,"TOTAL PAYMENTS FROM NDF $ 24,627,213.29 $ 66,029,524.60 $ 37,095,937.07",medium,scan OCR; three amounts on the total row; header not seen on this page; first column taken as US$ (second is about 2.68x = EC$ equivalent),claude-sonnet-5,2026-10-08,1,no
+o-2cf2022e95,33,,1,ΕΚΔΟΘΕΙΣΕΣ,PDF p. 13,Οκτ-25 33 68 101,high,,claude-sonnet-5,2026-10-08,1,no
+o-f1b5940706,211,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,"7 ΙΡΑΚ 211 2,0%",high,,claude-sonnet-5,2026-10-08,1,no
+o-a71b5043f2,1,,1,ΑΝΑΚΛΗΣΕΙΣ,PDF p. 12,2024 4.894 59 1 4.437 9.391,high,,claude-sonnet-5,2026-10-08,1,no
+o-420f24233f,1.890,,1,ΣΥΝΟΛΟ,PDF p. 12,2023 1.811 23 2 54 1.890,high,,claude-sonnet-5,2026-10-08,1,no
+o-3c7ebf3e4b,30,,1,ΕΚΚΡΕΜΕΙΣ,PDF p. 13,Μαϊ-25 33 30 63,high,,claude-sonnet-5,2026-10-08,1,no
+o-09b9574c6c,235,,1,ΣΥΝΟΛΟ,PDF p. 13,Ιαν-25 100 135 235,high,,claude-sonnet-5,2026-10-08,1,no
+o-dffb495826,657,,1,ΕΚΔΟΘΕΙΣΕΣ,PDF p. 13,Ιαν-25 657 431 1.088,high,,claude-sonnet-5,2026-10-08,1,no
+o-e57caef499,501,,1,ΕΚΚΡΕΜΕΙΣ,PDF p. 13,Φεβ-25 474 5 501 980,high,,claude-sonnet-5,2026-10-08,1,no
+o-94edceae6f,369,,1,ΣΥΝΟΛΟ,PDF p. 13,Δεκ-24 209 160 369,high,,claude-sonnet-5,2026-10-08,1,no
+o-b61f01e44e,6.474,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,"1 ΚΙΝΑ 6.474 62,4%",high,,claude-sonnet-5,2026-10-08,1,no
+o-7280fc8567,23,,1,ΑΠΟΡΡΙΨΕΙΣ,PDF p. 12,2023 1.811 23 2 54 1.890,high,,claude-sonnet-5,2026-10-08,1,no
+o-079dc8f40b,18,,1,2024,PDF p. 15,ΚΡΗΤΗΣ 5 5 18 166 194,medium,"row has blank cells; column position inferred from sums (2022=5,2023=5,2024=18,2025=166, total 194); confirmed by column sums",claude-sonnet-5,2026-10-08,1,no
+o-b9b776136f,248,,1,2022,PDF p. 15,ΜΕΛΗ ΟΙΚΟΓΕΝΕΙΑΣ ΠΟΛΙΤΗ ΤΡΙΤΗΣ ΧΩΡΑΣ 132 248 2.102,high,category total row (grant+renewal); sub-rows are 161 and 87,claude-sonnet-5,2026-10-08,1,no
+o-2d7bb452e3,817,,1,ΣΥΝΟΛΟ,PDF p. 14,Φεβ-25 640 177 817,high,,claude-sonnet-5,2026-10-08,1,no
+o-7855edf38d,3,,1,ΑΠΟΡΡΙΨΕΙΣ,PDF p. 13,Ιουν-25 123 3 366 492,high,,claude-sonnet-5,2026-10-08,1,no
+o-254b286a40,980,,1,ΣΥΝΟΛΟ,PDF p. 13,Φεβ-25 474 5 501 980,high,,claude-sonnet-5,2026-10-08,1,no
+o-514f74949d,4.024,,1,ΣΥΝΟΛΟ,PDF p. 12,2024 3.225 20 2 777 4.024,high,,claude-sonnet-5,2026-10-08,1,no
+o-a9cd6cfddb,623,,1,ΣΥΝΟΛΟ,PDF p. 15,ΘΕΣΣΑΛΙΑΣ – ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ 1 11 2 52 557 623,high,,claude-sonnet-5,2026-10-08,1,no
+o-2a85af42d5,1,,1,ΕΚΚΡΕΜΕΙΣ,PDF p. 12,2021 435 16 4 1 456,high,,claude-sonnet-5,2026-10-08,1,no
+o-f57ad85ed5,138,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,"8 ΣΥΡΙΑ 138 1,3%",high,,claude-sonnet-5,2026-10-08,1,no
+o-7c1cdbe109,189,,1,ΕΚΔΟΘΕΙΣΕΣ,PDF p. 13,Απρ-25 189 387 576,high,,claude-sonnet-5,2026-10-08,1,no
+o-ced8109f78,1.108,,1,ΣΥΝΟΛΟ,PDF p. 14,Ιουν-25 860 248 1.108,high,,claude-sonnet-5,2026-10-08,1,no
+o-17e1de50fb,140,,1,ΕΚΔΟΘΕΙΣΕΣ - ΑΝΑΝΕΩΣΗ,PDF p. 14,Δεκ-24 503 140 643,high,,claude-sonnet-5,2026-10-08,1,no
+o-0a7ff4e870,44,,1,ΑΠΟΡΡΙΨΕΙΣ,PDF p. 12,2022 4.206 44 12 88 4.350,high,,claude-sonnet-5,2026-10-08,1,no
+o-5a8abfc98d,17.107,,1,2024,PDF p. 15,ΓΕΝΙΚΟ ΣΥΝΟΛΟ ΕΚΚΡΕΜΟΤΗΤΩΝ 179 371 2.697 17.107 20.018 40.372,high,,claude-sonnet-5,2026-10-08,1,no
+o-49fd15630d,73,,1,ΣΥΝΟΛΟ,PDF p. 15,ΑΙΓΑΙΟΥ 2 11 60 73,high,,claude-sonnet-5,2026-10-08,1,no
+o-e1c37fb37c,980,,1,ΣΥΝΟΛΟ,PDF p. 13,Φεβ-25 474 5 501 980,high,,claude-sonnet-5,2026-10-08,1,no
+o-1d487d3c79,72,,1,ΣΥΝΟΛΟ,PDF p. 13,Αυγ-25 28 44 72,high,,claude-sonnet-5,2026-10-08,1,no
+o-1e111b4b2a,115,,1,Inception to 30th Jun 2023,PDF p. 3,Morocco 10 4.13% 115 2.86%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-99ba4e8bec,73,,1,Inception to 30th Jun 2023,PDF p. 7,UWI 14 5.79 73 1.82,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-6dd99925f5,10,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 3,Morocco 10 4.13%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-45cb6a2ac2,14,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 7,UWI 14 5.79 73 1.82,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-7e48df59f4,0,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 3,Myanmar 0 0.00% 5 0.12%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-3e1b252468,4,,1,Inception to 30th Jun 2023,PDF p. 3,Taiwan 0 0.00% 4 0.10%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-7a78d41968,2,,1,Inception to 30th Jun 2023,PDF p. 2,Guinea 0 0.00% 2 0.05%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-5f707eee2f,2,,1,Inception to 30th Jun 2023,PDF p. 3,Sierra Leone 0 0.00% 2 0.05%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-8cd5c5d0e3,1,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 4,Zimbabwe 1 0.41% 6 0.15%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-7d07abd448,1,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 4,Uruguay 1 0.41% 1 0.02%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-b8053e80a6,0,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 3,Sweden 0 0.00% 3 0.07%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-78bfeb7d06,0,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 3,Nepal 0 0.00% 1 0.02%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-c7dba4a5b5,3,,1,1st Jan 2023 to 30th Jun 2023,PDF p. 2,Kenya 3 1.24%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-d64d4a412e,31,,1,Inception to 30th Jun 2023,PDF p. 2,France 3 1.24% 31 0.77%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-d8ac9f5794,4,,1,Inception to 30th Jun 2023,PDF p. 2,Czech Republic 1 0.41% 4 0.10%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-2a243e789a,1,,1,Inception to 30th Jun 2023,PDF p. 2,Burkina Faso 0 0.00% 1 0.02%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-ea0e77ccd7,2,,1,Inception to 30th Jun 2023,PDF p. 2,Belize 0 0.00% 2 0.05%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-81ea1e1bda,17,,1,Inception to 30th Jun 2023,PDF p. 2,Indonesia 0 0.00% 17 0.42%,high,scan OCR; checked against % column,claude-sonnet-5,2026-10-08,1,no
+o-61218a42db,556,,1,"persons column (scanned, rotated page)",PDF p. 13,"Total 556 $18,025,000.00",medium,"scan OCR; digit read 556 consistently over several thresholds, one gave 356; column heading not verified",claude-sonnet-5,2026-10-08,1,no
+o-a7f7370a2f,"18,025,000.00",,1,contribution $,PDF p. 13,"Total ... $ 18,025,000.00",high,scan OCR; currency USD ($),claude-sonnet-5,2026-10-08,1,no
+o-0e3bab92ed,35,,1,Inception to 17th Dec 2015,PDF p. 2,Lebanon 7 3.6 35 5.5,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-61a0382de1,31,,1,Inception to 17th Dec 2015,PDF p. 2,Russia 3 1.5 31 4.8,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-e6eefd1d1e,9,,1,Inception to 17th Dec 2015,PDF p. 2,Saudi Arabia 3 1.5 9 1.4,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-6fd0d0e78e,12,,1,Inception to 17th Dec 2015,PDF p. 2,United Kingdom - 12 1.9,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-96bba68021,495,,1,Inception to 17th Dec 2015,PDF p. 5,NDF 140 71.1 495 76.9,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-6e64e82697,7,,1,1st June 2015 to 17th Dec 2015,PDF p. 2,Lebanon 7 3.6 35 5.5,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-dbc834af77,3,,1,1st June 2015 to 17th Dec 2015,PDF p. 2,Russia 3 1.5 31 4.8,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-ab8e3f5cc5,3,,1,1st June 2015 to 17th Dec 2015,PDF p. 2,Saudi Arabia 3 1.5 9 1.4,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-897414963a,140,,1,1st June 2015 to 17th Dec 2015,PDF p. 5,NDF 140 71.1 495 76.9,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-7948987b09,2,,1,Inception to 17th Dec 2015,PDF p. 2,Ethiopia 1 0.5 2 0.3,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-2631e623d0,16,,1,Inception to 17th Dec 2015,PDF p. 2,India 9 4.6 16 2.5,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-045d835bac,1,,1,Inception to 17th Dec 2015,PDF p. 2,Malaysia - 1 0.2,medium,"scan OCR; scan; only the glyph shape of the cell was readable, looks like 1 (0.2%)",claude-sonnet-5,2026-10-08,1,no
+o-093a530c4a,2,,1,1st June 2015 to 17th Dec 2015,PDF p. 2,Germany 2 1 2 0.3,high,scan OCR,claude-sonnet-5,2026-10-08,1,no
+o-b6a009f133,"23,000,000.00",,1,Amount ($),PDF p. 18,"Total for the Period 312 115 $23,000,000.00",high,scan OCR; US$,claude-sonnet-5,2026-10-08,1,no
+o-bc6010cc8e,"27,978,927.46",,1,$US Payments,PDF p. 21,"TOTAL PAYMENTS $ 27,978,927.46 | $ 54,315,766.00",medium,"scan OCR on rotated page; column heading not read, first $ column; digits checked",claude-sonnet-5,2026-10-08,1,no
+o-c657d7cb7c,"54,315,766.00",,1,Transfers to Consolidated Fund in EC$,PDF p. 21,"TOTAL PAYMENTS $ 27,978,927.46 | $ 54,315,766.00",medium,"scan OCR on rotated page; column heading not read, second $ column (first row shows 60,000 vs 162,000 = x2.7 EC$)",claude-sonnet-5,2026-10-08,1,no
+o-8208baa8cf,"617,220",,1,2015 EC$,PDF p. 7,"Passport Stamp Fees 246,240 617,220 863,460",medium,"scan OCR rotated; first column blank (2013), 246,240 (2014), 617,220 (2015), total 863,460; column sums check",claude-sonnet-5,2026-10-08,1,no
+o-c21c84f915,2,,1,Inception to 31st December 2019,PDF p. 3,Turkmenistan 0 0.00 2 0.08,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-1e3fc1efa8,4,,1,Inception to 31st December 2019,PDF p. 3,Myanmar 0 0.00 4 0.17,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-7bb7f8fa84,2,,1,1st July 2019 to 31st December 2019,PDF p. 2,Jordan 2 0.87 24 0.99,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-e3a069855b,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Venezuela 0 0.00 11 0.45,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-8b8a1d9863,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Tunisia 0 0.00 4 0.17,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-41b739733c,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Poland 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-792bc54d61,9,,1,1st July 2019 to 31st December 2019,PDF p. 2,Libya 9 3.90 93 3.84,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-eb85cd2bb3,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Sweden 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-49ee9ee239,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Zimbabwe 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-06b74faa3b,0,,1,1st July 2019 to 31st December 2019,PDF p. 2,Belgium 0 0.00 2 0.08,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-8da3b0e1ca,0,,1,1st July 2019 to 31st December 2019,PDF p. 3,Togo 0 0.00 2 0.08,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-7a32687434,24,,1,Inception to 31st December 2019,PDF p. 2,Jordan 2 0.87 24 0.99,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-fbe8a5d728,11,,1,Inception to 31st December 2019,PDF p. 2,Kazakhstan 0 0.00 11 0.45,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-521810429b,1,,1,1st July 2019 to 31st December 2019,PDF p. 3,Qatar 1 0.43 2 0.08,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-8ae518c07b,"25,575,000.00",,1,Investment Contribution,PDF p. 16,"TOTAL $ 25,575,000.00",high,"scan OCR (rotated page), stable across thresholds; US$",claude-sonnet-5,2026-10-08,1,no
+o-6adedafbd6,139,,1,Inception to 30th June 2020,PDF p. 3,Syria 7 3.70 139 5.33,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-3cf91d1ae6,2610,,1,Inception to 30th June 2020,PDF p. 7,Total Applications ... 2610 100.00,high,scan OCR rotated; matches 208 = 7.97% of 2610 and the p. 3 country total 2610,claude-sonnet-5,2026-10-08,1,no
+o-73a89a53f2,2,,1,Inception to 30th June 2020,PDF p. 2,Bulgaria 0 0.00 2 0.08,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-245fb270e9,0,,1,1st Jan 2020 to 30th Jun 2020,PDF p. 3,Singapore 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-bc2e65ad6a,1,,1,Inception to 30th June 2020,PDF p. 2,Liberia 0 0.00 1 0.04,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-68969e2387,3,,1,Inception to 30th June 2020,PDF p. 3,Spain 0 0.00 3 0.11,high,text layer,claude-sonnet-5,2026-10-08,1,no
+o-e3763885cc,"18,700,000.00",,1,Investment Contribution,PDF p. 14,"$ 18,700,000.00",medium,"scan OCR rotated; same digits at two scales, not cross-checked by sum; US$",claude-sonnet-5,2026-10-08,1,no
