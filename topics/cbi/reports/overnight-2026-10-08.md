@@ -225,3 +225,9 @@ says what was done to it.
   them in thousands, inferred from other printed figures, and says so in the notes. Digits agree.
   Should values with an inferred unit stay, or be dropped?
 - 0 open differences in the CBI dataset after this round.
+
+### Second reading, whistleblowing priority pass (batch w1)
+- 66 new numbers read blind: 65 agreed; 1 ruled (a Slovak count split by retaliation: 21 of 68).
+- **Worth a look:** two Slovak "open reward claims" rows (2023, 2025) the second reader could only
+  infer from prose, though they agreed with the first reading.
+- 0 open differences in the whistleblowing dataset.
