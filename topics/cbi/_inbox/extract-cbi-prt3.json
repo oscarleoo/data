@@ -1,0 +1,294 @@
+{
+ "slug": "extract-cbi-prt3",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over 14 stored Portuguese documents: three SEF monthly ARI infographics (Jul-Sep 2023), SEF annual RIFA reports 2013-2022 and Constitutional Court ruling 1133/2025. Almost everything was already in the data; added 2013 application nationality shares, 2013 family and total refusals, a 2019 family-permit figure from the legal-basis table, and three events.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=CHN",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "80",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding)."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=BRA",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "3",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding)."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=RUS",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "3",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding)."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=AGO",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "2",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding)."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=ZAF",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "2",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding)."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "nationality=other",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applicant_nationality_share",
+   "period": "2013",
+   "value": "11",
+   "unit": "percent",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Realizaram-se 1.116 candidaturas a este regime de autorização de residência, evidenciando-se as nacionalidades chinesa (80%), brasileira (3%), russa (3%), angolana (2%) e sul-africana (2%), entre outros (11%)",
+   "notes": "SEF annual report. Share of the 1,116 ARI applications (candidaturas) filed in 2013, by nationality; base is applications, not approvals. Printed shares add to 101% (rounding). 'entre outros': all other nationalities together."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "applicant=family",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applications_rejected",
+   "period": "2013",
+   "value": "5",
+   "unit": "applications",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Apenas foram indeferidos 9 pedidos (4 investidores e 5 familiares)",
+   "notes": "SEF annual report. Family-reunification requests of ARI holders refused in 2013. 4 + 5 = 9 as printed; the 4 investor refusals are already in the data."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "applicant=main_and_family",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "applications_rejected",
+   "period": "2013",
+   "value": "9",
+   "unit": "applications",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 14 (printed p. 13), ARI bullet list",
+   "quote": "Apenas foram indeferidos 9 pedidos (4 investidores e 5 familiares)",
+   "notes": "SEF annual report. All ARI requests refused in 2013, investors (4) and family members (5); each family member is a separate request."
+  },
+  {
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "breakdown": "applicant=family;category=art98_2_ari_new_grants",
+   "period_basis": "calendar_year",
+   "value_high": "",
+   "scale": "1",
+   "status": "actual",
+   "indicator": "residence_permits_issued",
+   "period": "2019",
+   "value": "2186",
+   "unit": "persons",
+   "source_id": "prt-sef-rifa-2019",
+   "location": "PDF p. 25 (printed p. 24), table of new residence titles by legal basis of the grant decision (Despacho)",
+   "quote": "Artº 98 nº 2                 Reagrupamento familiar (Titular AR Investimento)                                                                                         2.186",
+   "notes": "SEF annual report. New residence titles granted in 2019 under art. 98(2) (family reunification) to family members of ARI holders, from the table of the ten most frequent legal bases. Differs from the 2,390 'primeiros títulos de residência ... a familiares' printed on p. 26 (already in the data); the report does not explain the difference. In RIFA 2020 the same chart line (1,949) equals the text figure."
+  }
+ ],
+ "program_terms": [],
+ "events": [
+  {
+   "date": "2012-09-04",
+   "date_precision": "day",
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "category": "rule_change",
+   "title": "Despacho 11820-A/2012 sets the ARI requirements",
+   "description": "SEF's 2013 report says the ARI requirements are set by the Immigration Act and its regulatory instruments, Despacho 11820-A/2012 of 4 September, as amended by Despacho 1661-A/2013 of 28 January.",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 13 (printed p. 12)",
+   "quote": "instrumentos de regulamentação (Despacho n.º 11820-A/2012, de 4 de setembro, com as alterações introduzidas pelo Despacho n.º 1661-A/2013, de 28 de janeiro)"
+  },
+  {
+   "date": "2013-01-28",
+   "date_precision": "day",
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "category": "rule_change",
+   "title": "Despacho 1661-A/2013 amends the ARI requirements",
+   "description": "Amendment of the ARI regulatory order Despacho 11820-A/2012, as cited in SEF's 2013 report; the report does not describe the changes.",
+   "source_id": "prt-sef-rifa-2013",
+   "location": "PDF p. 13 (printed p. 12)",
+   "quote": "com as alterações introduzidas pelo Despacho n.º 1661-A/2013, de 28 de janeiro"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "jurisdiction": "PRT",
+   "program_id": "prt-golden-visa",
+   "category": "context",
+   "title": "ARI online portal adds payment, document upload and booking",
+   "description": "SEF's 2018 report says the ARI portal was updated with payment by DUC, document upload and appointment booking, with appointments now made nationally.",
+   "source_id": "prt-sef-rifa-2018",
+   "location": "PDF p. 24",
+   "quote": "procedeu-se à atualização do portal ARI, com as valências pagamento por DUC, upload da documentação e agendamentos"
+  }
+ ],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "RIFA 2014, 2015 and 2017 route counts do not add up to the printed approvals (gaps of 3, 2 and 75; 2017 also EUR 26,940,431.71 of investment); the reports print no figures for the remaining routes.",
+  "RIFA 2019: family first permits 2,390 (text) vs 2,186 new art. 98(2) ARI-family titles (legal-basis table); unexplained.",
+  "Existing rows o-665ecf2dea and o-831d8e88cb (prt-sef-ari-map-2023-08) quote 'SUBALÍNEA 1 3 ARI 3 800 000,00 €', but the page prints 'SUBALÍNEA 3' (misprint; English 'SUBPARAGRAPH 1'). Quote needs correcting."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "prt-sef-ari-map-2023-07",
+   "status": "complete",
+   "contains": "One-page SEF infographic for one month of 2023: ARI permits granted (101), top five nationalities, family-member permits (169), permits and investment by route and subparagraph (real estate 61 (subparagraph 3: 39; 4: 22), capital transfer 40 (subparagraph 1: 3; 7, funds: 37)), investment per route group and month total. All already in the data; text layer checked against OCR of the rendered page. Counts and amounts add up to the printed totals.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-08",
+   "status": "complete",
+   "contains": "One-page SEF infographic for one month of 2023: ARI permits granted (64), top five nationalities, family-member permits (72), permits and investment by route and subparagraph (real estate 42 (subparagraph 3: 17; 4: 25), capital transfer 22 (subparagraph 1: 3; 7, funds: 19)), investment per route group and month total. All already in the data; text layer checked against OCR of the rendered page. Counts and amounts add up to the printed totals. The Portuguese label of the capital-transfer EUR 3,800,000 box is misprinted 'SUBALÍNEA 3' (English 'SUBPARAGRAPH 1'); the existing rows quote it as 'SUBALÍNEA 1', so their quote is not verbatim (worth a correction to the quote).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-ari-map-2023-09",
+   "status": "complete",
+   "contains": "One-page SEF infographic for one month of 2023: ARI permits granted (157), top five nationalities, family-member permits (183), permits and investment by route and subparagraph (real estate 99 (subparagraph 3: 49; 4: 50), capital transfer 57 (subparagraph 1: 1; 5, research: 3; 7, funds: 50; 8, company: 3), job creation 1), investment per route group and month total. All already in the data; text layer checked against OCR of the rendered page. Counts and amounts add up to the printed totals.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2013",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2013 (65 pp.). ARI content on PDF pp. 13-15: entry into force 8 Oct 2012 and regulatory orders; 1,116 applications with nationality shares (China 80%, Brazil 3%, Russia 3%, Angola 2%, South Africa 2%, others 11%); 476 investor and 563 family approvals; 9 refusals (4 investors, 5 family); 348 investor and 405 family first permits issued; real estate 446 / EUR 270,361,097.81, capital transfer 30 / EUR 34,227,677.18, total EUR 304,588,774.99; glossary with the 2012 thresholds (already in program_terms from Law 29/2012); mentions of a Dec 2013 conference on investment and ARI (p. 14, 49). Added: nationality shares, family and total refusals, two regulatory events. Routes and amounts add up to the totals (446+30=476). Everything else is general immigration, borders and asylum, out of scope; cover/divider pages OCR-checked (blank).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2014",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2014 (69 pp.). ARI content on PDF p. 15 (plus mentions pp. 11, 14, 41 and glossary p. 60 with thresholds already in program_terms): 1,526 investor and 2,395 family approvals, 2 refusals, 1,405 investor and 1,922 family first permits, real estate 1,452 / EUR 840,425,983.31, capital transfer 71 / EUR 80,888,195.03, total EUR 921,314,178.34. All already in the data. Amounts add up; counts do not: 1,452 + 71 = 1,523 against 1,526 approvals (3 not assigned to a route in the text, presumably job creation, not printed). Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2015",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2015 (77 pp.). ARI content on PDF pp. 17-18 (plus mentions pp. 7, 10 of Law 63/2015 and DR 15-A/2015, both already events from the laws): 766 investor and 1,322 family approvals, 791 and 1,143 first permits, total EUR 465,259,797.63, real estate 719 / EUR 418,079,180.09, capital transfer 45 / EUR 47,180,617.54, top five nationalities (China 573, Brazil 39, Russia 33, South Africa 23, Lebanon 12); new route thresholds of Law 63/2015 (already in program_terms from the law). All already in the data. Amounts add up; counts do not: 719 + 45 = 764 against 766 (2 not assigned, not printed). Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2016",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2016 (84 pp.). ARI content on PDF pp. 16-17 (p. 64 lists foreign delegations that discussed ARI): 1,414 investor and 2,344 family approvals, 1,172 and 1,836 first permits, total EUR 874,444,320.10, real estate 1,329 / EUR 787,447,087.79, capital transfer 84 / EUR 86,997,232.31, job creation 1, top five nationalities. All already in the data; parts add up (1,329+84+1=1,414; amounts sum to total). Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2017",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2017 (83 pp.). ARI content on PDF pp. 17-18: 1,351 investor and 2,678 family approvals, 1,292 and 2,292 first permits, total EUR 844,088,897.77, real estate 1,204 / EUR 743,699,901.22, capital transfer 70 / EUR 73,448,564.84, job creation 2, top five nationalities. All already in the data. Does NOT add up: 1,204 + 70 + 2 = 1,276 against 1,351 approvals (75 missing) and EUR 817,148,466.06 against the EUR 844,088,897.77 total (EUR 26,940,431.71 missing); the report prints no figures for the newer routes (rehabilitation, research, culture, funds), which presumably make up the gap. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2018",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2018 (89 pp.). ARI content on PDF pp. 20-21 (abbreviation p. 7; portal update p. 24): 1,409 investor and 2,500 family approvals, 1,256 and 2,292 first permits, total EUR 838,532,935.27, real estate 1,332 / EUR 762,373,290.04, capital transfer 72 / EUR 76,159,645.23, job creation 5; no nationality list this year. All numbers already in the data; parts add up. Added: 2018 ARI portal update event. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2019",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2019 (93 pp.). ARI content on PDF pp. 25-26: 1,245 investor and 2,192 family approvals, 1,450 and 2,390 first permits, table of permits and investment by route (jobs 4; capital transfer 81 / EUR 81,725,202; real estate 1,160 / EUR 660,729,851; total 1,245 / EUR 742,455,053), top ten nationalities, and the legal-basis table line 'Reagrupamento familiar (Titular AR Investimento) 2.186'. Added: the 2,186 line (differs from the 2,390 in the text). Parts add up. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2020",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2020 (95 pp.). ARI content on PDF pp. 30-31: 1,182 investor and 2,043 family approvals, 1,132 and 1,949 first permits, table by route (jobs 0; capital transfer 88 / EUR 58,372,216; real estate 1,094 / EUR 588,357,249; total 1,182 / EUR 646,729,465), top ten nationalities, chart line 'Artº 98 nº 2 ARI 1.949' (same figure as the family first permits already in the data, not added again). All already in the data; parts add up. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2021",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2021 (105 pp.). ARI content on PDF pp. 40-41: 865 investor and 1,171 family approvals, 814 and 1,092 first permits, table by route (jobs 3; capital transfer 106 / EUR 51,450,030.71; real estate 756 / EUR 409,366,153.13; total 865 / EUR 460,816,183.84), top ten nationalities. All already in the data; parts add up. ARI family grants not among the top-ten legal bases this year. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-sef-rifa-2022",
+   "status": "complete",
+   "contains": "SEF annual immigration report 2022 (65 pp.). ARI content on PDF pp. 18-19: 1,281 investor and 1,588 family approvals, 1,193 and 1,458 first permits, table by route (jobs 2; capital transfer 271 / EUR 119,665,523.00; real estate 1,008 / EUR 534,626,804.91; total 1,281 / EUR 654,292,327.91), top ten nationalities. All already in the data; parts add up. Rest out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-tc-ac-1133-2025",
+   "status": "complete",
+   "contains": "Constitutional Court ruling 1133/2025 of 15 Dec 2025 on preventive review (requested by 50 MPs; filed 19 Nov 2025) of Decree 17/XVII amending the Nationality Law: strikes four norms (art. 6(1)(f), second part of art. 9(1)(a), art. 12-B(3), and the retroactive art. 7(3)-(4)) and upholds the rest, including the longer residence periods (7 years CPLP/EU, 10 years others) and the end of counting from the permit application. No numbers about the ARI programme; the only figure is about 400,000 pending regularisation cases at AIMA, quoted from Council of Ministers Resolution 87/2024 (general immigration, out of scope). The ruling is already an event; the residence-period rules are recorded as events from the law that followed (LO 1/2026). Nothing added.",
+   "to_do": ""
+  }
+ ]
+}
