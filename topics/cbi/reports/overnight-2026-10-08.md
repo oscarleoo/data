@@ -352,3 +352,18 @@ says what was done to it.
 - **Decisions needed:** Dominica rejections printed as both "210 (2023)" and "180 (2023)" (the 180 is
   probably 2024); Serbia has no programme in the dataset (row has none); Vanuatu lists "Republic of
   Korea" among restricted countries (probably North Korea meant; recorded as printed).
+
+### Whistleblowing: United States, batch 1 (pass `extract-whistleblowing-usa1`)
+- 20 documents reviewed: 18 complete, 2 partial.
+- Added 410 numbers, 2 rules, 6 cases, 9 events. Mostly CFTC whistleblower reports to Congress
+  FY2012-FY2025: every line of the reward fund table, award liabilities, final orders, denials,
+  notices of covered action, tips, and the FY2023 award counts that were missing (174 denied,
+  181 decided, 65 withdrawn, 41 orders). Trafigura ($55m, first CFTC case for gagging whistleblowers).
+  Two denied claimants from 2024 orders (anonymous). The Zafirov appeal ruling (1 September 2026).
+- Partial: the stored FY2012 and FY2013 reports lack their audited financial statements.
+- Did not add up: $1 rounding in three fund tables; FY2021 new awards $45,990 in the table vs
+  $45,851 in the footnote; FY2025 gives 1,503 tips for FY2023 vs 1,530 in the FY2023-24 reports;
+  an unexplained $10m transfer out of the fund in FY2025.
+- **Decisions needed:** 5 new indicators; scope calls behind "complete" (website statistics,
+  fund accounting detail, "about a third" of leads from tips are not recorded); two ids are the same
+  Zafirov file.
