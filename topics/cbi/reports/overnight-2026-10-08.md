@@ -594,3 +594,17 @@ says what was done to it.
   2026-05 approvals in principle 89 + 500 vs printed 599.
 - **Decisions needed:** two proposed indicators for headline investment figures (pipeline and committed);
   about 55 repeated rows (each version reprints the pre-2025 summary); early versions print a bare "$".
+
+### Dominica, batch 1 (pass `extract-cbi-dma1`)
+- 20 documents reviewed (IMF Article IV 2016-2024, budget addresses 2015/16-2026/27, CBI Unit brochures,
+  CRS Insight, EU regulation): 19 complete, 1 partial.
+- Added 637 numbers, 28 rules, 9 events: the programme revenue line in every IMF year and column (EC$, % of
+  GDP), balances excluding programme money, balance-of-payments inflows; the two programme bank accounts and
+  the full FY2015/16 project spending list (adds to 133,022,436.80); programme-funded hotel rooms, homes,
+  health centres, school, airport fund; 2015 fee schedule, 2023 agent licence fees, 30-day presence rule,
+  real-estate fees and holding periods.
+- Documents contradict themselves in places (IMF 2021 Table 1 vs 2b; 29.4% vs 28.6% of GDP in IMF 2023),
+  all recorded as printed with notes.
+- **Decisions needed:** 7 new indicators; existing rows from unmarked past IMF columns are labelled
+  "estimate" while new rows use "actual" (as the data model says): the old rows likely need correcting
+  (same issue as St Kitts).
