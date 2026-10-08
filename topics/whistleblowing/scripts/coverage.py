@@ -20,6 +20,8 @@ New sources start as not_reviewed. Nothing becomes complete without a review; sc
 enforces this. A summary goes to reports/coverage.txt.
 """
 import csv
+import glob
+import json
 import os
 from collections import Counter, defaultdict
 
@@ -36,9 +38,31 @@ def read(name):
     return list(csv.DictReader(open(path, encoding="utf-8"))) if os.path.exists(path) else []
 
 
+def in_progress():
+    """inbox files an extraction pass is still writing (listed one per line in _inbox/IN_PROGRESS); skipped"""
+    p = os.path.join(HERE, "_inbox", "IN_PROGRESS")
+    return set(open(p).read().split()) if os.path.exists(p) else set()
+
+
 def main():
     sources = read("sources.csv")
     old = {r["source_id"]: r for r in read("extraction_status.csv")}
+    # reviews recorded by extraction passes (_inbox/<slug>.json, "ledger"), oldest first so the latest wins;
+    # a later hand edit in extraction_status.csv with a newer reviewed_on date is kept
+    for path in sorted((p for p in glob.glob(os.path.join(HERE, "_inbox", "*.json")) if os.path.basename(p) not in in_progress()), key=lambda p: json.load(open(p)).get("researched_on", "")):
+        doc = json.load(open(path, encoding="utf-8"))
+        slug = doc.get("slug") or os.path.basename(path)[:-5]
+        for e in doc.get("ledger", []):
+            cur = old.setdefault(e["source_id"], {})
+            if cur.get("reviewed_on", "") > doc.get("researched_on", ""):
+                continue
+            cur.update({
+                "status": e.get("status", "not_reviewed"),
+                "contains": e.get("contains", ""),
+                "to_do": e.get("to_do", ""),
+                "reviewed_by": f"extraction pass {slug} (AI agent)",
+                "reviewed_on": doc.get("researched_on", ""),
+            })
     obs = read("observations.csv")
     rules = read("program_terms.csv") or read("program_rules.csv")
     events, cases = read("events.csv"), read("cases.csv")

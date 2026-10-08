@@ -70,6 +70,12 @@ def sha256_of(path):
     return h.hexdigest()
 
 
+def in_progress():
+    """inbox files an extraction pass is still writing (listed one per line in _inbox/IN_PROGRESS); skipped"""
+    p = os.path.join(HERE, "_inbox", "IN_PROGRESS")
+    return set(open(p).read().split()) if os.path.exists(p) else set()
+
+
 def main():
     tables = {name: {} for name in COLUMNS}
     keys = {
@@ -81,7 +87,7 @@ def main():
         for r in read(name):
             tables[name][r[key]] = r
 
-    inbox = sorted(glob.glob(os.path.join(HERE, "_inbox", "*.json")))
+    inbox = [p for p in sorted(glob.glob(os.path.join(HERE, "_inbox", "*.json"))) if os.path.basename(p) not in in_progress()]
     for path in inbox:
         with open(path, encoding="utf-8") as f:
             doc = json.load(f)

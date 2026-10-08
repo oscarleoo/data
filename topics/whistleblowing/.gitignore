@@ -5,3 +5,4 @@ __pycache__/
 
 # Too large for git (>50 MB) or not redistributable: listed here as they come up
 _tessdata
+_inbox/IN_PROGRESS
