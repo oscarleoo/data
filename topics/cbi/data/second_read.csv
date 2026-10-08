@@ -5484,3 +5484,117 @@ o-cf76375c30,"492,154,103",,1,Estimate 2022/2023,PDF p. 75,"Citizenship by Inves
 o-093ca10df0,"889,60",,million,Osszeg millio EUR-ban,PDF p. 52,"Osszesen 278 551,55 889,60 (Letelepedesi kotveny)",high,Table in million EUR; scale million; 889.60 million EUR as of 2015 table (maturities 2018-2020),claude-sonnet-5,2026-10-03,1,no
 o-ff43dfa0dd,"over 35,400",,1,text,HTML chapter 2,"formal approval had been given for over 35,400 applicants to reside in Hong Kong",high,"""over"" qualifier; as at 31 Dec 2022; CIES suspended 15 Jan 2015",claude-sonnet-5,2026-10-03,1,no
 o-c0f591fe3f,316.9,,billion,text,HTML chapter 2,bringing the total investment amounting to $316.9 billion,high,"HK$ (printed ""$""); scale billion",claude-sonnet-5,2026-10-03,1,no
+o-0e26532dc7,6.405,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,CHN 6.405,high,,claude-sonnet-5,2026-10-08,1,no
+o-81c4a86979,807,,1,ΑΡΧΙΚΗ ΧΟΡΗΓΗΣΗ,PDF p. 5,other 807,high,,claude-sonnet-5,2026-10-08,1,no
+o-0c165b06ca,46,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,SYR 46,high,,claude-sonnet-5,2026-10-08,1,no
+o-989d73fc32,145,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 5,other 145,high,,claude-sonnet-5,2026-10-08,1,no
+o-5d318627ae,6.159,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,CHN 6.159,high,,claude-sonnet-5,2026-10-08,1,no
+o-729e7994c9,631,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,TUR 631,high,,claude-sonnet-5,2026-10-08,1,no
+o-262363421c,440,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,LBN 440,high,,claude-sonnet-5,2026-10-08,1,no
+o-d9b233d101,399,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,RUS 399,high,,claude-sonnet-5,2026-10-08,1,no
+o-018ddfd66e,280,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,EGY 280,high,,claude-sonnet-5,2026-10-08,1,no
+o-9a29aadc89,277,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,IRN 277,high,,claude-sonnet-5,2026-10-08,1,no
+o-c1df8bbb70,197,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,GBR 197,high,,claude-sonnet-5,2026-10-08,1,no
+o-3d14fd6aac,178,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,USA 178,high,,claude-sonnet-5,2026-10-08,1,no
+o-ad093e2a05,101,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,ISR 101,high,,claude-sonnet-5,2026-10-08,1,no
+o-c5283567fc,87,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,VNM 87,high,,claude-sonnet-5,2026-10-08,1,no
+o-233f340efb,1.053,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 11,other 1.053,high,,claude-sonnet-5,2026-10-08,1,no
+o-c6a0a47193,487,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,CHN 487,high,,claude-sonnet-5,2026-10-08,1,no
+o-22fbd5cd85,367,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,RUS 367,high,,claude-sonnet-5,2026-10-08,1,no
+o-5aeb2e3bfa,153,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,TUR 153,high,,claude-sonnet-5,2026-10-08,1,no
+o-b2ccd34dd7,109,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,EGY 109,high,,claude-sonnet-5,2026-10-08,1,no
+o-24c18ae132,73,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,LBN 73,high,,claude-sonnet-5,2026-10-08,1,no
+o-c77a303955,58,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,IRQ 58,high,,claude-sonnet-5,2026-10-08,1,no
+o-acc67e26d7,56,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,IRN 56,high,,claude-sonnet-5,2026-10-08,1,no
+o-8e2eb34278,49,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,UKR 49,high,,claude-sonnet-5,2026-10-08,1,no
+o-ad4586e66d,45,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,JOR 45,high,,claude-sonnet-5,2026-10-08,1,no
+o-f45496755a,38,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,SYR 38,high,,claude-sonnet-5,2026-10-08,1,no
+o-21b0e25d43,195,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 11,other 195,high,,claude-sonnet-5,2026-10-08,1,no
+o-50cfef0ee2,7.385,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,CHN 7.385,high,,claude-sonnet-5,2026-10-08,1,no
+o-fab272061f,753,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,TUR 753,high,,claude-sonnet-5,2026-10-08,1,no
+o-e4c822cadf,615,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,LBN 615,high,,claude-sonnet-5,2026-10-08,1,no
+o-79e58d196f,392,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,IRN 392,high,,claude-sonnet-5,2026-10-08,1,no
+o-73980c501e,382,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,GBR 382,high,,claude-sonnet-5,2026-10-08,1,no
+o-d2ba45efcc,333,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,EGY 333,high,,claude-sonnet-5,2026-10-08,1,no
+o-4881fd9ba4,313,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,RUS 313,high,,claude-sonnet-5,2026-10-08,1,no
+o-674fabe4ed,276,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,USA 276,high,,claude-sonnet-5,2026-10-08,1,no
+o-3f93f0e604,188,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ISR 188,high,,claude-sonnet-5,2026-10-08,1,no
+o-2af877988c,109,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,UKR 109,high,,claude-sonnet-5,2026-10-08,1,no
+o-37cdb9dacf,1.380,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,other 1.380,high,,claude-sonnet-5,2026-10-08,1,no
+o-ffd7e232cf,1375,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,CHN 1375,high,,claude-sonnet-5,2026-10-08,1,no
+o-901497fed6,411,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,RUS 411,high,,claude-sonnet-5,2026-10-08,1,no
+o-6880e92ba4,317,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,TUR 317,high,,claude-sonnet-5,2026-10-08,1,no
+o-c9a2ee0f52,133,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,EGY 133,high,,claude-sonnet-5,2026-10-08,1,no
+o-0736598690,122,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRN 122,high,,claude-sonnet-5,2026-10-08,1,no
+o-552a72c29b,101,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,LBN 101,high,,claude-sonnet-5,2026-10-08,1,no
+o-9110a01f8f,82,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRQ 82,high,,claude-sonnet-5,2026-10-08,1,no
+o-a4b68c1d0a,67,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,UKR 67,high,,claude-sonnet-5,2026-10-08,1,no
+o-cbafb879c5,64,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,SYR 64,high,,claude-sonnet-5,2026-10-08,1,no
+o-5d3ebcc1ba,63,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,JOR 63,high,,claude-sonnet-5,2026-10-08,1,no
+o-20d510ecbe,300,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,other 300,high,,claude-sonnet-5,2026-10-08,1,no
+o-8b6fc52bda,6.457,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,CHN 6.457,high,,claude-sonnet-5,2026-10-08,1,no
+o-85c73a1661,1.268,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,TUR 1.268,high,,claude-sonnet-5,2026-10-08,1,no
+o-a0a728e9b8,765,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,LBN 765,high,,claude-sonnet-5,2026-10-08,1,no
+o-396b97feb5,544,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,GBR 544,high,,claude-sonnet-5,2026-10-08,1,no
+o-7b0a211407,535,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,IRN 535,high,,claude-sonnet-5,2026-10-08,1,no
+o-21ff9b8a3a,404,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,EGY 404,high,,claude-sonnet-5,2026-10-08,1,no
+o-8f31019e90,388,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,USA 388,high,,claude-sonnet-5,2026-10-08,1,no
+o-22b40d4d1f,332,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ISR 332,high,,claude-sonnet-5,2026-10-08,1,no
+o-95c62d2dc0,223,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,RUS 223,high,,claude-sonnet-5,2026-10-08,1,no
+o-8f7cb18ad8,153,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,UKR 153,high,,claude-sonnet-5,2026-10-08,1,no
+o-246dd1edff,1.859,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,other 1.859,high,,claude-sonnet-5,2026-10-08,1,no
+o-2b3e64e412,2.522,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,CHN 2.522,high,,claude-sonnet-5,2026-10-08,1,no
+o-03a1e7fc4c,424,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,RUS 424,high,,claude-sonnet-5,2026-10-08,1,no
+o-76d5e8d863,409,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,TUR 409,high,,claude-sonnet-5,2026-10-08,1,no
+o-b6173d81be,172,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,EGY 172,high,,claude-sonnet-5,2026-10-08,1,no
+o-958ae23979,168,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRN 168,high,,claude-sonnet-5,2026-10-08,1,no
+o-58ff074b99,128,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,LBN 128,high,,claude-sonnet-5,2026-10-08,1,no
+o-a070fa2685,93,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRQ 93,high,,claude-sonnet-5,2026-10-08,1,no
+o-1d2eb65abf,73,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,UKR 73,high,,claude-sonnet-5,2026-10-08,1,no
+o-d7840ea856,71,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,SYR 71,high,,claude-sonnet-5,2026-10-08,1,no
+o-505bda5662,67,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,JOR 67,high,,claude-sonnet-5,2026-10-08,1,no
+o-b1b5b5c295,400,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,other 400,high,,claude-sonnet-5,2026-10-08,1,no
+o-150b8f6c39,9.926,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,CHN 9.926,high,,claude-sonnet-5,2026-10-08,1,no
+o-d0615af080,3.291,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,TUR 3.291,high,,claude-sonnet-5,2026-10-08,1,no
+o-53b0fa902b,994,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,LBN 994,high,,claude-sonnet-5,2026-10-08,1,no
+o-11e653d09e,816,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,IRN 816,high,,claude-sonnet-5,2026-10-08,1,no
+o-4929084ef6,797,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,GBR 797,high,,claude-sonnet-5,2026-10-08,1,no
+o-8f9caae1c0,636,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ISR 636,high,,claude-sonnet-5,2026-10-08,1,no
+o-827bea49ca,578,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,USA 578,high,,claude-sonnet-5,2026-10-08,1,no
+o-664ce150aa,558,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,EGY 558,high,,claude-sonnet-5,2026-10-08,1,no
+o-2149a99964,233,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ARM 233,high,,claude-sonnet-5,2026-10-08,1,no
+o-5c5ca0aece,208,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,SRB 208,high,,claude-sonnet-5,2026-10-08,1,no
+o-2747e49c14,2.695,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,other 2.695,high,,claude-sonnet-5,2026-10-08,1,no
+o-b0d697c40c,4.607,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,CHN 4.607,high,,claude-sonnet-5,2026-10-08,1,no
+o-3fb15cbc91,521,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,TUR 521,high,,claude-sonnet-5,2026-10-08,1,no
+o-6c07aa7361,441,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,RUS 441,high,,claude-sonnet-5,2026-10-08,1,no
+o-d6e5a11b64,223,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRN 223,high,,claude-sonnet-5,2026-10-08,1,no
+o-b76a8b1e48,213,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,EGY 213,high,,claude-sonnet-5,2026-10-08,1,no
+o-750208dfa7,182,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,LBN 182,high,,claude-sonnet-5,2026-10-08,1,no
+o-411b386b64,96,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRQ 96,high,,claude-sonnet-5,2026-10-08,1,no
+o-e55ea6aedc,83,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,JOR 83,high,,claude-sonnet-5,2026-10-08,1,no
+o-ed071896cc,79,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,SYR 79,high,,claude-sonnet-5,2026-10-08,1,no
+o-a2eab21403,74,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,UKR 74,high,,claude-sonnet-5,2026-10-08,1,no
+o-5d1e076bfe,535,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,other 535,high,,claude-sonnet-5,2026-10-08,1,no
+o-6fce3e226e,12.664,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,CHN 12.664,high,,claude-sonnet-5,2026-10-08,1,no
+o-e9eef62405,5.107,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,TUR 5.107,high,,claude-sonnet-5,2026-10-08,1,no
+o-92e7820675,1.169,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,LBN 1.169,high,,claude-sonnet-5,2026-10-08,1,no
+o-f2100c9a46,1.010,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,IRN 1.010,high,,claude-sonnet-5,2026-10-08,1,no
+o-23246c8440,849,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ISR 849,high,,claude-sonnet-5,2026-10-08,1,no
+o-2b13511a27,840,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,GBR 840,high,,claude-sonnet-5,2026-10-08,1,no
+o-cfc12e6bcd,660,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,EGY 660,high,,claude-sonnet-5,2026-10-08,1,no
+o-c9f2040eef,642,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,USA 642,high,,claude-sonnet-5,2026-10-08,1,no
+o-c8d9f22b54,279,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,ARM 279,high,,claude-sonnet-5,2026-10-08,1,no
+o-6b725146e1,224,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,SRB 224,high,,claude-sonnet-5,2026-10-08,1,no
+o-e8db39144c,3.246,,1,ΑΡΧ. ΧΟΡΗΓΗΣΗ,PDF p. 10,other 3.246,high,,claude-sonnet-5,2026-10-08,1,no
+o-87301c24ba,5.288,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,CHN 5.288,high,,claude-sonnet-5,2026-10-08,1,no
+o-efad008361,596,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,TUR 596,high,,claude-sonnet-5,2026-10-08,1,no
+o-d38db29e68,480,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,RUS 480,high,,claude-sonnet-5,2026-10-08,1,no
+o-454ebb4533,265,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRN 265,high,,claude-sonnet-5,2026-10-08,1,no
+o-366ca36dad,235,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,EGY 235,high,,claude-sonnet-5,2026-10-08,1,no
+o-27ce668e50,228,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,LBN 228,high,,claude-sonnet-5,2026-10-08,1,no
+o-b6003c0b03,96,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,IRQ 96,high,,claude-sonnet-5,2026-10-08,1,no
+o-e2c1475714,93,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,SYR 93,high,,claude-sonnet-5,2026-10-08,1,no
+o-1750e4efc2,86,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,USA 86,high,,claude-sonnet-5,2026-10-08,1,no
+o-e84d79a899,83,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,JOR 83,high,,claude-sonnet-5,2026-10-08,1,no
+o-4adcc07c0f,619,,1,ΑΝΑΝΕΩΣΗ/ΕΠΑΝΕΚΔΟΣΗ,PDF p. 10,other 619,high,,claude-sonnet-5,2026-10-08,1,no

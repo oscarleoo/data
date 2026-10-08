@@ -26,7 +26,7 @@ pass: 3 October 2026, followed by a consistency audit (see "Corrections" in
 
 | | rows |
 |---|---|
-| Numbers (`data/observations.csv`) | 6,563 |
+| Numbers (`data/observations.csv`) | 6,677 |
 | Sources (`data/sources.csv`) | 1,443, of which 1,267 have a stored copy in `raw/` |
 | Programme terms, such as minimum investment by route and date (`data/program_terms.csv`) | 776 |
 | Events: launches, rule changes, visa decisions, court rulings (`data/events.csv`) | 771 |
@@ -34,7 +34,7 @@ pass: 3 October 2026, followed by a consistency audit (see "Corrections" in
 | Headline price per programme, checked by hand (`data/headline_prices.csv`) | 128 |
 | Indicators and their definitions (`data/indicators.csv`) | 121 |
 
-Numbers per jurisdiction (ISO codes): USA 834, PRT 646, HKG 606, LVA 462, NZL 425, KNA 390, AUS 256, IRL 249, CAN 211, PAN 181, MLT 175, DMA 165, GRD 157, LCA 150, GBR 138, ESP 127, GRC 120, ATG 112, MNE 105, VUT 99, PHL 91, HUN 90, CYP 83, AUT 74, MYS 64, BMU 60, BRA 56, INTL 46, TUR 44, BGR 37, SGP 31, COM 23, MKD 23, THA 23, ARE 18, NRU 16, KOR 14, MDA 14, CHE 13, EGY 13, IDN 12, ITA 12, TON 12, OMN 11, JOR 10, EST 9, SAU 9, KHM 7, LUX 7, MUS 6, SVK 6, MCO 5, BHR 4, BHS 3, NLD 2, POL 2, FRA 1, MHL 1, SLE 1, STP 1, VCT 1.
+Numbers per jurisdiction (ISO codes): USA 834, PRT 646, HKG 606, LVA 462, NZL 425, KNA 390, AUS 256, IRL 249, GRC 234, CAN 211, PAN 181, MLT 175, DMA 165, GRD 157, LCA 150, GBR 138, ESP 127, ATG 112, MNE 105, VUT 99, PHL 91, HUN 90, CYP 83, AUT 74, MYS 64, BMU 60, BRA 56, INTL 46, TUR 44, BGR 37, SGP 31, COM 23, MKD 23, THA 23, ARE 18, NRU 16, KOR 14, MDA 14, CHE 13, EGY 13, IDN 12, ITA 12, TON 12, OMN 11, JOR 10, EST 9, SAU 9, KHM 7, LUX 7, MUS 6, SVK 6, MCO 5, BHR 4, BHS 3, NLD 2, POL 2, FRA 1, MHL 1, SLE 1, STP 1, VCT 1.
 
 When a source splits a number (by nationality, investment route, applicant type), the split is in the `breakdown` column, for example `nationality=CHN` or `route=real_estate;nationality=RUS`.
 
@@ -120,8 +120,8 @@ A few examples of what this shows:
   even if the original moves or changes. News articles and industry reports are
   linked, with an archive link where we have one, and not stored.
 - `scripts/verify_quotes.py` looks for every quote in the text of the stored
-  copy (with OCR in 29 languages for scans). Of the 8,110 quoted rows,
-  7,550 cite a stored document: 6,120 quotes were found verbatim,
+  copy (with OCR in 29 languages for scans). Of the 8,224 quoted rows,
+  7,664 cite a stored document: 6,234 quotes were found verbatim,
   866 matched as a table row put back together from its cells,
   96 were checked by eye against the page image or text, and 465
   (quotes rebuilt from table cells or chart labels) had the number itself
@@ -133,8 +133,8 @@ A few examples of what this shows:
   `data/quote_checks.csv`.
 - **A blind second reading.** A different AI model (Claude Sonnet 5) was
   given each number's document, page, indicator, period and kind of figure,
-  but not the value, and read the number itself. It read 5,445
-  numbers: 5,333 came out the same. The other 112
+  but not the value, and read the number itself. It read 5,559
+  numbers: 5,447 came out the same. The other 112
   were checked on the page: in 95 the first reading was right (the
   second reader took a neighbouring row or column, used the wrong fiscal-year
   convention, misread a scan, or wrote the same figure differently), and in
