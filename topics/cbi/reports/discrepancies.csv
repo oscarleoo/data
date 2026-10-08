@@ -836,6 +836,7 @@ HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-02-28,HKD,27,billion,27000
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-04-30,HKD,16485,million,16485000000.0,actual,hkg-investhk-pr-new-cies-first-year-2025,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2025-05-25,55.4,vintage,o-9de3e25ecd
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-04-30,HKD,37,billion,37000000000.0,projection,hkg-investhk-pr-new-cies-first-year-2025,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2025-05-25,55.4,vintage,o-1f990d4545
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,55636,million,55636000000.0,actual,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-658d3ca1b1
+HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,55636,million,55636000000.0,actual,hkg-investhk-pr-new-cies-two-year-2026-appendix,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-60e27deb32
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,95,billion,95000000000.0,projection,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-a62bbc3afe
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19838,1,19838.0,reported,hun-444-revocations-2018,444.hu,2018-12-06,0.2,conflict,o-e43b14fe23
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19885,1,19885.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.2,conflict,o-68ed04f55c

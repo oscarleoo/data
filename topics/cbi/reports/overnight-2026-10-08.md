@@ -318,3 +318,15 @@ says what was done to it.
   rows from the same tables say "estimate"; Comoros programme end (IMF says September 2013, other sources
   May 2016; recorded as a separate event). The low-resolution OCR the quote checker uses reads the
   US$150,000 limited-time price as "190.000"; two sharper passes read 150,000.
+
+### Hong Kong, batch 2 (pass `extract-cbi-hkg2`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 35 numbers, 8 rules, 2 events. Mostly InvestHK releases on the new investment scheme
+  (2024-2026): enquiry counts, 918 applications in the first scheme year, investment by asset class
+  (amounts and shares), online applications from 16 September 2024, the March 2026 family-office
+  conditions (HK$240m assets, HK$2m yearly spending).
+- Every table adds up (statistics pages, the 2008 country table of 1,114, both asset-class tables).
+- Partial: the 2005 Legislative Council reply's processing target ("90 per cent within six weeks") and
+  staffing have no measure yet.
+- **Decisions needed:** a proposed `rbi_investment_share` indicator; one event about the March 2026
+  measure now appears twice (from two sources).
