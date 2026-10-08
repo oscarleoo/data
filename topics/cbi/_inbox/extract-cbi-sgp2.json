@@ -1,0 +1,133 @@
+{
+  "slug": "extract-cbi-sgp2",
+  "researched_on": "2026-10-08",
+  "summary": "Full-extraction pass over nine Singapore parliamentary written answers and one police release (GIP statistics, family offices, the S$3 billion money-laundering case). Most programme numbers were already in the data from the first Singapore pass; this pass adds the age range of GIP PRs granted citizenship (to June 2017), the landed-property purchases by citizens who first got PR through the GIP (2004-2021), and the S$2.5m minimum as stated in the 2010 answer. Money-laundering asset figures and family-office tax-incentive employment figures are not about an investment-migration programme and are left out (see ledger).",
+  "sources": [],
+  "observations": [
+    {
+      "jurisdiction": "SGP",
+      "program_id": "sgp-gip",
+      "indicator": "grantee_age_years",
+      "breakdown": "category=citizenship_grant",
+      "period": "2004-2017-06",
+      "period_basis": "cumulative",
+      "value": "25",
+      "value_high": "58",
+      "unit": "years",
+      "scale": "1",
+      "status": "actual",
+      "source_id": "sgp-parl-wa-gip-2017",
+      "location": "written answer, para 1",
+      "quote": "The age at which they were granted citizenship varies between 25 and 58 years old.",
+      "notes": "Age range (youngest to oldest) at which the 67 GIP PRs (of 1,826 granted PR from 2004 to June 2017) were granted Singapore citizenship. The question asked for a breakdown by age group; the answer gives only the range."
+    },
+    {
+      "jurisdiction": "SGP",
+      "program_id": "sgp-gip",
+      "indicator": "property_purchases_by_programme_participants",
+      "breakdown": "category=landed_residential",
+      "period": "2004-2021",
+      "period_basis": "cumulative",
+      "value": "21",
+      "value_high": "",
+      "unit": "purchases",
+      "scale": "1",
+      "status": "actual",
+      "source_id": "sgp-parl-wa-gip-landed-2022",
+      "location": "written answer, para 2",
+      "quote": "This group of citizens, who first obtained PR status through GIP, accounted for a total of 21 landed property purchases over 18 years from 2004 to 2021.",
+      "notes": "Landed residential property purchases by Singapore citizens who first obtained PR through the GIP (PRs and foreigners may not buy landed property under the Residential Property Act). Not a GIP investment route: property has not been a GIP investment option since 2011. The answer compares this with an average of 2,400 landed transactions a year over the last seven years (market-wide figure, not recorded)."
+    }
+  ],
+  "program_terms": [
+    {
+      "program_id": "sgp-gip",
+      "route": "investment",
+      "valid_from": "2011-01-01",
+      "valid_to": "",
+      "min_amount": "2500000",
+      "currency": "SGD",
+      "applies_to": "main applicant",
+      "source_id": "sgp-parl-wa-gip-2010",
+      "location": "col. 1607",
+      "quote": "With effect from 1st January 2011, a minimum investment of $2.5 million is required to qualify for the GIP.",
+      "notes": "Minister's statement of the minimum from 1 Jan 2011, any route (business or approved fund, per the rest of the answer). '$' read as Singapore dollars: the same answer compares it with other countries' minima in S$ ('S$1.1 million to S$2 million range'). Same term as t-d0f1b1fec4 and t-3f52a2e5b1 (factsheets); end date not given in this document (other sources: replaced 15 Mar 2023)."
+    }
+  ],
+  "events": [],
+  "programs": [],
+  "new_indicators": [
+    {
+      "indicator": "grantee_age_years",
+      "name": "Age of programme participants at a grant",
+      "definition": "Age (range, with value the youngest and value_high the oldest, or an average if notes say so) of people at the time they were granted residence or citizenship through, or after holding status under, an investment-migration programme, as printed by the source. Use breakdown category= for the grant (e.g. citizenship_grant).",
+      "unit_kind": "years",
+      "notes": "Proposed by extract-cbi-sgp2 for Singapore written answer of 1 Aug 2017 (67 GIP PRs granted citizenship at ages 25 to 58). Age-bracket shares stay in applicant_profile_share."
+    },
+    {
+      "indicator": "property_purchases_by_programme_participants",
+      "name": "Property purchases by programme participants (outside the programme)",
+      "definition": "Number of property purchases in a period by people who obtained residence or citizenship through an investment-migration programme, made outside any real-estate investment route of the programme, as stated by the source. Use breakdown category= for the property type.",
+      "unit_kind": "purchases",
+      "notes": "Proposed by extract-cbi-sgp2 for Singapore written answer of 9 May 2022 (21 landed purchases 2004-2021 by citizens who first got PR through the GIP). Not properties_acquired_for_cbi, which counts purchases under a programme's real-estate route."
+    }
+  ],
+  "gaps": [],
+  "leads": [],
+  "ledger": [
+    {
+      "source_id": "sgp-parl-wa-gip-2010",
+      "status": "complete",
+      "contains": "Whole sitting of 22 Nov 2010 (written answers, Official Report vol. 87) as returned by the SPRS API; only answer 6, 'Global Investor Programme' (cols 1605-1607), concerns the programme, the rest (MoneySENSE, spa closures, littering, sexuality education, etc.) is unrelated. The GIP answer: S$2.5m minimum from 1 Jan 2011; close to 1,000 investors over the past three years who invested over $1.5 billion; close to 100 invested directly in businesses, creating some 1,500 jobs; investors 'predominantly from North-East Asia and South-East Asia' (words only, no numbers); footnote comparing other countries' investor-PR minima (Australia AUD 1.5m/S$1.9m, Canada CAD 0.8m/S$1.1m, US USD 1m/S$1.3m, UK GBP 1m/S$2.07m). The four statistics were already recorded; this pass adds the S$2.5m minimum as a term from this source. The foreign comparators are about other countries' programmes as cited by Singapore's minister and are not recorded (the dataset holds those programmes' terms from their own sources).",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-gip-2017",
+      "status": "complete",
+      "contains": "Written answer of 1 Aug 2017: 1,826 GIP applicants granted PR from 2004 to June 2017; 67 later granted citizenship, at ages between 25 and 58; one GIP investor's PR revoked on review. The three counts and the 2004 start event were already recorded; this pass adds the age range (new indicator grantee_age_years). No breakdown by age group or nationality is given.",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-gip-2026",
+      "status": "complete",
+      "contains": "Written answer of 7 Apr 2026: of people accorded GIP PR 2016-2025, around 85% still PR at 31 Dec 2025; fewer than 25 had re-entry permits not renewed (criteria such as economic contribution and length of residency); fewer than 20 granted citizenship. All three already recorded; nothing further in the answer.",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-gip-landed-2022",
+      "status": "complete",
+      "contains": "Written answer of 9 May 2022 on a minimum occupation period for new citizens buying landed property: RPA bars foreigners incl. PRs from landed property; only a small number of GIP PRs became citizens; these accounted for 21 landed property purchases from 2004 to 2021 (added, new indicator property_purchases_by_programme_participants); market comparison of an average of 2,400 landed transactions a year over the last seven years (market-wide, not about the programme, not recorded). No events or rules on the programme.",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-ml-assets-2025",
+      "status": "complete",
+      "contains": "Written answer of 26 Feb 2025 on assets surrendered in the S$3 billion money-laundering case as of Dec 2024: about $2.79 billion surrendered ($1.54 billion cash or financial assets); 54 properties, 33 vehicles and 11 country club memberships liquidated; about $1.8 million paid into the Consolidated Fund, another $390 million pending in FY2024; police costs over $600,000 in FY2023 to maintain the assets. The case is recorded as an event (several accused held foreign CBI passports; none linked to the GIP); the asset figures concern the criminal case, not an investment-migration programme, so they are not recorded as observations (the existing event quotes the S$2.79bn and S$1.54bn).",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-sfo-2023",
+      "status": "complete",
+      "contains": "Written answer of 6 Jul 2023 on single family offices (SFOs): MAS has data only on SFOs with section 13O/13U tax incentives; as at June 2022 these employed about 1,400 Singaporeans and PRs, about 900 jobs created in the last three years, two-thirds earned more than S$5,000 a month, more than 400 S$2,000-5,000, fewer than 50 below S$2,000; MAS announced tax-incentive changes the day before; the tax incentives do not confer PR or citizenship; about 30 SFO owners supported under the GIP since 2020 (already recorded); March 2023 GIP change requiring SFO applicants to deploy S$50 million (already in terms and events); PR/citizenship assessment factors (words). The SFO employment and wage figures are about the MAS tax-incentive scheme, which the answer says gives no residence rights; not recorded (no indicator, and not programme jobs: rbi_jobs_created is for businesses of programme investors).",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-sfo-2024",
+      "status": "complete",
+      "contains": "Written answer of 6 Mar 2024: around 1,400 SFOs awarded tax incentives at 31 Dec 2023 (already recorded); workforce mostly local, slightly more than half male, about 10% under 30, 35% 30-40, 55% over 40; most SFOs have fewer than 20 employees; SSIC codes used. Only the SFO count was in scope as context (sfo_tax_incentive_recipients); workforce shares describe SFO employees under a tax scheme that confers no residence and are not recorded.",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-parl-wa-sfo-ml-2024",
+      "status": "complete",
+      "contains": "Written answer of 2 Jul 2024: six SFO funds with tax incentives linked to people convicted in the money-laundering case or their spouses; tax benefits withdrawn from the year of charge or conviction, earlier benefits not clawed back unless conditions breached; assets forfeited far exceed tax benefits (no figure). Already recorded as an event; no programme numbers (the tax incentive is not a residence programme).",
+      "to_do": ""
+    },
+    {
+      "source_id": "sgp-spf-mr-ml-2023",
+      "status": "complete",
+      "contains": "Singapore Police release of 16 Aug 2023 (Wayback copy): ten foreign nationals aged 31-44 arrested on 15 Aug 2023, none Singapore citizens or PRs; per-person nationality, other passports held (incl. Cyprus, Vanuatu, St Kitts and Nevis, Turkey, Cambodia, 'Dominican Republic'), cash seized, properties and vehicles under prohibition-of-disposal orders, bank accounts frozen, charges; totals (94 properties and 50 vehicles worth more than S$815 million, more than 35 accounts with more than S$110 million, cash more than S$23 million); annex photos of seized items and passports (images not in the stored HTML copy; photos, not tables). The CBI-passport link is recorded as an event; the seizure figures concern the criminal case, not a programme, and are not recorded.",
+      "to_do": ""
+    }
+  ]
+}
