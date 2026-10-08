@@ -749,3 +749,9 @@ says what was done to it.
   21 landed-property purchases 2004-2021 by citizens who first got PR through the GIP; the S$2.5m minimum
   from 2011.
 - Singapore now: all 31 stored Singapore documents reviewed, all complete (checked in the ledger).
+
+### Dominica, batch 3 (pass `extract-cbi-dma3`)
+- 2 documents: the June 2024 regulations (S.R.O. 8 of 2024: 32 fee rules, family and dependant prices,
+  real-estate government fee, due-diligence and agent fees, resale limits; 1 event) and the 2023 UK visa
+  statement (1 Vanuatu event). Both complete.
+- Dominica now: all 43 stored Dominica documents reviewed (40 complete, 3 partial; checked in the ledger).
