@@ -819,3 +819,15 @@ says what was done to it.
 - **Decisions needed:** Finance Act 2020 changes start 2 September 2020 (existing rows use 7 August, the Act's
   date); the 2023 senior-living route is deemed in force from 27 April 2019 (existing rows say 20 July 2023);
   the 2003 citizenship consolidation prints "5,000 US dollars" where the 1999 Act says 500,000.
+
+### United Kingdom, batch 1 (pass `extract-cbi-gbr1`)
+- 20 documents reviewed: 18 complete, 1 partial, 1 not applicable.
+- Added 6,531 numbers, 21 rules: every Investor cell in the Home Office datasets: extensions by quarter,
+  nationality, main/dependant and outcome 2010-2025; switches in and out of the route; settlement by
+  nationality 2008-2018 and 2020-2025 (with printed zeros, about 2,300); entry visas by quarter 2008-2018;
+  MAC 2014 review; immigration rule changes 2011-2022.
+- Every table with a printed total adds up.
+- Partial: MAC 2014 charts with no printed values; its tables on other countries' programmes.
+- Gap: the Home Office dataset of Investor visas by nationality after 2018 isn't stored (lead).
+- **Decisions needed:** 3 new indicators; Home Office "extensions" include people switching in (recorded as
+  renewals with notes); keep or drop printed zero cells.
