@@ -726,3 +726,19 @@ says what was done to it.
 - The stored 2018/19 volume lacks printed pages 104-132 (including the CBI Unit's budget page).
 - **Decision needed:** same IMF status question as St Kitts (older rows say "estimate" for unmarked past
   years; rule says "actual").
+
+### Whistleblowing: United States, batches 4 and 5 (passes `extract-whistleblowing-usa4`, `-usa5`)
+- 40 documents reviewed: 39 complete, 1 not applicable.
+- Added 2,794 numbers, 29 rules, 30 cases, 2 events.
+  - Justice Department fraud statistics FY1987-FY2023 and FY1987-FY2024 editions: every cell of the four
+    tables (new matters, qui tam vs non-qui tam, recoveries, relator share awards; overall, HHS, Defense,
+    other). Before tonight only about 300 of these cells were in the data. Counts add up exactly; dollars
+    within $1-3 (rounding in the source).
+  - False Claims Act yearly releases FY2007-FY2025: recoveries by sector, relator-share rules as restated,
+    cases each release links to a whistleblower suit.
+  - GSK 2012 settlement agreement (six relators named in it), HCA 2003 and J&J 2013 sub-cases.
+- Fixed: an existing J&J case note still described a computed award that had already been removed.
+- **Decisions needed:** three cases recorded because DOJ "intervened" (only possible in a whistleblower suit,
+  but the release doesn't say qui tam); three pairs of sources are duplicate copies of one release (GSK, Pfizer,
+  UBS), and GSK and Pfizer each have two case rows for one settlement; relator names missing from two existing
+  cases (Lilly, Wyeth) where DOJ or the case caption names them.
