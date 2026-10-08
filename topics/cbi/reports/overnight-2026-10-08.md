@@ -742,3 +742,10 @@ says what was done to it.
   but the release doesn't say qui tam); three pairs of sources are duplicate copies of one release (GSK, Pfizer,
   UBS), and GSK and Pfizer each have two case rows for one settlement; relator names missing from two existing
   cases (Lilly, Wyeth) where DOJ or the case caption names them.
+
+### Singapore, batch 2 (pass `extract-cbi-sgp2`)
+- 9 documents reviewed (parliamentary answers 2010-2026, a 2023 police release): all complete.
+- Added 2 numbers, 1 rule: GIP permanent residents who became citizens were aged 25-58 (2017 answer);
+  21 landed-property purchases 2004-2021 by citizens who first got PR through the GIP; the S$2.5m minimum
+  from 2011.
+- Singapore now: all 31 stored Singapore documents reviewed, all complete (checked in the ledger).
