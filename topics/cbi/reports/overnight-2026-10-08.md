@@ -242,3 +242,14 @@ says what was done to it.
 - **Decisions needed:** these pages print a bare "$"; recorded as CAD to match existing Canadian rows,
   but the dataset's rule says bare "$" outside the US is "unspecified" unless the document names the
   dollar. The OSC update appears to be dated 9 March 2023, while the source record and event say 2022.
+
+### Antigua and Barbuda, batch 2 (pass `extract-cbi-atg2`)
+- 6 documents reviewed (IMF Article IV 2023, 2025, 2026; budget speeches 2023, 2024, 2026): 5 complete, 1 partial.
+- Added 55 numbers: programme revenue in EC$ and as % of GDP, actual and projected, 2018-2031;
+  "nearly 60 per cent of non-tax revenue" (2022, 2023); the 2024 budget's Appendix 2 lines
+  ("CIP Collections" 2022 actual EC$67.9m, 2023 preliminary EC$67.0m, 2023 and 2024 budget EC$100m;
+  CIU surplus funds EC$30m).
+- Partial (IMF 2025): two charts of programme revenue for six Caribbean countries have no printed values.
+- Sources disagree on 2022 revenue: 2023 speech EC$88.8m vs 2024 budget EC$67.9m vs IMF 68. All kept.
+- Possible correction: the 2026 IMF report says the regional regulator law was approved "in late
+  2025"; the existing event says no date is given.
