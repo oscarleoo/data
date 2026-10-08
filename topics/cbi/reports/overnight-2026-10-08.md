@@ -969,4 +969,4 @@ says what was done to it.
   nationality 2013-2015 (24 nationalities x 3 years; the scan has no text layer and OCR failed, so cells were
   read by matching digit shapes to the 13 rows already stored, and column sums match the source's totals):
   **lower assurance, needs the second reading**; bond and guest-investor rules.
-- Now fully reviewed: see ledger counts in the morning summary.
+- Now fully reviewed (checked in the ledger): Canada 21 (18 complete, 3 partial), Italy 12, Hungary 19.
