@@ -36,3 +36,21 @@ says what was done to it.
   China printed 105 at 6.55%), 2017 H1 and 2018 H2 since-inception totals off by one, 2016 H2 payments.
 - Note: Antigua's tables give **country of birth**, recorded as `birthplace=`, not nationality.
 
+
+### Hong Kong (pass `extract-hkg`)
+- 16 stored documents reviewed: all 16 complete.
+- 31 numbers added: the two earlier years printed in each Appendix 5 table of the Immigration
+  Department annual reports 2013-2023 (22), and 9 from the February 2011 Legislative Council reply
+  (monthly averages of investors and money for 2008-2010; two application counts that come from the
+  legislator's question, marked unverified; "about 1%" of property sales, under a proposed indicator).
+- Every repeated year matched the earlier report. All new quotes found.
+- Flagged: the 2023 annual report says the new 2024 scheme's HK$30m is "excluding real estate",
+  while the December 2023 brief lets commercial property count up to HK$10m.
+
+### Second reading of the Greek and Antiguan numbers (batches e1-e6)
+- 441 of the new numbers read blind by a second model: all 158 quotes the script could not find,
+  plus a sample. 435 agreed at once.
+- 5 "disagreements" were a parsing fault (a space after "$"); fixed in `second_read.py`, now agree.
+- 1 real difference: Turkey's share of pending Greek files, August 2026. The page prints 18,1%
+  (checked on the page image); the second reader's OCR gave 18,19. Ruled first reading correct.
+- Result: 0 open differences across the whole CBI dataset (5,887 confirmed, 113 ruled).
