@@ -581,4 +581,5 @@ says what was done to it.
 ### International documents, batch 4 (pass `extract-cbi-intl4`)
 - 3 documents: US State Department 2001 report complete (Dominica about 500 citizenships 1996-2000, prices,
   Grenada's October 2001 suspension); two WTO sugar-dispute summaries not applicable.
-- Latvia now: all 41 stored Latvian documents reviewed, all complete (checked in the ledger).
+- Latvia now: all 41 stored Latvian documents reviewed, all complete. International: all 66 stored
+  international documents reviewed (56 complete, 3 partial, 7 not applicable). Both checked in the ledger.
