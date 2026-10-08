@@ -1,0 +1,98 @@
+{
+ "slug": "extract-cbi-cyp2",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over two Cyprus Government Spokesman statements (Oct 2025, Mar 2026) on deprivations of investor citizenship. Adds the decision counts (41 and 39) and the investor/family split (41/109) of the October 2025 statement.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "CYP",
+   "program_id": "cyp-cip",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Government Spokesman repeating the Ministry's count (decisions of the Council of Ministers since the Christodoulides government took office in March 2023). 41 investors + 109 family = 150 persons, the total already recorded from this source.",
+   "indicator": "revocations_decided",
+   "period": "2023-03/2025-10-02",
+   "period_basis": "cumulative",
+   "value": "41",
+   "unit": "decisions",
+   "status": "provisional",
+   "source_id": "cyp-presidency-spokesman-deprivation-2025",
+   "location": "Final paragraph",
+   "quote": "έλαβε 41 αποφάσεις για αποστέρηση της κυπριακής υπηκοότητας. Οι αποφάσεις αφορούν συνολικά 150 πρόσωπα, ήτοι 41 επενδυτές και 109 μέλη των οικογενειών τους."
+  },
+  {
+   "jurisdiction": "CYP",
+   "program_id": "cyp-cip",
+   "breakdown": "applicant=investor",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Government Spokesman repeating the Ministry's count (decisions of the Council of Ministers since the Christodoulides government took office in March 2023). 41 investors + 109 family = 150 persons, the total already recorded from this source.",
+   "indicator": "revocations_decided",
+   "period": "2023-03/2025-10-02",
+   "period_basis": "cumulative",
+   "value": "41",
+   "unit": "persons",
+   "status": "provisional",
+   "source_id": "cyp-presidency-spokesman-deprivation-2025",
+   "location": "Final paragraph",
+   "quote": "έλαβε 41 αποφάσεις για αποστέρηση της κυπριακής υπηκοότητας. Οι αποφάσεις αφορούν συνολικά 150 πρόσωπα, ήτοι 41 επενδυτές και 109 μέλη των οικογενειών τους."
+  },
+  {
+   "jurisdiction": "CYP",
+   "program_id": "cyp-cip",
+   "breakdown": "applicant=family",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Government Spokesman repeating the Ministry's count (decisions of the Council of Ministers since the Christodoulides government took office in March 2023). 41 investors + 109 family = 150 persons, the total already recorded from this source.",
+   "indicator": "revocations_decided",
+   "period": "2023-03/2025-10-02",
+   "period_basis": "cumulative",
+   "value": "109",
+   "unit": "persons",
+   "status": "provisional",
+   "source_id": "cyp-presidency-spokesman-deprivation-2025",
+   "location": "Final paragraph",
+   "quote": "έλαβε 41 αποφάσεις για αποστέρηση της κυπριακής υπηκοότητας. Οι αποφάσεις αφορούν συνολικά 150 πρόσωπα, ήτοι 41 επενδυτές και 109 μέλη των οικογενειών τους."
+  },
+  {
+   "jurisdiction": "CYP",
+   "program_id": "cyp-cip",
+   "breakdown": "",
+   "value_high": "",
+   "scale": "1",
+   "notes": "Spoken figure as published. Lower than the 41 decisions (150 persons) the Ministry and the Spokesman gave in Sept/Oct 2025 for a shorter period; the difference is not explained. No split into investors and family members.",
+   "indicator": "revocations_decided",
+   "period": "2023-03/2026-03-12",
+   "period_basis": "cumulative",
+   "value": "39",
+   "unit": "decisions",
+   "status": "provisional",
+   "source_id": "cyp-presidency-spokesman-ec-2026",
+   "location": "Paragraph 6",
+   "quote": "για την περίοδο Μαρτίου 2023 μέχρι σήμερα, το Υπουργικό Συμβούλιο έλαβε 39 αποφάσεις που αφορούν συνολικά 147 πρόσωπα"
+  }
+ ],
+ "program_terms": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "The March 2026 statement gives 39 decisions / 147 persons for March 2023 to March 2026, fewer than the 41 / 150 given in September and October 2025; neither statement explains the difference."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "cyp-presidency-spokesman-deprivation-2025",
+   "status": "complete",
+   "contains": "Government Spokesman statement (2 Oct 2025): Council of Ministers approves a bill deleting art. 111A(2) of the Civil Registry Law (legal basis of the investor naturalisation programme ended in 2020), adding a 60-day deadline for objections to the Independent Committee on Deprivation of Citizenship and a duty to publish deprivations in the Official Gazette; recaps 41 deprivation decisions since March 2023 covering 150 persons (41 investors, 109 family members). The total (150) and the bill event were already in the data; the decision count and the investor/family split are added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "cyp-presidency-spokesman-ec-2026",
+   "status": "complete",
+   "contains": "Government Spokesman statement (12 Mar 2026) welcoming the European Commission's decision (notified 'yesterday', 11 Mar 2026) to close the infringement procedure on the former Cyprus Investment Programme; recalls the October 2025 decision to abolish by law the legal basis for investor naturalisation (programme ended 1 Nov 2020), the new obligation to publish deprivations in the Official Gazette, and 39 Council of Ministers deprivation decisions covering 147 persons from March 2023 to date, with more to be examined. The 147 persons were already recorded; the 39 decisions are added. The closure of the infringement procedure is already an event (2026-03-11, from the Law Office release); no date or law number for the enacted amendment is given, so no new event.",
+   "to_do": ""
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "extract-cbi-mkd1",
+ "researched_on": "2026-10-08",
+ "summary": "Full-extraction pass over eight stored North Macedonia documents: two European Commission reports (2025 country report, 2023 Cluster 1 screening report), the 1992 Law on Citizenship and its 2004 amendment, and the special-interest criteria decree of 2005 with its 2012, 2019 and 2021 amendments. Everything in scope (121 economic-interest grants 2005-2022 against 40 refusals, 2024 and 2025 grants by nationality, the EUR 400,000 and EUR 200,000 routes, and the legal history) was already in the data; no new rows.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [
+  "The 2021 decree amendment requires a fee tariff from the Fund for Innovation and Technology Development; no stored document gives the fee amount.",
+  "The existing event for the 1992 Law on Citizenship (e-cb3b6647f2) is dated to the year only; the stored gazette shows publication on 3 Nov 1992 (Assembly adoption 27 Oct 1992, in force on the eighth day after publication). The main session may want to refine the date."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "mkd-ec-report-2025",
+   "status": "complete",
+   "contains": "European Commission North Macedonia 2025 Report (SWD(2025) 753, 105 pp.): the whole accession assessment (political criteria, economy, all chapters). Programme content is one paragraph under Chapter 23 'Citizenship rights' (PDF p. 45): the Commission's view that special-economic-interest citizenship must not be granted systematically, and grants of economic citizenship to two Turkish nationals in 2024 and one national of Bosnia and Herzegovina in 2025. Both numbers are already in the data. Other mentions of the Visa Suspension Mechanism, visa policy (Türkiye visa waiver), online citizenship certificates and FDI are not about the programme. Nothing new to add.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-ec-screening-cluster1-2023",
+   "status": "complete",
+   "contains": "European Commission screening report, Cluster 1 Fundamentals (130 pp.), covering judiciary, fundamental rights, justice/freedom/security, public procurement, statistics, financial control and public administration. Programme content (repeated on p. 68, Chapter 23 'EU citizenship rights', and p. 90, Chapter 24 visa policy): description of the investor citizenship procedure (Interior Ministry drafts, Finance and Economy ministries assess the economic interest, security agency checks, Government decides), 121 people naturalised for economic reasons 2005-2022 against 40 negative decisions, the December 2012 amendment, and the recommendation to refrain from systematic investor citizenship. All already in the data (two observations, one event). Nothing new to add.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-decree-2005-9",
+   "status": "complete",
+   "contains": "Official Gazette no. 9/2005 (9 Feb 2005), whole issue. Programme content is item 146: the Government decree of 7 Feb 2005 on criteria for special scientific, economic, cultural, sporting or other national interest (Art. 3: economic interest through direct investment, donation, securities, shares, know-how, innovation, new technologies, or as top manager, expert, trade partner, donor for economic reforms, etc.; no minimum amount; assessed by the Ministries of Economy and Finance), in force the day after publication. The rest of the issue (consumer council fees, summer time, gambling revenue, appointments, budget programmes) is unrelated. The decree is already an event; it sets no amount, so no term row (the existing EUR 400,000 term notes that there was no minimum before 20 Dec 2012).",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-decree-2012-161",
+   "status": "complete",
+   "contains": "Official Gazette no. 161/2012 (19 Dec 2012), whole issue. Programme content is item 3852: decree amendment of 6 Dec 2012 rewriting Art. 3 (EUR 400,000 per person direct investment in new capacity, excluding catering and retail, with at least 10 open-ended employees for at least one year; documents the Ministry of Finance checks; the other non-amount economic criteria kept). In force the day after publication. Already recorded as one term and one event; the rest of the issue is unrelated.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-decree-2019-255",
+   "status": "complete",
+   "contains": "Official Gazette of RNM no. 255/2019 (13 Dec 2019), whole issue. Programme content is the decree amendment of 10 Dec 2019: renames the country in the decree and rewrites Art. 3, keeping the EUR 400,000 / 10-jobs route and adding a EUR 200,000 per person, two-year investment in a private investment fund (fund with at least EUR 5,000,000 initial capital, investing in the economy or innovation and not in real estate, at most 500 foreign applicant-investors), assessed by the Fund for Innovation and Technology Development on listed documents. In force the day after publication. Already recorded as one term (with the fund conditions in its notes) and one event; the re-enacted EUR 400,000 route is covered by the 2012 term. The rest of the issue is unrelated.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-decree-2021-42",
+   "status": "complete",
+   "contains": "Official Gazette of RNM no. 42/2021 (19 Feb 2021), whole issue. Programme content is item 624: decree amendment of 16 Feb 2021 adding a scientific-interest criterion (doctorate, at least six papers in five years, led at least one research project), requiring the Fund for Innovation and Technology Development to adopt a rulebook and a fee tariff for the economic-interest procedure with Government consent (no fee amount given), and adding literature to the cultural criteria; in force on the eighth day after publication. Already an event; no amounts. The rest of the issue is unrelated.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-law-citizenship-1992",
+   "status": "complete",
+   "contains": "Official Gazette no. 67/1992 (Tuesday 3 Nov 1992), whole issue: Law on Citizenship adopted by the Assembly on 27 Oct 1992 (in force on the eighth day after publication), plus the Law on travel documents and other items. Programme content: Art. 11 (adult foreigner may be naturalised by exception from Art. 7 where of special scientific, economic, cultural or national interest; Government gives prior opinion; spouse may also be naturalised under Art. 9 conditions); Art. 12 (minor children naturalised with parents); Art. 14 (annulment for false data). General naturalisation conditions (15 years' residence etc.) and the passport law are context, not programme numbers. Already one event (dated to year 1992); no amounts or statistics.",
+   "to_do": ""
+  },
+  {
+   "source_id": "mkd-sv-law-citizenship-amend-2004",
+   "status": "complete",
+   "contains": "Official Gazette no. 8/2004 (23 Feb 2004), whole issue: Law amending the Law on Citizenship, adopted 22 Jan 2004, in force on the eighth day after publication. Programme content: Art. 8 rewrites Art. 11 (applicant must meet Art. 7(1) points 1 and 8, i.e. adult and no security threat; special scientific, economic, cultural, sporting or other national interest; Government to set criteria by decree). Other changes (8 years' ordinary residence, oath, guarantee of admission, ex-Yugoslav transitional rule) concern ordinary naturalisation. Already one event; no amounts or statistics.",
+   "to_do": ""
+  }
+ ]
+}
