@@ -4795,45 +4795,196 @@ PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,invest
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,132,1,132.0,provisional,pan-mici-press-2025-02-26,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-26,9.1,revision,o-31a42fea6c
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,115.6,million,115600000.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,3.7,revision,o-d03224048f
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,120,million,120000000.0,claim,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,3.7,revision,o-6a702957f2
+PHL,phl-srrv,agents_licensed [category=accredited_depository_banks],2021-12-31,agents,6,1,6.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,33.3,conflict,o-76bce434ba
+PHL,phl-srrv,agents_licensed [category=accredited_depository_banks],2021-12-31,agents,9,1,9.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,33.3,conflict,o-d100653247
+PHL,phl-srrv,agents_licensed [category=marketers],2023-12-31,agents,171,1,171.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,8.1,conflict,o-1c326d0f29
+PHL,phl-srrv,agents_licensed [category=marketers],2023-12-31,agents,186,1,186.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,8.1,conflict,o-649336171b
+PHL,phl-srrv,agents_licensed [category=marketers],2024-12-31,agents,186,1,186.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,12.3,conflict,o-ea63e6c52d
+PHL,phl-srrv,agents_licensed [category=marketers],2024-12-31,agents,212,1,212.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,12.3,conflict,o-f6a1d7e8df
+PHL,phl-srrv,agents_licensed [category=marketers],2025-12-31,agents,207,1,207.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,16.9,same_source,o-917387f211
+PHL,phl-srrv,agents_licensed [category=marketers],2025-12-31,agents,216,1,216.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,16.9,same_source,o-c6041962d3
+PHL,phl-srrv,agents_licensed [category=marketers],2025-12-31,agents,249,1,249.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,16.9,same_source,o-26e84372a9
+PHL,phl-srrv,cbi_fee_revenue,2022,PHP,640750225,1,640750225.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.9,revision,o-cf09749a83
+PHL,phl-srrv,cbi_fee_revenue,2022,PHP,646341046,1,646341046.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.9,revision,o-ca50c2cb15
+PHL,phl-srrv,cbi_fee_revenue [category=accreditation_fees],2016,PHP,2447155,1,2447155.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,revision,o-b06de37321
+PHL,phl-srrv,cbi_fee_revenue [category=accreditation_fees],2016,PHP,2447227,1,2447227.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,revision,o-702dcd1c2a
+PHL,phl-srrv,cbi_fee_revenue [category=annual_pra_fees],2022,PHP,257406595,1,257406595.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,8.9,revision,o-a5daadbd76
+PHL,phl-srrv,cbi_fee_revenue [category=annual_pra_fees],2022,PHP,282415960,1,282415960.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,8.9,revision,o-9921ecc600
+PHL,phl-srrv,cbi_fee_revenue [category=harmonization_fees],2022,PHP,10243023,1,10243023.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.9,revision,o-1804c56acd
+PHL,phl-srrv,cbi_fee_revenue [category=harmonization_fees],2022,PHP,10333609,1,10333609.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.9,revision,o-7f68089a90
+PHL,phl-srrv,cbi_fee_revenue [category=management_fees],2022,PHP,149140108,1,149140108.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,17.6,revision,o-714b7389e7
+PHL,phl-srrv,cbi_fee_revenue [category=management_fees],2022,PHP,180934709,1,180934709.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,17.6,revision,o-f2109cb989
+PHL,phl-srrv,cbi_fee_revenue [category=passport_visa_application_fees],2022,PHP,144829182,1,144829182.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,4.5,revision,o-ba22c0e6ff
+PHL,phl-srrv,cbi_fee_revenue [category=passport_visa_application_fees],2022,PHP,151649147,1,151649147.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,4.5,revision,o-4651ac30b2
+PHL,phl-srrv,cbi_fee_revenue [category=processing_service_fees],2022,PHP,4768193,1,4768193.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,79.5,revision,o-cb1f785909
+PHL,phl-srrv,cbi_fee_revenue [category=processing_service_fees],2022,PHP,23289732,1,23289732.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,79.5,revision,o-d3b3cdf939
+PHL,phl-srrv,cbi_fee_revenue [category=visitorial_fees],2022,PHP,30192821,1,30192821.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,1.9,revision,o-7fe7d9e773
+PHL,phl-srrv,cbi_fee_revenue [category=visitorial_fees],2022,PHP,30776718,1,30776718.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,1.9,revision,o-ce48fa03f9
+PHL,phl-srrv,cbi_programme_costs,2017,PHP,259650609,1,259650609.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,11.8,vintage,o-73bd179043
+PHL,phl-srrv,cbi_programme_costs,2017,PHP,294332000,1,294332000.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,11.8,vintage,o-83d91e619f
+PHL,phl-srrv,cbi_programme_costs [category=marketing_digital],2022,PHP,13459817,1,13459817.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,7.2,vintage,o-b613d3e9ff
+PHL,phl-srrv,cbi_programme_costs [category=marketing_digital],2022,PHP,14500000,1,14500000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,7.2,vintage,o-6b580c5d70
+PHL,phl-srrv,cbi_programme_costs [category=marketing_digital],2023,PHP,8189368,1,8189368.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,3.7,vintage,o-4f627915b3
+PHL,phl-srrv,cbi_programme_costs [category=marketing_digital],2023,PHP,8500000,1,8500000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,3.7,vintage,o-e30dd6e019
+PHL,phl-srrv,cbi_programme_costs [category=marketing_international_events],2022,PHP,511421,1,511421.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,83.0,vintage,o-97a58b3370
+PHL,phl-srrv,cbi_programme_costs [category=marketing_international_events],2022,PHP,3003200,1,3003200.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,83.0,vintage,o-e13a9e8892
+PHL,phl-srrv,cbi_programme_costs [category=marketing_international_events],2023,PHP,9487561,1,9487561.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,55.7,vintage,o-e1ceee8ddf
+PHL,phl-srrv,cbi_programme_costs [category=marketing_international_events],2023,PHP,21409280,1,21409280.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,55.7,vintage,o-ab42380767
+PHL,phl-srrv,cbi_programme_costs [category=marketing_local_events],2022,PHP,980335,1,980335.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,74.5,vintage,o-5e4d192e81
+PHL,phl-srrv,cbi_programme_costs [category=marketing_local_events],2022,PHP,3841000,1,3841000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,74.5,vintage,o-8a4e0c6128
+PHL,phl-srrv,cbi_programme_costs [category=marketing_local_events],2023,PHP,3696162,1,3696162.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,37.7,vintage,o-0acb1431ff
+PHL,phl-srrv,cbi_programme_costs [category=marketing_local_events],2023,PHP,5930700,1,5930700.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,37.7,vintage,o-1edd9efdd1
+PHL,phl-srrv,cbi_programme_costs [category=marketing_ooh_ads],2022,PHP,4917512,1,4917512.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,1.6,vintage,o-89cc2fb1c0
+PHL,phl-srrv,cbi_programme_costs [category=marketing_ooh_ads],2022,PHP,5000000,1,5000000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,1.6,vintage,o-6baa81aa82
+PHL,phl-srrv,cbi_programme_costs [category=marketing_ooh_ads],2023,PHP,28256520,1,28256520.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,5.8,vintage,o-82f776dfc8
+PHL,phl-srrv,cbi_programme_costs [category=marketing_ooh_ads],2023,PHP,30000000,1,30000000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,5.8,vintage,o-e7f834b79f
+PHL,phl-srrv,cbi_programme_costs [category=marketing_print_media],2022,PHP,6468114,1,6468114.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,13.8,vintage,o-e8406f428b
+PHL,phl-srrv,cbi_programme_costs [category=marketing_print_media],2022,PHP,7500000,1,7500000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,13.8,vintage,o-9a47afdfe6
+PHL,phl-srrv,cbi_programme_costs [category=marketing_print_media],2023,PHP,14772046,1,14772046.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,7.7,vintage,o-dfedb3e241
+PHL,phl-srrv,cbi_programme_costs [category=marketing_print_media],2023,PHP,16000000,1,16000000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,7.7,vintage,o-443a9632ce
+PHL,phl-srrv,cbi_programme_costs [category=marketing_tv_radio],2022,PHP,672000,1,672000.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,88.8,vintage,o-698cbfae6f
+PHL,phl-srrv,cbi_programme_costs [category=marketing_tv_radio],2022,PHP,6000000,1,6000000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,88.8,vintage,o-15364be6a1
+PHL,phl-srrv,cbi_programme_costs [category=marketing_tv_radio],2023,PHP,5978000,1,5978000.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.4,vintage,o-f53183811d
+PHL,phl-srrv,cbi_programme_costs [category=marketing_tv_radio],2023,PHP,6000000,1,6000000.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.4,vintage,o-5ddf786c98
+PHL,phl-srrv,cbi_programme_costs [category=operating_expenses],2022,PHP,100395254,1,100395254.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.3,revision,o-ce2d74c3a3
+PHL,phl-srrv,cbi_programme_costs [category=operating_expenses],2022,PHP,100716510,1,100716510.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.3,revision,o-3e6a80105d
+PHL,phl-srrv,cbi_programme_costs [category=personnel_services],2022,PHP,93024771,1,93024771.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.1,revision,o-9f3b43794a
+PHL,phl-srrv,cbi_programme_costs [category=personnel_services],2022,PHP,93077185,1,93077185.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.1,revision,o-18636c938b
+PHL,phl-srrv,cbi_programme_staff,2021-12-31,fte,161,1,161.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,5.3,conflict,o-1106b034b5
+PHL,phl-srrv,cbi_programme_staff,2021-12-31,fte,170,1,170.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,5.3,conflict,o-fc4527bd88
+PHL,phl-srrv,cbi_programme_staff [category=job_order],2021-12-31,fte,78,1,78.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,2.5,conflict,o-16ea2613b7
+PHL,phl-srrv,cbi_programme_staff [category=job_order],2021-12-31,fte,80,1,80.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,2.5,conflict,o-2702102093
+PHL,phl-srrv,cbi_programme_staff [category=regular],2021-12-31,fte,83,1,83.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,7.8,conflict,o-955d08305e
+PHL,phl-srrv,cbi_programme_staff [category=regular],2021-12-31,fte,90,1,90.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,7.8,conflict,o-492f639cd5
 PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2016,PHP,190.441,million,190441000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.5,same_source,o-4858e0c737
 PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2016,PHP,210435371.19,1,210435371.19,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.5,same_source,o-c123ee0a85
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2016,PHP,210435371.19,1,210435371.19,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,9.5,same_source,o-55bc3a72d2
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2017,PHP,187598346,1,187598346.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,10.2,same_source,o-15a1ee3eea
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2017,PHP,208885482.00,1,208885482.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,10.2,same_source,o-f6746c70f8
 PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,216373408.00,1,216373408.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,16.3,same_source,o-f3dfe58383
 PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,258489,thousand,258489000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,16.3,same_source,o-a9fa2c682c
 PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2019,PHP,258489,thousand,258489000.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,16.3,same_source,o-23271edbe0
-PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,414411259.54,1,414411259.54,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,vintage,o-460237be94
-PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,489061836.00,1,489061836.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,vintage,o-1233eeeb29
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2020,PHP,0,1,0.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,100.0,revision,o-5979a1cd11
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2020,PHP,216373408.00,1,216373408.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,100.0,revision,o-d834211d56
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2021,PHP,150000000.00,1,150000000.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,62.5,same_source,o-04c52889d7
+PHL,phl-srrv,cbi_transfers_to_government [category=dividend],2021,PHP,400000000.00,1,400000000.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,62.5,same_source,o-5de808aae8
+PHL,phl-srrv,cbi_unit_net_income [category=net_income_after_tax],2022,PHP,420.73,million,420730000.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,7.7,conflict,o-752018c224
+PHL,phl-srrv,cbi_unit_net_income [category=net_income_after_tax],2022,PHP,420732277,1,420732277.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,7.7,conflict,o-953d3e43c7
+PHL,phl-srrv,cbi_unit_net_income [category=net_income_after_tax],2022,PHP,455785379,1,455785379.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,7.7,conflict,o-d92355bd1d
+PHL,phl-srrv,cbi_unit_net_income [category=net_income_before_tax],2022,PHP,586902379,1,586902379.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,3.1,revision,o-187b870f33
+PHL,phl-srrv,cbi_unit_net_income [category=net_income_before_tax],2022,PHP,605683055,1,605683055.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,3.1,revision,o-6d917f36ba
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,414411259.54,1,414411259.54,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,same_source,o-460237be94
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,453247821.37,1,453247821.37,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,15.3,same_source,o-2bbe5d7fe1
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,469.76,million,469760000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,15.3,same_source,o-c6e75d53c4
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2016,PHP,489061836.00,1,489061836.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,15.3,same_source,o-1233eeeb29
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2017,PHP,338.74,million,338740000.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,34.1,same_source,o-e020bd82f7
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2017,PHP,375196691.32,1,375196691.32,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,34.1,same_source,o-d31cbc1b23
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2017,PHP,513768402.61,1,513768402.61,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,34.1,same_source,o-b0e734e71e
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2018,PHP,460110,thousand,460110000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,26.2,revision,o-aadb35a031
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2018,PHP,623.18,million,623180000.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,26.2,revision,o-1c196a7fed
 PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,281424000.00,1,281424000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-3060f96d29
 PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,432746,thousand,432746000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-ed4e2c5bc3
 PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,629.65,million,629650000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,57.1,same_source,o-0278ff102b
 PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,656.59,million,656590000.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,57.1,same_source,o-de4f08ab2c
-PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,584270596.13,1,584270596.13,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,10.8,vintage,o-e7d0850585
-PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,654.83,million,654830000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,10.8,vintage,o-b3dd4ec321
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2019,PHP,656.59,million,656590000.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,57.1,same_source,o-c80c90192d
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,454130962.70,1,454130962.7,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,22.3,revision,o-039661107e
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,584270596.13,1,584270596.13,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,22.3,revision,o-e7d0850585
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,654.83,million,654830000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,22.3,revision,o-b3dd4ec321
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2020,PHP,654.83,million,654830000.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,22.3,revision,o-ff9014654a
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2021,PHP,287913873.98,1,287913873.98,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,8.5,vintage,o-82b41b4ff0
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2021,PHP,314.73,million,314730000.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,8.5,vintage,o-81e60ba466
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2025,PHP,384.90,million,384900000.0,budget,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,48.8,vintage,o-905684dc1b
+PHL,phl-srrv,cbi_unit_net_income [category=net_operating_income],2025,PHP,751.764,million,751764000.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,48.8,vintage,o-c84f243abc
+PHL,phl-srrv,cbi_unit_revenue,2012,PHP,338613381.14,1,338613381.14,actual,phl-pra-ar-2012,Philippine Retirement Authority (PRA),2013,2.2,revision,o-6a75a610d0
+PHL,phl-srrv,cbi_unit_revenue,2012,PHP,346234176.25,1,346234176.25,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,2.2,revision,o-2064db358e
 PHL,phl-srrv,cbi_unit_revenue,2014,PHP,525181450,1,525181450.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,same_source,o-37c9e0b680
 PHL,phl-srrv,cbi_unit_revenue,2014,PHP,525359940.67,1,525359940.67,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,same_source,o-875df20458
+PHL,phl-srrv,cbi_unit_revenue,2014,PHP,525.36,million,525360000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,same_source,o-562b82e0e5
 PHL,phl-srrv,cbi_unit_revenue,2015,PHP,588.32,million,588320000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-aedbba06ea
+PHL,phl-srrv,cbi_unit_revenue,2015,PHP,655.37,million,655370000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,16.2,same_source,o-ba50d2b7eb
 PHL,phl-srrv,cbi_unit_revenue,2015,PHP,655374685.85,1,655374685.85,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-07894fd0d6
 PHL,phl-srrv,cbi_unit_revenue,2015,PHP,665948724,1,665948724.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-6a5eff607f
 PHL,phl-srrv,cbi_unit_revenue,2015,PHP,702310647,1,702310647.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,16.2,same_source,o-3b0f182032
 PHL,phl-srrv,cbi_unit_revenue,2016,PHP,660731234.39,1,660731234.39,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-26d9b8faae
+PHL,phl-srrv,cbi_unit_revenue,2016,PHP,664.66,million,664660000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,14.2,same_source,o-4785e6927b
 PHL,phl-srrv,cbi_unit_revenue,2016,PHP,683963420.00,1,683963420.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-005d3f472c
 PHL,phl-srrv,cbi_unit_revenue,2016,PHP,770460922,1,770460922.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.2,same_source,o-f2e98b493f
-PHL,phl-srrv,cbi_unit_revenue,2019,PHP,450698000.00,1,450698000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,51.5,vintage,o-f36c615ff2
-PHL,phl-srrv,cbi_unit_revenue,2019,PHP,929.59,million,929590000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,51.5,vintage,o-22d15de2d4
+PHL,phl-srrv,cbi_unit_revenue,2016,PHP,770460922.49,1,770460922.49,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,14.2,same_source,o-f6e538fbc9
+PHL,phl-srrv,cbi_unit_revenue,2017,PHP,773419011.52,1,773419011.52,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,2.4,same_source,o-886636bba3
+PHL,phl-srrv,cbi_unit_revenue,2017,PHP,773.67,million,773670000.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,2.4,same_source,o-6a22aa94e3
+PHL,phl-srrv,cbi_unit_revenue,2017,PHP,792653027.49,1,792653027.49,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,2.4,same_source,o-edf6fc35bc
+PHL,phl-srrv,cbi_unit_revenue,2019,PHP,450698000.00,1,450698000.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,72.2,conflict,o-f36c615ff2
+PHL,phl-srrv,cbi_unit_revenue,2019,PHP,929.59,million,929590000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,72.2,conflict,o-22d15de2d4
+PHL,phl-srrv,cbi_unit_revenue,2019,PHP,1624115330,1,1624115330.0,actual,phl-coa-pra-aar-2020,Commission on Audit (Philippines),2021,72.2,conflict,o-d334715e0f
+PHL,phl-srrv,cbi_unit_revenue,2020,PHP,454,million,454000000.0,actual,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,69.8,conflict,o-667b3ccb6a
+PHL,phl-srrv,cbi_unit_revenue,2020,PHP,1502337389.98,1,1502337389.98,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,69.8,conflict,o-1c9fcdac9e
+PHL,phl-srrv,cbi_unit_revenue,2020,PHP,1502337390,1,1502337390.0,actual,phl-coa-pra-aar-2020,Commission on Audit (Philippines),2021,69.8,conflict,o-d8e2ba3a84
+PHL,phl-srrv,cbi_unit_revenue,2020,PHP,1502337390,1,1502337390.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,69.8,conflict,o-9f4512c551
+PHL,phl-srrv,cbi_unit_revenue,2022,PHP,2622051651,1,2622051651.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.0,revision,o-fd82d4cc41
+PHL,phl-srrv,cbi_unit_revenue,2022,PHP,2622721484,1,2622721484.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.0,revision,o-b24760086c
+PHL,phl-srrv,cbi_unit_revenue [category=interest_income],2022,PHP,62339806,1,62339806.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.2,revision,o-895e009cbb
+PHL,phl-srrv,cbi_unit_revenue [category=interest_income],2022,PHP,62434378,1,62434378.0,actual,phl-coa-pra-aar-2022,Commission on Audit (Philippines),2023,0.2,revision,o-4f5f331817
+PHL,phl-srrv,main_applicants_approved,2022,persons,1899,1,1899.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.1,conflict,o-ce4fbc4b0f
+PHL,phl-srrv,main_applicants_approved,2022,persons,1901,1,1901.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.1,conflict,o-a9113060b7
+PHL,phl-srrv,main_applicants_approved,2023,persons,1863,1,1863.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,0.1,conflict,o-8d9d90c6f7
+PHL,phl-srrv,main_applicants_approved,2023,persons,1864,1,1864.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.1,conflict,o-4027b85a49
+PHL,phl-srrv,main_applicants_approved,2025,persons,2359,1,2359.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.0,same_source,o-346dede43d
+PHL,phl-srrv,main_applicants_approved,2025,persons,2360,1,2360.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.0,same_source,o-c30b36e76b
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2012,persons,1408,1,1408.0,actual,phl-pra-ar-2012,Philippine Retirement Authority (PRA),2013,0.1,revision,o-d06ddb919b
+PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2012,persons,1409,1,1409.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,revision,o-2caed00381
 PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2015,persons,2000,1,2000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,3.4,vintage,o-929b63c05b
 PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2015,persons,2070,1,2070.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,3.4,vintage,o-8dbabf9ae8
 PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2254,1,2254.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-6df37ef3cb
 PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2260,1,2260.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-48e58a9548
 PHL,phl-srrv,main_applicants_approved [category=via_accredited_marketer],2016,persons,2500,1,2500.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,9.8,same_source,o-c52d92f6a0
-PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,548449703.67,1,548449703.67,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,4.8,vintage,o-3df2f44fe3
-PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,576,million,576000000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,4.8,vintage,o-9d8d0b4bde
-PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,572933933.48,1,572933933.48,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,5.8,vintage,o-be6ec54787
-PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,608.15,million,608150000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,5.8,vintage,o-60dc268fb6
+PHL,phl-srrv,main_applicants_approved [category=walk_in],2017,persons,552,1,552.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,18.5,vintage,o-fda875ecd6
+PHL,phl-srrv,main_applicants_approved [category=walk_in],2017,persons,677,1,677.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,18.5,vintage,o-8573d9307e
+PHL,phl-srrv,processing_time_share [category=within_prescribed_period],2025,percent,99.89,1,99.89,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.0,same_source,o-ca616fc73b
+PHL,phl-srrv,processing_time_share [category=within_prescribed_period],2025,percent,99.92,1,99.92,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.0,same_source,o-53741bcb13
+PHL,phl-srrv,rbi_deposits_held,2017-12-31,USD,249589559.04,1,249589559.04,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.2,same_source,o-9d906b3121
+PHL,phl-srrv,rbi_deposits_held,2017-12-31,USD,250103765,1,250103765.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.2,same_source,o-be2aa3c9fd
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,341291229.85,1,341291229.85,actual,phl-coa-pra-aar-2020,Commission on Audit (Philippines),2021,38.9,conflict,o-4a8b4f78bf
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,548449703.67,1,548449703.67,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,38.9,conflict,o-3df2f44fe3
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,559.0,million,559000000.0,provisional,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,38.9,conflict,o-653aaa60d9
+PHL,phl-srrv,rbi_deposits_held,2019-12-31,USD,576,million,576000000.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,38.9,conflict,o-9d8d0b4bde
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,345796420,1,345796420.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,39.6,conflict,o-f4edf2fb8f
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,345796420,1,345796420.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.6,conflict,o-38af5af4ab
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,345796424.67,1,345796424.67,actual,phl-coa-pra-aar-2020,Commission on Audit (Philippines),2021,39.6,conflict,o-51b99aaec7
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,572933933.48,1,572933933.48,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,39.6,conflict,o-be6ec54787
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,608.15,million,608150000.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,39.6,conflict,o-60dc268fb6
+PHL,phl-srrv,rbi_deposits_held,2020-12-31,USD,608.15,million,608150000.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.6,conflict,o-b84ac12d28
+PHL,phl-srrv,rbi_deposits_held,2021-12-31,USD,343228080,1,343228080.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,39.4,same_source,o-ff0a9fb97a
+PHL,phl-srrv,rbi_deposits_held,2021-12-31,USD,343228080,1,343228080.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.4,same_source,o-61f90b7958
+PHL,phl-srrv,rbi_deposits_held,2021-12-31,USD,522952509.00,1,522952509.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.4,same_source,o-fd72a57c5f
+PHL,phl-srrv,rbi_deposits_held,2021-12-31,USD,553.08,million,553080000.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.4,same_source,o-232f9aa8f0
+PHL,phl-srrv,rbi_deposits_held,2021-12-31,USD,565.98,million,565980000.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,39.4,same_source,o-406f792394
+PHL,phl-srrv,rbi_deposits_held [category=terminated_not_refunded],2020-12-31,USD,7562910.47,1,7562910.47,actual,phl-coa-pra-aar-2020,Commission on Audit (Philippines),2021,9.2,conflict,o-4b26d241d0
+PHL,phl-srrv,rbi_deposits_held [category=terminated_not_refunded],2020-12-31,USD,8328163,1,8328163.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,9.2,conflict,o-64b60d2652
+PHL,phl-srrv,rbi_deposits_held [category=terminated_not_refunded],2020-12-31,USD,8328163,1,8328163.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,9.2,conflict,o-a60a2173d0
+PHL,phl-srrv,rbi_deposits_net,2011,USD,13159500.00,1,13159500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.5,revision,o-8076a7ee02
+PHL,phl-srrv,rbi_deposits_net,2011,USD,13224500.00,1,13224500.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.5,revision,o-c83a9b664a
 PHL,phl-srrv,rbi_deposits_net,2015,USD,36135000.00,1,36135000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-9186272258
+PHL,phl-srrv,rbi_deposits_net,2015,USD,36135000.00,1,36135000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,5.5,same_source,o-9debb04dd7
+PHL,phl-srrv,rbi_deposits_net,2015,USD,36.32,million,36320000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,5.5,same_source,o-c933e618ae
 PHL,phl-srrv,rbi_deposits_net,2015,USD,36323000,1,36323000.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-922829f26d
 PHL,phl-srrv,rbi_deposits_net,2015,USD,38.25,million,38250000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,5.5,same_source,o-bd25998494
+PHL,phl-srrv,rbi_deposits_net,2016,USD,38.09,million,38090000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.8,vintage,o-d7a53ca3b9
 PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500.00,1,38093500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-86010b7c8f
 PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500,1,38093500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-db29d329ce
+PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500.00,1,38093500.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.8,vintage,o-4966460116
+PHL,phl-srrv,rbi_deposits_net,2016,USD,38093500.00,1,38093500.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.8,vintage,o-66706367fd
 PHL,phl-srrv,rbi_deposits_net,2016,USD,50000000,1,50000000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,23.8,vintage,o-df10a12525
+PHL,phl-srrv,rbi_deposits_net,2017,USD,49242556.86,1,49242556.86,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,4.3,vintage,o-47dbcc5e47
+PHL,phl-srrv,rbi_deposits_net,2017,USD,51.45,million,51450000.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,4.3,vintage,o-166e494c26
+PHL,phl-srrv,rbi_deposits_withdrawn,2011,USD,15040500.00,1,15040500.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.4,revision,o-7496a9c160
+PHL,phl-srrv,rbi_deposits_withdrawn,2011,USD,15105500.00,1,15105500.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.4,revision,o-ace8123cb7
+PHL,phl-srrv,rbi_investment_total,2017,USD,49242556.86,1,49242556.86,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.3,same_source,o-bdd601d5dd
+PHL,phl-srrv,rbi_investment_total,2017,USD,57,million,57000000.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.3,same_source,o-3c0a705e09
+PHL,phl-srrv,rbi_investment_total,2017,USD,64183289.79,1,64183289.79,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,23.3,same_source,o-e3dbf64597
+PHL,phl-srrv,rbi_investment_total,2025,USD,43.318,million,43318000.0,budget,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,13.8,vintage,o-343ccfa454
+PHL,phl-srrv,rbi_investment_total,2025,USD,50.225,million,50225000.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,13.8,vintage,o-bbd5c33202
+PHL,phl-srrv,residence_permits_issued,1985-2017,persons,53931,1,53931.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,same_source,o-fc78da7028
+PHL,phl-srrv,residence_permits_issued,1985-2017,persons,53933,1,53933.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.0,same_source,o-f41b152939
 PHL,phl-srrv,residence_permits_issued,1985-2019,persons,53265,1,53265.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,22.1,same_source,o-da9885cc48
 PHL,phl-srrv,residence_permits_issued,1985-2019,persons,68383,1,68383.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,22.1,same_source,o-2ae8dd3e6e
 PHL,phl-srrv,residence_permits_issued,2014,persons,4788,1,4788.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.0,revision,o-809060d3b5
@@ -4848,23 +4999,52 @@ PHL,phl-srrv,residence_permits_issued,2016,persons,5562,1,5562.0,actual,phl-pra-
 PHL,phl-srrv,residence_permits_issued,2017,persons,5861,1,5861.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.1,revision,o-db30535153
 PHL,phl-srrv,residence_permits_issued,2017,persons,5865,1,5865.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,0.1,revision,o-2c28c2da2a
 PHL,phl-srrv,residence_permits_issued,2017,persons,10000,1,10000.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,revision,o-a45184f2a8
+PHL,phl-srrv,residence_permits_issued,2023,persons,3108,1,3108.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,19.3,vintage,o-6e5a3b6464
+PHL,phl-srrv,residence_permits_issued,2023,persons,3850,1,3850.0,budget,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,19.3,vintage,o-51bc35c6e9
+PHL,phl-srrv,residence_permits_issued,2024,persons,3740,1,3740.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,2.9,vintage,o-3f630941fd
+PHL,phl-srrv,residence_permits_issued,2024,persons,3850,1,3850.0,budget,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,2.9,vintage,o-dc82693d0c
+PHL,phl-srrv,residence_permits_issued,2025,persons,3638,1,3638.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,15.9,vintage,o-7811b92bcb
+PHL,phl-srrv,residence_permits_issued,2025,persons,3638,1,3638.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,15.9,vintage,o-090f64204b
+PHL,phl-srrv,residence_permits_issued,2025,persons,4000,1,4000.0,budget,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,15.9,vintage,o-4f2753dcc5
+PHL,phl-srrv,residence_permits_issued,2025,persons,4325,1,4325.0,budget,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,15.9,vintage,o-6e93b4db1d
+PHL,phl-srrv,residence_permits_issued [nationality=AUS],2025,persons,76,1,76.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.3,conflict,o-d80a4a91fa
+PHL,phl-srrv,residence_permits_issued [nationality=AUS],2025,persons,77,1,77.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.3,conflict,o-e212f7e136
+PHL,phl-srrv,residence_permits_issued [nationality=CAN],2025,persons,72,1,72.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,6.5,conflict,o-6101c73d40
+PHL,phl-srrv,residence_permits_issued [nationality=CAN],2025,persons,77,1,77.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,6.5,conflict,o-b278985ee4
 PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1237,1,1237.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.9,conflict,o-4e49575392
 PHL,phl-srrv,residence_permits_issued [nationality=CHN],2025,persons,1248,1,1248.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.9,conflict,o-88a94de175
+PHL,phl-srrv,residence_permits_issued [nationality=GBR],2025,persons,109,1,109.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.9,conflict,o-4398f1a751
+PHL,phl-srrv,residence_permits_issued [nationality=GBR],2025,persons,110,1,110.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.9,conflict,o-bb121c5773
+PHL,phl-srrv,residence_permits_issued [nationality=HKG],2025,persons,80,1,80.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.2,conflict,o-e8bd2c1058
+PHL,phl-srrv,residence_permits_issued [nationality=HKG],2025,persons,81,1,81.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.2,conflict,o-784b14ea10
 PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,339,1,339.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,0.3,conflict,o-f2e501c09f
 PHL,phl-srrv,residence_permits_issued [nationality=IND],2025,persons,340,1,340.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,0.3,conflict,o-05c4248206
+PHL,phl-srrv,residence_permits_issued [nationality=JPN],2025,persons,99,1,99.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,2.9,conflict,o-3dff690bfc
+PHL,phl-srrv,residence_permits_issued [nationality=JPN],2025,persons,102,1,102.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,2.9,conflict,o-87cbbb1d62
+PHL,phl-srrv,residence_permits_issued [nationality=TWN],2025,persons,190,1,190.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.0,conflict,o-afb06d9e11
+PHL,phl-srrv,residence_permits_issued [nationality=TWN],2025,persons,192,1,192.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.0,conflict,o-80bb30ad64
 PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,772,1,772.0,actual,phl-coa-pra-aar-2025,"Commission on Audit (COA), Republic of the Philippines",2026,1.4,conflict,o-4512a7a23a
 PHL,phl-srrv,residence_permits_issued [nationality=USA],2025,persons,783,1,783.0,actual,phl-pra-ar-2025,Philippine Retirement Authority (PRA),2026,1.4,conflict,o-dd819744ad
 PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4144,1,4144.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.3,same_source,o-ab7e367bc2
+PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4144,1,4144.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.3,same_source,o-c2e1a8e46e
 PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4155,1,4155.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.3,same_source,o-79d11abe52
+PHL,phl-srrv,residence_permits_net_enrolment,2015,persons,4155,1,4155.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,0.3,same_source,o-beae4b20f7
 PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,4384,1,4384.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-97cb023622
 PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,4384,1,4384.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-979c13741c
+PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,4384,1,4384.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,14.0,vintage,o-5e8a585de9
 PHL,phl-srrv,residence_permits_net_enrolment,2016,persons,5100,1,5100.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,14.0,vintage,o-8223db79bf
+PHL,phl-srrv,residence_permits_net_enrolment,2017,persons,4779,1,4779.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,15.8,same_source,o-a7c1d67ec5
+PHL,phl-srrv,residence_permits_net_enrolment,2017,persons,4780,1,4780.0,actual,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,15.8,same_source,o-7864738e2b
+PHL,phl-srrv,residence_permits_net_enrolment,2017,persons,5675,1,5675.0,budget,phl-pra-ar-2017,Philippine Retirement Authority (PRA),2018,15.8,same_source,o-8e59dfee42
 PHL,phl-srrv,residence_permits_valid,2016-12-31,permits,36302,1,36302.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,same_source,o-efdaa035cb
 PHL,phl-srrv,residence_permits_valid,2016-12-31,permits,36343,1,36343.0,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.1,same_source,o-091d2993f7
 PHL,phl-srrv,residence_permits_valid,2019-12-31,permits,49271,1,49271.0,actual,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,8.4,vintage,o-c93eb21d2b
 PHL,phl-srrv,residence_permits_valid,2019-12-31,permits,53797,1,53797.0,budget,phl-pra-ar-2019,Philippine Retirement Authority (PRA),2020,8.4,vintage,o-09efe93938
 PHL,phl-srrv,residence_permits_valid,2020-12-31,persons,55114,1,55114.0,provisional,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,8.7,vintage,o-dbd97cc5b8
 PHL,phl-srrv,residence_permits_valid,2020-12-31,persons,60345,1,60345.0,budget,phl-pra-ar-2020,Philippine Retirement Authority (PRA),2021,8.7,vintage,o-4050e1e783
+PHL,phl-srrv,residence_permits_valid,2020-12-31,persons,60345,1,60345.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,8.7,vintage,o-50ab65ddfa
+PHL,phl-srrv,residence_permits_valid,2021-12-31,persons,54649,1,54649.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,0.1,vintage,o-96a199516c
+PHL,phl-srrv,residence_permits_valid,2021-12-31,persons,54704,1,54704.0,budget,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,0.1,vintage,o-72351fc109
 PHL,phl-srrv,residence_status_retained_pct,2016,percent,96.33,1,96.33,actual,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.7,vintage,o-6b60062abb
 PHL,phl-srrv,residence_status_retained_pct,2016,percent,97,1,97.0,budget,phl-pra-ar-2016,Philippine Retirement Authority (PRA),2017,0.7,vintage,o-69f8ecdbd8
 PRT,prt-golden-visa,dependants_approved,2013,persons,563,1,563.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-c9683b194f
@@ -4882,6 +5062,10 @@ PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,270361097.
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24000,1,24000.0,estimate,sgp-parl-oa-gip-2023,Parliament of Singapore (Official Report / Hansard),2023-02-23,2.8,conflict,o-96bf846137
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24699,1,24699.0,actual,sgp-edb-gip-mr-2023,Singapore Economic Development Board (EDB),2023-03-02,2.8,conflict,o-b3bdec04bd
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24699,1,24699.0,actual,sgp-edb-gipselect-mr-2023,Singapore Economic Development Board (EDB),2023-06-01,2.8,conflict,o-42e3541f5e
+THA,tha-privilege,rbi_memberships_sold,FY2568 (2024-10/2025-09),memberships,3606,1,3606.0,budget,tha-tpc-dc-newmembers-fy2568,"Thailand Privilege Card Co., Ltd. (บริษัท ไทยแลนด์ พริวิเลจ คาร์ด จำกัด), data catalogue",2026-03,8.5,vintage,o-9da1d671fd
+THA,tha-privilege,rbi_memberships_sold,FY2568 (2024-10/2025-09),memberships,3606,1,3606.0,budget,tha-tpc-dc-sales-fy2568,"Thailand Privilege Card Co., Ltd., data catalogue",2026-09,8.5,vintage,o-88947cb000
+THA,tha-privilege,rbi_memberships_sold,FY2568 (2024-10/2025-09),memberships,3941,1,3941.0,actual,tha-tpc-dc-newmembers-fy2568,"Thailand Privilege Card Co., Ltd. (บริษัท ไทยแลนด์ พริวิเลจ คาร์ด จำกัด), data catalogue",2026-03,8.5,vintage,o-89dbe980de
+THA,tha-privilege,rbi_memberships_sold,FY2568 (2024-10/2025-09),memberships,3941,1,3941.0,actual,tha-tpc-dc-sales-fy2568,"Thailand Privilege Card Co., Ltd., data catalogue",2026-09,8.5,vintage,o-464a91c19d
 TUR,tur-cbi,house_sales_foreigners,2022,dwellings,67000,1,67000.0,claim,tur-tbmm-pbk-2024-11-20,Türkiye Büyük Millet Meclisi,2024-11-20,0.7,conflict,o-5f2954b328
 TUR,tur-cbi,house_sales_foreigners,2022,dwellings,67490,1,67490.0,actual,tur-tuik-foreign-house-sales,Türkiye İstatistik Kurumu (TÜİK/TurkStat); source data TKGM,2026,0.7,conflict,o-3fe727f27d
 TUR,tur-cbi,persons_naturalised,2024-11-20,persons,159433,1,159433.0,provisional,tur-tbmm-pbk-2024-11-20,Türkiye Büyük Millet Meclisi,2024-11-20,68.1,revision,o-779b3f1c8e

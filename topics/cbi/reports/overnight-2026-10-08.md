@@ -1073,3 +1073,21 @@ totals?
 - Whistleblowing: 479 numbers read blind; 9 ruled. **One row recommended for removal:** the Hungarian 2011
   "about 20" informant enquiries is an inference from "as in 2011", not a printed figure.
 - Batch z6: 88 more numbers, 5 rulings (same numbers written differently). 0 open differences in either dataset.
+
+### Philippines, Thailand, Oman (passes `extract-cbi-phl1`, `-tha1`, `-omn1`)
+- 23 documents: 22 complete, 1 partial.
+- Philippines: 1,775 numbers, 66 rules, 14 events: PRA annual reports 2012, 2017, 2021, 2025 (enrolment and
+  cancellations by year 1987-2017, by month, nationality, age, sex, region; visa deposits gross, withdrawn, net)
+  and state audits 2020-2025 (PRA kept P710.1m of interest on retirees' deposits as its own income, which the
+  auditors say has no legal basis).
+- Thailand: 820 numbers, 24 rules, 1 event: Thailand Privilege member profile by package, sex, age, occupation
+  and nationality; LTR visa rules. Partial: 13 nationality totals and about 11 rows of a low-resolution table
+  image could not be read reliably.
+- Oman: 17 rules; every number was already in the data.
+- **Decision needed:** an existing 2017 Philippine row under `rbi_investment_total` is the net figure; the gross
+  and net rows are now both recorded, so the old row should be corrected.
+
+## Milestone: every stored CBI document has been reviewed
+- 1,267 stored documents: 1,149 complete, 101 partial (each with a written to-do), 17 not applicable.
+- The 176 sources still "not reviewed" have **no stored copy** (pages that couldn't be saved, or blocked);
+  they can't be reviewed until fetched.
