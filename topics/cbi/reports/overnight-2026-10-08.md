@@ -714,3 +714,15 @@ says what was done to it.
   S$930m in Singapore companies); GIP approvals "much lesser than 1%" of all PR approvals.
 - **Decisions needed:** two rows on family-office tax-incentive applications (about 3% of 1,300 rejected)
   aren't GIP residence figures; many factsheet rules have no dates (factsheets don't say when they changed).
+
+### Dominica, batch 2 (pass `extract-cbi-dma2`)
+- 20 documents reviewed: 19 complete, 1 partial.
+- Added 869 numbers, 66 rules, 3 events: budget estimates 2013/14-2025/26 (programme revenue by line item,
+  every line of the CBI Unit's budget, share of recurrent spending, established posts); IMF 2025 and 2026
+  (all columns of revenue, balances excluding the programme, inflows; Vulnerability and Resilience Fund and
+  Debt Repayment Fund); fee schedules in S.R.O. 37/2014, 38/2016, 23/2017, 1/2024 (agent, promoter,
+  enhanced due-diligence fees); Dominica's signature of the regional agreement (20 March 2024).
+- Partial: one share in the 2019/20 volume is on a low-resolution image OCR can't read.
+- The stored 2018/19 volume lacks printed pages 104-132 (including the CBI Unit's budget page).
+- **Decision needed:** same IMF status question as St Kitts (older rows say "estimate" for unmarked past
+  years; rule says "actual").
