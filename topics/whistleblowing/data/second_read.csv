@@ -979,3 +979,27 @@ o-8471e80d18,5,,1,text,PDF p. 20,Z 15 ukončených vecí v roku 2025 úrad sedem
 o-c7399eb01c,12,,1,text,PDF p. 17,bolo podaných 18 trestných oznámení a 12 podaní bolo postúpených na správne orgány,medium,12 submissions forwarded to administrative bodies in cases the office tracks,claude-sonnet-5,2026-10-08,1,no
 o-5a915afa9b,2,,1,text,PDF p. 26,"boli úradu doručené tri žiadosti o odmenu, jednej žiadosti nevyhovel, pri dvoch ešte nebolo ukončené posudzovanie",low,2 reward applications still unassessed; no explicit year-end count of open claims,claude-sonnet-5,2026-10-08,1,no
 o-6bddc09b09,47,,1,text,PDF p. 16,"bolo vyhodnotených 47 podnetov ako oznámenia, ktoré spĺňajú podmienky zákona",high,of 138 presumed reports,claude-sonnet-5,2026-10-08,1,no
+o-41d6d516db,19,,1,respondents,news release boilerplate (About the Program),successful enforcement action against 19 respondents and approximately $48 million,high,"Found in the program boilerplate paragraph, not strictly para 4; same document.",claude-sonnet-5,2026-10-08,1,no
+o-efd3f4c767,15%,,1,illegal distribution and/or unregistered trading,pie chart alt text,15% illegal distribution and/or unregistered trading,high,Percent of securities-related tips.,claude-sonnet-5,2026-10-08,1,no
+o-f9b7b58691,9%,,1,other,pie chart alt text,9% other,high,,claude-sonnet-5,2026-10-08,1,no
+o-4bf3d071fd,50%,,1,named public companies,section 3,50% named public companies and 33% named registrants,high,Of securities related tips.,claude-sonnet-5,2026-10-08,1,no
+o-648b866991,93%,,1,online portal,Tips Submitted by Whistleblowers,The vast majority (93%) of tips were received through the OWB's online portal,high,,claude-sonnet-5,2026-10-08,1,no
+o-0918adcc88,840,,1,whistleblowers,Tips Submitted by Whistleblowers,797 tips from more than 840 whistleblowers,medium,Printed as 'more than 840' (lower bound); 797 is the count of tips.,claude-sonnet-5,2026-10-08,1,no
+o-2dc8c20f5b,63%,,1,reported to entity before the Program,A Note About Internal Whistleblowers,63% reported their concerns to the entity before reporting under the Program,high,Share of whistleblowers with an internal role.,claude-sonnet-5,2026-10-08,1,no
+o-d2f18e6afb,626,,1,hotline calls,We're just a phone call away,We have responded to 626 hotline calls.,high,,claude-sonnet-5,2026-10-08,1,no
+o-0a04a40c08,19,,1,respondents,Awards section / highlights,approximately $48 million in monetary sanctions and voluntary payments ordered against 19 respondents,high,,claude-sonnet-5,2026-10-08,1,no
+o-17c58f07c8,30,,1,countries,5. The geographic reach,tips were received from 30 countries around the world,high,,claude-sonnet-5,2026-10-08,1,no
+o-45ea622910,63%,,1,originated from Ontario,5. The geographic reach,Approximately 63% of tips originated from Ontario,high,,claude-sonnet-5,2026-10-08,1,no
+o-239bc34262,3.2,,billion,US$ recovered by CFTC,PDF p. 136,Associated enforcement actions have resulted in over US $3.2 billion being recovered by the CFTC,medium,Document says 'over US $3.2 billion recovered' in associated enforcement actions; closest figure to sanctions ordered. Not 'ordered'.,claude-sonnet-5,2026-10-08,1,no
+o-1e20c7ce7f,11,,1,whistleblowers,PDF p. 137,more than CAD $9 million was paid to 11 whistleblowers,high,,claude-sonnet-5,2026-10-08,1,no
+o-c404cbf126,68,,1,individuals,PDF p. 138,"despite receiving over 18,000 tips, the SEC paid awards to only 68 individuals",high,Para 549 text is on p. 138; 2023.,claude-sonnet-5,2026-10-08,1,no
+o-47162238eb,1,,million,CAD rewards paid,PDF p. 137,over CAD $1million of rewards had been paid to whistleblowers,medium,Printed as 'over CAD $1million' (lower bound).,claude-sonnet-5,2026-10-08,1,no
+o-9efdf0b624,774,,1,UK nationals giving tips,PDF p. 132,774 UK nationals giving tips to the four different US programmes between 2012 and 2023,high,,claude-sonnet-5,2026-10-08,1,no
+o-ac276044a9,"18,000",,1,tips,PDF p. 138,"despite receiving over 18,000 tips",medium,"Printed as 'over 18,000' (lower bound).",claude-sonnet-5,2026-10-08,1,no
+o-7392ff2227,255,,million,US$ awarded,PDF p. 135,"in 2024, over US $255 million was awarded to 47 individuals",high,Printed 'over US $255 million'.,claude-sonnet-5,2026-10-08,1,no
+o-b6a9c4efa4,390,,million,US$ awarded,PDF p. 136,has awarded approximately US $390 million to whistleblowers,high,Printed 'approximately'.,claude-sonnet-5,2026-10-08,1,no
+o-53228934a0,9,,million,CAD paid,PDF p. 137,more than CAD $9 million was paid to 11 whistleblowers,medium,Printed 'more than CAD $9 million' (lower bound).,claude-sonnet-5,2026-10-08,1,no
+o-6495976840,47,,1,individuals,PDF p. 135,over US $255 million was awarded to 47 individuals,high,,claude-sonnet-5,2026-10-08,1,no
+o-e60b9e01ae,700,,1,UK nationals,Whistleblower Incentivisation section,over 700 UK nationals making an active choice to provide intelligence to the four US programmes between 2012-2023,medium,Printed 'over 700' (lower bound).,claude-sonnet-5,2026-10-08,1,no
+o-0e8e5bb7c4,2.2,,billion,US$ civil settlements and judgments,paragraph on incentivising whistleblowers,86% of the $2.2 billion in civil settlements and judgments recovered by the US Department of Justice were based on whistleblower information,medium,Speech gives no period; figure is the $2.2 billion total (86% whistleblower-based).,claude-sonnet-5,2026-10-08,1,no
+o-c228ba10c9,700,,1,UK whistleblowers,paragraph on incentivising whistleblowers,"Since 2012, over 700 UK whistleblowers have engaged US law enforcement",medium,Printed 'over 700' (lower bound).,claude-sonnet-5,2026-10-08,1,no
