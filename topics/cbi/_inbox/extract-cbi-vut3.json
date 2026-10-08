@@ -1,0 +1,51 @@
+{
+  "slug": "extract-cbi-vut3",
+  "researched_on": "2026-10-08",
+  "summary": "Full extraction of Vanuatu Contribution Program (VCP) amending Order No. 38 of 2020 (2-page scan, read by OCR). Its only number in scope, the due diligence fee raised from USD 2,000 to USD 5,000, was already a programme term for the new fee; this pass adds the superseded USD 2,000 term and a VCP rule-change event for the order's three procedural changes.",
+  "sources": [],
+  "observations": [],
+  "program_terms": [
+    {
+      "program_id": "vut-vcp",
+      "route": "due_diligence_fee",
+      "valid_from": "",
+      "valid_to": "2020-03-27",
+      "min_amount": "2000",
+      "currency": "USD",
+      "applies_to": "each applicant",
+      "source_id": "vut-vcp-amend-order-38-2020",
+      "location": "PDF p. 2, Schedule item 4 (OCR)",
+      "quote": "Delete \"USD2,000\", substitute \"USD5,000\"",
+      "notes": "The fee in paragraph 3(2C) of the Contribution Program Regulations Order No. 220 of 2016 (as then amended) before this Order replaced it. The order does not say when USD 2,000 took effect, so valid_from is left empty (the DSP equivalent dates from Order No. 33 of 2019, 24 April 2019; VCP was amended the same day by Order No. 34 of 2019, not stored). valid_to follows the convention used for the DSP term (t-294287e8c4): the day the replacement commenced. Quote from OCR of the scan."
+    }
+  ],
+  "events": [
+    {
+      "date": "2020-03-27",
+      "date_precision": "day",
+      "jurisdiction": "VUT",
+      "program_id": "vut-vcp",
+      "category": "rule_change",
+      "title": "VCP due diligence tightened and fee raised to USD 5,000",
+      "description": "Order No. 38 of 2020 amends the Contribution Program Regulations Order No. 220 of 2016: the designated agent must apply to the FIU for due diligence checks by an international specialist firm engaged by the FIU (defined as a globally reputable firm specialised in citizenship and visa due diligence) as well as by the FIU itself; the time in paragraph 2A(1)(b) is extended from 48 to 96 hours; the due diligence fee in paragraph 3(2C) rises from USD 2,000 to USD 5,000. Commences on the day it is made. The same changes for the DSP (Order No. 39 of 2020) are event e-e8ca222be4.",
+      "source_id": "vut-vcp-amend-order-38-2020",
+      "location": "PDF p. 1, clauses 1-2; PDF p. 2, Schedule items 1-4 (OCR)",
+      "quote": "Paragraph 2A(1)(b) Delete “48 hours”, substitute “96 hours”"
+    }
+  ],
+  "programs": [],
+  "new_indicators": [],
+  "gaps": [
+    "The signing date is handwritten and only partly legible in OCR ('Made at Port Vila this .. 7 day of Mar.. 2020'); 27 March 2020 is taken from the source record and matches the DSP Order No. 39 of the same day. The page-1 title reads 'Order No. 48 of 2020' in OCR at 350 and 600 dpi, but a cropped re-OCR of the digit reads 3 and both page footers read 'Order No. 38 of 2020'; treated as 38.",
+    "The principal regulations (Order No. 220 of 2016) are not stored, so what the 48/96-hour limit in paragraph 2A(1)(b) applies to is not stated in this document (in the DSP regulations it is the FIU check)."
+  ],
+  "leads": [],
+  "ledger": [
+    {
+      "source_id": "vut-vcp-amend-order-38-2020",
+      "status": "complete",
+      "contains": "Two-page scanned amending order (Citizenship Act s.13D(1)-(2)), made by Prime Minister Charlot Salwai Tabimasmas, commencing on the day made (27 March 2020). Schedule amends the VCP Regulations Order No. 220 of 2016: (1) para 2A(1)(a) replaced: the designated agent applies to the FIU for due diligence checks by an international specialist firm engaged by the FIU and by the FIU, and provides passport, police/judicial clearance and other requested documents; (2) para 2A(1)(b) 48 hours changed to 96 hours (a procedural deadline, described in the event, not tabled, as for the DSP regulations); (3) new subclause 2A(13) defines international specialist firm; (4) para 3(2C) due diligence fee USD 2,000 replaced by USD 5,000. No statistics. New fee term already recorded (t-cbe732e6df) and principal-regulations event already recorded; this pass adds the superseded USD 2,000 term and the 2020-03-27 VCP rule-change event. Text read by OCR (no text layer).",
+      "to_do": ""
+    }
+  ]
+}
