@@ -68,3 +68,11 @@ says what was done to it.
   St Kitts 2023 components add to $622.3m against a printed $621m.
 - 5 new indicators proposed (revenue component share, account balance, share of cash receipts,
   programme costs, dividend payout); marked "proposed" until reviewed.
+
+### Portugal, batch 2 (pass `extract-cbi-prt2`)
+- 20 documents reviewed (17 SEF golden-visa maps 2012-2023, two fee laws, the 2012-2013 map): all complete.
+- Added 1 number (the 2012 all-routes investment total, €2,155,873.56), 8 fee rules (card copies and
+  replacements, permanent residence for golden-visa holders, 2023 fee table) and 1 event (the 2023 fee table).
+- Every existing number in the 17 maps was re-read against the PDF text and two OCR passes; none changed.
+  The maps print only the top five nationalities, so no full nationality table exists in these documents.
+- April 2023: the two real-estate amounts add to €0.20 more than the printed total (already noted on the row).
