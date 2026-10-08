@@ -987,12 +987,15 @@ KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,150,million,150000000.0,budget,kna-audit
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,150000000,1,150000000.0,budget,kna-mof-estimates-2016-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2015-12,8.5,conflict,o-a2afeae11e
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,175,million,175000000.0,actual,kna-audit-report-2016,St. Kitts and Nevis National Audit Office,2018-02,8.5,conflict,o-8bbe961f37
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,175263635,1,175263635.0,actual,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,8.5,conflict,o-b802d1f501
+KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,175.3,million,175300000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,8.5,conflict,o-e69a833574
 KNA,kna-cbi,cbi_fiscal_revenue,2016,XCD,191163365,1,191163365.0,estimate,kna-mof-estimates-2017-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2016-12,8.5,conflict,o-53a6729002
-KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,140146855,1,140146855.0,estimate,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,6.2,revision,o-9ad7ead992
-KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,149411767,1,149411767.0,actual,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,6.2,revision,o-db44171e72
-KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,170000000,1,170000000.0,budget,kna-mof-estimates-2017-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2016-12,6.2,revision,o-584d6c690a
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,140146855,1,140146855.0,estimate,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,6.2,conflict,o-9ad7ead992
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,149.4,million,149400000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,6.2,conflict,o-8fb73bdbef
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,149411767,1,149411767.0,actual,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,6.2,conflict,o-db44171e72
+KNA,kna-cbi,cbi_fiscal_revenue,2017,XCD,170000000,1,170000000.0,budget,kna-mof-estimates-2017-v1,"Ministry of Finance, Federal Government of St. Kitts and Nevis",2016-12,6.2,conflict,o-584d6c690a
 KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,168000000,1,168000000.0,budget,kna-mof-estimates-2018-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2017-12,13.0,conflict,o-dda9b7bc45
 KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,363756282,1,363756282.0,estimate,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,13.0,conflict,o-4173f44f10
+KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,417.0,million,417000000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,13.0,conflict,o-782693a736
 KNA,kna-cbi,cbi_fiscal_revenue,2018,XCD,418,million,418000000.0,actual,kna-audit-report-2018,St. Kitts and Nevis National Audit Office,2019-12,13.0,conflict,o-1367509813
 KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,230000000,1,230000000.0,budget,kna-mof-estimates-2019-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2018-12,48.1,vintage,o-f1e37627d9
 KNA,kna-cbi,cbi_fiscal_revenue,2019,XCD,442.6,million,442600000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,48.1,vintage,o-409b1f842b
@@ -1009,6 +1012,7 @@ KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,271,million,271000000.0,claim,kna-sknis-
 KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,295,million,295000000.0,budget,kna-imf-art4-2021,International Monetary Fund,2021-10,13.1,same_source,o-40ff4ef339
 KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,295000000,1,295000000.0,budget,kna-mof-estimates-2021-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2020-12,13.1,same_source,o-1c700b8ebb
 KNA,kna-cbi,cbi_fiscal_revenue,2020,XCD,298,million,298000000.0,budget,kna-imf-art4-2021,International Monetary Fund,2021-10,13.1,same_source,o-9bf4796533
+KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,250,million,250000000.0,budget,kna-imf-art4-2021,International Monetary Fund,2021-10,7.9,conflict,o-d8405cc5af
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,250000000,1,250000000.0,budget,kna-mof-estimates-2022-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2021-12,7.9,conflict,o-1ba5cf61a2
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,350,million,350000000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,7.9,conflict,o-3f9d6f45e5
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,500000000,1,500000000.0,estimate,kna-mof-estimates-2022-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2021-12,7.9,conflict,o-362129b0e0
@@ -1016,62 +1020,188 @@ KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,542553639,1,542553639.0,actual,kna-mof-e
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,542.6,million,542600000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,7.9,conflict,o-74872bc76d
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,543,million,543000000.0,actual,kna-audit-report-2021,St. Kitts and Nevis National Audit Office,2022-12,7.9,conflict,o-ac49dc136f
 KNA,kna-cbi,cbi_fiscal_revenue,2021,XCD,543,million,543000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,7.9,conflict,o-0cb9df5005
+KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,265.3,million,265300000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,1.4,conflict,o-81afd0384e
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,400000000,1,400000000.0,budget,kna-mof-estimates-2023-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,1.4,conflict,o-1293c9e44b
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669,million,669000000.0,actual,kna-audit-report-2022,St. Kitts and Nevis National Audit Office,2023,1.4,conflict,o-3297b70493
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669,million,669000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,1.4,conflict,o-19645af41e
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,669358624,1,669358624.0,actual,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.4,conflict,o-b84eb460b0
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,678.2,million,678200000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,1.4,conflict,o-4381a1fe02
 KNA,kna-cbi,cbi_fiscal_revenue,2022,XCD,678240618,1,678240618.0,estimate,kna-mof-estimates-2023-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,1.4,conflict,o-f12b44db7f
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,281.3,million,281300000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,1.8,conflict,o-fb0563fd17
 KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,518315789,1,518315789.0,budget,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.8,conflict,o-9b6e214fd3
+KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,539.1,million,539100000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,1.8,conflict,o-a9dc833c92
 KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,610000000,1,610000000.0,estimate,kna-mof-estimates-2024-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2023-12,1.8,conflict,o-0033ed9a20
 KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,620,million,620000000.0,claim,kna-sknis-pm-cbi-speech-2024-10-17,"St. Kitts and Nevis Information Service (SKNIS), Government of St. Kitts and Nevis",2024-10-17,1.8,conflict,o-c2af9b00e8
 KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,620754504,1,620754504.0,actual,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,1.8,conflict,o-ab9a6a22f7
 KNA,kna-cbi,cbi_fiscal_revenue,2023,XCD,621,million,621000000.0,actual,kna-audit-report-2023,St. Kitts and Nevis National Audit Office,2024-12,1.8,conflict,o-8c848a6b8f
 KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,244157349,1,244157349.0,actual,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,20.2,revision,o-626f8919a1
+KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,294.0,million,294000000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,20.2,revision,o-c9462a68c3
 KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,305838741,1,305838741.0,estimate,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,20.2,revision,o-089eb6eca9
+KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,505.5,million,505500000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,20.2,revision,o-f514019420
 KNA,kna-cbi,cbi_fiscal_revenue,2024,XCD,540000000,1,540000000.0,budget,kna-mof-estimates-2025-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2024-12,20.2,revision,o-436cef5a8c
 KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,124468926,1,124468926.0,estimate,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,74.9,vintage,o-5d38b3b392
+KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,306.7,million,306700000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,74.9,vintage,o-13073c23bd
+KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,467.3,million,467300000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,74.9,vintage,o-ecfddeb7ab
 KNA,kna-cbi,cbi_fiscal_revenue,2025,XCD,495000000,1,495000000.0,budget,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,74.9,vintage,o-4f4d5a4f58
+KNA,kna-cbi,cbi_fiscal_revenue,2026,XCD,240000000,1,240000000.0,budget,kna-mof-estimates-2026-v1,"Government of St. Kitts and Nevis, Ministry of Finance",2025-12,43.4,vintage,o-3d7138e521
+KNA,kna-cbi,cbi_fiscal_revenue,2026,XCD,321.2,million,321200000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,43.4,vintage,o-ced76e1497
+KNA,kna-cbi,cbi_fiscal_revenue,2026,XCD,424.4,million,424400000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,43.4,vintage,o-147398b927
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,11.6,1,11.6,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,6.5,revision,o-c6de4bc97e
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2015,percent_of_gdp,12.4,1,12.4,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,6.5,revision,o-8884ae579f
-KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,6.8,1,6.8,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,5.6,revision,o-504bbb5bf7
-KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,7.2,1,7.2,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,5.6,revision,o-1313ac110e
-KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,3.9,1,3.9,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,31.6,vintage,o-53184d1054
-KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,5.7,1,5.7,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,31.6,vintage,o-d8837c675c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,6.4,1,6.4,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,11.1,revision,o-0c459e5f3c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,6.8,1,6.8,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,11.1,revision,o-504bbb5bf7
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2016,percent_of_gdp,7.2,1,7.2,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,11.1,revision,o-1313ac110e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,3.9,1,3.9,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,8.8,revision,o-53184d1054
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,5.2,1,5.2,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,8.8,revision,o-5a3356179d
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2017,percent_of_gdp,5.7,1,5.7,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,8.8,revision,o-d8837c675c
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,3.7,1,3.7,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,74.1,vintage,o-033f3ad97d
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,7.4,1,7.4,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,74.1,vintage,o-aa3eb5a17b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,14.3,1,14.3,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,74.1,vintage,o-73b3209faa
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2018,percent_of_gdp,14.3,1,14.3,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,74.1,vintage,o-6a8dfe9f48
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,1.8,1,1.8,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,4.7,revision,o-49d7c77973
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,2.6,1,2.6,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,4.7,revision,o-8e4a787b7b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.1,1,14.1,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,4.7,revision,o-1397c260eb
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.1,1,14.1,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,4.7,revision,o-8158f86529
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,4.7,revision,o-471ef33c7c
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,4.7,revision,o-2638b0240f
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2019,percent_of_gdp,14.8,1,14.8,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,4.7,revision,o-d0a3f9b0df
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,2.0,1,2.0,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,13.3,revision,o-7dd9499a10
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,9.8,1,9.8,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,13.3,revision,o-cbcf561c13
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,9.8,1,9.8,estimate,kna-imf-pr-2021,International Monetary Fund,2021-10-30,13.3,revision,o-d5e05f0bad
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,13.3,revision,o-21866ef513
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,13.3,revision,o-8128bd00b3
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2020,percent_of_gdp,11.3,1,11.3,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,13.3,revision,o-75acedd97e
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,13.3,1,13.3,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,2.1,revision,o-aa2340c3cf
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,13.3,1,13.3,projection,kna-imf-pr-2021,International Monetary Fund,2021-10-30,2.1,revision,o-9404ae7cb1
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.3,1,23.3,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,2.1,revision,o-e9be74368e
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.4,1,23.4,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,2.1,revision,o-27c5a3b011
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.4,1,23.4,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,2.1,revision,o-dc4318a4a5
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2021,percent_of_gdp,23.8,1,23.8,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,2.1,revision,o-b90156f61b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,1.9,revision,o-925afa5f73
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,9.0,1,9.0,projection,kna-imf-pr-2021,International Monetary Fund,2021-10-30,1.9,revision,o-cd5bd43662
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.3,1,25.3,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,1.9,revision,o-af7f791b46
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.5,1,25.5,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,1.9,revision,o-b19e7884d4
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.8,1,25.8,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,1.9,revision,o-ff1c94fd07
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2022,percent_of_gdp,25.8,1,25.8,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,1.9,revision,o-f79a3bc5ce
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,3.2,revision,o-b838f40d27
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,9.0,1,9.0,projection,kna-imf-pr-2021,International Monetary Fund,2021-10-30,3.2,revision,o-9fe6033d4e
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,19.0,1,19.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,3.2,revision,o-1b80c12da5
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,21.5,1,21.5,estimate,kna-imf-pr-2024,International Monetary Fund,2024-05-15,3.2,revision,o-e2195ace55
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,21.7,1,21.7,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,3.2,revision,o-cfbfdef1a4
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2023,percent_of_gdp,22.2,1,22.2,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,3.2,revision,o-122c6304fb
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,8.1,1,8.1,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,5.8,revision,o-a003977f61
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,8.6,1,8.6,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,5.8,revision,o-88a6dfee0c
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,5.8,revision,o-30620be750
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,9.0,1,9.0,projection,kna-imf-pr-2021,International Monetary Fund,2021-10-30,5.8,revision,o-7ad507be05
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,17.0,1,17.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,5.8,revision,o-125f60511a
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2024,percent_of_gdp,18.0,1,18.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,5.8,revision,o-361880e0fa
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,5.3,1,5.3,estimate,kna-imf-pr-2026,International Monetary Fund,2026-05-07,66.9,vintage,o-8281a524e5
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,66.9,vintage,o-5e0a00df3a
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,66.9,vintage,o-0929d320aa
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,15.0,1,15.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,66.9,vintage,o-98cd79f3e5
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,16,1,16.0,budget,kna-imf-art4-2025,International Monetary Fund,2025-05,66.9,vintage,o-63eca6b3a7
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2025,percent_of_gdp,16.0,1,16.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,66.9,vintage,o-43d7391692
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,6.0,1,6.0,projection,kna-imf-pr-2026,International Monetary Fund,2026-05-07,53.8,vintage,o-ae9874fc04
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,53.8,vintage,o-03bae9d46b
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,53.8,vintage,o-bceeb46dee
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2026,percent_of_gdp,13.0,1,13.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,53.8,vintage,o-a996cb76bd
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,6.5,1,6.5,projection,kna-imf-pr-2026,International Monetary Fund,2026-05-07,43.5,vintage,o-83fb676d16
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,43.5,vintage,o-dc13b7a7dc
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,43.5,vintage,o-757cde6d93
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2027,percent_of_gdp,11.5,1,11.5,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,43.5,vintage,o-917c2073a6
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,10.0,vintage,o-a1d20a7e95
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,9.0,1,9.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,10.0,vintage,o-e8c4835a26
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,10.0,1,10.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,10.0,vintage,o-6b5de7beb1
+KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,10,1,10.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,10.0,vintage,o-9beb5a2f85
 KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,54.9,1,54.9,provisional,kna-mof-budget-address-2023,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,3.7,conflict,o-8219163366
 KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,57,1,57.0,actual,kna-audit-report-2021,St. Kitts and Nevis National Audit Office,2022-12,3.7,conflict,o-328dd2acc9
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2019,XCD,25.8,million,25800000.0,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,10.4,revision,o-ef70500f1e
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2019,XCD,28.8,million,28800000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,10.4,revision,o-e48017b3e3
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2020,XCD,8.6,million,8600000.0,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,67.5,revision,o-18510c8f5d
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2020,XCD,26.5,million,26500000.0,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,67.5,revision,o-2274386c76
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2021,XCD,7.2,million,7200000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,77.4,vintage,o-cff0cb1d6b
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2021,XCD,31.8,million,31800000.0,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,77.4,vintage,o-cc7417ecdc
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2022,XCD,3.6,million,3600000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,95.0,vintage,o-8587a5a433
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2022,XCD,71.9,million,71900000.0,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,95.0,vintage,o-d025bd696d
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2023,XCD,3.6,million,3600000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,93.7,vintage,o-cd25a87e0c
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2023,XCD,57.1,million,57100000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,93.7,vintage,o-363ebb034a
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2024,XCD,3.6,million,3600000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,93.3,vintage,o-4d1db2b415
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2024,XCD,53.6,million,53600000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,93.3,vintage,o-dbdc7b0f5d
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2025,XCD,3.6,million,3600000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,92.7,vintage,o-101291d9bc
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2025,XCD,49.5,million,49500000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,92.7,vintage,o-60cfc5431a
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2026,XCD,3.6,million,3600000.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,92.0,vintage,o-ed094c95f1
+KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2026,XCD,45.0,million,45000000.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,92.0,vintage,o-44a862c561
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2020,percent_of_gdp,0.3,1,0.3,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,72.7,revision,o-4a3db83197
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2020,percent_of_gdp,1.1,1,1.1,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,72.7,revision,o-1b222f8da9
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2020,percent_of_gdp,1.1,1,1.1,actual,kna-imf-art4-2025,International Monetary Fund,2025-05,72.7,revision,o-1bfc2236d9
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2021,percent_of_gdp,0.3,1,0.3,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,78.6,vintage,o-f47a258788
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2021,percent_of_gdp,1.4,1,1.4,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,78.6,vintage,o-c76cb48ffc
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2021,percent_of_gdp,1.4,1,1.4,actual,kna-imf-art4-2025,International Monetary Fund,2025-05,78.6,vintage,o-a62609360d
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2022,percent_of_gdp,0.1,1,0.1,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,14.8,revision,o-3ed7767039
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2022,percent_of_gdp,2.3,1,2.3,actual,kna-imf-art4-2025,International Monetary Fund,2025-05,14.8,revision,o-0e2a5a44d9
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2022,percent_of_gdp,2.7,1,2.7,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,14.8,revision,o-aef4a76c04
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2023,percent_of_gdp,0.1,1,0.1,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,96.0,vintage,o-21a8ea4705
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2023,percent_of_gdp,2.0,1,2.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,96.0,vintage,o-e3482489cf
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2023,percent_of_gdp,2.5,1,2.5,actual,kna-imf-art4-2025,International Monetary Fund,2025-05,96.0,vintage,o-c269617278
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2024,percent_of_gdp,0.1,1,0.1,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,94.4,vintage,o-39a8b9f36c
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2024,percent_of_gdp,0.1,1,0.1,estimate,kna-imf-art4-2025,International Monetary Fund,2025-05,94.4,vintage,o-ca3809f1cd
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2024,percent_of_gdp,1.8,1,1.8,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,94.4,vintage,o-678b3fd794
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2025,percent_of_gdp,0.0,1,0.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,100.0,vintage,o-54bc3e0c38
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2025,percent_of_gdp,0.1,1,0.1,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,100.0,vintage,o-a729dc934b
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2025,percent_of_gdp,1.6,1,1.6,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,100.0,vintage,o-ca94372ac0
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2026,percent_of_gdp,0.0,1,0.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,100.0,vintage,o-1cb838a084
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2026,percent_of_gdp,0.1,1,0.1,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,100.0,vintage,o-203c6ce032
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2026,percent_of_gdp,1.4,1,1.4,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,100.0,vintage,o-32a4f5eba0
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2027,percent_of_gdp,0.0,1,0.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,100.0,vintage,o-f2bda8ec29
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2027,percent_of_gdp,1.2,1,1.2,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,100.0,vintage,o-a3153f4b80
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2028,percent_of_gdp,0.0,1,0.0,projection,kna-imf-art4-2025,International Monetary Fund,2025-05,100.0,vintage,o-e28c4397cb
+KNA,kna-cbi,cbi_programme_costs_pct_gdp [category=due_diligence],2028,percent_of_gdp,1.1,1,1.1,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,100.0,vintage,o-84f18b9ef5
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2019,percent_of_gdp,-20.6,1,-20.6,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,9.0,revision,o-fd68e1c0c9
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2019,percent_of_gdp,-18.9,1,-18.9,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,9.0,revision,o-128a3a51ea
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2020,percent_of_gdp,-24.2,1,-24.2,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,9.0,revision,o-ab61bf2dd1
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2020,percent_of_gdp,-22.2,1,-22.2,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,9.0,revision,o-cacc0dbef2
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2021,percent_of_gdp,-29.2,1,-29.2,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,18.7,vintage,o-1022947aee
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2021,percent_of_gdp,-24.6,1,-24.6,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,18.7,vintage,o-297adc13d5
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2022,percent_of_gdp,-30.8,1,-30.8,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,89.0,vintage,o-cc10236aaa
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2022,percent_of_gdp,-16.3,1,-16.3,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,89.0,vintage,o-27c86f7881
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2023,percent_of_gdp,-22.6,1,-22.6,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,48.7,vintage,o-3f080bc605
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2023,percent_of_gdp,-15.2,1,-15.2,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,48.7,vintage,o-6c469baa9e
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2024,percent_of_gdp,-19.8,1,-19.8,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,34.7,vintage,o-fc6df6aac3
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2024,percent_of_gdp,-14.7,1,-14.7,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,34.7,vintage,o-ed153d56d5
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2025,percent_of_gdp,-16.9,1,-16.9,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,15.0,vintage,o-4b598a75cb
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2025,percent_of_gdp,-14.7,1,-14.7,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,15.0,vintage,o-eec0bbca9b
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2026,percent_of_gdp,-14.7,1,-14.7,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,2.8,vintage,o-3d4ddced60
+KNA,kna-cbi,current_account_excl_cbi_pct_gdp,2026,percent_of_gdp,-14.3,1,-14.3,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,2.8,vintage,o-f39060841e
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2015,percent_of_gdp,-6.7,1,-6.7,actual,kna-imf-pr-2017,International Monetary Fund,2017-07-05,21.8,revision,o-3ffe00bda0
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2015,percent_of_gdp,-5.5,1,-5.5,actual,kna-imf-pr-2018,International Monetary Fund,2022-11-21,21.8,revision,o-d590722059
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2016,percent_of_gdp,-3.7,1,-3.7,estimate,kna-imf-pr-2017,International Monetary Fund,2017-07-05,27.6,revision,o-cef8e55337
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2016,percent_of_gdp,-3.0,1,-3.0,actual,kna-imf-pr-2018,International Monetary Fund,2022-11-21,27.6,revision,o-559a826269
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2016,percent_of_gdp,-2.9,1,-2.9,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,27.6,revision,o-54400690fc
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2017,percent_of_gdp,-6.6,1,-6.6,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,10.2,revision,o-d0ce5eb65c
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2017,percent_of_gdp,-5.4,1,-5.4,estimate,kna-imf-pr-2018,International Monetary Fund,2022-11-21,10.2,revision,o-a04c464f19
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2017,percent_of_gdp,-4.9,1,-4.9,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,10.2,revision,o-cd72445eed
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2018,percent_of_gdp,-12.6,1,-12.6,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,215.0,vintage,o-50680c7758
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2018,percent_of_gdp,-6.1,1,-6.1,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,215.0,vintage,o-c0fd6e789f
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2018,percent_of_gdp,-4.0,1,-4.0,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,215.0,vintage,o-1b0bb582bb
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2019,percent_of_gdp,-19.2,1,-19.2,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,48.8,revision,o-6bc9696d36
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2019,percent_of_gdp,-12.9,1,-12.9,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,48.8,revision,o-846abcb02d
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2019,percent_of_gdp,-5.3,1,-5.3,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,48.8,revision,o-e4faba613b
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2019,percent_of_gdp,-4.6,1,-4.6,projection,kna-imf-pr-2017,International Monetary Fund,2017-07-05,48.8,revision,o-a34f83ee26
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2020,percent_of_gdp,-21.8,1,-21.8,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,53.5,revision,o-79e2e16665
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2020,percent_of_gdp,-14.2,1,-14.2,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,53.5,revision,o-0f2ae6005b
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2020,percent_of_gdp,-5.4,1,-5.4,projection,kna-imf-pr-2018,International Monetary Fund,2022-11-21,53.5,revision,o-60c1d0df05
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2021,percent_of_gdp,-14.8,1,-14.8,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,10.4,vintage,o-d66f786459
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2021,percent_of_gdp,-13.4,1,-13.4,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,10.4,vintage,o-3090b0e2a4
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2022,percent_of_gdp,-22.3,1,-22.3,estimate,kna-imf-art4-2023,International Monetary Fund,2023-03,165.5,vintage,o-b563a90a33
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2022,percent_of_gdp,-8.4,1,-8.4,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,165.5,vintage,o-917e079275
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2023,percent_of_gdp,-18.1,1,-18.1,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,158.6,vintage,o-b2b2793b11
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2023,percent_of_gdp,-7.0,1,-7.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,158.6,vintage,o-3c51297dbc
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2024,percent_of_gdp,-18.0,1,-18.0,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,157.1,vintage,o-8058528511
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2024,percent_of_gdp,-7.0,1,-7.0,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,157.1,vintage,o-822ee61aa2
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2025,percent_of_gdp,-17.9,1,-17.9,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,159.4,vintage,o-7adfb04196
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2025,percent_of_gdp,-6.9,1,-6.9,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,159.4,vintage,o-1bd324bb20
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-18.7,1,-18.7,projection,kna-imf-art4-2023,International Monetary Fund,2023-03,171.0,vintage,o-45583c83b3
+KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-6.9,1,-6.9,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,171.0,vintage,o-a221f8d0c6
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,24,1,24.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-633c7ab4c7
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,25,1,25.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-da2d719173
 LCA,lca-cbi,applications_received,FY2020/21,applications,383,1,383.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,6.1,revision,o-469390b784

@@ -300,3 +300,21 @@ says what was done to it.
 - Every statistics page adds up; approvals in principle plus formal approvals match each year's total.
 - **Decision needed (recurring):** Hong Kong annual reports print a bare "$". Existing rows record
   HKD; the dataset's rule says "unspecified". One choice should apply to all of them.
+
+### St Kitts and Nevis, batch 1 (pass `extract-cbi-kna1`)
+- 20 documents reviewed: 15 complete, 5 partial.
+- Added 338 numbers, 94 rules and fees, 14 events.
+  - **Biggest gap found:** the main tables of the 2021 and 2023 IMF Article IV reports are images
+    with no text, so earlier passes never took them. Read by OCR: programme revenue in EC$ and as %
+    of GDP 2016-2030, due-diligence costs, balances excluding programme money.
+  - CIU web pages, December 2022 address, 2023 press release: prices and fees (45 rules).
+  - IMF working paper 15/93 (the multi-country one): 75 numbers, 39 rules, 4 events.
+- Partial: one fee in the scanned 2022 address reads US$37,500 or US$87,500 depending on scan
+  resolution (left out; needs an eye check); balances in EC$ and percentage changes with no measure yet;
+  several items in WP 15/93 (listed in the to-do).
+- Did not add up: the 2025 IMF report prints -11.0 in a text table and -11.3 in Table 2 for the same
+  balance; recorded the Table 2 figure.
+- **Decisions needed:** 8 new indicators; past years in IMF tables recorded as "actual" while existing
+  rows from the same tables say "estimate"; Comoros programme end (IMF says September 2013, other sources
+  May 2016; recorded as a separate event). The low-resolution OCR the quote checker uses reads the
+  US$150,000 limited-time price as "190.000"; two sharper passes read 150,000.
