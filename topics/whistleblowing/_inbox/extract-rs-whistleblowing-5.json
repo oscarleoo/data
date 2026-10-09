@@ -1,0 +1,92 @@
+{
+ "slug": "extract-rs-whistleblowing-5",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 re-read of six US documents: rules each states that were recorded only from other sources now get a row quoted from that document. Only the TIGTA 2016 audit stated rules not yet recorded from it (7623(a) 15-30% from 1 July 2010; the second 30-day period after a confidentiality agreement).",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "award_pct_min",
+   "valid_from": "2010-07-01",
+   "valid_to": "",
+   "value": "15",
+   "unit": "percent",
+   "applies_to": "section 7623(a) claims submitted on or after 1 July 2010 (IRS policy: same criteria and percentages as 7623(b))",
+   "source_id": "usa-tigta-wbo-audit-2016",
+   "location": "p. 1 (printed), Background",
+   "quote": "This discretionary award policy continued with some minor modifications until July 1, 2010, when the policy was changed to match § 7623(b) criteria for award payments.",
+   "notes": "The 15% and 30% figures are those printed for § 7623(b) in the same Background paragraph (p. 1): 'The award amount is at least 15 percent but not more than 30 percent of the collected proceeds'; this sentence says the § 7623(a) policy was changed to match those criteria from 1 July 2010."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "award_pct_max",
+   "valid_from": "2010-07-01",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "section 7623(a) claims submitted on or after 1 July 2010 (IRS policy)",
+   "source_id": "usa-tigta-wbo-audit-2016",
+   "location": "p. 1 (printed), Background",
+   "quote": "This discretionary award policy continued with some minor modifications until July 1, 2010, when the policy was changed to match § 7623(b) criteria for award payments.",
+   "notes": "The 15% and 30% figures are those printed for § 7623(b) in the same Background paragraph (p. 1): 'The award amount is at least 15 percent but not more than 30 percent of the collected proceeds'; this sentence says the § 7623(a) policy was changed to match those criteria from 1 July 2010."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "7623(b) award: further period after returning the confidentiality agreement within the 30-day review period, to receive additional explanation or discuss the award with the WO",
+   "source_id": "usa-tigta-wbo-audit-2016",
+   "location": "p. 7 (printed); also Appendix process step 7.5.2",
+   "quote": "the whistleblower can return a confidentiality agreement within the 30-day review and comment period and receive another 30-day period to receive additional explanation or discuss the award with the WO",
+   "notes": "Not recorded from any other source; added because this pass records every rule the document states."
+  }
+ ],
+ "cases": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "usa-sec-wb-order-34-99929",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 99929 (9 Apr 2024, File No. 2024-15, 2 pp., redacted): 30% award, no dollar amount (already recorded). No new rows; suggested summary and notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-senate-psi-boeing-opening-2024",
+   "status": "complete",
+   "contains": "Opening statement of Chair Richard Blumenthal at the Senate Permanent Subcommittee on Investigations hearing 'Examining Boeing's Broken Safety Culture: Firsthand Accounts' (17 Apr 2024, 3 pp.): Boeing whistleblowers (Salehpour, Pierson, Jacobsen, Barnett) and retaliation, already recorded as a case and an event. The only other number (346 deaths in the 2018-2019 737 MAX crashes) is not about a whistleblower programme. No reward programme involved; nothing new to add. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-tigta-wbo-audit-2016",
+   "status": "complete",
+   "contains": "TIGTA audit report 2016-30-059 (30 Aug 2016, 73 PDF pp.; management response pp. 61-66 are images, OCR'd). Programme content extracted: 7623(a)/(b) rules and pre-2010 discretionary policy; WO staffing by unit FY2011-2015 (Figure 1, values read from a stacked bar chart, units assigned by segment colour); submissions and claims by designation FY2011-2016 (Figures 2-3); closure reasons FY2015-2016 (Figure 4); claims per whistleblower and status of claims FY2013-2015 (Figures 5-6); award rate of collected proceeds (Figure 7; collections, awards and counts already recorded); days to establish submissions (Figure 8; counts already recorded); SB/SE classification volumes and backlogs; Form 11369 and rejection-letter backlogs; December 2015 cleanup; cycle-time estimates (Figure 11, Appendix V); claim-population and error-rate estimates (Figure 12, Appendix VI, p. 26); open claims Oct 2015; IRS-connected whistleblowers (Figure 13); processing targets; 4 events. Not extracted as rows (judged audit-working or IT detail, not programme statistics): raw audit-sample tallies (debriefing sample 16/6/67/16/7/19/25 of 89 submissions, 14 and 8 of 22; exception tallies 72 of 135, 10/9/8/13/11/25 etc.; 21, 49, 8, 34, 15 sample claims; 25 interviewees), Figure 12 sample counts (60, 21, 49, 8), E-TRAK downtime (31 times/62 hours 2014, 106 times/307 hours 2015), AIMS coding checks (5,774 modules, 621 = 10.8%, 30-module sample with 22 and 13, SB/SE 306, 3,378 of 8,009, 1,500 of 7,548, 504 of 5,136, 104 of 5,883), procedural alerts (8 in FY2014, 11 in FY2015), tax-gap estimates ($458/$52/$406 billion), the 18-/13-month statute criteria, and the 24-month estimate in the management response. Figure 9 and Figure 10 are charts without printed values (their peaks are given in the text and extracted). All printed tables checked: parts add up to totals. Added 202 observations, 17 rules, 4 events, 2 proposed indicators (whistleblowers_filing, claims_processed_step). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-uscode-16usc3375-2024",
+   "status": "complete",
+   "contains": "16 U.S.C. 3375 (Lacey Act enforcement, 2024 ed.): enforcement agencies and powers, district-court jurisdiction, and (d) rewards from penalties, fines or forfeitures beginning in fiscal year 1983 (amount set by the Secretary; officials ineligible) plus costs of caring for seized wildlife; amendment notes (1984, 1988). No numbers. The discretionary rule was already recorded; added the 1981 enactment event and a suggested correction of the rule's start date (FY1983 began 1 Oct 1982). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-uscode-31usc5323-2018",
+   "status": "complete",
+   "contains": "31 U.S.C. 5323 'Rewards for informants' (2018 ed.): the Secretary may pay a reward for original information leading to a recovery over $50,000 for a BSA violation; at most 25% of the net amount collected or $150,000, whichever is less; officials ineligible; appropriations authorised (no amount). All in-scope rules (threshold, two caps, discretionary) and the 1984 enactment event are already recorded from this source. Nothing added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-uscode-49usc30172-2023",
+   "status": "complete",
+   "contains": "49 U.S.C. 30172 (Motor Vehicle Safety Whistleblower Act, 2023 ed.): definitions (covered action over $1,000,000 in aggregate; whistleblower = employee or contractor of a manufacturer, parts supplier or dealer), discretionary awards of 10-30% of collected sanctions, criteria and denials (incl. failure to report internally), representation, confidentiality, false information, appeals within 30 days, regulations due within 18 months; rule-of-construction note. Already recorded: 10%, 30%, $1,000,000, discretionary, 2015 launch event. Added the 30-day appeal. The statute does not provide for anonymous claims (the 2024 rule does, already recorded). Nothing else in scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  }
+ ]
+}
