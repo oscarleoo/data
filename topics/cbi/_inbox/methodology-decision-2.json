@@ -3,5 +3,78 @@
  "researched_on": "2026-10-09",
  "summary": "Ledger notes after removing inferred counts.",
  "observations": [],
- "ledger": []
+ "ledger": [
+  {
+   "source_id": "egy-gazette-pmd-1321-2022",
+   "status": "complete",
+   "contains": "PM Decree 1321/2022 (dated 2022-04-06; Gazette No. 13 bis (c) of 2022-04-06, pp. 3-4) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 9 named people with nationality, place and date of birth (Syrian 5, Palestinian 3, Lebanese 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-1323-2022",
+   "status": "complete",
+   "contains": "PM Decree 1323/2022 (dated 2022-04-06; Gazette No. 13 bis (c) of 2022-04-06, pp. 5-7) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 17 named people with nationality, place and date of birth (Syrian 15, Palestinian 1, British 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-2653-2022",
+   "status": "complete",
+   "contains": "PM Decree 2653/2022 (dated 2022-07-25; Gazette No. 31 of 2022-08-04, pp. 33-34) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 15 named people with nationality, place and date of birth (Syrian 5, Palestinian 3, Sri Lankan 3, Yemeni 2, Lebanese 1, Libyan 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3280-2023",
+   "status": "complete",
+   "contains": "PM Decree 3280/2023 (dated 2023-08-29; Gazette No. 34 bis (c) of 2023-08-29, pp. 2-3) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 2 named people with nationality, place and date of birth (Syrian 1, Libyan 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3708-2023",
+   "status": "complete",
+   "contains": "PM Decree 3708/2023 (dated 2023-10-01; Gazette No. 42 of 2023-10-19, pp. 43-44) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 10 named people with nationality, place and date of birth (Syrian 8, Palestinian 1, Libyan 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3709-2023",
+   "status": "complete",
+   "contains": "PM Decree 3709/2023 (dated 2023-10-01; Gazette No. 42 of 2023-10-19, pp. 45-46) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 10 named people with nationality, place and date of birth (Syrian 10); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3710-2023",
+   "status": "complete",
+   "contains": "PM Decree 3710/2023 (dated 2023-10-01; Gazette No. 42 of 2023-10-19, pp. 47-48) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 10 named people with nationality, place and date of birth (Syrian 8, Iraqi 2); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3711-2023",
+   "status": "complete",
+   "contains": "PM Decree 3711/2023 (dated 2023-10-01; Gazette No. 42 of 2023-10-19, pp. 49-50) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 10 named people with nationality, place and date of birth (Syrian 10); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3712-2023",
+   "status": "complete",
+   "contains": "PM Decree 3712/2023 (dated 2023-10-01; Gazette No. 42 of 2023-10-19, pp. 51-52) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 10 named people with nationality, place and date of birth (Syrian 10); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-3713-2023",
+   "status": "complete",
+   "contains": "PM Decree 3713/2023 (dated 2023-10-01; Gazette No. 40 bis (f) of 2023-10-11, pp. 3-4) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 7 named people with nationality, place and date of birth (Syrian 5, Lebanese 2); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-4876-2023",
+   "status": "complete",
+   "contains": "PM Decree 4876/2023 (dated 2023-12-17; Gazette No. 52 of 2023-12-28, pp. 54-55) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 6 named people with nationality, place and date of birth (Syrian 6); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  },
+  {
+   "source_id": "egy-gazette-pmd-596-2023",
+   "status": "complete",
+   "contains": "PM Decree 596/2023 (dated 2023-02-12; Gazette No. 8 of 2023-02-23, pp. 19-20) granting Egyptian nationality: preamble cites Law 26/1975, Investment Law 72/2017 and PM Decrees 3099/2019 and 647/2020 (investment programme); Art. 1 lists 12 named people with nationality, place and date of birth (Syrian 11, Iraqi 1); Art. 2 publication. The total was already recorded; nationality split added. Names, birthplaces and birth dates are personal data and not recorded; no amounts or routes are given. Counts of persons naturalised (in total and by nationality) are not recorded: the decree prints an unnumbered list of names with no total, so any count would be a tally by us (METHODOLOGY.md decision 2, 'inferred').",
+   "to_do": ""
+  }
+ ]
 }
