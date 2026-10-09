@@ -22,6 +22,7 @@ HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(HERE, "data")
 REPORTS = os.path.join(HERE, "reports")
 
+READINGS = {"digits", "words", "bound", "approximate", "implied"}
 STATUS = {"actual", "provisional", "estimate", "projection", "budget", "reported", "claim", "derived"}
 SOURCE_TYPES = {"government", "legislation", "imf", "world_bank", "eu", "court", "international_org",
                 "academic", "ngo", "media", "industry"}
@@ -107,6 +108,13 @@ def main():
                 errors.append(f"observation {oid}: missing {field}")
         if o.get("status") and o["status"] not in STATUS:
             errors.append(f"observation {oid}: unknown status {o['status']!r}")
+        rd = o.get('reading', '')
+        if rd == 'inferred':
+            errors.append(f"observation {oid}: reading 'inferred' is not allowed (METHODOLOGY.md decision 2)")
+        elif rd and rd not in READINGS:
+            errors.append(f"observation {oid}: unknown reading {rd!r}")
+        elif not rd and o['status'] != 'derived':
+            warnings.append(f"observation {oid}: no reading yet (scripts/reading.py lists rows to review)")
         if o['status'] == 'derived' and 'Recipe:' not in o.get('notes', ''):
             errors.append(f"observation {oid}: derived figure without a 'Recipe:' in notes (METHODOLOGY.md decision 1)")
         if o.get("source_id") and o["source_id"] not in sources:
