@@ -66,9 +66,9 @@
    "unit": "CAD",
    "applies_to": "per award, where monetary sanctions and/or voluntary payments are not collected",
    "source_id": "can-osc-fs-2020",
-   "location": "PDF pp. 20-21, Note 6, paragraph 2",
-   "quote": "The maximum amount of the award has been set at $1.5 million where monetary sanctions and/or voluntary payments are not collected",
-   "notes": ""
+   "location": "PDF p. 20, Note 6, paragraph 2",
+   "quote": "The maximum amount of the award has been set at $1.5 million where monetary sanctions and/or voluntary payments are",
+   "notes": "The sentence continues on PDF p. 21: 'not collected and $5.0 million where these amounts have been collected'."
   },
   {
    "program_id": "can-osc-wb",
@@ -2325,6 +2325,12 @@
    "source_id": "svk-zz-2014-307-whistleblower-act",
    "status": "complete",
    "contains": "Slovak Act No. 307/2014 of 16 Oct 2014 (version in force 1 Jan 2015-30 Jun 2016, 21 pp.): definitions (serious anti-social activity: listed crimes, crimes punishable by over 3 years, administrative offences with a maximum fine of at least EUR 50,000); protection in criminal and administrative proceedings (labour inspectorate consent for labour-law acts against a protected whistleblower, decision within 30 days); end of protection; § 9-10 Ministry of Justice reward up to 50 times the minimum wage after a final decision, request within 6 months, decision within 6 months, no legal right and no court review; internal reporting systems for employers with 50+ staff and public bodies (review within 90 days, +30; reply within 10 days; records kept 3 years); suspension of labour-law acts (request within 7 days, 14-day suspension); procedural fines up to EUR 500 and administrative fines up to EUR 20,000; legal aid; prevention and education; transitional rules; amendments to other acts (Labour Code, Criminal Procedure Code, civil service, legal aid, labour inspection, schools). No statistics. Cap, discretionary flag, filing deadline and launch were already in the data; added conviction requirement, decision deadline, no anonymous request, the EUR 50,000 offence threshold, the employer fine cap and the adoption event. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "svk-zz-2021-187-competition-act",
+   "status": "complete",
+   "contains": "Slovak Act No. 187/2021 on the protection of competition (version 1 Jun 2021-29 Feb 2024, 46 pp.): prohibited agreements, dominance, mergers, procedure, inspections, fines (up to 10% of turnover), leniency (§ 51), settlement, § 53 reward for the first natural person to deliver decisive evidence of a horizontal agreement: entitlement on request once the decision is final and the fine paid (or after court review); 1% of all fines, max EUR 100,000; 50% (max EUR 10,000) if fines unpaid within 100 days; entrepreneurs and staff of earlier leniency applicants excluded; reward decision not published, no appeal; identity protected on request; Act 54/2019 does not apply; amendments to other acts; in force 1 Jun 2021. No statistics. Rate, unpaid-fine cap, entitlement flag and entry-into-force event were already in the data; added the EUR 100,000 cap, the 50% partial rule, the exclusion and the identity rule. Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   }
  ]

@@ -732,6 +732,58 @@
    "location": "p. 4, Determining Award Percentages",
    "quote": "The Whistleblower Rule Amendments that became effective in December 2020 created a presumption of a maximum 30% award in circumstances where the Commission does not reasonably anticipate that a maximum award would exceed $5 million",
    "notes": "The report gives the month only (December 2020); the presumption also requires no negative factors and no Rule 21F-16 issue."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "120",
+   "unit": "days",
+   "applies_to": "persons with compliance or internal audit duties: minimum wait after reporting internally before their information can count as original",
+   "source_id": "usa-sec-wb-order-34-100025",
+   "location": "p. 1, footnote 1",
+   "quote": "pursuant to the 120-day exception in Rule 21F-4(b)(4)(v)(C), 17 C.F.R. § 240.21F-4(b)(4)(v)(C), Claimant reported the information internally to Claimant’s supervisor and to the Chief Compliance Officer or its equivalent, and then waited at least 120 days to report the information to the Commission.",
+   "notes": "The rule is stated through its application to this claimant."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-100392",
+   "location": "p. 1, footnote 2",
+   "quote": "The Commission may pay an award based on amounts collected in a related action that is based on the same original information that the whistleblower voluntarily provided to the Commission and that led the Commission to obtain monetary sanctions totaling more than $1 million.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-100392",
+   "location": "p. 5, Part IV",
+   "quote": "Exchange Act Rule 21F-5(b) further provides, in part, that the amount of an award “will be at least 10 percent and no more than 30 percent of the monetary sanctions that the Commission and the other authorities are able to collect.”",
+   "notes": "The same paragraph quotes the statute: 'not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions'."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-100392",
+   "location": "p. 5, Part IV",
+   "quote": "Exchange Act Rule 21F-5(b) further provides, in part, that the amount of an award “will be at least 10 percent and no more than 30 percent of the monetary sanctions that the Commission and the other authorities are able to collect.”",
+   "notes": "The order also says the 30% statutory limit cannot be exceeded through the Section 36(a) exemptive authority."
   }
  ],
  "cases": [],
@@ -890,6 +942,30 @@
    "status": "complete",
    "to_do": "",
    "contains": "SEC OWB \"Press Releases and Statements\" page (Wayback capture, page 1 of 2: items 1-100 of 173, June 2020 to April 2025; page 2 is not stored): date, headline and release number. 90 award announcements recorded as cases from the headlines (91 rows: two headlines carry two amounts; the \"$1 Billion\" milestone headline gave a cumulative awards observation and an event already exists; no-amount headlines recorded without amount). Non-award items: the Feb 2022 rule proposal and the Sept 2021 two-person bar added as events; the statements, the Aug 2022 and Sept 2020 rule items and the staff change were already covered by events. The stored page lists no award press release after April 2025. The 73 items on page 2 (older releases) are not in this document; the 2021 list covers them. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-100025",
+   "status": "complete",
+   "to_do": "",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 100025 (25 Apr 2024, File No. 2024-17, 2 pp., heavily redacted): award to one claimant of a redacted percentage of sanctions collected, \"a payout of approximately $2,400,000\" (already recorded as c-62e7c031af). Claimant had compliance or audit duties and qualified through the 120-day exception after reporting internally to a supervisor and the Chief Compliance Officer; the tip prompted the opening of the investigation. Covered action, sanctions and dates redacted. No denials. Nothing new to add as a row; the insider/internal-reporting detail is given as a suggested correction to the existing case notes. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-100392",
+   "status": "complete",
+   "to_do": "",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 100392 (21 Jun 2024, File No. 2024-27, 6 pp.): joint award of \"approximately $200,000\" (redacted percentage) on the SEC covered action and related actions by another agency to two claimants (an attorney and an officer, eligible under the substantial-injury exception) who had reported internally (already recorded, c-c0b155984c); the Commission refused to compute the award on a larger amount or exceed the 30% statutory cap. Restates the 10-30% statutory range (already in program_rules). Sanctions and amounts collected redacted. No separate claimant denied. Suggested correction to the existing note. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-101211",
+   "status": "complete",
+   "to_do": "",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 101211 (27 Sep 2024, File No. 2024-39, 2 pp., heavily redacted): award of \"more than $1 million\" to one claimant (already recorded); percentage, covered action and sanctions redacted; no denials. Nothing new as a row; suggested note correction. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-102158",
+   "status": "complete",
+   "to_do": "",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 102158 (13 Jan 2025, File No. 2025-12, 2 pp., heavily redacted): award of \"over $3,000,000\" to one claimant (already recorded); percentage, covered action and sanctions redacted; no denials. Nothing new as a row; suggested note correction. Rules restated from other sources are now recorded from this document too (decision 8)."
   }
  ]
 }
