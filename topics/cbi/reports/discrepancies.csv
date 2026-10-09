@@ -118,16 +118,16 @@ AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dh
 AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,21.5,revision,o-37652692ef
 AUS,aus-biip,applications_grant_rate,FY2019/20,percent,64.5,1,64.5,actual,aus-dha-mp-report-2022-23,Department of Home Affairs (Australia),2023,21.5,revision,o-828bd888bc
 AUS,aus-biip,applications_grant_rate,FY2019/20,percent,82.2,1,82.2,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,21.5,revision,o-c475c2983f
-AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10321,1,10321.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.2,revision,o-4ede003b68
-AUS,aus-biip,applications_pending_incl_family,2015-06-30,persons,10451,1,10451.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.2,revision,o-b5179c1968
-AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,1.1,revision,o-bacdbf2f47
-AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.1,revision,o-af8b9d5c39
-AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.1,revision,o-72720fcf03
-AUS,aus-biip,applications_pending_incl_family,2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.1,revision,o-c24afa3517
-AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.0,revision,o-221ba9249d
-AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.0,revision,o-24e96051c7
-AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,1.0,revision,o-9a2017d6b5
-AUS,aus-biip,applications_pending_incl_family,2019-06-30,persons,23223,1,23223.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.0,revision,o-40c05b0b6a
+AUS,aus-biip,applications_pending [applicant=main_and_family],2015-06-30,persons,10321,1,10321.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.2,revision,o-4ede003b68
+AUS,aus-biip,applications_pending [applicant=main_and_family],2015-06-30,persons,10451,1,10451.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.2,revision,o-b5179c1968
+AUS,aus-biip,applications_pending [applicant=main_and_family],2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2017-18,Department of Home Affairs (Australia),2018,1.1,revision,o-bacdbf2f47
+AUS,aus-biip,applications_pending [applicant=main_and_family],2018-06-30,persons,18682,1,18682.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.1,revision,o-af8b9d5c39
+AUS,aus-biip,applications_pending [applicant=main_and_family],2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.1,revision,o-72720fcf03
+AUS,aus-biip,applications_pending [applicant=main_and_family],2018-06-30,persons,18897,1,18897.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.1,revision,o-c24afa3517
+AUS,aus-biip,applications_pending [applicant=main_and_family],2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,1.0,revision,o-221ba9249d
+AUS,aus-biip,applications_pending [applicant=main_and_family],2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2020-21,Department of Home Affairs (Australia),2021,1.0,revision,o-24e96051c7
+AUS,aus-biip,applications_pending [applicant=main_and_family],2019-06-30,persons,23002,1,23002.0,actual,aus-dha-mp-report-2021-22,Department of Home Affairs (Australia),2022,1.0,revision,o-9a2017d6b5
+AUS,aus-biip,applications_pending [applicant=main_and_family],2019-06-30,persons,23223,1,23223.0,actual,aus-dha-mp-report-2019-20,Department of Home Affairs (Australia),2020,1.0,revision,o-40c05b0b6a
 AUS,aus-biip,applications_received,FY2014/15,persons,12107,1,12107.0,actual,aus-dha-mp-report-2014-15,Department of Immigration and Border Protection (Australia),2015,1.0,revision,o-65ca02680e
 AUS,aus-biip,applications_received,FY2014/15,persons,12225,1,12225.0,actual,aus-dha-mp-report-2015-16,Department of Immigration and Border Protection (Australia),2016,1.0,revision,o-d6a7309cc9
 AUS,aus-biip,applications_received,FY2016/17,persons,15076,1,15076.0,actual,aus-dha-mp-report-2018-19,Department of Home Affairs (Australia),2019,5.1,revision,o-07292db282
@@ -279,10 +279,10 @@ BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-SP]
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-SP],2024,BRL,66427052,1,66427052.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,15.1,conflict,o-86eb9c3750
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,283.2,million,283200000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,21.9,conflict,o-c2e6932b63
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,362610096,1,362610096.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,21.9,conflict,o-77b7f9d20c
-CAN,can-iip,processing_time_months [category=80pct_of_cases],2007,months,32,1,32.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-2a0468d1fe
-CAN,can-iip,processing_time_months [category=80pct_of_cases],2007,months,34,1,34.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-1cb66f9dac
-CAN,can-iip,processing_time_months [category=80pct_of_cases],2011,months,38,1,38.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,11.6,same_source,o-320312de66
-CAN,can-iip,processing_time_months [category=80pct_of_cases],2011,months,43,1,43.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,11.6,same_source,o-512d635213
+CAN,can-iip,processing_time [category=80pct_of_cases],2007,months,32,1,32.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-2a0468d1fe
+CAN,can-iip,processing_time [category=80pct_of_cases],2007,months,34,1,34.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-1cb66f9dac
+CAN,can-iip,processing_time [category=80pct_of_cases],2011,months,38,1,38.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,11.6,same_source,o-320312de66
+CAN,can-iip,processing_time [category=80pct_of_cases],2011,months,43,1,43.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,11.6,same_source,o-512d635213
 CAN,can-iip,programme_share_of_grants [category=federal_business_immigrants_principal_applicants],2008,percent,81.2,1,81.2,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.1,same_source,o-e6d29cd3ef
 CAN,can-iip,programme_share_of_grants [category=federal_business_immigrants_principal_applicants],2008,percent,81.3,1,81.3,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.1,same_source,o-f7dcf90ef8
 CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,CAD,2.483,billion,2483000000.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-77d261b7bb
@@ -1917,10 +1917,10 @@ GRD,grd-cbi,applications_received [route=real_estate],2023-Q2,applications,319,1
 GRD,grd-cbi,applications_rejected,2024,applications,34,1,34.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,63.4,conflict,o-9f67244a26
 GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,actual,grd-ima-stats-2024q4,Investment Migration Agency Grenada,2025-01,63.4,conflict,o-af70bd5b55
 GRD,grd-cbi,applications_rejected,2024,applications,93,1,93.0,reported,intl-ec-swd-2025-429,European Commission,2025-12-19,63.4,conflict,o-6c06f88902
-GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,61.1,million,61100000.0,reported,grd-imf-art4-2025,International Monetary Fund,2026-01,3.1,conflict,o-cd3c911398
-GRD,grd-cbi,cbi_contingency_fund_balance,2025-10,XCD,63065172.00,1,63065172.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,3.1,conflict,o-27121f9ffc
-GRD,grd-cbi,cbi_contingency_fund_balance,2025-12,XCD,61.1,million,61100000.0,actual,grd-mof-budget-2026,"Government of Grenada, Ministry of Finance",2025-12,5.1,revision,o-8d76c6d8f5
-GRD,grd-cbi,cbi_contingency_fund_balance,2025-12,XCD,64395831.00,1,64395831.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,5.1,revision,o-08f54e1e2f
+GRD,grd-cbi,cbi_account_balance [category=contingency_fund],2025-10,XCD,61.1,million,61100000.0,reported,grd-imf-art4-2025,International Monetary Fund,2026-01,3.1,conflict,o-cd3c911398
+GRD,grd-cbi,cbi_account_balance [category=contingency_fund],2025-10,XCD,63065172.00,1,63065172.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,3.1,conflict,o-27121f9ffc
+GRD,grd-cbi,cbi_account_balance [category=contingency_fund],2025-12,XCD,61.1,million,61100000.0,actual,grd-mof-budget-2026,"Government of Grenada, Ministry of Finance",2025-12,5.1,revision,o-8d76c6d8f5
+GRD,grd-cbi,cbi_account_balance [category=contingency_fund],2025-12,XCD,64395831.00,1,64395831.0,actual,grd-mof-imastats-2025q4,"Government of Grenada, Ministry of Finance",2026,5.1,revision,o-08f54e1e2f
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3100000,1,3100000.0,provisional,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-464a1aabee
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,3.4,million,3400000.0,actual,grd-imf-art4-2019,International Monetary Fund,2019-07,8.8,conflict,o-9a9ac90506
 GRD,grd-cbi,cbi_fiscal_revenue,2016,XCD,8437500,1,8437500.0,budget,grd-mof-estimates-2017,"Ministry of Finance, Government of Grenada",2016-12,8.8,conflict,o-7f0ae37e70
@@ -4199,10 +4199,10 @@ KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-18.7,1,-18.7,pr
 KNA,kna-cbi,fiscal_balance_excl_cbi_pct_gdp,2026,percent_of_gdp,-6.9,1,-6.9,projection,kna-imf-art4-2021,International Monetary Fund,2021-10,171.0,vintage,o-a221f8d0c6
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,24,1,24.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-633c7ab4c7
 KNA,kna-cbi,ndf_assets_pct_gdp,2013,percent_of_gdp,25,1,25.0,estimate,intl-imf-wp-15-93,International Monetary Fund,2015-05,4.0,same_source,o-da2d719173
-LCA,lca-cbi,applicant_profile_share [route=donation],FY2020/21,percent,64,1,64.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,3.2,revision,o-3f85571c83
-LCA,lca-cbi,applicant_profile_share [route=donation],FY2020/21,percent,66.1,1,66.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,3.2,revision,o-74e0e2ee74
-LCA,lca-cbi,applicant_profile_share [route=real_estate],FY2020/21,percent,20,1,20.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,5.2,revision,o-7afe9e033c
-LCA,lca-cbi,applicant_profile_share [route=real_estate],FY2020/21,percent,21.1,1,21.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,5.2,revision,o-507e683a4f
+LCA,lca-cbi,applicant_share [route=donation],FY2020/21,percent,64,1,64.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,3.2,revision,o-3f85571c83
+LCA,lca-cbi,applicant_share [route=donation],FY2020/21,percent,66.1,1,66.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,3.2,revision,o-74e0e2ee74
+LCA,lca-cbi,applicant_share [route=real_estate],FY2020/21,percent,20,1,20.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,5.2,revision,o-7afe9e033c
+LCA,lca-cbi,applicant_share [route=real_estate],FY2020/21,percent,21.1,1,21.1,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,5.2,revision,o-507e683a4f
 LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,46.4,vintage,o-a8f70abf84
 LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,46.4,vintage,o-2a010f6ad7
 LCA,lca-cbi,applications_received,FY2019/20,applications,193,1,193.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,46.4,vintage,o-9469b9aad6
@@ -4588,18 +4588,18 @@ LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,269515,1,2695
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,437194,1,437194.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,41.7,same_source,o-cae66f55b0
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,305700,1,305700.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,47.0,revision,o-2abdc3c42a
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,576885,1,576885.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,47.0,revision,o-9c405ff7f8
-LCA,lca-cbi,processing_time_days,FY2019/20,days,56,1,56.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,11.1,revision,o-493145de8f
-LCA,lca-cbi,processing_time_days,FY2019/20,days,63,1,63.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,11.1,revision,o-abd64df78f
-MLT,,cbi_to_development_fund,2015/2024,EUR,786139822,1,786139822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-f7f9249405
-MLT,,cbi_to_development_fund,2015/2024,EUR,786499822,1,786499822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-5253eaceb1
-MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,21.1,revision,o-b6063856f7
-MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,21.1,revision,o-2b757aa1ad
-MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,21.1,revision,o-e01ced57e5
-MLT,mlt-iip,applicant_profile_share [route=real_estate],2016,percent,19,1,19.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,21.1,revision,o-e521dfa1da
-MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,81,1,81.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,4.7,revision,o-cda91d4e89
-MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,4.7,revision,o-1247a7b1e4
-MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,4.7,revision,o-2a4a8f07ed
-MLT,mlt-iip,applicant_profile_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,4.7,revision,o-8015fa8e6e
+LCA,lca-cbi,processing_time,FY2019/20,days,56,1,56.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,11.1,revision,o-493145de8f
+LCA,lca-cbi,processing_time,FY2019/20,days,63,1,63.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,11.1,revision,o-abd64df78f
+MLT,,cbi_transfers_to_government [category=national_development_fund],2015/2024,EUR,786139822,1,786139822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-f7f9249405
+MLT,,cbi_transfers_to_government [category=national_development_fund],2015/2024,EUR,786499822,1,786499822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-5253eaceb1
+MLT,mlt-iip,applicant_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,21.1,revision,o-b6063856f7
+MLT,mlt-iip,applicant_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,21.1,revision,o-2b757aa1ad
+MLT,mlt-iip,applicant_share [route=real_estate],2016,percent,15,1,15.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,21.1,revision,o-e01ced57e5
+MLT,mlt-iip,applicant_share [route=real_estate],2016,percent,19,1,19.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,21.1,revision,o-e521dfa1da
+MLT,mlt-iip,applicant_share [route=real_estate_lease],2016,percent,81,1,81.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,4.7,revision,o-cda91d4e89
+MLT,mlt-iip,applicant_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,4.7,revision,o-1247a7b1e4
+MLT,mlt-iip,applicant_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,4.7,revision,o-2a4a8f07ed
+MLT,mlt-iip,applicant_share [route=real_estate_lease],2016,percent,85,1,85.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,4.7,revision,o-8015fa8e6e
 MLT,mlt-iip,applications_received,FY2015/16,applications,450,1,450.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,0.2,revision,o-420f111bed
 MLT,mlt-iip,applications_received,FY2015/16,applications,451,1,451.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-c3a21e5f0e
 MLT,mlt-iip,applications_received [applicant=dependant],FY2015/16,persons,1186,1,1186.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,0.2,revision,o-82158bce53
@@ -4614,12 +4614,12 @@ MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,appli
 MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,applications,107,1,107.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,32.7,revision,o-3514af1fae
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1150300000,1,1150300000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-620ae228d7
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1153415534.34,1,1153415534.34,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-7e6056d02c
-MLT,mlt-iip,cbi_to_development_fund,2014/2017-06,EUR,249328799,1,249328799.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,39.0,revision,o-d3bf577ce7
-MLT,mlt-iip,cbi_to_development_fund,2014/2017-06,EUR,408404349,1,408404349.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,39.0,revision,o-31b306f1bf
-MLT,mlt-iip,cbi_to_development_fund,2019,EUR,105506520,1,105506520.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-d93c4b94ed
-MLT,mlt-iip,cbi_to_development_fund,2019,EUR,105.9,million,105900000.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-9480e23c85
 MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,106855199,1,106855199.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,38.9,revision,o-2692267ec8
 MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,174855645,1,174855645.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,38.9,revision,o-be509a300e
+MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2014/2017-06,EUR,249328799,1,249328799.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,39.0,revision,o-d3bf577ce7
+MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2014/2017-06,EUR,408404349,1,408404349.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,39.0,revision,o-31b306f1bf
+MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105506520,1,105506520.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-d93c4b94ed
+MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105.9,million,105900000.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-9480e23c85
 MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,23701500,1,23701500.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,33.3,revision,o-de79029029
 MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,35529000,1,35529000.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,33.3,revision,o-2a46f45767
 MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,43,1,43.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.3,revision,o-de1ef6af3d
@@ -4663,9 +4663,9 @@ MLT,mlt-mec,cbi_applicant_donations,2022,EUR,150000,1,150000.0,actual,mlt-orgcem
 MLT,mlt-mec,cbi_applicant_donations,2022,EUR,150100,1,150100.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.1,revision,o-d6bb066325
 MLT,mlt-mec,cbi_applicant_donations [category=recipient_fgura_united],2022,EUR,5000.0,1,5000.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,2.0,revision,o-7432bf0d4f
 MLT,mlt-mec,cbi_applicant_donations [category=recipient_fgura_united],2022,EUR,5100.00,1,5100.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,2.0,revision,o-2926269775
-MLT,mlt-mec,cbi_to_development_fund,2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.4,conflict,o-7d17947da8
-MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-406863c9c4
-MLT,mlt-mec,cbi_to_development_fund,2024,EUR,93.6,million,93600000.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-4797cb4c26
+MLT,mlt-mec,cbi_transfers_to_government [category=national_development_fund],2024,EUR,91392000,1,91392000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,2.4,conflict,o-7d17947da8
+MLT,mlt-mec,cbi_transfers_to_government [category=national_development_fund],2024,EUR,93577700,1,93577700.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-406863c9c4
+MLT,mlt-mec,cbi_transfers_to_government [category=national_development_fund],2024,EUR,93.6,million,93600000.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-4797cb4c26
 MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
 MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-mediterannews-2026-09-11,MediteranNews,2026-09-11,50.0,conflict,o-9f4399fce9
 MNE,mne-cbi,cbi_transfers_to_government,2023-01-13,EUR,32999849,1,32999849.0,reported,mne-vijesti-2026-06-20,Forbes Crna Gora (Vijesti),2026-06-20,0.0,conflict,o-5d59355856
@@ -5110,18 +5110,18 @@ USA,usa-eb5,programme_filings_received [form=I-924A],FY2020,applications,694,1,6
 USA,usa-eb5,programme_filings_received [form=I-924A],FY2020,applications,702,1,702.0,actual,usa-uscis-data-allforms-fy2020q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2021-01,1.1,conflict,o-68535edaba
 USA,usa-eb5,programme_filings_received [form=I-924A],FY2021,applications,434,1,434.0,actual,usa-uscis-data-allforms-fy2021q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-01,26.2,conflict,o-e436f08051
 USA,usa-eb5,programme_filings_received [form=I-924A],FY2021,applications,588,1,588.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,26.2,conflict,o-eea65e7c13
+USA,usa-eb5,programme_filings_received [form=I-924],FY2020,applications,33,1,33.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,2.9,conflict,o-ceae8ea869
+USA,usa-eb5,programme_filings_received [form=I-924],FY2020,applications,34,1,34.0,actual,usa-uscis-data-allforms-fy2020q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2021-01,2.9,conflict,o-4c8422cddd
+USA,usa-eb5,programme_filings_received [form=I-924],FY2021,applications,14,1,14.0,actual,usa-uscis-data-allforms-fy2021q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-01,54.8,conflict,o-75bc94c427
+USA,usa-eb5,programme_filings_received [form=I-924],FY2021,applications,31,1,31.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,54.8,conflict,o-0ce81a86cf
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2018-FY2022,applications,652,1,652.0,actual,usa-fr-uscis-fee-rule-2024,Department of Homeland Security (Federal Register),2024-01-31,80.0,same_source,o-26524c92dd
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2018-FY2022,applications,3260,1,3260.0,actual,usa-fr-uscis-fee-rule-2024,Department of Homeland Security (Federal Register),2024-01-31,80.0,same_source,o-f7f0d71a98
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2022,applications,1,1,1.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,99.8,revision,o-86f1bbd6f8
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2022,applications,529,1,529.0,actual,usa-fr-uscis-fee-rule-2024,Department of Homeland Security (Federal Register),2024-01-31,99.8,revision,o-39ceaa19cd
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2023,applications,312,1,312.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.3,conflict,o-3bf09e421f
 USA,usa-eb5,programme_filings_received [form=I-956G],FY2023,applications,313,1,313.0,actual,usa-uscis-data-allforms-fy2023q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2023-12,0.3,conflict,o-a3a2e3f923
-USA,usa-eb5,regional_center_applications_received [form=I-924],FY2020,applications,33,1,33.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,2.9,conflict,o-ceae8ea869
-USA,usa-eb5,regional_center_applications_received [form=I-924],FY2020,applications,34,1,34.0,actual,usa-uscis-data-allforms-fy2020q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2021-01,2.9,conflict,o-4c8422cddd
-USA,usa-eb5,regional_center_applications_received [form=I-924],FY2021,applications,14,1,14.0,actual,usa-uscis-data-allforms-fy2021q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2022-01,54.8,conflict,o-75bc94c427
-USA,usa-eb5,regional_center_applications_received [form=I-924],FY2021,applications,31,1,31.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,54.8,conflict,o-0ce81a86cf
-USA,usa-eb5,regional_center_applications_received [form=I-956],FY2024,applications,165,1,165.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.6,conflict,o-96814faf21
-USA,usa-eb5,regional_center_applications_received [form=I-956],FY2024,applications,166,1,166.0,actual,usa-uscis-data-allforms-fy2024q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2024-12,0.6,conflict,o-0341ed8c2d
+USA,usa-eb5,programme_filings_received [form=I-956],FY2024,applications,165,1,165.0,actual,usa-fr-eb5-integrity-nprm-2026,Department of Homeland Security (Federal Register),2026-07-02,0.6,conflict,o-96814faf21
+USA,usa-eb5,programme_filings_received [form=I-956],FY2024,applications,166,1,166.0,actual,usa-uscis-data-allforms-fy2024q4,"U.S. Citizenship and Immigration Services (USCIS), Office of Performance and Quality",2024-12,0.6,conflict,o-0341ed8c2d
 USA,usa-eb5,rule_impact_estimate [category=costs],FY2024-FY2033,USD,4.2,million,4200000.0,projection,usa-fr-eb5-fee-nprm-2025,Department of Homeland Security (Federal Register),2025-10-23,90.0,same_source,o-f3742c4755
 USA,usa-eb5,rule_impact_estimate [category=costs],FY2024-FY2033,USD,42.1,million,42100000.0,projection,usa-fr-eb5-fee-nprm-2025,Department of Homeland Security (Federal Register),2025-10-23,90.0,same_source,o-858ac9b141
 USA,usa-eb5,rule_impact_estimate [category=costs],FY2026-FY2035,USD,0.81,million,810000.0,projection,usa-fr-eb5-fee-rule-2026,Department of Homeland Security (Federal Register),2026-09-30,90.0,same_source,o-c35b7d5518

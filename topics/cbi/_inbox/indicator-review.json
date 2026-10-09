@@ -1,0 +1,23 @@
+{
+ "slug": "indicator-review",
+ "researched_on": "2026-10-09",
+ "summary": "New indicator ids from the indicator review (decision 11).",
+ "observations": [],
+ "new_indicators": [
+  {
+   "indicator": "applicant_share",
+   "name": "Applicant share",
+   "definition": "Share of investment certificates issued in a period by investment route.",
+   "unit_kind": "share",
+   "notes": "Created by the indicator review (decision 11), replacing investment_certificates_share."
+  },
+  {
+   "indicator": "processing_time",
+   "name": "Processing time",
+   "definition": "Processing time printed in weeks.",
+   "unit_kind": "duration",
+   "notes": "Created by the indicator review (decision 11), replacing processing_time_weeks."
+  }
+ ],
+ "ledger": []
+}

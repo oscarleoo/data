@@ -1,0 +1,2672 @@
+[
+ {
+  "indicator": "adjudication_hours_per_case",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average staff working time, in hours, that the authority estimates it needs to decide one request of a given type (for fee setting or staffing). Not the time applicants wait (see processing_time). Breakdown form=.",
+  "kind": "duration",
+  "rows": 30,
+  "reason": "Staff effort per case, not waiting time; nothing else measures it."
+ },
+ {
+  "indicator": "agent_licence_applications",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications received from firms seeking a licence or selection as a programme agent (marketing/intermediary or due-diligence agent) in a call or period. Breakdown category= for the type of agent. Not licences granted (agents_licensed).",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "agents_licensed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Agents or intermediaries (persons or firms, as the source counts them) licensed or accredited by the programme authority to submit applications, at a date. Breakdown category= for the type of firm.",
+  "kind": "count",
+  "rows": 104,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "applicant_nationalities",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of distinct nationalities among a programme's applicants or grantees in a period, as printed. A count of countries, not of people.",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "applicant_nationality_share",
+  "action": "rename",
+  "target": "applicant_share",
+  "row_changes": "",
+  "definition": "Percentage of a programme's applicants, approved applicants or naturalised persons (the stage is given by applicant= or stage= and the notes) who belong to one group: a nationality (nationality=, country=, or a region of nationality as category=), sex (sex=), age, education, employment or other personal trait (category=), investment option chosen (route=), or region of the investment (region=). Printed by the source, never calculated by us.",
+  "kind": "share",
+  "rows": 585,
+  "reason": "Absorbs applicant_profile_share, grants_region_share and investment_certificates_share: all are \"share of a programme's applicants/grantees by group\"; only the grouping differs, and that is what the breakdown key is for (as with count indicators such as applications_approved, which carry nationality= and route= in one indicator). The old id would be misleading once non-nationality groups are in it."
+ },
+ {
+  "indicator": "applicant_profile_share",
+  "action": "merge",
+  "target": "applicant_share",
+  "row_changes": "",
+  "definition": "Share of main applicants by personal trait or investment option (sex=, category=, route=), stage given by applicant=.",
+  "kind": "share",
+  "rows": 916,
+  "reason": "Same concept as applicant_share (share of applicants by group); breakdown keys already carry the group and applicant= the stage. 7 rows hold counts (unit persons), see summary."
+ },
+ {
+  "indicator": "applications_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications approved in a period (decision date), first-time applications unless noted; renewals excluded. Unit applications counts files; unit persons counts people in them.",
+  "kind": "count",
+  "rows": 1894,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "applications_approved_by_filing_year",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications eventually approved, counted by the period in which they were filed (not the decision period), as of the source date. Excludes rejected, withdrawn or pending.",
+  "kind": "count",
+  "rows": 303,
+  "reason": "Counted by filing period, so the period means something different from applications_approved; merging would make periods incomparable."
+ },
+ {
+  "indicator": "applications_approved_in_principle",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications given approval in principle (conditional approval before the investment is made and the visa granted), counted cumulatively from a start date or in a period, including those later granted. A flow, not the current stock (stock goes in approvals_in_principle_outstanding).",
+  "kind": "count",
+  "rows": 45,
+  "reason": "Distinct stage (conditional approval). Some rows are stocks and belong in approvals_in_principle_outstanding; see summary."
+ },
+ {
+  "indicator": "applications_grant_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Grants as a percentage of decisions or of all finalisations (grants, refusals, withdrawals) in a period, as printed; notes give the base. Never calculated by us.",
+  "kind": "rate",
+  "rows": 117,
+  "reason": "Outcome rates are kept one per outcome, like the counts (approved/rejected/withdrawn)."
+ },
+ {
+  "indicator": "applications_lapsed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications closed without a decision on the merits and classified by the source as lapsed (separately from withdrawals), in a period.",
+  "kind": "count",
+  "rows": 86,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "applications_pending",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications filed but not yet decided at a date (a stock), whatever year they were filed. Main applicants unless the breakdown says applicant=family (family members only) or applicant=main_and_family (both); initial and renewal unless permit_type= says.",
+  "kind": "count",
+  "rows": 566,
+  "reason": "Core stock indicator; absorbs applications_pending_incl_family via applicant=."
+ },
+ {
+  "indicator": "applications_pending_incl_family",
+  "action": "merge",
+  "target": "applications_pending",
+  "row_changes": "breakdown add applicant=main_and_family on rows that have no applicant= key (rows with applicant=family keep it)",
+  "definition": "Pending applications of main applicants and family members at a date.",
+  "kind": "count",
+  "rows": 278,
+  "reason": "Same stock as applications_pending; whether family members are included is exactly what applicant= says. Adding applicant=main_and_family keeps these totals from being read as main-applicant-only totals."
+ },
+ {
+  "indicator": "applications_processed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications decided (approved plus denied, and other closures where the source counts them) in a period, whatever the filing date.",
+  "kind": "count",
+  "rows": 1084,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "applications_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications filed in a period, main applicants unless noted; first-time applications, excluding renewals and family members' own files unless noted. Unit applications counts files, unit persons counts people included.",
+  "kind": "count",
+  "rows": 10663,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "applications_received_change_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage change in applications received between a period and an earlier period, or average annual growth over several years (breakdown measure=average_annual_growth), as printed by the source when it gives no counts. Never calculated by us; notes give the comparison.",
+  "kind": "rate",
+  "rows": 16,
+  "reason": "Absorbs applications_received_growth_pct."
+ },
+ {
+  "indicator": "applications_received_growth_pct",
+  "action": "merge",
+  "target": "applications_received_change_pct",
+  "row_changes": "breakdown add measure=average_annual_growth",
+  "definition": "Average annual growth in applications received over a period, as stated or projected by the source.",
+  "kind": "rate",
+  "rows": 2,
+  "reason": "Same concept (a printed percentage change in applications); the averaging over years is kept as a breakdown so it is not read as a one-year change."
+ },
+ {
+  "indicator": "applications_rejected",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications denied in a period (decision date), first-time unless noted; renewals excluded.",
+  "kind": "count",
+  "rows": 1814,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "applications_rejected_by_filing_year",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications rejected by the source date, counted by the period in which they were filed (not the decision period). First-time unless permit_type=renewal.",
+  "kind": "count",
+  "rows": 137,
+  "reason": "Filing-period cohort; not comparable with applications_rejected."
+ },
+ {
+  "indicator": "applications_withdrawn",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications withdrawn by the applicant (or deemed withdrawn, e.g. investment not made in time) before a decision, in a period.",
+  "kind": "count",
+  "rows": 139,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "applications_withdrawn_by_filing_year",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications withdrawn or revoked (\"ανακλήσεις\") by the source date, counted by the period in which they were filed. First-time unless permit_type=renewal.",
+  "kind": "count",
+  "rows": 84,
+  "reason": "Filing-period cohort, and the Greek term mixes withdrawal and revocation; keep apart."
+ },
+ {
+  "indicator": "applications_withdrawn_or_declined",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications that ended without approval where the source prints withdrawals and refusals as one number, in a period.",
+  "kind": "count",
+  "rows": 6,
+  "reason": "A combined figure; splitting it is impossible and merging into either part would overstate it."
+ },
+ {
+  "indicator": "approvals_in_principle_outstanding",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications holding an approval in principle but not yet final approval, at a date (a stock).",
+  "kind": "count",
+  "rows": 57,
+  "reason": "Stock, unlike the cumulative flow in applications_approved_in_principle."
+ },
+ {
+  "indicator": "bank_relationships_refused",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Client relationships linked to the programme that banks refused to open (category=refused) or ended (category=terminated) in a period, as reported by the supervisor or banks.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cases_meeting_condition",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme cases (applications or investors, as counted) that a review or audit of files found to meet a stated condition, over the review period. Breakdown category= names the condition.",
+  "kind": "count",
+  "rows": 66,
+  "reason": "Paired with cases_not_meeting_condition, like approved/rejected."
+ },
+ {
+  "indicator": "cases_not_meeting_condition",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme cases that a review or audit of files found not to meet (or found no evidence for) a stated condition, over the review period. Breakdown category= names the condition.",
+  "kind": "count",
+  "rows": 76,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cases_under_external_inquiry",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme cases whose files are held by or referred to a tribunal, court, police, prosecutor or other external inquiry, at a date. Not a finding of wrongdoing.",
+  "kind": "count",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_account_balance",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Balance at a date of a government account or fund held for, financed by, or named after a citizenship- or residence-by-investment programme (e.g. CIU deposit accounts, contingency or savings funds financed from CBI receipts, the Malta NDSF). Breakdown category= names the account. Not applicants' escrow money (cbi_escrow_balance).",
+  "kind": "money",
+  "rows": 71,
+  "reason": "Absorbs cbi_contingency_fund_balance (category=contingency_fund)."
+ },
+ {
+  "indicator": "cbi_applicant_donations",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Donations by programme applicants to local charities, NGOs, cultural, sport or other entities in a period, as reported by the programme authority (unit currency; unit donations for the number of donations). Not the government fund contribution (cbi_contributions).",
+  "kind": "money",
+  "rows": 1205,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_bond_purchases",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Value of government bonds bought by programme applicants as their qualifying investment, in a period.",
+  "kind": "money",
+  "rows": 108,
+  "reason": "Distinct route; 42 rows that count bonds belong in rbi_bonds_sold, see summary."
+ },
+ {
+  "indicator": "cbi_capital_account_inflows_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI inflows recorded in the balance-of-payments capital account, as a percentage of GDP, as given by the source.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_contingency_fund_balance",
+  "action": "merge",
+  "target": "cbi_account_balance",
+  "row_changes": "breakdown add category=contingency_fund",
+  "definition": "Balance of a government savings or contingency fund financed from CBI receipts, at a date.",
+  "kind": "money",
+  "rows": 16,
+  "reason": "A CBI-financed government fund is one case of cbi_account_balance (whose own notes point here as the narrower case). The category keeps it identifiable. One row is in percent_of_gdp and belongs in ndf_assets_pct_gdp, see summary."
+ },
+ {
+  "indicator": "cbi_contribution_persons",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People (main applicants and dependants) covered by the fund contributions in a programme unit's list for a period, as printed in the list's total row.",
+  "kind": "count",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_contributions",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Donations/contributions paid by applicants into the government's CBI or development fund in a period, gross (before any share kept by the CBI unit); excludes property purchases, other investments and fees.",
+  "kind": "money",
+  "rows": 125,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_contributions_count",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of fund contributions (donations) received in a period, or budgeted, as printed. A count of contributions/applications paid, not of people.",
+  "kind": "count",
+  "rows": 10,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_contributions_held_in_trust",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Fund contributions collected by the CBI unit but not yet paid over to the government or fund, at a date (or added to that balance in a period).",
+  "kind": "money",
+  "rows": 9,
+  "reason": "Collected but not remitted; differs from receivable (not yet collected)."
+ },
+ {
+  "indicator": "cbi_contributions_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Gross CBI fund contributions as a percentage of GDP, as calculated by the source.",
+  "kind": "share",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_contributions_receivable",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Gross fund contributions owed by approved applicants but not yet collected, at a date.",
+  "kind": "money",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_court_award",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Amount a court orders a party to pay the state in connection with CBI proceeds.",
+  "kind": "money",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_dividend_payout",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Cash payments to citizens or residents financed from, and named after, CBI revenue (e.g. St Kitts and Nevis \"CBI dividend\"), in a period. Status budget for appropriations, actual for spending.",
+  "kind": "money",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_dividend_payout_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI dividend payments as a percentage of GDP, as given by the source.",
+  "kind": "share",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_dividend_recipients",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People who received a CBI dividend payment in a round or period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_due_to_government",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI money that programme statistics calculate as due to the government from applications approved in a period (budget fees and the government's share of contributions), before collection or transfer. Breakdown category= for its parts. Not cash received.",
+  "kind": "money",
+  "rows": 176,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_escrow_balance",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money deposited by applicants in escrow accounts and not yet released to the project, fund or government (typically for undecided applications), at a date. Breakdown route= for the purpose.",
+  "kind": "money",
+  "rows": 4,
+  "reason": "Applicants' money, not a government account; kept apart from cbi_account_balance and rbi_deposits_held."
+ },
+ {
+  "indicator": "cbi_fee_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Processing, due-diligence, passport, agent-licence and similar fees collected by the programme unit in a period; excludes donations and investments.",
+  "kind": "money",
+  "rows": 363,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI money counted as government revenue in the fiscal accounts in a period (usually fund contributions and fees, not real-estate purchases). Breakdown category= for components.",
+  "kind": "money",
+  "rows": 1534,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_change_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Year-on-year percentage change in CBI revenue to government, as printed. Never computed from levels.",
+  "kind": "rate",
+  "rows": 19,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_component_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of CBI revenue (or the unit's collections) in a period that came from one component (contributions, application fees, due-diligence fees), as printed. Breakdown category=.",
+  "kind": "share",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_pct_expenditure",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI money received by government in a period as a percentage of total government expenditure, as calculated by the source.",
+  "kind": "share",
+  "rows": 1,
+  "reason": "Different denominator (spending) from the revenue shares. Its one row is labelled percent_of_gdp but is a percent of expenditure, see summary."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI revenue to government as a percentage of GDP.",
+  "kind": "share",
+  "rows": 492,
+  "reason": "Core indicator; kept apart from the amount because it is a different kind (share)."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_pct_non_tax_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI revenue to government as a percentage of non-tax revenue, as printed. Never calculated by us.",
+  "kind": "share",
+  "rows": 10,
+  "reason": "Different denominator from cbi_fiscal_revenue_pct_revenue; mixing them would put 60% next to 15% for the same reality."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_pct_operating_receipts",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI money collected by government as a percentage of total receipts from operating activities in the government cash-flow statement, as calculated by the source.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Different denominator."
+ },
+ {
+  "indicator": "cbi_fiscal_revenue_pct_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI revenue to government as a percentage of total government revenue (with or without grants: notes).",
+  "kind": "share",
+  "rows": 37,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fund_credits",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money credited in a period to an account or fund financed by a programme, as listed by the unit (contributions and any other receipts). Breakdown category= names the account. Wider than cbi_contributions.",
+  "kind": "money",
+  "rows": 167,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fund_loss",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Amount of a CBI-financed fund reported lost, written off or missing, usually cumulative to a date.",
+  "kind": "money",
+  "rows": 6,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fund_payments",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money paid out in a period from an account or fund financed by a programme (unit operating account, development fund, escrow fund), as listed. Breakdown category= names the account and/or payee.",
+  "kind": "money",
+  "rows": 2271,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_fund_recovered",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Amounts recovered through settlements or court awards for losses of a CBI-financed fund.",
+  "kind": "money",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_funded_facilities",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Public facilities (health centres, schools...) built or completed with programme money, as stated. Breakdown category= for the type. Homes go in cbi_funded_housing_units.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_funded_housing_units",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Dwellings built, under construction, contracted or handed over with programme money, as stated. Breakdown category= for site or stage.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_funded_project_spending_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total cost of, or spending in a period on, a public project the source says is financed mainly by CBI revenue, as a percentage of GDP. Breakdown category= for the project; notes say total cost or period outlay.",
+  "kind": "share",
+  "rows": 7,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_gdp_contribution_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Contribution of a programme to the level of GDP or to GDP growth over a stated period, in percent, as estimated by an official study. category= says which.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_inflows",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "All money paid into a programme in a period (fund contributions, real-estate purchases and fees), as defined by the source.",
+  "kind": "money",
+  "rows": 624,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "cbi_inflows_pct_fdi",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme investment inflows in a period as a percentage of gross foreign direct investment inflows, as stated.",
+  "kind": "share",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_inflows_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "All programme inflows as a percentage of GDP.",
+  "kind": "share",
+  "rows": 88,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "cbi_linked_debt_payments",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Payments to creditors in a period whose amount is tied to programme revenue under a debt agreement (e.g. Grenada bondholder CBI payments), as printed.",
+  "kind": "money",
+  "rows": 32,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_linked_debt_payments_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI-linked debt payments as a percentage of GDP, as calculated by the source.",
+  "kind": "share",
+  "rows": 22,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_linked_employment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Workers employed (not necessarily newly created jobs) in the businesses or projects of programme investors, at a date or in a period, as stated.",
+  "kind": "count",
+  "rows": 16,
+  "reason": "Kept apart from rbi_jobs_created: employed workers may include existing jobs. One row is an average, see summary."
+ },
+ {
+  "indicator": "cbi_ndf_inflows_pct_gdp",
+  "action": "merge",
+  "target": "ndf_income_pct_gdp",
+  "row_changes": "breakdown add category=cbi_contributions",
+  "definition": "CBI contributions paid into an off-budget national development fund, as a percentage of GDP.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Same measure as ndf_income_pct_gdp (income of a CBI-financed development fund as % of GDP); the category marks that only CBI contributions are counted, since fund income may include investment income."
+ },
+ {
+  "indicator": "cbi_programme_costs",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money the government appropriates or spends in a period on running a programme (due diligence, consultancy, marketing, unit operating costs). Status budget for appropriations, actual for spending. Breakdown category= for the cost type.",
+  "kind": "money",
+  "rows": 1206,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_programme_costs_pct_expenditure",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Spending (or budgeted spending) on running a programme as a percentage of total (recurrent) government expenditure, as printed.",
+  "kind": "share",
+  "rows": 8,
+  "reason": "Different denominator from cbi_programme_costs_pct_gdp and different kind from the amount."
+ },
+ {
+  "indicator": "cbi_programme_costs_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Government spending on running a programme (e.g. CBI due-diligence costs) as a percentage of GDP, as given by the source.",
+  "kind": "share",
+  "rows": 32,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_programme_staff",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Staff assigned to, or planned for, administering a programme at a date or for a period; unit says what is counted (persons, full-time equivalents, positions), as printed. Breakdown category= for office or grade.",
+  "kind": "count",
+  "rows": 107,
+  "reason": "Single staff indicator; persons, FTEs and positions stay as printed units (no conversion)."
+ },
+ {
+  "indicator": "cbi_project_hotel_rooms",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Hotel rooms (keys) in a real-estate project approved as a qualifying programme investment (planned, under construction or completed: status and notes). Breakdown category= for the project.",
+  "kind": "count",
+  "rows": 41,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_projects_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Real-estate or business projects approved as qualifying investments for a programme in a period (or at a date). Breakdown route=.",
+  "kind": "count",
+  "rows": 41,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_projects_monitored",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme investment projects covered by the monitoring reports counted in project_monitoring_reports.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_projects_planned_investment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total investment planned (e.g. in business plans) for projects approved as qualifying investments. Not money paid by applicants. Status projection.",
+  "kind": "money",
+  "rows": 25,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_rbi_investment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total investment associated with CBI and RBI schemes of several countries combined (e.g. EU-wide EPRS estimates).",
+  "kind": "money",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_rbi_persons",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons (including family members) obtaining citizenship or residence via investor schemes, several schemes or countries combined.",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_real_estate_inflows",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money paid by applicants into approved real-estate projects in a period; not government revenue.",
+  "kind": "money",
+  "rows": 25,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_real_estate_share_of_transactions",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Value of real-estate purchases by programme applicants as a percentage of the value of all real-estate transactions in the country or area, in a period, as stated.",
+  "kind": "share",
+  "rows": 20,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_rejection_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Rejections as a percentage of applications or decisions in a period, as defined by the source.",
+  "kind": "rate",
+  "rows": 169,
+  "reason": "Id says cbi but also holds residence programmes; kept to avoid churn."
+ },
+ {
+  "indicator": "cbi_revenue_loss_estimate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Public revenue an official audit or inquiry estimates was lost through programme irregularities (e.g. reduced VAT wrongly applied, contributions not collected). Breakdown item= for the type.",
+  "kind": "money",
+  "rows": 15,
+  "reason": "Revenue foregone through irregularities; differs from money diverted (cbi_revenue_missing)."
+ },
+ {
+  "indicator": "cbi_revenue_missing",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "CBI money that should have reached the state but did not (diverted, embezzled, never transferred), as estimated by an inquiry, prosecutor or auditor.",
+  "kind": "money",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_revenue_saved_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Part of CBI receipts in a period that the government saves rather than spends, as a percentage of GDP.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_share_of_bank_remittances",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of incoming bank remittances in a country in a period that are linked to the programme, as reported by the central bank or banks.",
+  "kind": "share",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_suspicious_transaction_reports",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Suspicious-transaction reports filed with the financial intelligence unit concerning programme applicants or transactions, in a period.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_to_development_fund",
+  "action": "merge",
+  "target": "cbi_transfers_to_government",
+  "row_changes": "breakdown add category=national_development_fund on rows with an empty breakdown (rows that already name the fund, e.g. category=nef_net_donations, keep theirs)",
+  "definition": "CBI money transferred to a national or sovereign development fund in a period.",
+  "kind": "money",
+  "rows": 73,
+  "reason": "A development fund is a government fund, which cbi_transfers_to_government already covers; Saint Lucia rows with the same categories (nef_net_donations, ciu_surplus_transfer) already sit in both indicators. Possible duplicate claims, see summary."
+ },
+ {
+  "indicator": "cbi_transfers_to_government",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money remitted by the programme unit to the treasury or to a government or national development fund in a period (net contributions, bond proceeds, surplus transfers), as defined by the source. Breakdown category= names the destination or component.",
+  "kind": "money",
+  "rows": 345,
+  "reason": "Absorbs cbi_to_development_fund."
+ },
+ {
+  "indicator": "cbi_unit_net_income",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Net income of the agency running the programme in a period. Breakdown category= for the measure printed (net_operating_income, net_income_before_tax, net_income_after_tax).",
+  "kind": "money",
+  "rows": 96,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_unit_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Operating revenue of the agency running the programme (fees, retained share of contributions, administrative fees) in a period.",
+  "kind": "money",
+  "rows": 324,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "cbi_vat_amount",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "VAT on property bought by programme investors, computed by an audit at the rate named with item=, for a stated group of properties.",
+  "kind": "money",
+  "rows": 16,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "children_naturalised",
+  "action": "merge",
+  "target": "dependants_naturalised",
+  "row_changes": "breakdown add applicant=child",
+  "definition": "Children of main applicants naturalised through the programme.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Defined as a subset of dependants_naturalised, which already splits family members with applicant= (spouse, minor_dependant...)."
+ },
+ {
+  "indicator": "citizenships_revoked",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons whose programme citizenship (or the investment certificate it rests on) was annulled or withdrawn, completed revocations; main applicants plus dependants unless applicant= says (applicant=main for investors only).",
+  "kind": "count",
+  "rows": 28,
+  "reason": "Absorbs investors_revoked."
+ },
+ {
+  "indicator": "conditions_removal_petitions_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Petitions to remove the conditions on an investor's conditional permanent residence (e.g. US I-829) approved in a period.",
+  "kind": "count",
+  "rows": 55,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "conditions_removal_petitions_denied",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Petitions to remove residence conditions (e.g. I-829) denied in a period.",
+  "kind": "count",
+  "rows": 51,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "conditions_removal_petitions_pending",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Petitions to remove residence conditions (e.g. I-829) awaiting a decision at a date (a stock).",
+  "kind": "count",
+  "rows": 25,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "conditions_removal_petitions_processed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Petitions to remove residence conditions (e.g. I-829) decided in a period (approvals plus denials, plus other closures where counted).",
+  "kind": "count",
+  "rows": 12,
+  "reason": "Completes the reviewed I-829 family."
+ },
+ {
+  "indicator": "conditions_removal_petitions_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Petitions to remove residence conditions (e.g. I-829) filed in a period.",
+  "kind": "count",
+  "rows": 75,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "consultation_responses",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Written submissions, roundtables or other responses received in a government consultation or review of a programme; unit says what is counted. Breakdown category=.",
+  "kind": "count",
+  "rows": 6,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "current_account_excl_cbi_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "External current-account balance excluding CBI receipts recorded in it, as a percentage of GDP, as given by the source.",
+  "kind": "share",
+  "rows": 21,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "dependants_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Family members granted residence or citizenship derived from a main applicant, in a period.",
+  "kind": "count",
+  "rows": 1935,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "dependants_naturalised",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Family members (spouses, children, other dependants) naturalised through the programme in a period, excluding main applicants. applicant= gives the relationship (spouse, child, minor_dependant, adult_dependant...).",
+  "kind": "count",
+  "rows": 268,
+  "reason": "Absorbs children_naturalised and spouses_naturalised."
+ },
+ {
+  "indicator": "dependants_per_application",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average number of family members per main application or main applicant (in addition to the main applicant), as printed; unit as printed (persons, ratio, persons_per_principal).",
+  "kind": "other",
+  "rows": 12,
+  "reason": "Absorbs dependants_per_main_applicant."
+ },
+ {
+  "indicator": "dependants_per_main_applicant",
+  "action": "merge",
+  "target": "dependants_per_application",
+  "row_changes": "",
+  "definition": "Average number of dependants per main applicant granted status.",
+  "kind": "other",
+  "rows": 3,
+  "reason": "Same quantity (one main applicant per application); units ratio / persons_per_principal stay as printed, stage= stays."
+ },
+ {
+  "indicator": "document_verification_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of a type of supporting document that a processing office verifies with the issuing authority, at a date.",
+  "kind": "share",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "due_diligence_checks",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Due-diligence reports, orders, subjects, requests or interviews a programme's due-diligence provider handled in a period; unit says what is counted. Breakdown category= for firm and measure.",
+  "kind": "count",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "eligibility_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications passing a preliminary eligibility or due-diligence stage that allows a full application (two-stage schemes), in a period.",
+  "kind": "count",
+  "rows": 50,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "eligible_investment_funds",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Funds licensed or registered whose units qualify as a programme investment, at a date or over a period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "enquiries_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Enquiries from prospective applicants received by the programme authority in a period. Not applications.",
+  "kind": "count",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "eu_sugar_protocol_adjustment_aid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "EU funds for accompanying measures for Sugar Protocol countries. Context series.",
+  "kind": "money",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "eu_sugar_reference_price_raw",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Legislated EU reference price for raw sugar, per tonne, by marketing year. Context series.",
+  "kind": "money",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "eu_sugar_reference_price_white",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Legislated EU reference price for white sugar, per tonne, by marketing year. Context series.",
+  "kind": "money",
+  "rows": 4,
+  "reason": "Different product from the raw-sugar price."
+ },
+ {
+  "indicator": "expressions_of_interest",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Expressions of interest lodged in an invitation system before any invitation to apply, at a date or in a period (notes say stock or flow).",
+  "kind": "count",
+  "rows": 13,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "family_permits_valid",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=family",
+  "definition": "Valid residence permits held by investors' family members on a date.",
+  "kind": "count",
+  "rows": 3353,
+  "reason": "One stock of valid permits split by holder: the notes already say main + family = residence_permits_valid. applicant= keeps the split."
+ },
+ {
+  "indicator": "family_permits_valid_initial",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=family;permit_type=initial",
+  "definition": "Valid first-grant permits held by family members.",
+  "kind": "count",
+  "rows": 72,
+  "reason": "Same stock, split by holder and permit type; both become breakdown keys."
+ },
+ {
+  "indicator": "family_permits_valid_renewal",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=family;permit_type=renewal",
+  "definition": "Valid renewed permits held by family members.",
+  "kind": "count",
+  "rows": 72,
+  "reason": "Same stock, split by holder and permit type."
+ },
+ {
+  "indicator": "fiscal_balance_excl_cbi",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Central government overall balance excluding programme revenue, in currency, as calculated by the source.",
+  "kind": "money",
+  "rows": 67,
+  "reason": "Amount, kept apart from the % of GDP version (different kind)."
+ },
+ {
+  "indicator": "fiscal_balance_excl_cbi_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "General government overall balance excluding CBI proceeds, as a percentage of GDP.",
+  "kind": "share",
+  "rows": 192,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "fraud_complaints_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tips, complaints and referrals about possible programme-related fraud received by an authority in a period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "fraud_enforcement_actions",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Civil or criminal enforcement actions over programme-related fraud brought by an authority, cumulative to a date or in a period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "fraud_investigations_open",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investigations concerning a programme open at a date.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "grantee_age_years",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Age of people when granted residence or citizenship through (or after) a programme: a range (value to value_high) or an average (notes), as printed.",
+  "kind": "other",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "grants_region_share",
+  "action": "merge",
+  "target": "applicant_share",
+  "row_changes": "",
+  "definition": "Share of a programme's grants whose investment is in a given region.",
+  "kind": "share",
+  "rows": 28,
+  "reason": "Share of grantees by group (region=); same family as applicant_share. region= and route= keys stay; the notes say the base is grants."
+ },
+ {
+  "indicator": "high_risk_applicants_identified",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applicants or approved persons identified by an authority, inquiry or study as high risk (PEPs, sanctioned, convicted, charged), in a period. Breakdown category=.",
+  "kind": "count",
+  "rows": 24,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "house_sales_foreigners",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Dwellings sold to foreign nationals in a period, from land-registry data. Context/proxy, not a count of programme purchases.",
+  "kind": "count",
+  "rows": 172,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "immigrant_visas_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Immigrant visas issued by consular posts abroad under the programme categories in a period, principals plus family. Excludes adjustments of status.",
+  "kind": "count",
+  "rows": 10663,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investment_certificates_change_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage change in investment certificates issued between two periods, as printed. Never calculated by us.",
+  "kind": "rate",
+  "rows": 1,
+  "reason": "Kept apart: change of a different quantity."
+ },
+ {
+  "indicator": "investment_certificates_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Certificates confirming a qualifying investment issued (a step before the residence/citizenship decision), in a period; unit as printed (certificates, persons, investors, applications).",
+  "kind": "count",
+  "rows": 53,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investment_certificates_period_ratio_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment certificates of one period or group as a percentage of those of another stated period or group, as printed. Never calculated by us.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investment_certificates_share",
+  "action": "merge",
+  "target": "applicant_share",
+  "row_changes": "breakdown add stage=investment_certificate",
+  "definition": "Share of investment certificates issued in a period by investment route.",
+  "kind": "share",
+  "rows": 8,
+  "reason": "Share of certified investors by investment option, which applicant_share already covers with route=; stage= records that the base is certificates."
+ },
+ {
+  "indicator": "investor_funds_misappropriated",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Amount an authority alleges or finds was misused or misappropriated from programme investors in a specific case. Case-level.",
+  "kind": "money",
+  "rows": 7,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investor_permits_valid",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=main",
+  "definition": "Valid residence permits held by main investors on a date.",
+  "kind": "count",
+  "rows": 3916,
+  "reason": "Same stock as residence_permits_valid, main investors only; applicant=main keeps the split."
+ },
+ {
+  "indicator": "investor_permits_valid_initial",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=main;permit_type=initial",
+  "definition": "Valid first-grant permits of main investors.",
+  "kind": "count",
+  "rows": 72,
+  "reason": "Same stock, split by holder and permit type."
+ },
+ {
+  "indicator": "investor_permits_valid_initial_chn",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=main;nationality=CHN;permit_type=initial",
+  "definition": "Valid first-grant main-investor permits held by Chinese nationals.",
+  "kind": "count",
+  "rows": 7,
+  "reason": "A nationality split belongs in the breakdown, not the name. Check for duplicates with investor_permits_valid_initial nationality=CHN rows from the same table."
+ },
+ {
+  "indicator": "investor_permits_valid_initial_tur",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=main;nationality=TUR;permit_type=initial",
+  "definition": "Valid first-grant main-investor permits held by Turkish nationals.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "As for _chn."
+ },
+ {
+  "indicator": "investor_permits_valid_renewal",
+  "action": "merge",
+  "target": "residence_permits_valid",
+  "row_changes": "breakdown add applicant=main;permit_type=renewal",
+  "definition": "Valid renewed permits of main investors.",
+  "kind": "count",
+  "rows": 72,
+  "reason": "Same stock, split by holder and permit type."
+ },
+ {
+  "indicator": "investor_visa_applications",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications for an entry visa that is a required first step before an investor residence permit (e.g. Hungary's guest-investor visa).",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investor_visas_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor entry visas granted (first stage before the residence permit), in a period.",
+  "kind": "count",
+  "rows": 348,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investors_per_entity",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average, median or other distribution statistic of the number of programme investors per project, enterprise or intermediary, as computed by the source. Breakdown category= names entity and statistic.",
+  "kind": "other",
+  "rows": 22,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "investors_revoked",
+  "action": "merge",
+  "target": "citizenships_revoked",
+  "row_changes": "breakdown add applicant=main",
+  "definition": "Main applicants whose programme citizenship or investment certificate was annulled.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Main-applicant subset of citizenships_revoked; applicant=main keeps it."
+ },
+ {
+  "indicator": "invitations_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Invitations to apply for an investor visa issued in a period to people who lodged an expression of interest.",
+  "kind": "count",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "irregular_grants_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of approved applicants (or passports) that an audit or inquiry found did not meet a programme condition, as printed. Breakdown category= for the condition.",
+  "kind": "share",
+  "rows": 10,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "irregular_naturalisations_detected",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons found by authorities to have obtained programme citizenship irregularly, whether or not yet revoked.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "irregular_residence_grants_detected",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons found by an authority to have obtained investor-linked residence irregularly, whether or not withdrawn.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Residence counterpart of irregular_naturalisations_detected; citizenship and residence grants are separate indicators throughout."
+ },
+ {
+  "indicator": "long_term_residence_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Long-term (\"golden\") residence permits issued in a period across all eligibility categories (investors, talent, professionals, family...), not limited to investors.",
+  "kind": "count",
+  "rows": 21,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "lump_sum_region_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of lump-sum taxpayers, or of lump-sum tax revenue, located in a stated canton or group of cantons, as printed.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "lump_sum_tax_per_taxpayer",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Lowest, highest or average tax collected from one person taxed on a lump-sum (expenditure) basis in a period (category=lowest/highest/average), as printed.",
+  "kind": "money",
+  "rows": 13,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "lump_sum_tax_revenue",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tax collected in a period from people taxed on a lump-sum or expenditure basis, all levels of government unless category= says.",
+  "kind": "money",
+  "rows": 131,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "lump_sum_taxpayers",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People taxed on their living expenses instead of income and wealth, at a date (a stock).",
+  "kind": "count",
+  "rows": 159,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "main_applicants_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Main applicants granted citizenship or residence in a period; first grants only.",
+  "kind": "count",
+  "rows": 4884,
+  "reason": "Core indicator; 3 rows are shares, see summary."
+ },
+ {
+  "indicator": "minimum_investment_projected",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Government projection of a programme's minimum investment amount after future automatic adjustments under stated scenarios. Not a term in force.",
+  "kind": "money",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "ndf_assets_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Accumulated assets of a CBI-financed development or savings fund as a percentage of GDP.",
+  "kind": "share",
+  "rows": 20,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "ndf_balance_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Income minus spending of a CBI-financed development fund in a period, as a percentage of GDP.",
+  "kind": "share",
+  "rows": 7,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "ndf_credit_support_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Below-market credit backed by deposits of a CBI-financed development fund, as a stock (category=facilities_outstanding) or annual subsidy (category=annual_subsidy), as a percentage of GDP.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "ndf_expenditure_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Spending of a CBI-financed development fund in a period, as a percentage of GDP. Breakdown category= for components.",
+  "kind": "share",
+  "rows": 56,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "ndf_income_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Income of a CBI-financed national development fund in a period as a percentage of GDP; category=cbi_contributions when only CBI contributions are counted.",
+  "kind": "share",
+  "rows": 22,
+  "reason": "Absorbs cbi_ndf_inflows_pct_gdp."
+ },
+ {
+  "indicator": "passports_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Passports issued to people who got citizenship through the programme in a period (unit passports, or persons where the source counts people).",
+  "kind": "count",
+  "rows": 100,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "permanent_residence_permits_valid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People holding a valid permanent residence permit on a date, for the categories the source covers (may include non-investors).",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Wider scope than investor permits; kept apart."
+ },
+ {
+  "indicator": "persons_naturalised",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons naturalised through the programme in a period (main applicants plus dependants unless noted).",
+  "kind": "count",
+  "rows": 637,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "petitions_approved_awaiting_visa",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Approved investor petitions whose principals have not yet obtained residence because no visa number is available, at a date. Petitions, not people.",
+  "kind": "count",
+  "rows": 36,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "primary_balance_excl_cbi",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Central government primary balance excluding programme revenue, in currency, as calculated by the source.",
+  "kind": "money",
+  "rows": 112,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "primary_balance_excl_cbi_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Central government primary balance excluding programme revenue, as a percentage of GDP.",
+  "kind": "share",
+  "rows": 188,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "processing_time_days",
+  "action": "merge",
+  "target": "processing_time",
+  "row_changes": "",
+  "definition": "Processing or screening time printed in days.",
+  "kind": "duration",
+  "rows": 90,
+  "reason": "Decision 11: one processing_time, unit days/weeks/months as printed. Unit stays days."
+ },
+ {
+  "indicator": "processing_time_goal_days",
+  "action": "merge",
+  "target": "processing_time",
+  "row_changes": "breakdown add measure=goal; status=budget on the 3 rows now marked actual (check each: legal maximum vs target)",
+  "definition": "Target average time for deciding an application set in law or by the authority.",
+  "kind": "duration",
+  "rows": 28,
+  "reason": "A goal is the same quantity as a processing time, but a target: status budget says so (data model rule) and measure=goal keeps it filterable. processing_time_months already holds 11 budget rows of this kind."
+ },
+ {
+  "indicator": "processing_time_months",
+  "action": "rename",
+  "target": "processing_time",
+  "row_changes": "",
+  "definition": "Time within which a programme authority decides or screens a type of application, at a date, in the unit printed (days, weeks or months; value_high for a range or extendable maximum). Breakdown form= or stage for what is timed, category= or measure= for mean, median, percentile, maximum or goal; status budget for targets. Never converted.",
+  "kind": "duration",
+  "rows": 89,
+  "reason": "Decision 11 names processing_time as the single indicator. This id has the reviewed-style definition and the widest spread of sources; renaming it and merging _days, _weeks and _goal_days into it."
+ },
+ {
+  "indicator": "processing_time_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of applications (approved unless noted) decided within a band of time from filing. Breakdown category= for the band.",
+  "kind": "share",
+  "rows": 12,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "processing_time_weeks",
+  "action": "merge",
+  "target": "processing_time",
+  "row_changes": "",
+  "definition": "Processing time printed in weeks.",
+  "kind": "duration",
+  "rows": 1,
+  "reason": "Decision 11; unit stays weeks."
+ },
+ {
+  "indicator": "programme_departures",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People or households in an investment-migration or wealthy-resident regime who left the country or region in a period, as printed.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "programme_filings_approved",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Filings under a programme's forms other than the main investor petition and the petition to remove conditions (e.g. EB-5 regional-center designation I-924/I-956, project I-956F, annual statements I-924A/I-956G, bona fides I-956H, promoter I-956K) approved in a period. Breakdown form=.",
+  "kind": "count",
+  "rows": 38,
+  "reason": "Absorbs regional_center_applications_approved."
+ },
+ {
+  "indicator": "programme_filings_denied",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Filings under the other programme forms (as for programme_filings_approved) denied in a period. Breakdown form=.",
+  "kind": "count",
+  "rows": 39,
+  "reason": "Absorbs regional_center_applications_denied."
+ },
+ {
+  "indicator": "programme_filings_pending",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Filings under the other programme forms awaiting a decision at a date (a stock). Breakdown form=.",
+  "kind": "count",
+  "rows": 23,
+  "reason": "Absorbs regional_center_applications_pending."
+ },
+ {
+  "indicator": "programme_filings_processed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Filings under the other programme forms decided in a period. Breakdown form=.",
+  "kind": "count",
+  "rows": 35,
+  "reason": "Absorbs regional_center_applications_processed."
+ },
+ {
+  "indicator": "programme_filings_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Filings under the other programme forms received (or forecast) in a period; empty breakdown = the source's all-form total. Breakdown form=.",
+  "kind": "count",
+  "rows": 101,
+  "reason": "Absorbs regional_center_applications_received."
+ },
+ {
+  "indicator": "programme_migrant_average",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average of a characteristic of programme migrants or their businesses other than income (years of experience, businesses owned, ownership share, tax paid), as printed; category= says what, unit gives its unit.",
+  "kind": "other",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "programme_migrant_income",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Typical annual income (average, median or approximate, as stated) of programme migrants in a period. Breakdown applicant= and category=.",
+  "kind": "money",
+  "rows": 43,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "programme_share_of_costs",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of the costs of a wider government programme or budget line attributable to the investor programme, as printed.",
+  "kind": "share",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "programme_share_of_grants",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of all first residence permits (category=first_residence_permits) or all naturalisations (category=naturalisations) in a country in a period granted through the investor programme, as printed.",
+  "kind": "share",
+  "rows": 60,
+  "reason": "Share of national totals, not of the programme's own applicants; kept apart from applicant_share."
+ },
+ {
+  "indicator": "programme_switches_out",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People holding programme permission who were granted permission in another immigration category in a period. category=to_<new category>.",
+  "kind": "count",
+  "rows": 26,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "project_monitoring_reports",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Independent monitoring reports on programme projects adopted by the government or authority, cumulative to a date or in a period.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "project_proposals_declined",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment project proposals declined as qualifying investments in a period. Breakdown route=.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "project_proposals_pending",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment project proposals awaiting a decision at a date (a stock).",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "project_proposals_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment project proposals (businesses or funds seeking to become qualifying investments) submitted in a period. Breakdown route=.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "project_proposals_withdrawn",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment project proposals withdrawn before a decision in a period.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "properties_acquired_for_cbi",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Real-estate units bought or leased under a programme's real-estate route, in a period.",
+  "kind": "count",
+  "rows": 1519,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "property_purchases_by_programme_participants",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Property purchases by people who got status through a programme, made outside the programme's real-estate route, in a period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_bond_excess_cost",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Estimated extra cost to the state of borrowing through investor-programme bonds compared with ordinary borrowing.",
+  "kind": "money",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_bonds_outstanding",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Face value of investor-programme government bonds not yet repaid, at a date.",
+  "kind": "money",
+  "rows": 142,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_bonds_redeemed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Face value of investor-programme bonds repaid at maturity in a period.",
+  "kind": "money",
+  "rows": 18,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_bonds_sold",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of investor-programme bonds, bond packages or subscribing investors in a period; unit says which.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_business_entities",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Businesses receiving investor capital under a programme (e.g. EB-5 new commercial enterprises), at a date or in a period. Breakdown category=.",
+  "kind": "count",
+  "rows": 40,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_capital_per_project",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor-programme capital per project as a distribution statistic (median, mean, maximum) over the source's sample. Not a total.",
+  "kind": "money",
+  "rows": 12,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_deposits_held",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Refundable deposits of programme members held by the agency or its depository banks, at a date (a stock).",
+  "kind": "money",
+  "rows": 180,
+  "reason": "Stock of deposits; the flows in (rbi_investment_total), out (rbi_deposits_withdrawn) and net (rbi_deposits_net) are different measures."
+ },
+ {
+  "indicator": "rbi_deposits_net",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Refundable programme deposits brought in by new members minus deposits returned to leaving members, in a period, as printed.",
+  "kind": "money",
+  "rows": 55,
+  "reason": "Net flow; never merged with gross."
+ },
+ {
+  "indicator": "rbi_deposits_withdrawn",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Refundable programme deposits paid back to members who left or died, in a period.",
+  "kind": "money",
+  "rows": 173,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_economic_benefit_estimate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Economic benefit of a programme to the host economy as modelled by an evaluation, in a period. Always estimate; category= for component and gross/net.",
+  "kind": "money",
+  "rows": 68,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_eligible_investment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Official estimate of investments already held by people identified as eligible for a residence scheme; not new investment.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_eligible_persons",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People the authorities say qualify for, or are targeted by, an investor or long-term residence scheme, at a date; not permits issued.",
+  "kind": "count",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_entity_revenue_statistic",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Revenue of businesses involved in a programme as a distribution statistic over a sample. Not a total. category= for entity, sample and statistic.",
+  "kind": "money",
+  "rows": 44,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_fiscal_impact_per_person",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Modelled average lifetime net fiscal impact of one programme migrant. Per person; always estimate.",
+  "kind": "money",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_follow_on_investment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment by programme migrants in addition to the investment their visa requires, in a period, as estimated or reported.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_funds_allocated_to_regions",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money raised by a government-run investor programme allocated to regional funds in a period (destination=), and amounts placed in a stated use (category=).",
+  "kind": "money",
+  "rows": 12,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_implied_borrowing_cost_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Annual rate at which a government or fund receiving investor capital effectively pays for it, as estimated by the source.",
+  "kind": "rate",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_intermediary_fee_per_investor",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Fees private intermediaries charge each investor on top of the qualifying investment, as reported by an authority; amount or percent of the investment, often a range.",
+  "kind": "money",
+  "rows": 16,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_intermediary_fees_collected",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total fees a private intermediary collected from programme investors on top of the qualifying investment, in a case or period.",
+  "kind": "money",
+  "rows": 1,
+  "reason": "Gross fees collected, unlike rbi_intermediary_income (profit/income retained)."
+ },
+ {
+  "indicator": "rbi_intermediary_income",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Profit or income retained by private intermediaries or agents from a programme, as estimated or reported.",
+  "kind": "money",
+  "rows": 24,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_investment_average",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average qualifying investment per investor, or average value of the asset bought (e.g. per property), in a period, as printed. Notes say what is averaged.",
+  "kind": "money",
+  "rows": 97,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_investment_group_share",
+  "action": "merge",
+  "target": "rbi_investment_share",
+  "row_changes": "",
+  "definition": "Share of programme investment by investor nationality or region of investment.",
+  "kind": "share",
+  "rows": 46,
+  "reason": "Same base (total qualifying investment), only the grouping differs, which the breakdown key carries. Note: here route= marks the base route, see summary."
+ },
+ {
+  "indicator": "rbi_investment_intended",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investment applicants have nominated or committed but not yet transferred (applications in progress or approved in principle), at a date.",
+  "kind": "money",
+  "rows": 23,
+  "reason": "Pipeline, not money invested."
+ },
+ {
+  "indicator": "rbi_investment_minimum_nominated",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Sum of the minimum investment amounts of applications received in a period (each at its category minimum), as printed. Not money invested.",
+  "kind": "money",
+  "rows": 11,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_investment_pipeline_and_committed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "One printed figure for pipeline investment plus capital committed by approved investors, cumulative from a start date.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "A combined figure that cannot be split; like applications_withdrawn_or_declined it stays separate."
+ },
+ {
+  "indicator": "rbi_investment_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of the total qualifying investment under a programme in a period that went into one asset class or route (route=), came from one nationality (nationality=), or went into one region (region=), as printed. Never calculated by us.",
+  "kind": "share",
+  "rows": 104,
+  "reason": "Absorbs rbi_investment_group_share."
+ },
+ {
+  "indicator": "rbi_investment_share_of_project_cost",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of the total cost of projects funded through a programme that comes from programme investors, as estimated by the source.",
+  "kind": "share",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_investment_total",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total qualifying investment made, or committed under approved applications, by programme investors in a period, as the source defines it.",
+  "kind": "money",
+  "rows": 1406,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "rbi_investments_count",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of qualifying investments made by programme investors in a period, as counted by the authority.",
+  "kind": "count",
+  "rows": 21,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_jobs_created",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Jobs reported as created by businesses of programme investors, cumulative over the stated period, as defined by the source.",
+  "kind": "count",
+  "rows": 71,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_linked_jobs_estimate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Full-time-equivalent jobs estimated by an official body to depend on spending by people in an investment-migration or wealthy-resident regime. Always estimate.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_members_valid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons holding a valid membership on a date in a scheme that grants a long-stay visa as part of the membership (e.g. Thailand Privilege).",
+  "kind": "count",
+  "rows": 820,
+  "reason": "Memberships are not visas; kept apart from residence_permits_valid."
+ },
+ {
+  "indicator": "rbi_memberships_sold",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Paid memberships sold in a period under a visa-linked membership scheme, counted by card.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rbi_total_business_expenditure",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Total business expenditure (operating plus capital) by companies of programme investors over the stated period, as reported. Not the qualifying investment.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "regional_center_applications_approved",
+  "action": "merge",
+  "target": "programme_filings_approved",
+  "row_changes": "breakdown add form=regional_center_designation on rows with no form= key",
+  "definition": "Regional-center designation applications approved.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Same status series as programme_filings_* for another form; form= (I-924/I-956) already on nearly every row."
+ },
+ {
+  "indicator": "regional_center_applications_denied",
+  "action": "merge",
+  "target": "programme_filings_denied",
+  "row_changes": "breakdown add form=regional_center_designation on rows with no form= key",
+  "definition": "Regional-center designation applications denied.",
+  "kind": "count",
+  "rows": 17,
+  "reason": "As above."
+ },
+ {
+  "indicator": "regional_center_applications_pending",
+  "action": "merge",
+  "target": "programme_filings_pending",
+  "row_changes": "",
+  "definition": "Regional-center designation applications pending.",
+  "kind": "count",
+  "rows": 12,
+  "reason": "As above; all rows already carry form=."
+ },
+ {
+  "indicator": "regional_center_applications_processed",
+  "action": "merge",
+  "target": "programme_filings_processed",
+  "row_changes": "",
+  "definition": "Regional-center designation applications decided.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "As above; all rows already carry form=."
+ },
+ {
+  "indicator": "regional_center_applications_received",
+  "action": "merge",
+  "target": "programme_filings_received",
+  "row_changes": "breakdown add form=regional_center_designation on rows with no form= key (needed: an empty breakdown in the target means all forms)",
+  "definition": "Regional-center designation applications filed (unit regional_centers on one row stays).",
+  "kind": "count",
+  "rows": 53,
+  "reason": "As above."
+ },
+ {
+  "indicator": "regional_centers_designated",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Intermediary entities authorised to pool investor money at a date (e.g. EB-5 regional centers).",
+  "kind": "count",
+  "rows": 21,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "regional_centers_fee_paid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Intermediary entities that paid the programme's annual fee for a fiscal year.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "regional_centers_terminated",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Intermediary entities whose designation was terminated in a period or cumulatively to a date.",
+  "kind": "count",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_permits_cancelled",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme residence visas or memberships ended in a period for any reason (mostly at the holder's request), including those cancelled by authorities.",
+  "kind": "count",
+  "rows": 244,
+  "reason": "Wider than residence_permits_revoked (authority withdrawals only)."
+ },
+ {
+  "indicator": "residence_permits_issued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor residence permits issued in a period (family members if noted).",
+  "kind": "count",
+  "rows": 27532,
+  "reason": "Core indicator."
+ },
+ {
+  "indicator": "residence_permits_net_enrolment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "New programme residents admitted in a period minus permits/memberships cancelled in the same period, as printed. Net flow.",
+  "kind": "count",
+  "rows": 114,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_permits_period_ratio_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor residence permits of one period as a percentage of another period, as printed when counts are not. Never calculated by us.",
+  "kind": "share",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_permits_renewed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor residence permits renewed in a period.",
+  "kind": "count",
+  "rows": 2840,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_permits_revoked",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor-linked residence permits withdrawn by the authorities.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_permits_valid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investor-linked residence permits valid on a date (a stock); all holders and permit types unless the breakdown says applicant=main or applicant=family and permit_type=initial or renewal. One permit per person, so close to persons holding the status.",
+  "kind": "count",
+  "rows": 3200,
+  "reason": "Absorbs investor_permits_valid*, family_permits_valid* (8 indicators)."
+ },
+ {
+  "indicator": "residence_renewals_refused",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Programme residents whose residence or re-entry permit was not renewed because conditions were not met, in a period.",
+  "kind": "count",
+  "rows": 243,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "residence_status_retained_pct",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Share of people granted residence through a programme in a period who still held it at a later date.",
+  "kind": "share",
+  "rows": 8,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "revocations_decided",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons for whom the government decided to deprive programme citizenship in a period, whether or not completed.",
+  "kind": "count",
+  "rows": 21,
+  "reason": "Decision, not completed revocation; kept apart."
+ },
+ {
+  "indicator": "revocations_recommended",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons an inquiry, audit or committee recommends for deprivation (or examination of deprivation) of programme citizenship, at a date.",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "rule_impact_estimate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Monetised impact of a regulatory change on a programme's users as estimated in an impact analysis (costs, fee transfers, compliance costs), cumulative or per year. Status projection. Breakdown category=.",
+  "kind": "money",
+  "rows": 177,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "security_objections",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applicants for whom a state security service recommended refusal, in a period. Not refusals decided.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "security_screenings",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People checked by a state security or intelligence service as part of programme vetting, in a period.",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "service_providers_counted",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Service providers (law firms, accountants, agents, developers) a source counts as active in a programme or for a stated group of applications.",
+  "kind": "count",
+  "rows": 7,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "settlement_grants",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Grants of permanent residence (settlement) to people holding residence through an investor programme, in a period.",
+  "kind": "count",
+  "rows": 2739,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sfo_tax_incentive_recipients",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Single family offices holding a government tax incentive at a date. Context.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "site_visits_conducted",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Site visits, inspections or virtual checks of programme intermediaries or projects conducted by the authority in a period.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "special_interest_cabinet_applications",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications for special-interest naturalisation put before the cabinet in a period.",
+  "kind": "count",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "special_interest_confirmations",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Government confirmations that naturalising an applicant is in the state's special interest, in a period.",
+  "kind": "count",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "spouses_naturalised",
+  "action": "merge",
+  "target": "dependants_naturalised",
+  "row_changes": "breakdown add applicant=spouse",
+  "definition": "Spouses of main applicants naturalised through the programme.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "Subset of dependants_naturalised, which already uses applicant=spouse."
+ },
+ {
+  "indicator": "structural_balance_excl_cbi_pct_potential_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Structural fiscal balance excluding programme proceeds, as a percentage of potential GDP.",
+  "kind": "share",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "structural_primary_balance_excl_cbi_pct_potential_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Structural primary balance excluding programme proceeds, as a percentage of potential GDP.",
+  "kind": "share",
+  "rows": 9,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_cane_production",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tonnes of sugar cane harvested in a year. Context.",
+  "kind": "other",
+  "rows": 46,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_export_value",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Value of sugar exports in a year, as defined by the source. Context.",
+  "kind": "money",
+  "rows": 63,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_exports_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Sugar exports as a percentage of GDP. Context.",
+  "kind": "share",
+  "rows": 6,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_exports_quantity",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tonnes of raw sugar exported in a year. Context.",
+  "kind": "other",
+  "rows": 58,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_industry_debt_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Debt of the state sugar company as a percentage of GDP. Context.",
+  "kind": "share",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_industry_employment",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Persons employed by the sugar industry. Context.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_industry_employment_pct_labour_force",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Sugar employment as a percentage of the labour force. Context.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_industry_losses_pct_gdp",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Annual operating losses of the state sugar industry as a percentage of GDP. Context.",
+  "kind": "share",
+  "rows": 1,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_production",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tonnes of raw sugar produced in a year. Context.",
+  "kind": "other",
+  "rows": 45,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "sugar_severance_cost",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Severance package for sugar workers released at closure. Context.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "tea_census_tracts_per_area",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Mean or median number of census tracts combined to form a targeted employment area in EB-5 petitions, from a sample.",
+  "kind": "other",
+  "rows": 4,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "visa_backlog_persons",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People (principals plus family) waiting for a programme's immigrant visa numbers at a date.",
+  "kind": "count",
+  "rows": 3,
+  "reason": "People, not petitions; kept apart from petitions_approved_awaiting_visa."
+ },
+ {
+  "indicator": "visa_free_destinations",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Destinations passport holders can visit without a prior visa.",
+  "kind": "count",
+  "rows": 12,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "visa_numbers_used",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Immigrant visas issued abroad plus adjustments of status under the programme categories in a period, principals plus family.",
+  "kind": "count",
+  "rows": 13250,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "visa_places_planned",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Planning level (ceiling or allocation) of visa places set for a programme in a year, primary and secondary applicants. Status budget.",
+  "kind": "count",
+  "rows": 27,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "visa_places_planned_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Planned places for a programme (or a set-aside) as a percentage of a wider planning category, as printed. Status budget.",
+  "kind": "share",
+  "rows": 5,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ },
+ {
+  "indicator": "withdrawal_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Applications withdrawn as a percentage of applications or finalisations in a period, as printed.",
+  "kind": "rate",
+  "rows": 42,
+  "reason": "Distinct concept; no other indicator measures the same thing."
+ }
+]

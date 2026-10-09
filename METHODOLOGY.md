@@ -273,6 +273,14 @@ but counting them as whistleblower cases without evidence would inflate the figu
 **Why.** Indicators decide what can be compared. Near-duplicates split one measure across names, so charts miss
 data; vague definitions lump unlike things together.
 
+**Applied to CBI (2026-10-09).** All 267 indicators reviewed: 236 kept with reviewed definitions and kinds, 29
+merged, 2 renamed, leaving 238, none still proposed. 9,888 rows moved to their merged indicator; distinctions kept
+as breakdown keys (`applicant=`, `permit_type=`, `measure=goal`...), no values converted. Main merges: one
+`processing_time` (days, weeks, months as printed; goals marked `measure=goal`), one `residence_permits_valid`
+(investor and family permits as `applicant=`), one `applicant_share`. The review map is in
+`topics/cbi/reports/indicator-review-2026-10-09.json`. Rows the review found misfiled (e.g. bond counts in a money
+indicator) are queued as corrections to existing data. Whistleblowing indicators: not yet reviewed.
+
 ## Open questions
 
 None at the moment.
