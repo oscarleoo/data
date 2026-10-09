@@ -47,6 +47,36 @@ kept as printed; all 503 matched an independent recalculation. Australian BP0068
 every cell of the workbook's visible table. Ten Australian sums come out negative because the source data is
 masked (privacy perturbation); they are held back (open question 1a below).
 
+### 2. Numbers read from words (decided 2026-10-09)
+
+**Question.** Sometimes the number isn't printed as digits: it is written as a word ("three applications"),
+given as a limit ("more than 700") or rounded ("about 20"), or only implied by a sentence ("there were no
+investment inflows"). Sometimes it can only be worked out by reasoning ("as in 2011, nearly 20 last year
+too"). Which of these belong in the data, and how do we tell them apart?
+
+**Decision.** Every number keeps its verbatim sentence in `quote`, and a column `reading` says how the number
+was read:
+
+| `reading` | means | example | allowed |
+|---|---|---|---|
+| `digits` | printed as a number (the default) | "1,583" | yes |
+| `words` | the number itself is written in words | "three applications", "one million" | yes |
+| `bound` | printed as a limit; stored as a range | "more than 700", "<5" | yes |
+| `approximate` | printed as a rounded figure | "about 20", "nearly 60%" | yes |
+| `implied` | no number printed, but the sentence states it unambiguously | "there were no investment inflows" = 0 | yes, tagged |
+| `inferred` | the number depends on reasoning beyond the sentence | "as in 2011, nearly 20 last year too" = 20 for 2011 | **no** |
+
+Pages show `implied` figures as stated in words (e.g. "stated as none"), not as a bare number. An `inferred`
+figure is not recorded; its sentence goes in the source's notes or the ledger instead.
+
+**Why.** The sentence is the evidence, so it must travel with the number. Words, limits and rounded figures are
+still what the source says. An implied zero is real information, but readers should see that no digit was
+printed. An inferred number is a calculation in disguise, which decision 1 only allows in the narrow,
+recalculated form of a `derived` figure.
+
+**To apply.** Add the column to both topics, enforce the list in `scripts/check.py`, tag existing rows read from
+words, and remove `inferred` rows (first known case: Hungary 2011 informant enquiries).
+
 ## Open questions
 
 - **1a. Masked data that sums to a negative number.** Some official datasets perturb small counts for privacy,
