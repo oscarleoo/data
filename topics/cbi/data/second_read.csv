@@ -8999,3 +8999,99 @@ o-b68edce69c,1,,1,Ieguld. kapsabiedr ģim.,PDF p. 4,"KRIEVIJA: ... 1 22 51 2 1 1
 o-258c40b76f,1,,1,Ieguld. kapsabiedr galv.,PDF p. 3,"INDIJA: kapsabiedr galv 1 (x-aligned under column), KOPĀ 386 12 398",high,Sparse table; column assigned by x-coordinate against header (bbox),claude-sonnet-5,2026-10-09,1,no
 o-5fe6ca8cf2,0,,1,Ieguld. krediest. galv.,PDF p. 4,Kopā III valstis: 70 61 98 65 2290 272 2458 398 0 0 3 1 0 0 69 33 7 0 13 30 40 77 0 2 22 1 4306 611 4917,high,"Full row, all 29 cells printed; Krediest = 0 2; check: Kopā visas minus ES/EEZ equals this row",claude-sonnet-5,2026-10-09,1,no
 o-b17b86b4e3,2,,1,Ieg. nek. Īpašumā galv.,PDF p. 4,"ĶĪNA: ... 2 1 ... 39 3 42 (IegNek galv 2, ģim 1)",high,Sparse table; column assigned by x-coordinate against header (bbox),claude-sonnet-5,2026-10-09,1,no
+o-c0ee47d070,"74,892,439",,1,2020,PDF p. 3,"Personnel services 74,892,439",high,,claude-sonnet-5,2026-10-09,1,no
+o-d8e2ba3a84,"1,502,337,390",,1,2020,PDF p. 3,"Income 1,502,337,390",high,,claude-sonnet-5,2026-10-09,1,no
+o-a8d99cc986,"145,461,999",,1,2020,PDF p. 57,"Interest income 145,461,999",high,,claude-sonnet-5,2026-10-09,1,no
+o-043fbc4ae9,"7,374,140",,1,2020,PDF p. 56,"Visitorial fee 7,374,140",high,,claude-sonnet-5,2026-10-09,1,no
+o-7a856c2c14,"139,851,089",,1,2019 (As Restated),PDF p. 3,"Direct costs 40,739,928 139,851,089",high,,claude-sonnet-5,2026-10-09,1,no
+o-099e756a6f,1,,1,No. of RR,PDF p. 98,"13 RB 1 812,413",high,,claude-sonnet-5,2026-10-09,1,no
+o-cab57c21c7,"336,848,838",,1,2019,PDF p. 56,"Visa application fee 91,333,900 336,848,838",high,,claude-sonnet-5,2026-10-09,1,no
+o-3fd2bc262f,"3,493,181",,1,2019,PDF p. 56,"Harmonization fee 2,756,642 3,493,181",high,,claude-sonnet-5,2026-10-09,1,no
+o-d47c875095,"7,374,140",,1,2020,PDF p. 58,"Visitorial fee 23,059,511 7,374,140",high,,claude-sonnet-5,2026-10-09,1,no
+o-2df9efcd99,"182,369,072",,1,2021,PDF p. 58,"Management fee 182,369,072 132,203,379",high,,claude-sonnet-5,2026-10-09,1,no
+o-151b6df668,"16,852,906,686",,1,2020,PDF p. 55,"Visa deposits of retiree-members 17,754,604,976 16,852,906,686",high,"Value is visa deposits line only; total trust liabilities 2020 is 17,057,778,461",claude-sonnet-5,2026-10-09,1,no
+o-7051888335,"353,507,000",,1,Approved COB,PDF p. 3,"Total 353,507,000 196,284,860 157,222,140",high,,claude-sonnet-5,2026-10-09,1,no
+o-8f7d231c50,"292,253,339",,1,2021,PDF p. 58,"Annual PRA fee 292,253,339 307,729,161",high,,claude-sonnet-5,2026-10-09,1,no
+o-aff1202332,"40,739,928",,1,2020,PDF p. 3,"Direct costs 16,613,302 40,739,928",high,Printed 2020 column in 2021 report; no 'as restated' label,claude-sonnet-5,2026-10-09,1,no
+o-621dc39c9a,"214,860,214",,1,2020,PDF p. 3,"Net income 347,615,979 214,860,214",high,No 'as restated' label on 2020 column,claude-sonnet-5,2026-10-09,1,no
+o-668e89bdea,137,,1,2021,PDF p. 60,137 and 166 accredited marketers in CYs 2021 and 2020,high,,claude-sonnet-5,2026-10-09,1,no
+o-ce2d74c3a3,"100,395,254",,1,2022,PDF p. 3,"Maintenance and other operating expenses 100,395,254 69,334,238",high,,claude-sonnet-5,2026-10-09,1,no
+o-be21e161e9,"410,676,000",,1,Approved COB,PDF p. 3,"Total 410,676,000 272,770,795 137,905,205",high,,claude-sonnet-5,2026-10-09,1,no
+o-74d6f96947,350.315,,million,text,PDF p. 102,refunds totaling P350.315 million for the cancelled membership of 303 retirees,high,,claude-sonnet-5,2026-10-09,1,no
+o-8678ab895d,"16,613,302",,1,2021,PDF p. 3,"Direct costs 51,597,759 16,613,302",high,,claude-sonnet-5,2026-10-09,1,no
+o-4065611173,6.321,,million,text,PDF p. 79,VDs of the 303 retirees with cancelled membership totaling $6.321 million,high,Revalued at P322.342 million at P50.999/USD; refund at spot would be P346.022 million,claude-sonnet-5,2026-10-09,1,no
+o-ae5f055fb0,28.180,,million,text,PDF p. 131,total checks paid relating to COS- MFs amounted to P28.180 million,high,,claude-sonnet-5,2026-10-09,1,no
+o-a75135a6cd,"559,745,008",,1,2021,PDF p. 57,"Service income 646,341,046 559,745,008",high,Value from 2021 comparative column in the 2022 report,claude-sonnet-5,2026-10-09,1,no
+o-838dc2277e,"10,690,387",,1,2021,PDF p. 58,"Marketers' fee 34,964,089 10,690,387",high,2021 comparative column in the 2022 report; page 58 here,claude-sonnet-5,2026-10-09,1,no
+o-7bf176b1ed,"6,850,200",,1,2022 Approved Budget,PDF p. 124,"Participation/Sponsorship in promotional activities ... 30,160,180 | 6,850,200",high,"Row total (parent line) for 2022 approved budget; sub-rows 3,003,200 + 3,841,000 + 6,000",claude-sonnet-5,2026-10-09,1,no
+o-a675bf4061,"9,462,092",,1,Report of Outstanding VDs (Bank Record) Dollar,PDF p. 92,"KEB Hana Bank 9,680,542 4,617,500 9,462,092 4,617,500",high,,claude-sonnet-5,2026-10-09,1,no
+o-b8d53a9e18,"299,905",,1,Participation/Sponsorship International,PDF p. 123,"Dutch - - - 299,905 - - 573,269 873,174",high,"Column assigned by position; row sums to total 873,174",claude-sonnet-5,2026-10-09,1,no
+o-c9fc9c762b,"330,948,867",,1,2023,PDF p. 60,"Annual PRA fee 330,948,867 257,406,595",high,,claude-sonnet-5,2026-10-09,1,no
+o-2477f4e505,"6,623,167",,1,Television,PDF p. 123,"TOTAL 11,279,061 6,623,167 31,461,155",high,,claude-sonnet-5,2026-10-09,1,no
+o-9cbfa19016,"808,869",,1,List of Retirees with VDs (PRA Record) Dollar,PDF p. 92,"Yuanta Savings Bank 808,869 6,981,053 808,869 6,981,053",high,,claude-sonnet-5,2026-10-09,1,no
+o-7b02d4f64c,167,,1,CY 2022 With Marketer,PDF p. 126,"Head Office 5 1,725 Not available 167",high,,claude-sonnet-5,2026-10-09,1,no
+o-96321723b3,"39,882,644",,1,List of Retirees with VDs (PRA Record) Dollar,PDF p. 92,"PNB 39,882,644 67,241,355 39,720,076 64,437,457",high,,claude-sonnet-5,2026-10-09,1,no
+o-1366de81a5,"2,617,592",,1,Total Expenses,PDF p. 141,"FRENCH 20 29 2,162,809 250,965 - 203,818 2,617,592",high,,claude-sonnet-5,2026-10-09,1,no
+o-496d4b9b2a,"689,498,713",,1,Approved COB,PDF p. 26,"Total 689,498,713 478,482,147 211,016,566",high,,claude-sonnet-5,2026-10-09,1,no
+o-e84df77778,"203,818",,1,Digital Ad,PDF p. 141,"BRITISH 109 110 1,128,771 250,965 - 203,818 1,583,554",high,,claude-sonnet-5,2026-10-09,1,no
+o-dff17bb266,"3,740,647",,1,2024,PDF p. 85,"Visa stickers and IDs and membership kits - 3,740,647",high,Page 85 (not 84 as in location),claude-sonnet-5,2026-10-09,1,no
+o-7bce5bbe55,"1,473,409",,1,2025,PDF p. 84,"HF 1,473,409 2,823,611",high,,claude-sonnet-5,2026-10-09,1,no
+o-a48e36562d,"1,789,564",,1,Print Ads,PDF p. 141,"DUTCH 19 25 1,789,564 250,965 - 203,818 2,244,347",high,,claude-sonnet-5,2026-10-09,1,no
+o-20ceee283f,29,,1,2025 Enrollees,PDF p. 141,FRENCH 20 29,high,,claude-sonnet-5,2026-10-09,1,no
+o-4c31f771a4,"203,818",,1,Digital Ad,PDF p. 141,"FRENCH 20 29 2,162,809 250,965 - 203,818 2,617,592",high,,claude-sonnet-5,2026-10-09,1,no
+o-57578be559,20,,1,Step 2,"section 'Procedure and Requirements', Step 2",papers can be processed within 20 days provided applicant pays cost of courier service,high,Maximum processing time after complete documents; text line 328,claude-sonnet-5,2026-10-09,1,no
+o-6d40ac94e6,3%,,1,text,PDF p. 12,"Chinese ranks first ... Korean at 22%, Japanese 8%, Indian 5% and Americans 3%",high,Text is on the page following the table (printed page 11/12 boundary),claude-sonnet-5,2026-10-09,1,no
+o-128726e5d3,"PHP526,023,953.22",,1,text,PDF p. 12,"interest derived from them (PHP526,023,953.22)",medium,"Component of cumulative net 2012 (PHP16,248,429,127.50); printed 'PHP526,023,953.22'",claude-sonnet-5,2026-10-09,1,no
+o-3a0646edf1,22%,,1,text,PDF p. 12,followed by Korean at 22%,high,,claude-sonnet-5,2026-10-09,1,no
+o-23e30940b0,40,,1,Spouse/dep,PDF p. 11,6 Chinese (Taiwan) 53 40 93,high,,claude-sonnet-5,2026-10-09,1,no
+o-6a75a610d0,"Php 338,613,381.14",,1,Gross Income,PDF p. 13,"2012 Php 338,613,381.14 Php 127,000,090.00",high,,claude-sonnet-5,2026-10-09,1,no
+o-17458bdb8c,"PHP 1,511,574,773.00",,1,text,PDF p. 12,"foreign exchange generated from visa deposit for FY 2012 amounted to USD 35,798,100.00 or the equivalent of PHP 1,511,574,773.00",medium,"Best match: FY2012 visa deposits in PHP. Alternative printed: deposits converted into investment P4,486,994,647.75 (cumulative)",claude-sonnet-5,2026-10-09,1,no
+o-00995e9ee3,5%,,1,text,PDF p. 12,Indian 5%,high,,claude-sonnet-5,2026-10-09,1,no
+o-887da98c18,36,,1,Principal,PDF p. 11,7 Chinese (Hong Kong) 36 50 86,high,,claude-sonnet-5,2026-10-09,1,no
+o-34712095e3,19,,1,Cancellation Principal,PDF p. 179,April 209 194 403 19 12 31 190 182 372,high,,claude-sonnet-5,2026-10-09,1,no
+o-d5a2900d04,"$ 851,183.42",,1,Private Banks - New,PDF p. 183,"June $ 5,347,217.74 $ 851,183.42",high,,claude-sonnet-5,2026-10-09,1,no
+o-e89fb200cf,2,,1,80-UP,PDF p. 180,1989 15 61 235 77 2 390,high,,claude-sonnet-5,2026-10-09,1,no
+o-258ef2e999,87,,1,Cancellation Spouse/Dependent,PDF p. 178,1999 324 308 632 119 87 206 426,high,,claude-sonnet-5,2026-10-09,1,no
+o-b4c8a24d43,211,,1,Net Enrollment Principal,PDF p. 179,December 268 246 514 57 48 105 211 198 409,high,,claude-sonnet-5,2026-10-09,1,no
+o-8be2c63ab6,719,,1,Spouse/Dependent Female,PDF p. 181,"2008 974 273 1,247 431 719 1,150 2,397",high,,claude-sonnet-5,2026-10-09,1,no
+o-c7eb130e3c,404,,1,Cancellation Principal,PDF p. 178,"2008 1,247 1,150 2,397 404 480 884 1,513",high,,claude-sonnet-5,2026-10-09,1,no
+o-e020bd82f7,Php 338.74 Million,,million,CY 2017 Target,PDF p. 175,"SM 8 Net Operating Income ... Php 338.74 Million (target col) ; accomplishment Php 513,768,402.61",medium,"Scorecard layout is spread over lines; by column position: baselines 2014 Php 356.77M, 2015 Php 459.98M, 2016 Php 469.76M, CY 2017 Target Php 338.74M. Page number inferred (text found in PDF pp. 174-176 extract)",claude-sonnet-5,2026-10-09,1,no
+o-b84ac12d28,$608.15 Million,,million,2020 baseline,PDF p. 57,"SM 1 ... $520.13Million (2018), $559.0 Million (2019, not validated by GCG), $608.15 Million (2020), $553.08 Million (2021 target), $565.98 Million (accomplishment)",medium,Column assigned from word x-coordinates of the page (2018/2019/2020/2021 Target/Accomplishment). Text layer is on PDF p. 57,claude-sonnet-5,2026-10-09,1,no
+o-8841900ff6,"558,305,485",,1,2020,PDF p. 94,"Service income 24.1 559,745,008 558,305,485",high,OCR of scan; same figure in Note 24.1 on p. 137,claude-sonnet-5,2026-10-09,1,no
+o-12c3a140cd,"54,649",,1,Cumulative Net,PDF p. 10,"54,649 PRA Enrolled Retirees Cumulative Net (as of December 31, 2021)",medium,"Row asks permits valid (principal+dependants); closest printed is cumulative net enrolled retirees. Cumulative gross is 71,246",claude-sonnet-5,2026-10-09,1,no
+o-a196d5e4e1,"2,653,608",,1,2020,PDF p. 139,"Visa stickers and IDs and membership kits 1,268,445 2,653,608",high,OCR of scan,claude-sonnet-5,2026-10-09,1,no
+o-33e60369be,"2,636,949",,1,2021,PDF p. 137,"Processing fee 2,636,949 2,305,553",high,OCR of scan,claude-sonnet-5,2026-10-09,1,no
+o-fd72a57c5f,"$ 522,952,509.00",,1,text,PDF p. 9,"$ 522,952,509.00 Cumulative Outstanding Balance of Foreign Currency Generated (as of December 31, 2021)",high,,claude-sonnet-5,2026-10-09,1,no
+o-7a47eaf807,"15,136",,1,Gross,PDF p. 10,"Dependent - Spouse Cumulative Enrollment Gross: 15,136 Net: 11,849",high,"Gross chosen (approved); net is 11,849",claude-sonnet-5,2026-10-09,1,no
+o-9f155aa30a,"75,121,304",,1,2021,PDF p. 138,"Interest income 75,121,304 145,461,999",high,OCR of scan,claude-sonnet-5,2026-10-09,1,no
+o-abdc880651,P799.94 Million,,million,2025,PDF p. 27,2025 P799.94 Million,high,"Statements show 799,944,215 (p. 31)",claude-sonnet-5,2026-10-09,1,no
+o-6101c73d40,72,,1,bar label,PDF p. 26,bar chart; 10th bar CANADIAN = 72,medium,"Chart is an image. Bar value labels read by OCR (1,248 783 340 259 [5th unlabeled] 109 99 81 76 72); category labels read by rotated OCR (Chinese PROC, American, Indian, Korean, Taiwanese, British, Japanese, Chinese HK-SAR, Australian, Canadian); matched by bar position and descending order",claude-sonnet-5,2026-10-09,1,no
+o-c30b36e76b,"2,360",,1,text,PDF p. 7,"welcomed 3,638 new ... 2,360 principals and 1,278 dependents",high,"Page 26 text says 2,359 principal enrollees for 2025 (Power BI, as of 23 Feb 2026)",claude-sonnet-5,2026-10-09,1,no
+o-907629f23c,$32.27 Million,,million,2024,PDF p. 27,2024 $32.27 Million,high,,claude-sonnet-5,2026-10-09,1,no
+o-b4189c2fca,"153,360,906",,1,2024,PDF p. 31,"Maintenance and other operating expenses 241,794,441 153,360,906",high,,claude-sonnet-5,2026-10-09,1,no
+o-997a0cea54,"478,482,147",,1,Actual,PDF p. 29,"Total 689,498,713 478,482,147 211,016,566",medium,"Row says budget_execution; actual spend chosen. Approved COB 689,498,713; variance 211,016,566",claude-sonnet-5,2026-10-09,1,no
+o-421a6994df,38,,1,text,PDF p. 43,4) Baguio Satellite Office: 38 endorsed applicants and 75 evaluated,high,,claude-sonnet-5,2026-10-09,1,no
+o-3dff690bfc,99,,1,bar label,PDF p. 26,bar chart; 7th bar JAPANESE = 99,medium,Chart is an image; see CAN row for method,claude-sonnet-5,2026-10-09,1,no
+o-ad6df15671,30,45,1,text,PDF p. 3,Processing Period is 30 to 45 working days from receipt of complete documentary requirements.,high,Range 30 to 45 working days; whole application processing period,claude-sonnet-5,2026-10-09,1,no
+o-752f0a81f2,20,,1,Step 2 Document verification,PDF p. 2,"Processing takes 20 working days from the date all required documents, including any additional requests, are fully submitted.",high,Working days,claude-sonnet-5,2026-10-09,1,no
+o-4bbb562a17,20,,1,Step 2 Qualifications Endorsement,html,notified of the qualifications endorsement result within 20 working days (processing time might take longer if additional documents are requested),high,Working days; can be longer if more documents requested,claude-sonnet-5,2026-10-09,1,no
+o-19e8553245,one million,,1,text,html section 'What is LTR Visa',target of attracting one million wealthy or talented foreign residents into the country over the next five years,high,"Printed in words; 1,000,000 over next five years",claude-sonnet-5,2026-10-09,1,no
+o-9da1d671fd,"3,941",,1,text,"image p. 91 (annual report), para 3","สามารถทํายอดขายบัตรสมาชิกได้ 3,941 ราย สูงกว่าเป้าหมายที่วางไว้ 335 ราย คิดเป็นร้อยละ 109.29",high,"Total across all card types (Bronze 2,543, Platinum 496, Gold 371, Diamond 58, Reserve 13, plus ESE/EUP upgrade 460). Target printed as 3,606 (OCR read 34606 in this image; png copy shows 3,606). image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-42efd8af42,456,,1,ESE Upgrade bar,"image p. 91 (annual report), chart",ESE (Elite Superiority Extension) Upgrade bar label 456,medium,"Chart bar labels by OCR: ESE upgrade 456, EUP upgrade 4 (sum 460 matches text 'ESE และ EUP upgrade 460 ราย')",claude-sonnet-5,2026-10-09,1,no
+o-976d9f4646,4,,1,EUP Upgrade bar,"image p. 91 (annual report), chart",EUP (Elite Ultimate Privilege) Upgrade bar label 4,medium,Small bar label by OCR (digits-only pass); consistent with 460 - 456,claude-sonnet-5,2026-10-09,1,no
+o-464a91c19d,"3,941",,1,text,image,"ยอดขายจริง 3,941 ราย (actual sales); target 3,606 ราย",medium,"Row has no breakdown and an identical twin row (o-88947cb000); 3,941 is the total actual. Target printed 3,606. image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-88947cb000,"3,941",,1,text,image,"ยอดขายจริง 3,941 ราย (actual sales); target 3,606 ราย",medium,"Identical row definition to o-464a91c19d; if one is meant to be the target, it is 3,606. image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-9670bf0fc7,"2,543",,1,Bronze Membership,image,"Bronze Membership 2,543 ราย (64.6%)",high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-0793ec13f4,496,,1,Platinum Membership,image,Platinum Membership 496 ราย (12.6%),high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-1fb23df3ea,371,,1,Gold Membership,image,Gold Membership 371 ราย (9.4%),high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-122d511998,58,,1,Diamond Membership,image,Diamond Membership 58 ราย (1.5%),high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-6111bec9d0,13,,1,Reserve Membership,image,Reserve Membership 13 ราย (0.3%),high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-b05793827a,460,,1,ESE และ EUP Upgrade,image,ESE และ EUP Upgrade 460 ราย (11.7%),high,"image, OCR (Thai+English)",claude-sonnet-5,2026-10-09,1,no
+o-949bc35184,67,,1,Student (GOLD-EFE row),PDF p. 6,"GOLD-EFE 952 0.2% 652 0.2% 971 0.2% 857 0.2% 67 0.0% 2 0.0% 1,733 0.4% 5,824",medium,"OCR of scanned page; columns Entrepreneur, Employee, Investor, Retired, Student, Digital Nomad, Others; Student is 5th, 67",claude-sonnet-5,2026-10-09,1,no
+o-9206193d09,8,,1,Grand Total,PDF p. 2,75 Costarricense 3 1 2 1 1 ... 8,medium,OCR of scan; own OCR confirms total 8 and parts 3+1+2+1+1=8,claude-sonnet-5,2026-10-09,1,no
+o-aaac68ba71,324,,1,Investor (PLATINUM-EFA row),PDF p. 6,"PLATINUM-EFA 259 0.1% 207 0.1% 324 0.1% 220 ... 1,549",medium,OCR of scan; Investor is 3rd column,claude-sonnet-5,2026-10-09,1,no
+o-a0e00389e1,1,,1,PLATINUM-ESE,PDF p. 2,88 Colombiana 1 3 1 ... 5,medium,"OCR of scan; word coordinates place first '1' under PLATINUM-ESE header (then 3 under GOLD-EEA, 1 under GOLD-EFE; total 5)",claude-sonnet-5,2026-10-09,1,no
+o-5f88dad515,614,,1,Others (Bronze Membership row),PDF p. 6,"Bronze Membership 394 265 858 278 63 45 614 2,517",medium,"OCR of scan; Others is 7th column; sum of columns equals 2,517",claude-sonnet-5,2026-10-09,1,no
+o-c014699379,"1,549",,1,Grand Total,PDF p. 4,"PLATINUM-EFA 951 598 1,549",high,,claude-sonnet-5,2026-10-09,1,no
+o-a383102306,213,,1,Grand Total,PDF p. 4,PLATINUM-EPA 154 59 213,medium,"Male 154, Female 59, total 213 read from own OCR; also 213 in age and occupation tables",claude-sonnet-5,2026-10-09,1,no
+o-0a9707fdac,"1,386",,1,40-49 years old (count),PDF p. 5 (age table),"New Package Total 201 706 2,145 1,386 5.5% 585 625 5,638",medium,"Count 1,386; printed percentage beside it is 5.5% (looks like a typo in the document or OCR); count matches the sum of the new package rows",claude-sonnet-5,2026-10-09,1,no
