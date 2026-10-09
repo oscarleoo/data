@@ -183,6 +183,20 @@ edition prints "." with no legend; those 926 cells are stored as 0 with `reading
 rows only add up if "." means nil. Sources that list only non-zero combinations (UK extensions dataset) have
 no zeros to add.
 
+### 7. Status of figures in multi-year tables from international bodies (decided 2026-10-09)
+
+**Question.** IMF (and World Bank, ECCB...) tables show a column per year. Past years are often the
+government's own outturns reprinted; the latest years are marked "Est." or "Prel."; future years "Proj.".
+What status does each figure get?
+
+**Decision.** The column's own marking decides:
+- unmarked past year: `actual`, with a note that the body relays the government's figure;
+- "Est." (or a staff estimate): `estimate`; "Prel.": `provisional`; "Proj.": `projection`; "Budget": `budget`.
+Revisions between report years are kept side by side: each report's figure is its own row.
+
+**Why.** Status tells a reader whose figure it is. Labelling a government's outturn "estimate" because an
+international body reprinted it hides that it is official, and it contradicts the body's own headings.
+
 ## Open questions
 
 None at the moment.
