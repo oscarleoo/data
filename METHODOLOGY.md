@@ -215,8 +215,9 @@ is how unannounced changes are caught. Linking keeps charts and "current price" 
 
 **Applying (2026-10-09).** Column `restates` in both rules tables, filled by merge when programme, rule, amount,
 unit and applies_to match exactly (257 CBI and 187 whistleblowing links). Groups that share an amount but are
-worded differently (645) are being reviewed by hand; documents whose passes skipped restated rules (429) are being
-re-read to add them.
+worded differently (645) were reviewed by hand and linked through corrections. The 429 documents whose passes skipped
+restated rules were re-read: about 1,100 rules added (CBI 3,149 -> 4,239 rows; whistleblowing 860 -> 1,171).
+Known gap: one batch (rs-cbi-5) added only restatements and skipped about 8 rules stated by a single source.
 
 ### 9. Secondary sources (decided 2026-10-09)
 
