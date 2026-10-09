@@ -36,3 +36,4 @@ o-b2732f74b1,usa-nhtsa-wb-award-2021-0001,first_correct,"Same number written dif
 o-0bfc8d67ad,usa-nhtsa-wb-award-2021-0001,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
 o-f643200ee3,usa-scotus-digital-realty,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
 o-cca18c7c4a,usa-sec-owb-ar-2013,first_correct,"Same number written differently ('$27 million' vs 27,000,000; 'approximately 80 percent'; 'fifty-five (55)').",claude (page text),2026-10-09
+o-43661e5190,usa-tigta-wbo-audit-2023,both_in_document,"Figure 1 prints both for FY2021: 5,100 Form 211 submissions and 14,000 claims built. The row (unit claims) takes 14,000; the second reader took the submissions.",claude (page text),2026-10-09

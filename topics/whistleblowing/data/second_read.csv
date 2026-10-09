@@ -1682,3 +1682,66 @@ o-ee5da191f2,157,,1,Market Event (2018 bar),PDF p. 35,"Market Event group bar la
 o-2181257b80,65,,1,,PDF p. 36,NC 65,high,,claude-sonnet-5,2026-10-09,1,no
 o-c9c5eb6426,60,,1,,PDF p. 36,VA 60,high,,claude-sonnet-5,2026-10-09,1,no
 o-ec312e35dd,333,,1,Trading and Pricing (2018 bar),PDF p. 35,"Trading and Pricing group bar labels 257, 271, 333, 201 (2016-2019)",high,bars assigned to years by left-to-right order; matches FY2018 report,claude-sonnet-5,2026-10-09,1,no
+o-04dce3e5ae,4,,billion,not tabular; Director quote,HTML press release 2023-89,orders requiring bad actors to disgorge more than $4 billion in ill-gotten gains and interest,high,"Printed as ""more than $4 billion"" (lower bound); value 4, scale billion.",claude-sonnet-5,2026-10-09,1,no
+o-0a78254e56,1,,1,Rejected,"PDF p. 9 (printed p. 3), Figure 1",Whistleblower Office 5 4 1 10,high,,claude-sonnet-5,2026-10-09,1,no
+o-6b5c038baf,1,,1,Reclassified 7623(a),"PDF p. 9 (printed p. 3), Figure 1",Operating Division Examination 69 1 6 76,high,,claude-sonnet-5,2026-10-09,1,no
+o-6d14e1bca6,6,,1,Rejected,"PDF p. 9 (printed p. 3), Figure 1",Operating Division Examination 69 1 6 76,high,,claude-sonnet-5,2026-10-09,1,no
+o-fef525c737,3,,1,Total,"PDF p. 9 (printed p. 3), Figure 1",Operating Division Counsel 2 - 1 3,high,Total column (open+reclassified+rejected).,claude-sonnet-5,2026-10-09,1,no
+o-329af69ac4,8,14,1,Background text,"PDF p. 7 (printed p. 1), Background","awards paid were between 8 and 14 percent of the taxes, fines, and penalties collected during Fiscal Years 2001 to 2005",medium,"Printed as a range 8 to 14 percent, not a single average.",claude-sonnet-5,2026-10-09,1,no
+o-f309380f14,83,,1,Claims,"PDF p. 12, Figure 2",2007 83 $8 billion,high,,claude-sonnet-5,2026-10-09,1,no
+o-3c2b18c39f,702,,1,Total,"PDF p. 9 (printed p. 3), Figure 1",Criminal Investigation Division Review 685 17 702,high,,claude-sonnet-5,2026-10-09,1,no
+o-083bfcde77,316,,1,Total,"PDF p. 9 (printed p. 3), Figure 1",Whistleblower Analyst 30 149 137 316,high,,claude-sonnet-5,2026-10-09,1,no
+o-451683a827,"1,229",,1,FY 2015,PDF p. 15 (printed p. 8),"Specific Reason Not Listed Above 13  1,229 ***1***",high,,claude-sonnet-5,2026-10-09,1,no
+o-e507bf0cfb,470,,1,FY 2015,PDF p. 15 (printed p. 8),Denied: Statute Expired 470 419,high,,claude-sonnet-5,2026-10-09,1,no
+o-900705bba2,11,,1,"CDO segment, 2013",PDF p. 10 (printed p. 3),"2013 bar segments 14, 11, 5, 6, 2 [38 Total]",medium,"Stacked-bar labels extracted as text; series assigned by order (ICE, CDO, ARC, SPPA, Director) and totals check (14+11+5+6+2=38).",claude-sonnet-5,2026-10-09,1,no
+o-9c057d6af0,10,,1,"CDO segment, 2012",PDF p. 10 (printed p. 3),"2012 bar segments 14, 10, 11, 1 [36 Total]",medium,Stacked-bar labels extracted as text; series assigned by order and totals check (14+10+11+1=36); ARC did not exist until June 2013.,claude-sonnet-5,2026-10-09,1,no
+o-2b7f51cbfc,"1,388",,1,estimated population,"PDF p. 24 (printed p. 17), footnote 21; also App. I","estimated population of 1,388 FY 2014 submissions sent to an operating division",high,"Estimate (95% CI 1,142 to 1,635).",claude-sonnet-5,2026-10-09,1,no
+o-c99bc52536,"2,723",,1,2016* Total,PDF p. 11 (printed p. 4),"2016* [2,723 Total] (2,684 7623(a) + 39 7623(b))",high,,claude-sonnet-5,2026-10-09,1,no
+o-1653a20521,"3,344",,1,"7623(b) Claims, FY2013",PDF p. 11 (printed p. 4),"2013: 8,910 (7623(a)) and 3,344 (7623(b)) [12,254 Total]",high,,claude-sonnet-5,2026-10-09,1,no
+o-3f9fd91076,5.5,,1,Average Calendar Days to Establish,PDF p. 20 (printed p. 13),"FY 2016 (as of March 2016) 2,711 5.5",high,,claude-sonnet-5,2026-10-09,1,no
+o-50e550841c,22%,,1,"SB/SE Specialty, FY 2020",PDF p. 20 (printed p. 16),SB/SE Specialty 24% 30% 22% 22% 34%,high,,claude-sonnet-5,2026-10-09,1,no
+o-8c6e125db8,"$2,257",,1,"LB&I Division, FY 2021",PDF p. 19 (printed p. 15),"LB&I Division $6,544 ($7,907) ($2,557) $2,257 $2,363",high,,claude-sonnet-5,2026-10-09,1,no
+o-543c26ed6b,19%,,1,"TE/GE Division, FY 2022 (through 3rd Quarter)",PDF p. 20 (printed p. 16),TE/GE Division 7% 17% 12% 15% 19%,high,,claude-sonnet-5,2026-10-09,1,no
+o-a793c02779,30,90,1,"Intake/Initial Review (flowchart, OCR)",PDF p. 34 (printed p. 30),Intake/ Initial Review (Generally 30-90 days),high,"Range 30-90 days; low end in value, high end in value_high. Read by OCR of flowchart image.",claude-sonnet-5,2026-10-09,1,no
+o-539f0eab92,169,,1,"Total Number of Awards, FY 2020",PDF p. 14 (printed p. 10),Total Number of Awards 242 217 181 169 179,high,,claude-sonnet-5,2026-10-09,1,no
+o-29cbf07332,"$7,827",,1,"SB/SE Specialty, FY 2022 (through 3rd Quarter)",PDF p. 19 (printed p. 15),"SB/SE Specialty $418 $599 $856 $496 $7,827",high,,claude-sonnet-5,2026-10-09,1,no
+o-43661e5190,"5,100",,1,"Submissions Received (Form 211), FY 2021",PDF p. 8 (printed p. 4),"Submissions Received 4,600 4,400 3,200 5,100 5,100 22,400",medium,"Figure gives Form 211 applications (submissions received) 5,100 and Claims Built 14,000 for FY2021; row definition (applications) matches submissions, though row unit says claims. Rounded to nearest hundred.",claude-sonnet-5,2026-10-09,1,no
+o-233fb62418,34%,,1,"SB/SE Specialty, FY 2022 (through 3rd Quarter)",PDF p. 20 (printed p. 16),SB/SE Specialty 24% 30% 22% 22% 34%,high,,claude-sonnet-5,2026-10-09,1,no
+o-e9bb07368e,105,,1,FY 2015,PDF p. 5,Cases Opened 105 83,high,,claude-sonnet-5,2026-10-09,1,no
+o-23dbff49b4,113,,1,FY 2015,PDF p. 5,Cases Closed 113 76,high,,claude-sonnet-5,2026-10-09,1,no
+o-cb333d20e4,404,,1,FY 2015,PDF p. 5,Cases Pending 404 411,high,,claude-sonnet-5,2026-10-09,1,no
+o-58bf2d534f,83,,1,FY 2016,PDF p. 5,Cases Opened 105 83,high,,claude-sonnet-5,2026-10-09,1,no
+o-4f92feb9db,76,,1,FY 2016,PDF p. 5,Cases Closed 113 76,high,,claude-sonnet-5,2026-10-09,1,no
+o-d95e111683,411,,1,FY 2016,PDF p. 5,Cases Pending 404 411,high,,claude-sonnet-5,2026-10-09,1,no
+o-4fade91696,12,,1,text below table,PDF p. 5,CMF settled and recovered funds in 12 matters with recoveries of $2 million or higher,high,,claude-sonnet-5,2026-10-09,1,no
+o-8238fcba9e,113,,1,Total FY 2017,PDF p. 5 (OCR),Cases Opened 113,high,,claude-sonnet-5,2026-10-09,1,no
+o-9b588dba13,66,,1,Total FY 2017,PDF p. 5 (OCR),Cases Closed 66,high,,claude-sonnet-5,2026-10-09,1,no
+o-f92d7be614,468,,1,Total FY 2017,PDF p. 5 (OCR),Cases Pending | 468,high,,claude-sonnet-5,2026-10-09,1,no
+o-94880ca12c,5,,1,text below table,PDF p. 5 (OCR),settled and recovered funds in 5 matters with recoveries of $2 million or higher,high,OCR; the five listed matters also number 5.,claude-sonnet-5,2026-10-09,1,no
+o-55c58567ed,86,,1,Total FY 2018,PDF p. 4,Cases Opened 86,high,,claude-sonnet-5,2026-10-09,1,no
+o-5b59fd50d7,102,,1,Total FY 2018,PDF p. 4,Cases Closed 102,high,,claude-sonnet-5,2026-10-09,1,no
+o-d5b1241b20,456,,1,Total FY 2018,PDF p. 4,Cases Pending 456,high,,claude-sonnet-5,2026-10-09,1,no
+o-c165207864,6,,1,text below table,PDF p. 4,settled and recovered funds in 6 matters with recoveries of $2 million or higher,high,,claude-sonnet-5,2026-10-09,1,no
+o-be20eab0d4,97,,1,Total FY 2019,PDF p. 5,Cases Opened 97,high,,claude-sonnet-5,2026-10-09,1,no
+o-be4412c774,85,,1,Total FY 2019,PDF p. 5,Cases Closed 85,high,,claude-sonnet-5,2026-10-09,1,no
+o-1c6c280e5f,445,,1,Total FY 2019,PDF p. 5,Cases Pending 445,high,,claude-sonnet-5,2026-10-09,1,no
+o-2ed15a03f2,5,,1,text below table,PDF p. 5,CMF settled and recovered funds in five matters with recoveries of $2 million or higher,high,,claude-sonnet-5,2026-10-09,1,no
+o-ac8591c2a4,105,,1,Total FY 2020,PDF p. 5,Cases Opened 105,high,,claude-sonnet-5,2026-10-09,1,no
+o-40bf811330,36,,1,Total FY 2020,PDF p. 5,Cases Closed 36,high,,claude-sonnet-5,2026-10-09,1,no
+o-fe9b76c0ad,514,,1,Total FY 2020,PDF p. 5,Cases Pending 514,high,,claude-sonnet-5,2026-10-09,1,no
+o-6067427639,85,,1,Total FY 2021,PDF p. 5,Cases Opened 85,high,,claude-sonnet-5,2026-10-09,1,no
+o-1007a6313b,0,,1,Total FY 2021,PDF p. 5,Cases Closed 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-279b997069,421,,1,Total FY 2021,PDF p. 5,Cases Pending 421,high,,claude-sonnet-5,2026-10-09,1,no
+o-5b5c55de13,178,,1,footnote,PDF p. 5,"At end of FY21, CMF had 178 cases pending physical closure due to the pandemic",high,,claude-sonnet-5,2026-10-09,1,no
+o-160fde2ca0,73,,1,Total FY 2022,PDF p. 5,Cases Opened 73,high,,claude-sonnet-5,2026-10-09,1,no
+o-14373b1f9a,163,,1,Total FY 2022,PDF p. 5,Cases Closed 163*,high,Printed with asterisk (footnote: files physically closed after return to office).,claude-sonnet-5,2026-10-09,1,no
+o-6053470a1c,387,,1,Total FY 2022,PDF p. 5,Cases Pending 387,high,,claude-sonnet-5,2026-10-09,1,no
+o-9313a058b7,56,,1,FY 2023,PDF p. 4,Cases Opened 56,high,,claude-sonnet-5,2026-10-09,1,no
+o-d374d6e97d,157,,1,FY 2023,PDF p. 4,Cases Closed 157,high,,claude-sonnet-5,2026-10-09,1,no
+o-79b1678d5b,356,,1,FY 2023,PDF p. 4,Cases Pending 356,high,,claude-sonnet-5,2026-10-09,1,no
+o-84e8de3f38,64,,1,FY 2024,PDF p. 4,Cases Opened 64,high,,claude-sonnet-5,2026-10-09,1,no
+o-6f1bce764e,117,,1,FY 2024,PDF p. 4,Cases Closed 117,high,,claude-sonnet-5,2026-10-09,1,no
+o-6b1a888226,351,,1,FY 2024,PDF p. 4,Cases Pending 351,high,,claude-sonnet-5,2026-10-09,1,no
+o-98081d589f,83,,1,FY 2025,PDF p. 4,Cases Opened 83,high,,claude-sonnet-5,2026-10-09,1,no
+o-e25577a4ee,86,,1,FY 2025,PDF p. 4,Cases Closed 86,high,,claude-sonnet-5,2026-10-09,1,no
+o-118a749470,355,,1,FY 2025,PDF p. 4,Cases Pending 355,high,,claude-sonnet-5,2026-10-09,1,no
