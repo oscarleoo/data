@@ -214,6 +214,29 @@ unit and applies_to match exactly (257 CBI and 187 whistleblowing links). Groups
 worded differently (645) are being reviewed by hand; documents whose passes skipped restated rules (429) are being
 re-read to add them.
 
+### 9. Secondary sources (decided 2026-10-09)
+
+**Question.** Studies, reviews, press and international comparisons often copy figures and rules from elsewhere
+(an EPRS study's table of minimum investments, a review quoting SEC totals). The copies are sometimes stale or
+wrong (the 2018 EPRS study gives Gozo as EUR 250,000 where Malta's law says EUR 220,000). Keep them?
+
+**Decision.** Keep everything, and rank sources when choosing what to show:
+1. **Primary**: the law itself, the government or agency that runs the programme, a court. Source types
+   `legislation`, `government` (the programme's own government), `court`.
+2. **International bodies** reporting their own work or relaying official figures: `imf`, `eu`,
+   `international_org` (status follows decision 7).
+3. **Secondary**: studies, NGOs, press: `academic`, `ngo`, `media`. Figures carry status `reported` (or `claim`),
+   with a note naming where the source says the figure comes from.
+4. **Weakest**: agents' and promoters' material (`industry`), used only when nothing else exists, labelled so.
+
+A copied figure or rule never sets a headline value (such as the current minimum price) when a higher-ranked
+source states the same thing. Where it contradicts a higher-ranked source, both are kept and shown side by side
+as a disagreement. Observations carry the rank through their status; rules, which have no status column, carry it
+through their source's type.
+
+**Why.** Copies are evidence of what was publicly said and sometimes the only source for a period; a contradiction
+between a study and the law is worth seeing. But a stale copy must not outrank the law.
+
 ## Open questions
 
 None at the moment.
