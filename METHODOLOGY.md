@@ -40,3 +40,15 @@ records. Do such figures belong in the dataset?
 arithmetic is plain and repeatable from official records. But they are not printed, so there is no page to
 check them against. Marking them, keeping the recipe and recalculating independently keeps the line clear
 between "printed in the source" and "calculated by us from the source".
+
+**Applied (2026-10-09).** Greek permit spreadsheets 2016-2019: 497 figures `derived`, 6 printed summary cells
+kept as printed; all 503 matched an independent recalculation. Australian BP0068 workbook: 3,547 figures
+`derived` (3,511 new, 36 older rows converted); all matched an independent recalculation, which also reproduced
+every cell of the workbook's visible table. Ten Australian sums come out negative because the source data is
+masked (privacy perturbation); they are held back (open question 1a below).
+
+## Open questions
+
+- **1a. Masked data that sums to a negative number.** Some official datasets perturb small counts for privacy,
+  so a derived sum can be negative (e.g. -1 permits). Proposal: never publish a negative count; hold such
+  figures back and note the masking on the source. Not yet decided.
