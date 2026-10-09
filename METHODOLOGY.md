@@ -282,6 +282,22 @@ as breakdown keys (`applicant=`, `permit_type=`, `measure=goal`...), no values c
 `topics/cbi/reports/indicator-review-2026-10-09.json`. Rows the review found misfiled (e.g. bond counts in a money
 indicator) are queued as corrections to existing data. Whistleblowing indicators: not yet reviewed.
 
+### 12. Correcting existing data (decided 2026-10-09)
+
+**Question.** Agents reading documents for other purposes find errors in rows already in the data (a wrong date,
+an amount the source doesn't print, a figure filed under the wrong indicator). How do such errors get fixed?
+
+**Decision.** Every correction to existing data:
+- cites the page that shows the right value (document, location, verbatim quote);
+- is drafted by one reader and confirmed independently by a second reader against the page;
+- is applied only through `data/corrections.csv`, with the reason, the evidence and both checks named;
+- if the second reader disagrees, is not applied, and the disagreement is logged for a person to decide.
+Value, date and classification fixes come before note improvements.
+
+**Why.** A wrong row is worse than a missing one, but a "fix" can itself be wrong. Two independent readings and a
+cited page keep corrections as trustworthy as the data they change, and `corrections.csv` keeps every change
+reversible.
+
 ## Open questions
 
 None at the moment.
