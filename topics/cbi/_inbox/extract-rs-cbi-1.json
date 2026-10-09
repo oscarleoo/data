@@ -729,7 +729,7 @@
    "currency": "EUR",
    "applies_to": "long-term non-speculative investment in commercial or industrial assets (France) (as listed by the UK MAC, Feb 2014)",
    "location": "PDF p. 73 (printed p. 67), Table 4.2 'Investor routes offered by European Union (EU) countries', row France",
-   "quote": "Euro 10 million c£8.2 million Long term, non-speculative investment in commercial or industrial assets.",
+   "quote": "France Euro 10 million c£8.2 million Long term",
    "notes": "Secondary listing in the MAC's comparison table (MAC analysis; the sterling equivalents use exchange rates of February 2013). Validity dates not stated. Programme id needed: the EUR 10 million French scheme does not match fra-passeport-talent-investor (as for the same scheme listed by the IMF, vut-imf-art4-2015).",
    "source_id": "gbr-mac-tier1-investor-2014"
   },
@@ -1957,84 +1957,6 @@
   },
   {
    "program_id": "atg-cbi",
-   "route": "fee_processing",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "135000",
-   "currency": "XCD",
-   "applies_to": "spouse (processing fee)",
-   "location": "PDF p. 9, Schedule of Fees, item 2",
-   "quote": "Processing fee – Spouse $135,000",
-   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
-   "route": "fee_processing",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "67500",
-   "currency": "XCD",
-   "applies_to": "dependent child aged 0-17 (processing fee; $67,500 each for ages 0-11 and 12-17)",
-   "location": "PDF p. 9, Schedule of Fees, item 2",
-   "quote": "Processing fee – Dependent child aged 0 – 11 $67,500 Processing fee – Dependent child aged 12 – 17 $67,500",
-   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
-   "route": "fee_processing",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "135000",
-   "currency": "XCD",
-   "applies_to": "dependent child aged 18-25 or dependent parent over 65 (processing fee)",
-   "location": "PDF p. 9, Schedule of Fees, item 2",
-   "quote": "Processing fee – Dependent child aged 18 – 25 $135,000 Processing fee – Dependent parent aged over 65 $135,000",
-   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
-   "route": "real_estate_holding_period",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "5",
-   "currency": "years",
-   "applies_to": "citizen by investment: disposing of the approved-project real estate (or shares in the owning company) earlier, or before the development is substantially completed, leads to deprivation unless Cabinet exempts",
-   "location": "PDF p. 8, Schedule reg. 6(7)",
-   "quote": "Where a citizen by investment disposes of real estate purchased as an approved project or disposes of his shares in a company owning such real estate before the expiry of the period of five years or before the proposed development has been substantially completed",
-   "notes": "valid_from is the gazette date, as on the other rows from this Act. Reg. 6(8): no deprivation if another approved project of at least the required price is bought at the same time.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
-   "route": "decision_deadline",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "3",
-   "currency": "months",
-   "applies_to": "Unit's written notice to the agent that the application is approved, denied or delayed for cause",
-   "location": "PDF p. 7, Schedule reg. 5(14)",
-   "quote": "Within three months of the submission of an application for Citizenship by Investment, the Unit shall notify in writing the Agent on behalf of the main applicant, that the application has been— (a) approved; (b) denied; or (c) delayed for cause and is still being processed.",
-   "notes": "valid_from is the gazette date, as on the other rows from this Act.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
-   "route": "fee_payment_deadline",
-   "valid_from": "2013-04-11",
-   "valid_to": "",
-   "min_amount": "30",
-   "currency": "days",
-   "applies_to": "balance of the processing fee and the investment, after notice of approval",
-   "location": "PDF p. 7, Schedule reg. 5(15)",
-   "quote": "Within thirty days of the notification of the approval under subregulation (14)(a) the applicant or applicants shall pay the balance of the processing fee and -",
-   "notes": "valid_from is the gazette date, as on the other rows from this Act.",
-   "source_id": "atg-cbi-act-2013"
-  },
-  {
-   "program_id": "atg-cbi",
    "route": "agent_residence_min",
    "valid_from": "",
    "valid_to": "",
@@ -2149,6 +2071,474 @@
    "quote": "the resale may not be validly completed for this purpose until a period of five years has passed since the property was first used under the programme.",
    "notes": "valid_from as on the other rows from S.I. 2024 No. 50 (taken as effective 1 Aug 2024).",
    "source_id": "atg-cbi-regs-2024"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_processing",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "135000",
+   "currency": "XCD",
+   "applies_to": "spouse (processing fee)",
+   "location": "PDF p. 9, Schedule of Fees, item 2",
+   "quote": "Processing fee – Spouse $135,000",
+   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_processing",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "67500",
+   "currency": "XCD",
+   "applies_to": "dependent child aged 0-17 (processing fee; $67,500 each for ages 0-11 and 12-17)",
+   "location": "PDF p. 9, Schedule of Fees, item 2",
+   "quote": "Processing fee – Dependent child aged 0 – 11 $67,500 Processing fee – Dependent child aged 12 – 17 $67,500",
+   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_processing",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "135000",
+   "currency": "XCD",
+   "applies_to": "dependent child aged 18-25 or dependent parent over 65 (processing fee)",
+   "location": "PDF p. 9, Schedule of Fees, item 2",
+   "quote": "Processing fee – Dependent child aged 18 – 25 $135,000 Processing fee – Dependent parent aged over 65 $135,000",
+   "notes": "Printed as '$'; read as EC$ (Antigua and Barbuda legislation uses EC$ unless it says otherwise), as on the other rows from this Act. valid_from is the gazette date (11 Apr 2013), as on the other rows from this Act.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "real_estate_holding_period",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "citizen by investment: disposing of the approved-project real estate (or shares in the owning company) earlier, or before the development is substantially completed, leads to deprivation unless Cabinet exempts",
+   "location": "PDF p. 8, Schedule reg. 6(7)",
+   "quote": "Where a citizen by investment disposes of real estate purchased as an approved project or disposes of his shares in a company owning such real estate before the expiry of the period of five years or before the proposed development has been substantially completed",
+   "notes": "valid_from is the gazette date, as on the other rows from this Act. Reg. 6(8): no deprivation if another approved project of at least the required price is bought at the same time.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "decision_deadline",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "months",
+   "applies_to": "Unit's written notice to the agent that the application is approved, denied or delayed for cause",
+   "location": "PDF p. 7, Schedule reg. 5(14)",
+   "quote": "Within three months of the submission of an application for Citizenship by Investment, the Unit shall notify in writing the Agent on behalf of the main applicant, that the application has been— (a) approved; (b) denied; or (c) delayed for cause and is still being processed.",
+   "notes": "valid_from is the gazette date, as on the other rows from this Act.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_payment_deadline",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "30",
+   "currency": "days",
+   "applies_to": "balance of the processing fee and the investment, after notice of approval",
+   "location": "PDF p. 7, Schedule reg. 5(15)",
+   "quote": "Within thirty days of the notification of the approval under subregulation (14)(a) the applicant or applicants shall pay the balance of the processing fee and -",
+   "notes": "valid_from is the gazette date, as on the other rows from this Act.",
+   "source_id": "atg-cbi-act-2013"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_processing_upfront_share",
+   "valid_from": "2013-04-11",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "percent",
+   "applies_to": "share of the processing fees paid with the application (with the full due diligence fees; not refunded)",
+   "source_id": "atg-cbi-act-2013",
+   "location": "PDF p. 6, Schedule reg. 5(2)",
+   "quote": "Applications shall be made on the forms prescribed in accordance with regulation 14 and shall be accompanied by ten percent of the processing fees and the full amount of the due diligence fees as specified in the Schedule of Fees",
+   "notes": "valid_from is the gazette date, as on the other rows from this Act. The balance is due within 30 days of approval (reg. 5(15))."
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_payment_deadline",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "30",
+   "currency": "days",
+   "applies_to": "balance of the processing fee and the investment, after notice of approval",
+   "location": "web page, business investment option, application process paragraph",
+   "quote": "Upon receipt of a letter of approval you will be asked to pay the balance of the government processing fees and your business investment amount within a 30 day period.",
+   "notes": "Undated CIU web page (saved 28 Sep 2026); validity dates not stated.",
+   "source_id": "atg-ciu-web-business-investment"
+  },
+  {
+   "program_id": "atg-cbi",
+   "route": "fee_processing_upfront_share",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "percent",
+   "applies_to": "share of the processing fees paid with the application (with the full due diligence fees; not refunded)",
+   "location": "web page, business investment option, application process paragraph",
+   "quote": "upon submission of your application you will be asked to pay the due diligence fees and 10% of the government processing fees.",
+   "notes": "Undated CIU web page (saved 28 Sep 2026); validity dates not stated. The page does not mention refunds; applies_to kept as on the Act's row so the restatement links.",
+   "source_id": "atg-ciu-web-business-investment"
+  },
+  {
+   "program_id": "aus-biip",
+   "route": "investor",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "1500000",
+   "currency": "AUD",
+   "applies_to": "primary applicant (family included); invited before 1 July 2021",
+   "location": "p. 3, 'BIIP consultation findings: summary (part 1)', question 1",
+   "quote": "More agreement that the Investor visa (IV) threshold could be increased from the current level of $1.5 million.",
+   "notes": "Printed as '$'; read as AUD (a Home Affairs document; METHODOLOGY decision 5). 'Current level' as of the report (Dec 2020); validity dates not stated.",
+   "source_id": "aus-dha-biip-review-findings-2020"
+  },
+  {
+   "program_id": "aus-biip",
+   "route": "provisional_visa_validity",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "4",
+   "currency": "years",
+   "applies_to": "BIIP provisional visa (the majority of BIIP migrants; minimum period before applying for permanent residence), before July 2021",
+   "location": "p. 1, BIIP overview, second bullet",
+   "quote": "The majority of BIIP migrants enter Australia on a provisional visa for a minimum of four years. After this period they can apply for a permanent visa if they can demonstrate they have fulfilled the requirements.",
+   "notes": "Describes the programme before the July 2021 changes (p. 5 gives five years from 1 July 2021); dates not stated. Printed as a minimum period for 'the majority' of migrants.",
+   "source_id": "aus-dha-biip-review-findings-2020"
+  },
+  {
+   "program_id": "aus-siv",
+   "route": "complying_investment",
+   "valid_from": "",
+   "valid_to": "2021-06-30",
+   "min_amount": "5000000",
+   "currency": "AUD",
+   "applies_to": "primary applicant (family included)",
+   "location": "'Be able to invest at least AUD5 million', 'If you were invited to apply before 1 July 2021'",
+   "quote": "To be granted this visa, you must make (on or after the time of application for this visa), a complying significant investment of at least AUD5 million when we invite you to, and have a genuine intention to hold that investment for at least 4 years.",
+   "notes": "Applicants invited before 1 July 2021 (valid_to from that wording; start date not stated in this section). Page captured 2 Oct 2026, last updated 24 Sep 2026.",
+   "source_id": "aus-dha-immi-siv-stream-2026"
+  },
+  {
+   "program_id": "aus-siv",
+   "route": "dependant_child_max_age",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "23",
+   "currency": "years",
+   "applies_to": "child over 18 included in the application: must not yet have turned 23 and be dependent (no limit if unable to earn a living because of physical or cognitive limitations)",
+   "location": "'Dependents over 18 documents'",
+   "quote": "over 18 years of age but not yet turned 23, and dependent on you or your partner, or",
+   "notes": "Page captured 2 Oct 2026, last updated 24 Sep 2026; dates not stated.",
+   "source_id": "aus-dha-immi-siv-stream-2026"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "any_qualifying_investment",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "2500000",
+   "currency": "BMD",
+   "applies_to": "main applicant (spouse and dependants included)",
+   "location": "p. 1-2, s.2(a)",
+   "quote": "a “qualifying investment” means an investment of not less than BD$2,500,000 (Two Million Five Hundred Thousand Bermuda Dollars) or the equivalent in another currency or asset, in at least one of the following:",
+   "notes": "Policy effective 31 March 2023 (s.15), as on the other rows from this policy. Eight qualifying routes (real estate, government bonds, Sinking Fund, Bermuda Trust Fund, charity donation, equity in an existing business, new business, other ventures).",
+   "source_id": "bmu-mel-eirc-policy-2023"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "government_bonds_holding_period",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "investor choosing Bermuda Government bonds",
+   "location": "p. 2, s.2(a)(ii)",
+   "quote": "Purchase of Bermuda Government bonds to be held for a minimum of five years;",
+   "notes": "Policy effective 31 March 2023 (s.15), as on the other rows from this policy.",
+   "source_id": "bmu-mel-eirc-policy-2023"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "fee_certificate",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "2625",
+   "currency": "BMD",
+   "applies_to": "per certificate",
+   "location": "p. 5, s.13",
+   "quote": "The fee payable on application for an RC is $2,625.",
+   "notes": "Policy effective 31 March 2023 (s.15), as on the other rows from this policy. Printed as '$'; read as BMD (Bermuda government document; the qualifying investment is printed as BD$).",
+   "source_id": "bmu-mel-eirc-policy-2023"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "revocation_sentence_threshold",
+   "valid_from": "2023-03-31",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "RC holder convicted of a crime with a prison sentence of at least this length (ground for revocation, served or suspended)",
+   "location": "p. 4, s.11(ii)",
+   "quote": "The holder of an RC is convicted of a crime, whether in Bermuda or abroad, which resulted (or would have resulted) in a sentence of a term of imprisonment of two or more years whether or not the sentence was served in full or suspended",
+   "notes": "Policy effective 31 March 2023 (s.15), as on the other rows from this policy.",
+   "source_id": "bmu-mel-eirc-policy-2023"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "any_qualifying_investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "2500000",
+   "currency": "BMD",
+   "applies_to": "main applicant (spouse and dependants included)",
+   "location": "paragraph after the 'EIRC Investment Breakdown' table",
+   "quote": "Minister Hayward noted that EIRC holders are required to invest a minimum of $2.5 million into Bermuda's economy, but most invest significantly more.",
+   "notes": "Press release of 8 Dec 2025 restating the minimum; printed as '$'; read as BMD (Bermuda government release). Validity dates not stated.",
+   "source_id": "bmu-mel-eirc-600m-2025"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "any_qualifying_investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "2500000",
+   "currency": "BMD",
+   "applies_to": "main applicant (spouse and dependants included)",
+   "location": "paragraph after the investment table",
+   "quote": "The Minister explained, “While EIRC recipients are only required to invest a minimum of $2.5 million into the Bermudian economy, we find they generally invest much more.",
+   "notes": "Press release of 29 June 2023 restating the minimum; printed as '$'; read as BMD (Bermuda government release). Validity dates not stated.",
+   "source_id": "bmu-mel-eirc-pr-2023"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "any_qualifying_investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "2500000",
+   "currency": "BMD",
+   "applies_to": "main applicant (spouse and dependants included)",
+   "location": "PDF p. 4, item 1",
+   "quote": "Continuing the Economic Investment Certificate and Residential Certificate policy enabling a person to reside in Bermuda after investing a minimum of $2.5 million.",
+   "notes": "Year End Review 2022 restating the minimum; printed as '$'; read as BMD (Bermuda government document). Validity dates not stated.",
+   "source_id": "bmu-mel-yer-2022"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "any_qualifying_investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "2500000",
+   "currency": "BMD",
+   "applies_to": "main applicant (spouse and dependants included)",
+   "location": "second paragraph",
+   "quote": "enabling individuals — plus their spouse and minor dependents — who invest $2.5 million in specific Bermuda industries, sectors, charities, or government programmes, to receive residency rights.",
+   "notes": "Press release of 9 June 2024; printed as '$'; read as BMD (Bermuda government release). Validity dates not stated.",
+   "source_id": "bmu-mel-eirc-bonds-2024"
+  },
+  {
+   "program_id": "bmu-eirc",
+   "route": "government_bonds_holding_period",
+   "valid_from": "",
+   "valid_to": "2024-06-09",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "investor choosing Bermuda Government bonds",
+   "location": "para 3",
+   "quote": "Among the investment options was purchasing Bermuda Government bonds and holding them for at least five years.",
+   "notes": "Press release of 9 June 2024; printed as '$'; read as BMD (Bermuda government release). Validity dates not stated. The same paragraph removes bonds as a qualifying investment 'with immediate effect' (valid_to = release date, as on the bond row from this release).",
+   "source_id": "bmu-mel-eirc-bonds-2024"
+  },
+  {
+   "program_id": "brb-serp",
+   "route": "police_certificate_period",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "years",
+   "applies_to": "applicant: police certificates from every country of residence of six months or more in this period",
+   "location": "requirements list",
+   "quote": "Police Certificate of Character from all countries in which the applicant has resided for six (6) months or more in the last three (3) years.",
+   "notes": "Undated Immigration Department page (footer '2025'); validity dates not stated.",
+   "source_id": "brb-imm-sep-page-2026"
+  },
+  {
+   "program_id": "can-iivc",
+   "route": "language_benchmark_min",
+   "valid_from": "2015-01-28",
+   "valid_to": "2020-01-27",
+   "min_amount": "5",
+   "currency": "CLB level",
+   "applies_to": "main applicant: Canadian Language Benchmark in English or French (test less than two years old)",
+   "location": "Canada Gazette Part I, 24 Jan 2015, Ministerial Instructions Respecting the Immigrant Investor Venture Capital Class, s. 2(2)(b)",
+   "quote": "have attained a level of proficiency of at least benchmark level 5",
+   "notes": "valid dates as stated in s. 10 (effective 28 Jan 2015 to 27 Jan 2020); the programme itself closed earlier (30 Dec 2015 on the other rows).",
+   "source_id": "can-gazette-mi-iivc-2015"
+  },
+  {
+   "program_id": "can-iivc",
+   "route": "payment_deadline",
+   "valid_from": "2015-01-28",
+   "valid_to": "2020-01-27",
+   "min_amount": "75",
+   "currency": "days",
+   "applies_to": "main applicant: C$2,000,000 payment after the Minister's written request (application refused otherwise)",
+   "location": "Canada Gazette Part I, 24 Jan 2015, Ministerial Instructions Respecting the Immigrant Investor Venture Capital Class, s. 6",
+   "quote": "If the applicant does not make the payment set out in paragraph 2(2)( e ) within 75 days after the date of a written request by the Minister to do so, an application for a permanent resident visa as a member of the Immigrant Investor Venture Capital class must be refused",
+   "notes": "valid dates as stated in s. 10 (effective 28 Jan 2015 to 27 Jan 2020); the programme itself closed earlier (30 Dec 2015 on the other rows).",
+   "source_id": "can-gazette-mi-iivc-2015"
+  },
+  {
+   "program_id": "can-iivc",
+   "route": "application_cap",
+   "valid_from": "2015-01-28",
+   "valid_to": "2015-02-11",
+   "min_amount": "500",
+   "currency": "applications",
+   "applies_to": "applications accepted in the intake window (28 Jan to 11 Feb 2015, or until 500 received)",
+   "location": "Canada Gazette Part I, 24 Jan 2015, Ministerial Instructions respecting intake (same issue)",
+   "quote": "permanent resident applications received under the Immigrant Investor Venture Capital Class from January 28, 2015, to February 11, 2015, or until a maximum of 500 applications are received, whichever comes first.",
+   "notes": "Intake window as stated in the intake instructions.",
+   "source_id": "can-gazette-mi-iivc-2015"
+  },
+  {
+   "program_id": "can-iivc",
+   "route": "approval_cap",
+   "valid_from": "2015-01-28",
+   "valid_to": "",
+   "min_amount": "60",
+   "currency": "principal applicants",
+   "applies_to": "principal applicants approved with permanent resident visas under the pilot",
+   "location": "Canada Gazette Part I, 24 Jan 2015, Ministerial Instructions respecting intake (same issue)",
+   "quote": "Applications considered eligible for processing will be processed until up to 60 principal applicants are approved with permanent resident visas issued under this class. Sixty is the maximum number of investments that would be accepted",
+   "notes": "Start date of the intake; end date not stated.",
+   "source_id": "can-gazette-mi-iivc-2015"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "application_cap",
+   "valid_from": "2018-09-10",
+   "valid_to": "2019-03-15",
+   "min_amount": "1900",
+   "currency": "applications",
+   "applies_to": "applications for permanent selection received in the window (applicants without advanced intermediate French)",
+   "location": "PDF p. 2, section 1, §1, art. 1",
+   "quote": "Le nombre maximal de demandes de sélection à titre permanent que le ministre recevra dans le cadre du Programme des investisseurs est fixé à 1 900, dont un maximum de 1 235 demandes de ressortissants étrangers de la République populaire de Chine, incluant les régions administratives spéciales de Hong Kong et de Macao.",
+   "notes": "Ministerial order AM 2018-009, in force 2 Aug 2018 to 1 Apr 2019; valid dates are the receipt window it sets (10 Sept 2018 to 15 March 2019). The cap does not apply to applicants with advanced intermediate French (same order).",
+   "source_id": "can-goq-am-2018-009"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "application_cap_country",
+   "valid_from": "2018-09-10",
+   "valid_to": "2019-03-15",
+   "min_amount": "1235",
+   "currency": "applications",
+   "applies_to": "maximum from nationals of the People's Republic of China, incl. Hong Kong and Macao (part of the 1,900)",
+   "location": "PDF p. 2, section 1, §1, art. 1",
+   "quote": "Le nombre maximal de demandes de sélection à titre permanent que le ministre recevra dans le cadre du Programme des investisseurs est fixé à 1 900, dont un maximum de 1 235 demandes de ressortissants étrangers de la République populaire de Chine, incluant les régions administratives spéciales de Hong Kong et de Macao.",
+   "notes": "Ministerial order AM 2018-009, in force 2 Aug 2018 to 1 Apr 2019; valid dates are the receipt window it sets (10 Sept 2018 to 15 March 2019). The cap does not apply to applicants with advanced intermediate French (same order).",
+   "source_id": "can-goq-am-2018-009"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "minimum_age",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "18",
+   "currency": "years",
+   "applies_to": "investor (foreign national coming to settle in Quebec to invest)",
+   "location": "Gazette officielle du Québec 28 mars 2018, PDF p. 9 (p. 1989), draft art. 37",
+   "quote": "Un investisseur est un ressortissant étranger âgé d’au moins 18 ans qui vient s’établir au Québec pour y investir.",
+   "notes": "Draft regulation (published 28 March 2018 for comment); the document states no in-force date, so validity dates are left empty.",
+   "source_id": "can-goq-riq-draft-2018"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "placement_term",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "C$1,200,000 placement with an Investissement Québec subsidiary, from the date it is placed (irrevocable before term)",
+   "location": "Gazette officielle du Québec 28 mars 2018, PDF p. 9 (p. 1989), draft art. 43",
+   "quote": "Le terme du placement est de cinq ans à compter de la date à laquelle la somme est placée auprès d’une filiale d’Investissement Québec.",
+   "notes": "Draft regulation (published 28 March 2018 for comment); the document states no in-force date, so validity dates are left empty.",
+   "source_id": "can-goq-riq-draft-2018"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "placement_deadline",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "120",
+   "currency": "days",
+   "applies_to": "making the placement after the Minister's notice of intent to issue a selection decision",
+   "location": "Gazette officielle du Québec 28 mars 2018, PDF p. 9 (p. 1989), draft art. 42",
+   "quote": "Le ressortissant étranger doit, dans les 120 jours suivant la date de l’avis d’intention du ministre de rendre une décision de sélection, effectuer le placement prévu au paragraphe 3 de l’article 38.",
+   "notes": "Draft regulation (published 28 March 2018 for comment); the document states no in-force date, so validity dates are left empty.",
+   "source_id": "can-goq-riq-draft-2018"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "intermediary_min_years_operating",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "3",
+   "currency": "years",
+   "applies_to": "financial intermediary (investment dealer or trust company) taking part in the programme",
+   "location": "Gazette officielle du Québec 28 mars 2018, PDF p. 9 (p. 1989), draft art. 40(3)",
+   "quote": "être en opération à titre de courtier en placement ou de société de fiducie depuis au moins trois ans.",
+   "notes": "Draft regulation (published 28 March 2018 for comment); the document states no in-force date, so validity dates are left empty.",
+   "source_id": "can-goq-riq-draft-2018"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "client_account_deadline",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "110",
+   "currency": "days",
+   "applies_to": "financial intermediary: opening a separate client account after the Minister's notice of intent",
+   "location": "Gazette officielle du Québec 28 mars 2018, PDF p. 9 (p. 1989), draft art. 41(3)",
+   "quote": "l’engagement de l’intermédiaire financier à ouvrir un compte client distinct au nom du ressortissant étranger au plus tard 110 jours suivant la date de l’avis d’intention du ministre de rendre une décision de sélection.",
+   "notes": "Draft regulation (published 28 March 2018 for comment); the document states no in-force date, so validity dates are left empty.",
+   "source_id": "can-goq-riq-draft-2018"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "government_loan",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "1200000",
+   "currency": "CAD",
+   "applies_to": "main applicant with spouse; net worth of at least C$2,000,000 of lawful origin; management experience",
+   "location": "PDF p. 18, section 4.2.2 'Programmes d’immigration des gens d’affaires'",
+   "quote": "Réduction du montant du placement de 1,2 M$ à 1 M$ ;",
+   "notes": "Rule in force when the analysis was written (8 Sept 2023), described as the starting point of a proposed change; validity dates not stated. The proposed values (1 M$ placement, 10%) are proposals and not recorded as rules here. Printed '1,2 M$'; read as CAD (Quebec government document).",
+   "source_id": "can-mifi-air-riq-2023"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "route": "intermediary_interest_share",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "22",
+   "currency": "percent",
+   "applies_to": "financial intermediaries' share of the interest revenue generated by investor placements",
+   "location": "PDF p. 18, section 4.2.2 'Programmes d’immigration des gens d’affaires'",
+   "quote": "Baisse de la part de leurs revenus de placement provenant des revenus d’intérêts générés par les placements de 22 % à 10 % ;",
+   "notes": "Rule in force when the analysis was written (8 Sept 2023), described as the starting point of a proposed change; validity dates not stated. The proposed values (1 M$ placement, 10%) are proposals and not recorded as rules here.",
+   "source_id": "can-mifi-air-riq-2023"
   }
  ],
  "events": [],
@@ -2218,12 +2608,6 @@
    "to_do": ""
   },
   {
-   "source_id": "atg-cbi-act-2013",
-   "status": "complete",
-   "contains": "Citizenship by Investment Act 2013 (No. 2 of 2013, gazetted 11 Apr 2013; passed House 1 Feb, Senate 19 Mar 2013) with the Citizenship by Investment Regulations 2013 in its Schedule: definitions (dependants), registration and deprivation (35-day stay in five years), six-monthly report to Parliament and its required contents, CIU and agent licensing, application procedure, ineligible applicants, investment routes (real estate $1,080,000, NDF $675,000, business $4,000,000 or $13,500,000 joint with $1,080,000 each), Schedule of Fees (agent licence $8,100/$13,500; processing and due diligence fees by family member). Route minimums, processing fee and launch event were already in the data; this pass adds the due-diligence fee, the agent licence fee and the 35-day stay rule. Criminal fines for unlicensed applications or promotion ($20,000/$15,000) and the gazette price are not programme terms and are not extracted. Rules restated from other sources are now recorded from this document too (decision 8).",
-   "to_do": ""
-  },
-  {
    "source_id": "atg-cbi-regs-2013",
    "status": "complete",
    "contains": "Citizenship by Investment (Amendment) Regulations 2013 (S.I. 2013 No. 24, made 11 Jul 2013, gazetted 29 Aug 2013): new 'certified copy' definition, new agent-licensing rules (citizens or seven-year residents, $3,000,000 indemnity insurance, exclusions), document certification, oath abroad, and a limited time offer for families of up to four (NDF $540,000, processing fees $135,000). PDF p. 8 is a blank/bleed-through page. The NDF offer and price-change event were already in the data; this pass adds the offer's processing fee and a rule-change event for agents and the oath. Rules restated from other sources are now recorded from this document too (decision 8).",
@@ -2257,6 +2641,150 @@
    "source_id": "atg-ciu-ndf-notice-2017",
    "status": "complete",
    "contains": "CIU notice to industry partners, 13 Oct 2017: government's 12 Oct 2017 announcement halving the NDF threshold (US$200,000 to US$100,000 for up to four; US$250,000 to US$125,000 for five or more); fees unchanged. The new amounts were already in the data; this pass adds the old amounts. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "atg-cbi-act-2013",
+   "status": "complete",
+   "contains": "Citizenship by Investment Act 2013 (No. 2 of 2013, gazetted 11 Apr 2013; passed House 1 Feb, Senate 19 Mar 2013) with the Citizenship by Investment Regulations 2013 in its Schedule: definitions (dependants), registration and deprivation (35-day stay in five years), six-monthly report to Parliament and its required contents, CIU and agent licensing, application procedure, ineligible applicants, investment routes (real estate $1,080,000, NDF $675,000, business $4,000,000 or $13,500,000 joint with $1,080,000 each), Schedule of Fees (agent licence $8,100/$13,500; processing and due diligence fees by family member). Route minimums, processing fee and launch event were already in the data; this pass adds the due-diligence fee, the agent licence fee and the 35-day stay rule. Criminal fines for unlicensed applications or promotion ($20,000/$15,000) and the gazette price are not programme terms and are not extracted. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "atg-ciu-web-business-investment",
+   "status": "complete",
+   "contains": "CIU web page on the business route (saved 28 Sep 2026): US$1,500,000 single or US$5,000,000 joint (US$400,000 each), payment timing, processing fees US$10,000 / 20,000 / +10,000 per extra dependant. The investment term was already in the data; this pass adds the processing fee. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "aus-dha-biip-review-findings-2020",
+   "status": "complete",
+   "contains": "Home Affairs slide-style report (Dec 2020) on the BIIP review: BIIP description; planning levels (7,260 from 2014-15, 6,862 in 2019-20, 13,500 in 2020-21); BIIP 4.6% of Skill stream grants in 2019-20; 2012 replacement of Business Skills; top ten nationalities for BIIP grants (a ranking without numbers: China, Vietnam, Malaysia, Iran, Hong Kong, South Africa, India, Bangladesh, UK, Taiwan; not turned into numbers); consultation 19 Dec 2019-14 Feb 2020 with 41 submissions and nine roundtables; summary of stakeholder views given only in words (\"one fifth\", \"more than half\", \"two thirds\"; suggested SIV $6-10m and IV $2-3m thresholds are opinions, not rules); outcomes from 1 July 2021 (nine to four streams, PIV/SBH/VCE closed, five-year provisional visa, PR after three years, SIV two 2-year extensions, BI one 2-year extension, BI assets $1.25m and turnover $750,000, Entrepreneur $200,000 funding threshold scrapped). Added planning levels, the 4.6% share, consultation counts (new indicator proposed), the dated rules and the consultation-close event; 13,500 and the 2019 and 2021 events were already in the data. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "aus-dha-foi-211001119-2021",
+   "status": "complete",
+   "contains": "FOI release FA 21/10/01119 (4 pages): Significant Investor and Investor stream primary applications lodged and granted (subclasses 188 and 888 together), FY 2012-13 to 31 Oct 2021, by citizenship country and by government sponsor (state/territory, Austrade, \"Not Specified\"), plus withdrawal and refusal rates by year; notes on masking, financial years and rate definitions. No totals printed. Earlier rows (CHN and HKG cells, refusal rates) were already in the data and match the PDF; added every other citizenship cell, every sponsor cell and the 20 withdrawal rates. Columns were assigned from word positions in the PDF (blank cells are not recorded). Check: for each year the citizenship and sponsor tables of the same activity give overlapping sums once \"<5\" is taken as 1-4, so the two splits are consistent. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "aus-dha-immi-siv-stream-2026",
+   "status": "complete",
+   "contains": "Significant Investor stream (subclass 188C) visa page (captured 2 Oct 2026, last updated 24 Sep 2026; most of the file is site navigation): stream closed 31 July 2024; nomination by a state/territory or Austrade; AUD5 million complying significant investment with proportions AUD1m / AUD1.5m / AUD2.5m (invited from 1 July 2021) or AUD500,000 / AUD1.5m / AUD3m (invited before), held for the life of the visa (4 years before July 2021), 30-day reinvestment; 40 days a year in Australia (or 180 for the spouse) for subclass 888; stay 5 years / 4 years 3 months / 4 years; PR after 3 years 11 months for pre-2015 applicants; Extension stream up to 7 and 9 years, at most 2 extension visas; second-instalment charges AUD9,795 / AUD4,890; Pacific/Timor-Leste concession from 1 July 2026 (no amount); EOI 2 years, 60 days to apply, investment usually within 70 days; document lists. No statistics. The AUD5 million threshold and the closure event were already in the data; added 22 rules. The base visa application charge is blank in the capture (filled by script) and not recorded. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "aus-dha-mp-report-2020-21",
+   "status": "complete",
+   "contains": "2020-21 Migration Program Report (58 pp.). BIIP: outcome 11,198 (14% of Skill; pie chart 14.1%); lodgements +0.2% to 15,818; pipeline 31,661 to 31,813 (+0.5%); state-nominated outcomes incl. BIIP 11,198; tables 1.2.2-1.2.10 by state (sum 11,198); 1.3.1 by client location (1,253/9,945); 2.2 outcome by BIIP stream (ten streams, two \"<5\", consistent with 11,198); 2.15 lodgements, outcome, on hand, grant/refusal/withdrawal rates 2017-18 to 2020-21 (rates restated on a finalisations basis). Rest non-BIIP. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "aus-dha-mp-report-2023-24",
+   "status": "complete",
+   "contains": "2023-24 Migration Program Report (60 pp.). BIIP: outcome 1,900 (1.4% of Skill); Migration Strategy of 11 Dec 2023 - no new BIIP allocations (event already in data); tables by state (ACT, NT \"<5\"; no BIIP row for state not specified), by client location (296/1,604), by stream (ten streams, three \"<5\"), and table 2.17 (2020-21 to 2023-24). Rest non-BIIP. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bgr-lex-zchrb-2026",
+   "status": "complete",
+   "contains": "Foreigners in the Republic of Bulgaria Act, consolidated text on lex.bg (as of DV 55/2026): entry, visas, all residence categories, EU Blue Card, start-up visa, digital nomads, family members, refusal and withdrawal, fines, procedures. Investor content: long-term residence for BGN 600,000 in real estate (art. 24(1) item 19, loan up to 25%) or BGN 250,000 in disadvantaged regions with 5 jobs (item 20); permanent residence for BGN 2 million listed securities, BGN 1 million concessions, BGN 1 million funds (with BGN 5 million / 3 million fund-size floors), BGN 2 million priority project, BGN 6 million unlisted company, certified investment-promotion activity (item 13, no amount), BGN 500,000 plus 10 jobs (item 16), and after 5 years on items 19/20 (item 17); Investment Agency pre-check (art. 25(7)-(10)); 5-year holding for items 6, 8, 16 and no use as loan collateral (art. 25(11)-(12)); withdrawal if the investment is reduced; decision in 2 months (+2); spouses of investor permanent residents exempt from the residence requirement (art. 25(1) item 2). Art. 25a residence for merit or state interest (no amount). No statistics. Six art. 25(1) item 6-8 amounts were already in the data; the other investor amounts and rules now added. Other numbers (general fines, deadlines for other categories) are out of scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhr-moi-order-20-2022",
+   "status": "complete",
+   "contains": "Interior Minister Order 20/2022 (Arabic, 13 articles): five golden-residence categories (property of at least BHD 200,000 at purchase; retirees with BHD 4,000 monthly pension; talents; employees with 5 years and BHD 2,000 average salary; retirees with 15 years and BHD 2,000 average pension), 10-year renewable permit, good conduct, health insurance and means, dependants (spouse, children, parents), work only with permits, BHD 300 fee per person, cancellation (incl. under 90 days' presence a year), 14-day departure period, dependants' grace after death, ministerial exceptions. Property threshold and fee were already recorded; adds the other rules. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhr-npra-golden-property",
+   "status": "complete",
+   "contains": "NPRA English service page for the property route (undated): description, procedure (eGovernment), processing time 5 working days, required documents (deed showing at least BHD 130,000, health insurance, 6-month bank statement), fees (BHD 5 application, BHD 300 every 10 years), payment within 30 days of approval; site navigation (out of scope). Threshold and application fee were already recorded; adds the 300 fee, payment deadline and advertised processing time. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-ag-imm-amend-bill-2024",
+   "status": "complete",
+   "contains": "Immigration (Amendment) Bill 2024 (4 pages): from 1 Jan 2025, s.17A requires one million dollars for at least ten years in real estate or Central Bank zero coupon bonds; lapse if the fee is unpaid within 90 days, with a reinstatement fee; deed of gift excluded; documents required for each route; certificate shows the property tax number; bond proceeds earmarked; objects and reasons. Amounts were already recorded; adds the 10-year holding and 90-day fee rule. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bhs-mof-budget-comm-2024",
+   "status": "complete",
+   "contains": "Budget Communication 2024/25 (80 pages): general fiscal review, revenue and spending measures (out of scope); immigration measures on PDF pp. 53-55: expedited work-permit fee, visitor-stay and Trusted Traveller fees (out of scope), $500 reinstatement fee for PR applications not finalised after 90 days, economic PR minimum raised from $750,000 (real estate only) to $1.0 million in real estate and/or Central Bank zero coupon bonds held 10 years from 1 Jan 2025, deed of gift excluded, application requirements (tax number, appraisal no more than 12 months old, stamped conveyance), Real Property Tax number on Immigration approvals. PDF p. 24 mentions certificate-of-residency issuances and VAT on realty but gives no programme figure. Reinstatement fee and $750,000 threshold were already recorded; adds the $1.0m routes, holding period, appraisal age and 90-day rule. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-policy-2023",
+   "status": "complete",
+   "contains": "EIRC Policy (January 2023), 5 pp., effective 31 March 2023: replaces the 2021, 2015 and 2003 policies; RC under s.32(5) BIPA with indefinite residence and automatic work permit approval for the investor's business; qualifying investment of at least BD$2,500,000 in eight listed forms (bonds held 5 years); applicant at least 18; character and health conditions; investment kept 5 years and 90 days a year residence for 5 years, verified by year 5; dependants (children to 18, or to 25 in higher education); death/divorce; retroactive approval for EIC holders; restricted-person land licence; appeal within 7 working days; revocation grounds (fraud, 2+ year sentence, 2 years continuous absence); fee $2,625; earlier RCs keep old rules. No statistics. Added: 6 terms and 1 event; BD$2.5m minimum and the $2,625 fee are already recorded in the notes of t-bc7b254ed4 and t-0cd7363d67. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-600m-2025",
+   "status": "complete",
+   "contains": "Press release of 8 Dec 2025: EIRC passes $600 million; as of 5 Nov 2025 over $604.9 million; table \"EIRC Investment Breakdown\" by investment type (existing business, government bonds, new business, other ventures, real estate, total) with investment amount, number of RC holders and number of approved applications; $2.5m minimum. All table cells already in the data (15 rows); parts add up to the printed totals ($604,908,044.93; 188 holders; 79 applications). The rounded $604.9m and $600m in the text restate the table total and are not added again. Nothing new. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-pr-2023",
+   "status": "complete",
+   "contains": "Press release of 29 June 2023: as of 20 June 2023 total associated investment $425.5m incl. $164.8m real estate; table by investment type (existing business, new business, real estate, total) with amount, holders and approved applications; $2.5m minimum. All table cells already in the data (12 rows); parts add up to the totals ($425,553,370.61; 89; 37). The rounded text figures restate the table. Nothing new. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-yer-2022",
+   "status": "complete",
+   "contains": "Ministry of Economy and Labour Year End Review 2022, 10 pp. (p. 1 cover image, OCR shows only the title). In scope (p. 4, item 1): 27 EIC applications approved to date, 71 persons holding an EIC, over $369 million invested, $2.5m minimum; all already in the data. Out of scope: financial assistance, Work from Bermuda temporary residency certificates (1,139 approved, 163 extensions, 259 holders in Nov 2022), repatriation and mixed-status amendments (188 applications), SME support, ERP, workforce programmes, work permit moratorium, minimum wage. Nothing new. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eirc-bonds-2024",
+   "status": "complete",
+   "contains": "Press release of 9 June 2024: Government bonds removed as a qualifying investment (5-year hold hard to track; no new issues planned); bond investments just over $2.6m from one application with two holders; as of 5 June 2024 total associated investment over $482m incl. $218.7m real estate; table by investment type (existing business, government bonds, new business, real estate, total) with amount, holders and approved applications. All already in the data (table rows, the $218.7m text figure, the bond term and event); parts add up to the totals ($482,060,644.58; 128; 52). The rounded $2.6m and $482m restate table cells. Nothing new. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-ms-eic-2021",
+   "status": "complete",
+   "contains": "Ministerial statement of 19 Feb 2021 introducing the Economic Investment Certificate and Residential Certificate policy: $2.5M minimum investment; Residential Certificate after five years on an EIC; work rights; eight qualifying investment forms (bonds held at least five years); effective 1 March 2021; $2,625 certificate fee; concierge service; replaces the 2003 and 2015 RC policies. Also an illustration (\"let's say, 100 persons ... over the next 10 years. That will generate $250 million\") which is a hypothetical example, not a target or forecast, so not recorded as a number. Added: 2 terms (5-year wait for the RC; 5-year bond holding). Minimum, fee and launch event already in the data. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-yir-pr-2024",
+   "status": "complete",
+   "contains": "Press release on the 2024 Year in Review (the text says released \"Today (9 February 2025)\"; sources.csv has only \"2025\"): EIRC attracted over $500 million in investments (already in the data); other items out of scope (severance, minimum wage $16.81/$17.23, immigration digitisation, workforce, scholarships $350,000, coders initiative, UAE/Ghana agreements). Nothing new. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "brb-imm-sep-page-2026",
+   "status": "complete",
+   "contains": "Barbados Immigration Department page listing requirements for a Special Entry Permit (application under s. 13(3) of the Immigration Act, Form B): photographs, civil documents, passport, police certificates from countries of residence of six months or more in the last three years, title deeds and land tax bills, proof of financial resources, health insurance valid in Barbados, proof of dependants, translations, application fee BDS $300 payable on submission. No investment or net-worth threshold. The fee was already recorded; nothing else in scope with a programme amount. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "can-gazette-mi-iivc-2015",
+   "status": "complete",
+   "contains": "Canada Gazette Part I, 24 Jan 2015: (1) Ministerial Instructions Respecting the Immigrant Investor Venture Capital Class (14 Jan 2015): net worth C$10 million (or C$50 million in place of the education requirement), CLB 5, education, C$2,000,000 non-guaranteed payment transferred to BDC for venture capital, 75-day payment deadline, processing fees $1,050/$550/$150, intent to reside outside Quebec, effective 28 Jan 2015 to 27 Jan 2020, schedule of six designated due diligence firms; (2) intake instructions: applications 28 Jan-11 Feb 2015 or until 500 received, random draw until 60 complete applications, up to 60 approvals (\"Sixty is the maximum number of investments\"). The C$2,000,000 term and the launch event were already in the data; this pass adds the fee and net worth rules. Caps (500 applications, 60 approvals) are kept in the launch event, not as observations. The rest of the issue (environment, spectrum, insurance, Bank of Canada balance sheet) is out of scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "can-goq-am-2018-009",
+   "status": "complete",
+   "contains": "Quebec ministerial order AM 2018-009 (10 July 2018; Gazette 1 Aug 2018), in force 2 Aug 2018-1 Apr 2019: Investor Program capped at 1,900 applications, at most 1,235 from China (incl. Hong Kong and Macao), receipt window 10 Sept 2018-15 March 2019, cap and window not applicable (and priority processing) for applicants with advanced intermediate French; also caps for entrepreneur (25/35), self-employed (50) and refugee sponsorship programmes (out of scope). Preamble: about 2,510 investor applications pending on 30 April 2018 (added), 19,285 business-programme persons awaiting permanent residence (all business programmes; not taken). Cap event already in the data; the caps are kept in that event. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "can-goq-riq-draft-2018",
+   "status": "complete",
+   "contains": "Draft Règlement sur l'immigration au Québec (Gazette officielle du Québec 28 March 2018, 28 pages). Investor content: draft arts. 36-46 (investor definition, age 18+, management experience, net worth 2,000,000 $, 5-year placement of 1,200,000 $ with an Investissement Québec subsidiary through a financial intermediary, pass mark on the selection grid, intermediary conditions, 120-day placement deadline, refunds within 30 days), art. 113 (offence), art. 117 (transition for intermediaries), grid factor 2.3 (investor management experience in half-year steps, no points printed). The 1,200,000 $ term was already in the data; this pass adds the net worth rule. Other programmes (skilled workers, entrepreneurs, self-employed, family, refugees) out of scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "can-mifi-air-riq-2023",
+   "status": "complete",
+   "contains": "MIFI (Quebec) regulatory impact analysis, 8 Sept 2023, 32 pp., of the draft amendment to the Règlement sur l'immigration au Québec: new skilled-worker programme PSTQ, PEQ changes, the three business-immigration programmes (Investor, Entrepreneur, Self-employed) and other changes. Investor Program content taken: 15.5% presence rate (already in), proposed rules (12-month stay, 1 M$ placement + 200,000 $ contribution replacing 1.2 M$, quota system abolished, intermediaries' share of interest revenue 22% to 10%) as one context event (in-force terms already recorded from the 2023 decree), 18 participating intermediaries (3 trust companies, 15 investment dealers; parts sum to total), applications baseline 1,900 and forecast ~165 (165 already in), intermediaries' revenue 2022 10.6 M$ (already in) and forecast 1.8 M$, recurring shortfall 8.8 M$ (repeated in Tableaux 5, 6 and 9; implementation-period cost 0), forecast programme revenue 38 M$ = 18 M$ interest + 20 M$ contributions (adds up), assumption of 100 placements a year at 4% interest (rate kept in notes). Out of scope and not taken: PSTQ/PEQ content and Tableaux 1a/1b (CSQs for skilled workers by occupation 2021-2022), Tableaux 2a/2b (temporary work permit holders), Tableau 7 and Annexe 1 (employer work-permit costs, HR wage rates), Entrepreneur programme (net worth 900,000 $ to 600,000 $/300,000 $, ~40 businesses affected, 2,673 jobs saved by 232 business transfers), Self-employed programme, SME statistics, employment-impact grid (overall impact nil; intermediaries have 1-249 employees). Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   }
  ]
