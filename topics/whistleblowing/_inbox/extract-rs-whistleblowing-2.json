@@ -147,6 +147,97 @@
    "location": "Sec. 9703(b), 134 Stat. 4834 (PDF p. 1448)",
    "quote": "The Secretary of the Treasury may, with the concurrence of the Secretary of State and the Attorney General, and in consultation, as appropriate, with the heads of other relevant Federal departments and agencies, pay a reward to any individual",
    "notes": "The Secretary 'may' pay. Validity as for the caps."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "discretionary",
+   "valid_from": "2006-12-20",
+   "valid_to": "",
+   "value": "0",
+   "unit": "",
+   "applies_to": "section 7623(b) awards (IRS generally required to pay)",
+   "source_id": "usa-irs-wbo-ar-fy2014",
+   "location": "PDF p. 4, I. Executive Summary",
+   "quote": "For information provided to the IRS after December 19, 2006, new section 7623(b) of the Internal Revenue Code (the Code) generally requires the IRS to pay awards",
+   "notes": "Also in the statute reprinted in Appendix A (PDF p. 13): the individual 'shall ... receive as an award at least 15 percent'."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "anonymous_filing",
+   "valid_from": "2006-12-20",
+   "valid_to": "",
+   "value": "0",
+   "unit": "",
+   "applies_to": "section 7623(b)(6)(C): information must be submitted under penalty of perjury",
+   "source_id": "usa-irs-wbo-ar-fy2014",
+   "location": "PDF p. 14, Appendix A, section 7623(b)(6)(C)",
+   "quote": "No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.",
+   "notes": "Statute reprinted in the report."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "reward_basis_includes_fines",
+   "valid_from": "2018-02-09",
+   "valid_to": "",
+   "value": "1",
+   "unit": "flag",
+   "applies_to": "\"proceeds\" include criminal fines and civil forfeitures and violations of reporting requirements (7623(c)(2))",
+   "source_id": "usa-irs-wbo-ar-fy2019",
+   "location": "PDF p. 4, Background and Program Evolution",
+   "quote": "On February 9, 2018, Section 41108 of the BBA 2018 amended IRC § 7623 by adding a new subsection (c): Proceeds—For purposes of this section, the term ‘proceeds’ includes—(1) penalties, interest, additions to tax, and additional amounts provided under the internal revenue laws, and (2) any proceeds arising from laws for which the Internal Revenue Service is authorized to administer, enforce, or investigate, including—(A) criminal fines and civil forfeitures, and (B) violations of reporting requirements.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "discretionary",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "",
+   "applies_to": "section 7623(a) awards (submissions that do not meet the 7623(b) criteria)",
+   "source_id": "usa-irs-wbo-ar-fy2019",
+   "location": "PDF p. 4, Background and Program Evolution",
+   "quote": "If a submission does not meet the criteria for IRC § 7623(b) consideration, the Whistleblower Office may consider it for an award pursuant to its discretionary authority under IRC § 7623(a).",
+   "notes": "No existing row has this exact scope; closest are the TIGTA 2023 and eCFR rows on 7623(a) discretion."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "discretionary",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "0",
+   "unit": "flag",
+   "applies_to": "section 7623(b) awards when the Secretary proceeds with an action based on the information",
+   "source_id": "usa-irs-wbo-ar-fy2019",
+   "location": "PDF p. 7, Issues of Interest 2",
+   "quote": "IRC § 7623 provides for awards, in some cases mandatory, when the IRS proceeds with an action based on a whistleblower’s information.",
+   "notes": "The report says 'in some cases mandatory' (the 7623(b) programme; PDF p. 4: 'the IRS will pay an award of at least 15 percent')."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "anonymous_filing",
+   "valid_from": "2006-12-20",
+   "valid_to": "",
+   "value": "0",
+   "unit": "",
+   "applies_to": "section 7623(b)(6)(C): information must be submitted under penalty of perjury",
+   "source_id": "usa-irs-wbo-first-report-2008",
+   "location": "printed p. 8 (PDF p. 10), Appendix (section 7623(b)(6)(C))",
+   "quote": "No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.",
+   "notes": "Statute reprinted in the report. The narrative (printed p. 3, PDF p. 5) also says Notice 2008-4 'includes the requirement that the information be submitted by an individual, under penalty of perjury'."
+  },
+  {
+   "program_id": "usa-irs-wbo",
+   "rule": "discretionary",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1",
+   "unit": "",
+   "applies_to": "section 7623(a) awards (submissions that do not meet the 7623(b) criteria)",
+   "source_id": "usa-irs-wbo-first-report-2008",
+   "location": "printed p. 2 (PDF p. 4), footnote 6",
+   "quote": "If the submission does not meet the criteria for 7623(b) consideration, it may be considered for an award under the pre-Act discretionary authority (what is now section 7623(a)).",
+   "notes": ""
   }
  ],
  "cases": [],
@@ -215,6 +306,30 @@
    "status": "complete",
    "to_do": "",
    "contains": "Pilot Program guidance as revised 30 July 2026 (15 pp.): same structure and award scale as the 2024 guidance, with these changes: section now named MLNFS; eligibility for another programme no longer bars an award, only duplicate awards (footnote 3, new factor III.3.b.v on other programmes); eight subject areas (adds federal health care offenses generally, federal contracting fraud, trade/tariff/customs fraud, immigration, sanctions/terrorism/cartels); submissions through the online intake portal. Already in the data: two events (launch, revision). Added eight rules restating the award terms (threshold, 30%/5% scale, 30% presumption on first $10 million, discretion, anonymous via attorney, 120-day internal window, 90-day claim window). Not recorded as rules (no fitting type): no award above $500 million net proceeds (in notes), $500,000 congressional-notification trigger (p. 14), three-submission bar, 7-day attorney deadline. No statistics. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-irs-wbo-ar-fy2014",
+   "status": "complete",
+   "to_do": "",
+   "contains": "IRS Whistleblower Program FY2014 report to Congress (24 pp.): executive summary (record 14,365 claims; 101 awards totalling $52,281,628 before a $3,764,722 sequestration cut, 16.9 percent of collections); program history and rules; final regulations 12 Aug 2014 and Deputy Commissioner memo 20 Aug 2014 (events already recorded); eleven 7623(b) payments since FY2011; staffing (40 to 43, out of scope); legislative proposals; Appendix A statute; Table 1 claims received and open by year of receipt (pre-2010 to 2014, as of 14 May 2015); Table 2 FY2014 receipts by operating division and claim type; Table 3 FY2014 closures by reason and year of receipt (80 percent received in FY2013-14); Table 4 open potential-7623(b) claims by 21 statuses; Table 5 days in status; Table 6 awards FY2010-2014 incl. collections over $2 million and percentages. Added: Table 1 total, Table 2 by division, Table 3 by year of receipt, Tables 4-5 in full, Table 6 over-$2-million and percentage rows, the 80 percent statement, restated rules. All tables add up. The rise of 3,845 claims on FY2013 is a difference and is not recorded. Note: Table 6 award amounts are before sequestration (the FY2014 rows already in the data carry no before_sequestration flag). Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-irs-wbo-ar-fy2019",
+   "status": "complete",
+   "to_do": "",
+   "contains": "IRS Whistleblower Program FY2019 report to Congress (19 pp., Rev. 2-2020; Figure 2 revised 3 Feb 2020): Director's message (181 awards, $120,305,278; proceeds $616,773,127 split Title 26 / non-Title 26; 282 foreign whistleblowers; percentage changes not recorded); background, rules, BBA 2018 and Taxpayer First Act 2019 (event already recorded); GAO follow-up; staffing (37 FTE, Figure 1, out of scope); issues of interest; Table 1 FY2017-2019; Figure 2 claims paid and days/years by type; Figure 3 FY2019 claim numbers by month and type; Table 2(A) receipts by operating division; Table 2(B) receipts sent to field examination; Figure 4(A) issued/open/closed; Figure 4(B) whistleblowers by region (chart image, OCR); Figure 5 open 7623(b) claims by year of receipt; Table 3 open claims by phase; Table 4 closures by reason with percent and average days. Added the missing rows of Tables 1-4 and Figures 2, 3, 4(B) and 5 (Figure 3 series by stacking order; Figure 5 adds to the Table 3 7623(b) total of 12,174; Figure 4(B) values from OCR), restated rules. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-irs-wbo-first-report-2008",
+   "status": "complete",
+   "to_do": "",
+   "contains": "IRS Whistleblower Program first report to Congress (11 pp., 24 Jun 2008), covering the Whistleblower Office's first 12 months: prior law and policy (1/10/15 percent, generally not over $10 million), the 2006 law (15-30 percent, 10 percent for public-source cases, $2 million and $200,000 thresholds, 30-day Tax Court appeal), first Director appointed 2 Feb 2007, staffing (eight, out of scope), intake design, Notice 2008-4 and Form 211 (undated here), interim case management, Ogden consolidation, 116 potential 7623(b) submissions to 31 Jan 2008 (24 alleging over $10 million, 29 more without an amount), FY2007 paid claims over $2 million (12) and over $10 million (3), FY2008 priorities, table of cases received, awards paid, award amounts and collections FY2003-2007 with 35 partial payments ($3.2 million), and an appendix reprinting section 7623. Rules, events and the table were already recorded; added the 24/29 submission splits, the over-$10-million count and one event. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-irs-wbo-sequester-notice-fy2025",
+   "status": "complete",
+   "to_do": "",
+   "contains": "One-page IRS notice: award payments under section 7623 made in FY2025 are reduced by the FY2025 sequestration rate of 5.7%, whatever the Form 211 date (Budget Control Act 2011 as amended). The rate is already recorded as a rule; nothing else in scope. The file is named fy-2026-sequester-notice.pdf but states the FY2025 rate. Rules restated from other sources are now recorded from this document too (decision 8)."
   }
  ]
 }
