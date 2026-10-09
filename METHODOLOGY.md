@@ -177,6 +177,12 @@ edition", "blank = not available"). What pages show is decided separately (most 
 **Why.** A zero is information ("no investors from X in 2019"). If it isn't stored, "zero", "not published"
 and "not extracted" look the same, which is the silent gap the coverage ledger exists to prevent.
 
+**Applied (2026-10-09).** 29,517 printed zeros added to CBI: Canadian IRCC workbooks (18,382), Latvian permit
+tables (9,233), New Zealand residence decision reports (1,358), Malta 2021 report (544). The New Zealand 2024
+edition prints "." with no legend; those 926 cells are stored as 0 with `reading` = `implied`, because the
+rows only add up if "." means nil. Sources that list only non-zero combinations (UK extensions dataset) have
+no zeros to add.
+
 ## Open questions
 
 None at the moment.
