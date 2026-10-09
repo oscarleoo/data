@@ -8612,3 +8612,266 @@ program_terms,t-9ad0f4793c,restates,,Reviewed restatement link (METHODOLOGY.md d
 program_terms,t-a4ad6b16fe,restates,t-9ad0f4793c,Reviewed restatement link (METHODOLOGY.md decision 8): same rule as t-9ad0f4793c (wsm-cia-2015); SAT 4m investment,review 2026-10-09
 program_terms,t-38d4b1fba8,restates,,Reviewed restatement link (METHODOLOGY.md decision 8): original; restated by 1 later row(s); SAT 2.5m net worth,review 2026-10-09
 program_terms,t-121ac3df92,restates,t-38d4b1fba8,Reviewed restatement link (METHODOLOGY.md decision 8): same rule as t-38d4b1fba8 (wsm-cia-2015); SAT 2.5m net worth,review 2026-10-09
+observations,o-f8ae8800f3,status,actual,"IMF column heading '""For the ECCU region, total applications declined by 21 percent (y/y) in 2024H1 ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-026ed86ade,status,actual,"IMF column heading '""...while Dominica (+47 percent) and Antigua and Barbuda (+115 percent) saw surg' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-2cc15055fe,status,actual,"IMF column heading '""Grenada (-88 percent) and St. Lucia (-40 percent) experienced sharp declines""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-62726cf857,status,actual,"IMF column heading '""total applications declined by 21 percent (y/y) in 2024H1""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0098104c8c,status,actual,"IMF column heading '""Grenada (-88 percent) and St. Lucia (-40 percent) experienced sharp declines""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-4f6b1ebb38,notes,ECCU-wide CBI revenue in percent of ECCU GDP (citing the forthcoming IMF ECCU 2025 Article IV). Status left as estimate: the column heading does not settle it (2024 figure is the starting point of a projection sentence citing a forthcoming IMF paper; the 7 percent itself carries no qualifier. Neither clearly a plain outturn nor marked as estimate. Current st; METHODOLOGY.md decision 7).,IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-40e1fe8728,status,actual,"IMF column heading '""slightly below the pre-pandemic average of 11 percent of GDP for 2014-2019""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-595b462d6c,status,actual,"IMF column heading '""While CBI inflows to the capital account averaging 7.5 percent of GDP during 20' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-2638b0240f,status,actual,"IMF column heading 'Text table 'Recent Developments: Key Fiscal Items', columns 2019 2020 2021 2022 ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0c8759fc6b,status,actual,"IMF column heading 'Text table 'Active Scenario', column ""Pre-COVID Average '15-'19"" (unmarked)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8128bd00b3,status,actual,"IMF column heading 'Table 2 header: 2020 2021 2022 2023 unmarked; ""Est."" over 2024; ""Proj."" over 202' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-27c5a3b011,status,actual,"IMF column heading 'Table 2 header: 2021 unmarked; ""Est."" over 2024 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-af7f791b46,status,actual,"IMF column heading 'Table 2 header: 2022 unmarked; ""Est."" over 2024 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-cfbfdef1a4,status,actual,"IMF column heading 'Table 2 header: 2023 unmarked; ""Est."" over 2024 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d8575b7f71,status,provisional,"IMF column heading 'Table 4b header: ""Prel."" over 2025; ""Projections"" 2026-2031' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-bb83974307,status,actual,"IMF column heading '""the comparable program in St. Kitts and Nevis earns more than 10 percent of GDP' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-56cf74ae82,status,actual,"IMF column heading 'Table 1 header: 2009 2010 2011 unmarked; 2012 split ""Prog"" / ""3rd Review Proj."";' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-243530aa09,status,actual,"IMF column heading 'Para 12: ""ECP receipts are expected to return to their historical average of abo' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0e64521d37,status,projection,"IMF column heading 'Table 1 header: 2012 = ""Prog"" / ""3rd Review Proj.""; Text Figure 1 note: ""2012 re' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-af83db0cb7,status,projection,"IMF column heading 'Para 8: ""The latter receipts are projected at 4.5 percent of GDP (including a wi' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1f11e0b29f,status,projection,"IMF column heading 'Para 8: ""projected at 4.5 percent of GDP (including a windfall of 3.1 percent of' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5341330f0c,status,projection,"IMF column heading 'MEFP para 3: ""Revenue is expected to exceed the targeted 14 percent ... the latt' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f5469058ff,status,projection,"IMF column heading 'MEFP para 3: ""the latter will increase to 4.5 percent of GDP in 2012 compared wi' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-eb8694ea37,status,actual,"IMF column heading 'Para 8: ""the authorities have saved six tenths of the ECP revenue windfall (1.8 ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-dc4f44f15a,status,actual,"IMF column heading 'Para 8: ""allocated the reminder to ... (ii) a short-term loan to the financially' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0bdd2c8376,status,actual,"IMF column heading 'Para 8: ""the authorities have saved six tenths of the ECP revenue windfall (1.8 ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-86f61d0223,status,actual,"IMF column heading 'Text Table 1 header: 2011 unmarked; 2012 ""Prog"" / ""3rd Review Proj.""; footnote ""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-fcc3a822cf,status,projection,"IMF column heading 'Text Table 1 header: 2012 = ""Prog"" / ""3rd Review Proj.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-18a439c5ee,status,actual,"IMF column heading 'Para 10: ""non tax-revenue under the ECP has significantly increased with windfal' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-deab5f76ef,status,actual,"IMF column heading 'Annex III para 4: ""ECP receipts accounted for more than 6 percent of GDP in 2012' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-167b9907ef,status,actual,"IMF column heading 'Table 5a header: column 2015 (= FY2015/16) unmarked; ""Projected"" over 2016-2021' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9b23156c51,status,actual,"IMF column heading 'Table 5b header: column 2014 (= FY2014/15) unmarked; ""Projected"" over 2016-2021' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c2853ecb0d,status,actual,"IMF column heading 'Table 5b header: column 2015 (= FY2015/16) unmarked; ""Projected"" over 2016-2021' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9285a10915,status,actual,"IMF column heading 'Selected Indicators header: 2015 (= FY2015/16, note 2/) unmarked; ""Projected"" ov' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-77e3a704e2,status,actual,"IMF column heading 'Selected Indicators header: 2015 (= FY2015/16) unmarked; ""Projected"" over 2016-2' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-edb5294600,status,actual,"IMF column heading 'Table 5b header: column 2015 (= FY2015/16) unmarked; ""Projected"" over 2016-2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5c06d39b99,status,actual,"IMF column heading '""CBI revenues, which increased from 3.4 percent of GDP in 2015 to estimated 7.4 ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c3250a9f83,status,actual,"IMF column heading 'Table 3a header: 2012-2016 unmarked; ""Projected"" (with rule) over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3a3e089c7e,status,actual,"IMF column heading 'Table 3a header: 2013 unmarked; ""Projected"" over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5176a8270d,status,actual,"IMF column heading 'Table 3a header: 2014 unmarked; ""Projected"" over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-075753e0ea,status,actual,"IMF column heading 'Table 3a header: 2015 unmarked; ""Projected"" over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-148bf28430,status,actual,"IMF column heading 'Table 3a header: 2016 (= FY2016/17) unmarked; ""Projected"" over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-420077f35e,status,projection,"IMF column heading 'Table 3a header: ""Projected"" over 2017-2023; column 2017 = FY2017/18' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9fecbe5a70,status,actual,"IMF column heading 'Table 3b header: 2012 unmarked; ""Projected"" over 2017-2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-fa1685a26e,status,actual,IMF column heading 'Table 3b header: 2013 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-68bf6356f4,status,actual,IMF column heading 'Table 3b header: 2014 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-b020814ad6,status,actual,IMF column heading 'Table 3b header: 2015 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-8e312a66b8,status,actual,IMF column heading 'Table 3b header: 2016 (= FY2016/17) unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-3d15781e26,status,projection,"IMF column heading 'Table 3b header: ""Projected"" over 2017-2023; column 2017 = FY2017/18' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-95968dd0e3,status,projection,"IMF column heading 'Table 3a header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-274e833f28,status,projection,"IMF column heading 'Table 3b header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-29592963b8,status,projection,"IMF column heading 'Table 3a header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d9b322afbe,status,projection,"IMF column heading 'Table 3a header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7dfc7a40ff,status,projection,"IMF column heading 'Table 3b header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0754af8206,status,projection,"IMF column heading 'Table 3b header: ""Projected"" over 2017-2023 (column 2017 = FY2017/18)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-70951f7afb,status,actual,"IMF column heading 'Annex II para 3: ""a difference of 19.3 percent of GDP from the extraordinary CBI' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ccfba347c5,status,actual,"IMF column heading 'Table 2a header: 2016-2019 unmarked; ""Prel."" over 2020; ""Projected"" over 2021-20' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5ed2ef16fd,status,actual,"IMF column heading 'Table 2a header: 2017 (= FY2017/18) unmarked; ""Prel."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9c3a4f6218,status,actual,"IMF column heading 'Table 2a header: 2018 (= FY2018/19) unmarked; ""Prel."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d500cf737b,status,actual,"IMF column heading 'Table 2b header: 2016 unmarked; ""Prel."" over 2020; ""Projected"" 2021-2026' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e81ece04f6,status,actual,"IMF column heading 'Table 2b header: 2017 unmarked; ""Prel."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-31cf4f5084,status,actual,"IMF column heading 'Table 2b header: 2018 unmarked; ""Prel."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e0baa8f899,status,actual,"IMF column heading 'Table 2b header: 2019 (= FY2019/20) unmarked; ""Prel."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-23b6894a81,status,actual,"IMF column heading 'ESA annex: ""It has had substantial CBI inflows, averaging 22.1 percent of GDP fr' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3d866ac58a,status,actual,"IMF column heading 'ESA annex: ""including 24.5 percent of GDP in 2020.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ad68bc63ea,status,actual,"IMF column heading 'ESA annex p. 42: ""high CBI revenue (a total of 24.5 percent of GDP, but 5 percen' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c9a2966091,status,actual,"IMF column heading 'Table 3a header: 2019-2022 unmarked; ""Prel."" over 2023; ""Projected"" 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-823f478953,status,actual,"IMF column heading 'Table 3b header: 2019 unmarked; ""Prel."" over 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d26a4dc31a,status,actual,"IMF column heading 'Table 2 (BoP) header: 2019-2022 unmarked; ""Est."" over 2023; ""Projected"" 2024-202' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-97021c594c,status,actual,IMF column heading 'Table 2 header: 2019 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-1008705ae2,status,actual,"IMF column heading 'Table 2 header: 2022 unmarked; ""Est."" over 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9a145e3c49,status,actual,"IMF column heading 'Table 3a header: 2020-2023 unmarked; ""Est."" over 2024; ""Proj."" 2025-2030' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-10a473b838,status,actual,"IMF column heading 'Table 3b header: 2020 unmarked; ""Est."" over 2024' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-82f0eedc93,status,actual,IMF column heading 'Table 3b header: 2022 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-57a0b91275,status,actual,IMF column heading 'Table 3b header: 2023 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-5866d0aaae,status,actual,"IMF column heading 'Table 2 (BoP) header: 2020-2023 unmarked; ""Prel."" over 2024; ""Proj."" 2025-2030' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c929d1c25d,status,actual,IMF column heading 'Table 2 header: 2020 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-25237c0d92,status,actual,"IMF column heading 'Table 2 header: 2023 unmarked; ""Prel."" over 2024' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ee87b024cf,status,actual,"IMF column heading 'Table 3a header: 2021-2023 unmarked; ""Est."" over 2024; ""Proj."" 2025-2031' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6a7e5c9fa8,status,actual,IMF column heading 'Table 3a header: 2022 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-73ad1f4d41,status,actual,IMF column heading 'Table 3a header: 2023 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-0424407cae,status,actual,"IMF column heading 'Table 3b header: 2021 unmarked; ""Est."" over 2024' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-fff3aabbb9,status,actual,IMF column heading 'Table 3b header: 2022 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-225c58e661,status,actual,IMF column heading 'Table 3b header: 2023 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-ed85771a04,notes,"IMF 2025 Article IV (previous DSA) figure relayed for comparison (column 2024 = FY2024/25, percent of GDP); an earlier-vintage IMF number, not this report's own. In the 2025 Article IV this column was an estimate (""Est.""). The ""Current DSA"" line (34.7 27.5 20.3 15.7 15.7 15.7) repeats Table 3b. Status left as estimate: the column heading does not settle it (The 2024 column is unmarked (would read actual), but the cell is explicitly the previous (2025) DSA's figure, which that report's Table 3b labelled ""Est."". Current status kept: estimate.; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-dda2c3c135,status,actual,"IMF column heading 'Table 2 (BoP) header: 2021-2024 unmarked; ""Prel."" over 2025; ""Proj."" 2026-2031' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7e61c6e9fc,status,actual,IMF column heading 'Table 2 header: 2022 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-914bf92a32,status,actual,IMF column heading 'Table 2 header: 2023 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-8c8a40d210,status,actual,"IMF column heading 'Table 2 header: 2024 unmarked; ""Prel."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0e1bd3b8ab,status,actual,IMF column heading 'Table 2 header: 2021 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-44ab717b9c,status,actual,IMF column heading 'Table 2 header: 2022 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-4694ee62e6,status,actual,IMF column heading 'Table 2 header: 2023 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-d2d1ecc2b3,status,actual,"IMF column heading 'Table 2 header: 2024 unmarked; ""Prel."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1d352612a8,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0da2a2fec8,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3bc2623f6a,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-dae1e2c07d,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7f66b5cdb4,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-bfa3658717,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-10d11315c2,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3cb13318e1,status,actual,"IMF column heading 'SIDF Direct Social and Economic Spending header: 2010 2011 2012 2013, no est mar' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f43d5f5d07,status,actual,"IMF column heading 'Box 5: ""The total amount of these facilities was about 1.5 percent of GDP by end' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-68cf619964,status,actual,"IMF column heading 'Box 5: ""Its budgetary support consists of investment proceeds and capital grants' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-155a8c208d,status,actual,"IMF column heading 'Box 1: ""ECP receipts ... increased from less than 1 percent of GDP in 2008 to an' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-127723e20a,status,actual,"IMF column heading 'Box 1: ""increased from less than 1 percent of GDP in 2008 to an estimated 13 and' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-14636df0d8,status,actual,"IMF column heading 'Box 1: ""St. Kitts and Nevis was able to save a large share of ECP receipts and S' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a4ee586fca,status,actual,"IMF column heading 'Box 2 table 'Fiscal Balance Net of ECP (1979-2013)', column ""Overall Balance"", n' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a1754afcce,status,actual,"IMF column heading 'Box 2 table, column ""Overall Balance"", no estimate marking' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8a3ff90292,status,actual,"IMF column heading 'Box 2 table, column ""Overall Balance"", no estimate marking' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6626bbeb07,status,actual,"IMF column heading 'Box 2 table, column ""Overall Balance"", no estimate marking' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f3af765fba,notes,"Mean of the cyclical component (HP filter, frequency 100) of the fiscal balance net of ECP receipts, 1979-2013 (sources: authorities and staff estimates). Summary statistic, not an annual value. Status left as estimate: the column heading does not settle it (Unmarked, but this is a staff-derived model quantity (HP-filter cycle), not a reported outcome; neither 'actual' nor the listed estimate labels clearly fit. Current status kept: estimate.; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-81d9f96cec,notes,"Standard deviation of the cyclical component (HP filter) of the fiscal balance net of ECP receipts, 1979-2013 (sources: authorities and staff estimates). Summary statistic, not an annual value. Status left as estimate: the column heading does not settle it (Same as other cyclical-component rows. Current status kept: estimate.; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-23f7359d1c,notes,"Maximum of the cyclical component (HP filter) of the fiscal balance net of ECP receipts, 1979-2013 (sources: authorities and staff estimates). Summary statistic, not an annual value. Status left as estimate: the column heading does not settle it (Same. Current status kept: estimate.; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-28c65e249b,notes,"Minimum of the cyclical component (HP filter) of the fiscal balance net of ECP receipts, 1979-2013 (sources: authorities and staff estimates). Summary statistic, not an annual value. Status left as estimate: the column heading does not settle it (Same. Current status kept: estimate.; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-4971a44b65,status,actual,"IMF column heading 'Box 2 chart annotation ""Average 8.0 10.0 4.7"" (no estimate marking); text: ""The ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5a8980cfc7,status,actual,"IMF column heading 'Box 2 chart ""Cumulative Deficit 40.2 49.8 23.3""; text: ""The cumulative fiscal de' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-44ce709666,status,actual,"IMF column heading 'Box 2 chart annotation ""Average"", unmarked' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-eee3e3ef11,status,actual,"IMF column heading 'Box 2 chart ""Cumulative Deficit""; text ""of about 40, 50 and 23 percent of GDP""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-397959c9ef,status,actual,"IMF column heading 'Box 2 chart annotation ""Average"", unmarked' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-dc9db79103,status,actual,"IMF column heading 'Box 2 chart ""Cumulative Deficit""; text ""of about 40, 50 and 23 percent of GDP""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7e3825b735,status,actual,"IMF column heading 'Table 3a header: 2019 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-994939c35d,status,actual,"IMF column heading 'Table 3a header: 2019 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-fe790bd36c,status,actual,"IMF column heading 'Table 3a header: 2020 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b925ba4be5,status,actual,"IMF column heading 'Table 3a header: 2020 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f5a5231596,status,actual,"IMF column heading 'Table 3a header: 2020 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-dc223d79c7,status,actual,"IMF column heading 'Table 3a header: 2021 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5d306222b5,status,actual,"IMF column heading 'Table 3a header: 2021 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-aab5f420ca,status,actual,"IMF column heading 'Table 3a header: 2021 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-349d931d44,status,actual,"IMF column heading 'Table 3a header: 2022 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7fd5118de3,status,actual,"IMF column heading 'Table 3a header: 2022 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-4aa147cbf0,status,actual,"IMF column heading 'Table 3a header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a3d6fca9e2,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6de65b6a26,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ea4cfa188a,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e8be96fc2d,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f8b1679fa3,status,projection,"IMF column heading 'Table 3a header: 2019-2023 unmarked; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-553c5e810e,status,projection,"IMF column heading 'Table 3a header: 2019-2023 unmarked; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-4b20117357,status,actual,"IMF column heading 'Table 3a header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-93709cfcdd,status,actual,"IMF column heading 'Table 1 header: 2019 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-55158f6255,status,actual,"IMF column heading 'Table 3b header: 2019 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-407b084d99,status,actual,"IMF column heading 'Table 1 header: 2020 unmarked; ""Est."" under 2023 (Table 3b same marking)' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6fb5e8dd23,status,actual,"IMF column heading 'Table 3b header: 2020 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-38712a5786,status,actual,"IMF column heading 'Table 1 header: 2020 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-84e8b93f07,status,actual,"IMF column heading 'Table 1 header: 2021 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ed1b9692ba,status,actual,"IMF column heading 'Table 3b header: 2021 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-34072e2dc9,status,actual,"IMF column heading 'Table 1 header: 2021 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-36d6fe5e70,status,actual,"IMF column heading 'Table 1 header: 2022 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-ebc8494108,status,actual,"IMF column heading 'Table 3b header: 2022 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8631d988fb,status,actual,"IMF column heading 'Table 1 header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5c846e67cc,status,actual,"IMF column heading 'Table 1 header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a9dd19047b,status,actual,"IMF column heading 'Table 3b header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c87be382da,status,projection,"IMF column heading 'Table 1 header: ""Est."" under 2023; ""Proj."" (with rule) over 2024-2029 (Table 3b ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c1908b71c4,status,projection,"IMF column heading 'Table 3b header: ""Est."" under 2023; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-84bce4e99e,status,actual,"IMF column heading 'Table 1 header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-28fab65a4f,status,actual,"IMF column heading 'Table 1 header: 2019 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7283a02d3e,status,actual,"IMF column heading 'Table 1 header: 2020 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8f109ba3f1,status,actual,"IMF column heading 'Table 1 header: 2020 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-efc1fdb97a,status,actual,"IMF column heading 'Table 1 header: 2021 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-002a5faf72,status,actual,"IMF column heading 'Table 1 header: 2021 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-39a72bc0e8,status,actual,"IMF column heading 'Table 1 header: 2022 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-567dbd2a33,status,actual,"IMF column heading 'Table 1 header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3929404316,status,actual,"IMF column heading 'Table 1 header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-883af41271,status,projection,"IMF column heading 'Table 1 header: ""Est."" under 2023; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1e76f430f4,status,actual,"IMF column heading 'Table 1 header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-738cb64e8b,status,actual,"IMF column heading 'Table 3a header: 2019 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5d26326fee,status,actual,"IMF column heading 'Table 3a header: 2020 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-48756ef83f,status,actual,"IMF column heading 'Table 3a header: 2020 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e7703674b4,status,actual,"IMF column heading 'Table 3a header: 2021 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-44bc609bd3,status,actual,"IMF column heading 'Table 3a header: 2021 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-cd9cb76fad,status,actual,"IMF column heading 'Table 3a header: 2022 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e49bfc44de,status,actual,"IMF column heading 'Table 3a header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1de142a5c0,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Proj."" over 2024-2029 (no Est. marking in this ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9ace4bf5be,status,actual,"IMF column heading 'Table 3a header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a4fe203051,status,projection,"IMF column heading 'Table 3a header: 2019-2023 unmarked; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d1826d528d,status,actual,"IMF column heading 'Table 3a header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8340dc6f4f,status,actual,"IMF column heading 'Table 3b header: 2019 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e77800e928,status,actual,"IMF column heading 'Table 3b header: 2020 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-622750ef0c,status,actual,"IMF column heading 'Table 3b header: 2020 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-caf9e5529f,status,actual,"IMF column heading 'Table 3b header: 2021 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-bae0d71a1a,status,actual,"IMF column heading 'Table 3b header: 2021 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-aa17bdbd0c,status,actual,"IMF column heading 'Table 3b header: 2022 unmarked; ""Est."" under 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-4632681ced,status,actual,"IMF column heading 'Table 3b header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-eba37c678b,status,actual,"IMF column heading 'Table 3b header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7d144b56ad,status,projection,"IMF column heading 'Table 3b header: ""Est."" under 2023; ""Proj."" (with rule) over 2024-2029' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7a0746dfa6,status,actual,"IMF column heading 'Table 3b header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a272a9c182,status,actual,"IMF column heading 'Para 4: ""Strong CBI revenues resulted in large budget surpluses. CBI revenues of' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-89de933e38,status,actual,"IMF column heading 'Annex II: ""Citizenship-by-Investment (CBI) revenues have averaged about 5 percen' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-956a833cc9,status,actual,"IMF column heading 'Annex ESA: ""Citizenship-by-Investment (CBI) revenues are stable at 4 percent of ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-22390df5cd,status,estimate,"IMF column heading 'Annex II EBA-lite table footnote 3/: ""Additional adjustment to account for the t' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-597c083ff4,status,actual,"IMF column heading 'Para 4: ""Solid Citizenship-by-Investment (CBI) inflows (4½ percent of GDP) suppo' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-409b1f842b,status,actual,"IMF column heading 'Table 3 header: 2019 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-4b794b070e,status,actual,"IMF column heading 'Table 3 header: 2020 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-74872bc76d,status,actual,"IMF column heading 'Table 3 header: 2021 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-471ef33c7c,status,actual,"IMF column heading 'Table 2b header: 2019 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-21866ef513,status,actual,"IMF column heading 'Table 2b header: 2020 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e9be74368e,status,actual,"IMF column heading 'Table 2b header: 2021 unmarked; ""Est."" over 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f637af0928,status,actual,"IMF column heading 'Para 3: ""A significant part of large CBI revenues averaging 10 percent of GDP du' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d0649d23a8,status,actual,"IMF column heading 'DSA annex: ""CBI revenues: Projected constant at 9 percent of GDP. This compares ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-475eaad093,status,actual,"IMF column heading 'DSA annex: ""...and 13 percent of GDP in 2018–20.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0f5b580005,status,actual,"IMF column heading '""Annual CBI revenues have averaged 11 percent of GDP (30 percent of total revenu' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7bd2160742,status,actual,"IMF column heading '""Annual CBI revenues have averaged 11 percent of GDP (30 percent of total revenu' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-bec406c27d,status,actual,"IMF column heading 'Annex II: ""with large CBI inflows averaging 9.5 percent of GDP during the last 5' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5f2dc6e048,status,actual,"IMF column heading 'Annex II: ""including 9.8 percent during 2020.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-9ddd609173,status,actual,"IMF column heading 'Para 2: ""Recurrent CBI revenue (amouting to a cumulative 65 percent of GDP betwe' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3631f0792f,status,actual,"IMF column heading 'Annex II: ""with large CBI inflows averaging 18 percent of GDP from 2018–22, incl' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3dac893cbe,status,actual,"IMF column heading 'Annex II: ""including 26 percent in 2022.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a09f82a4bd,status,actual,"IMF column heading 'Press release: ""CBI revenues grew from 2.3 percent of GDP in 2010 to a projected' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b67ab35007,status,actual,"IMF column heading 'Box 2: ""Overall, government fee collections have grown steadily, exceeding 7 per' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8884ae579f,status,actual,"IMF column heading 'PR table header: 2015 unmarked; ""Est"" over 2016; ""Proj."" over 2017-2019' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-c6de4bc97e,status,actual,"IMF column heading 'PR table header: 2015, 2016 unmarked; ""Est."" over 2017; ""Proj."" 2018-2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-504bbb5bf7,status,actual,"IMF column heading 'PR table header: 2016 unmarked; ""Est."" over 2017' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6a8dfe9f48,status,actual,"IMF column heading 'PR Table 1 header: 2018, 2019 unmarked; ""Est."" over 2020; ""Proj."" 2021-2024' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8158f86529,status,actual,"IMF column heading 'PR Table 1 header: 2019 unmarked; ""Est."" over 2020' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d0a3f9b0df,status,actual,"IMF column heading 'PR table header: 2019-2022 unmarked; ""Est."" over 2023; ""Proj."" 2024-2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-75acedd97e,status,actual,"IMF column heading 'PR table header: 2020 unmarked; ""Est."" over 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-dc4318a4a5,status,actual,"IMF column heading 'PR table header: 2021 unmarked; ""Est."" over 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b19e7884d4,status,actual,"IMF column heading 'PR table header: 2022 unmarked; ""Est."" over 2023' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b90156f61b,status,actual,"IMF column heading 'PR table header: 2021-2024 unmarked; ""Est."" over 2025; ""Proj."" 2026-2027' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f79a3bc5ce,status,actual,"IMF column heading 'PR table header: 2022 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-122c6304fb,status,actual,"IMF column heading 'PR table header: 2023 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-88a6dfee0c,status,actual,"IMF column heading 'PR table header: 2024 unmarked; ""Est."" over 2025' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5d68c230e2,status,actual,"IMF column heading 'Box 1: ""Sugar export proceeds had declined to an average of 2½ percent of GDP a ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d6ac0d06ab,status,actual,"IMF column heading 'Para 1: ""The sugar industry ... employed about 1,400 workers (6 percent of the l' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5dc65b88b0,status,actual,"IMF column heading 'Para 1: ""employed about 1,400 workers (6 percent of the labor force)""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d0ef9c9528,status,actual,"IMF column heading 'Para 1: ""The industry had incurred substantial losses—on the order of 3–4 percen' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-640ac804a9,status,projection,"IMF column heading 'Table 2a header: ""Projections"" rule spans from column 2016 (= FY2016/17) to 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-6d204942a0,status,projection,"IMF column heading 'Table 2b header: ""Projections"" rule spans from column 2016 to 2022' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-67c98083a6,status,projection,"IMF column heading 'Table 2a header: ""Projections"" over 2017 (= FY2017/18) onward' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1a88342e8e,status,projection,"IMF column heading 'Table 2b header: ""Projections"" over 2017 onward' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-34b8cad3e7,status,actual,"IMF column heading 'Table 2a (image) header: 2019 (= FY2019/20, April-March) unmarked; ""Projections""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-a825741059,status,actual,"IMF column heading 'Table 2b (image) header: 2019 (= FY2019/20) unmarked; ""Projections"" rule starts ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b2c194c95f,status,actual,"IMF column heading 'Table 2 header: 2019 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7446cd7ba4,status,actual,"IMF column heading 'Table 2 header: 2020 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-bb72147c31,status,actual,"IMF column heading 'Table 2 header: 2020 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-494674a4e9,status,actual,"IMF column heading 'Table 2 header: 2021 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-760be282de,status,actual,"IMF column heading 'Table 2 header: 2021 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f738ae97b6,status,actual,"IMF column heading 'Table 2 header: 2021 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-d293e8ed38,status,actual,"IMF column heading 'Table 2 header: 2022 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0ca7f8f7ce,status,actual,"IMF column heading 'Table 2 header: 2022 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-f61d3f8fc1,notes,"IMF table ""Central Government Budgetary Operations"", line ""Other revenue - Of which: Economic citizenship programs"" (the IMF's ECP = VDSP, VCP and other citizenship schemes); fiscal year = calendar year. Sources: Vanuatu authorities and IMF staff estimates. Latest estimate column. Status left as estimate: the column heading does not settle it (Read literally the 2024 column is Forecast (= projection), but the header seems not rolled forward from the 2024 report (Sept 2025 report; footnote 8 says CIIP revenue ""stood at around 7 percent of GD; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-83bcaee07c,status,actual,"IMF column heading 'Table 2 header: 2019 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-e8fd7fa183,status,actual,"IMF column heading 'Table 2 header: 2020 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-1fb4393d48,status,actual,"IMF column heading 'Table 3 header: 2020 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5d3021aa08,status,actual,"IMF column heading 'Table 2 header: 2021 unmarked; ""Estimates"" over 2022 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-b077a2c0e7,status,actual,"IMF column heading 'Table 3 header: 2021 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5a16fffe31,status,actual,"IMF column heading 'Table 3 header: 2021 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5dfe7b2cdd,status,actual,"IMF column heading 'Table 3 header: 2022 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-3ed1c51962,status,actual,"IMF column heading 'Table 3 header: 2022 unmarked; ""Estimate"" over 2023 only' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-2b16549235,notes,"IMF table ""Central Government Budgetary Operations"", line ""Other revenue - Of which: Economic citizenship programs"" (the IMF's ECP = VDSP, VCP and other citizenship schemes); fiscal year = calendar year. Sources: Vanuatu authorities and IMF staff estimates. Latest estimate column. Status left as estimate: the column heading does not settle it (Read literally the 2024 column is Forecast (= projection), but the header seems not rolled forward from the 2024 report (Sept 2025 report; footnote 8 says CIIP revenue ""stood at around 7 percent of GD; METHODOLOGY.md decision 7).",IMF column heading unclear (decision 7).,review 2026-10-09
+observations,o-7a8722a557,status,actual,IMF column heading 'Table 2 header: 2016 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-1d928169cd,status,actual,IMF column heading 'Table 2 header: 2017 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-c072dc9244,status,actual,IMF column heading 'Table 2 header: 2016 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-888614851d,status,actual,IMF column heading 'Table 2 header: 2017 unmarked' (METHODOLOGY.md decision 7).,review 2026-10-09
+observations,o-62518ba04a,status,actual,"IMF column heading 'Footnote 5: ""ECP revenues were down 27 percent y/y in 2022.""' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-8788010c22,status,actual,"IMF column heading 'Appendix III: ""So far the program has attracted about 1500 investors and generat' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-25c7abeab2,status,actual,"IMF column heading 'Appendix III: ""The program was launched in 2014 and brought in about 0.2 percent' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-300bf8811d,status,actual,"IMF column heading 'Para 10 '2014 outturn': ""Revenue was also boosted by the success of HKPR and CII' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-0abd001103,status,actual,"IMF column heading 'Footnote 8: ""Revenues from the citizenship program stood at around 7 percent of ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-fb28a2a537,status,actual,"IMF column heading 'Footnote 8: ""Revenues from the citizenship program stood at around 7 percent of ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-be686e2176,status,actual,"IMF column heading 'Risk Assessment Matrix: ""ECP revenue accounted for 33 percent of total revenue (' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-234de258f1,status,actual,"IMF column heading 'Risk Assessment Matrix: ""ECP revenue accounted for 33 percent of total revenue (' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-5d01aa11a0,status,actual,"IMF column heading 'Annex VI para 6: ""leading to a sharp decline in inflows (from 14 percent of GDP ' (METHODOLOGY.md decision 7).",review 2026-10-09
+observations,o-7224b15293,status,actual,"IMF column heading 'Annex VI para 6: ""to around 3 percent of GDP now""' (METHODOLOGY.md decision 7).",review 2026-10-09

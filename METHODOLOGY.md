@@ -197,6 +197,10 @@ Revisions between report years are kept side by side: each report's figure is it
 **Why.** Status tells a reader whose figure it is. Labelling a government's outturn "estimate" because an
 international body reprinted it hides that it is official, and it contradicts the body's own headings.
 
+**Applied (2026-10-09).** 475 IMF rows checked against their column headings: 255 changed (228 estimate ->
+actual, 25 estimate -> projection, 2 others); 8 unsettled (e.g. model outputs in unmarked columns, a forecast
+bracket that looks copied from the previous report) stay `estimate` with a note.
+
 ### 8. Rules stated in several sources (decided 2026-10-09)
 
 **Question.** A price, fee or deadline is restated by later laws, consolidated texts, official pages and new
