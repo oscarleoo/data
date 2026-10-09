@@ -108,9 +108,9 @@ def main():
                 errors.append(f"observation {oid}: missing {field}")
         if o.get("status") and o["status"] not in STATUS:
             errors.append(f"observation {oid}: unknown status {o['status']!r}")
-        if o.get('unit_basis', '') not in ('printed', 'inferred'):
-            errors.append(f"observation {oid}: unit_basis must be printed or inferred")
-        if o.get('unit_basis') == 'inferred' and not o.get('notes'):
+        if o.get('unit_basis', '') not in ('printed', 'inferred', 'guessed'):
+            errors.append(f"observation {oid}: unit_basis must be printed, inferred or guessed")
+        if o.get('unit_basis') in ('inferred', 'guessed') and not o.get('notes'):
             errors.append(f"observation {oid}: inferred unit without notes saying how it was chosen")
         rd = o.get('reading', '')
         if rd and rd not in READINGS:

@@ -30,6 +30,7 @@ The data keeps everything; these rules decide what is shown. They are applied wh
 | `inferred` | no |
 | `derived` | yes, labelled "calculated by us from official records" |
 | `unit_basis` inferred | with a warning (whether to show at all: open) |
+| `unit_basis` guessed | with a stronger warning (whether to show at all: open) |
 
 
 ### 1. Numbers derived from an official source's raw records (decided 2026-10-09)
@@ -121,10 +122,12 @@ without claiming a precision the source doesn't have.
 thousands of pesos", or a table headed "EC$ millions" whose cells are clearly full amounts. Keep such numbers?
 
 **Decision.** Keep them, with a warning:
-- A column `unit_basis` says `printed` (the default) or `inferred`.
+- A column `unit_basis` says `printed` (the default), `inferred` (the same document settles the unit) or
+  `guessed` (nothing in the document settles it; our best judgement from outside evidence, such as the
+  programme's own law, with the reasoning in the notes; amended 2026-10-09).
 - For `inferred`, the notes say how the unit was chosen and what supports it (e.g. "the same quantity is printed
   as ₱584,270,596 in the text, so the chart is in thousands").
-- Inferred-unit figures carry a warning wherever they are shown; whether pages show them at all is decided
+- Inferred-unit figures carry a warning wherever they are shown, guessed ones a stronger one; whether pages show them at all is decided
   separately.
 - When we can, we look for confirmation elsewhere (another edition, the source's methodology note, the
   agency) and switch the row to `printed` with that source, or correct it.
@@ -161,6 +164,18 @@ that print a bare "$" in a report that mixes EC$ and US$).
 
 **Why.** Without a currency the number can't be compared or converted; guessing silently hides the risk of a
 2.7-times error (EC$ vs US$). Recording the likely currency with a warning keeps the number usable and honest.
+
+### 6. Zero cells (decided 2026-10-09)
+
+**Question.** Statistical tables often list every country or month, most with 0. Does each printed 0 become a
+row?
+
+**Decision.** Yes. Every printed 0 or "-" (nil) is stored as a row like any printed figure (`reading` digits).
+Blank cells are not recorded; the source's notes say what a blank means in that table ("blank = zero in this
+edition", "blank = not available"). What pages show is decided separately (most charts leave zeros out).
+
+**Why.** A zero is information ("no investors from X in 2019"). If it isn't stored, "zero", "not published"
+and "not extracted" look the same, which is the silent gap the coverage ledger exists to prevent.
 
 ## Open questions
 
