@@ -22,7 +22,7 @@ HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(HERE, "data")
 REPORTS = os.path.join(HERE, "reports")
 
-READINGS = {"digits", "words", "bound", "approximate", "implied"}
+READINGS = {"digits", "words", "bound", "approximate", "implied", "inferred"}
 STATUS = {"actual", "provisional", "estimate", "projection", "budget", "reported", "claim", "derived"}
 SOURCE_TYPES = {"government", "legislation", "imf", "world_bank", "eu", "court", "international_org",
                 "academic", "ngo", "media", "industry"}
@@ -113,9 +113,7 @@ def main():
         if o.get('unit_basis') == 'inferred' and not o.get('notes'):
             errors.append(f"observation {oid}: inferred unit without notes saying how it was chosen")
         rd = o.get('reading', '')
-        if rd == 'inferred':
-            errors.append(f"observation {oid}: reading 'inferred' is not allowed (METHODOLOGY.md decision 2)")
-        elif rd and rd not in READINGS:
+        if rd and rd not in READINGS:
             errors.append(f"observation {oid}: unknown reading {rd!r}")
         elif not rd and o['status'] != 'derived':
             warnings.append(f"observation {oid}: no reading yet (scripts/reading.py lists rows to review)")

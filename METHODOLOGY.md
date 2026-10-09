@@ -19,7 +19,18 @@ When a figure is printed but something about it is uncertain (its unit, its labe
 source), we keep it, mark the uncertainty, and decide separately what pages show. Hiding is reversible; not
 extracting loses information. This doesn't cover numbers the source never states (decision 2, `inferred`).
 
-## Decisions
+## What pages show
+
+The data keeps everything; these rules decide what is shown. They are applied when the data is cut for the site.
+
+| kind of figure | shown? |
+|---|---|
+| printed (`reading` digits, words, bound, approximate) | yes |
+| `implied` | yes, as stated in words ("stated as none") |
+| `inferred` | no |
+| `derived` | yes, labelled "calculated by us from official records" |
+| `unit_basis` inferred | with a warning (whether to show at all: open) |
+
 
 ### 1. Numbers derived from an official source's raw records (decided 2026-10-09)
 
@@ -70,10 +81,11 @@ was read:
 | `bound` | printed as a limit; stored as a range | "more than 700", "<5" | yes |
 | `approximate` | printed as a rounded figure | "about 20", "nearly 60%" | yes |
 | `implied` | no number printed, but the sentence states it unambiguously | "there were no investment inflows" = 0 | yes, tagged |
-| `inferred` | the number depends on reasoning beyond the sentence | "as in 2011, nearly 20 last year too" = 20 for 2011 | **no** |
+| `inferred` | the number depends on reasoning beyond the sentence | "as in 2011, nearly 20 last year too" = 20 for 2011 | kept, **hidden** |
 
 Pages show `implied` figures as stated in words (e.g. "stated as none"), not as a bare number. An `inferred`
-figure is not recorded; its sentence goes in the source's notes or the ledger instead.
+figure is kept in the data with its sentence but never shown on pages (amended 2026-10-09 under the general
+principle; first decided as "not recorded").
 
 **Why.** The sentence is the evidence, so it must travel with the number. Words, limits and rounded figures are
 still what the source says. An implied zero is real information, but readers should see that no digit was
