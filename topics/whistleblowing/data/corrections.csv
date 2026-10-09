@@ -35,3 +35,175 @@ cases,c-a54550e347,award_amount,104000000,The cases table has no scale column; t
 cases,c-a54550e347,sanctions_amount,740000000,The cases table has no scale column; this amount was written in millions (the row notes say so). Stored in full so it compares with other cases.,page build check 2026-10-05
 cases,c-6de6a184aa,award_amount,,"The award was the sum of three relator payments computed by the research agent, not a figure printed in the source; the dataset records only printed numbers. The three payments ($112M, $27.7M, $28M) are in the quote and notes.",page build check 2026-10-05
 cases,c-6de6a184aa,notes,"No combined award is printed: the release gives three relator payments ($112M, $27.7M, $28M), recorded as separate sub-cases from usa-doj-jnj-pr-2013; award_amount left empty (nothing calculated). sanctions_amount = civil settlements with federal government and states ""totaling $1.72 billion"". Amounts written with a bare ""$"" in a U.S. Justice Department release; currency left unspecified per dataset rule (in practice U.S. dollars).",Note still described a computed award that had already been removed; award_amount is empty.,claude 2026-10-09
+observations,o-2d45650091,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""hadn't paid out any rewards"" = 0; no digit printed",review 2026-10-09
+observations,o-eeef7c3baa,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""nem fogadott be"" new application = none admitted",review 2026-10-09
+observations,o-935e90427f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): checked p.12: ""A Kartell Chat eredményeként 2, ..."" digit 2 printed",review 2026-10-09
+observations,o-716c526d2c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): 8억 832만: digits with Korean scale units,review 2026-10-09
+observations,o-453593e721,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): 12억 5,076만: digits with Korean scale units, not a word number",review 2026-10-09
+observations,o-4381d44dae,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): 5억 872만: digits with Korean scale units,review 2026-10-09
+observations,o-9ad45c1170,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 여 (""and some""), rounded figure",review 2026-10-09
+observations,o-52dc4ab5db,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 여 (""and some""), rounded figure",review 2026-10-09
+observations,o-0c8cfd3328,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 여 (""and some""), rounded figure",review 2026-10-09
+observations,o-4ebd5c2d50,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 약 (""about""), rounded figure",review 2026-10-09
+observations,o-8ee7053cce,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 약 (""about""), rounded figure",review 2026-10-09
+observations,o-9ec4cf9081,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 약 (""about""), rounded figure",review 2026-10-09
+observations,o-774ce0fc4c,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): printed with 여 (""and some""), rounded figure",review 2026-10-09
+observations,o-e1fff2389c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-5b17ebccc8,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-e44bf0b4ce,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-a6637f18ba,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-4da67ebd8c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-e109aeeb86,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-e4a45a23fc,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-72e27e002e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-bbf2846bee,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-be6ff69876,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-3049c5e02e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-16a7b6d357,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: bar label printed as digits in chart text layer,review 2026-10-09
+observations,o-5fc57bf0c0,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): checked p.24: pie label ""57 %"" printed",review 2026-10-09
+observations,o-3cb3661a9b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): checked p.25: pie label ""50 %"" printed",review 2026-10-09
+observations,o-f974a493ba,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): checked p.25: pie label ""1%"" printed",review 2026-10-09
+observations,o-5a0bf1cb16,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""tri"" (three)",review 2026-10-09
+observations,o-7eb3fe4cbc,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""oboch"" (both) = two; Slovak numeral",review 2026-10-09
+observations,o-f0c53e6db7,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jednom""/""jednej"" (one)",review 2026-10-09
+observations,o-8de3a113c9,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jednom""/""jednej"" (one)",review 2026-10-09
+observations,o-ffe80d80cd,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Deviatim percentám"" (nine percent)",review 2026-10-09
+observations,o-1f28a4a082,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""štyri"" (four)",review 2026-10-09
+observations,o-9195af7e27,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""v jednom prípade"" (in one case)",review 2026-10-09
+observations,o-9497e3ea98,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""deväť""/""deväťkrát"" (nine)",review 2026-10-09
+observations,o-5dcf455684,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""deväť""/""deväťkrát"" (nine)",review 2026-10-09
+observations,o-06e590286d,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jedno"" (one)",review 2026-10-09
+observations,o-77f4ed8c35,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""piatich"" (five)",review 2026-10-09
+observations,o-c658d7402a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jedna kontrola"" (one inspection)",review 2026-10-09
+observations,o-8a9addc958,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""šesť"" (six)",review 2026-10-09
+observations,o-741c5bbc98,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jednou žiadosťou"" (one request)",review 2026-10-09
+observations,o-6cadd12b8f,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""V danom prípade ... súhlasil"": the single request (stated as ""jednou"" just before) was granted",review 2026-10-09
+observations,o-ca706a275c,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""v jednom prípade"" (in one case)",review 2026-10-09
+observations,o-205b1ac7ec,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V štyroch prípadoch"" (in four cases)",review 2026-10-09
+observations,o-21e2eb5ff7,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V štyroch prípadoch"" (in four cases)",review 2026-10-09
+observations,o-9a7dfcc20a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V troch prípadoch"" (three)",review 2026-10-09
+observations,o-26cffa7bc1,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V dvoch prípadoch"" (two)",review 2026-10-09
+observations,o-9ed0af047e,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V dvoch prípadoch"" (two)",review 2026-10-09
+observations,o-9a16b419ec,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""sedemkrát"" (seven times)",review 2026-10-09
+observations,o-8471e80d18,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""päťkrát"" (five times)",review 2026-10-09
+observations,o-4d63460966,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): checked p.20: ""6-tisíc eur"" for the first of three fines; digit with scale word",review 2026-10-09
+observations,o-78d5024f83,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""v troch prípadoch"" (three)",review 2026-10-09
+observations,o-93fcb4df92,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""pri dvoch"" (two)",review 2026-10-09
+observations,o-4f45e1933f,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Tri""/""šesť"" (three/six)",review 2026-10-09
+observations,o-c4baf7dd05,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Tri""/""šesť"" (three/six)",review 2026-10-09
+observations,o-9417bdc5e8,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jednu ochranu"" (one)",review 2026-10-09
+observations,o-1865e3ee47,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""v troch prípadoch"" (three)",review 2026-10-09
+observations,o-a84d764e48,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jeden prípad"" (one)",review 2026-10-09
+observations,o-e2341c60f8,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Obom"" (both) = two; Slovak numeral",review 2026-10-09
+observations,o-74aca6014a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V troch prípadoch"" (three)",review 2026-10-09
+observations,o-2a97618c55,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""piatich"" (five)",review 2026-10-09
+observations,o-ce41bd7fa3,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""V ôsmich prípadoch"" (eight)",review 2026-10-09
+observations,o-4492a6d2a7,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""trom"" (three)",review 2026-10-09
+observations,o-03367443a2,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""jeden oznamovateľ"" (one)",review 2026-10-09
+observations,o-a71f10f0dc,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ordinal ""third matter"" with an award to someone abroad = 3 such matters to date (note: FY2014 report called a 2014 award the ""fourth""; conflict worth a look)",review 2026-10-09
+observations,o-2f8a8f4665,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-0d0721a1e6,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-8ca66a83c6,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 4 percent"", stored as 0-4",review 2026-10-09
+observations,o-e6bf82cfef,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-e3d911b739,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-30c5857e52,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-2b066faa45,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""did not pay any whistleblower awards"" = 0",review 2026-10-09
+observations,o-d3f57fb33f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-ad1da5ab78,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-be7d4354a0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-8415cb1f50,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-4b9ca55b73,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-75c88f756d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-fd568ae514,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-510e9d6dac,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-8f276b608a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-50185a91e0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-f728d25f9d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-dff8eaa8b2,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-df144cb798,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.10: histogram bar labels printed as digits,review 2026-10-09
+observations,o-95233e2df5,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-43aa4ecf2a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-4b5fb2f9db,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-3db76b0c33,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-6ead409ba2,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-9984c49566,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-7a8cd3abb3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-a6c6b68b30,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-d44226daeb,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-3eeec559dc,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-6c2900f975,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-b2ddc91e04,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked p.22: histogram bar labels printed as digits,review 2026-10-09
+observations,o-6cc4b5818e,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 5 percent"", stored as 0-5",review 2026-10-09
+observations,o-4abc3a2bc5,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-023d0bdcbd,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-79cda7276a,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-e4a17fff48,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-8936ca5f86,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-d83494aa63,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-abb0993861,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-d577eb3aa7,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-623e3ad79d,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-9850f33b97,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-d112b76004,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-1648685bbb,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-98bab04706,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-2f52617806,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-76c8faa152,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-e6d2276a98,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-8035349d5f,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-faf53d5d79,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-0f880ef85e,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-b64edf4129,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-fa960e5f54,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-ef546ea84e,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-4ec65d2951,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-0c84f59ea5,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-adae6019bb,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-31af569b33,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-9c1281a715,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-7d07dad380,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-c40294a8bf,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-eb168da1be,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): table prints ""Less than 1%"", stored as 0-1",review 2026-10-09
+observations,o-d8dbf80acc,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 7 percent"", stored as 0-7",review 2026-10-09
+observations,o-6d01f2984d,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 500"", stored as 0-500",review 2026-10-09
+observations,o-2409f3e1b2,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""May take up to ... 10 years"", stored as 0-10",review 2026-10-09
+observations,o-d5e84c474b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): table cell ""0.50"" printed",review 2026-10-09
+observations,o-03a30e58cd,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: ""11.29"" / ""10.37"" printed",review 2026-10-09
+observations,o-2ae92e301b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: ""11.29"" / ""10.37"" printed",review 2026-10-09
+observations,o-78451b1a23,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: ""9.80"" / ""10.87"" printed",review 2026-10-09
+observations,o-4b93cc9608,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: ""9.80"" / ""10.87"" printed",review 2026-10-09
+observations,o-85032fe2a0,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""an attorney"" = one",review 2026-10-09
+observations,o-7dee02d134,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): ""about six"" a year: rounded figure in words",review 2026-10-09
+observations,o-e663d5aefb,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: 1,006 / 1,032 / 1,320 printed",review 2026-10-09
+observations,o-1a172e256e,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: 1,006 / 1,032 / 1,320 printed",review 2026-10-09
+observations,o-4d6bb434a0,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): image chart; OCR re-checked: 1,006 / 1,032 / 1,320 printed",review 2026-10-09
+observations,o-f597fc5f6e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-63e82b09ee,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-f4a0823dbe,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-c5b7a22ea7,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-182d9bb942,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-8fa1061573,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-3536b25cc0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-0205cc16b1,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-805ff766f3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-998ffcb282,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-85f0661f2b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-ce74cdd29d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-ded4e2b3e7,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-7cb8ef709e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-f38639ca72,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-e3c7e880b5,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-4ac983d25f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-89f1b2eef4,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-52460e57b4,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-9a745b384d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-52e12b5d84,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-0b5006d933,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-45f2235b63,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-c6fcf4b5eb,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): checked page: pie labels printed as digits (month pairing by position),review 2026-10-09
+observations,o-d5727be5b4,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). The report says only that, as in 2011, nearly 20 enquiries came in during 2012; the 2011 value is carried over by reasoning.",review 2026-10-09
+observations,o-eb9bfde263,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). ""Druhé konanie nebolo ukončené"" (the second proceeding was not finished) taken as 1 pending; count not stated",review 2026-10-09
+observations,o-475c007047,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). ordinal ""fourth award to a whistleblower living in a foreign country"" recorded as 4 persons: awards counted as persons, and the FY2015 report calls the next one only the ""third matter""",review 2026-10-09
+observations,o-23bbeb821e,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). 24 = 1 + 23, a sum the document does not print",review 2026-10-09
+observations,o-f4270a9045,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). only one denial is mentioned in a footnote; report gives no FY2012 count of denials, so 1 as the year total is not stated",review 2026-10-09
+observations,o-a4325f9fee,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). checked p.31: report says ""tri kontroly"" and describes each; 1 with deficiencies is a tally of the list, not stated",review 2026-10-09
