@@ -77,8 +77,21 @@ recalculated form of a `derived` figure.
 **To apply.** Add the column to both topics, enforce the list in `scripts/check.py`, tag existing rows read from
 words, and remove `inferred` rows (first known case: Hungary 2011 informant enquiries).
 
+### 3. Derived figures from masked data (decided 2026-10-09)
+
+**Question.** Some statistics offices add random noise to record-level data so small counts can't identify
+people ("masking"). Large sums are barely affected, but a sum over a few records can be noise: it can even come
+out negative (-5 permits). How do we treat derived figures from such data?
+
+**Decision.**
+- Never publish a negative count. Negative derived sums are held back and noted on the source.
+- When the source is masked, derived values below 5 are stored as a range from 0 to 4 (the way publishers
+  print small numbers, e.g. Australia's "<5"), with a note that the source is masked.
+- Derived values of 5 and more are kept as calculated, with the masking noted on the source.
+
+**Why.** Masking makes small sums unreliable whether or not they look wrong; a range keeps the information
+without claiming a precision the source doesn't have.
+
 ## Open questions
 
-- **1a. Masked data that sums to a negative number.** Some official datasets perturb small counts for privacy,
-  so a derived sum can be negative (e.g. -1 permits). Proposal: never publish a negative count; hold such
-  figures back and note the masking on the source. Not yet decided.
+None at the moment.
