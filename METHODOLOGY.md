@@ -74,8 +74,13 @@ still what the source says. An implied zero is real information, but readers sho
 printed. An inferred number is a calculation in disguise, which decision 1 only allows in the narrow,
 recalculated form of a `derived` figure.
 
-**To apply.** Add the column to both topics, enforce the list in `scripts/check.py`, tag existing rows read from
-words, and remove `inferred` rows (first known case: Hungary 2011 informant enquiries).
+**Applied (2026-10-09).** The column is in both topics; `scripts/reading.py` gives a first reading from the
+quote and value, merge keeps reviewed readings, and `scripts/check.py` rejects `inferred` and unknown values.
+Every row the classifier couldn't settle, and every row it tagged `implied` or `words`, was reviewed against the
+document (809 rows). 45 `inferred` rows were removed: 39 Egyptian naturalisation counts tallied from lists of
+names (the decrees print no totals), and 6 whistleblowing rows (Hungary 2011 enquiries carried over from 2012;
+two Slovak counts made from descriptions; an SEC footnote taken as a yearly total; a CFTC sum of 1 + 23; an SEC
+ordinal count of awards stored as people).
 
 ### 3. Derived figures from masked data (decided 2026-10-09)
 

@@ -4592,3 +4592,361 @@ observations,o-b4cbbc4aa9,value,0,Derived value below 5 from masked data: stored
 observations,o-b4cbbc4aa9,value_high,4,Derived value below 5 from masked data: stored as a range 0-4 (METHODOLOGY.md decision 3).,claude 2026-10-09
 observations,o-b4cbbc4aa9,notes,"Recipe: sheet Outcome, pivot filters Visa Sub-type = State/Territory Sponsored Business Skills, Applicant Type = Secondary, Programme Year = 2024-25; sum of the Outcome field over matching pivot-cache records. BIIP sub-type ""State/Territory Sponsored Business Skills"": secondary applicants (generally dependants of the primary applicant). Read from the BP0068 workbook pivot cache (Sum of Outcome); the visible sheet shows only Migration Program totals, so set the pivot filters named in the location to reproduce. Migration Program outcome: places counted at grant of the provisional visa (a person already counted is not counted again at the permanent stage); grants cancelled in the same year are excluded. Data drawn from live systems (""masked"" file). Recalculated independently on 2026-10-09 from the raw workbook (622,425 pivot-cache records) with the same result (METHODOLOGY.md decision 1). The workbook's data is masked (small counts perturbed for privacy); the calculated sum was 4, stored as the range 0-4 (METHODOLOGY.md decision 3).",Derived value below 5 from masked data: stored as a range 0-4 (METHODOLOGY.md decision 3).,claude 2026-10-09
 sources,aus-dha-bp0068-2025,notes,"Excel pivot table; the stream and nationality figures exist only in the pivot cache, so they are not visible in the sheet as saved and the quote verifier cannot find them. To reproduce, open in Excel and set the filters named in each row's location. Workbook says data are drawn from live systems and may differ from other reports; file name says ""masked"". Yearly stream totals match the Migration Program reports exactly (e.g. Significant Investor 1,288 in 2020-21). Masked data: record values are perturbed for privacy, so small sums are unreliable; derived values below 5 are stored as the range 0-4 and 10 negative sums are held back (METHODOLOGY.md decision 3).",Note the masking on the source (METHODOLOGY.md decision 3).,claude 2026-10-09
+observations,o-d981665ef4,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (48.8%) in INs column,review 2026-10-09
+observations,o-5bffbbe377,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (5.2%) in INs column,review 2026-10-09
+observations,o-3cdb6e8eec,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (5.9%) in INs column,review 2026-10-09
+observations,o-d086fcbf0b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (7.3%) in INs column,review 2026-10-09
+observations,o-6bbacf438c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (1.5%) in INs column,review 2026-10-09
+observations,o-a57701cec3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 5.6 prints (2.5%) in INs column,review 2026-10-09
+observations,o-edadc35635,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τριών επενδυτών"" in words",review 2026-10-09
+observations,o-15ccbbe9ae,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""ένας"" in words",review 2026-10-09
+observations,o-2a7ed973a5,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""οι τρεις"" in words",review 2026-10-09
+observations,o-87f945e001,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-9392a0fd1a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-023ebd7f6e,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Σε μία περίπτωση"" in words",review 2026-10-09
+observations,o-35c5434332,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-e48e9ff716,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-1bfb1f1852,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-5c130597a0,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις περιπτώσεις"" in words",review 2026-10-09
+observations,o-7eed319aa2,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""μία περίπτωση"" in words",review 2026-10-09
+observations,o-5b1d4ce332,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): table total row on scanned p.649 prints 9 (checked render),review 2026-10-09
+observations,o-37bbdaea16,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): table total row on scanned p.649 prints 7 (checked render),review 2026-10-09
+observations,o-825a5dff69,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""οκτώ πρόσωπα"" in words",review 2026-10-09
+observations,o-d980ee90c4,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): table total row on scanned p.649 prints 27 (checked render),review 2026-10-09
+observations,o-c326c377f6,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""έξι μήνες"" in words",review 2026-10-09
+observations,o-42ee9960cf,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""έξι προτάσεις"" in words",review 2026-10-09
+observations,o-0a349c998e,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""τρεις επενδυτές"" in words",review 2026-10-09
+observations,o-155a8c208d,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 1 percent of GDP"" printed as a limit",review 2026-10-09
+observations,o-13a7d07fe2,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -17.6 in the excl. CBI row,review 2026-10-09
+observations,o-8e803233b9,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -14.6,review 2026-10-09
+observations,o-2e1a959d47,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -14.6,review 2026-10-09
+observations,o-e70f4ae30b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -14.3,review 2026-10-09
+observations,o-338c768098,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -14.1,review 2026-10-09
+observations,o-87331125e7,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Box 2 table prints -14.0,review 2026-10-09
+observations,o-51846ee463,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""Less than six months"" is a limit written in words, not an implied value",review 2026-10-09
+observations,o-ccc69a2401,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-d2a38fd3cf,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-5bdc44d032,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-baad181b57,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-df59520ca3,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-e149e1e4ab,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-540594d89a,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-b42ac9cfac,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-f11e2be804,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-cc748bed72,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-8f1d0538e7,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-2f43188cba,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-31d1713b56,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-1c69e50c7f,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-e25062bb0e,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-07400f13d6,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-9bb9f6d130,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-68b2a3292a,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-3c7f3ad66d,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-e24a1ed1cf,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-4dccebc900,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-ca45476032,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-b4529f8f7e,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-2392c2e342,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-9606282d54,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-d2fe2e24f0,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-af83da2474,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-c98ed7c296,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-6a5d374a0b,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-76ea7ba6d3,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-81b66c2ff2,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-e3b353e8e4,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-f6f0762c49,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-48ef289b5c,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-7156b44910,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-790422a898,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-91419e1801,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-c54cab96be,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-a344ec07a0,_delete,,"Removed: inferred, not stated in the source (METHODOLOGY.md decision 2). count made by tallying the names (or nationalities) listed in the decree; no total printed",review 2026-10-09
+observations,o-2d7a8bdeca,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""ثلاثة أيام عمل"" (three working days) in words",review 2026-10-09
+observations,o-51ea3b60a5,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""بين ثلاثة وستة أشهر"" range written in words",review 2026-10-09
+observations,o-d160a2df61,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""أقصاه ثلاثة أشهر"" maximum of three months, in words",review 2026-10-09
+observations,o-25aeef1ea7,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""veinte días""",review 2026-10-09
+observations,o-8af6b2a405,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""siete días""",review 2026-10-09
+observations,o-396c897508,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""Up to £100,000"" printed as a limit",review 2026-10-09
+observations,o-e0fc889ca0,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than £10k"" printed as a limit",review 2026-10-09
+observations,o-ab050ad59f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.65 table prints 2,000,000 in Estimates 2016 column",review 2026-10-09
+observations,o-16b39516c6,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 1%"" printed as a limit",review 2026-10-09
+observations,o-ed0b18b490,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): reply table prints total 36,665.1 (HK$ million)",review 2026-10-09
+observations,o-461592a91a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""huszonöt"" (twenty-five) in words",review 2026-10-09
+observations,o-a4dbe69f8c,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""tizenegyen"" (eleven) in words",review 2026-10-09
+observations,o-7f59e8f07d,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""over half"" is a limit; stored 50 as lower bound",review 2026-10-09
+observations,o-559832f388,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""under nine months"" printed as a limit (in words)",review 2026-10-09
+observations,o-2f1590f815,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 11 next to the row label,review 2026-10-09
+observations,o-40efa9a05b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 12 next to the row label,review 2026-10-09
+observations,o-ae5e4ddacf,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 9 next to the row label,review 2026-10-09
+observations,o-fb1c1ac955,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 7 next to the row label,review 2026-10-09
+observations,o-cb4877e9ef,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 3 next to the row label,review 2026-10-09
+observations,o-c944145b11,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 10 next to the row label,review 2026-10-09
+observations,o-eb2183fbb6,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 15 next to the row label,review 2026-10-09
+observations,o-3b87fdd99a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 3 next to the row label,review 2026-10-09
+observations,o-b3c7190536,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 2 next to the row label,review 2026-10-09
+observations,o-01f7b7ee65,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 8 next to the row label,review 2026-10-09
+observations,o-7c8c64859d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 3 next to the row label,review 2026-10-09
+observations,o-06b9fed757,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 1 next to the row label,review 2026-10-09
+observations,o-a5aca360ff,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 3 next to the row label,review 2026-10-09
+observations,o-3c53c79b89,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Appendix E table prints 3 next to the row label,review 2026-10-09
+observations,o-aab1685e6e,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""uno per mancato arrivo"" in words",review 2026-10-09
+observations,o-d0da9a7bb0,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""un investimento ciascuno""",review 2026-10-09
+observations,o-ef15a67f47,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""un investimento ciascuno""",review 2026-10-09
+observations,o-b69fd187d1,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""un investimento ciascuno""",review 2026-10-09
+observations,o-73ee115d84,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""un investimento ciascuno""",review 2026-10-09
+observations,o-b3e840c61a,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""solo un investitore di sesso femminile""",review 2026-10-09
+observations,o-e6cb1d8a81,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""1 milione di euro ciascuno""",review 2026-10-09
+observations,o-4f974bf170,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""2 milioni di euro ciascuno""",review 2026-10-09
+observations,o-127723e20a,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""less than 1 percent of GDP"" printed as a limit",review 2026-10-09
+observations,o-6bfd25361d,reading,approximate,"Reviewed reading (METHODOLOGY.md decision 2): ""approximately twelve percent"" (rounded, in words)",review 2026-10-09
+observations,o-a75bad243c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.32 prints 41.7 in the 2027 column (checked render; OCR had lost the decimal),review 2026-10-09
+observations,o-9aa4ab0997,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.37 prints 1.3 in the 2018 column (checked render),review 2026-10-09
+observations,o-ff1a5bb137,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.37 prints -7.4 in the 2022 column (checked render),review 2026-10-09
+observations,o-45e8ed0f16,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints 12 for Sept 2019/20 granted (checked render),review 2026-10-09
+observations,o-344ae7cd57,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints 11 for Nov 2019/20 granted (checked render),review 2026-10-09
+observations,o-b916517774,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints 25 for Mar 2019/20 granted (checked render),review 2026-10-09
+observations,o-a80f80faea,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 17 for 2016-2017 granted (checked render),review 2026-10-09
+observations,o-08739c59c3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 188 for 2017-2018 granted (checked render),review 2026-10-09
+observations,o-a219e7dd0a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 143 (checked render),review 2026-10-09
+observations,o-bea501aadd,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 313 (checked render),review 2026-10-09
+observations,o-f95856eff0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 345 (checked render),review 2026-10-09
+observations,o-041ca69840,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 152 (checked render),review 2026-10-09
+observations,o-2a010f6ad7,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 193 (checked render),review 2026-10-09
+observations,o-05c91a973d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints bar label 383 (checked render),review 2026-10-09
+observations,o-066ddcbeb3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints denied label 1 for 2016-2017 (checked render),review 2026-10-09
+observations,o-6d91877936,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints denied label 13 (checked render),review 2026-10-09
+observations,o-1e742e42b0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): chart p.22 prints denied label 14 (checked render),review 2026-10-09
+observations,o-8f5493c8f7,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-cf1fdac39d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-f3a1382712,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-5a9bcc3a0a,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-6649aa15ac,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-b854e9ae10,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-8191363f16,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 37 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-2adf97b943,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-52a11f9599,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-520710f92d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-79067a4fab,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-dc3ea8bc16,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-74608d5554,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 17 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-c07abd8cca,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 10 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-1edc073f02,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-25e1d70a5c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-162ab9279f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 6 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-180bbcf606,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-9ec8a4db71,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-4a943efc79,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 12 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-19d9b2dd02,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-e3e6c64b6c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-9d4fb93604,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-3136211145,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-93c12a1fe8,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-3ebee86184,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-70fec077ef,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-6e4cf26f94,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-b71c983089,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-0154453ef3,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-2b38a9f73d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-ad9c97bbf4,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-b877363f4b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-841e11bc02,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-52ce8069b4,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-d04dbb361a,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 15 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-9a28eba19c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-54009d10c8,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 6 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-089a9bebea,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-865a85b004,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-622664d520,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 5 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-59aa892772,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-56b12da52c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed above the bar; bar position matches legend order (44 bars, Thailand's bar unlabelled), checked render",review 2026-10-09
+observations,o-39a75bda20,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Apr 14 in 2019/20 column (checked render),review 2026-10-09
+observations,o-82537c25fe,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints May 8 in 2019/20 column (checked render),review 2026-10-09
+observations,o-9cf4b7c6d1,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints June 14 in 2019/20 column (checked render),review 2026-10-09
+observations,o-2ed0bb9a5c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints July 8 in 2019/20 column (checked render),review 2026-10-09
+observations,o-4004a7dbf6,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Sept 8 in 2019/20 column (checked render),review 2026-10-09
+observations,o-d43b04480b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Oct 18 in 2019/20 column (checked render),review 2026-10-09
+observations,o-c84c057c55,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Nov 21 in 2019/20 column (checked render),review 2026-10-09
+observations,o-612192ca9a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Dec 17 in 2019/20 column (checked render),review 2026-10-09
+observations,o-e9ad211e3a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Jan 22 in 2019/20 column (checked render),review 2026-10-09
+observations,o-6f0798fb7f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Feb 20 in 2019/20 column (checked render),review 2026-10-09
+observations,o-2442c64a2b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints Mar 28 in 2019/20 column (checked render),review 2026-10-09
+observations,o-71412c6384,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints May denied 5 in 2019/20 column (checked render),review 2026-10-09
+observations,o-2df2e6c7b7,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): image table p.16 prints July denied 4 in 2019/20 column (checked render),review 2026-10-09
+observations,o-5e6adeca51,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 13 printed on p.12 chart (checked render),review 2026-10-09
+observations,o-b7570b9636,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 29 printed on p.12 chart (checked render),review 2026-10-09
+observations,o-93b4048645,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 66 printed on p.12 chart (checked render),review 2026-10-09
+observations,o-8ba4b2480d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 102 printed on p.12 chart (checked render),review 2026-10-09
+observations,o-24b6c45c47,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-c7a9de3979,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-7b33b90352,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-bf1d0c309b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 53 on the row (checked render),review 2026-10-09
+observations,o-f70455b532,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-ffd4914657,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-28649b4d2b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-30d507525a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-ba6255035f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-a93ee3bd23,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-3c4935c565,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-a4accf1e6e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-ca57b3126b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-42f8c04899,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-fc11fafac3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 12 on the row (checked render),review 2026-10-09
+observations,o-b82f0e0068,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 7 on the row (checked render),review 2026-10-09
+observations,o-913ba37c57,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-9f9a7060a6,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-4d1a574fb0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-4f2dd079f2,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 14 on the row (checked render),review 2026-10-09
+observations,o-45c5f5ffd0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-711ef70130,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-227078dae3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-b36ec60980,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-bdf0435df4,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-0d904333fe,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 5 on the row (checked render),review 2026-10-09
+observations,o-f9c5cebe74,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-a6090a5e4f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-0345641915,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-62625ced50,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-11a67f1f37,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-b451908f90,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 granted-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-bc2a4eb8e7,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-6ca82ab54d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-ff50659ac4,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-cfae034c83,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-e5a908e4d9,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-231cc39f95,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-b8602c5346,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-36fb62aac5,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 66 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-c36e98a975,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-df8b82b817,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-35f35f144f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-3e47ec166a,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-a56ced5797,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-287b2cbeb4,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 8 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-d113472bbb,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-81c8094237,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 33 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-9636836182,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 22 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-bf4674861a,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-c35120dacd,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-dc8504d228,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-6072203d83,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 9 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-60d67517ae,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-fb2e08a0ab,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-50b8bd5750,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 13 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-f2c16c99e9,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 8 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-c9f5bfa794,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-ce15d1db25,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-fd0dbb7654,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-e1d5aa2793,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-91c3c56ae4,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 5 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-44fd9e3298,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 12 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-39d94c698d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-def068516d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-eb09f8aa83,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-3661edf73b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 11 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-e031389712,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 11 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-960677b0c8,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-82fec784ea,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-a2c00c177a,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-73c9a05b8e,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 3 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-9211d3c30c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-d5250f8385,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 2 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-314a5b0141,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 38 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-0630665fc0,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-b8ad6de09c,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 6 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-ea6ab34b66,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-f7d4114428,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 7 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-b0584cfdc7,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 4 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-173e24d285,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-b58688b10f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 9 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-91d33d6be0,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-1dfcdf66a6,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-ef9e01e34b,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-67a5fe20ab,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 1 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-61370b207d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): bar label 12 printed; position matches legend order (55 bars/55 entries, checked render)",review 2026-10-09
+observations,o-de6881d902,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 19 printed on p.13 chart (checked render),review 2026-10-09
+observations,o-3ebf035098,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 31 printed on p.13 chart (checked render),review 2026-10-09
+observations,o-87b4ed0263,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 51 printed on p.13 chart (checked render),review 2026-10-09
+observations,o-fcb53c7e32,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 51 printed on p.13 chart (checked render),review 2026-10-09
+observations,o-91e34b769e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 91 printed on p.17 chart (checked render),review 2026-10-09
+observations,o-48c7e1315c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 47 printed on p.17 chart (checked render),review 2026-10-09
+observations,o-9f802db2fb,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 42 printed on p.17 chart (checked render),review 2026-10-09
+observations,o-e68a4d1999,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): pie slice label 13 printed on p.17 chart (checked render),review 2026-10-09
+observations,o-574b5503e5,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-f43866ccc1,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-0dcd121eb0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-e5374b87c0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-99d36e201c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 73 on the row (checked render),review 2026-10-09
+observations,o-fcbaa318bc,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-c262c58962,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-dbbc17813e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-cfb0ef7f1b,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-c485b10065,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-0026e99a31,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-2190653d72,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-b6f098c7f0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-e2f3108042,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-3d3d31c1e6,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-94809899de,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-7ca8945897,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-e6940c74ac,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-4061f78226,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-216c02a9e0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-0c08a76c3d,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 31 on the row (checked render),review 2026-10-09
+observations,o-283dabf123,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-77d05cbae3,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 14 on the row (checked render),review 2026-10-09
+observations,o-4b3115bdd9,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-4e6f47ff2e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-efc561ba0e,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-ea710e80b5,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-09b830d8df,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 3 on the row (checked render),review 2026-10-09
+observations,o-5a1f44e83f,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-7b0386ef33,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 8 on the row (checked render),review 2026-10-09
+observations,o-74a9643bf8,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-dc9cb546e0,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 5 on the row (checked render),review 2026-10-09
+observations,o-741d83dba9,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 1 on the row (checked render),review 2026-10-09
+observations,o-cd95ab4017,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-996da40b52,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 4 on the row (checked render),review 2026-10-09
+observations,o-671f9c1c8a,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.18 received-by-country table prints 2 on the row (checked render),review 2026-10-09
+observations,o-7c70b93dac,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): p.12 table Totals row prints 27 under denied 2018/19 (checked render),review 2026-10-09
+observations,o-98437c44a8,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 7,573,500 in the quarter column (checked render)",review 2026-10-09
+observations,o-4b8188ad78,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 21,665 in the quarter column (checked render)",review 2026-10-09
+observations,o-23ebb8b6e7,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 6,032,321 in the quarter column (checked render)",review 2026-10-09
+observations,o-d7d3e2af37,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 4,935,535 in the quarter column (checked render)",review 2026-10-09
+observations,o-589af40e70,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 1,514,700 in the quarter column (checked render)",review 2026-10-09
+observations,o-d47c10625d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): p.15 NEF table prints 1,239,300 in the quarter column (checked render)",review 2026-10-09
+observations,o-97c9ec9616,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): Revenue table p.29 prints 542,700",review 2026-10-09
+observations,o-601b748b5d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""Libya (1)"" printed on p.34 (continues the quoted sentence)",review 2026-10-09
+observations,o-0385203ed5,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""Yemen (1)"" printed on p.34 (continues the quoted sentence)",review 2026-10-09
+observations,o-39c0f3c120,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""unui solicitat"" (one applicant) in words",review 2026-10-09
+observations,o-92b7e79864,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""opt persoane"" (eight persons) in words",review 2026-10-09
+observations,o-3f285264c5,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""само две барања"" (only two requests) in words",review 2026-10-09
+observations,o-b7f230fbc9,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""еден случај"" (one case) in words",review 2026-10-09
+observations,o-3a6aaf42bb,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""не е одземено ниту едно"" (not a single one revoked) = 0",review 2026-10-09
+observations,o-85b68b56c3,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""eightyfive"" in words",review 2026-10-09
+observations,o-e36fef6cb2,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""Preostalih pet zahtjeva"" (remaining five) in words",review 2026-10-09
+observations,o-64a4cc6bd6,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""Within three months"" stored as range 0-3; a limit written in words",review 2026-10-09
+observations,o-12fb464707,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""minder dan 10"" printed as a limit",review 2026-10-09
+observations,o-e0c9d3f98b,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""minder dan tien"" printed as a limit (in words)",review 2026-10-09
+observations,o-d14c2da26e,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""P7.584 million"" printed as digits with scale word",review 2026-10-09
+observations,o-ae5f055fb0,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""P28.180 million"" printed as digits with scale word",review 2026-10-09
+observations,o-a7c8834e8d,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""P2.848 billion"" printed as digits with scale word",review 2026-10-09
+observations,o-a27365471f,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""P217.515 million"" printed as digits with scale word",review 2026-10-09
+observations,o-c75e894b63,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""um processo"" (one file) in words",review 2026-10-09
+observations,o-255a5b99a0,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""três pedidos"" in words",review 2026-10-09
+observations,o-88f4ce2ca1,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""dois processos"" in words",review 2026-10-09
+observations,o-2c1b583a35,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""quatro"" in words",review 2026-10-09
+observations,o-e0fba346df,reading,implied,"Reviewed reading (METHODOLOGY.md decision 2): ""não houve nenhum pedido"" (there was no request) = 0",review 2026-10-09
+observations,o-c985b0a197,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""Fewer than 20"" printed as a limit",review 2026-10-09
+observations,o-8a261538a4,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""much lesser than 1%"" printed as a limit",review 2026-10-09
+observations,o-87d664ce32,reading,bound,"Reviewed reading (METHODOLOGY.md decision 2): ""Fewer than 25"" printed as a limit",review 2026-10-09
+observations,o-5f8b390172,reading,words,"Reviewed reading (METHODOLOGY.md decision 2): ""exactly fourfifths"" (fraction in words) stored as 80 percent",review 2026-10-09
+observations,o-5e920b9410,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): ""The result is that 97"" printed on p.25 (previous column)",review 2026-10-09
+observations,o-33cb51dd58,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 13 image prints $66.73 for I-526E final fees (checked render),review 2026-10-09
+observations,o-bfd71cb3cf,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 13 image prints $0.57 for I-956(i) final fees (checked render),review 2026-10-09
+observations,o-94a1fa67dd,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 13 image prints $0.38 for I-956(a) final fees (checked render),review 2026-10-09
+observations,o-5fac8c42c5,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 13 image prints $10.24 for I-956F final fees (checked render),review 2026-10-09
+observations,o-ef48ca17bf,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 13 image prints $0.13 for I-956H final fees (checked render),review 2026-10-09
+observations,o-8512f0e8a7,reading,digits,"Reviewed reading (METHODOLOGY.md decision 2): Table 4 prints .98 (minimum amount, year 5, 1.5 percent scenario)",review 2026-10-09
+observations,o-8d186cde3c,reading,digits,Reviewed reading (METHODOLOGY.md decision 2): Table 25 prints 0 (with footnote 353) for FY2022 Form I-956,review 2026-10-09
