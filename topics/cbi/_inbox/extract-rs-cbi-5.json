@@ -537,6 +537,149 @@
    "notes": "Written parliamentary answer (late 2019) describing the rules then in force; the pass is renewable. The answer gives no validity dates. applies_to kept as on the 2021 parliamentary answer row so the restatement links.",
    "valid_from": "",
    "valid_to": ""
+  },
+  {
+   "program_id": "nru-ecrcp",
+   "route": "donation",
+   "min_amount": "115000",
+   "currency": "USD",
+   "applies_to": "single applicant",
+   "source_id": "nru-cabinet-iruwa-2026",
+   "location": "PDF p. 1, 'Contribution Discount' (a)",
+   "quote": "The contribution value for the special project is reduced from $115,000 USD to $90,000 USD for the main applicant for the duration of The Iruwa Initiative.",
+   "notes": "The standard main-applicant contribution under the Regulations, stated as the amount being discounted during the Iruwa Initiative (29 January to 30 June 2026). The notice gives no validity dates for the standard amount itself. applies_to kept as on the 2026 Regulations row so the restatement links.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "nru-ecrcp",
+   "route": "agent_fee_arrears_revocation",
+   "min_amount": "30",
+   "currency": "days",
+   "applies_to": "agent licence revoked if the annual fee is unpaid this long after it is due",
+   "source_id": "nru-sl-28-2024",
+   "location": "PDF p. 25, Agent Licence Agreement and Code of Conduct (agent application form schedule), clause 3.2(c)",
+   "quote": "(c) annual licence fees remain unpaid 30 days after they are due.",
+   "notes": "Restates s. 18 of the Act (grounds on which the Program Office may revoke an agent's licence), as set out in the licence agreement template. Validity dates: the Regulations' gazettal (30 October 2024).",
+   "valid_from": "2024-10-30",
+   "valid_to": ""
+  },
+  {
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "first category card (up to 10 years)",
+   "source_id": "omn-rop-dec-234-2021",
+   "location": "Art. 4 and Art. 5 (fee tables replacing Art. 29 items of the Foreign Residency Law regulations)",
+   "quote": "تأشيرة مستثمر لمدة عشر سنوات ٥٠٠ ... إقامة مستثمر لمدة عشر سنوات ٥٠٠ كل (٣) ثلاث سنوات",
+   "notes": "The 10-year investor visa and investor residence are named in the fee tables (the fee rows are recorded separately). valid_from: the day after publication in Official Gazette 1413 (24 October 2021), as on the other rows from this decision. applies_to kept as on the Foreign Ministry launch row so the restatement links.",
+   "valid_from": "2021-10-25",
+   "valid_to": ""
+  },
+  {
+   "program_id": "omn-investor-residence",
+   "route": "permit_validity_category_2",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "second category card (up to 5 years)",
+   "source_id": "omn-rop-dec-234-2021",
+   "location": "Art. 4 and Art. 5 (fee tables replacing Art. 29 items of the Foreign Residency Law regulations)",
+   "quote": "تأشيرة مستثمر لمدة خمس سنوات ٣٠٠ ... إقامة مستثمر لمدة خمس سنوات ٣٠٠ كل (٣) ثلاث سنوات",
+   "notes": "The 5-year investor visa and investor residence are named in the fee tables (the fee rows are recorded separately). valid_from: the day after publication in Official Gazette 1413 (24 October 2021), as on the other rows from this decision. applies_to kept as on the Foreign Ministry launch row so the restatement links.",
+   "valid_from": "2021-10-25",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "real_estate",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "applies_to": "main applicant; property free of liens; standard amount in art. 3",
+   "source_id": "pan-go-de109-2022",
+   "location": "p. 6, art. 1 (new art. 3(1) of DE 722)",
+   "quote": "aquella persona extranjera que invierta la suma de quinientos mil balboas (B/. 500,000.00), en la compra de un bien inmueble en la República de Panamá, el cual deberá estar libre de gravámenes.",
+   "notes": "Restates the DE 722 amount: art. 1 of DE 109 rewrites art. 3 of DE 722 in full; in force on promulgation (Gaceta Oficial 29643-A, 13 October 2022). Any excess over B/.500,000 may be financed by a local mortgage.",
+   "valid_from": "2022-10-13",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "securities",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "applies_to": "main applicant; securities bought through a licensed broker on the Bolsa de Valores de Panamá, held 5 years",
+   "source_id": "pan-go-de109-2022",
+   "location": "p. 6, art. 1 (new art. 3(3) of DE 722)",
+   "quote": "por un monto mínimo de quinientos mil balboas con 00/100 (B/.500,000.00) en títulos valores de emisores, cuyos negocios incidan en el territorio nacional, a través de la Bolsa de Valores de Panamá, y cuyo compromiso se mantenga por al menos cinco (5) años",
+   "notes": "Restates the DE 722 amount: art. 1 of DE 109 rewrites art. 3 of DE 722 in full; in force on promulgation (Gaceta Oficial 29643-A, 13 October 2022).",
+   "valid_from": "2022-10-13",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "deposit",
+   "min_amount": "750000",
+   "currency": "PAB",
+   "applies_to": "main applicant; fixed-term deposit of at least 5 years at any general-licence bank",
+   "source_id": "pan-go-de109-2022",
+   "location": "p. 7, art. 1 (new art. 3(4) of DE 722)",
+   "quote": "por un monto mínimo de setecientos cincuenta mil balboas (B/.750,000.00), en cualquier banco de licencia general autorizado para operar en el territorio nacional, y que dicho depósito tenga un término mínimo de validez de cinco (5) años.",
+   "notes": "Restates the DE 722 amount: art. 1 of DE 109 rewrites art. 3 of DE 722 in full; in force on promulgation (Gaceta Oficial 29643-A, 13 October 2022). OCR-damaged words nearby; the quoted sentence reads cleanly.",
+   "valid_from": "2022-10-13",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "fee_processing",
+   "min_amount": "5000",
+   "currency": "PAB",
+   "applies_to": "main applicant; application fee to the National Treasury",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 33, art. 11(1) (OCR)",
+   "quote": "Un pago por cinco mil balboas con 00/100 (B/. 5,000.00) a favor del Tesoro Nacional, en concepto de derechos por la solicitud del trámite migratorio",
+   "notes": "Same amount as under DE 722 art. 4. DE 17 of 2026 in force from publication in Gaceta Oficial 30613 (16 September 2026), as on the other rows from this decree.",
+   "valid_from": "2026-09-16",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "repatriation_deposit",
+   "min_amount": "5000",
+   "currency": "PAB",
+   "applies_to": "main applicant; repatriation deposit to the SNM",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 33, art. 11(1) (OCR)",
+   "quote": "otro pago de cinco mil balboas con 00/100 (B/. 5,000.00) a favor del Servicio Nacional de Migración en concepto de depósito de repatriación",
+   "notes": "Same amount as under DE 722 art. 4. DE 17 of 2026 in force from publication in Gaceta Oficial 30613 (16 September 2026), as on the other rows from this decree.",
+   "valid_from": "2026-09-16",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "fee_processing",
+   "min_amount": "1000",
+   "currency": "PAB",
+   "applies_to": "each dependant; application fee to the National Treasury (plus B/.1,000 repatriation deposit)",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 33, art. 11(2) (OCR)",
+   "quote": "se deberá aportar por cada dependiente un pago de mil balboas con 00/100 (B/. 1,000.00) a favor del Tesoro Nacional, en concepto de derechos por la solicitud del trámite migratorio",
+   "notes": "Same amount as under DE 722 art. 4. DE 17 of 2026 in force from publication in Gaceta Oficial 30613 (16 September 2026), as on the other rows from this decree.",
+   "valid_from": "2026-09-16",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "repatriation_deposit_dependant",
+   "min_amount": "1000",
+   "currency": "PAB",
+   "applies_to": "each dependant included in the application; repatriation deposit to the SNM",
+   "source_id": "pan-go-de17-2026",
+   "location": "p. 33, art. 11(2) (OCR)",
+   "quote": "y otro pago de mil balboas (B/. 1,000.00) a favor del Servicio Nacional de Migración en concepto de depósito de repatriación",
+   "notes": "Same amount as under DE 722 art. 4. DE 17 of 2026 in force from publication in Gaceta Oficial 30613 (16 September 2026), as on the other rows from this decree.",
+   "valid_from": "2026-09-16",
+   "valid_to": ""
   }
  ],
  "events": [],
@@ -627,6 +770,90 @@
    "source_id": "nld-ah-tk-20192020-867",
    "status": "complete",
    "contains": "Aanhangsel Handelingen II 2019/20 nr. 867 (8 pp.): 30 written questions by D66 MPs on Malta's passport sales and answers by the Foreign Minister and others (received 28 Nov 2019). Programme numbers: Malta (relayed from the ORiip report of Nov 2018): 961 'passports' issued to 1 Jul 2018 and a regional split of passport issuance 1 Jul 2015-1 Jul 2018 (Europe 266, Asia 70, Gulf 67, Africa 36, North America 20, Middle East 16, South America 4, Caribbean 3, Oceania 1; no total printed); the MPs' EUR 900,000 price; Netherlands investor scheme: fewer than 10 permits (already in the data), RVO added-value test (10 jobs within 5 years among three criteria), one-year review before abolition. Also the EC's count of member states with citizenship (3) and residence (20) schemes (lists, not programme numbers), Malta's due diligence, the Caruana Galizia inquiry, a Groningen professor (not named here), AIVD warnings. Added: 10 Malta rows (status reported), two terms, one event. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nld-stb-2024-83",
+   "status": "complete",
+   "contains": "Staatsblad 2024 no. 83 (25 pp.): Decree of 9 Apr 2024 (published 16 Apr 2024, in force the next day) amending the Aliens Decree 2000, the Civic Integration Decree 2021 and the Foreign Nationals Employment Decree 2022, with explanatory note. Programme content: deletion of the residence ground for wealthy foreigners (art. 3.29a Vb 2000; Articles I B, D, G, II, III), transitional law keeping existing permits valid and renewable (Article IV), and the note's history (scheme from 1 Oct 2013, at least EUR 1,250,000 invested in an innovative company per Vc B11/2.2, fewer than ten permits granted). The rest (family reunification fraud checks, researcher mobility, mvv exemptions, EU directive fixes, detention hearings, consultation responses) is out of scope. The amount, the permit count and the launch were already in the data (the closure on 17 Apr 2024 is an event from another source); nothing new to add. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nru-cabinet-iruwa-2026",
+   "status": "complete",
+   "contains": "Gazette No. 36 (3 Feb 2026), SL 4 of 2026: Cabinet designates 'The Iruwa Initiative' special project (Cabinet resolution 29 Jan 2026) to mark the programme's first anniversary: main-applicant contribution cut from USD 115,000 to USD 90,000 from 29 Jan to 30 Jun 2026, other fees unchanged, applies to accepted applications not yet paid. Term and event already recorded; nothing else in it. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nru-cabinet-iruwa-ext-2026",
+   "status": "complete",
+   "contains": "Gazette No. 197 (5 Jun 2026), SL 28 of 2026: Cabinet Resolution 539/2026 of 3 Jun 2026 extends the Iruwa Initiative to 31 Dec 2026. Term and event already recorded; nothing else in it. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nru-regs-amend-2026",
+   "status": "complete",
+   "contains": "Amendment Regulations No. 2 of 2026 (Gazette No. 32, certified 29 Jan 2026, 25 pp.): new definitions; agent forms; reg. 9A filing fees on submission, approval fees on approval in principle; police certificates (16+, six months' residence in past 10 years); new reg. 16 (Registrar endorsement, Minister, Cabinet); reg. 17 (approval fees within 30 days; agent fee and administration fee deducted from contribution); Part 4A electronic forms, lodgement (after 11:59 pm counts as next business day), signatures, notices, records; reg. 33 additional fees set by the Program Office; reg. 34 special projects; new Schedule 1 (application 5,000 + 2,000 per dependant; due diligence 6,000 / 3,000 / 3,000 benefactor; contribution 115,000 + 2,000 per dependant 16+ + 15,000 per sibling; passport 500); Schedule 2 (pre-approval additions); Schedule 3 (post-approval additions: application 5,000 each, due diligence 6,000, contributions 30,000 spouse, 0 child up to 2 and recently adopted child, 25,000 child 3-18 and grandchild, 35,000 others, passport 500); Schedule 4 (agent licence 5,000, agent fee 25,000); Schedule 4A (administration 10,000 / 5,000); Schedules 5-8 replaced by lists of required form contents (agent forms, application forms incl. 10-year address and employment history, oath, certificate, register). All schedule amounts and numeric rules now recorded (six were already there). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nru-sl-28-2024",
+   "status": "complete",
+   "contains": "Nauru Economic and Climate Resilience Citizenship Regulations 2024 (SL 28 of 2024, Gazette No. 453, 30 Oct 2024, 49 pp.; form pages 15-47 are images, read by OCR): eligibility and exclusions (police certificate for >6 months' residence in last 10 years; offences punishable by 12+ months; ICC, Interpol, terrorism, sanctions, high-risk-country citizens); approved due diligence firms, checks for 16+; agent licence (fee due 31 Jan, calendar-year licence, agent fee paid within 30 days of claim); application documents; 90-day verification; interviews 16+; dependants' affidavits (18+); Program Office -> Minister -> Registrar -> Cabinet; contribution and passport fees within 30 days of approval in principle; oath; certificate; post-approval additions; register access; Schedule 1 (contribution 105,000 / 110,000 / 115,000 / 15,000 per sibling; application fee 25,000 / 27,500 / 30,000; due diligence 10,000 / 7,500; passport 500), Schedule 2 (pre-approval additions: application 10,000, due diligence 7,500, passport 500, contribution to match family-size band), Schedule 3 (post-approval: contributions 25,000 spouse, 0 child up to 2 and recently adopted child, 20,000 child 3-18 and grandchild, 30,000 others; application fees 10,000 / 5,000 / 5,000 / 10,000 / 10,000 / 10,000; due diligence 7,500; passport 500), Schedule 4 (agent licence 5,000; agent fee 25,000); Schedules 5-8 forms: agent application (25% ownership disclosure), agent licence agreement and code of conduct (no advertising of agent fees, 30-day notice of sub-agents, no 'Nauru' in domain names), application information (fees non-refundable, contribution and passport fee paid on approval in principle), personal, financial and medical forms (10-year histories, five-year name-change bar), grant, oath, certificate and register templates. All amounts and numeric rules now recorded (eight terms were already there). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nru-sl-passport-fees-2025",
+   "status": "complete",
+   "contains": "Passports (Nauru Economic and Climate Resilience Citizenship Forms and Fees) Regulations 2025 (SL 26 of 2025, Gazette No. 201, notified 19 May 2025, 13 pp.): passport application for programme citizens (certificate of citizenship, 2 photos, foreign passport bio-page), passport contents (serial 'NN' + 6 digits), cancellation and lost/stolen notices (incl. cancellation under s. 25 of the 2024 Act), photo rules (4.5 x 3.5 cm, 70-80% face, not older than 3 months), separate register, records kept indefinitely; Schedule 3 fees: new passport USD 500, renewal USD 500 (already recorded as one term). Added the gazettal as an event. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nzl-inz-aip-visa-2026",
+   "status": "complete",
+   "contains": "INZ visa information page (read 2 Oct 2026): cost from NZD 27470; processing time 80% of approvals in principle within 4 months; minimums NZD 5m Growth (36 months)/NZD 10m Balanced (60 months); acceptable investments by category, philanthropy max 20% for Growth; 6 months (plus possible 6) to transfer funds; days in NZ: 21 (Growth), 105 (Balanced) reduced by 14 days per extra NZD 1m in Growth investments (Table 1: 91/77/63 days); evidence at 24 and 36/60 months; resident travel 4/6 years; post-investment questionnaires; permanent residence after 36/60 months. Fees and minimums were already in program_terms; added presence, philanthropy cap, transfer deadline and processing time. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "nzl-mbie-aip-briefing-2021",
+   "status": "complete",
+   "contains": "MBIE briefing 2122-1943 (16 Dec 2021) with the 2022 proactive-release coversheet; pp. 2, 9 and 11 are images (OCR'd). Contents: recap of the Aug 2021 AIP design ($25m, weightings, bonds for 12 months, IELTS, up to 40% philanthropy, 88 days over three years), proposals to lower the threshold to $15m with a 3x weighting for direct investment and a 50% listed-equity cap (straw-person Annex One, Annex Two on Crown entities), and the note that INZ processed Investor 1 and 2 applications only to a decision-ready point during the border closure until the High Court ruling of 22 Nov 2021 (already an event). All figures are proposals that never applied as such (the adopted settings are recorded from the 2022 Cabinet minute); no statistics. Nothing new to add. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-fm-irp-launch-2021",
+   "status": "complete",
+   "contains": "Oman Ministry of Foreign Affairs news page (29 Sep 2021, unofficial English translation): launch of the Investor Residency Programme by the commerce ministry; applications from 3 October; first 22 cards handed over; minister and OIA chairman quotes; first category (10 years: OMR 500,000 in shares of a joint-stock company or government bonds, or a company employing 50+ Omanis), second category (5 years: assets of OMR 250,000), retirees eligible, no citizenship entitlement; general investment incentives (100% foreign ownership, Invest-Easy portal with 1,500 activities and about 63,000 licences issued 4 Apr-27 Sep 2021). Taken: all programme numbers and rules (22 cards, the two thresholds and the launch event were already in the data; added the 50-employee route and the 10/5-year validity). Not taken (out of scope): Invest-Easy activity and licence counts (general business licensing, not the residence programme). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-investoman-golden-residency-2025",
+   "status": "complete",
+   "contains": "Invest Oman blog post (Sept 2025) announcing the 10-Year Golden Residency: renewable 10-year residence for investors and families, seven investment routes (property in Integrated Tourism Complexes, company formation, Government Development Bonds, Muscat-listed shares, fixed-term bank deposit, business employing 50+ Omanis, nomination by a Foreign Capital Investment Law company), minimum capital OMR 200,000 (about USD 520,000), Migrate World as operational partner; general promotional material on Oman (share of global migrants targeting the Gulf over 10%, quality-of-life ranking 4th, access to 2.6 billion consumers). Taken: programme rules (the OMR 200,000 minimum and the launch event were already in the data; added 10-year validity and the 50-employee route). Not taken (out of scope): the general promotional statistics. The page links 21 images (not stored with the HTML, so not OCR-able here). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-mhup-dec-58-2022",
+   "status": "complete",
+   "contains": "Housing and Urban Planning Ministerial Decision 58/2022 (3 Mar 2022, Gazette 1433 of 13/3/2022; text via Qanoon.om): Art. 1 non-Omani investors may obtain a certificate of having bought residential units worth at least OMR 500,000 (first-category card) or OMR 250,000 (second category) in areas open to foreigners; Art. 2 first-category holders may own one residential, commercial or industrial property outside those areas (not in prohibited places); Art. 3 entry into force. Both thresholds and the event were already in the data; nothing else in scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "omn-rop-dec-234-2021",
+   "status": "complete",
+   "contains": "Royal Oman Police Decision 234/2021 (21 Oct 2021; Gazette 1413 of 24/10/2021; text via Qanoon.om) amending the Foreign Residency Law regulations: investor visa (used within one year), dependants (spouse and first-degree relatives), conversion of visas, age exemption for investor dependants, residence of owners of units in integrated tourism complexes ends on disposal, fees: investor visas OMR 500 (10 years) and 300 (5 years), investor residence renewal OMR 500/300 every three years, dependant visas OMR 100/50 and dependant residence OMR 100/50 every three years, multiple-trip investor visa (up to one year, extendable, stays of up to three months). The two visa fees and the event were already in the data; added the renewal and dependant fees and the visa validity rules. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de109-2022",
+   "status": "complete",
+   "contains": "Gaceta Oficial 29643-A (13 Oct 2022), 9 pages. Pp. 1-4: contents page and Decreto Ejecutivo 54 of 2022 (Education, a school curriculum; out of scope; pp. 2-4 read by OCR). Pp. 5-8: Decreto Ejecutivo 109 of 13 Oct 2022 amending DE 722 (Qualified Investor): art. 1 rewrites art. 3 of DE 722 in full (real estate B/.500,000 free of liens, excess financeable by local mortgage, plus Registro Público and ANATI value certificates; presale contract B/.500,000 via local trust; securities B/.500,000 through a licensed broker on the Bolsa de Valores, held 5 years; fixed deposit B/.750,000 for at least 5 years at a general-licence bank), art. 2 extends the transitional B/.300,000 real-estate minimum from 24 to 48 months and keeps the 2020 Solvencia-to-Qualified-Investor switch, in force on promulgation. P. 9: an erratum to a Presidency decree naming a vice-minister (out of scope). No statistics. All amounts are already in the tables: the 48-month B/.300,000 term (t-c25007b41b), presale B/.500,000 (t-28252495dc) and event e-7e609f9061; the unchanged real-estate B/.500,000, securities B/.500,000 and deposit B/.750,000 restatements are recorded in the notes of the DE 722 terms (t-fce91dcfaf, t-5ea3c0dfe5, t-926941d879) rather than as duplicate rows. Note: art. 3 of DE 109 says it modifies only 'acápite a, numeral 2 del artículo 3', although art. 1 rewrites the whole of art. 3. Nothing new added in this pass. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de17-2026",
+   "status": "complete",
+   "contains": "Gaceta Oficial 30613 (16 Sept 2026), 41 pages; pp. 2-37 are scans read by OCR (spa+eng). Pp. 1-22 and 38-41: contents, Decretos 204 and 211 (appointments), DE 5 (environmental emergencies), DE 33 and 34 (Economy ministry) and commercial notices, all out of scope. Pp. 23-37: Decreto Ejecutivo 17 of 8 Sept 2026, replacing DE 722 and its amendments for the Qualified Investor subcategory: overall minimum B/.300,000 of foreign-source own funds (art. 2); MICI certificate rules (art. 3, 3-month validity, co-ownership); real estate B/.300,000 first sale / B/.500,000 secondary market (art. 4); valuation and appraisal rules (arts. 5-6); presale B/.300,000 via trust or 100% payment with bank instrument, 180-working-day substitution, 3-year cap (art. 7); securities B/.500,000 in private-equity/venture funds, Panamanian government debt or other registered securities, 5 years, 90-day restoration after market falls (art. 8); fixed deposit B/.750,000 at private banks or B/.500,000 at Banco Nacional/Caja de Ahorros, 5 years (art. 9); fees B/.5,000 + B/.5,000 repatriation deposit, dependants B/.1,000 + B/.1,000 (art. 11); 5-year maintenance with annual proof, 30-day notice, 90-day reinvestment (art. 12); naturalisation after five consecutive years (art. 14); processing maxima 15 working days (MICI) and 30 working days (SNM) (art. 15); filing from abroad (art. 16); new dependants B/.1,000 + B/.1,000 (art. 17); 12-month switch for Solvencia Económica holders, pre-15-Oct-2020 investments ineligible (art. 18); 6-month grandfathering (art. 19); subrogation of DE 722/109/193 (art. 20). No statistics. Route amounts, fees, deposit and naturalisation were already in the tables (t-2b6fc0b222, t-08807a143d, t-d0090088e5, t-0c2512386d, t-623ac85a5a, t-b1efe09d1b; fees noted on t-de6c73134f/t-3e97f07cc3; events e-3021dbfbd8, e-a1c0701293). This pass adds the art. 2 overall minimum, holding period, reinvestment window, processing maxima, certificate validity, new-dependant payments, the Solvencia switch event and an event listing the remaining procedural deadlines. Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   }
  ]
