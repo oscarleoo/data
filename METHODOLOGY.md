@@ -140,6 +140,23 @@ was taken from the rest of the document, and similar). Rows where a bare "$" was
 are left for decision 1.4. Rows that inferred a unit without saying so in their notes can't be found this way;
 the extraction brief now requires the field.
 
+### 5. The bare "$" sign (decided 2026-10-09)
+
+**Question.** Many countries call their currency the dollar (US, Canada, Australia, New Zealand, Hong Kong,
+Singapore, Bermuda, the Eastern Caribbean states). Documents often print only "$". Which currency do we record?
+
+**Decision.** Decision 4 applied to currency:
+- An official document's "$" is the dollar of the issuing government (a Grenadian budget's "$" is EC$, a
+  Canadian federal document's "$" is CAD). It is recorded as that currency with `unit_basis` = `inferred` and a
+  note saying why.
+- US federal documents: "$" is US dollars, recorded as printed.
+- Where a document mixes dollars (EC$ and US$ in one report), "$" is assigned only when the table or section
+  settles it; otherwise the currency stays `unspecified`, with a note.
+- `unspecified` is kept only for genuine ambiguity (e.g. a press article where "$" could be either).
+
+**Why.** Without a currency the number can't be compared or converted; guessing silently hides the risk of a
+2.7-times error (EC$ vs US$). Recording the likely currency with a warning keeps the number usable and honest.
+
 ## Open questions
 
 None at the moment.
