@@ -30,17 +30,17 @@ They did not record every table in every document they stored. On 8 October
 not been extracted, while the page said "every number we could find". That was
 wrong. This ledger makes the gaps visible.
 
-## Where we are (as of 2026-10-09)
+## Where we are (as of 2026-10-10)
 
-- Sources: 1,443, of which 1,267 have a stored copy.
-- Stored documents reviewed against their full contents: **1,267 of 1,267** (1,149 complete, 101 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
+- Sources: 1,434, of which 1,258 have a stored copy (9 duplicate sources were merged on 9-10 October).
+- Stored documents reviewed against their full contents: **1,258 of 1,258** (1,150 complete, 91 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
 - Sources with no stored copy: 176. They stay `not_reviewed` until a copy is fetched.
 - The review was done document by document between 8 and 9 October 2026; the log is in `../cbi/reports/overnight-2026-10-08.md`.
 
 What this does and doesn't mean:
 
-- Every number has a location and a verbatim quote, checked automatically against the stored copy.
-- A blind second reading by a different model covers a sample, not every number: 8,962 of 83,856 numbers. Every difference it found is ruled (`data/second_read_resolutions.csv`).
+- Every number has a location and a verbatim quote. An automatic check looks for each quote in the stored copy: of 120,629 quoted rows (numbers, rules, events), 104,069 match (86,388 word for word, 17,681 as a table row), 986 more were confirmed by a second reading or by eye, and **15,012 are not matched**. Most of these are table rows rebuilt from spreadsheet cells, which the check handles poorly (4,777 from the zero passes, 3,124 from UK spreadsheets). They are not known to be wrong, but they are not verified either. 560 come from sources we don't store.
+- A blind second reading by a different model covers a sample, not every number: 9,157 of 115,191 numbers (55,270 of the 115,191 are zeros). Every difference it found is ruled (`data/second_read_resolutions.csv`).
 - `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` column says exactly what (charts without printed values, unreadable scans, items waiting for a decision on scope).
 - Documents we don't store are not reviewed, so the dataset says nothing about what they contain.
 

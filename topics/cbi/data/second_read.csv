@@ -9095,3 +9095,123 @@ o-5f88dad515,614,,1,Others (Bronze Membership row),PDF p. 6,"Bronze Membership 3
 o-c014699379,"1,549",,1,Grand Total,PDF p. 4,"PLATINUM-EFA 951 598 1,549",high,,claude-sonnet-5,2026-10-09,1,no
 o-a383102306,213,,1,Grand Total,PDF p. 4,PLATINUM-EPA 154 59 213,medium,"Male 154, Female 59, total 213 read from own OCR; also 213 in age and occupation tables",claude-sonnet-5,2026-10-09,1,no
 o-0a9707fdac,"1,386",,1,40-49 years old (count),PDF p. 5 (age table),"New Package Total 201 706 2,145 1,386 5.5% 585 625 5,638",medium,"Count 1,386; printed percentage beside it is 5.5% (looks like a typo in the document or OCR); count matches the sum of the new package rows",claude-sonnet-5,2026-10-09,1,no
+o-3dae71c5a6,1,,1,Leased,PDF p. 16,attard Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-6309aece3a,1,,1,Leased,PDF p. 16,bahar_ic_caghaq Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-4b262de84a,2,,1,Leased,PDF p. 16,ghajnsielem Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-a209e6b383,1,,1,Leased,PDF p. 16,gzira Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-2cde962f24,2,,1,Leased,PDF p. 16,ibrag Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-727514001e,1,,1,Leased,PDF p. 16,madliena Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-b40d57efd1,4,,1,Leased,PDF p. 16,marsalforn Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-6f3b91da2c,1,,1,Leased,PDF p. 16,mqabba Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-cd33c159a1,1,,1,Leased,PDF p. 16,naxxar Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-234eb7d375,2,,1,Leased,PDF p. 16,san_gwann Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-52f51146c8,4,,1,Leased,PDF p. 16,st_pauls_bay Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-bd71e541de,2,,1,Leased,PDF p. 16,xemxija Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-4df673b468,1,,1,Leased,PDF p. 16,zabbar Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-c11bfc151e,1,,1,Purchased,PDF p. 16,sannat Purchased = 1,medium,"Table prints ""-"" in the other column. Row route is real_estate_lease but only the Purchased column has a figure; Leased prints ""-"". Column ambiguity.",claude-sonnet-5,2026-10-09,1,no
+o-5554ba96c6,2,,1,Purchased,PDF p. 16,valletta Purchased = 2,medium,"Table prints ""-"" in the other column. Row route is real_estate_lease but only the Purchased column has a figure; Leased prints ""-"". Column ambiguity.",claude-sonnet-5,2026-10-09,1,no
+o-7252ef4a7d,1,,1,Leased,PDF p. 17,madliena Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-714a0ab5ce,1,,1,Leased,PDF p. 17,msida Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-0bd0d2cde3,4,,1,Leased,PDF p. 17,naxxar Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-7b9f93f34d,1,,1,Leased,PDF p. 17,fontana Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-68d0b9d74c,5,,1,Leased,PDF p. 17,ibrag Leased = 5,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-e2cfada658,1,,1,Leased,PDF p. 17,balzan Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-738f69fba2,3,,1,Leased,PDF p. 17,birkirkara Leased = 3,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-e48465a9dc,20,,1,Leased,PDF p. 17,st_pauls_bay Leased = 20,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-6cd0c3eb84,1,,1,Leased,PDF p. 17,birzebbuga Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-bddf0cb027,2,,1,Leased,PDF p. 17,ta_xbiex Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-b2a7bc17ab,10,,1,Leased,PDF p. 17,marsalforn Leased = 10,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-417c41e7ae,1,,1,Leased,PDF p. 17,pieta Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-6abb228d1f,2,,1,Leased,PDF p. 17,senglea Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-53bc7bbfe8,1,,1,Leased,PDF p. 17,bahar_ic_caghaq Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-50d25c9fc7,1,,1,Leased,PDF p. 17,xlendi Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-5050628432,1,,1,Leased,PDF p. 19,xemxija Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-c0db824a1e,2,,1,Leased,PDF p. 19,vittoriosa Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-2e9743dfe3,1,,1,Leased,PDF p. 19,san_gwann Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-851b0ff1ef,1,,1,Purchased,PDF p. 19,xghajra Purchased = 1,medium,"Table prints ""-"" in the other column. Row route is real_estate_lease but only the Purchased column has a figure; Leased prints ""-"". Column ambiguity.",claude-sonnet-5,2026-10-09,1,no
+o-9b58e2319e,1,,1,Leased,PDF p. 19,pembroke Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-31d088b218,1,,1,Leased,PDF p. 19,floriana Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-60f2b3916c,1,,1,Leased,PDF p. 19,marsaxlokk Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-d6ae4e6fd4,1,,1,Leased,PDF p. 19,balzan Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-bd01134be0,4,,1,Leased,PDF p. 19,mosta Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-5126a7df2c,19,,1,Leased,PDF p. 19,st_pauls_bay Leased = 19,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-95479a7962,4,,1,Leased,PDF p. 19,attard Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-2ccbed0d7f,4,,1,Leased,PDF p. 19,marsalforn Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-06c7556e00,2,,1,Leased,PDF p. 19,pieta Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-d8f39888e7,1,,1,Leased,PDF p. 19,zebbug_gozo Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-9b52eed1f3,2,,1,Leased,PDF p. 19,marsaskala Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-cfebb590b2,1,,1,Leased,PDF p. 20,mtarfa Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Printed as Imtarfa.",claude-sonnet-5,2026-10-09,1,no
+o-49f7708b09,4,,1,Leased,PDF p. 21,xemxija Leased = 4,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Table continues on PDF p. 21.",claude-sonnet-5,2026-10-09,1,no
+o-3fb88fe94a,2,,1,Leased,PDF p. 20,cospicua Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-dee74d7e8c,1,,1,Leased,PDF p. 21,siggiewi Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Table continues on PDF p. 21.",claude-sonnet-5,2026-10-09,1,no
+o-9f08940794,1,,1,Leased,PDF p. 20,marsalforn Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-d3d6f1b871,1,,1,Leased,PDF p. 21,vittoriosa Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Table continues on PDF p. 21.",claude-sonnet-5,2026-10-09,1,no
+o-7d13afd6b5,1,,1,Leased,PDF p. 20,birkirkara Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-6408235fab,2,,1,Leased,PDF p. 21,zebbug_gozo Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Table continues on PDF p. 21.",claude-sonnet-5,2026-10-09,1,no
+o-799a17c296,1,,1,Purchased,PDF p. 20,floriana Purchased = 1,medium,"Table prints ""-"" in the other column. Row route is real_estate_lease but only the Purchased column has a figure; Leased prints ""-"". Column ambiguity.",claude-sonnet-5,2026-10-09,1,no
+o-155a879971,2,,1,Leased,PDF p. 21,san_gwann Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"". Table continues on PDF p. 21.",claude-sonnet-5,2026-10-09,1,no
+o-7f0e9c0785,2,,1,Leased,PDF p. 20,mosta Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-2afb8d92ee,2,,1,Leased,PDF p. 20,attard Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-eee780aa27,1,,1,Leased,PDF p. 20,ibrag Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-9b5c140b38,2,,1,Leased,PDF p. 20,pieta Leased = 2,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-ba7d2ee6b5,1,,1,Leased,PDF p. 20,bahar_ic_caghaq Leased = 1,high,"Table prints ""-"" in the other column. Only the Leased column has a figure; Purchased prints ""-"".",claude-sonnet-5,2026-10-09,1,no
+o-07cd6f34b9,0,,1,2019,PDF p. 46,row Madliena ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-724db2fcd7,0,,1,2020,PDF p. 46,row Vittoriosa ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-81fcecf2ca,0,,1,2019,PDF p. 46,row Pembroke ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-54f6cf9d5a,0,,1,2016,PDF p. 46,row Xghajra ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-70649c652e,0,,1,2019,PDF p. 48,row Zabbar ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-f99ac74b1a,0,,1,2016,PDF p. 46,row Attard ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-ff98c2637f,0,,1,2020,PDF p. 46,row Lija ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-28957d561b,0,,1,2015,PDF p. 46,row Swieqi ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-c62f9f6fa6,0,,1,2019,PDF p. 47,row Zabbar ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-f62c586720,0,,1,2015,PDF p. 46,row Mqabba ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-c6d29a22d3,0,,1,2019,PDF p. 46,row Ibrag ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-73c8e2974b,0,,1,2020,PDF p. 48,row Zabbar ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-6dd931091f,0,,1,2016,PDF p. 46,row San Gwann ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-22195b7e67,0,,1,2016,PDF p. 46,row Balzan ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-516f841f56,0,,1,2019,PDF p. 48,row Xghajra ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-05e161c638,0,,1,2017,PDF p. 65,row xemxija ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-0f91541a08,0,,1,2022,PDF p. 64,row madliena ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-755a8eec5a,0,,1,2020,PDF p. 64,row mellieha ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-b25820ce54,0,,1,2017,PDF p. 65,row paola ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-c795235139,0,,1,2015,PDF p. 64,row birzebbuga ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-4f9093dd8e,0,,1,2019,PDF p. 65,row pembroke ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-214d16ff44,0,,1,2016,PDF p. 64,row senglea ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-0a5e8aa223,0,,1,2017,PDF p. 64,row bahrija ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-0fcae6ae6f,-,,1,Donations during 2022 alone: amount,PDF p. 79,"Marigold Foundation   12  €50,500.00  -  -",medium,2022-alone amount column prints a dash (no donation in 2022),claude-sonnet-5,2026-10-09,1,no
+o-3b47a3f097,-,,1,Donations during 2022 alone: amount,PDF p. 79,"Notorial Archieves Resources Council   3  €15,000.00  -  -",medium,2022-alone amount column prints a dash (no donation in 2022),claude-sonnet-5,2026-10-09,1,no
+o-03d0b13a2c,0,,1,2022,PDF p. 65,row madliena ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-fd1ac17122,0,,1,2020,PDF p. 64,row bahrija ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-6e2405af72,-,,1,Donations during 2022 alone: amount,PDF p. 78,"Jays of Sunshine   1  €5,000.00  -  -",medium,2022-alone amount column prints a dash (no donation in 2022),claude-sonnet-5,2026-10-09,1,no
+o-11abf8fddf,0,,1,2019,PDF p. 64,row ta_xbiex ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-a450c9cbeb,0,,1,2021,PDF p. 65,row mqabba ... 0,high,,claude-sonnet-5,2026-10-09,1,no
+o-6aee79b974,-,,1,2023 alone amount,PDF p. 81,recipient_presidents_foundation_for_the_wellbeing_of_society ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-4761790d93,-,,1,2023 alone amount,PDF p. 82,recipient_spca ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-f9af01f4ab,0,,1,2023,PDF p. 64,row pieta ... 0,high,Table 18 lease; row values printed as 0,claude-sonnet-5,2026-10-09,1,no
+o-cbc65bc847,0,,1,2023,PDF p. 64,row san_gwann ... 0,high,Table 18 lease; row values printed as 0,claude-sonnet-5,2026-10-09,1,no
+o-1d4320a4d5,-,,1,2023 alone amount,PDF p. 80,recipient_friends_of_the_earth ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-67c8e84798,-,,1,2023 alone amount,PDF p. 81,recipient_philatelic_society_malta ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-ad03eaa169,-,,1,2023 alone amount,PDF p. 79,recipient_carers_for_stray_and_abandoned_felines ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-76b6e7620e,-,,1,2023 alone amount,PDF p. 81,recipient_missionaries_of_charity ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-4a6e9b0c34,0,,1,2023,PDF p. 64,row valletta ... 0,high,Table 18 lease; row values printed as 0,claude-sonnet-5,2026-10-09,1,no
+o-580aa5d041,-,,1,Year 2022 Total Amount,PDF p. 76,recipient_research_innovation_development_trust_uom ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-e6680a0989,0,,1,2023,PDF p. 64,row siggiewi ... 0,high,Table 18 lease; row values printed as 0,claude-sonnet-5,2026-10-09,1,no
+o-c8196b2db2,-,,1,2023 alone amount,PDF p. 80,recipient_heritage_malta ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-49f63307b6,-,,1,2023 alone amount,PDF p. 82,recipient_skychair_trust ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-6f379e6780,-,,1,2023 alone amount,PDF p. 80,recipient_little_sisters_of_the_poor ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-b7dd867f40,-,,1,Year 2022 Total Amount,PDF p. 75,recipient_action_for_breast_cancer_foundation ... - -,medium,column prints a dash (no donation in that year),claude-sonnet-5,2026-10-09,1,no
+o-7e71b60346,-,,1,IIP donations during 2024 alone: amount,PDF p. 99,alive_charity_foundation ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-3c022839e7,-,,1,IIP donations during 2024 alone: amount,PDF p. 99,birdlife_malta ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-b0cbc636b1,€0.00,,1,Total Amount of GCES Donations for the Year 2024,PDF p. 95,kazin_santa_liena ... €0.00,high,Appendix A prints €0.00,claude-sonnet-5,2026-10-09,1,no
+o-d110233718,€0.00,,1,Total Amount of GCES Donations for the Year 2024,PDF p. 97,spca ... €0.00,high,Appendix A prints €0.00,claude-sonnet-5,2026-10-09,1,no
+o-5b6bf4d09d,€0.00,,1,"Total Amount ... for the Years 2022,2023",PDF p. 94,animal_rights_group ... €0.00,high,Appendix A prints €0.00,claude-sonnet-5,2026-10-09,1,no
+o-42cab2f874,-,,1,IIP donations during 2024 alone: amount,PDF p. 100,english_speaking_union_malta ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-d34c975fca,€0.00,,1,Total Amount of GCES Donations for the Year 2024,PDF p. 96,sigma_foundation ... €0.00,high,Appendix A prints €0.00,claude-sonnet-5,2026-10-09,1,no
+o-9b68fb73c6,-,,1,IIP donations during 2024 alone: amount,PDF p. 99,commissioner_for_animal_welfare ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-ff2ea01479,-,,1,IIP donations during 2024 alone: amount,PDF p. 99,als_malta ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-905bb66180,-,,1,IIP donations during 2024 alone: amount,PDF p. 102,the_mediterranean_institute_of_marine_studies ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-071a53a2bd,-,,1,IIP donations during 2024 alone: amount,PDF p. 101,qrendi_football_club ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-8d48ff7e18,-,,1,IIP donations during 2024 alone: amount,PDF p. 100,drama_outreach_project ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-d133b259d9,€0.00,,1,"Total Amount ... for the Years 2022,2023",PDF p. 97,victoria_hotspurs_football_club ... €0.00,high,Appendix A prints €0.00,claude-sonnet-5,2026-10-09,1,no
+o-fe12201fd4,-,,1,IIP donations during 2024 alone: amount,PDF p. 101,nature_trust_malta ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no
+o-8c6c1627b3,-,,1,IIP donations during 2024 alone: amount,PDF p. 99,dar_san_guzepp ... - -,medium,2024-alone column prints a dash (no donation),claude-sonnet-5,2026-10-09,1,no

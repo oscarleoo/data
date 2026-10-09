@@ -181,7 +181,8 @@ and "not extracted" look the same, which is the silent gap the coverage ledger e
 tables (9,233), New Zealand residence decision reports (1,358), Malta 2021 report (544). The New Zealand 2024
 edition prints "." with no legend; those 926 cells are stored as 0 with `reading` = `implied`, because the
 rows only add up if "." means nil. Sources that list only non-zero combinations (UK extensions dataset) have
-no zeros to add.
+no zeros to add. Malta regulator reports 2016-2024 followed (1,344 more zeros); a table that uses blanks for none
+(Malta 2024 Tables 21-22) gets no rows, and its ledger entry says what the blank means.
 
 ### 7. Status of figures in multi-year tables from international bodies (decided 2026-10-09)
 
@@ -217,7 +218,7 @@ is how unannounced changes are caught. Linking keeps charts and "current price" 
 unit and applies_to match exactly (257 CBI and 187 whistleblowing links). Groups that share an amount but are
 worded differently (645) were reviewed by hand and linked through corrections. The 429 documents whose passes skipped
 restated rules were re-read: about 1,100 rules added (CBI 3,149 -> 4,239 rows; whistleblowing 860 -> 1,171).
-Known gap: one batch (rs-cbi-5) added only restatements and skipped about 8 rules stated by a single source.
+The gap from one batch (rs-cbi-5), which skipped rules stated by a single source, was filled: 12 rules added.
 
 ### 9. Secondary sources (decided 2026-10-09)
 
@@ -298,6 +299,14 @@ Value, date and classification fixes come before note improvements.
 cited page keep corrections as trustworthy as the data they change, and `corrections.csv` keeps every change
 reversible.
 
+**Applied to CBI (2026-10-09).** 108 queued problems. 79 fixed (5 of them in part), 18 found correct, 1 rejected by
+the second reader, 8 left for a person, 2 fixed earlier. 749 lines in `corrections.csv`, including 9 duplicate
+sources merged. Item-by-item outcome: `topics/cbi/reports/corrections-2026-10-09.md`. Whistleblowing: about 400
+suggested corrections still to run.
+
 ## Open questions
 
-None at the moment.
+**A. One event, several countries.** When a document records something done by several countries together (the
+five Eastern Caribbean programmes notifying the European Commission), do we keep one region-wide event, or also a
+copy per country so each country's page shows it? Three such copies (Grenada, Dominica, Saint Kitts and Nevis) are
+kept for now.
