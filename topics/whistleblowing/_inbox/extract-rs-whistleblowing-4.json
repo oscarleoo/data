@@ -1,0 +1,595 @@
+{
+ "slug": "extract-rs-whistleblowing-4",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 re-read of 40 SEC whistleblower award orders (Releases 93635-99312): rules each order restates (the $1,000,000 threshold, the 10-30% range, the $5 million presumption, the 30/90/120-day periods) are now recorded from each order that states them.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-93635",
+   "location": "p. 1, footnote 1",
+   "quote": "based on the same original information that the whistleblower voluntarily provided to the Commission, and that led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in defining the related action: the Commission action must have obtained monetary sanctions totaling more than $1,000,000."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "submitting Form TCR after first providing the information, or after notice of the requirement (automatic waiver of the TCR rules)",
+   "source_id": "usa-sec-wb-order-34-93648",
+   "location": "pp. 1-2, para 2 (sentence begins on p. 1)",
+   "quote": "a claimant must file a TCR within 30 days of providing the Commission with the original information to be relied upon as a basis for claiming an award",
+   "notes": "The order calls Rule 21F-9(e) \"newly adopted\" but gives no date. The same passage also states the waiver: compliance \"within 30 days of first obtaining actual or constructive notice about those requirements or 30 days from the date he/she retains counsel\"."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93685",
+   "location": "p. 2, para 1",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93685",
+   "location": "p. 2, para 1",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93945",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93945",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93946",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93946",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-94020",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-94020",
+   "location": "p. 1, para 3",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-94519",
+   "location": "p. 1, para 3",
+   "quote": "Exchange Act Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-94519",
+   "location": "p. 1, para 3",
+   "quote": "Exchange Act Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "120",
+   "unit": "days",
+   "applies_to": "persons with compliance or internal audit duties: minimum wait after reporting internally before their information can count as original",
+   "source_id": "usa-sec-wb-order-34-94736",
+   "location": "p. 1, footnote 1",
+   "quote": "Claimant is eligible for an award because Claimant satisfies the 120-day exception under Exchange Act Rule 21F-4(b). Claimant waited more than 120 days after reporting the potential securities violations internally before contacting the Commission.",
+   "notes": "Applied to a claimant the CRS found held a compliance role."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-94738",
+   "location": "p. 1, footnote 1",
+   "quote": "is based on the same original information that the whistleblowers voluntarily provided to the Commission, and that led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in defining the related action: the Commission action must have obtained monetary sanctions totaling more than $1,000,000."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "submitting Form TCR after first providing the information, or after notice of the requirement (automatic waiver of the TCR rules)",
+   "source_id": "usa-sec-wb-order-34-94946",
+   "location": "p. 1, footnote 1",
+   "quote": "Claimant satisfies Exchange Act Rule 21F-9(e) because Claimant, who was unrepresented, provided a Form TCR to the Commission within 30 days of learning of the TCR filing requirement.",
+   "notes": "Poor text layer (\"Coll11l1ission\"); quote checked against the page image."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-95304",
+   "location": "p. 1, footnote 1",
+   "quote": "was not posted as a covered action because the monetary sanctions in that matter did not exceed $1 million",
+   "notes": "Stated negatively: an action whose sanctions did not exceed $1 million was not posted as a covered action."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-95304",
+   "location": "p. 2, para 1",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-95304",
+   "location": "p. 2, para 1",
+   "quote": "Rule 21F-6(c) establishes a presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated as the statutory maximum within the Rule 21F-6(c) presumption."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) after posting of the Notice of Covered Action",
+   "source_id": "usa-sec-wb-order-34-95490",
+   "location": "p. 2, section I.A",
+   "quote": "on the Commission’s public website, inviting claimants to submit whistleblower award applications within 90 days",
+   "notes": "The sentence begins \"the Office of the Whistleblower posted Notice of Covered Action\" followed by a redacted number. A redaction label sits inside the line in the PDF text layer."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-95490",
+   "location": "p. 4, para 2",
+   "quote": "the Commission will decide the percentage amount of the award, which must be between 10% and 30% of the monetary sanctions collected",
+   "notes": "Attributed to Rule 21F-5(b)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-95490",
+   "location": "p. 4, para 2",
+   "quote": "the Commission will decide the percentage amount of the award, which must be between 10% and 30% of the monetary sanctions collected",
+   "notes": "Attributed to Rule 21F-5(b)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-95490",
+   "location": "p. 4, para 2",
+   "quote": "Rule 21F-6(c) creates a presumption for a maximum award where a maximum award would be less than $5 million",
+   "notes": "Worded here as \"less than $5 million\" (other orders say \"$5 million or less\"); p. 5 adds \"the 30% presumption applies because a 30% award would yield less than $5 million\"."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "related_proceeding_aggregation_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "later Commission proceeding from the same nucleus of operative facts with monetary sanctions of $1,000,000 or less: deemed part of the covered action for award payment (Rule 21F-4(d)(2))",
+   "source_id": "usa-sec-wb-order-34-95834",
+   "location": "p. 1, footnote 1",
+   "quote": "The Commission directs that, in the event that $1 million or less of monetary sanctions are ordered in either of the Other Actions, the action be considered part of the Covered Action for the purpose of making an award here.",
+   "notes": "Applied to two pending actions from the same nucleus of operative facts; the order does not cite Rule 21F-4(d)(2) by number."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-95834",
+   "location": "p. 1, footnote 2",
+   "quote": "that led the Commission to obtain monetary sanctions totaling more than $1 million",
+   "notes": "Stated as the condition for paying on a related action."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) after posting of the Notice of Covered Action",
+   "source_id": "usa-sec-wb-order-34-96128",
+   "location": "p. 2, section I.A",
+   "quote": "posted a Notice of Covered Action on the Commission’s public website inviting claimants to submit whistleblower award applications within 90 days",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) after posting of the Notice of Covered Action",
+   "source_id": "usa-sec-wb-order-34-96399",
+   "location": "p. 2, section I.A",
+   "quote": "posted the Notice of Covered Action on the Commission's public website inviting claimants to submit whistleblower award applications within 90 days",
+   "notes": "Partly OCR-damaged text layer; this sentence is legible."
+  }
+ ],
+ "cases": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "usa-sec-wb-order-34-93635",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93635 (22 Nov 2021, File No. 2022-17, 3 pp., redacted): awards to joint Claimant 1 (more than $240,000) and Claimant 2 (approximately $195,000) across a covered action and a related action (both already recorded); reasons for equal vs unequal percentages. Nothing new as a row; suggested note and summary corrections. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93648",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93648 (23 Nov 2021, File No. 2022-18, 3 pp., redacted): award of almost $400,000 on covered and related action (already recorded); Rule 21F-9(e) TCR waiver applied; culpability reduction; receiver distributions treated as collected sanctions (a practice already recorded as an event from Release No. 90721). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93685",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93685 (1 Dec 2021, File No. 2022-19, 3 pp., redacted): award of more than $175,000 on two covered actions (already recorded); independent analysis of public information; maximum-award presumption not applied for limited assistance; restates receiver-distribution practice and Rule 21F-6(c). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93913",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93913 (6 Jan 2022, File No. 2022-22, 2 pp., redacted): award of over $13 million (already recorded); restates Rule 21F-6 factors. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93935",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93935 (10 Jan 2022, File No. 2022-23, 2 pp., redacted): award of approximately $2.6 million (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93936",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93936 (10 Jan 2022, File No. 2022-24, 2 pp., redacted): joint award to two claimants, approximately $1.5 million total (already recorded), 50/50 split. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93945",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93945 (11 Jan 2022, File No. 2022-26, 2 pp., redacted): 30% award under the Rule 21F-6(c) presumption, no dollar amount, minimal collections (already recorded); restates the presumption (already in rules). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93946",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93946 (11 Jan 2022, File No. 2022-25, 2 pp., redacted): 30% award under the Rule 21F-6(c) presumption, no collections to date (already recorded). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93947",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93947 (11 Jan 2022, File No. 2022-27, 2 pp., redacted): award of more than $450,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93948",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93948 (11 Jan 2022, File No. 2022-28, 2 pp., heavily redacted): award of over $20,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94020",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94020 (21 Jan 2022, File No. 2022-32, 2 pp., redacted): 30% award under the Rule 21F-6(c) presumption, no current payment for lack of collections (already recorded). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94021",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94021 (21 Jan 2022, File No. 2022-31, 2 pp., redacted): award of $1.8 million (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94022",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94022 (21 Jan 2022, File No. 2022-30, 2 pp., redacted): award of approximately $1.5 million (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94282",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 94282 (18 Feb 2022, File No. 2022-33, 2 pp., redacted): awards of $375,000 (Claimant 1) and $75,000 (Claimant 2) (both already recorded); presumption not applied for delay and limited assistance. Nothing new as a row; suggested note and summary corrections. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94288",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94288 (22 Feb 2022, File No. 2022-34, 2 pp., redacted): award of more than $600,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94458",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 94458 (18 Mar 2022, File No. 2022-41, 2 pp., redacted): award of approximately $1.5 million (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94459",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94459 (18 Mar 2022, File No. 2022-42, 2 pp., redacted): award of over $1 million to an insider who reported internally (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94460",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94460 (18 Mar 2022, File No. 2022-43, 2 pp., redacted, poor text layer but legible): award of over $400,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94461",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94461 (18 Mar 2022, File No. 2022-44, 2 pp., redacted): award of approximately $60,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94519",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94519 (25 Mar 2022, File No. 2022-45, 2 pp., redacted): award of approximately $1.25 million (already recorded); 30% presumption not applied for unreasonable delay. Nothing new as a row; suggested note correction (existing note wrongly says no dollar amount is given) and summary. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94589",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 94589 (4 Apr 2022, File No. 2022-46, 2 pp., redacted): awards of approximately $160,000 (Claimant 1) and $80,000 (Claimant 2), both already recorded; independent analysis. Nothing new as a row; suggested note and summary corrections. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94736",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94736 (18 Apr 2022, File No. 2022-48, 2 pp., redacted): award of approximately $450,000 to a compliance-role claimant under the 120-day exception (already recorded). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94737",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94737 (18 Apr 2022, File No. 2022-49, 2 pp., redacted): award of approximately $45,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94738",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94738 (18 Apr 2022, File No. 2022-50, 3 pp., redacted): joint award to two claimants, approximately $700,000 total across a covered action and a related DOJ action (already recorded). Nothing new as a row; suggested note correction (two joint claimants) and summary. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94767",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94767 (21 Apr 2022, File No. 2022-52, 2 pp., redacted, poor text layer but legible): award of more than $580,000 (already recorded), reduced for culpability and over two years' delay. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94797",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94797 (27 Apr 2022, File No. 2022-54, 2 pp., redacted): award of more than $500,000 (already recorded) with Form TCR waived under Section 36(a) after a referral from another federal agency. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-94946",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 94946 (19 May 2022, File No. 2022-56, 2 pp., redacted, poor text layer but legible): award of approximately $16,000 (already recorded); Rule 21F-9(e) satisfied. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95291",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 95291 (15 Jul 2022, File No. 2022-64, 2 pp., redacted): award of more than $3,000,000 to an outside professional (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95292",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 95292 (15 Jul 2022, File No. 2022-65, 2 pp., redacted): award of over $3 million to an insider who reported internally (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95304",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 95304 (18 Jul 2022, File No. 2022-66, 2 pp., redacted): 30% award on two covered actions under the presumption, no payment on current collections (already recorded). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95490",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 95490 (12 Aug 2022, File No. 2022-76, 5 pp., redacted): CRS preliminary denial reversed on reconsideration; award of approximately $70,000 (already recorded), with the 30% presumption applied though the percentage itself is redacted; judgment and collection amounts redacted. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95537",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 95537 (18 Aug 2022, File No. 2022-77, 2 pp., redacted): awards of over $1,500,000 (joint Claimant 1) and almost $800,000 (Claimant 2) on two covered actions (both already recorded). Nothing new as a row; suggested note and summary corrections. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95802",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 95802 (16 Sep 2022, File No. 2022-85, 2 pp., redacted): joint award of almost $280,000 to four claimants (already recorded), 25% each; independent analysis. Nothing new as a row; suggested note (number of joint claimants is stated: four) and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-95834",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 95834 (20 Sep 2022, File No. 2022-86, 3 pp., redacted): award of $1.5 million total on covered and related action (already recorded); treatment of small same-facts actions and no double counting. Nothing new as a row; suggested note correction (the order prints \"$1.5 million\" with no \"over\") and summary. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-96012",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 96012 (11 Oct 2022, File No. 2023-01, 2 pp., redacted, poor text layer but legible): award of approximately $825,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-96076",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 96076 (14 Oct 2022, File No. 2023-03, 3 pp., redacted): awards of more than $500,000 each to two claimants (both already recorded); Section 36(a) waiver of TCR requirements; voluntariness found for information passed through another claimant. Nothing new as a row; suggested note and summary corrections. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-96119",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 96119 (21 Oct 2022, File No. 2023-04, 2 pp., redacted): award of $2,700,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-96128",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 96128 (24 Oct 2022, File No. 2023-05, 3 pp., redacted): awards of more than $1,000,000 (Claimant 1) and more than $500,000 (Claimant 2, reduced for over 30 months' delay), both already recorded; sanctions paid in full (amount redacted). Nothing new as a row; suggested note and summary corrections. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-96399",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 96399 (29 Nov 2022, File No. 2023-18, 6 pp., redacted, partly OCR-damaged text layer): awards to Claimants 1, 2 and 3 (percentages and amounts redacted; one combined row already recorded), denial of Claimant 4 (contested), of one other claimant (uncontested) and of Claimants 2 and 3 on a separate action. Added 2 award rows and 3 denial rows; suggested the existing row become Claimant 1's award. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-99312",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 99312 (11 Jan 2024, File No. 2024-7, 2 pp., redacted): 30% award, no dollar amount (already recorded). No new rows; suggested summary and notes correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  }
+ ]
+}
