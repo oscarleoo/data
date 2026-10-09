@@ -154,6 +154,11 @@ Singapore, Bermuda, the Eastern Caribbean states). Documents often print only "$
   settles it; otherwise the currency stays `unspecified`, with a note.
 - `unspecified` is kept only for genuine ambiguity (e.g. a press article where "$" could be either).
 
+**Applied (2026-10-09).** 356 CBI and 21 whistleblowing rows already recorded in the issuing government's dollar
+are flagged `inferred`. Of 185 CBI rows recorded as `unspecified`, 122 got the currency their document settles
+(CAD 59, NZD 49, AUD 7, USD 4, XCD 3), flagged `inferred`; 63 stay unspecified (press articles; Antigua tables
+that print a bare "$" in a report that mixes EC$ and US$).
+
 **Why.** Without a currency the number can't be compared or converted; guessing silently hides the risk of a
 2.7-times error (EC$ vs US$). Recording the likely currency with a warning keeps the number usable and honest.
 

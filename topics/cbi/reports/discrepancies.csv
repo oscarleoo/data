@@ -285,8 +285,8 @@ CAN,can-iip,processing_time_months [category=80pct_of_cases],2011,months,38,1,38
 CAN,can-iip,processing_time_months [category=80pct_of_cases],2011,months,43,1,43.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,11.6,same_source,o-512d635213
 CAN,can-iip,programme_share_of_grants [category=federal_business_immigrants_principal_applicants],2008,percent,81.2,1,81.2,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.1,same_source,o-e6d29cd3ef
 CAN,can-iip,programme_share_of_grants [category=federal_business_immigrants_principal_applicants],2008,percent,81.3,1,81.3,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.1,same_source,o-f7dcf90ef8
-CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,unspecified,2.483,billion,2483000000.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-77d261b7bb
-CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,unspecified,2483979999,1,2483979999.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-a73a202c05
+CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,CAD,2.483,billion,2483000000.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-77d261b7bb
+CAN,can-iip,rbi_funds_allocated_to_regions,2007-2011,CAD,2483979999,1,2483979999.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.0,same_source,o-a73a202c05
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,33.6,million,33600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-e8dca58755
 COM,com-ecp,cbi_fiscal_revenue,2012,unspecified,45.6,million,45600000.0,reported,com-guardian-2015,The Guardian,2015-11-11,26.3,same_source,o-13428e5331
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2011-2012,percent_of_gdp,3,1,3.0,estimate,com-imf-hipc-cp-2013,International Monetary Fund,2013-02-08,25.0,revision,o-18a439c5ee
@@ -3364,6 +3364,7 @@ GRD,grd-cbi,cbi_linked_debt_payments,2023,XCD,7.8,million,7800000.0,estimate,grd
 GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78.1,million,78100000.0,estimate,grd-imf-art4-2024,International Monetary Fund,2025-02,0.4,conflict,o-a4fe203051
 GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78355151,1,78355151.0,provisional,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,0.4,conflict,o-c3fb5ce16a
 GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78.4,million,78400000.0,estimate,grd-imf-art4-2025,International Monetary Fund,2026-01,0.4,conflict,o-d1826d528d
+GRD,grd-cbi,cbi_linked_debt_payments,2024,XCD,78.4,million,78400000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,0.4,conflict,o-45f6c2b738
 GRD,grd-cbi,cbi_linked_debt_payments,2025,XCD,75000000,1,75000000.0,budget,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,36.3,vintage,o-ca71c22f62
 GRD,grd-cbi,cbi_linked_debt_payments,2025,XCD,75000000,1,75000000.0,budget,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,36.3,vintage,o-9803d2bafb
 GRD,grd-cbi,cbi_linked_debt_payments,2025,XCD,99594158,1,99594158.0,provisional,grd-mof-estimates-2026,"Government of Grenada, Ministry of Finance",2025-12,36.3,vintage,o-08ad372775
@@ -3389,6 +3390,7 @@ GRD,grd-cbi,cbi_linked_debt_payments_pct_gdp,2025,percent_of_gdp,3.0,1,3.0,proje
 GRD,grd-cbi,cbi_programme_costs,2024,XCD,64.6,million,64599999.99999999,estimate,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,20.0,revision,o-e83257631b
 GRD,grd-cbi,cbi_programme_costs,2024,XCD,80.7,million,80700000.0,actual,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,20.0,revision,o-10626327c3
 GRD,grd-cbi,cbi_programme_costs,2025,XCD,31.8,million,31800000.0,projection,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,28.1,vintage,o-049ea4e52d
+GRD,grd-cbi,cbi_programme_costs,2025,XCD,40.2,million,40200000.0,budget,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,28.1,vintage,o-a70622e009
 GRD,grd-cbi,cbi_programme_costs,2025,XCD,44.2,million,44200000.0,projection,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,28.1,vintage,o-30b12399db
 GRD,grd-cbi,cbi_programme_costs,2026,XCD,33.1,million,33100000.0,projection,grd-mof-mtff-2024,"Government of Grenada, Ministry of Finance",2024-09,3.2,vintage,o-f8f56259d4
 GRD,grd-cbi,cbi_programme_costs,2026,XCD,34.2,million,34200000.0,projection,grd-mof-mtefs-2025,"Government of Grenada, Ministry of Finance",2025,3.2,vintage,o-f7c63bc7cc
@@ -4679,8 +4681,8 @@ NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3.7,million,3700000.0,claim,nru-p
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,3740599,1,3740599.0,provisional,nru-mof-bp1-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-94c480e1f9
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,9000000,1,9000000.0,budget,nru-mof-bp1-2025,"Government of Nauru, Department of Finance and Sustainable Development",2025-08-29,62.2,same_source,o-34737f98e1
 NRU,nru-ecrcp,cbi_fiscal_revenue,FY2025/26,AUD,9000000,1,9000000.0,budget,nru-mof-bp1-2026,"Government of Nauru, Department of Finance and Sustainable Development",2026-07-20,62.2,same_source,o-9f0e87ce09
-NZL,,rbi_investment_total,2009-2024,unspecified,10,billion,10000000000.0,estimate,nzl-mbie-cab-investor-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-92684bf2b7
-NZL,,rbi_investment_total,2009-2024,unspecified,10795000000,1,10795000000.0,estimate,nzl-mbie-aip-briefings-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-78754d2d0f
+NZL,,rbi_investment_total,2009-2024,NZD,10,billion,10000000000.0,estimate,nzl-mbie-cab-investor-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-92684bf2b7
+NZL,,rbi_investment_total,2009-2024,NZD,10795000000,1,10795000000.0,estimate,nzl-mbie-aip-briefings-2024,"Ministry of Business, Innovation and Employment (proactive release)",,7.4,revision,o-78754d2d0f
 NZL,nzl-aip,applications_approved [route=pre_2025_settings],FY2023/24,applications,14,1,14.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,44.0,revision,o-e41f275ffa
 NZL,nzl-aip,applications_approved [route=pre_2025_settings],FY2023/24,applications,25,1,25.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,44.0,revision,o-5feafff40c
 NZL,nzl-aip,applications_processed [route=pre_2025_settings],FY2023/24,applications,19,1,19.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,40.6,revision,o-961221c475
@@ -4707,6 +4709,10 @@ NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,applicatio
 NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,applications,7,1,7.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,28.6,revision,o-377fb78337
 NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,persons,19,1,19.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,17.4,revision,o-db8894c49f
 NZL,nzl-aip,applications_rejected [route=pre_2025_settings],FY2023/24,persons,23,1,23.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,17.4,revision,o-dadebcf775
+NZL,nzl-aip,rbi_investment_minimum_nominated,2025-04-01/2026-03-31,NZD,3.73,billion,3730000000.0,projection,nzl-inz-aip-stats-20260410,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-04-10,4.4,vintage,o-7bc9842e27
+NZL,nzl-aip,rbi_investment_minimum_nominated,2025-04-01/2026-03-31,NZD,3.9,billion,3900000000.0,projection,nzl-mbie-cab-aip-2026,"Ministry of Business, Innovation and Employment (proactive release)",2026-06-23,4.4,vintage,o-a60b3e1b76
+NZL,nzl-aip,rbi_investment_total,2025-04-01/2026-03-31,NZD,1.42,billion,1420000000.0,actual,nzl-inz-aip-stats-20260410,"Immigration New Zealand (Ministry of Business, Innovation and Employment)",2026-04-10,4.7,conflict,o-a1a6068eb3
+NZL,nzl-aip,rbi_investment_total,2025-04-01/2026-03-31,NZD,1.49,billion,1490000000.0,reported,nzl-mbie-cab-aip-2026,"Ministry of Business, Innovation and Employment (proactive release)",2026-06-23,4.7,conflict,o-bd96f57f31
 NZL,nzl-aip,residence_permits_issued [route=pre_2025_settings],FY2023/24,persons,49,1,49.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,41.7,revision,o-fc9d6c2a83
 NZL,nzl-aip,residence_permits_issued [route=pre_2025_settings],FY2023/24,persons,84,1,84.0,actual,nzl-inz-residence-decisions-2026,Immigration New Zealand,2026-09-07,41.7,revision,o-7e0440ae49
 NZL,nzl-investor-1,applications_approved,FY2023/24,applications,51,1,51.0,provisional,nzl-inz-residence-decisions-2024,Immigration New Zealand,2024-03-05,28.2,revision,o-8aa3652fc4
@@ -4775,6 +4781,8 @@ PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,invest
 PAN,pan-qualified-investor,investment_certificates_issued,2024-07/2024-12,investors,132,1,132.0,provisional,pan-mici-press-2025-02-26,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-26,9.1,revision,o-31a42fea6c
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,115.6,million,115600000.0,provisional,pan-mici-press-2023-07-03,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-07-03,3.7,revision,o-d03224048f
 PAN,pan-qualified-investor,rbi_investment_total,2020-10/2023-07,PAB,120,million,120000000.0,claim,pan-mici-press-2023-08-02,"Ministerio de Comercio e Industrias (MICI), Panamá",2023-08-02,3.7,revision,o-6a702957f2
+PAN,pan-qualified-investor,rbi_investment_total,2024,USD,63.2,million,63200000.0,provisional,pan-mici-press-2025-08-05,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-08-05,29.8,revision,o-5655961f29
+PAN,pan-qualified-investor,rbi_investment_total,2024,USD,90,million,90000000.0,claim,pan-mici-press-2025-02-05,"Ministerio de Comercio e Industrias (MICI), Panamá",2025-02-05,29.8,revision,o-0fef9af377
 PHL,phl-srrv,agents_licensed [category=accredited_depository_banks],2021-12-31,agents,6,1,6.0,actual,phl-coa-pra-aar-2021,Commission on Audit (Philippines),2022,33.3,conflict,o-76bce434ba
 PHL,phl-srrv,agents_licensed [category=accredited_depository_banks],2021-12-31,agents,9,1,9.0,actual,phl-pra-ar-2021,Philippine Retirement Authority (PRA),2022,33.3,conflict,o-d100653247
 PHL,phl-srrv,agents_licensed [category=marketers],2023-12-31,agents,171,1,171.0,actual,phl-coa-pra-aar-2023,Commission on Audit (Philippines),2024,8.1,conflict,o-1c326d0f29
