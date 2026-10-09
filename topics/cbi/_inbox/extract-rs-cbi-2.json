@@ -1,0 +1,41 @@
+{
+ "slug": "extract-rs-cbi-2",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 pass (batch rs-cbi-2): rules each document states that were recorded only from other sources are now recorded from that document too.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "cri-inversionista",
+   "route": "fee_stamp_duty",
+   "valid_from": "2012-05-17",
+   "valid_to": "",
+   "min_amount": "125",
+   "currency": "CRC",
+   "applies_to": "fiscal stamps (especies fiscales) with the temporary investor residence application, plus CRC 2.50 per page",
+   "source_id": "cri-tse-reglamento-extranjeria-2012",
+   "location": "Reglamento de Extranjería (Decreto 37112-GOB, 2012), art. 88 (d), PDF p. 36",
+   "quote": "Comprobante de pago a favor del Gobierno por concepto de especies fiscales (¢ 125 + ¢ 2,50 por cada folio)",
+   "notes": "Stamp duty under the Ley para el Equilibrio Financiero del Sector Público; ¢ read as Costa Rican colones. valid_from as for the other rows from this Reglamento."
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "com-imf-art4-2012",
+   "status": "complete",
+   "contains": "IMF Country Report 13/32 (Comoros 2012 Article IV and fourth ECF review, Feb 2013; HTML, about 11,400 lines incl. tables, Fund relations, DSA, letter of intent, MEFP and TMU). Programme content: the footnote repeated under most tables that 2011-12 revenue includes ECP receipts of about 3% of GDP a year; Text Figure 1 note (2012 about 3%); para 8 and MEFP para 3 on 2012 (ECP receipts projected at 4.5% of GDP against a 1.4% programme target, windfall 3.1%, 1.8% saved, 1% to transport infrastructure and malaria/HIV, 0.2% short-term loan to the oil importer); para 12 (4% in 2011-12, return to about 2% in 2013); the ECP feeding the narrowing of the current account deficit (no ECP number); TMU footnote defining the ECP (2008, KMF 1 million, about US$3,000, receipts routed via the Banque de France). The fiscal tables have no separate ECP line (it sits inside nontax revenue), so no KMF amounts. The 3%, 4%, 4.5%, 1.4%, 2% rows and the KMF 1 million term were already in the data; the windfall, savings and allocation figures are added (one new indicator proposed: cbi_revenue_saved_pct_gdp). The rest of the report (growth, inflation, debt, reserves, structural reforms) is out of scope. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "cri-tse-reglamento-extranjeria-2012",
+   "status": "complete",
+   "contains": "TSE compilation (171 pp.) of the 2012 Reglamento de Extranjería: definitions (investor: own capital in activities of economic and social interest), general fees and guarantee deposit, requirements for each temporary and permanent residence and special category (pensioners, rentistas, investors, workers, students, etc.), documentation and renewal. In scope: investor articles 87-93 (US$200,000 minimum in real estate, registrable goods, shares, securities, productive or national-interest projects; US$50 application fee; documents by investment type; forestry route with US$100,000 initial investment and a 3-year management plan; no paid work), art. 179 (fees on approval: Law art. 251 amount, US$30 + US$30, US$25 a year, guarantee deposit) and art. 223 (renewal every two years with proof of the investment). The US$200,000 threshold was already recorded; fees, forestry route and renewal added. Other categories (pensionado, rentista, etc.) are not investment routes and are out of scope. No statistics. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  }
+ ]
+}

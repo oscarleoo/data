@@ -1,0 +1,190 @@
+{
+ "slug": "extract-rs-cbi-1",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 pass (batch rs-cbi-1): rules each document states that were already recorded from other sources, now recorded from this document too.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "esp-golden-visa",
+   "route": "public_debt",
+   "min_amount": "2000000",
+   "currency": "EUR",
+   "applies_to": "main investor; held for at least 5 years (art. 64 a) 3.º)",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 27 (printed p. 26), section 1.1 Inversores; also annex table, PDF p. 93",
+   "quote": "Dos (2) millones de euros en títulos de deuda pública española.",
+   "notes": "Restates Ley 14/2013 art. 63 as described by the Employment Ministry (April 2015). The report does not mention the five-year holding period; applies_to kept as on the Ley 14/2013 row so the restatement links. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "shares",
+   "min_amount": "1000000",
+   "currency": "EUR",
+   "applies_to": "main investor",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 27 (printed p. 26), section 1.1 Inversores; also annex table, PDF p. 93",
+   "quote": "Un (1) millón de euros en acciones o participaciones sociales de empresas españolas.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "bank_deposit",
+   "min_amount": "1000000",
+   "currency": "EUR",
+   "applies_to": "main investor (sole holder of the deposit)",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 27 (printed p. 26), section 1.1 Inversores; also annex table, PDF p. 93",
+   "quote": "Un (1) millón de euros en depósitos bancarios en entidades financieras españolas.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). The report does not mention sole holding; applies_to kept as on the Ley 14/2013 row so the restatement links. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "real_estate",
+   "min_amount": "500000",
+   "currency": "EUR",
+   "applies_to": "each applicant (main investor); property free of charges up to EUR 500,000",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 27 (printed p. 26), section 1.1 Inversores, point b); also annex table, PDF p. 93",
+   "quote": "La adquisición, libre de toda carga y gravamen, de bienes inmuebles en España por un valor igual o superior a quinientos mil (500.000) euros (la inversión que exceda esta suma podrá estar sometida a carga o gravamen).",
+   "notes": "Restates Ley 14/2013 art. 63 b) as described by the Employment Ministry (April 2015). Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "investment_window_before_application",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "financial routes (public debt, shares, bank deposits)",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 27 (printed p. 26), section 1.1 Inversores, point a)",
+   "quote": "La inversión, en un periodo no superior a los 60 días anteriores a la presentación de la solicitud, de, al menos:",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). The report's recommendations (PDF p. 82-83) propose lengthening this period; that is a proposal, not a rule. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "visa_validity",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "investor residence visa",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 32 (printed p. 31), table 'Mecanismos de flexibilización', row Inversores; also annex table, PDF p. 92",
+   "quote": "Podrán solicitar un visado de residencia para inversores, que será título suficiente para residir en España durante, al menos, un año.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). Annex (PDF p. 92): 'Visado = 1 año residencia en España.' Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "residence_permit_initial_validity",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "initial investor residence authorisation",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 32 (printed p. 31), table 'Mecanismos de flexibilización', row Inversores; also annex table, PDF p. 92",
+   "quote": "La duración de la misma será de dos años, renovables.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015); the sentence refers to the 'autorización de residencia para inversores'. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "residence_permit_renewal_validity",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "renewal of investor residence authorisation",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 92, annex 'Comparativa entre la Ley Orgánica 4/2000 ... y la Ley 14/2013', Inversores, Entrada",
+   "quote": "Autorización de residencia: dos años, prorrogables por periodos de dos años.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "physical_presence",
+   "min_amount": "1",
+   "currency": "visits",
+   "applies_to": "applicant for the investor residence authorisation",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 32 (printed p. 31), table 'Mecanismos de flexibilización', row Inversores, 'Aspectos a destacar'; also annex table, PDF p. 93",
+   "quote": "bastará con haber viajado a España una vez durante el periodo autorizado para residir.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). Annex (PDF p. 93): 'haber viajado al menos una vez a España'. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "dependant_child_max_age",
+   "min_amount": "18",
+   "currency": "years",
+   "applies_to": "children of the investor who may apply as family members (or adult children unable to provide for themselves for health reasons)",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 33 (printed p. 32), section 2.2 a); also annex table, PDF p. 94",
+   "quote": "la posibilidad de que el cónyuge y los hijos menores de 18 años, o mayores de edad que no sean objetivamente capaces de proveer sus propias necesidades por motivos de salud, puedan solicitar conjunta y simultáneamente (o, en su caso, sucesivamente), la autorización",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015); applies to all Ley 14/2013 categories, including investors (annex, PDF p. 94). Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "criminal_record_lookback",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "visa and residence-authorisation applicants",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 36 (printed p. 35), section 3 a), requisitos relativos a la seguridad iii)",
+   "quote": "Carecer de antecedentes penales en España y en los países donde haya residido durante los últimos cinco años, por delitos previstos como tales en el ordenamiento jurídico español.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015); general requirement for all Ley 14/2013 categories. Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "esp-golden-visa",
+   "route": "applicant_min_age",
+   "min_amount": "18",
+   "currency": "years",
+   "applies_to": "visa and residence-authorisation applicants (all Ley 14/2013 categories)",
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "location": "PDF p. 36 (printed p. 35), section 3 a), requisitos de carácter formal i)",
+   "quote": "Ser mayor de 18 años de edad.",
+   "notes": "Restates Ley 14/2013 as described by the Employment Ministry (April 2015). Validity dates not stated in the report.",
+   "valid_from": "",
+   "valid_to": ""
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "dma-imf-wp-15-93",
+   "status": "partial",
+   "contains": "IMF Working Paper WP/15/93 (May 2015) on managing inflows from economic citizenship programmes. Same PDF (same SHA-256) as sources intl-imf-wp-15-93 and kna-imf-wp-15-93. Dominica content: Table 1 (inception 1993, minimum USD 100,000; already recorded), Table 3 (contribution to government US$100,000, or US$50,000 plus real estate US$200,000; added as terms), Box 1 (ECP fees to the budget under 1% of GDP in 2008 and 3.4% in 2013; both now recorded) and a Dominica chart without printed values. Everything else is about other programmes (St. Kitts and Nevis SIDF tables, Malta, Portugal, US EB-5, Pacific trust funds) or general policy. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": "Non-Dominica content is not extracted under this source id, to avoid a third copy of the same rows: Table 1 minimum investments for the other 19 programmes, Table 3 columns for Antigua, Grenada, St. Kitts, Cyprus and Malta, Box 5 SIDF expenditure/surplus lines, SIDF direct spending table and consolidated SIDF/government account, Box 2 KNA fiscal balance statistics, Malta (1,800 cap, 50-100 approvals a year, EUR 650,000 contribution), Portugal (EUR 1.11 billion since Oct 2012; 75-80% of Golden Visas to Chinese) and US EB-5 (81% Chinese in 2013). Extract these once under intl-imf-wp-15-93 or kna-imf-wp-15-93. Figures 1, 2a and the Box 1 charts have no printed values."
+  },
+  {
+   "source_id": "dma-mof-estimates-2019-20",
+   "status": "partial",
+   "contains": "Draft estimates 2019/20 (445 pages): same structure. Programme content: the CBI revenue line in the revenue summary (every column now recorded: actual, prior-year estimate, prior-year projected/revised, budget year and two forward years as projection), the revenue detail by item (16501 programme account, 16503 agency fees, 16504 Economic Diversification Fund / Investment Fee, 16505 application fee, 16506 due diligence, 16507 certificate of naturalization; recorded as cbi_fiscal_revenue with category=; items add up to the printed total within EC$1 rounding), the Citizenship by Investment Unit expenditure programme D31 F200 F22 (every object line and the total, six columns: authorised budget, actual, approved estimates, budget year, two forward years; object 354 'CBI Administrative Expenses'/'Citizenship by Investment Programme' = CBI marketing and due diligence; lines add up to the printed total), and the pie-chart share (51%, OCR). The Ministry of Finance summary and three-year object summary repeat the CBI Unit's object 354 amounts (recorded once). Not recorded: PSIP project C1450 (CBI - GOCD/IDA/CIF, mixed funding), 13505 Citizenship Application Fees (ordinary naturalisation). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": "The share of object 354 in recurrent expenditure on the 'analysis of recurrent expenditure' image table (PDF p. 8) could not be read: the embedded image is 99 ppi and OCR (also after 3x upscaling) returns no legible figures. Needs a manual reading of the page."
+  },
+  {
+   "source_id": "esp-meyss-informe-movilidad-2015",
+   "status": "partial",
+   "contains": "Employment Ministry report (April 2015, 105 pp.) on the first year of the Ley 14/2013 mobility section (30 Sep 2013 - 31 Dec 2014). In scope and recorded: investor grants by route (Cuadro 1 and 3, counts existing; route shares of grants and of investment added; business-project investment EUR 39,533,600 as estimate); real-estate grants and investment by nationality (Cuadro 4: euros, 'Resto' and both percentage columns added); average real-estate investment for Russian, Chinese, Venezuelan and US investors; investments above EUR 1 million (Russia 33, China 6); grants by province (Cuadro 5) and investment for Barcelona, Málaga, Madrid; financial-asset grants and investment by nationality (Cuadro 6) and business-project grants by nationality (Cuadro 7); 18 favourable general-interest reports; estimated direct jobs (Cuadro 18: real estate 1,127, financial 114, business projects 374); investors' 17% share of all Ley 14/2013 grants; fees of the Orden ESSI/1571/2014 (EUR 70.40 initial, 75.60 renewal); statutory deadlines. All tables add up to their printed totals. Out of scope: entrepreneurs, highly-qualified, researchers, intra-company transfers, family members of all categories (2,461), the EUR 694 million and 12,685 jobs totals for all categories, the press section (NYT etc. figures cover all categories), conclusions restating the same totals, and the annex comparing Ley 14/2013 with the general regime (rules already recorded from the BOE). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": "Figure 5 (PDF p. 55, 'Evolución de la inversión en inmuebles', monthly real-estate investor visas Oct 2013 - Dec 2014) is a bar chart with no printed values: cannot be extracted. Not recorded, pending a decision: Cuadro 4 subtotal row 'Suma 7 principales' (394 grants, 80,4%, EUR 297,756,029, 80,5%) and text group shares (Russia+China 68,8% of real-estate grants; Barcelona+Málaga+Madrid 75,7%), which have no breakdown value for a group of nationalities or provinces; and the text's rounded repeats of table values (92,5% / 5,5% / 2,3% route shares, 8,4%, 20,2%, 15,1%, 369,7 and 37,5 million), noted on the table rows instead."
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "slug": "extract-rs-whistleblowing-3",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 pass over 40 SEC whistleblower award orders: every programme rule an order restates (Rule 21F-6(c) $5 million presumption and 30% statutory maximum, $1,000,000 sanctions threshold, 10-30% range, 60- and 90-day deadlines, 30-day Form TCR waiver, Rule 21F-4(d)(2) aggregation of proceedings of $1,000,000 or less) is now recorded from that order, quoted from it.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "60",
+   "unit": "days",
+   "applies_to": "written response contesting a Preliminary Determination (from its date, or from when the record materials are made available)",
+   "source_id": "usa-sec-wb-order-34-72652",
+   "location": "p. 1, para 2",
+   "quote": "provided written notice to the Commission of their decisions not to contest the Preliminary Determination within the 60-day deadline set out in Rule 21F-10(e)",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "60",
+   "unit": "days",
+   "applies_to": "written response contesting a Preliminary Determination (from its date, or from when the record materials are made available)",
+   "source_id": "usa-sec-wb-order-34-76000",
+   "location": "p. 2, para 1 (sentence begins on p. 1)",
+   "quote": "Determination within the 60-day deadline set out in Rule 21F-10(e)",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "60",
+   "unit": "days",
+   "applies_to": "written response contesting a Preliminary Determination (from its date, or from when the record materials are made available)",
+   "source_id": "usa-sec-wb-order-34-76025",
+   "location": "pp. 1-2, para 2",
+   "quote": "decision not to contest the Preliminary Determination within the 60-day",
+   "notes": "Sentence continues on p. 2: \"deadline set out in Rule 21F-10(e)\"."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-90189",
+   "location": "p. 1, footnote 2",
+   "quote": "does not qualify as a Covered Action in its own right because the monetary sanctions ordered were less than $1,000,000",
+   "notes": "Stated negatively: a proceeding with sanctions below $1,000,000 does not qualify as a Covered Action in its own right. A redaction label sits inside the line in the PDF text layer."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "related_proceeding_aggregation_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "later Commission proceeding from the same nucleus of operative facts with monetary sanctions of $1,000,000 or less: deemed part of the covered action for award payment (Rule 21F-4(d)(2))",
+   "source_id": "usa-sec-wb-order-34-90189",
+   "location": "p. 2, footnote 2 (continued)",
+   "quote": "any subsequent Commission proceeding that, individually, results in a monetary sanction of $1,000,000 or less, and that arises out of the same nucleus of operative facts",
+   "notes": "Proposed rule (not in DATA_MODEL list): Rule 21F-4(d)(2) deems a later proceeding with sanctions of $1,000,000 or less, arising from the same nucleus of operative facts, part of the covered action for payment. The order quotes the rule text."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-90537",
+   "location": "p. 2, footnote 3",
+   "quote": "led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in the definition of a related action (Section 21F(a)(5), Rule 21F-3(b))."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "days",
+   "applies_to": "submitting Form TCR after first providing the information, or after notice of the requirement (automatic waiver of the TCR rules)",
+   "source_id": "usa-sec-wb-order-34-90580",
+   "location": "p. 2, footnote 3",
+   "quote": "if he/she submits the Form TCR within 30 days of learning of the requirements",
+   "notes": "New Rule 21F-9(e) in the amendments adopted 23 Sep 2020; the order says they \"will become effective 30 days after publication in the Federal Register\" and prints no date, so valid_from is left empty. The order also says claimants with counsel are deemed to have constructive notice and are not entitled to the automatic waiver."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-90720",
+   "location": "p. 1, footnote 1",
+   "quote": "In determining whether the required $1,000,000 threshold has been satisfied",
+   "notes": "Quoting Rule 21F-16 (sanctions the whistleblower pays, or against an entity whose liability rests substantially on conduct the whistleblower directed, planned or initiated, are not counted)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-90867",
+   "location": "p. 2, para 1",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-90867",
+   "location": "p. 2, para 1",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-91183",
+   "location": "p. 1, footnote 1",
+   "quote": "results in monetary sanctions totaling more than $1,000,000",
+   "notes": "Quoting Rule 21F-11(a) (related-action awards)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) for a related action whose final order is entered after the claim on the Commission action: from the final order in the related action",
+   "source_id": "usa-sec-wb-order-34-91183",
+   "location": "p. 1, footnote 1",
+   "quote": "you must submit your claim on Form WB-APP [ ] within ninety (90) days of the issuance of a final order imposing sanctions in the related action.",
+   "notes": "Quoting Rule 21F-11(b)(2)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-91525",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30 percent where the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-91525",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30 percent where the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-91651",
+   "location": "p. 1, footnote 1",
+   "quote": "led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in the definition of a related action (Section 21F(a)(5), Rule 21F-3(b))."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-91651",
+   "location": "p. 2, para 2",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-91651",
+   "location": "p. 2, para 2",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-91896",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-91896",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) after posting of the Notice of Covered Action",
+   "source_id": "usa-sec-wb-order-34-91903",
+   "location": "p. 3, Part I.B (sentence begins on p. 2)",
+   "quote": "whistleblower award applications within 90 days",
+   "notes": "Sentence begins on p. 2: \"the Office of the Whistleblower posted the above-referenced Notice of Covered Action on the Commission’s public website inviting claimants to submit\"; footnote 6 cites Rule 21F-10(a)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-91903",
+   "location": "p. 3, footnote 9",
+   "quote": "the total amount awarded to the meritorious claimants in the aggregate shall not be less than 10 percent and not greater than 30 percent",
+   "notes": "Footnote 9 also says: \"Ten percent is the minimum statutory award when there is a single meritorious claimant, and thirty percent the maximum.\" Cites Rule 21F-5."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-91903",
+   "location": "p. 3, footnote 9",
+   "quote": "the total amount awarded to the meritorious claimants in the aggregate shall not be less than 10 percent and not greater than 30 percent",
+   "notes": "Footnote 9 also says: \"Ten percent is the minimum statutory award when there is a single meritorious claimant, and thirty percent the maximum.\" Cites Rule 21F-5."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92100",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92100",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-92212",
+   "location": "p. 4, Part III",
+   "quote": "the Commission obtained monetary sanctions totaling more than $1,000,000",
+   "notes": "Restating the award criteria of Rule 21F-3(a)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92212",
+   "location": "p. 4, Part III",
+   "quote": "which must be between 10% and 30% of the monetary sanctions collected",
+   "notes": "Restating Rule 21F-5(b)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92212",
+   "location": "p. 4, Part III",
+   "quote": "which must be between 10% and 30% of the monetary sanctions collected",
+   "notes": "Restating Rule 21F-5(b)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "related_proceeding_aggregation_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "later Commission proceeding from the same nucleus of operative facts with monetary sanctions of $1,000,000 or less: deemed part of the covered action for award payment (Rule 21F-4(d)(2))",
+   "source_id": "usa-sec-wb-order-34-92212",
+   "location": "p. 6, Part IV",
+   "quote": "if $1 million or less is ordered in monetary sanctions",
+   "notes": "Proposed rule (not in DATA_MODEL list): Rule 21F-4(d)(2) deems a later proceeding with sanctions of $1,000,000 or less, arising from the same nucleus of operative facts, part of the covered action for payment. Applied to a separate pending proceeding \"pursuant to Rule 21F-4(d)(2)\"; also on p. 3, Part I.B (\"if $1 million or less are ordered in monetary sanctions\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92248",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92248",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92251",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92251",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92412",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92412",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92413",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92413",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "filing_deadline_days",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "90",
+   "unit": "days",
+   "applies_to": "claim (Form WB-APP) after posting of the Notice of Covered Action",
+   "source_id": "usa-sec-wb-order-34-92708",
+   "location": "p. 2, Part I.A",
+   "quote": "inviting claimants to submit whistleblower award applications within 90 days",
+   "notes": "Footnote 3 cites Rule 21F-10(a)."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-92767",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-92767",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "related_proceeding_aggregation_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "later Commission proceeding from the same nucleus of operative facts with monetary sanctions of $1,000,000 or less: deemed part of the covered action for award payment (Rule 21F-4(d)(2))",
+   "source_id": "usa-sec-wb-order-34-92780",
+   "location": "p. 1, footnote 1",
+   "quote": "in the event monetary sanctions of $1 million or less are ordered in the enforcement action",
+   "notes": "Proposed rule (not in DATA_MODEL list): Rule 21F-4(d)(2) deems a later proceeding with sanctions of $1,000,000 or less, arising from the same nucleus of operative facts, part of the covered action for payment. Applied to a named (redacted) enforcement action; this order cites Rule 21F-4(d)(1), as printed."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-93016",
+   "location": "p. 1, footnote 1",
+   "quote": "led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in the definition of a related action (Section 21F(a)(5), Rule 21F-3(b))."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93016",
+   "location": "p. 2, para 1",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93016",
+   "location": "p. 2, para 1",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93275",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93275",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_presumption_max_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less",
+   "source_id": "usa-sec-wb-order-34-93370",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "of monetary sanctions the Commission and other authorities collect, all whistleblowers in total",
+   "source_id": "usa-sec-wb-order-34-93370",
+   "location": "p. 1, para 3",
+   "quote": "presumption of a statutory maximum award of 30% where (1) the maximum award would be $5 million or less",
+   "notes": "Stated within the Rule 21F-6(c) presumption sentence (\"presumption of a statutory maximum award of 30%\")."
+  },
+  {
+   "program_id": "usa-sec-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "monetary sanctions in the Commission action (must total more than)",
+   "source_id": "usa-sec-wb-order-34-93465",
+   "location": "p. 1, footnote 1",
+   "quote": "led the Commission to obtain monetary sanctions totaling more than $1,000,000",
+   "notes": "Stated in the definition of a related action, quoting an earlier order (Release No. 82966)."
+  }
+ ],
+ "cases": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "usa-sec-wb-order-34-104145",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 104145 (30 Sep 2025, File No. 2025-61, 2 pp., redacted): award of a redacted percentage, no current payment because nothing collected (already recorded); no other claimants. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-72652",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 72652 (22 Jul 2014, File No. 2014-6, 2 pp., redacted): awards of 15%, 10% and 5% (30% total) to three claimants (already recorded; no dollar amount, covered action redacted); no denials. Nothing new as a row; suggested note correction (dates of procedure). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-76000",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 76000 (28 Sep 2015, File No. 2015-7, 2 pp., redacted): awards of 11% and 9% (20% total) to two claimants (already recorded; no dollar amount); no denials. Nothing new as a row; suggested note correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-76025",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 76025 (29 Sep 2015, File No. 2015-8, 2 pp., redacted): 28% award to one claimant (already recorded; no dollar amount); no denials. Nothing new as a row; suggested note correction (existing note wrongly says the percentage is redacted). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-80115",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 80115 (28 Feb 2017, File No. 2017-7, 2 pp., redacted): 20% award to one claimant (already recorded; no dollar amount), reduced for culpability and unreasonable reporting delay; no denials. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-89355",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 89355 (21 Jul 2020, File No. 2020-24, 2 pp., redacted): 30% award to one claimant (already recorded; no dollar amount, no collections yet); no denials. Restates Rule 21F-6 factors. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90189",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90189 (15 Oct 2020, File No. 2021-1, 2 pp., redacted): award of more than $800,000 (already recorded) after the Commission reversed a preliminary denial; two related proceedings folded into the Covered Action (one with sanctions under $1,000,000; restates Rule 21F-4(d)); no other claimants. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90350",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90350 (5 Nov 2020, File No. 2021-5, 2 pp., redacted): award of approximately $3.6 million (already recorded), percentage raised by the CRS after the claimant contested; misconduct abroad; culpability not penalised; no other claimants. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90351",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90351 (5 Nov 2020, File No. 2021-6, 2 pp., redacted): award of about $750,000 (already recorded); percentage, covered action, sanctions redacted; no other claimants. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90460",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90460 (19 Nov 2020, File No. 2021-8, 2 pp., redacted): award of more than $900,000 (already recorded); overseas violations; no other claimants. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90468",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90468 (20 Nov 2020, File No. 2021-9, 2 pp., redacted): 30% award (already recorded) on a Ponzi scheme with no collections; no other claimants. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90506",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90506 (24 Nov 2020, File No. 2021-10, 2 pp., redacted): 30% award (already recorded; minimal collections); tip triggered an examination then an investigation; footnote 1 fully redacted. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90537",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 90537 (1 Dec 2020, File No. 2021-11, 3 pp., redacted): joint award of over $6 million to two claimants (already recorded), same percentage in the covered action and a related action by another agency; 50/50 split by default; no denials. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90580",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 90580 (7 Dec 2020, File No. 2021-13, 3 pp., redacted): awards of approximately $500,000 (Claimant 1, with a Section 36(a) waiver of the TCR filing rules) and approximately $250,000 (Claimant 2), both already recorded; footnote 3 mentions the 23 Sep 2020 rule amendments (new Rule 21F-9(e)), already in events from another source; no denials. Nothing new as a row; suggested note corrections for both rows. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90656",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90656 (14 Dec 2020, File No. 2021-15, 3 pp., heavily redacted, footnotes 6-8 and much of p. 3 redacted): award of approximately $300,000 (already recorded) to a claimant with audit-related duties qualifying under the impeding-investigation exception; no other claimants. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90720",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90720 (18 Dec 2020, File No. 2021-17, 2 pp., redacted): award of more than $1.2 million (already recorded) after the Commission overrode the CRS's recommended denial under Rule 21F-16; reduced for culpability and delay; no other claimants. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90866",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90866 (7 Jan 2021, File No. 2021-21, 2 pp., redacted): award of nearly $600,000 (already recorded); claimant reported internally first; no other claimants mentioned. Nothing new as a row; suggested note correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-90867",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 90867 (7 Jan 2021, File No. 2021-22, 3 pp., redacted): award of more than $100,000 (already recorded) for independent analysis of public information; 30% presumption overcome by limited assistance; restates Rule 21F-6(c) and cites Release No. 34-89963 (rules already recorded); no other claimants. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-91183",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 91183 (23 Feb 2021, File No. 2021-28, 2 pp., redacted): award of more than $9.2 million on DOJ related actions (already recorded), one being a DOJ prosecution agreement treated as a related action under the Dec 2020 amendments (rule change already an event); restates Rule 21F-11 and 21F-6 criteria. No other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-91525",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 91525 (9 Apr 2021, File No. 2021-38, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded), no collections to date; footnote 1: second claimant denied (uncontested). Added: 1 denial row; suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-91651",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 91651 (23 Apr 2021, File No. 2021-43, 3 pp., redacted): 30% award on covered and related actions under the Rule 21F-6(c) presumption (already recorded); deemed-satisfied sanctions, no double counting; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-91896",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 91896 (14 May 2021, File No. 2021-47, 2 pp., poor text layer): 30% award under the Rule 21F-6(c) presumption (already recorded); footnote 5 treats investor distributions as collected sanctions (same approach already recorded as an event from Release 90721). No other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-91903",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 91903 (17 May 2021, File No. 2021-49, 9 pp., redacted): awards of approximately $750,000 (Claimant 1) and approximately $3,750,000 (Claimant 2, eligible on reconsideration) (both already recorded); Claimant 1 related-action claim denied; Claimant 3 denied (uncontested); Claimants 4 and 5 denied after contest; restates 10-30% aggregate award range (rule already recorded). Added: 4 denial rows; suggested corrections (Claimant 2 note wrongly says \"over\"). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92100",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92100 (3 June 2021, File No. 2021-56, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections, so no payment; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92212",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92212 (21 June 2021, File No. 2021-62, 7 pp., heavily redacted; p. 7 also OCRed): awards of over $1,000,000 (Claimant 1) and joint over $270,000 (Claimants 2 and 3) (both already recorded); joint claimants' contest rejected; Rule 21F-4(d)(2) extension to a pending proceeding; restates 10-30% range (already recorded). No denials. Suggested summary/notes corrections for both rows. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92248",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92248 (24 June 2021, File No. 2021-66, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92251",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92251 (24 June 2021, File No. 2021-65, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92412",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92412 (15 July 2021, File No. 2021-72, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92413",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92413 (15 July 2021, File No. 2021-73, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92708",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 92708 (19 Aug 2021, File No. 2021-83, 5 pp., redacted): award to Claimant 1, percentage and amount redacted (already recorded); Claimants 2 and 3 denied (uncontested); Claimant 4 denied after contest, plus related-action denial. Added: 2 denial rows; suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92767",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92767 (26 Aug 2021, File No. 2021-84, 2 pp.): 30% award under the Rule 21F-6(c) presumption to a harmed investor (already recorded); no collections, so no payment; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-92780",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 92780 (27 Aug 2021, File No. 2021-87, 3 pp., redacted; p. 3 also OCRed): award of more than $350,000 for independent analysis of a microcap promotion (already recorded); percentage redacted; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93016",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93016 (16 Sept 2021, File No. 2021-93, 3 pp., redacted): joint 30% award to two claimants on covered and related action under the Rule 21F-6(c) presumption (already recorded; award_pct field empty, correction suggested); no collections; no other claimants. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93275",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93275 (8 Oct 2021, File No. 2022-3, 2 pp.): 30% award under the Rule 21F-6(c) presumption (already recorded); no collections to date; no other claimants. Suggested summary/notes correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93286",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93286 (12 Oct 2021, File No. 2022-4, 2 pp., redacted): award of almost $1.3 million (already recorded), percentage redacted; information prompted the investigation. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93340",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claims, Release No. 93340 (15 Oct 2021, File No. 2022-6, 2 pp., redacted): one claimant, two covered actions, current payout more than $300,000 (already recorded), percentage redacted. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93370",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93370 (18 Oct 2021, File No. 2022-7, 2 pp., redacted): award of approximately $400,000 (already recorded); maximum-award presumption not applied for unreasonable delay (about four years) and culpability; restates Rule 21F-6 factors. Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93440",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93440 (28 Oct 2021, File No. 2022-9, 2 pp., heavily redacted): award of approximately $24,000 (already recorded); assistance enabled an emergency action. Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93441",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93441 (28 Oct 2021, File No. 2022-10, 2 pp., redacted): award of approximately $750,000 (already recorded). Nothing new as a row; suggested note and summary correction. Checked again for rules restated from other sources (decision 8): the order states none beyond its own award, so no rule rows added.",
+   "to_do": ""
+  },
+  {
+   "source_id": "usa-sec-wb-order-34-93465",
+   "status": "complete",
+   "contains": "SEC Order Determining Whistleblower Award Claim, Release No. 93465 (29 Oct 2021, File No. 2022-11, 2 pp., redacted): related-action award of more than $2,000,000 on a DOJ agreement (already recorded); footnote 1 restates the related-action definition, the $1,000,000 threshold and the Dec 2020 amendment treating DOJ agreements as administrative actions (already in rules and events). Nothing new as a row; suggested note and summary correction. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  }
+ ]
+}

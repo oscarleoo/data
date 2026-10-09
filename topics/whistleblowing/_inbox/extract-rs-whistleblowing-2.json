@@ -1,0 +1,220 @@
+{
+ "slug": "extract-rs-whistleblowing-2",
+ "researched_on": "2026-10-09",
+ "summary": "Decision 8 pass for batch rs-whistleblowing-2: rules each document states that were already recorded from other sources are now recorded from that document too.",
+ "sources": [],
+ "observations": [],
+ "program_rules": [
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "sanctions_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "1000000",
+   "unit": "USD",
+   "applies_to": "covered judicial or administrative action (must exceed)",
+   "source_id": "usa-cftc-wb-ar-2017",
+   "location": "PDF p. 2 (printed 1), footnote 3",
+   "quote": "A “covered judicial or administrative action” is “any judicial or administrative action brought by the Commission under [the CEA] that results in monetary sanctions exceeding $1,000,000.” 7 U.S.C. § 26(a)(1).",
+   "notes": "Quotes the statute. Also restated at PDF p. 7 (NCAs posted for orders imposing \"more than $1 million in monetary sanctions\") and in Note 5 (\"monetary sanctions exceeding $1 million\")."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "fund_replenishment_threshold",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "100000000",
+   "unit": "USD",
+   "applies_to": "sanctions go to the Customer Protection Fund only while its balance is at or below this level",
+   "source_id": "usa-cftc-wb-ar-2017",
+   "location": "PDF p. 25, Notes to the financial statements, Note 1.H",
+   "quote": "Per the Act, no sanction collected by the Commission can be deposited into the Fund if the Fund’s balance exceeds $100 million.",
+   "notes": "Also stated in Note 1.G (PDF p. 24): \"unless the balance of the Fund at the time the monetary judgment is collected exceeded $100 million\"."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "monetary sanctions collected",
+   "source_id": "usa-cftc-wb-order-24-wb-02-2024",
+   "location": "p. 3, Section III (Legal Analysis), Rule 165.9 framework",
+   "quote": "Not satisfying any one of the positive factors does not mean that the award percentage must be less than 30%, and the converse is true.",
+   "notes": "The order states the 10-30% range through its description of the Rule 165.9 framework, not as a separate sentence; the same paragraph adds that a significant whistleblower 'could receive 30%'."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "monetary sanctions collected",
+   "source_id": "usa-cftc-wb-order-24-wb-02-2024",
+   "location": "p. 3, Section III (Legal Analysis), Rule 165.9 framework",
+   "quote": "Not having any one of the negative factors does not mean the award percentage must be greater than 10%.",
+   "notes": "The order states the 10-30% range through its description of the Rule 165.9 framework; the same paragraph adds that a whistleblower with limited assistance 'may receive 10%'."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "discretionary",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "0",
+   "unit": "",
+   "applies_to": "whether an award must be paid to an eligible whistleblower",
+   "source_id": "usa-cftc-wb-order-24-wb-02-2024",
+   "location": "p. 2, Section III (Legal Analysis)",
+   "quote": "Section 23(b)(1) of the CEA requires the Commission to pay an award to an individual who voluntarily provides the Commission with original information that leads to the successful enforcement of a covered or related action.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_max",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "30",
+   "unit": "percent",
+   "applies_to": "monetary sanctions collected",
+   "source_id": "usa-cftc-wb-order-24-wb-03-2024",
+   "location": "p. 4, Section III (Legal Analysis), Rule 165.9 framework",
+   "quote": "Not satisfying any one of the positive factors does not mean that the award percentage must be less than 30%, and the converse is true.",
+   "notes": "The order states the 10-30% range through its description of the Rule 165.9 framework, not as a separate sentence; the same paragraph adds that a significant whistleblower 'could receive 30%'."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "award_pct_min",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "10",
+   "unit": "percent",
+   "applies_to": "monetary sanctions collected",
+   "source_id": "usa-cftc-wb-order-24-wb-03-2024",
+   "location": "p. 4, Section III (Legal Analysis), Rule 165.9 framework",
+   "quote": "Not having any one of the negative factors does not mean the award percentage must be greater than 10%.",
+   "notes": "The order states the 10-30% range through its description of the Rule 165.9 framework; the same paragraph adds that a whistleblower with limited assistance 'may receive 10%'."
+  },
+  {
+   "program_id": "usa-cftc-wb",
+   "rule": "discretionary",
+   "valid_from": "",
+   "valid_to": "",
+   "value": "0",
+   "unit": "",
+   "applies_to": "whether an award must be paid to an eligible whistleblower",
+   "source_id": "usa-cftc-wb-order-24-wb-03-2024",
+   "location": "p. 3, Section III (Legal Analysis)",
+   "quote": "Section 23(b)(1) of the CEA requires the Commission to pay an award to an individual who voluntarily provides the Commission with original information that leads to the successful enforcement of a covered or related action.",
+   "notes": ""
+  },
+  {
+   "program_id": "usa-treasury-karrp",
+   "rule": "annual_award_cap",
+   "valid_from": "2021-01-01",
+   "valid_to": "2024-01-01",
+   "value": "25000000",
+   "unit": "USD",
+   "applies_to": "all rewards in a calendar year, unless waived by the President",
+   "source_id": "usa-congress-pl116-283-2021",
+   "location": "Sec. 9703(d)(2), 134 Stat. 4835 (PDF p. 1449)",
+   "quote": "the total amount of rewards paid pursuant to this section may not exceed $25 million in any calendar year.",
+   "notes": "Valid from enactment (1 Jan 2021, printed in the page header); sec. 9703(i) ends the pilot 'three years after the date of the enactment of this Act' (PDF p. 1451), i.e. 1 Jan 2024, as on the row from the HTML copy of the same law."
+  },
+  {
+   "program_id": "usa-treasury-karrp",
+   "rule": "award_cap",
+   "valid_from": "2021-01-01",
+   "valid_to": "2024-01-01",
+   "value": "5000000",
+   "unit": "USD",
+   "applies_to": "per reward, unless the Secretary personally authorizes more and notifies Congress",
+   "source_id": "usa-congress-pl116-283-2021",
+   "location": "Sec. 9703(e)(2), 134 Stat. 4836 (PDF p. 1450)",
+   "quote": "No reward paid under this section may exceed $5 million, unless the Secretary",
+   "notes": "Validity as for the annual cap: enactment 1 Jan 2021 to the three-year sunset in sec. 9703(i)."
+  },
+  {
+   "program_id": "usa-treasury-karrp",
+   "rule": "discretionary",
+   "valid_from": "2021-01-01",
+   "valid_to": "2024-01-01",
+   "value": "1",
+   "unit": "",
+   "applies_to": "",
+   "source_id": "usa-congress-pl116-283-2021",
+   "location": "Sec. 9703(b), 134 Stat. 4834 (PDF p. 1448)",
+   "quote": "The Secretary of the Treasury may, with the concurrence of the Secretary of State and the Attorney General, and in consultation, as appropriate, with the heads of other relevant Federal departments and agencies, pay a reward to any individual",
+   "notes": "The Secretary 'may' pay. Validity as for the caps."
+  }
+ ],
+ "cases": [],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "usa-cftc-wb-ar-2017",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC report to Congress for FY2017 (28 pp.; pp. 6-7 are scanned images with an OCR text layer): no awards paid, 2 Final Orders denying 2 applications; 2017 rule amendments (proposed Aug 2016, effective 31 Jul 2017; events and the 90-day filing rule); Preliminary Determinations over $45 million after the rules took effect; award history (four awards, ~$11 million; already recorded); 465 TCRs with Figure 1 FY2012-2017 and 110 non-whistleblower tips (61 e-mails/other + 49 SEC referrals); 30 NCAs; 74 award claims with Figure 2 FY2012-2017; outreach (30,000 e-mail subscribers, 111,000 page views: no indicator, not recorded); confidentiality reviews of document requests (new indicator); customer education (out of scope); fund table incl. $45.5 million contingent award claims (checks exactly); OIG memo (balance matches); auditors' report; financial statements. Figure values were read by OCR from the chart images (text layer lacks them). Percent increases (70%, 25%) are the source's own calculations and are not recorded. Not extracted, judged out of scope as fund accounting detail: Fund Balance with Treasury, investments, prepayments, payables, leave, software, overhead allocation ($918,000), budgetary resources, cash flow, comparatives. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-order-24-wb-02-2024",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC Order Determining Whistleblower Award Claims 24-WB-02 (public version, 4 pp., 4 Jan 2024): award of 20% of sanctions collected to Claimant 1, whose complaint opened the investigation but who gave limited further help (already recorded); denial of Claimant 2. Sanctions ordered, amounts collected, payment amounts, dates and the defendant are redacted; the order does not say whether either claimant was an insider. General text on how award percentages are set (10-30% framework, Rule 165.9) restates rules already in the data. Added: the Claimant 2 denial as its own case row. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-order-24-wb-03-2024",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC Order Determining Whistleblower Award Claims 24-WB-03 (public version, 5 pp., 4 Jan 2024): award to Claimant 1 (a fraud victim who complained through an attorney) on a CFTC covered action and a related action, $4,247.22 paid so far on the covered action and zero so far on the related action (already recorded); denial of Claimant 2. Percentages, sanctions ordered and collected, the related-action fine, dates and defendants are redacted. General text on award percentages restates rules already in the data. Added: the Claimant 2 denial as its own case row. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-pr-6933-14",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC press release 6933-14 (20 May 2014): first CFTC whistleblower award, \"approximately $240,000\" (case already recorded, c-fa652e5107); quotes from officials (more high-quality tips, no figures); programme basics: awards for actions with more than $1 million in sanctions, 10-30% of monies collected, related actions, anti-retaliation. Added the threshold and percentage rules as restated here. \"First award\" is a word, not recorded as a count. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-pr-7254-15",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC press release 7254-15 (29 Sep 2015): second award, \"approximately $290,000\" (case already recorded, c-97862e04cf); back-reference to the first award of $240,000 on 20 May 2014 (already recorded from its own order and release, not added again); programme basics (threshold over $1 million, 10-30%, awards paid from the Customer Protection Fund financed by sanctions); official quotes (tips growing, no figures). Added threshold and percentage rules as restated. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-pr-7351-16",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC press release 7351-16 (4 Apr 2016): award of \"more than $10 million\" (order 16-WB-06; case already recorded, c-b18441e896), largest to date and the third award; confidentiality, programme rules (threshold $1,000,000, related actions, 10-30%, Customer Protection Fund, anti-retaliation); back-reference to the Sept 2015 award of about $290,000 (not added again). Added threshold and percentage rules as restated. Ordinal \"third award\" not turned into a count. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-cftc-wb-pr-7411-16",
+   "status": "complete",
+   "to_do": "",
+   "contains": "CFTC press release 7411-16 (26 Jul 2016): fourth award, \"approximately $50,000\" (order 16-WB-08; case already recorded, c-20facbf469), third award in 10 months; the award \"represents between 10 percent and 30 percent of the monetary sanctions collected to date\" (a range, not a stated percentage, so award_pct left empty); programme rules; back-reference to the April 2016 award of more than $10 million (not added again). Added threshold and percentage rules as restated. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-congress-pl116-283-2021",
+   "status": "complete",
+   "to_do": "",
+   "contains": "NDAA for FY2021 (Pub. L. 116-283, 1,482 pp.). In scope: sec. 6314 (AML Act of 2020, rewrites 31 U.S.C. 5323: $1,000,000 threshold, awards up to 30% subject to appropriations, discretion, exclusions, anonymous claims through counsel, 30-day appeal, anti-retaliation via Labor Department/district court with 6/3/10-year limits and 2x back pay, confidentiality; repeals 5328; PDF pp. 1211-1217) and sec. 9701-9703 (Kleptocracy Asset Recovery Rewards pilot: $450,000 authorised for FY2021, $25 million annual cap, $5 million per-reward cap, perjury attestation, exclusions, reports, 3-year sunset; PDF pp. 1447-1452). The kleptocracy cap rules and enactment event were already taken from the HTML copy of the same law (usa-pl-116-283-ndaa-fy2021, a different file); not duplicated here, only the perjury rule and the FY2021 authorisation added. Sec. 1238 (State Department rewards for information on foreign election interference) is an informant-reward programme outside the dataset; not recorded. Rest out of scope. Added 7 rules and 1 observation (new indicator). Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-doj-atr-pr-first-wb-award-2026",
+   "status": "complete",
+   "to_do": "",
+   "contains": "DOJ press release 26-71 (29 Jan 2026): first Antitrust Division/USPS whistleblower reward, $1 million, for information leading to EBLOCK Corporation's deferred prosecution agreement and $3.28 million criminal fine (bid rigging and shill bidding on used-vehicle auctions, Nov 2020 - Feb 2022; \"$16 million scheme\" per a DOJ official); paid six months after the programme started; programme rules (at least $1 million; 15-30%). Case and event already recorded; added the threshold and percentage rules as restated here. Rules restated from other sources are now recorded from this document too (decision 8)."
+  },
+  {
+   "source_id": "usa-doj-cwap-guidance-2026",
+   "status": "complete",
+   "to_do": "",
+   "contains": "Pilot Program guidance as revised 30 July 2026 (15 pp.): same structure and award scale as the 2024 guidance, with these changes: section now named MLNFS; eligibility for another programme no longer bars an award, only duplicate awards (footnote 3, new factor III.3.b.v on other programmes); eight subject areas (adds federal health care offenses generally, federal contracting fraud, trade/tariff/customs fraud, immigration, sanctions/terrorism/cartels); submissions through the online intake portal. Already in the data: two events (launch, revision). Added eight rules restating the award terms (threshold, 30%/5% scale, 30% presumption on first $10 million, discretion, anonymous via attorney, 120-day internal window, 90-day claim window). Not recorded as rules (no fitting type): no award above $500 million net proceeds (in notes), $500,000 congressional-notification trigger (p. 14), three-submission bar, 7-day attorney deadline. No statistics. Rules restated from other sources are now recorded from this document too (decision 8)."
+  }
+ ]
+}
