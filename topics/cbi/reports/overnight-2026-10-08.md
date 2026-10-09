@@ -1105,3 +1105,19 @@ totals?
 - CBI: 96 numbers, 4 ruled (targets vs actuals both printed; a figure in words). Whistleblowing: 63 numbers,
   1 ruled. **0 open differences in either dataset.**
 - Totals now: CBI 9,056 numbers with a blind second reading (of 83,856); whistleblowing 1,746 (of 18,298).
+
+### Quote check across both datasets, and a hold-back (9 October)
+- The full quote check finished. Tonight's rows: CBI 47,102 found verbatim, 6,929 as table rows, 6,188 not
+  found; whistleblowing 11,578 found, 1,177 as table rows, 663 not found.
+- **Held back: 3,521 Australian numbers.** The Home Affairs BP0068 workbook prints only programme totals on its
+  visible sheet. Figures by citizenship, gender, age and state exist only by setting the pivot table's filters,
+  which sums its 622,425 underlying records. No page prints them. That is the same class as the Greek
+  spreadsheet sums held back earlier, so they were removed from the data and moved to
+  `_inbox/extract-cbi-aus1-pivot-sums.pending`; the document is now `partial` with that to-do.
+  **Decision needed:** do pivot-filtered figures from an official workbook count as printed?
+  Note: 36 older rows from the same workbook (earlier research waves, already on the live site) are the same
+  kind of figure. They are left in place pending the same decision.
+- The other not-found quotes are mostly table rows rebuilt from spreadsheets and PDF tables (Latvia permit
+  tables, Korea ACRC annual report tables, SEC 2012 OCR tables). The quote check can't match a rebuilt row; the
+  second readings of those documents agreed with the values. They are not re-checked one by one.
+- CBI now holds 80,335 numbers.
