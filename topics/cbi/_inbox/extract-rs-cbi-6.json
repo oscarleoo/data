@@ -1460,6 +1460,201 @@
    "notes": "Restated in the republication of Law 23/2007 annexed to Law 102/2017 (art. 3(1)(d)). The law enters into force 90 days after publication on 28 August 2017 (26 November 2017); no end date stated. Art. 3(3) defines low-density territories (NUTS III, under 100 inhabitants per km2 or GDP per head below 75% of the national average).",
    "valid_from": "2017-11-26",
    "valid_to": ""
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "rehabilitation_building_min_age",
+   "min_amount": "30",
+   "currency": "years",
+   "applies_to": "property for the rehabilitation route (unless located in an urban regeneration area)",
+   "source_id": "prt-law-63-2015",
+   "location": "PDF p. 1 (DR p. 4521), art. 2 (amended art. 3(1)(d)(iv) of Law 23/2007)",
+   "quote": "iv) Aquisição de bens imóveis, cuja construção tenha sido concluída há, pelo menos, 30 anos ou localizados em área de reabilitação urbana",
+   "notes": "In force the day after publication on 30 June 2015 (1 July 2015).",
+   "valid_from": "2015-07-01",
+   "valid_to": ""
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "low_density_reduction",
+   "min_amount": "20",
+   "currency": "percent",
+   "applies_to": "routes ii) to vi) of art. 3(1)(d) (jobs, real estate, rehabilitation, research, culture), in low-density NUTS III territories",
+   "source_id": "prt-law-63-2015",
+   "location": "PDF p. 1 (DR p. 4521), art. 2 (new art. 3(2)-(3) of Law 23/2007)",
+   "quote": "2 — O montante ou requisito quantitativo mínimo das atividades de investimento previstas nas subalíneas ii) a vi) da alínea d) do número anterior podem ser inferiores em 20 %, quando as atividades sejam efetuadas em territórios de baixa densidade.",
+   "notes": "Previously only in the notes of this law's amount rows. Art. 3(3): NUTS III with under 100 inhabitants per km2 or GDP per head below 75% of the national average. In force 1 July 2015.",
+   "valid_from": "2015-07-01",
+   "valid_to": ""
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "processing_time_max",
+   "min_amount": "90",
+   "currency": "days",
+   "applies_to": "decision on a residence permit application (all residence permits, including ARI)",
+   "source_id": "prt-law-63-2015",
+   "location": "PDF p. 2 (DR p. 4522), art. 2 (amended art. 82(1) of Law 23/2007)",
+   "quote": "1 — O pedido de concessão de autorização de residência deve ser decidido no prazo de 90 dias.",
+   "notes": "General deadline of the Foreigners' Law, not specific to ARI. Legal maximum, not a measured time. No row for this rule from another source. In force 1 July 2015.",
+   "valid_from": "2015-07-01",
+   "valid_to": ""
+  },
+  {
+   "program_id": "prt-golden-visa",
+   "route": "processing_time_max_renewal",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "decision on a residence permit renewal (all residence permits, including ARI)",
+   "source_id": "prt-law-63-2015",
+   "location": "PDF p. 2 (DR p. 4522), art. 2 (amended art. 82(2) of Law 23/2007)",
+   "quote": "2 — O pedido de renovação de autorização de residência deve ser decidido no prazo de 60 dias.",
+   "notes": "General deadline of the Foreigners' Law, not specific to ARI. Legal maximum. No row for this rule from another source. In force 1 July 2015.",
+   "valid_from": "2015-07-01",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "eligibility_senior_manager_experience",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "senior corporate manager without an entrepreneurial track record: minimum corporate management experience (Option A only)",
+   "source_id": "sgp-cs-gip-factsheet-2009",
+   "location": "PDF p. 3, Assessment criteria, senior corporate managers (a)",
+   "quote": "You must have at least 10 years of corporate management experience.",
+   "notes": "No row for this rule from another source. Factsheet 'Updated as of 1 June 2009'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "real_estate_max_share",
+   "min_amount": "50",
+   "currency": "percent",
+   "applies_to": "Option C (S$2 million): maximum share of the investment that can go into residential property, for owner occupancy only",
+   "source_id": "sgp-cs-gip-factsheet-2009",
+   "location": "PDF p. 2, Investment options, footnote 2",
+   "quote": "Up to 50% of the investment amount can be invested in residential property, for owner occupancy only.",
+   "notes": "Also described in the applies_to wording of this factsheet's S$2 million row; no separate row from another source. Validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "business",
+   "min_amount": "2500000",
+   "currency": "SGD",
+   "applies_to": "main applicant",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 2, Investment options, Option A",
+   "quote": "Option A:   Invest at least S$2.5 million in a new business entity or expansion of an existing business operation.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "fund",
+   "min_amount": "2500000",
+   "currency": "SGD",
+   "applies_to": "main applicant",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 2, Investment options, Option B",
+   "quote": "Option B:   Invest at least S$2.5 million in a GIP-approved fund1.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "eligibility_track_record_years",
+   "min_amount": "3",
+   "currency": "years",
+   "applies_to": "minimum entrepreneurial (and business) track record of the applicant, with audited financial statements for the last 3 years",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 2, Assessment criteria (a)",
+   "quote": "You must possess at least 3 years of entrepreneurial track record and must produce audited financial statements of your company for the last 3 years.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "eligibility_company_turnover",
+   "min_amount": "30000000",
+   "currency": "SGD",
+   "applies_to": "applicant's company turnover, in the most recent year and on average over the last 3 years (applicants with an entrepreneurial and business track record)",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 2, Assessment criteria (b)",
+   "quote": "At least S$30 million per annum in the most recent year; and - At least S$30 million per annum on average for the last 3 years.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "eligibility_senior_manager_experience",
+   "min_amount": "10",
+   "currency": "years",
+   "applies_to": "senior corporate manager without an entrepreneurial track record: minimum corporate management experience (Option A only)",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 3, senior corporate managers (a)",
+   "quote": "You must have at least 10 years of corporate management experience.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "eligibility_senior_manager_company_turnover",
+   "min_amount": "100000000",
+   "currency": "SGD",
+   "applies_to": "turnover of the company employing an applicant who is a senior corporate manager without an entrepreneurial track record (Option A only; at least 10 years of corporate management experience)",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 3, senior corporate managers (c)",
+   "quote": "The turnover of the company in which you are employed must be at least S$100 million.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "dependant_child_max_age",
+   "min_amount": "21",
+   "currency": "years",
+   "applies_to": "children included as dependants in the PR application must be below this age (unmarried, as at the date of application, in the 2014 and later factsheets)",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 3, Provisions for your family",
+   "quote": "Your spouse and children (below 21 years old) are eligible to apply for PR under your GIP application.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "family_ltvp_validity",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "Long Term Visit Pass for family members who cannot be included for PR (unmarried children aged 21 and above; from 2011 also parents), tied to the main applicant's re-entry permit",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 3, Provisions for your family",
+   "quote": "Instead, they can apply for a 5-year Long Term Visit Pass (LTVP), which is renewable and tied to the validity of your re-entry permit.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "sgp-gip",
+   "route": "investment_deadline",
+   "min_amount": "6",
+   "currency": "months",
+   "applies_to": "time to make the investment after Approval-in-Principle of PR (the AIP is valid for 6 months)",
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "location": "PDF p. 5, Application process",
+   "quote": "You will be required to make your investment within the 6 months’ period.",
+   "notes": "Factsheet 'Updated as of 1 April 2011'; validity not stated.",
+   "valid_from": "",
+   "valid_to": ""
   }
  ],
  "events": [],
@@ -1544,6 +1739,42 @@
    "source_id": "prt-law-102-2017",
    "status": "complete",
    "contains": "Law 102/2017 (74 pp.), fifth amendment to Law 23/2007 with full republication: fund route lowered to EUR 350k (Portuguese funds, 5-year maturity, 60% in Portuguese companies) and new company-capital route (EUR 350k with 5 jobs); ARI renewed for two-year periods (art. 90-A(2)); other changes on students, researchers, entrepreneurs, Blue Card. Both ARI amounts are already terms and the change is an event; the rest of the republication restates earlier ARI amounts or concerns other permits. No statistics. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "prt-law-63-2015",
+   "status": "complete",
+   "contains": "Law 63/2015 (2 pp.), third amendment to Law 23/2007: art. 3(1)(d) adds subalíneas iv-vii (EUR 350k rehabilitation, EUR 350k research, EUR 250k culture, EUR 500k SME funds) and cuts job creation to 10; art. 3(2)-(3) allow 20% lower amounts for ii-vi in low-density NUTS III areas; decision deadlines for all permits (90/60 days, general, not ARI-specific); adult student children as ARI family members; repeals art. 90-A(3) (regulation by ministerial order); in force the day after 30 Jun 2015. All ARI amounts already in the data (5 terms, low-density rule in their notes) and the event. Also prints, on its second page, an unrelated parliamentary resolution on financial stability. No statistics. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "sau-spa-prc-five-products-2024",
+   "status": "complete",
+   "contains": "Saudi Press Agency news item (Riyadh, 10 Jan 2024): the Premium Residency Center chairman announces five new premium residency products (exceptional competence, talent, business investor, entrepreneur, property owner), who each is for, and general benefits (business, property ownership and usufruct, work permits for holder and family). It prints no amounts, fees or counts; the launch is already in the data as an event. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "sau-uqn-cabinet-res-437-2024",
+   "status": "complete",
+   "contains": "Umm al-Qura page for Council of Ministers Resolution No. 437 of 6/6/1445H (published 10 Jan 2024) approving the amendment of the Premium Residency Law (Royal Decree M/106 of 10/9/1440H), listing the papers considered (Premium Residency Center letter of 10/6/1443H, Experts Commission memos, CEDA minutes of 5/4/1445H, Shura Council resolution 354/46, General Committee recommendation) and attaching a draft royal decree. No amounts or statistics; the 2019 law's date is already in the data as an event from this page, and the amendment's content is extracted from sau-uqn-prl-amendment-2024. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "sau-uqn-royal-decree-m84-2024",
+   "status": "complete",
+   "contains": "Umm al-Qura page for Royal Decree No. M/84 of 11/6/1445H (published 10 Jan 2024): approves the amendment of the Premium Residency Law (Royal Decree M/106 of 10/9/1440H) in the attached form, citing Shura Council resolution 354/46 of 26/2/1445H and Council of Ministers resolution 437 of 6/6/1445H. No amounts or statistics; the amendment is already in the data as an event (from sau-uqn-prl-amendment-2024). Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "sgp-cs-gip-factsheet-2009",
+   "status": "complete",
+   "contains": "Contact Singapore GIP factsheet 'Updated as of 1 June 2009' (8 pp.): three investment options (S$1m business; S$1.5m business or GIP-approved fund; S$2m business or fund with up to 50% in owner-occupied residential property), eligibility (business track record, entrepreneurial background), assessment criteria (3 years' track record, company turnover S$10m in the latest year and on average over 3 years; senior corporate managers: 10 years' experience, company turnover S$100m, Option A only), family provisions (spouse and children under 21 for PR; unmarried children 21+ get a 5-year LTVP; parents and parents-in-law PR at S$300,000 each), application steps (AIP valid 6 months, invest within 6 months from a Singapore personal account, Contact Singapore holds evidence for 5 years, audited statements at end of years 2 and 4, notarised documents valid 1 year), list of 13 approved business sectors, contact details. No statistics. Investment options and parents' price were already recorded; this pass adds turnover, track-record, senior-manager, investment-deadline, LTVP and child-age rules. Document-handling details (custody 5 years, notarisation 1 year) are noted here, not tabulated. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "sgp-cs-gip-factsheet-2011",
+   "status": "complete",
+   "contains": "GIP factsheet 'Updated as of 1 April 2011' (7 pp.): Option A S$2.5m business, Option B S$2.5m GIP-approved fund; turnover S$30m (latest year and 3-year average); senior corporate managers (Option A) 10 years' experience, company turnover S$100m; spouse and children under 21 for PR, parents and children 21+ 5-year LTVP; AIP valid 6 months, invest S$2.5m within 6 months from a sole-name Singapore account; audited statements at end of years 2 and 4; 13 sectors. No statistics and no rule not already recorded from the 2009, 2010 or other factsheets (each rule's row notes that it also appears here). Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   }
  ]

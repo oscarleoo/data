@@ -149,19 +149,6 @@
    "valid_to": ""
   },
   {
-   "program_id": "mus-property-residence",
-   "route": "land_transfer_tax_resale",
-   "min_amount": "5",
-   "currency": "percent",
-   "applies_to": "seller on resale of a residential property in an IRS, RES or PDS project",
-   "source_id": "mus-edb-guidelines-irs-res-pds-2024",
-   "location": "section 10.0 'Duty and taxes on acquisition of residential property by purchaser', PDF p. 10 (tables for IRS, RES and PDS)",
-   "quote": "Resale of a residential property Land Transfer tax payable by seller 5% of the value of the property",
-   "notes": "Same 5% in each of the three tables (IRS, RES, PDS). The Finance Act 2025 sets 10% from 1 July 2026 for transfers by a non-citizen to a non-citizen; this November 2024 guide states 5% without distinguishing. Validity dates not stated.",
-   "valid_from": "",
-   "valid_to": ""
-  },
-  {
    "program_id": "mus-investor-permit",
    "route": "prp_validity",
    "min_amount": "20",
@@ -680,6 +667,162 @@
    "notes": "Same amount as under DE 722 art. 4. DE 17 of 2026 in force from publication in Gaceta Oficial 30613 (16 September 2026), as on the other rows from this decree.",
    "valid_from": "2026-09-16",
    "valid_to": ""
+  },
+  {
+   "program_id": "pan-friendly-nations",
+   "route": "provisional_residence_period",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "nationals of listed countries; provisional residence before permanent residence can be requested",
+   "source_id": "pan-go-de226-2021",
+   "location": "p. 2, art. 2 (new art. 3 of DE 416) (OCR)",
+   "quote": "El Servicio Nacional de Migración podrá conceder un permiso de Residencia Provisional por un periodo de dos años",
+   "notes": "DE 226 of 2021 rewrites art. 3 of DE 416, restating the DE 197 rule; in force 7 August 2021 (art. 5). Text read by OCR (scan).",
+   "valid_from": "2021-08-07",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-friendly-nations",
+   "route": "real_estate",
+   "min_amount": "200000",
+   "currency": "PAB",
+   "applies_to": "nationals of listed countries; property held personally (from DE 226 also via a company or foundation); two-year provisional permit first",
+   "source_id": "pan-go-de226-2021",
+   "location": "p. 3, art. 2 (new art. 3(2)(b) of DE 416) (OCR)",
+   "quote": "siempre que el bien inmueble tenga un valor mínimo de doscientos mil balboas (B/.200,000.00).",
+   "notes": "DE 226 of 2021 rewrites art. 3 of DE 416, restating the DE 197 rule; in force 7 August 2021 (art. 5). Text read by OCR (scan). DE 226 adds holding through a company of which the applicant is final beneficiary, or a private-interest foundation; purchase may be financed by a local bank.",
+   "valid_from": "2021-08-07",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-friendly-nations",
+   "route": "employment",
+   "min_amount": "",
+   "currency": "",
+   "applies_to": "nationals of listed countries; job offer letter, employer's registry certificate and work permit",
+   "source_id": "pan-go-de226-2021",
+   "location": "pp. 2-3, art. 2 (new art. 3(2)(a) of DE 416) (OCR)",
+   "quote": "Carta de trabajo en papel membrete, firmada por el representante legal del empleador, donde se certifique el cargo, el salario y el compromiso de asumir los gastos de repatriación",
+   "notes": "DE 226 of 2021 rewrites art. 3 of DE 416, restating the DE 197 rule; in force 7 August 2021 (art. 5). Text read by OCR (scan). No minimum salary stated.",
+   "valid_from": "2021-08-07",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "processing_time_max",
+   "min_amount": "30",
+   "currency": "working days",
+   "applies_to": "SNM decision on the application, from receipt at the special processing window",
+   "source_id": "pan-mici-press-2022-08-18",
+   "location": "press release, last paragraph",
+   "quote": "permite otorgar una residencia permanente panameña en tan solo 30 días hábiles por inversiones en la República de Panamá",
+   "notes": "Press release restating DE 722 of 2020; no validity dates given. applies_to kept as on the DE 722 row so the restatement links.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "real_estate",
+   "min_amount": "300000",
+   "currency": "PAB",
+   "applies_to": "main applicant; directly or through a presale contract; transitional, first 24 months",
+   "source_id": "pan-mici-press-2022-08-18",
+   "location": "press release, last paragraph",
+   "quote": "siendo este último el que goza de mayor aceptación, ya que el monto mínimo de inversión comienza desde los 300 mil dólares.",
+   "notes": "Printed as '300 mil dólares'; currency kept as PAB as on the DE 722 row (the balboa is at par with the US dollar, which circulates as legal tender). Press release of 18 August 2022, while the transitional B/.300,000 real-estate minimum of DE 722 art. 10 applied; no validity dates given. applies_to kept as on the DE 722 row.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "real_estate",
+   "min_amount": "300000",
+   "currency": "PAB",
+   "applies_to": "main applicant; property free of liens; co-ownership with spouse/dependants allowed",
+   "source_id": "pan-mici-press-2025-05-28",
+   "location": "press release, list of the three investment options",
+   "quote": "Inversión mínima de 300 mil dólares en bienes raíces",
+   "notes": "Printed in 'dólares'; currency kept as PAB as on the decree row (the balboa is at par with the US dollar, which circulates as legal tender). Press release of 28 May 2025 restating DE 193 of 2024; no validity dates given. applies_to kept as on the DE 193 row.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "securities",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "applies_to": "main applicant; securities bought through a licensed broker on the Bolsa de Valores de Panamá, held 5 years",
+   "source_id": "pan-mici-press-2025-05-28",
+   "location": "press release, list of the three investment options",
+   "quote": "Inversión de 500 mil en valores",
+   "notes": "No currency printed for this item (the other two items say dólares); PAB as on the decree row. Press release of 28 May 2025 restating DE 722; no validity dates given. applies_to kept as on the DE 722 row; the release gives no conditions.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "deposit",
+   "min_amount": "750000",
+   "currency": "PAB",
+   "applies_to": "main applicant; fixed-term deposit of at least 5 years at any general-licence bank",
+   "source_id": "pan-mici-press-2025-05-28",
+   "location": "press release, list of the three investment options",
+   "quote": "Depósito bancario a plazo fijo de 750 mil dólares.",
+   "notes": "Printed in 'dólares'; currency kept as PAB as on the decree row (the balboa is at par with the US dollar, which circulates as legal tender). Press release of 28 May 2025 restating DE 722; no validity dates given. applies_to kept as on the DE 722 row; the release does not mention the 5-year term.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "real_estate",
+   "min_amount": "300000",
+   "currency": "PAB",
+   "applies_to": "main applicant; first sale of a new, unoccupied property from the developer",
+   "source_id": "pan-mici-press-2026-09-21",
+   "location": "press release, para 2",
+   "quote": "el Consejo de Gabinete aprobó el monto de B/.300 mil para propiedades inmobiliarias nuevas, de primera venta, como inversión mínima para calificar en este régimen",
+   "notes": "Press release of 21 September 2026 describing DE 17 of 8 September 2026; no validity dates given. applies_to kept as on the DE 17 row.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "real_estate",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "applies_to": "main applicant; secondary-market property (previously sold, occupied or let)",
+   "source_id": "pan-mici-press-2026-09-21",
+   "location": "press release, para 5",
+   "quote": "La nueva reglamentación mantiene la suma para optar por el estatus migratorio con la inversión en propiedades de segunda venta, en B/.500 mil.",
+   "notes": "Press release of 21 September 2026 describing DE 17 of 8 September 2026; no validity dates given. applies_to kept as on the DE 17 row.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "pan-qualified-investor",
+   "route": "deposit",
+   "min_amount": "500000",
+   "currency": "PAB",
+   "applies_to": "main applicant; 5-year fixed deposit at Banco Nacional de Panamá or Caja de Ahorros (state banks)",
+   "source_id": "pan-mici-press-2026-09-21",
+   "location": "press release, para 6",
+   "quote": "Los depósitos a plazo fijo realizados en el Banco Nacional de Panamá o en la Caja de Ahorros tendrán una inversión mínima de B/.500 mil",
+   "notes": "Press release of 21 September 2026 describing DE 17 of 8 September 2026; no validity dates given. applies_to kept as on the DE 17 row. The release does not mention the 5-year term.",
+   "valid_from": "",
+   "valid_to": ""
+  },
+  {
+   "program_id": "mus-property-residence",
+   "route": "land_transfer_tax_resale",
+   "min_amount": "5",
+   "currency": "percent",
+   "applies_to": "seller on resale of a residential property in an IRS, RES or PDS project",
+   "source_id": "mus-edb-guidelines-irs-res-pds-2024",
+   "location": "section 10.0 'Duty and taxes on acquisition of residential property by purchaser', PDF p. 10 (tables for IRS, RES and PDS)",
+   "quote": "Resale of a residential property ... Land Transfer tax payable 5% of the value of the property ... by seller",
+   "notes": "Same 5% in each of the three tables (IRS, RES, PDS). The Finance Act 2025 sets 10% from 1 July 2026 for transfers by a non-citizen to a non-citizen; this November 2024 guide states 5% without distinguishing. Validity dates not stated.",
+   "valid_from": "",
+   "valid_to": ""
   }
  ],
  "events": [],
@@ -692,12 +835,6 @@
    "source_id": "mus-edb-ar-2021",
    "status": "complete",
    "contains": "EDB annual report FY2020/21. In scope: infographic (p. 11) and text on real estate (pp. 12-13): projects approved under PDS (10), Smart City (3), IHS (2) and NRP (6, not a residence route); 286 residential acquisition authorisations worth MUR 10.3 billion (already in data); 25 business-property authorisations (MUR 1.25 bn, not a residence route); 2021/22 budget measures on IRS/RES/PDS/IHS/G+2 (rules legislated in FA 2021, taken from that Act). Work and live section (pp. 31-33): 2020/21 changes (permit validity 3 to 10 years, investor minimum USD 100,000 to 50,000, PRP investment USD 500,000 to 375,000, already recorded from FA 2020); Table 4 active OP/RP holders 30 June 2021 (investor 918, retired 758 already in data; professional 4,347 and self-employed 431 and total 6,454 out of scope); 5,138 dependants and 427 PRP holders (already in data); Table 5 permits grandfathered to 10 years (investor 764, retired 668 added; self-employed 358 out of scope); Figure 9 nationalities of all active OP/RP holders (8 shares added, mixed categories); Figure 10 OPs issued by sector 2014-June 2021 (all OP categories, percent by sector, sector labels garbled and not investor-specific: not taken); Premium Visa 510 approved (tourist long-stay visa, out of scope). Mandate to attract 50,000 retirees (added as target). Rest: economy, trade, manufacturing, financial services, governance, EDB financial statements (no permit fee revenue). Rules restated from other sources are now recorded from this document too (decision 8).",
-   "to_do": ""
-  },
-  {
-   "source_id": "mus-edb-guidelines-irs-res-pds-2024",
-   "status": "complete",
-   "contains": "EDB guidelines (Nov 2024) for buyers of residential property under IRS/RES/PDS: eligible buyers, off-plan payment schedule (25/10/35/25/5%, civil-law rule, not taken), documents, MUR 25,000 processing fee (already in data; same fee for resale applications), payment in foreign currency (first USD 500,000 when a local loan is used), residence for property above USD 375,000 while held, serviced land (IRS plots from USD 350,000, max 0.5275 ha; PDS plots max 2,100 m2, one per non-citizen permit holder; build within 5 years), rental via the scheme company, resale with 30 days' notice, registration duty and land transfer tax table. Annex: blank residence permit and UID application forms (OCR checked, no numbers). No statistics. Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   },
   {
@@ -854,6 +991,84 @@
    "source_id": "pan-go-de17-2026",
    "status": "complete",
    "contains": "Gaceta Oficial 30613 (16 Sept 2026), 41 pages; pp. 2-37 are scans read by OCR (spa+eng). Pp. 1-22 and 38-41: contents, Decretos 204 and 211 (appointments), DE 5 (environmental emergencies), DE 33 and 34 (Economy ministry) and commercial notices, all out of scope. Pp. 23-37: Decreto Ejecutivo 17 of 8 Sept 2026, replacing DE 722 and its amendments for the Qualified Investor subcategory: overall minimum B/.300,000 of foreign-source own funds (art. 2); MICI certificate rules (art. 3, 3-month validity, co-ownership); real estate B/.300,000 first sale / B/.500,000 secondary market (art. 4); valuation and appraisal rules (arts. 5-6); presale B/.300,000 via trust or 100% payment with bank instrument, 180-working-day substitution, 3-year cap (art. 7); securities B/.500,000 in private-equity/venture funds, Panamanian government debt or other registered securities, 5 years, 90-day restoration after market falls (art. 8); fixed deposit B/.750,000 at private banks or B/.500,000 at Banco Nacional/Caja de Ahorros, 5 years (art. 9); fees B/.5,000 + B/.5,000 repatriation deposit, dependants B/.1,000 + B/.1,000 (art. 11); 5-year maintenance with annual proof, 30-day notice, 90-day reinvestment (art. 12); naturalisation after five consecutive years (art. 14); processing maxima 15 working days (MICI) and 30 working days (SNM) (art. 15); filing from abroad (art. 16); new dependants B/.1,000 + B/.1,000 (art. 17); 12-month switch for Solvencia Económica holders, pre-15-Oct-2020 investments ineligible (art. 18); 6-month grandfathering (art. 19); subrogation of DE 722/109/193 (art. 20). No statistics. Route amounts, fees, deposit and naturalisation were already in the tables (t-2b6fc0b222, t-08807a143d, t-d0090088e5, t-0c2512386d, t-623ac85a5a, t-b1efe09d1b; fees noted on t-de6c73134f/t-3e97f07cc3; events e-3021dbfbd8, e-a1c0701293). This pass adds the art. 2 overall minimum, holding period, reinvestment window, processing maxima, certificate validity, new-dependant payments, the Solvencia switch event and an event listing the remaining procedural deadlines. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de226-2021",
+   "status": "complete",
+   "contains": "Decreto Ejecutivo 226 of 2021 (Gaceta 29335, 21 July 2021), 3 scanned pages read by OCR (spa+eng). Amends DE 416 (Friendly Nations) and DE 197: art. 1 replaces the nationality list again, adding Peru; art. 2 new art. 3: two-year provisional residence; employment route; real estate of at least B/.200,000 held personally, through a company of which the applicant is final beneficiary, or a private-interest foundation, financeable locally; new fixed-deposit route of at least B/.200,000 for at least three years at a general-licence bank, also through a company or foundation; dependants under DE 320; art. 3 sets 7 Aug 2021 as the start date of DE 197; art. 5 in force 7 Aug 2021. No statistics. All amounts already in tables: t-a013de09c8 (deposit B/.200,000), t-7fac8bf918 notes the corporate holding of property, event e-e27f852863; the two-year provisional period is added from DE 197 in this pass (restated here). Nothing new added from this document. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-go-de416-2012",
+   "status": "complete",
+   "contains": "Gaceta Oficial 27058-A (18 June 2012), 22 pages; pp. 2-22 are scans read by OCR (spa+eng). Out of scope: DE 1241 (hospital board), DE 414 (entry visas for restricted nationalities hired by SEM or Panamá-Pacífico firms; employees, not investors), DE 415 (permanent residence for former diplomats), Resolution 162 (police procurement delegation, amounts up to B/.250,000 not about the programme) and tourism-register cancellations. In scope, pp. 9-10: Decreto Ejecutivo 416 of 13 June 2012 creating permanent residence for nationals of 24 listed countries (named, count not printed) who carry out an economic or professional activity; requirements include proof of economic solvency by a bank statement with a balance of 'no inferior a cuatro cifras medias' (words, not a number; not tabled), dependants' rules, filing only at the SNM, repeal of DE 343 of 16 May 2012, in force on promulgation. No statistics. Already in tables: t-0e69be01b0 (economic activity route), event e-a6686c1dba. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2022-08-18",
+   "status": "complete",
+   "contains": "MICI press release, 18 Aug 2022: 100th qualified-investor certificate (to a Canadian online-notarisation company head), investment of more than 55 million dollars since creation; largest certified investors from Peru, Colombia and Canada and mainly South and North American (no counts); restates DE 722 rules (permanent residence in 30 working days; stock exchange, banking and real-estate routes, real estate from 300 thousand dollars). Both figures already in tables (o-83098d4e30, o-73d8445d40); the restated rules are in the decree terms. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2022-10-18",
+   "status": "complete",
+   "contains": "MICI press release, 18 Oct 2022, on a presentation to AmCham: more than 131 international investors have applied, investments over B/. 70 million (both already in tables: o-c41e4abe7c, o-cda9ac641b). AmCham membership (more than 450 companies, 15 sectors) is not about the programme. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2023-08-02",
+   "status": "complete",
+   "contains": "MICI press release dated 1-2 Aug 2023, minister's speech to APEDE: Qualified Investor Program has 216 qualified investors who invested about B/. 120 million (already in tables: o-2faf3e126d, o-6a702957f2). Other numbers are out of scope: World Bank growth forecasts for Panama (5.7%, 1.4%, 5.9%), 2022 exports (B/. 3,868.3 million, copper 2,797.2, other 1,071.1), SEM regime (187 licences, B/. 1,200 million), free zones (12 new firms, B/ 8.5 million, 90 jobs), 7 semiconductor partner countries. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-01-23",
+   "status": "complete",
+   "contains": "MICI press release, 23 Jan 2025, on a CCIAP workshop about DE 193 of 2024 (lower minimum amounts, co-ownership rules, presale guarantees; no amounts printed): cumulative investment 148 million dollars and 120 new qualified investors July-December 2024 (both already in tables: o-5aca4cdb43, o-88da900d16). Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-02-26",
+   "status": "complete",
+   "contains": "MICI press release, 26 Feb 2025, on the minister's 2024 management report to the Assembly (focus July-December 2024): Qualified Investor Program registered 132 new investors with total investment of 62.8 million dollars (already in tables: o-31a42fea6c, o-24013ec8c7). Other numbers out of scope: semiconductor commission (17 members), SEM (7 firms, 19.7 million), free zones (19 firms, 163.4 million, more than a thousand jobs), film commission (22.8 million, 25% rebate), exports H2 2024 (500.2 million). Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-05-28",
+   "status": "complete",
+   "contains": "MICI press release, 28 May 2025, on a visit by Mercan Group: restates the three routes (minimum 300 thousand dollars in real estate, 500 thousand in securities, 750 thousand dollar fixed deposit; already in the decree terms) and says investors may obtain citizenship after five years without having to reside physically (a claim, not in the decrees read; DE 17 of 2026 art. 14 requires five consecutive years of residence); more than 79 million dollars of investment July 2024-May 2025 (already in tables: o-e9982b96ee); Mercan is the first of three firms expected in 2025 (not a programme statistic). Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-12-16",
+   "status": "complete",
+   "contains": "MICI press release, 16 Dec 2025, launch of the online platform for qualified-investor applications: since creation 613 certificates approved for a cumulative B/. 309.8 million (already in tables: o-16aeb6f131, o-19f741b45f; event e-a2f73f8166); real estate leads; main origins Colombia, US, Peru, Germany, Canada (no counts); government goal to raise monthly certifications (no number); platform sends reminders for annual investment updates. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2025-12-30",
+   "status": "complete",
+   "contains": "MICI year-end 2025 results release. In scope: Qualified Investor programme, 613 certificates since creation and USD 309.8 million cumulative investment (both already in the tables), and the 2025 digital platform (already event e-a2f73f8166 from the 16 Dec 2025 release). The rest is out of scope: exports (USD 835 million / 1,098 million), free zones, SEM regime, audiovisual industry, MERCOSUR, Hecho en Panamá, Bocas del Toro, SIECA. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2026-07-10",
+   "status": "complete",
+   "contains": "MICI release: certificates July 2025-June 2026 (268, B/.113.6 million) and July 2024-June 2025 (193, over B/.90.1 million); route shares of certificates for both periods (real estate, deposit, securities). All already in the tables. Also prints the differences (75 more certificates, over B/.23.4 million more investment), not added because they are only the differences of rows already held; says the new platform 'doubled' certificates per month (words, no number); lists applicants' countries (USA, Canada, Colombia, Mexico, Brazil, Spain, Germany, Switzerland, Russia, China) without counts. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "pan-mici-press-2026-09-21",
+   "status": "complete",
+   "contains": "MICI release on the new Qualified Investor decree (DE 17 of 8 Sept 2026): B/.300,000 for first-sale property, B/.500,000 for resale property, B/.500,000 deposits at Banco Nacional or Caja de Ahorros, wider securities options. These rules and the event are already in program_terms/events from the gazette (pan-go-de17-2026), so no duplicate rows. Certificate counts and investment for July 2024-June 2025 and July 2025-June 2026 already in the tables. Nothing new added. Rules restated from other sources are now recorded from this document too (decision 8).",
+   "to_do": ""
+  },
+  {
+   "source_id": "mus-edb-guidelines-irs-res-pds-2024",
+   "status": "complete",
+   "contains": "EDB guidelines (Nov 2024) for buyers of residential property under IRS/RES/PDS: eligible buyers, off-plan payment schedule (25/10/35/25/5%, civil-law rule, not taken), documents, MUR 25,000 processing fee (already in data; same fee for resale applications), payment in foreign currency (first USD 500,000 when a local loan is used), residence for property above USD 375,000 while held, serviced land (IRS plots from USD 350,000, max 0.5275 ha; PDS plots max 2,100 m2, one per non-citizen permit holder; build within 5 years), rental via the scheme company, resale with 30 days' notice, registration duty and land transfer tax table. Annex: blank residence permit and UID application forms (OCR checked, no numbers). No statistics. Rules restated from other sources are now recorded from this document too (decision 8).",
    "to_do": ""
   }
  ]
