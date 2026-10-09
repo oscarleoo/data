@@ -30,7 +30,7 @@ COLUMNS = {
                           "applies_to", "source_id", "location", "quote", "notes", "restates"],
     "cases.csv": ["case_id", "jurisdiction", "program_id", "date", "date_precision", "whistleblower", "target",
                   "summary", "sanctions_amount", "award_amount", "award_pct", "currency", "outcome", "source_id",
-                  "location", "quote", "notes"],
+                  "location", "quote", "notes", "whistleblower_link"],
     "events.csv": ["event_id", "date", "date_precision", "jurisdiction", "program_id", "category",
                    "title", "description", "source_id", "location", "quote"],
     "programs.csv": ["program_id", "jurisdiction", "name", "kind", "launched", "ended", "status",
@@ -209,6 +209,11 @@ def main():
             continue
         r["restates"] = first[k] if k in first and first[k] != r["rule_id"] else ""
         first.setdefault(k, r["rule_id"])
+
+    # METHODOLOGY.md decision 10: cases recorded so far were all tied to a whistleblower by their document
+    for c in tables["cases.csv"].values():
+        if not c.get("whistleblower_link"):
+            c["whistleblower_link"] = "stated"
 
     # Reviewed corrections (data/corrections.csv) are applied last, so re-merging
     # the inbox never undoes them. Field "_delete" removes the row.

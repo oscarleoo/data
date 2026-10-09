@@ -237,6 +237,21 @@ through their source's type.
 **Why.** Copies are evidence of what was publicly said and sometimes the only source for a period; a contradiction
 between a study and the law is worth seeing. But a stale copy must not outrank the law.
 
+### 10. Enforcement actions not tied to a whistleblower (decided 2026-10-09)
+
+**Question.** Agency releases list settlements (e.g. the US Justice Department's yearly False Claims Act releases)
+without saying whether a whistleblower brought them. Record them as cases?
+
+**Decision.** Yes. Cases carry `whistleblower_link`: `stated` (the document ties the case to a whistleblower,
+relator or qui tam suit) or `not_stated`. Counts and "whistleblower cases" pages use only `stated`.
+
+**To do.** (a) Extract the settlements left out so far (about 60 in the DOJ False Claims Act releases, plus state
+reports such as Texas) as `not_stated` cases. (b) Later, check each `not_stated` case against court dockets or
+agency case pages and switch it to `stated` with that source.
+
+**Why.** Most False Claims Act money comes from whistleblower suits, so these settlements are part of the record,
+but counting them as whistleblower cases without evidence would inflate the figures.
+
 ## Open questions
 
 None at the moment.
