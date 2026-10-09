@@ -27,7 +27,7 @@ COLUMNS = {
                          "period_basis", "value", "value_high", "reading", "unit", "unit_basis", "scale", "status", "source_id",
                          "location", "quote", "notes", "superseded_by", "added_date", "added_by"],
     "program_rules.csv": ["rule_id", "program_id", "rule", "valid_from", "valid_to", "value", "unit",
-                          "applies_to", "source_id", "location", "quote", "notes"],
+                          "applies_to", "source_id", "location", "quote", "notes", "restates"],
     "cases.csv": ["case_id", "jurisdiction", "program_id", "date", "date_precision", "whistleblower", "target",
                   "summary", "sanctions_amount", "award_amount", "award_pct", "currency", "outcome", "source_id",
                   "location", "quote", "notes"],
@@ -197,6 +197,18 @@ def main():
             o["reading"] = classify(o)
         if not o.get("unit_basis"):
             o["unit_basis"] = "printed"
+
+    # Rules stated by several sources (METHODOLOGY.md decision 8): link each row to the earliest row stating the
+    # same rule (same programme, rule, amount, unit and the same applies_to, ignoring case and punctuation), ordered by the source's publication date
+    pub = {s["source_id"]: s.get("published_date", "") for s in tables["sources.csv"].values()}
+    first = {}
+    for r in sorted(tables["program_rules.csv"].values(), key=lambda r: (pub.get(r["source_id"], "") or "9999", r.get("valid_from") or "", r["rule_id"])):
+        k = (r.get("program_id", ""), r.get("rule", ""), str(r.get("value", "")), r.get("unit", ""), re.sub(r"[^a-z0-9]+", " ", (r.get("applies_to") or "").lower()).strip())
+        if not k[0] or not k[1] or k[2] == "":
+            r["restates"] = ""
+            continue
+        r["restates"] = first[k] if k in first and first[k] != r["rule_id"] else ""
+        first.setdefault(k, r["rule_id"])
 
     # Reviewed corrections (data/corrections.csv) are applied last, so re-merging
     # the inbox never undoes them. Field "_delete" removes the row.

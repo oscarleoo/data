@@ -197,6 +197,23 @@ Revisions between report years are kept side by side: each report's figure is it
 **Why.** Status tells a reader whose figure it is. Labelling a government's outturn "estimate" because an
 international body reprinted it hides that it is official, and it contradicts the body's own headings.
 
+### 8. Rules stated in several sources (decided 2026-10-09)
+
+**Question.** A price, fee or deadline is restated by later laws, consolidated texts, official pages and new
+editions of a factsheet. One row per rule, or one per source?
+
+**Decision.** One row per source that states it, quoted from that source. A column `restates` links a row to the
+earlier row stating the same rule (same programme, route, amount, currency, applies_to). Pages show one rule with
+"stated by N sources" and the latest confirmation; a restatement that differs is flagged as a possible change.
+
+**Why.** Restatements are evidence: they confirm a rule is still current, and a restatement that quietly differs
+is how unannounced changes are caught. Linking keeps charts and "current price" from double-counting.
+
+**Applying (2026-10-09).** Column `restates` in both rules tables, filled by merge when programme, rule, amount,
+unit and applies_to match exactly (257 CBI and 187 whistleblowing links). Groups that share an amount but are
+worded differently (645) are being reviewed by hand; documents whose passes skipped restated rules (429) are being
+re-read to add them.
+
 ## Open questions
 
 None at the moment.

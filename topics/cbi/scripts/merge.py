@@ -27,7 +27,7 @@ COLUMNS = {
                          "period_basis", "value", "value_high", "reading", "unit", "unit_basis", "scale", "status", "source_id",
                          "location", "quote", "notes", "superseded_by", "added_date", "added_by"],
     "program_terms.csv": ["term_id", "program_id", "route", "valid_from", "valid_to", "min_amount",
-                          "currency", "applies_to", "source_id", "location", "quote", "notes"],
+                          "currency", "applies_to", "source_id", "location", "quote", "notes", "restates"],
     "events.csv": ["event_id", "date", "date_precision", "jurisdiction", "program_id", "category",
                    "title", "description", "source_id", "location", "quote"],
     "programs.csv": ["program_id", "jurisdiction", "name", "kind", "launched", "ended", "status",
@@ -175,6 +175,18 @@ def main():
             o["reading"] = classify(o)
         if not o.get("unit_basis"):
             o["unit_basis"] = "printed"
+
+    # Rules stated by several sources (METHODOLOGY.md decision 8): link each row to the earliest row stating the
+    # same rule (same programme, rule, amount, unit and the same applies_to, ignoring case and punctuation), ordered by the source's publication date
+    pub = {s["source_id"]: s.get("published_date", "") for s in tables["sources.csv"].values()}
+    first = {}
+    for r in sorted(tables["program_terms.csv"].values(), key=lambda r: (pub.get(r["source_id"], "") or "9999", r.get("valid_from") or "", r["term_id"])):
+        k = (r.get("program_id", ""), r.get("route", ""), str(r.get("min_amount", "")), r.get("currency", ""), re.sub(r"[^a-z0-9]+", " ", (r.get("applies_to") or "").lower()).strip())
+        if not k[0] or not k[1] or k[2] == "":
+            r["restates"] = ""
+            continue
+        r["restates"] = first[k] if k in first and first[k] != r["term_id"] else ""
+        first.setdefault(k, r["term_id"])
 
     # Reviewed corrections (data/corrections.csv) are applied last, so re-merging
     # the inbox never undoes them. Field "_delete" removes the row.

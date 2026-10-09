@@ -1,0 +1,665 @@
+program_id,rule,amount,unit,rule_id,source_id,applies_to
+can-cra-otip,award_pct_max,15,percent,r-d73a34834e,can-cra-otip-outcomes-2026,"federal tax collected, excluding penalties and interest"
+can-cra-otip,award_pct_max,15,percent,r-4bf2f9a455,can-cra-otip-pia-2024,additional federal tax assessed and collected
+can-cra-otip,award_pct_max,15,percent,r-84170f7e3a,gbr-fisher-review-fraud-digital-age-2026,additional federal tax collected
+can-cra-otip,award_pct_min,5,percent,r-9f64e383b7,can-cra-otip-outcomes-2026,"federal tax collected, excluding penalties and interest"
+can-cra-otip,award_pct_min,5,percent,r-08501cadec,can-cra-otip-pia-2024,additional federal tax assessed and collected
+can-cra-otip,award_pct_min,5,percent,r-6d3e958f1a,gbr-fisher-review-fraud-digital-age-2026,additional federal tax collected
+can-cra-otip,sanctions_threshold,100000,CAD,r-b022a62874,can-cra-otip-outcomes-2026,federal tax collected
+can-cra-otip,sanctions_threshold,100000,CAD,r-94f990b1a0,can-cra-otip-pia-2024,additional taxes collected
+can-cra-otip,sanctions_threshold,100000,CAD,r-4b73735977,gbr-fisher-review-fraud-digital-age-2026,federal tax collected
+can-osc-wb,anonymous_filing,1,flag,r-016b43999b,can-osc-wb-eligibility-2026,through a lawyer
+can-osc-wb,anonymous_filing,1,flag,r-1237e39547,can-osc-wb-page-2026,submission
+can-osc-wb,anonymous_filing,1,flag,r-167517b04f,can-osc-wb-update-2022,through counsel
+can-osc-wb,award_cap,5000000,CAD,r-9ab6fe0b5a,gbr-fisher-review-fraud-digital-age-2026,per award
+can-osc-wb,award_cap,5000000,CAD,r-793e8b962b,can-osc-wb-update-2022,per award
+can-osc-wb,award_cap,5000000,CAD,r-b200be2708,can-osc-fs-2019,"per award, where monetary sanctions and/or voluntary payments have been collected"
+can-osc-wb,award_cap,5000000,CAD,r-13c70e01af,can-osc-wb-eligibility-2026,per award
+can-osc-wb,award_cap,5000000,CAD,r-6b7fcc6531,can-osc-wb-page-2026,per award
+can-osc-wb,award_cap,1500000,CAD,r-869e93235b,can-osc-fs-2019,"per award, where monetary sanctions and/or voluntary payments are not collected"
+can-osc-wb,award_cap,1500000,CAD,r-ba563cea97,can-osc-wb-eligibility-2026,"per award, part not contingent on collections"
+can-osc-wb,award_cap,1500000,CAD,r-d9fa872e7d,can-osc-wb-update-2022,"per award, paid regardless of whether the OSC collects"
+can-osc-wb,award_pct_max,15,percent,r-f10589670b,can-osc-wb-eligibility-2026,total monetary sanctions and/or voluntary payments
+can-osc-wb,award_pct_max,15,percent,r-6ca934e92c,can-osc-fs-2019,total monetary sanctions imposed and/or voluntary payments made
+can-osc-wb,award_pct_max,15,percent,r-5eaed8c153,can-osc-wb-update-2022,total monetary sanctions and/or voluntary payments
+can-osc-wb,award_pct_min,5,percent,r-3de1095207,can-osc-wb-eligibility-2026,total monetary sanctions and/or voluntary payments
+can-osc-wb,award_pct_min,5,percent,r-4f0bfdac19,can-osc-fs-2019,total monetary sanctions imposed and/or voluntary payments made
+can-osc-wb,award_pct_min,5,percent,r-cecac08f4b,can-osc-wb-update-2022,total monetary sanctions and/or voluntary payments
+can-osc-wb,discretionary,1,flag,r-62d0b1bbae,can-osc-wb-eligibility-2026,award amount
+can-osc-wb,discretionary,1,flag,r-c2a1dec5b3,can-osc-wb-update-2022,"whether an award is issued, its percentage and allocation among joint whistleblowers"
+can-osc-wb,sanctions_threshold,1000000,CAD,r-1ea348a957,can-osc-wb-update-2022,total monetary sanctions and/or voluntary payments ordered
+can-osc-wb,sanctions_threshold,1000000,CAD,r-662c911233,can-osc-fs-2019,monetary sanctions and/or voluntary payments in the administrative proceeding
+can-osc-wb,sanctions_threshold,1000000,CAD,r-7bacb39347,can-osc-wb-eligibility-2026,total monetary sanctions ordered and/or voluntary payments made
+gbr-hmrc-informants,discretionary,1,flag,r-d91efbdcd4,gbr-hmrc-ar-2018-19,whether and how much to pay (based on what the information achieved)
+gbr-hmrc-informants,discretionary,1,flag,r-b1874b89dd,gbr-hmrc-ar-2019-20,whether and how much to pay (based on what the information achieved)
+gbr-hmrc-informants,discretionary,1,flag,r-2fcac90e46,gbr-fisher-review-fraud-digital-age-2026,rewards under s.26 CRCA 2005
+gbr-hmrc-srs,award_pct_max,30,percent,r-52174c6c30,gbr-hmrc-ar-2025-26,additional tax collected by HMRC resulting from the informant's information
+gbr-hmrc-srs,award_pct_max,30,percent,r-b76b8ac0d5,gbr-hmrc-srs-guidance-2025,"tax collected, excluding penalties and interest"
+gbr-hmrc-srs,award_pct_min,15,percent,r-dcbe845b20,gbr-hmrc-ar-2025-26,additional tax collected by HMRC resulting from the informant's information
+gbr-hmrc-srs,award_pct_min,15,percent,r-ff7530cd98,gbr-hmrc-srs-guidance-2025,"tax collected, excluding penalties and interest"
+hun-gvh-informant-rewards,award_pct_max,1,percent,r-2dd43ab7bb,hun-gvh-informant-reward-page-2026,total fines imposed in the case (fines on all parties added together)
+hun-gvh-informant-rewards,award_pct_max,1,percent,r-25d40021ba,hun-gvh-ogy-beszamolo-2010,fine imposed in the case (all parties)
+hun-gvh-informant-rewards,award_pct_min,1,percent,r-d07646db8c,hun-gvh-informant-reward-page-2026,total fines imposed in the case (fines on all parties added together)
+hun-gvh-informant-rewards,award_pct_min,1,percent,r-b3eda030d4,hun-gvh-ogy-beszamolo-2010,fine imposed in the case (all parties)
+kor-acrc-rewards,anonymous_filing,1,flag,r-b08caa25e9,kor-moleg-piwpa-decree-2023,"public interest reports (PIWPA) through a lawyer without giving the reporter's identity (proxy reporting, Act art. 8-2), from 18 Oct 2018"
+kor-acrc-rewards,anonymous_filing,1,flag,r-15efa30bb0,kor-moleg-acrc-decree-2026-03,"corruption reports (ACRC Act) through a lawyer without giving the reporter's identity (proxy reporting, Act art. 58-2)"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-17884d3e84,kor-acrc-ar-2025,public interest reports (PIWPA) filed on or before 7 Aug 2024
+kor-acrc-rewards,award_cap,3000000000,KRW,r-f36c251247,kor-acrc-pr-2017-05-18,"corruption rewards, as stated in May 2017"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-d6cab9a89b,kor-acrc-pr-2021-11-11,"rewards (보상금), corruption and public-interest reports, as stated in Nov 2021"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-c7a4160a48,kor-acrc-pr-2024-01-15,public-interest rewards before the January 2024 amendment of the PIWPA
+kor-acrc-rewards,award_cap,3000000000,KRW,r-1603789a60,kor-acrc-pr-2026-07-14,"corruption reports and Public Funds Recovery Act reports, as stated in July 2026 (before the 29 Sep 2026 decrees)"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-1f11729fcf,kor-acrc-pr-2026-09-22,"Graft Act and Conflict of Interest Prevention Act reports (which apply the ACRC Act's reward rules), before 29 Sep 2026"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-d4dfe69c75,kor-acrc-ar-2015,corruption reports (ACRC Act) made after 20 Oct 2015
+kor-acrc-rewards,award_cap,3000000000,KRW,r-6fadde458d,kor-moleg-acrc-decree-2026-03,corruption reports (ACRC Act)
+kor-acrc-rewards,award_cap,3000000000,KRW,r-2e0898affa,kor-moleg-acrc-decree-2015,"corruption rewards (ACRC Act), reports received from 20 Oct 2015 (as enacted by the 2015 amendment)"
+kor-acrc-rewards,award_cap,3000000000,KRW,r-130d5043fe,kor-moleg-piwpa-decree-2018,public interest reports (PIWPA)
+kor-acrc-rewards,award_cap,3000000000,KRW,r-eb3d9ea468,kor-moleg-pfra-decree-2020,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_cap,3000000000,KRW,r-cd48adf2d9,kor-acrc-ar-2025,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_cap,100000000,KRW,r-b7191c69ac,kor-acrc-ar-2013,"monetary award (포상금) for corruption reports, general case"
+kor-acrc-rewards,award_cap,100000000,KRW,r-a0a8b75411,kor-moleg-acrc-decree-2014,"monetary award (포상금) for corruption reports, grounds 1-3 and 5 (ACRC Act), reports received from 28 May 2009"
+kor-acrc-rewards,award_cap,200000000,KRW,r-ae6cccf474,kor-acrc-ar-2013,monetary award for a person who discloses having received pecuniary benefits (self-disclosure): less than one fifth of the benefits disclosed
+kor-acrc-rewards,award_cap,200000000,KRW,r-2e1a64aada,kor-acrc-ar-2022,"monetary award (포상금) for public-interest reports, as described in the 2022 report"
+kor-acrc-rewards,award_cap,200000000,KRW,r-7dc0d0f0ef,kor-acrc-ar-2025,monetary award for public-interest reports filed before 19 Dec 2023
+kor-acrc-rewards,award_cap,200000000,KRW,r-02432a2fee,kor-acrc-pr-2021-11-11,"monetary awards (포상금) where there is no recovery but the public interest gains, as stated in Nov 2021"
+kor-acrc-rewards,award_cap,200000000,KRW,r-fe65f17a65,kor-moleg-acad-decree-2002,corruption reports (Anti-Corruption Act)
+kor-acrc-rewards,award_cap,200000000,KRW,r-16e802e0a2,kor-moleg-acad-decree-2005,"monetary award (포상금) for self-disclosure: a person who received money or goods and reported them (art. 35(1) ground 4), Anti-Corruption Act decree fro"
+kor-acrc-rewards,award_cap,200000000,KRW,r-7bdb5b05cf,kor-acrc-ar-2015,monetary award (포상금) for corruption reports made after 20 Oct 2015
+kor-acrc-rewards,award_cap,200000000,KRW,r-d56b0e3279,kor-moleg-acrc-decree-2015,"monetary award (포상금) for corruption reports, grounds 1-3 and 5 (ACRC Act), reports received from 20 Oct 2015"
+kor-acrc-rewards,award_cap,200000000,KRW,r-c090e4d6de,kor-moleg-piwpa-decree-2016,"monetary award (포상금) for public interest reports (PIWPA), from 25 Jan 2016"
+kor-acrc-rewards,award_cap,200000000,KRW,r-2b79f18467,kor-moleg-pfra-decree-2020,"monetary award (포상금) for reports of fraudulent claims for public funds (Public Funds Recovery Act), reports made before 19 Dec 2023"
+kor-acrc-rewards,award_cap,500000000,KRW,r-fc79b7c31c,kor-acrc-ar-2015,monetary award for a person who discloses having received money or valuables (self-disclosure): up to 30% of the amount reported
+kor-acrc-rewards,award_cap,500000000,KRW,r-154e1ae614,kor-acrc-ar-2024,"monetary award (포상금), as described in the 2024 report (all categories)"
+kor-acrc-rewards,award_cap,500000000,KRW,r-904108059d,kor-acrc-ar-2025,monetary award for reports of fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_cap,500000000,KRW,r-aa3236acbf,kor-moleg-acrc-decree-2015,"monetary award (포상금) for self-disclosure (art. 71(1) ground 4), reports received from 20 Oct 2015"
+kor-acrc-rewards,award_cap,500000000,KRW,r-62a03bbc8c,kor-acrc-ar-2022,monetary award (포상금) for corruption reports (ACRC Act)
+kor-acrc-rewards,award_cap,500000000,KRW,r-e67b0c48af,kor-acrc-ar-2025,monetary award (포상금) for corruption reports (ACRC Act)
+kor-acrc-rewards,award_cap,500000000,KRW,r-0f86522bd0,kor-moleg-acrc-decree-2026-03,"monetary award (포상금) for corruption reports, all grounds (ACRC Act decree), reports made from 19 Jul 2022"
+kor-acrc-rewards,award_cap,500000000,KRW,r-8c9d4128f8,kor-acrc-ar-2023,monetary award (포상금) for public-interest reports and for reports of false claims for public funds
+kor-acrc-rewards,award_cap,500000000,KRW,r-fd6523a2aa,kor-acrc-ar-2025,monetary award for public-interest reports filed on or after 19 Dec 2023
+kor-acrc-rewards,award_cap,500000000,KRW,r-5db82dd90a,kor-moleg-piwpa-decree-2023,"monetary award (포상금) for public interest reports (PIWPA), reports made from 19 Dec 2023"
+kor-acrc-rewards,award_cap,500000000,KRW,r-982e42e2e3,kor-moleg-pfra-decree-2024,"monetary award (포상금) for reports of fraudulent claims for public funds (Public Funds Recovery Act), reports made from 19 Dec 2023"
+kor-acrc-rewards,award_cap,2000000000,KRW,r-8a06b514e6,kor-acrc-ar-2015,"public-interest rewards (Public Interest Whistleblower Protection Act), as described in the 2015 report"
+kor-acrc-rewards,award_cap,2000000000,KRW,r-728ec41b93,kor-acrc-pr-2017-05-18,"public-interest rewards, as stated in May 2017"
+kor-acrc-rewards,award_cap,2000000000,KRW,r-42830a368e,kor-acrc-ar-2015,corruption reports made before 20 Oct 2015
+kor-acrc-rewards,award_cap,2000000000,KRW,r-24b651079e,kor-moleg-acad-decree-2005,corruption reports
+kor-acrc-rewards,award_cap,2000000000,KRW,r-865f54db50,kor-moleg-piwpa-decree-2016,"public interest reports (PIWPA), internal whistleblowers only"
+kor-acrc-rewards,award_min_amount,300000,KRW,r-e216fb2276,kor-moleg-acrc-decree-2026-03,"corruption rewards (ACRC Act): a reward computed at KRW 300,000 or less for an individual act of corruption is not paid"
+kor-acrc-rewards,award_min_amount,300000,KRW,r-43c22103c9,kor-moleg-piwpa-decree-2023,"public interest rewards (PIWPA): a reward computed at KRW 300,000 or less for an individual violation is not paid, reports made from 19 Dec 2023"
+kor-acrc-rewards,award_min_amount,300000,KRW,r-4eeeea4790,kor-moleg-pfra-decree-2024,"public-funds rewards (Public Funds Recovery Act): a reward computed at KRW 300,000 or less for an individual fraudulent claim is not paid, reports mad"
+kor-acrc-rewards,award_partial_payment_pct,50,percent,r-93119e6ed7,kor-moleg-acad-decree-2005,corruption rewards decided on a legally settled recovery: share of the decided reward that may be withheld until public revenue recovery starts (Anti-
+kor-acrc-rewards,award_partial_payment_pct,50,percent,r-12ca382f50,kor-moleg-piwpa-decree-2011,public interest rewards (PIWPA) decided on a legally settled recovery when recovery has not started or is below half the reward: maximum share paid fi
+kor-acrc-rewards,award_partial_payment_pct,50,percent,r-b4c103af90,kor-moleg-pfra-decree-2020,public-funds rewards (Public Funds Recovery Act) decided on a legally settled recovery: share of the decided reward that may be withheld until revenue
+kor-acrc-rewards,award_partial_payment_pct,50,percent,r-33bed7b3ec,kor-moleg-acrc-decree-2026-03,"corruption rewards (ACRC Act) decided on a legally settled recovery when nothing, or less than half of the reward, has yet been recovered: maximum sha"
+kor-acrc-rewards,award_partial_payment_pct,50,percent,r-f9b778c055,kor-moleg-pfra-decree-2024,"public-funds rewards (Public Funds Recovery Act) decided on a legally settled recovery when nothing, or less than half of the reward, has yet been rec"
+kor-acrc-rewards,award_pct_max,20,percent,r-111c434b2f,kor-acrc-ar-2013,"rewards (보상금) for corruption reports, as described in the 2013 report"
+kor-acrc-rewards,award_pct_max,20,percent,r-0ccb7d4d81,kor-acrc-pr-2021-11-11,"rewards for public-interest reports (internal whistleblowers only), as stated in Nov 2021"
+kor-acrc-rewards,award_pct_max,20,percent,r-37506afd54,kor-acrc-pr-2022-05-09,"rewards for public-interest reports, as stated in May 2022"
+kor-acrc-rewards,award_pct_max,20,percent,r-4f18498bbb,kor-moleg-acad-decree-2005,corruption reports
+kor-acrc-rewards,award_pct_max,20,percent,r-e49d0afe79,kor-acrc-ar-2025,public interest reports filed on or before 18 Dec 2023 (PIWPA)
+kor-acrc-rewards,award_pct_max,20,percent,r-efea1d2aad,kor-moleg-piwpa-decree-2011,public interest reports (PIWPA)
+kor-acrc-rewards,award_pct_max,30,percent,r-aac4dc9694,kor-acrc-pr-2021-11-11,"rewards for corruption reports (ACRC reporters only), as stated in Nov 2021"
+kor-acrc-rewards,award_pct_max,30,percent,r-eb94ce168e,kor-acrc-pr-2022-05-09,"rewards for corruption reports, as stated in May 2022"
+kor-acrc-rewards,award_pct_max,30,percent,r-c4309efe27,kor-acrc-pr-2024-01-15,public-interest reports received after the amended PIWPA takes effect (six months after promulgation)
+kor-acrc-rewards,award_pct_max,30,percent,r-35e30b2afe,kor-acrc-pr-2026-07-14,"rewards under the ACRC Act, PIWPA and Public Funds Recovery Act, as stated in July 2026 (before the 29 Sep 2026 decrees)"
+kor-acrc-rewards,award_pct_max,30,percent,r-7f1b0056de,kor-acrc-ar-2025,corruption reports (ACRC Act)
+kor-acrc-rewards,award_pct_max,30,percent,r-7f9384e64a,kor-moleg-acrc-decree-2015,corruption reports (ACRC Act)
+kor-acrc-rewards,award_pct_max,30,percent,r-debf3951f5,kor-moleg-pfra-decree-2020,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_pct_max,30,percent,r-af78d382ed,kor-acrc-ar-2025,public interest reports filed on or after 19 Dec 2023 (PIWPA)
+kor-acrc-rewards,award_pct_max,30,percent,r-e015cbe76e,kor-moleg-piwpa-decree-2023,public interest reports (PIWPA)
+kor-acrc-rewards,award_pct_max,30,percent,r-27f9274af4,kor-acrc-ar-2025,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_pct_max,30,percent,r-1328f8a9b4,kor-moleg-pfra-decree-2024,"fraudulent claims for public funds (Public Funds Recovery Act), applications from 27 Sep 2024 (decree annex 2, band up to 1억원)"
+kor-acrc-rewards,award_pct_max,30,percent,r-2d7594f019,kor-sbs-decree-2026,applications made from 29 Sep 2026 (all three laws)
+kor-acrc-rewards,award_pct_max,30,percent,r-47573b69c3,kor-moleg-acrc-decree-2026-09,"corruption reports (ACRC Act), applications filed from 29 Sep 2026"
+kor-acrc-rewards,award_pct_max,30,percent,r-6cf90ddd8c,kor-moleg-piwpa-decree-2026,"public interest reports (PIWPA), from 29 Sep 2026"
+kor-acrc-rewards,award_pct_max,30,percent,r-9f358f5d2d,kor-moleg-pfra-decree-2026,"fraudulent claims for public funds (Public Funds Recovery Act), from 29 Sep 2026"
+kor-acrc-rewards,award_pct_max,30,percent,r-a3df56f0ef,kor-acrc-pr-2026-09-22,"Graft Act and Conflict of Interest Prevention Act reports, applications from 29 Sep 2026"
+kor-acrc-rewards,award_pct_min,4,percent,r-3d0010cf3e,kor-acrc-pr-2021-11-11,"rewards for corruption reports (ACRC reporters only), as stated in Nov 2021"
+kor-acrc-rewards,award_pct_min,4,percent,r-2403511bed,kor-acrc-pr-2021-11-11,"rewards for public-interest reports (internal whistleblowers only), as stated in Nov 2021"
+kor-acrc-rewards,award_pct_min,4,percent,r-94d447623d,kor-acrc-pr-2022-05-09,"rewards for corruption reports, as stated in May 2022"
+kor-acrc-rewards,award_pct_min,4,percent,r-d50bdca36c,kor-acrc-pr-2022-05-09,"rewards for public-interest reports, as stated in May 2022"
+kor-acrc-rewards,award_pct_min,4,percent,r-1b07a2398a,kor-acrc-pr-2026-07-14,"rewards under the ACRC Act, PIWPA and Public Funds Recovery Act, as stated in July 2026 (before the 29 Sep 2026 decrees)"
+kor-acrc-rewards,award_pct_min,4,percent,r-c3804433ac,kor-acrc-ar-2015,corruption reports (ACRC Act)
+kor-acrc-rewards,award_pct_min,4,percent,r-353c6cc269,kor-moleg-acad-decree-2005,corruption reports
+kor-acrc-rewards,award_pct_min,4,percent,r-d44a40110b,kor-acrc-ar-2025,public interest reports filed on or before 18 Dec 2023 (PIWPA)
+kor-acrc-rewards,award_pct_min,4,percent,r-6550595950,kor-moleg-piwpa-decree-2011,public interest reports (PIWPA)
+kor-acrc-rewards,award_pct_min,4,percent,r-8c7c345504,kor-moleg-acrc-decree-2015,corruption reports (ACRC Act)
+kor-acrc-rewards,award_pct_min,4,percent,r-58270fd1c2,kor-acrc-ar-2025,public interest reports filed on or after 19 Dec 2023 (PIWPA)
+kor-acrc-rewards,award_pct_min,4,percent,r-b3d2402d3e,kor-moleg-piwpa-decree-2023,"public interest rewards (PIWPA), reports made from 19 Dec 2023 (decree annex 2, bottom band above 40억원)"
+kor-acrc-rewards,award_pct_min,4,percent,r-d9982e3201,kor-acrc-ar-2025,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_pct_min,4,percent,r-229b487f81,kor-moleg-pfra-decree-2024,"fraudulent claims for public funds (Public Funds Recovery Act), applications from 27 Sep 2024 (decree annex 2, band above 40억원)"
+kor-acrc-rewards,award_pct_min,30,percent,r-53a083f481,kor-moleg-pfra-decree-2020,fraudulent claims for public funds (Public Funds Recovery Act)
+kor-acrc-rewards,award_pct_min,30,percent,r-cbdb9485c3,kor-sbs-decree-2026,"applications made from 29 Sep 2026 under the ACRC Act, PIWPA and Public Funds Recovery Act"
+kor-acrc-rewards,award_pct_min,30,percent,r-009ee7d444,kor-moleg-acrc-decree-2026-09,"corruption reports (ACRC Act), applications filed from 29 Sep 2026"
+kor-acrc-rewards,award_pct_min,30,percent,r-dfa4215466,kor-moleg-piwpa-decree-2026,"public interest reports (PIWPA), from 29 Sep 2026"
+kor-acrc-rewards,award_pct_min,30,percent,r-2a6791f414,kor-moleg-pfra-decree-2026,"fraudulent claims for public funds (Public Funds Recovery Act), from 29 Sep 2026"
+kor-acrc-rewards,award_pct_min,30,percent,r-1d6d2492b6,kor-acrc-pr-2026-09-22,"Graft Act and Conflict of Interest Prevention Act reports, applications from 29 Sep 2026"
+kor-acrc-rewards,decision_deadline_days,90,days,r-d3ecb8a1f3,kor-moleg-acad-act-2001,corruption reward applications (original Act)
+kor-acrc-rewards,decision_deadline_days,90,days,r-7db6079351,kor-moleg-piwpa-decree-2011,relief (구조금) applications under the PIWPA: time to decide whether and how much to pay
+kor-acrc-rewards,decision_deadline_days,90,days,r-b592dbd303,kor-moleg-acrc-decree-2026-03,relief (구조금) applications under the ACRC Act: time to decide whether and how much to pay
+kor-acrc-rewards,decision_deadline_days,90,days,r-c00b6a3b95,kor-moleg-pfra-decree-2024,relief (구조금) applications under the Public Funds Recovery Act: time to decide whether and how much to pay
+kor-acrc-rewards,filing_deadline_days,3,years,r-aabed4bb9d,kor-acrc-ar-2025,corruption rewards (ACRC Act): from the date the applicant learns the recovery is legally established
+kor-acrc-rewards,filing_deadline_days,3,years,r-6dbbae3259,kor-acrc-ar-2025,public-interest rewards: from the date the applicant learns the recovery is legally established
+kor-acrc-rewards,filing_deadline_days,3,years,r-5ed46f7250,kor-acrc-ar-2025,public-funds rewards (Public Funds Recovery Act): from the date the applicant learns the recovery is legally established
+kor-acrc-rewards,filing_deadline_days,5,years,r-88b939db13,kor-acrc-ar-2025,corruption rewards (ACRC Act): absolute limit from the date the legal relationship is established
+kor-acrc-rewards,filing_deadline_days,5,years,r-c46c95b742,kor-acrc-ar-2025,public-interest rewards: absolute limit from the date the legal relationship is established
+kor-acrc-rewards,filing_deadline_days,5,years,r-d0d1fc97a7,kor-acrc-ar-2025,public-funds rewards (Public Funds Recovery Act): absolute limit from the date the legal relationship is established
+kor-acrc-rewards,relief_wage_cap_multiple,2,times average wage,r-66c930caac,kor-moleg-acrc-decree-2026-03,relief (구조금) under the ACRC Act: monthly average pay used for lost-wage relief may not exceed twice the average wage
+kor-acrc-rewards,relief_wage_cap_multiple,2,times average wage,r-db1d884da0,kor-moleg-piwpa-decree-2011,relief (구조금) under the PIWPA: monthly average pay used for lost-wage relief may not exceed twice the average wage
+kor-acrc-rewards,relief_wage_cap_multiple,2,times average wage,r-8abe79fa5f,kor-moleg-pfra-decree-2024,relief (구조금) under the Public Funds Recovery Act: monthly average pay used for lost-wage relief may not exceed twice the average wage
+kor-acrc-rewards,relief_wage_loss_max_months,36,months,r-f3cdd57e35,kor-moleg-acrc-decree-2026-03,relief (구조금) under the ACRC Act: maximum period of lost wages covered
+kor-acrc-rewards,relief_wage_loss_max_months,36,months,r-ed85947b22,kor-moleg-piwpa-decree-2011,relief (구조금) under the PIWPA: maximum period of lost wages covered
+kor-acrc-rewards,relief_wage_loss_max_months,36,months,r-c336c6c99a,kor-moleg-pfra-decree-2024,relief (구조금) under the Public Funds Recovery Act: maximum period of lost wages covered
+ltu-kt-cartel-rewards,award_cap,100000,EUR,r-31c2f9425f,ltu-kt-news-reward-2026,"per reward, incl. evidence on investigations already under way"
+ltu-kt-cartel-rewards,award_cap,100000,EUR,r-eae245124e,ltu-kt-news-remuneration-procedure-2019,per reward
+ltu-kt-cartel-rewards,award_cap,100000,EUR,r-ae48097094,ltu-kt-news-law-amendments-2019,per reward
+svk-pmu-cartel-rewards,award_cap,100000,EUR,r-0262ce1a8e,svk-pmu-vs-2014,fines paid
+svk-pmu-cartel-rewards,award_cap,100000,EUR,r-745844f39c,svk-zz-2021-187-competition-act,per reward (fines paid)
+svk-pmu-cartel-rewards,award_cap,10000,EUR,r-17be9dcab4,svk-zz-2021-187-competition-act,fines not paid (50% of the reward)
+svk-pmu-cartel-rewards,award_cap,10000,EUR,r-9b396d08a3,svk-pmu-vs-2014,fine not paid: 50% of the reward otherwise due
+svk-pmu-cartel-rewards,award_pct_max,1,percent,r-ff431c9dd0,svk-zz-2021-187-competition-act,sum of fines on all cartel parties
+svk-pmu-cartel-rewards,award_pct_max,1,percent,r-3bff23a808,svk-pmu-vs-2014,fines imposed in one decision of the Office
+svk-pmu-cartel-rewards,award_pct_min,1,percent,r-f1b0342d96,svk-zz-2021-187-competition-act,sum of fines on all cartel parties
+svk-pmu-cartel-rewards,award_pct_min,1,percent,r-f063de7088,svk-pmu-vs-2014,fines imposed in one decision of the Office
+svk-pmu-cartel-rewards,discretionary,0,flag,r-ab7efc6706,svk-pmu-vs-2014,reward is a legal entitlement ('nárok')
+svk-pmu-cartel-rewards,discretionary,0,flag,r-8c58653637,svk-zz-2021-187-competition-act,reward on request once decision final and fine paid
+usa-cftc-wb,award_pct_max,30,percent,r-3b20c81650,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-ac04794215,usa-cftc-wb-pr-6933-14,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-9c74f13bf7,usa-cftc-wb-pr-7254-15,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-18c2fc9d32,usa-cftc-wb-pr-7351-16,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-0614226b94,usa-cftc-wb-pr-7411-16,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-c168670f42,usa-cftc-wb-pr-8453-21,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-76ec4fc4ec,usa-cftc-wb-pr-8500-22,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-f76c5dd480,usa-cftc-wb-pr-8974-24,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-192cbf8486,usa-cftc-wb-pr-9159-25,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-75b2ef6d68,usa-cftc-wb-pr-9245-26,monetary sanctions collected
+usa-cftc-wb,award_pct_max,30,percent,r-d86ec2b00c,usa-cftc-wb-ar-2011,aggregate of monetary sanctions actually collected in a covered action (over $1 million) or related action
+usa-cftc-wb,award_pct_max,30,percent,r-20c8345f12,usa-congress-pl111-203-2010,"of monetary sanctions collected in the action or related actions, in total"
+usa-cftc-wb,award_pct_max,30,percent,r-79fdcc094c,usa-uscode-7usc26-2023,"of monetary sanctions collected in the action or related actions, in total"
+usa-cftc-wb,award_pct_max,30,percent,r-cdcaf80931,usa-ecfr-17cfr165-2026,"of monetary sanctions collected, in total"
+usa-cftc-wb,award_pct_min,10,percent,r-3b792a373f,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-7a8adba4bb,usa-cftc-wb-pr-6933-14,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-459d46c69e,usa-cftc-wb-pr-7254-15,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-148110f472,usa-cftc-wb-pr-7351-16,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-0097928987,usa-cftc-wb-pr-7411-16,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-9ec975ff19,usa-cftc-wb-pr-8453-21,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-a7b65b55cc,usa-cftc-wb-pr-8500-22,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-31583c067d,usa-cftc-wb-pr-8974-24,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-ac55e420c8,usa-cftc-wb-pr-9159-25,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-dc30a5ffa4,usa-cftc-wb-pr-9245-26,monetary sanctions collected
+usa-cftc-wb,award_pct_min,10,percent,r-3f2cb9621f,usa-cftc-wb-ar-2011,aggregate of monetary sanctions actually collected in a covered action (over $1 million) or related action
+usa-cftc-wb,award_pct_min,10,percent,r-2169666655,usa-congress-pl111-203-2010,"of monetary sanctions collected in the action or related actions, in total"
+usa-cftc-wb,award_pct_min,10,percent,r-31759a1b77,usa-uscode-7usc26-2023,"of monetary sanctions collected in the action or related actions, in total"
+usa-cftc-wb,award_pct_min,10,percent,r-63bc892d1d,usa-ecfr-17cfr165-2026,"of monetary sanctions collected in covered or related actions, in total"
+usa-cftc-wb,discretionary,1,flag,r-5d13796d36,usa-congress-pl111-203-2010,"whether, to whom and in what amount awards are made (23(f)(1)); the Commission ""shall pay"" in covered actions (23(b)(1))"
+usa-cftc-wb,discretionary,1,flag,r-a4332361eb,usa-uscode-7usc26-2023,"whether, to whom and in what amount awards are made (26(f)(1))"
+usa-cftc-wb,filing_deadline_days,30,days,r-4537d72d35,usa-cftc-wb-order-wbapp-2014-02-19-01-2014,appeal of a final award determination to a US court of appeals
+usa-cftc-wb,filing_deadline_days,30,days,r-95f3f47eae,usa-cftc-wb-order-wbapp-redacted-2015,appeal of a final award determination to a US court of appeals
+usa-cftc-wb,filing_deadline_days,30,days,r-e513194b48,usa-congress-pl111-203-2010,appeal of an award determination to a US court of appeals
+usa-cftc-wb,filing_deadline_days,30,days,r-df0090e5d7,usa-uscode-7usc26-2023,appeal of an award determination to a US court of appeals
+usa-cftc-wb,filing_deadline_days,30,days,r-e31a840d60,usa-ecfr-17cfr165-2026,"appeal of a Final Order on an award (whether, to whom, amount) to a US court of appeals"
+usa-cftc-wb,filing_deadline_days,2,years,r-f51647c058,usa-congress-pl111-203-2010,retaliation action in district court: from the date of the violation (23(h)(1)(B)(iii))
+usa-cftc-wb,filing_deadline_days,2,years,r-577893f0f5,usa-uscode-7usc26-2023,retaliation action in district court: from the date of the violation (26(h)(1)(B)(iii))
+usa-cftc-wb,filing_deadline_days,2,years,r-102a6caf55,usa-ecfr-17cfr165-2026,"private retaliation action in US district court, from the retaliatory act"
+usa-cftc-wb,filing_deadline_days,90,days,r-e52f4b60ac,usa-ecfr-17cfr165-2026,Form WB-APP after the Notice of Covered Action (or final judgment in a related action)
+usa-cftc-wb,filing_deadline_days,90,days,r-f3e791620f,usa-cftc-wb-ar-2017,"Form WB-APP after the date of the Notice of Covered Action, or after a final judgment in a related action (amended rules)"
+usa-cftc-wb,fund_replenishment_threshold,100000000,USD,r-dcd96c2c2f,usa-uscode-7usc26-2023,sanctions go to the Customer Protection Fund only while its balance is at or below this level
+usa-cftc-wb,fund_replenishment_threshold,100000000,USD,r-24b9b8fea7,usa-congress-pl111-203-2010,sanctions are deposited in the Customer Protection Fund unless its balance exceeds this amount when the judgment is collected
+usa-cftc-wb,fund_replenishment_threshold,100000000,USD,r-ee25121a95,usa-ecfr-17cfr165-2026,sanctions collected go to the Customer Protection Fund only while its balance does not exceed this; above it they go to the Treasury general fund
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-087147e939,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-061df34175,usa-cftc-wb-pr-6933-14,monetary sanctions in the action the information leads to
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-adf933c1e5,usa-cftc-wb-pr-7254-15,monetary sanctions in the action the information leads to
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-0d5d9fd07b,usa-cftc-wb-pr-7351-16,monetary sanctions in the action the information leads to
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-a9905c78b8,usa-cftc-wb-pr-7411-16,monetary sanctions in the action the information leads to
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-a77e870db9,usa-uscode-7usc26-2023,covered judicial or administrative action (must exceed)
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-1027d17d38,usa-cftc-wb-ar-2011,total monetary sanctions in the Commission's covered action (award paid only above this)
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-f8b7f1b153,usa-congress-pl111-203-2010,monetary sanctions in a covered judicial or administrative action
+usa-cftc-wb,sanctions_threshold,1000000,USD,r-88bb2917ca,usa-ecfr-17cfr165-2026,monetary sanctions in a covered judicial or administrative action (must exceed)
+usa-doj-apps,award_cap,50,percent,r-d6b0ce66c3,usa-doj-enrd-ecs-bulletin-2016-05,criminal fine (court may award to persons whose information leads to conviction)
+usa-doj-apps,award_cap,50,percent,r-ab440a9fd0,usa-uscode-33usc1908-2023,criminal fine (court's discretion)
+usa-doj-apps,award_cap,50,percent,r-8941979e21,usa-uscode-33usc1908-2023,"civil penalties assessed by the Secretary or Administrator (1908(b)), paid to the person giving information leading to the assessment"
+usa-doj-atr-wb,award_pct_max,30,percent,r-e55d173346,usa-doj-atr-pr-first-wb-award-2026,money collected
+usa-doj-atr-wb,award_pct_max,30,percent,r-23c8271cfb,usa-doj-atr-wb-page-2026,criminal fine or recovery (presumptive range)
+usa-doj-atr-wb,award_pct_max,30,percent,r-a5982dbe88,usa-doj-atr-usps-wb-mou-2025,recovered criminal fine
+usa-doj-atr-wb,award_pct_min,15,percent,r-e0e69a0a70,usa-doj-atr-pr-first-wb-award-2026,money collected
+usa-doj-atr-wb,award_pct_min,15,percent,r-23a7956bb6,usa-doj-atr-wb-page-2026,criminal fine or recovery (presumptive range)
+usa-doj-atr-wb,award_pct_min,15,percent,r-ac1ea81858,usa-doj-atr-usps-wb-mou-2025,"recovered criminal fine (presumption, not a legal floor)"
+usa-doj-atr-wb,sanctions_threshold,1000000,USD,r-6d81ab640d,usa-doj-atr-pr-first-wb-award-2026,criminal fines or other recoveries
+usa-doj-atr-wb,sanctions_threshold,1000000,USD,r-b53b2a8571,usa-doj-atr-wb-page-2026,criminal fines or other recoveries
+usa-doj-atr-wb,sanctions_threshold,1000000,USD,r-bf17de4073,usa-doj-atr-usps-wb-mou-2025,criminal fine or equivalent DPA/NPA recovery
+usa-doj-cwap,filing_deadline_days,120,days,r-930da586c4,usa-doj-cwap-factsheet-2024,report to DOJ after first reporting internally to the company
+usa-doj-cwap,filing_deadline_days,120,days,r-a1c4bbf0e1,usa-doj-cwap-factsheet-2026,report to DOJ after first reporting internally to the company
+usa-doj-cwap,filing_deadline_days,120,days,r-f0c94dd2ac,usa-doj-cwap-guidance-2024,report to DOJ after first reporting internally (to keep the internal-report date)
+usa-doj-cwap,filing_deadline_days,120,days,r-15b4f73a72,usa-doj-cwap-guidance-2026,report to DOJ after first reporting internally (to keep the internal-report date)
+usa-doj-cwap,sanctions_threshold,1000000,USD,r-c0a207c89a,usa-doj-cwap-guidance-2024,net proceeds forfeited
+usa-doj-cwap,sanctions_threshold,1000000,USD,r-3e4f171f7f,usa-doj-cwap-factsheet-2024,forfeiture
+usa-doj-cwap,sanctions_threshold,1000000,USD,r-3bcb273ba4,usa-doj-cwap-factsheet-2026,forfeiture
+usa-doj-cwap,sanctions_threshold,1000000,USD,r-42099f372c,usa-doj-cwap-guidance-2026,net proceeds forfeited
+usa-fca-qui-tam,award_pct_max,30,percent,r-b7275c072a,gbr-fisher-review-fraud-digital-age-2026,sum recovered (1986 amendments)
+usa-fca-qui-tam,award_pct_max,30,percent,r-e77e129fd7,usa-ca11-zafirov-2026,relator's share of the proceeds of the action or settlement (court's summary of 31 U.S.C. 3730(d))
+usa-fca-qui-tam,award_pct_max,30,percent,r-260b590ec2,usa-crs-r40785-2021,government does not participate (relator litigates alone)
+usa-fca-qui-tam,award_pct_max,30,percent,r-3f16c147a6,usa-doj-fca-pr-fy1998,relator pursues the case alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-ecf0c45215,usa-doj-fca-pr-fy2003,United States declines to intervene; whistleblower pursues alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-a1d511dd4d,usa-doj-fca-pr-fy2005,United States declines to intervene; whistleblower pursues alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-a759aeae8e,usa-doj-fca-pr-fy2007,United States declines and the relator pursues the action alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-9acc9b553a,usa-doj-fca-pr-fy2008,United States declines and the relator pursues the action alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-8d962ac9eb,usa-doj-fca-pr-fy2009,United States declines and the relator pursues the action alone
+usa-fca-qui-tam,award_pct_max,30,percent,r-e3648c85b6,usa-doj-fca-pr-fy2010,successful qui tam suit (overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-f52f9f529b,usa-doj-fca-pr-fy2012,United States prevails in the action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-28f5b10eb6,usa-doj-fca-pr-fy2013,government prevails in the action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-ac0f621cfc,usa-doj-fca-pr-fy2014,government prevails in the action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-fb51a2f126,usa-doj-fca-pr-fy2015,government prevails in the action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-3b3018f110,usa-doj-fca-pr-fy2016,government prevails in the action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-e00fc45118,usa-doj-fca-pr-fy2018,government prevails in a qui tam action (overall maximum)
+usa-fca-qui-tam,award_pct_max,30,percent,r-57fe9a3f7f,usa-doj-fca-pr-fy2019,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-c0614ce7ff,usa-doj-fca-pr-fy2020,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-ddbf0eb948,usa-doj-fca-pr-fy2021,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-e4051e49a7,usa-doj-fca-pr-fy2022,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-7adddb7432,usa-doj-fca-pr-fy2023,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-ec43db776e,usa-doj-fca-pr-fy2024,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-8ee6011c98,usa-doj-fca-pr-fy2025,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_max,30,percent,r-7be5b8a300,usa-flmd-zafirov-order-2024,"relator's award, proceeds of the action (court's summary of 31 U.S.C. 3730(d))"
+usa-fca-qui-tam,award_pct_max,30,percent,r-933821a38f,usa-scotus-polansky-2023,"relator share of the recovery, any case (Court's summary of 31 U.S.C. 3730(d)(1)-(2))"
+usa-fca-qui-tam,award_pct_max,30,percent,r-5aaa6c90a7,usa-scotus-polansky-2023,government does not proceed with the action (dissent's summary of 3730(d)(2))
+usa-fca-qui-tam,award_pct_max,30,percent,r-732351110b,usa-pl-99-562-1986,government does not proceed; relator litigates
+usa-fca-qui-tam,award_pct_max,30,percent,r-60b1f28832,usa-uscode-31-3730-2023,government does not proceed
+usa-fca-qui-tam,award_pct_max,25,percent,r-f837bed6d8,usa-crs-r40785-2021,government takes over the litigation
+usa-fca-qui-tam,award_pct_max,25,percent,r-837e3dc134,usa-doj-fca-pr-fy1998,United States litigates the case
+usa-fca-qui-tam,award_pct_max,25,percent,r-89e405727d,usa-doj-fca-pr-fy2003,United States intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-5f14a5f187,usa-doj-fca-pr-fy2005,government intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-0e3745ade7,usa-doj-fca-pr-fy2006,United States intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-a358ca0865,usa-doj-fca-pr-fy2007,United States intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-a925b091cd,usa-doj-fca-pr-fy2008,United States intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-99af838f5f,usa-doj-fca-pr-fy2009,United States intervenes
+usa-fca-qui-tam,award_pct_max,25,percent,r-81372b5753,usa-flmd-zafirov-order-2024,"relator share when the action succeeds (court summary; 3730(d)(1), government-intervened cases)"
+usa-fca-qui-tam,award_pct_max,25,percent,r-49e6f4c482,usa-scotus-polansky-2023,government proceeds with (intervenes in) the action (dissent's summary of 3730(d)(1))
+usa-fca-qui-tam,award_pct_max,25,percent,r-83e1f71814,usa-crs-r40785-2021,government does not take over the case
+usa-fca-qui-tam,award_pct_max,25,percent,r-5fe65c5bfd,usa-pl-99-562-1986,government proceeds with (intervenes in) the action
+usa-fca-qui-tam,award_pct_max,25,percent,r-7f8b9ba275,usa-uscode-31-3730-2023,government proceeds
+usa-fca-qui-tam,award_pct_max,10,percent,r-a2bb58b106,usa-crs-r40785-2021,government takes over and the claim is based primarily on public information
+usa-fca-qui-tam,award_pct_max,10,percent,r-3876b506b2,usa-crs-r40785-2021,government takes up and litigates the case
+usa-fca-qui-tam,award_pct_max,10,percent,r-188627c241,usa-pl-99-562-1986,government proceeds and the action is based primarily on publicly disclosed information not provided by the relator
+usa-fca-qui-tam,award_pct_max,10,percent,r-218b0d4ce8,usa-uscode-31-3730-2023,government proceeds; action based primarily on public disclosures not provided by the relator
+usa-fca-qui-tam,award_pct_min,25,percent,r-851410097a,usa-crs-r40785-2021,government does not participate (relator litigates alone)
+usa-fca-qui-tam,award_pct_min,25,percent,r-6b1e885639,usa-scotus-polansky-2023,government does not proceed with the action (dissent's summary of 3730(d)(2))
+usa-fca-qui-tam,award_pct_min,25,percent,r-6ce8a347a0,usa-pl-99-562-1986,government does not proceed; relator litigates
+usa-fca-qui-tam,award_pct_min,25,percent,r-260798fbb9,usa-uscode-31-3730-2023,government does not proceed (current Code check)
+usa-fca-qui-tam,award_pct_min,15,percent,r-b4f9e000a5,usa-crs-r40785-2021,government takes over the litigation
+usa-fca-qui-tam,award_pct_min,15,percent,r-cca082ee8a,usa-doj-fca-pr-fy1998,United States litigates the case
+usa-fca-qui-tam,award_pct_min,15,percent,r-bd66f8ce35,usa-doj-fca-pr-fy2003,United States intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-181d31ce13,usa-doj-fca-pr-fy2005,government intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-bd0a592d28,usa-doj-fca-pr-fy2006,United States intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-22f9de75e8,usa-doj-fca-pr-fy2007,United States intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-fda41994c8,usa-doj-fca-pr-fy2008,United States intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-ea46fbc134,usa-doj-fca-pr-fy2009,United States intervenes
+usa-fca-qui-tam,award_pct_min,15,percent,r-679180d741,usa-doj-fca-pr-fy2010,successful qui tam suit (overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-ff86c3fe4e,usa-doj-fca-pr-fy2019,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-cba7cedf4c,usa-doj-fca-pr-fy2020,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-9d5507453c,usa-doj-fca-pr-fy2021,government prevails in a qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-5d503f9b39,usa-doj-fca-pr-fy2022,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-c67ff06fa1,usa-doj-fca-pr-fy2023,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-da2896e51d,usa-doj-fca-pr-fy2024,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-2812dd7fe7,usa-doj-fca-pr-fy2025,successful qui tam action (typical overall range; intervention split not given)
+usa-fca-qui-tam,award_pct_min,15,percent,r-ca37fb139d,usa-flmd-zafirov-order-2024,"relator share when the action succeeds (court summary; 3730(d)(1), government-intervened cases)"
+usa-fca-qui-tam,award_pct_min,15,percent,r-28f1cf2ddc,usa-scotus-polansky-2023,government proceeds with (intervenes in) the action (dissent's summary of 3730(d)(1))
+usa-fca-qui-tam,award_pct_min,15,percent,r-3493e2bb05,usa-pl-99-562-1986,government proceeds with (intervenes in) the action
+usa-fca-qui-tam,award_pct_min,15,percent,r-5c585944d0,usa-uscode-31-3730-2023,government proceeds (current Code check)
+usa-fca-qui-tam,filing_deadline_days,3,years,r-4590dce064,usa-congress-pl111-203-2010,"retaliation action under 31 U.S.C. 3730(h), from the date of the retaliation"
+usa-fca-qui-tam,filing_deadline_days,3,years,r-c2619f5317,usa-crs-r40785-2021,retaliation action under 31 U.S.C. 3730(h)
+usa-fca-qui-tam,filing_deadline_days,3,years,r-971ad23c5b,usa-uscode-31-3730-2023,"retaliation action under 31 U.S.C. 3730(h), from the date of the retaliation"
+usa-fca-qui-tam,public_disclosure_bar,1,flag,r-b1b5ddb43f,usa-crs-r40785-2021,"suits where substantially the same allegations were publicly disclosed, unless the relator is an original source (after PPACA 2010)"
+usa-fca-qui-tam,public_disclosure_bar,1,flag,r-02bc40640e,usa-crs-r40785-2021,suits based on information already in the government's possession
+usa-fca-qui-tam,public_disclosure_bar,1,flag,r-5b145af838,usa-pl-99-562-1986,"suits based on publicly disclosed allegations, unless brought by an original source"
+usa-fca-qui-tam,public_disclosure_bar,1,flag,r-b7581d9e83,usa-uscode-31-3730-2023,"suits where substantially the same allegations were publicly disclosed (federal hearings, federal reports, news media), unless the government opposes "
+usa-fincen-aml-wb,award_pct_max,30,percent,r-bcabcd495f,usa-fincen-wb-bulletin-iran-2026,collected monetary penalties
+usa-fincen-aml-wb,award_pct_max,30,percent,r-52389b18a2,gbr-fisher-review-fraud-digital-age-2026,penalties and fines obtained by FinCEN
+usa-fincen-aml-wb,award_pct_max,30,percent,r-1aa0d690f2,usa-fincen-pr-nprm-2026,proposed rule only (NPRM): of collected monetary penalties
+usa-fincen-aml-wb,award_pct_max,30,percent,r-bf7fecd3f7,usa-fincen-wb-nprm-2026,"proposed rule only: of collected monetary sanctions in a covered or related action, all whistleblowers together"
+usa-fincen-aml-wb,award_pct_max,30,percent,r-62e396b026,usa-uscode-31usc5323-2021,collected monetary sanctions in a covered or related action; subject to appropriations
+usa-fincen-aml-wb,award_pct_max,30,percent,r-20809e478e,usa-congress-pl116-283-2021,"of monetary sanctions collected, in total; no statutory minimum; subject to appropriations"
+usa-fincen-aml-wb,award_pct_max,30,percent,r-164e7e305a,usa-uscode-31usc5323-2023,collected monetary sanctions in a covered or related action
+usa-fincen-aml-wb,award_pct_max,30,percent,r-1e49782abf,usa-congress-pl117-328-2022,"of monetary sanctions collected, in total (5323(b)(1)(B))"
+usa-fincen-aml-wb,award_pct_max,30,percent,r-3ec9afeb14,usa-fincen-cj-fy2025,of monetary sanctions collected in a covered enforcement action
+usa-fincen-aml-wb,award_pct_min,10,percent,r-4f1074eac8,usa-fincen-wb-bulletin-iran-2026,collected monetary penalties
+usa-fincen-aml-wb,award_pct_min,10,percent,r-2dcf2626ba,gbr-fisher-review-fraud-digital-age-2026,penalties and fines obtained by FinCEN
+usa-fincen-aml-wb,award_pct_min,10,percent,r-793cf2d333,usa-fincen-pr-nprm-2026,proposed rule only (NPRM): of collected monetary penalties
+usa-fincen-aml-wb,award_pct_min,10,percent,r-4a681ca72c,usa-fincen-wb-nprm-2026,"proposed rule only: of collected monetary sanctions in a covered or related action, all whistleblowers together"
+usa-fincen-aml-wb,award_pct_min,10,percent,r-985833f9b6,usa-uscode-31usc5323-2023,collected monetary sanctions in a covered or related action
+usa-fincen-aml-wb,award_pct_min,10,percent,r-8fbab4fa20,usa-congress-pl117-328-2022,"of monetary sanctions collected, in total (5323(b)(1)(A)); may be lower for related actions paid by another whistleblower programme (5323(b)(2)(B))"
+usa-fincen-aml-wb,award_pct_min,10,percent,r-3d959dead0,usa-fincen-cj-fy2025,of monetary sanctions collected in a covered enforcement action
+usa-fincen-aml-wb,discretionary,1,,r-e9dcdd51e0,usa-fincen-wb-nprm-2026,"proposed rule only: whether, to whom and in what amount awards are made"
+usa-fincen-aml-wb,discretionary,1,,r-dfd1f87a84,usa-uscode-31usc5323-2018,
+usa-fincen-aml-wb,discretionary,1,,r-931627db41,usa-uscode-31usc5323-2021,amount of award
+usa-fincen-aml-wb,discretionary,1,flag,r-8e099cb914,usa-congress-pl116-283-2021,"whether, to whom and in what amount awards are made (5323(f)(1))"
+usa-fincen-aml-wb,discretionary,1,flag,r-575beb378f,usa-uscode-31usc5323-2023,"whether, to whom and in what amount awards are made (5323(f)(1)); awards of 10-30% ""shall"" be paid in covered actions (5323(b)(1))"
+usa-fincen-aml-wb,filing_deadline_days,30,days,r-a606f69556,usa-fincen-wb-nprm-2026,proposed rule only: appeal of a final determination (other than the amount) to a US court of appeals
+usa-fincen-aml-wb,filing_deadline_days,30,days,r-d6511f9eb0,usa-fincen-wb-nprm-2026,proposed rule only: minimum time to respond to a preliminary determination
+usa-fincen-aml-wb,filing_deadline_days,30,days,r-1dc7c9bc52,usa-congress-pl116-283-2021,appeal of an award determination (except the amount) to a US court of appeals
+usa-fincen-aml-wb,filing_deadline_days,30,days,r-60829f13bf,usa-uscode-31usc5323-2021,appeal of an award determination (except the amount) to a US court of appeals
+usa-fincen-aml-wb,filing_deadline_days,30,days,r-103d2f71e6,usa-uscode-31usc5323-2023,appeal of an award determination (except the amount) to a US court of appeals
+usa-fincen-aml-wb,filing_deadline_days,6,years,r-9f8f9af9ab,usa-congress-pl116-283-2021,"retaliation action in district court (after a Labor Department complaint not decided in 180 days): 6 years after the violation, or 3 years after facts"
+usa-fincen-aml-wb,filing_deadline_days,6,years,r-859423c0c1,usa-uscode-31usc5323-2021,"retaliation action in district court (after a Labor Department complaint not decided in 180 days): 6 years after the violation, or 3 years after mater"
+usa-fincen-aml-wb,filing_deadline_days,6,years,r-b3343ca741,usa-uscode-31usc5323-2023,"retaliation action in district court: 6 years after the violation, or 3 years after material facts known, never more than 10"
+usa-fincen-aml-wb,fund_deposit_cap,300000000,USD,r-8766e1c059,usa-uscode-31usc5323-2023,Financial Integrity Fund balance above which sanctions are no longer deposited
+usa-fincen-aml-wb,fund_deposit_cap,300000000,USD,r-4db95eb779,usa-congress-pl117-328-2022,sanctions are deposited in the Financial Integrity Fund unless its balance exceeds this amount when collected
+usa-fincen-aml-wb,fund_deposit_cap,300000000,USD,r-d28ba04502,usa-fincen-cj-fy2025,"Financial Integrity Fund, the revolving fund that pays awards"
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-53759959fd,usa-fincen-wb-bulletin-fraud-2026,monetary penalties resulting from a Treasury or DOJ enforcement action (as described in the Feb 2026 bulletin)
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-c993f420fc,usa-fincen-wb-bulletin-iran-2026,collected monetary penalties in a Treasury or DOJ enforcement action (as described in the Sept 2026 Iran bulletin)
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-7749c20c04,gbr-fisher-review-fraud-digital-age-2026,penalties and fines
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-6d3daad82a,usa-fincen-wb-page-2026,"monetary penalties from a successful Treasury or DOJ enforcement action (BSA, IEEPA, TWEA, Kingpin Act) must exceed this"
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-208bac104a,usa-fincen-wb-nprm-2026,proposed rule only: monetary sanctions in a covered action (must exceed); actions on the same facts may be combined
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-58145b48d2,usa-uscode-31usc5323-2021,monetary sanctions in a covered judicial or administrative action (BSA)
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-8f5f0e803f,usa-congress-pl116-283-2021,monetary sanctions in a covered action by Treasury or DOJ under the BSA (5323(a)(1))
+usa-fincen-aml-wb,sanctions_threshold,1000000,USD,r-9b9b339414,usa-uscode-31usc5323-2023,"monetary sanctions in a covered action (BSA, IEEPA, TWEA, Kingpin Act and conspiracies)"
+usa-irs-wbo,anonymous_filing,0,,r-db35e5f1ff,usa-uscode-26usc7623-2023,section 7623(b)(6)(C): information must be submitted under penalty of perjury
+usa-irs-wbo,anonymous_filing,0,,r-94f3d2832b,usa-irs-wbo-ar-fy2015,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-b32553fda7,usa-irs-wbo-ar-fy2016,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-be7c0ae050,usa-irs-wbo-ar-fy2017,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-73bec52b40,usa-irs-wbo-ar-fy2018,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-f0b2e17e2b,usa-irs-wbo-ar-fy2019,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-65ee0e5cb6,usa-irs-wbo-ar-fy2020,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-4e2ae391cd,usa-irs-wbo-ar-fy2021,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-59720ecf62,usa-irs-wbo-ar-fy2022,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-3d22f5bf96,usa-irs-wbo-ar-fy2023,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-4314f7b6d1,usa-irs-wbo-ar-fy2024,section 7623(b): information must be signed and submitted under penalties of perjury
+usa-irs-wbo,anonymous_filing,0,,r-982db4203b,usa-ecfr-26cfr301-7623-1-2026,Form 211 must give the whistleblower name and a signed penalty-of-perjury declaration
+usa-irs-wbo,anonymous_filing,0,flag,r-a153e43870,usa-congress-pl109-432-2006,information for a 7623(b) award must be submitted under penalty of perjury (7623(b)(6)(C))
+usa-irs-wbo,anonymous_filing,0,flag,r-5065e10c44,usa-gao-11-683,claims must be made under penalty of perjury
+usa-irs-wbo,award_cap,10000000,USD,r-fe1da3f11a,usa-irs-wbo-ar-fy2010,pre-2006 published policy (waived at times under special agreements)
+usa-irs-wbo,award_cap,10000000,USD,r-66aa5386c1,usa-irs-wbo-ar-fy2011,pre-2006 published policy (waived at times under special agreements)
+usa-irs-wbo,award_cap,10000000,USD,r-60e325c873,usa-irs-wbo-ar-fy2012,pre-2006 published policy (waived at times under special agreements)
+usa-irs-wbo,award_cap,10000000,USD,r-1c55efbf95,usa-irs-wbo-ar-fy2013,pre-2006 published policy (waived at times under special agreements)
+usa-irs-wbo,award_cap,10000000,USD,r-a83498e127,usa-irs-wbo-ar-fy2014,pre-2006 published policy (waived at times under special agreements)
+usa-irs-wbo,award_cap,10000000,USD,r-5b918d6a36,usa-irs-wbo-ar-fy2008,"pre-2006 IRS policy cap, waived at times under ""special agreements"""
+usa-irs-wbo,award_cap,10000000,USD,r-ca30d4ada5,usa-irs-wbo-ar-fy2009,"pre-2006 IRS policy cap, waived at times under ""special agreements"""
+usa-irs-wbo,award_cap,10000000,USD,r-055e82701f,usa-gao-11-683,original programme: IRS cap for claims submitted before 20 Dec 2006
+usa-irs-wbo,award_cap,10000000,USD,r-29d3ebc1b8,usa-tigta-wbo-audit-2016,"IRS policy for discretionary awards (pre-2006 informant awards, then 7623(a))"
+usa-irs-wbo,award_cap,10000000,USD,r-e383ec92de,usa-irs-wbo-first-report-2008,pre-2006 discretionary policy (P-4-27)
+usa-irs-wbo,award_pct_max,30,percent,r-4d14093176,gbr-fisher-review-fraud-digital-age-2026,amount the IRS recovers
+usa-irs-wbo,award_pct_max,30,percent,r-1371357b93,usa-irs-wbo-first-report-2008,section 7623(b) mandatory awards
+usa-irs-wbo,award_pct_max,30,percent,r-4e89dcdf01,usa-uscode-26usc7623-2023,section 7623(b)(1) mandatory award
+usa-irs-wbo,award_pct_max,30,percent,r-9dfb560e2c,usa-congress-pl109-432-2006,collected proceeds under new section 7623(b)(1)
+usa-irs-wbo,award_pct_max,30,percent,r-1e86ceea98,usa-irs-wbo-ar-fy2010,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-9db0750413,usa-irs-wbo-ar-fy2011,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-a9a34bc1bb,usa-irs-wbo-ar-fy2012,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-ceb84c00d5,usa-irs-wbo-ar-fy2013,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-706df20330,usa-irs-wbo-ar-fy2014,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-fa9005960b,usa-irs-wbo-ar-fy2015,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-46790c6476,usa-irs-wbo-ar-fy2016,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-64ad1eeffa,usa-irs-wbo-ar-fy2017,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-cf4e18abc3,usa-irs-wbo-ar-fy2018,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_max,30,percent,r-61b297fad9,usa-irs-wbo-ar-fy2019,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_max,30,percent,r-126fa65b52,usa-irs-wbo-ar-fy2020,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_max,30,percent,r-d5d056358f,usa-irs-wbo-ar-fy2021,"section 7623(b) awards, share of proceeds collected"
+usa-irs-wbo,award_pct_max,30,percent,r-61a7556f92,usa-irs-wbo-ar-fy2022,"section 7623(b) awards, share of proceeds collected"
+usa-irs-wbo,award_pct_max,30,percent,r-94a7b64e58,usa-irs-wbo-ar-fy2023,"section 7623(b) awards, share of proceeds collected"
+usa-irs-wbo,award_pct_max,30,percent,r-25f714cab7,usa-irs-wbo-ar-fy2024,"section 7623(b) awards, share of proceeds collected"
+usa-irs-wbo,award_pct_max,30,percent,r-2fd52da4d7,usa-irs-wbo-ar-fy2008,"section 7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-94f8ddbe3f,usa-irs-wbo-ar-fy2009,"section 7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-a9edeca51b,usa-gao-11-683,"expanded programme (7623(b)), no award cap"
+usa-irs-wbo,award_pct_max,30,percent,r-1fee3eb0a4,usa-tigta-wbo-audit-2009,"7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-8325acf433,usa-tigta-wbo-audit-2016,"7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_max,30,percent,r-275f61188f,usa-tigta-wbo-audit-2023,"7623(b), of proceeds collected"
+usa-irs-wbo,award_pct_max,30,percent,r-7c11384917,usa-irs-wbo-ar-fy2010,section 7623(a) claims submitted on or after 1 July 2010 (IRS policy)
+usa-irs-wbo,award_pct_max,30,percent,r-87abbf9ce2,usa-irs-wbo-ar-fy2011,section 7623(a) claims submitted on or after 1 July 2010 (IRM: same criteria and percentages as 7623(b))
+usa-irs-wbo,award_pct_max,30,percent,r-55892a68dd,usa-irs-wbo-ar-fy2012,section 7623(a) claims submitted on or after 1 July 2010 (IRM: same criteria and percentages as 7623(b))
+usa-irs-wbo,award_pct_max,30,percent,r-74b0703514,usa-gao-16-20,7623(a) claims received after 1 July 2010 (same process as 7623(b))
+usa-irs-wbo,award_pct_max,30,percent,r-decd3474b6,usa-ecfr-26cfr301-7623-4-2026,all awards under section 7623 for substantial contribution (regulation framework)
+usa-irs-wbo,award_pct_max,15,percent,r-18ff1d8a24,usa-irs-wbo-ar-fy2010,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_max,15,percent,r-b4bda21b39,usa-irs-wbo-ar-fy2011,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_max,15,percent,r-acd462ddaa,usa-irs-wbo-ar-fy2012,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_max,15,percent,r-cf9c0845ee,usa-irs-wbo-ar-fy2013,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_max,15,percent,r-02470d6520,usa-irs-wbo-ar-fy2014,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_max,15,percent,r-0e1b01c3a3,usa-irs-wbo-ar-fy2008,"pre-2006 discretionary IRS policy (awards of 1, 10 or 15 percent of proceeds)"
+usa-irs-wbo,award_pct_max,15,percent,r-c44b3f319b,usa-irs-wbo-ar-fy2009,"pre-2006 discretionary IRS policy (awards of 1, 10 or 15 percent of proceeds)"
+usa-irs-wbo,award_pct_max,15,percent,r-8353fd243c,usa-gao-11-683,"original programme (7623(a)), claims submitted before 1 July 2010: discretionary award"
+usa-irs-wbo,award_pct_max,15,percent,r-96ae00dc65,usa-tigta-wbo-audit-2016,"IRS policy for discretionary awards (pre-2006 informant awards, then 7623(a)), of collected taxes and penalties"
+usa-irs-wbo,award_pct_max,15,percent,r-cdaba248ef,usa-irs-wbo-first-report-2008,pre-2006 discretionary policy (P-4-27)
+usa-irs-wbo,award_pct_max,10,percent,r-c56bc6a93c,usa-irs-wbo-first-report-2008,"section 7623(b)(2): cases based principally on public disclosures (hearings, government reports, news media), unless the whistleblower is the original"
+usa-irs-wbo,award_pct_max,10,percent,r-6aaa3a6669,usa-uscode-26usc7623-2023,"section 7623(b)(2): action based principally on public disclosures, unless the whistleblower is the original source"
+usa-irs-wbo,award_pct_max,10,percent,r-18464b4dea,usa-congress-pl109-432-2006,"action based principally on public disclosures (hearings, government reports, news media), unless the individual is the original source (7623(b)(2))"
+usa-irs-wbo,award_pct_max,10,percent,r-a8d6e6862d,usa-irs-wbo-ar-fy2010,section 7623(b)(2): cases based principally on specific allegations in public sources
+usa-irs-wbo,award_pct_max,10,percent,r-565c5a035b,usa-irs-wbo-ar-fy2011,section 7623(b)(2): cases based principally on specific allegations in public sources
+usa-irs-wbo,award_pct_max,10,percent,r-dae8a1de46,usa-irs-wbo-ar-fy2012,section 7623(b)(2): cases based principally on specific allegations in public sources
+usa-irs-wbo,award_pct_max,10,percent,r-98ef18f855,usa-irs-wbo-ar-fy2013,section 7623(b)(2): cases based principally on specific allegations in public sources
+usa-irs-wbo,award_pct_max,10,percent,r-d648fd261d,usa-irs-wbo-ar-fy2014,section 7623(b)(2): action based principally on public disclosures (statute reprinted)
+usa-irs-wbo,award_pct_max,10,percent,r-be204337bf,usa-irs-wbo-ar-fy2008,"section 7623(b)(2): action based principally on public disclosures (hearings, government reports, news media), unless the whistleblower is the origina"
+usa-irs-wbo,award_pct_max,10,percent,r-77c17591d7,usa-irs-wbo-ar-fy2009,"section 7623(b)(2): action based principally on public disclosures (hearings, government reports, news media), unless the whistleblower is the origina"
+usa-irs-wbo,award_pct_max,10,percent,r-861dd67735,usa-gao-11-683,expanded programme: information gathered primarily from judicial or administrative hearings
+usa-irs-wbo,award_pct_max,10,percent,r-81c7a66ca1,usa-tigta-wbo-audit-2016,7623(b) where the whistleblower was not the originating source (information from news media or a judicial or administrative hearing)
+usa-irs-wbo,award_pct_max,10,percent,r-88008425cc,usa-ecfr-26cfr301-7623-4-2026,"less substantial contribution: action based principally on disclosures from hearings, government reports or the news media, whistleblower not the orig"
+usa-irs-wbo,award_pct_min,15,percent,r-e5e13a70c4,gbr-fisher-review-fraud-digital-age-2026,amount the IRS recovers
+usa-irs-wbo,award_pct_min,15,percent,r-6440c9c519,usa-irs-wbo-first-report-2008,section 7623(b) mandatory awards
+usa-irs-wbo,award_pct_min,15,percent,r-352582d990,usa-uscode-26usc7623-2023,"section 7623(b)(1) mandatory award; since 2018 of ""proceeds collected ... determined without regard to whether such proceeds are available to the Secr"
+usa-irs-wbo,award_pct_min,15,percent,r-e3d75c835b,usa-congress-pl109-432-2006,"collected proceeds (incl. penalties, interest, additions to tax) under new section 7623(b)(1)"
+usa-irs-wbo,award_pct_min,15,percent,r-125f5a3730,usa-irs-wbo-ar-fy2010,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-d6b1152c02,usa-irs-wbo-ar-fy2011,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-ab34d23c54,usa-irs-wbo-ar-fy2012,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-47d249a3b8,usa-irs-wbo-ar-fy2013,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-282b9ff13c,usa-irs-wbo-ar-fy2014,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-f90bc22be4,usa-irs-wbo-ar-fy2015,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-0ce4946522,usa-irs-wbo-ar-fy2016,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-5e1a8da251,usa-irs-wbo-ar-fy2017,"section 7623(b) awards, share of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-7b6878aa1a,usa-irs-wbo-ar-fy2018,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_min,15,percent,r-3966112d45,usa-irs-wbo-ar-fy2019,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_min,15,percent,r-9f7dcddffd,usa-irs-wbo-ar-fy2020,"section 7623(b) awards, share of proceeds (as amended 2018)"
+usa-irs-wbo,award_pct_min,15,percent,r-6fecdb935d,usa-irs-wbo-ar-fy2021,"section 7623(b) awards, share of proceeds collected"
+usa-irs-wbo,award_pct_min,15,percent,r-37f24ebcc5,usa-irs-wbo-ar-fy2022,"section 7623(b) awards, share of proceeds collected (""will generally pay"")"
+usa-irs-wbo,award_pct_min,15,percent,r-8362e0fd9d,usa-irs-wbo-ar-fy2023,"section 7623(b) awards, share of proceeds collected (""will generally pay"")"
+usa-irs-wbo,award_pct_min,15,percent,r-4ae79e18ce,usa-irs-wbo-ar-fy2024,"section 7623(b) awards, share of proceeds collected (""will generally pay"")"
+usa-irs-wbo,award_pct_min,15,percent,r-e8548b981f,usa-irs-wbo-ar-fy2008,"section 7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-ad4690eb2e,usa-irs-wbo-ar-fy2009,"section 7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-3079c9fd10,usa-gao-11-683,expanded programme (7623(b)): mandatory award; calculation starts at 15%
+usa-irs-wbo,award_pct_min,15,percent,r-d75a0b77cd,usa-tigta-wbo-audit-2009,"7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-37534753f8,usa-tigta-wbo-audit-2016,"7623(b) awards, of collected proceeds"
+usa-irs-wbo,award_pct_min,15,percent,r-dde1eae27f,usa-tigta-wbo-audit-2023,"7623(b), of proceeds collected"
+usa-irs-wbo,award_pct_min,15,percent,r-70aedd5785,usa-irs-wbo-ar-fy2010,section 7623(a) claims submitted on or after 1 July 2010 (IRS policy: same criteria and percentages as 7623(b))
+usa-irs-wbo,award_pct_min,15,percent,r-5430ec26f9,usa-irs-wbo-ar-fy2011,section 7623(a) claims submitted on or after 1 July 2010 (IRM: same criteria and percentages as 7623(b))
+usa-irs-wbo,award_pct_min,15,percent,r-5585f818bc,usa-irs-wbo-ar-fy2012,section 7623(a) claims submitted on or after 1 July 2010 (IRM: same criteria and percentages as 7623(b))
+usa-irs-wbo,award_pct_min,15,percent,r-82ee38c8f7,usa-gao-16-20,7623(a) claims received after 1 July 2010 (same process as 7623(b))
+usa-irs-wbo,award_pct_min,15,percent,r-ec33095b4c,usa-ecfr-26cfr301-7623-4-2026,all awards under section 7623 (both (a) and (b)) for substantial contribution; analysis starts at 15% and may rise to 22% or 30%
+usa-irs-wbo,award_pct_min,1,percent,r-7e618594b7,usa-irs-wbo-ar-fy2010,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_min,1,percent,r-da2f6de1d6,usa-irs-wbo-ar-fy2011,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_min,1,percent,r-af6df01e73,usa-irs-wbo-ar-fy2012,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_min,1,percent,r-9b61a27fc7,usa-irs-wbo-ar-fy2013,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_min,1,percent,r-822ddc8819,usa-irs-wbo-ar-fy2014,"pre-2006 discretionary policy: awards of 1, 10 or 15 percent of proceeds"
+usa-irs-wbo,award_pct_min,1,percent,r-874b60dc23,usa-irs-wbo-ar-fy2008,"pre-2006 discretionary IRS policy (awards of 1, 10 or 15 percent of proceeds)"
+usa-irs-wbo,award_pct_min,1,percent,r-d11c40a312,usa-irs-wbo-ar-fy2009,"pre-2006 discretionary IRS policy (awards of 1, 10 or 15 percent of proceeds)"
+usa-irs-wbo,award_pct_min,1,percent,r-ceb188edf5,usa-irs-wbo-first-report-2008,"pre-2006 discretionary policy (IRS Policy Statement P-4-27): award of 1%, 10% or 15% of proceeds"
+usa-irs-wbo,decision_deadline_days,90,days,r-359e69a223,usa-gao-11-683,internal target for Criminal Investigation initial SME review
+usa-irs-wbo,decision_deadline_days,90,days,r-5784b88d3d,usa-gao-16-20,"target for completing the initial ICE, CDO and SB/SE review steps (set by the Deputy Commissioner)"
+usa-irs-wbo,decision_deadline_days,90,days,r-d2a2cb228e,usa-gao-16-20,target for completing operating-division SME review
+usa-irs-wbo,decision_deadline_days,90,days,r-06fcd91054,usa-gao-16-20,"target for sending the preliminary award package, from the refund statute expiration date"
+usa-irs-wbo,decision_deadline_days,90,days,r-8d9c464877,usa-tigta-wbo-audit-2016,Deputy Commissioner target: initial evaluation of a claim
+usa-irs-wbo,decision_deadline_days,90,days,r-0d1517df78,usa-tigta-wbo-audit-2016,Deputy Commissioner target: review of the claim by an operating division SME
+usa-irs-wbo,decision_deadline_days,90,days,r-f27db92663,usa-tigta-wbo-audit-2016,Deputy Commissioner target: award decision once collected proceeds can be determined
+usa-irs-wbo,decision_deadline_days,30,days,r-0a4cfa6a3a,usa-tigta-wbo-audit-2016,WO target: establish claims/submissions on E-TRAK after receipt
+usa-irs-wbo,decision_deadline_days,30,days,r-3d9f679556,usa-tigta-wbo-audit-2023,desk-guide timeliness standard: ICE unit: build a claim
+usa-irs-wbo,decision_deadline_days,7,days,r-82b3c0cae7,usa-tigta-wbo-audit-2016,WO target: process rejections/denials after classification
+usa-irs-wbo,decision_deadline_days,7,days,r-e778cc171f,usa-tigta-wbo-audit-2023,desk-guide timeliness standard: issue rejection/denial letters to whistleblowers
+usa-irs-wbo,decision_deadline_days,25,days,r-9d3ff1e019,usa-tigta-wbo-audit-2016,verbal agreement: SB/SE Division classification of claims
+usa-irs-wbo,decision_deadline_days,25,days,r-b4e8d1d29c,usa-tigta-wbo-audit-2023,desk-guide timeliness standard: complete classification determination
+usa-irs-wbo,decision_deadline_days,14,days,r-cef2403f30,usa-tigta-wbo-audit-2016,WO target: ICE unit check of Form 11369 packages for completeness after receipt from an operating division
+usa-irs-wbo,decision_deadline_days,14,days,r-2ddba3e9c7,usa-tigta-wbo-audit-2023,desk-guide timeliness standard: review the Form 11369 information for completeness
+usa-irs-wbo,discretionary,1,,r-4fa53455d9,usa-irs-wbo-ar-fy2010,awards before the 2006 amendments
+usa-irs-wbo,discretionary,1,,r-2cf990ef2b,usa-irs-wbo-ar-fy2011,awards before the 2006 amendments
+usa-irs-wbo,discretionary,1,,r-c61849b050,usa-irs-wbo-ar-fy2012,awards before the 2006 amendments
+usa-irs-wbo,discretionary,1,,r-53ff5c75cf,usa-irs-wbo-ar-fy2013,awards before the 2006 amendments
+usa-irs-wbo,discretionary,1,,r-7c840867e4,usa-irs-wbo-ar-fy2014,awards before the 2006 amendments
+usa-irs-wbo,discretionary,1,,r-b8bd288748,usa-tigta-wbo-audit-2023,7623(a) (information before 20 Dec 2006 or below the 7623(b) thresholds)
+usa-irs-wbo,discretionary,1,,r-d98f34c1a2,usa-irs-wbo-first-report-2008,all awards before the 2006 Act
+usa-irs-wbo,discretionary,1,,r-23d82484b5,usa-tigta-wbo-audit-2016,"7623(a) awards (below the 7623(b) thresholds and all information before 20 Dec 2006); no statutory minimum, no appeal rights"
+usa-irs-wbo,discretionary,1,,r-3571293fc5,usa-ecfr-26cfr301-7623-1-2026,"section 7623(a) awards (""may pay ... in a suitable amount"")"
+usa-irs-wbo,discretionary,0,,r-ccea5fc435,usa-irs-wbo-first-report-2008,"section 7623(b) awards (mandatory, appealable to the Tax Court)"
+usa-irs-wbo,discretionary,0,,r-ce1a1e67c6,usa-irs-wbo-ar-fy2010,section 7623(b) awards (IRS generally required to pay)
+usa-irs-wbo,discretionary,0,,r-497a620209,usa-gao-11-683,expanded programme (7623(b)): award mandatory when IRS acts on the information and collects proceeds
+usa-irs-wbo,discretionary,0,,r-0d699dbf82,usa-tigta-wbo-audit-2009,claims where the amount in dispute exceeds $2 million
+usa-irs-wbo,discretionary,0,,r-8ebb02fa46,usa-tigta-wbo-audit-2016,"7623(b) awards (mandatory, appealable to the Tax Court)"
+usa-irs-wbo,discretionary,0,,r-70ac2d6e1e,usa-ecfr-26cfr301-7623-1-2026,section 7623(b) awards when the requirements of 7623(b)(5)-(6) are met and the IRS proceeds with an action
+usa-irs-wbo,filing_deadline_days,30,days,r-150e25b47d,usa-gao-16-20,"whistleblower response to a preliminary award recommendation, or Tax Court appeal of a final determination, from the date of the notice"
+usa-irs-wbo,filing_deadline_days,30,days,r-bd8ce41011,usa-tigta-wbo-audit-2016,"review and comment period after a preliminary rejection, denial or award letter (whistleblower response)"
+usa-irs-wbo,filing_deadline_days,30,days,r-082b2ac84e,usa-irs-wbo-first-report-2008,time to appeal a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-e98311b899,usa-congress-pl109-432-2006,appeal of an award determination to the Tax Court (7623(b)(4))
+usa-irs-wbo,filing_deadline_days,30,days,r-6662d009d9,usa-irs-wbo-ar-fy2010,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-2b8aa7c8a0,usa-irs-wbo-ar-fy2011,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-22ebcab33f,usa-irs-wbo-ar-fy2013,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-50ba8a460c,usa-irs-wbo-ar-fy2014,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-df4b56d475,usa-irs-wbo-ar-fy2008,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-2acb246eab,usa-irs-wbo-ar-fy2009,appeal of a 7623(b) award determination to the Tax Court
+usa-irs-wbo,filing_deadline_days,30,days,r-4e01c0db46,usa-uscode-26usc7623-2023,appeal of a 7623(b) award determination to the Tax Court (7623(b)(4))
+usa-irs-wbo,filing_deadline_days,30,days,r-4ec7e68761,usa-ecfr-26cfr301-7623-4-2026,appeal of an award determination to the Tax Court
+usa-irs-wbo,income_threshold,200000,USD,r-1cf8619c80,usa-irs-wbo-first-report-2008,"section 7623(b): if the taxpayer is an individual, gross income must exceed this for at least one year in question"
+usa-irs-wbo,income_threshold,200000,USD,r-a7d0525454,usa-uscode-26usc7623-2023,section 7623(b)(5)(A): individual taxpayer gross income must exceed this in a taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-371041353c,usa-congress-pl109-432-2006,individual taxpayer gross income in any taxable year subject to the action (7623(b)(5)(A))
+usa-irs-wbo,income_threshold,200000,USD,r-49960ca44e,usa-irs-wbo-ar-fy2010,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-95b95917c0,usa-irs-wbo-ar-fy2011,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-2c4c721def,usa-irs-wbo-ar-fy2012,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-8ae115e5f5,usa-irs-wbo-ar-fy2013,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-4127d8271d,usa-irs-wbo-ar-fy2014,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-fede72205e,usa-irs-wbo-ar-fy2015,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-cb16c3cde4,usa-irs-wbo-ar-fy2016,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-3f39b5ecf8,usa-irs-wbo-ar-fy2017,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-1d317b9e1b,usa-irs-wbo-ar-fy2018,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-0b0fd787bc,usa-irs-wbo-ar-fy2019,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-52e98b9ca4,usa-irs-wbo-ar-fy2020,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-ab69b6cb84,usa-irs-wbo-ar-fy2021,section 7623(b): individual taxpayer gross income for at least one tax year in question
+usa-irs-wbo,income_threshold,200000,USD,r-2fd0a1c0b8,usa-irs-wbo-ar-fy2022,section 7623(b): individual taxpayer gross income for any taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-40b8d82e20,usa-irs-wbo-ar-fy2023,section 7623(b): individual taxpayer gross income for any taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-85ff45609f,usa-irs-wbo-ar-fy2024,section 7623(b): individual taxpayer gross income for any taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-f2295b7219,usa-irs-wbo-ar-fy2008,section 7623(b)(5)(A): individual taxpayer gross income in any taxable year subject to the action (must exceed)
+usa-irs-wbo,income_threshold,200000,USD,r-b5e1ab4d2a,usa-irs-wbo-ar-fy2009,section 7623(b)(5)(A): individual taxpayer gross income in any taxable year subject to the action (must exceed)
+usa-irs-wbo,income_threshold,200000,USD,r-bb196011b2,usa-tigta-wbo-audit-2009,7623(b): individual taxpayers (TIGTA describes it as the amount in dispute for individuals)
+usa-irs-wbo,income_threshold,200000,USD,r-e22f3214d3,usa-tigta-wbo-audit-2016,7623(b) against an individual: taxpayer gross income for any taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-8a518210dc,usa-tigta-wbo-audit-2023,7623(b) where the subject is an individual: the individual's gross income for any taxable year subject to the action
+usa-irs-wbo,income_threshold,200000,USD,r-8ddcfd58c4,usa-ecfr-26cfr301-7623-2-2026,regulatory definition (amount in dispute and gross income)
+usa-irs-wbo,notification_deadline_days,60,days,r-c50067b11d,usa-tigta-wbo-audit-2023,TFA audit referral notification: after the claim is referred for examination
+usa-irs-wbo,notification_deadline_days,60,days,r-9849b01d9a,usa-tigta-wbo-audit-2023,TFA payment notification: after a tax payment on a finalized liability
+usa-irs-wbo,reward_basis_includes_fines,0,flag,r-4919a09327,usa-ecfr-26cfr301-7623-2-2026,criminal fines deposited into the Crime Victims Fund are not collected proceeds and cannot fund awards
+usa-irs-wbo,reward_basis_includes_fines,0,flag,r-e5c458c45c,usa-gao-18-698,FBAR penalties (Title 31) and criminal fines (Title 18) excluded from collected proceeds under the August 2014 regulation
+usa-irs-wbo,reward_basis_includes_fines,1,flag,r-bed1915273,usa-gao-18-698,"""proceeds"" include criminal fines, civil forfeitures and violations of reporting requirements (FBAR) for claims without a final award determination by"
+usa-irs-wbo,reward_basis_includes_fines,1,flag,r-923285f959,usa-uscode-26usc7623-2023,"""proceeds"" include criminal fines and civil forfeitures and violations of reporting requirements (7623(c)(2))"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-02e6afbc0f,gbr-fisher-review-fraud-digital-age-2026,amount recovered
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-5b926c49ea,usa-irs-wbo-first-report-2008,"section 7623(b): tax, penalties, interest, additions to tax and additional amounts in dispute must exceed this"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-c70e266e4f,usa-congress-pl109-432-2006,"tax, penalties, interest, additions to tax and additional amounts in dispute (7623(b)(5)(B))"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-c63765579d,usa-irs-wbo-ar-fy2010,"section 7623(b): tax, penalties, interest, additions to tax and additional amounts in dispute"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-aef7393307,usa-irs-wbo-ar-fy2011,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-1ab0ab77f4,usa-irs-wbo-ar-fy2012,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-8cd0109bdf,usa-irs-wbo-ar-fy2013,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-0784184834,usa-irs-wbo-ar-fy2014,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-d20aca3cd4,usa-irs-wbo-ar-fy2015,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-de2c108e29,usa-irs-wbo-ar-fy2016,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-7a2ae65d9e,usa-irs-wbo-ar-fy2017,section 7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-def0b44761,usa-irs-wbo-ar-fy2008,"section 7623(b)(5)(B): tax, penalties, interest, additions to tax and additional amounts in dispute (must exceed)"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-3d6b8c8881,usa-irs-wbo-ar-fy2009,"section 7623(b)(5)(B): tax, penalties, interest, additions to tax and additional amounts in dispute (must exceed)"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-28c92fdc43,usa-uscode-26usc7623-2023,"tax, penalties, interest, additions to tax and additional amounts in dispute (7623(b)(5)(B) before 2018)"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-fd5d046ef8,usa-tigta-wbo-audit-2009,"7623(b): amount in dispute, business taxpayers"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-2d2df4b193,usa-tigta-wbo-audit-2016,7623(b): amounts in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-80ec5df1e5,usa-tigta-wbo-audit-2023,"7623(b): tax, penalties, interest, additions to tax and additional proceeds in dispute"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-6be15ffd1b,usa-ecfr-26cfr301-7623-2-2026,"section 7623(b): tax, penalties, interest, additions to tax and additional amounts in dispute (must exceed)"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-a08f516894,usa-irs-wbo-ar-fy2018,"section 7623(b)(5)(B): ""proceeds in dispute"" must exceed this; proceeds now include non-tax amounts (criminal fines, civil forfeitures, reporting-requ"
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-0e0dd26aaa,usa-uscode-26usc7623-2023,section 7623(b)(5)(B) as amended 2018: proceeds in dispute
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-30bcb5cb53,usa-irs-wbo-ar-fy2019,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-991098db59,usa-irs-wbo-ar-fy2020,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-737bbc56b7,usa-irs-wbo-ar-fy2021,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-badc27cbd9,usa-irs-wbo-ar-fy2022,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-7b9cd0fd0e,usa-irs-wbo-ar-fy2023,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sanctions_threshold,2000000,USD,r-4162e31eee,usa-irs-wbo-ar-fy2024,section 7623(b): proceeds in dispute (as amended 2018)
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-bd03d63c49,usa-irs-wbo-ar-fy2021,award payments made in FY2021
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-457d793798,usa-irs-wbo-ar-fy2022,award payments made in FY2022
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-888644fed9,usa-tigta-wbo-audit-2023,every 7623 award payment made in the fiscal year
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-c850a2ee1e,usa-irs-wbo-ar-fy2023,award payments made in FY2023
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-04632e3e5c,usa-irs-wbo-ar-fy2024,award payments made in FY2024
+usa-irs-wbo,sequestration_reduction_pct,5.7,percent,r-7dfa4cb3cf,usa-irs-wbo-sequester-notice-fy2025,award payments made in FY2025
+usa-nhtsa-wb,award_pct_max,30,percent,r-81aa5e4f69,usa-nhtsa-wb-page-2026,"collected monetary sanctions over $1,000,000"
+usa-nhtsa-wb,award_pct_max,30,percent,r-f1a3668eaa,usa-nhtsa-pr-first-wb-award-2021,collected monetary sanctions (press release)
+usa-nhtsa-wb,award_pct_max,30,percent,r-7f4a4b0576,usa-nhtsa-wb-award-2021-0001,collected monetary sanctions (order quoting 49 U.S.C. 30172(b)(1))
+usa-nhtsa-wb,award_pct_max,30,percent,r-58d006e41b,usa-uscode-49usc30172-2023,collected monetary sanctions
+usa-nhtsa-wb,award_pct_max,30,percent,r-3b7e4be719,usa-nhtsa-wb-nprm-2023,"aggregate award to all whistleblowers, share of monetary sanctions collected in the covered action (proposed 49 CFR 513.10(c), restating 49 U.S.C. 301"
+usa-nhtsa-wb,award_pct_max,30,percent,r-4d98d57a48,usa-nhtsa-wb-finalrule-2024,"aggregate award to all whistleblowers, share of monetary sanctions collected in the covered action"
+usa-nhtsa-wb,award_pct_min,10,percent,r-587000d229,usa-nhtsa-wb-page-2026,"collected monetary sanctions over $1,000,000"
+usa-nhtsa-wb,award_pct_min,10,percent,r-7b121d0f17,usa-nhtsa-wb-award-2021-0001,collected monetary sanctions (order quoting 49 U.S.C. 30172(b)(1))
+usa-nhtsa-wb,award_pct_min,10,percent,r-a9427bb283,usa-uscode-49usc30172-2023,collected monetary sanctions
+usa-nhtsa-wb,award_pct_min,10,percent,r-60c90530df,usa-nhtsa-wb-nprm-2023,"aggregate award to all whistleblowers, share of monetary sanctions collected in the covered action (proposed 49 CFR 513.10(c), restating 49 U.S.C. 301"
+usa-nhtsa-wb,award_pct_min,10,percent,r-309568e5fb,usa-nhtsa-wb-finalrule-2024,"aggregate award to all whistleblowers, share of monetary sanctions collected in the covered action"
+usa-nhtsa-wb,discretionary,1,,r-1c70fe0eae,usa-nhtsa-wb-award-2021-0001,"whether, to whom and how much within the 10-30 percent range"
+usa-nhtsa-wb,discretionary,1,,r-c45eb16c21,usa-uscode-49usc30172-2023,"whether, to whom and how much (within 10-30 percent)"
+usa-nhtsa-wb,filing_deadline_days,30,days,r-780fcba8a4,usa-uscode-49usc30172-2023,appeal of an award determination to a US court of appeals
+usa-nhtsa-wb,filing_deadline_days,30,days,r-33c9e056f6,usa-nhtsa-wb-finalrule-2024,appeal of an award determination to a US court of appeals after the Administrator's Order
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-3ded7127df,usa-nhtsa-wb-page-2026,collected monetary sanctions
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-cf006db593,usa-nhtsa-pr-first-wb-award-2021,"penalties in the action (press release: ""more than one million dollars"")"
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-8e6709ca5b,usa-nhtsa-wb-award-2021-0001,monetary sanctions in a covered action
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-88cbe3a74b,usa-uscode-49usc30172-2023,monetary sanctions in a covered action (in the aggregate)
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-dab1340e71,usa-nhtsa-wb-nprm-2023,"monetary sanctions in a covered action, in the aggregate (statutory definition quoted)"
+usa-nhtsa-wb,sanctions_threshold,1000000,USD,r-97455d5fe1,usa-nhtsa-wb-finalrule-2024,monetary sanctions collected in a covered action (no award at or below)
+usa-sec-wb,award_pct_max,30,percent,r-e0e0fc2d3b,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions imposed
+usa-sec-wb,award_pct_max,30,percent,r-49b71806b1,usa-sec-wb-pr-2023-89,of the money collected when monetary sanctions exceed $1 million
+usa-sec-wb,award_pct_max,30,percent,r-4f29f0b548,usa-uscode-15usc78u-6-2023,"aggregate award, of monetary sanctions collected"
+usa-sec-wb,award_pct_max,30,percent,r-18940133a3,usa-sec-owb-ar-2011,monetary sanctions collected in a covered action over $1 million
+usa-sec-wb,award_pct_max,30,percent,r-346b4020cb,usa-congress-pl111-203-2010,"of monetary sanctions collected in the action or related actions, in total"
+usa-sec-wb,award_pct_max,30,percent,r-5e6b6072f5,usa-scotus-digital-realty-2018,monetary sanctions collected in the enforcement action (court's summary of 15 U.S.C. 78u-6(b)(1))
+usa-sec-wb,award_pct_max,30,percent,r-db85825c44,usa-sec-oig-575-2022,total monetary sanctions collected
+usa-sec-wb,award_pct_max,30,percent,r-bb361995ea,usa-ecfr-17cfr240-21f-2026,"of monetary sanctions the Commission and other authorities collect, all whistleblowers in total"
+usa-sec-wb,award_pct_min,10,percent,r-7b605e2a19,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions imposed
+usa-sec-wb,award_pct_min,10,percent,r-49333df548,usa-sec-wb-pr-2023-89,of the money collected when monetary sanctions exceed $1 million
+usa-sec-wb,award_pct_min,10,percent,r-98476ed9d4,usa-uscode-15usc78u-6-2023,"aggregate award, of monetary sanctions collected in the covered or related action"
+usa-sec-wb,award_pct_min,10,percent,r-97aded153d,usa-sec-owb-ar-2011,monetary sanctions collected in a covered action over $1 million
+usa-sec-wb,award_pct_min,10,percent,r-ca31d790f2,usa-congress-pl111-203-2010,"of monetary sanctions collected in the action or related actions, in total"
+usa-sec-wb,award_pct_min,10,percent,r-1b44ad4d9b,usa-scotus-digital-realty-2018,monetary sanctions collected in the enforcement action (court's summary of 15 U.S.C. 78u-6(b)(1))
+usa-sec-wb,award_pct_min,10,percent,r-a54d3185a2,usa-sec-oig-575-2022,total monetary sanctions collected
+usa-sec-wb,award_pct_min,10,percent,r-9d4a16559e,usa-ecfr-17cfr240-21f-2026,"of monetary sanctions the Commission and other authorities collect, all whistleblowers in total"
+usa-sec-wb,award_presumption_max_threshold,5000000,USD,r-a0f8028aa2,usa-ecfr-17cfr240-21f-2026,presumption of the statutory maximum award where the 30% maximum across covered and related actions is $5 million or less
+usa-sec-wb,award_presumption_max_threshold,5000000,USD,r-c773952aee,usa-sec-owb-ar-2020,awards where the statutory maximum for the covered and related actions is $5 million or less in aggregate: presumption of the statutory maximum (30%) 
+usa-sec-wb,award_presumption_max_threshold,5000000,USD,r-d304032c0e,usa-sec-oig-575-2022,presumption of the maximum 30% award when 30% of collected sanctions would be $5 million or less (no negative factors; Rule 21F-6(c))
+usa-sec-wb,discretionary,1,flag,r-a74f663ec7,usa-congress-pl111-203-2010,"whether, to whom and in what amount awards are made (21F(f)); the Commission ""shall pay"" in covered actions (21F(b)(1))"
+usa-sec-wb,discretionary,1,flag,r-f586fc4078,usa-sec-oig-575-2022,amount of the award (within 10-30%)
+usa-sec-wb,discretionary,1,flag,r-abeb17f183,usa-uscode-15usc78u-6-2023,"whether, to whom and in what amount awards are made (21F(f)); the Commission ""shall pay"" in covered actions (21F(b)(1))"
+usa-sec-wb,filing_deadline_days,30,days,r-2d765626ed,usa-sec-oig-575-2022,request for the record after a Preliminary Determination
+usa-sec-wb,filing_deadline_days,30,days,r-f77add1deb,usa-sec-oig-575-2022,appeal of a denial in a Final Order to a US court of appeals
+usa-sec-wb,filing_deadline_days,30,days,r-3020da51e0,usa-sec-owb-ar-2021,request for the record supporting a Preliminary Determination (from its date)
+usa-sec-wb,filing_deadline_days,30,days,r-6e5db4059f,usa-sec-owb-ar-2020,request for a meeting with OWB after a Preliminary Determination
+usa-sec-wb,filing_deadline_days,30,days,r-50eb9e2a86,usa-congress-pl111-203-2010,"appeal of an award determination (except the amount, if within 10-30%) to a US court of appeals"
+usa-sec-wb,filing_deadline_days,30,days,r-2be91948c7,usa-uscode-15usc78u-6-2023,"appeal of an award determination (except the amount, if within 10-30%) to a US court of appeals"
+usa-sec-wb,filing_deadline_days,30,days,r-68ad947450,usa-ecfr-17cfr240-21f-2026,"appeal of a determination of whether or to whom to make an award, to a US court of appeals (the amount is not appealable if within 10-30%)"
+usa-sec-wb,filing_deadline_days,30,days,r-ccaa5c5de3,usa-sec-owb-ar-2014,request for the record after a Preliminary Determination
+usa-sec-wb,filing_deadline_days,30,days,r-9a48ea0cbc,usa-sec-owb-ar-2021,challenge to a Preliminary Summary Disposition
+usa-sec-wb,filing_deadline_days,30,days,r-c1f94dd8ed,usa-sec-owb-ar-2020,"submitting Form TCR after first providing the information, or after notice of the requirement (automatic waiver of the TCR rules)"
+usa-sec-wb,filing_deadline_days,60,days,r-744bcba9aa,usa-sec-oig-575-2022,request for reconsideration after the Preliminary Determination (or after the record is made available)
+usa-sec-wb,filing_deadline_days,60,days,r-705c22d202,usa-sec-owb-ar-2014,reconsideration after the Preliminary Determination (or after the record is made available)
+usa-sec-wb,filing_deadline_days,60,days,r-8b37f7c1cd,usa-ecfr-17cfr240-21f-2026,"written response contesting a Preliminary Determination (from its date, or from when the record materials are made available)"
+usa-sec-wb,filing_deadline_days,6,years,r-6675bdb76b,usa-congress-pl111-203-2010,"retaliation action in district court: 6 years after the violation, or 3 years after material facts known, never more than 10 years (21F(h)(1)(B)(iii))"
+usa-sec-wb,filing_deadline_days,6,years,r-d77300765f,usa-uscode-15usc78u-6-2023,"retaliation action in district court: 6 years after the violation, or 3 years after material facts known, never more than 10 years"
+usa-sec-wb,filing_deadline_days,90,days,r-3ee89868a8,usa-ecfr-17cfr240-21f-2026,claim (Form WB-APP) after posting of the Notice of Covered Action
+usa-sec-wb,filing_deadline_days,90,days,r-bc90fd6158,usa-sec-owb-ar-2011,time to apply (Form WB-APP) after a Notice of Covered Action is posted
+usa-sec-wb,filing_deadline_days,90,days,r-e5812cfe34,usa-ecfr-17cfr240-21f-2026,claim (Form WB-APP) for a related action whose final order is entered after the claim on the Commission action: from the final order in the related ac
+usa-sec-wb,filing_deadline_days,90,days,r-ac066caf78,usa-sec-oig-575-2022,award claim (Form WB-APP) after a Notice of Covered Action is posted
+usa-sec-wb,filing_deadline_days,90,days,r-5dc057cd84,usa-sec-owb-ar-2014,award application (Form WB-APP) after a Notice of Covered Action is posted
+usa-sec-wb,filing_deadline_days,90,days,r-e454944aa1,usa-sec-owb-ar-2020,"award claims on DPAs, NPAs or SEC settlement agreements entered between 21 Jul 2010 and 7 Dec 2020 (from the effective date)"
+usa-sec-wb,filing_deadline_days,120,days,r-6023a000ca,usa-ecfr-17cfr240-21f-2026,"time to report to the SEC after first reporting internally or to another authority, to keep the earlier date as the date of the tip"
+usa-sec-wb,filing_deadline_days,120,days,r-9573cdf183,usa-sec-owb-ar-2014,persons with compliance or internal audit duties: minimum wait after reporting internally before their information can count as original
+usa-sec-wb,filing_deadline_days,120,days,r-ee64c4b7df,usa-sec-owb-ar-2015,"officers, directors, trustees or partners: may qualify if they report to the SEC more than this many days after compliance personnel had the informati"
+usa-sec-wb,fund_replenishment_threshold,300000000,USD,r-d5c1255974,usa-uscode-15usc78u-6-2023,sanctions go to the Investor Protection Fund (rather than Treasury/victims) only while the Fund balance is at or below this level
+usa-sec-wb,fund_replenishment_threshold,300000000,USD,r-63d05f07e1,usa-congress-pl111-203-2010,sanctions are deposited in the Investor Protection Fund unless its balance exceeds this amount when the sanction is collected
+usa-sec-wb,fund_replenishment_threshold,300000000,USD,r-98e8ee5ae1,usa-sec-oig-575-2022,Investor Protection Fund balance below which it is replenished from collected sanctions
+usa-sec-wb,related_action_other_program_cap,5000000,USD,r-2f816fe058,usa-sec-owb-ar-2022,"SEC may pay an award on another agency's related action even if that agency has its own programme, if that programme is not comparable or the total aw"
+usa-sec-wb,related_action_other_program_cap,5000000,USD,r-503102307b,usa-ecfr-17cfr240-21f-2026,"a related action also covered by another award programme counts for an SEC award only if the maximum SEC award would not exceed this, or the SEC progr"
+usa-sec-wb,sanctions_threshold,1000000,USD,r-32242fd5c0,gbr-fisher-review-fraud-digital-age-2026,monetary sanctions
+usa-sec-wb,sanctions_threshold,1000000,USD,r-6fd1a01f8a,usa-sec-wb-pr-2023-89,monetary sanctions must exceed this for an award
+usa-sec-wb,sanctions_threshold,1000000,USD,r-3e7d94358e,usa-uscode-15usc78u-6-2023,covered judicial or administrative action (must exceed)
+usa-sec-wb,sanctions_threshold,1000000,USD,r-943db25f4e,usa-sec-owb-ar-2011,monetary sanctions imposed in the covered action (must exceed)
+usa-sec-wb,sanctions_threshold,1000000,USD,r-54b5d93647,usa-congress-pl111-203-2010,monetary sanctions in a covered judicial or administrative action
+usa-sec-wb,sanctions_threshold,1000000,USD,r-e57f3327b2,usa-sec-oig-575-2022,monetary sanctions in a successful Commission enforcement action (must total more than)
+usa-sec-wb,sanctions_threshold,1000000,USD,r-f201621ad5,usa-ecfr-17cfr240-21f-2026,monetary sanctions in the Commission action (must total more than)
+usa-treasury-karrp,annual_award_cap,25000000,USD,r-941f9688fc,usa-house-rpt-119-370-2025,all rewards in a calendar year unless the President waives it (30 days' notice to Congress); programme as it would be revived by H.R. 5344
+usa-treasury-karrp,annual_award_cap,25000000,USD,r-d87d46521f,usa-pl-116-283-ndaa-fy2021,"all rewards in a calendar year, unless waived by the President"
+usa-treasury-karrp,anonymous_filing,0,flag,r-4ac6ce03cf,usa-house-rpt-119-370-2025,information must be submitted under penalty of perjury; programme as it would be revived by H.R. 5344
+usa-treasury-karrp,anonymous_filing,0,flag,r-c9746f5514,usa-congress-pl116-283-2021,information must be submitted under penalty of perjury (sec. 9703(e)(1))
+usa-treasury-karrp,award_cap,5000000,USD,r-e5371411e8,usa-house-rpt-119-370-2025,per reward unless the Secretary personally authorises more and notifies Congress; programme as it would be revived by H.R. 5344
+usa-treasury-karrp,award_cap,5000000,USD,r-8d3dcbedca,usa-pl-116-283-ndaa-fy2021,"per reward, unless the Secretary personally authorizes more and notifies Congress"
+usa-treasury-karrp,discretionary,1,,r-fc7ccec8d8,usa-house-rpt-119-370-2025,"whether to pay a reward (""may ... pay a reward""); programme as it would be revived by H.R. 5344"
+usa-treasury-karrp,discretionary,1,,r-9ce1415f86,usa-pl-116-283-ndaa-fy2021,
+usa-wildlife-rewards,award_cap,2500,USD,r-db07fdec1f,usa-gao-18-279-2018,Bald and Golden Eagle Protection Act: per reward
+usa-wildlife-rewards,award_cap,2500,USD,r-25042b8632,usa-gao-18-279-2018,Marine Mammal Protection Act: per reward
+usa-wildlife-rewards,award_pct_max,50,percent,r-38ca3b115f,usa-gao-18-279-2018,"African Elephant Conservation Act (16 U.S.C. 4225): half of the penalty or fine, or $25,000, whichever is less"
+usa-wildlife-rewards,award_pct_max,50,percent,r-6a761e283c,usa-gao-18-279-2018,"Bald and Golden Eagle Protection Act (16 U.S.C. 668(a)): half of any fine imposed, up to $2,500"
+usa-wildlife-rewards,award_pct_max,50,percent,r-f8114d37b6,usa-gao-18-279-2018,"Marine Mammal Protection Act (16 U.S.C. 1376(c)): half of the fine incurred, up to $2,500"
+usa-wildlife-rewards,discretionary,1,,r-527113b3dd,usa-gao-18-279-2018,Endangered Species Act and Lacey Act: the reward amount is designated by the Secretary; laws give the agencies discretion whether to pay
+usa-wildlife-rewards,discretionary,1,,r-15d1dcb1a2,usa-uscode-16usc3375-2024,Lacey Act rewards
