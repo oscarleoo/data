@@ -73,6 +73,7 @@ verbatim quote, and disagreeing sources kept side by side.
 | `budget` | a plan or target | budget estimate of CBI receipts |
 | `reported` | a secondary report of someone else's figure | a newspaper citing the ministry |
 | `claim` | an unverified statement | a politician's or industry figure |
+| `derived` | calculated by us from one official source's raw records (simple sums or counts only), with the recipe in notes; see `../../METHODOLOGY.md` decision 1 | permits by nationality summed from a ministry's data sheet |
 
 Rules applied across the dataset:
 
