@@ -13,6 +13,12 @@ Every number comes from a stored source document. Each one carries the document,
 quote and a status saying what kind of figure it is. Sources that disagree are kept side by side. We record
 what documents say; we don't correct, estimate or fill gaps ourselves.
 
+## General principle: extract everything, decide what to show later (decided 2026-10-09)
+
+When a figure is printed but something about it is uncertain (its unit, its label, a contradiction in the
+source), we keep it, mark the uncertainty, and decide separately what pages show. Hiding is reversible; not
+extracting loses information. This doesn't cover numbers the source never states (decision 2, `inferred`).
+
 ## Decisions
 
 ### 1. Numbers derived from an official source's raw records (decided 2026-10-09)
@@ -96,6 +102,31 @@ out negative (-5 permits). How do we treat derived figures from such data?
 
 **Why.** Masking makes small sums unreliable whether or not they look wrong; a range keeps the information
 without claiming a precision the source doesn't have.
+
+### 4. Units we had to infer (decided 2026-10-09)
+
+**Question.** Sometimes a document prints a number without its unit: a chart labelled "432,746" with no "in
+thousands of pesos", or a table headed "EC$ millions" whose cells are clearly full amounts. Keep such numbers?
+
+**Decision.** Keep them, with a warning:
+- A column `unit_basis` says `printed` (the default) or `inferred`.
+- For `inferred`, the notes say how the unit was chosen and what supports it (e.g. "the same quantity is printed
+  as ₱584,270,596 in the text, so the chart is in thousands").
+- Inferred-unit figures carry a warning wherever they are shown; whether pages show them at all is decided
+  separately.
+- When we can, we look for confirmation elsewhere (another edition, the source's methodology note, the
+  agency) and switch the row to `printed` with that source, or correct it.
+
+**Why.** A wrong unit is a factor-of-a-thousand error that looks plausible, so these figures must never pass as
+ordinary. But the number itself is printed and the unit is usually clear from context, so dropping them would
+lose real data.
+
+**Applied (2026-10-09).** Column `unit_basis` in both topics (merge fills `printed` by default; `check.py`
+requires notes for `inferred`). 77 CBI rows whose notes say the unit, scale or currency was chosen from context
+are tagged `inferred` (Philippine charts read as thousands, tables printing "$" or no currency where the currency
+was taken from the rest of the document, and similar). Rows where a bare "$" was recorded as the local currency
+are left for decision 1.4. Rows that inferred a unit without saying so in their notes can't be found this way;
+the extraction brief now requires the field.
 
 ## Open questions
 

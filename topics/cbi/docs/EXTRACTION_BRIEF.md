@@ -27,6 +27,12 @@ it works through stored documents and records what is in them, so the ledger
    - `not_applicable`: nothing in it belongs in the tables; `contains` says what it is.
    Never mark `complete` if anything in scope is left.
 
+## How each number was read (METHODOLOGY.md decisions 2 and 4)
+
+Every observation needs `reading` (`digits`, `words`, `bound`, `approximate` or `implied`; never record a number
+the document doesn't state: that would be `inferred`) and `unit_basis` (`printed`, or `inferred` when you chose
+the unit, scale or currency from context: then say in `notes` how, and what supports it).
+
 ## Output
 
 `_inbox/<slug>.json` in the format of `RESEARCH_FORMAT.md`, plus:

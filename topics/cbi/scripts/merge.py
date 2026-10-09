@@ -24,7 +24,7 @@ COLUMNS = {
                     "published_date", "accessed_date", "url", "archive_url", "raw_file", "sha256",
                     "covers", "notes"],
     "observations.csv": ["obs_id", "jurisdiction", "program_id", "indicator", "breakdown", "period",
-                         "period_basis", "value", "value_high", "reading", "unit", "scale", "status", "source_id",
+                         "period_basis", "value", "value_high", "reading", "unit", "unit_basis", "scale", "status", "source_id",
                          "location", "quote", "notes", "superseded_by", "added_date", "added_by"],
     "program_terms.csv": ["term_id", "program_id", "route", "valid_from", "valid_to", "min_amount",
                           "currency", "applies_to", "source_id", "location", "quote", "notes"],
@@ -112,6 +112,9 @@ def main():
             o.setdefault("added_by", by)
             if o["obs_id"] in seen.setdefault("observations.csv", {}) and seen["observations.csv"][o["obs_id"]] != o:
                 COLLISIONS.append(("observations.csv", o["obs_id"], slug))
+            for keep in ("unit_basis",):
+                if not o.get(keep) and tables["observations.csv"].get(o["obs_id"], {}).get(keep):
+                    o[keep] = tables["observations.csv"][o["obs_id"]][keep]
             if not o.get("reading") and tables["observations.csv"].get(o["obs_id"], {}).get("reading"):
                 o["reading"] = tables["observations.csv"][o["obs_id"]]["reading"]
             seen["observations.csv"][o["obs_id"]] = o
@@ -170,6 +173,8 @@ def main():
     for o in tables["observations.csv"].values():
         if not o.get("reading"):
             o["reading"] = classify(o)
+        if not o.get("unit_basis"):
+            o["unit_basis"] = "printed"
 
     # Reviewed corrections (data/corrections.csv) are applied last, so re-merging
     # the inbox never undoes them. Field "_delete" removes the row.

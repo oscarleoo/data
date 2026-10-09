@@ -58,6 +58,7 @@ verbatim quote, and disagreeing sources kept side by side.
 | `source_id` | from `sources.csv` |
 | `location` | where in the source: `p. 14, Table 3`, `para 21` |
 | `reading` | how the number was read: `digits`, `words`, `bound`, `approximate` or `implied`; empty for `derived` figures (`inferred` is not allowed). See `../../METHODOLOGY.md` decision 2 |
+| `unit_basis` | `printed` (the unit or scale is printed with the figure) or `inferred` (we chose it from context; the notes say how). Inferred units carry a warning. See `../../METHODOLOGY.md` decision 4 |
 | `quote` | verbatim text supporting the number (short) |
 | `notes` | caveats: definitions, what's included, known issues |
 | `superseded_by` | `obs_id` of a correction, if any |
