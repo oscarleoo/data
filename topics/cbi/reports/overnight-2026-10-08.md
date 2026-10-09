@@ -1100,3 +1100,8 @@ totals?
 ## Milestone: every stored whistleblowing document has been reviewed
 - 558 stored documents: 523 complete, 33 partial (each with a written to-do), 2 not applicable.
 - 24 sources have no stored copy and stay "not reviewed".
+
+### Last second-reading round (Philippines, Thailand, US audits, Texas)
+- CBI: 96 numbers, 4 ruled (targets vs actuals both printed; a figure in words). Whistleblowing: 63 numbers,
+  1 ruled. **0 open differences in either dataset.**
+- Totals now: CBI 9,056 numbers with a blind second reading (of 83,856); whistleblowing 1,746 (of 18,298).
