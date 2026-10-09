@@ -256,6 +256,23 @@ agency case pages and switch it to `stated` with that source.
 **Why.** Most False Claims Act money comes from whistleblower suits, so these settlements are part of the record,
 but counting them as whistleblower cases without evidence would inflate the figures.
 
+### 11. Indicators (decided 2026-10-09)
+
+**Question.** Extraction passes propose new indicators when nothing fits. CBI ended up with 160 proposed indicators
+(12,379 rows), many overlapping (`processing_time_months`, `_days`, `_weeks`...). How do we keep them consistent?
+
+**Decision.**
+- One concept, one indicator. The unit and the breakdown carry the variation, not the name: one
+  `processing_time` with the unit in days, weeks or months (no conversion by us, decision 2).
+- Every indicator has a plain definition: what it counts, what is included and excluded, and its kind (count,
+  money, share, duration, rate).
+- New indicators are proposed by extraction passes and reviewed before publishing. Rows using an indicator that is
+  still proposed stay in the data but are not shown.
+- Consolidations are applied through `data/corrections.csv`, so they are reversible.
+
+**Why.** Indicators decide what can be compared. Near-duplicates split one measure across names, so charts miss
+data; vague definitions lump unlike things together.
+
 ## Open questions
 
 None at the moment.
