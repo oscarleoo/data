@@ -549,6 +549,8 @@ AUS,aus-siv,main_applicants_approved [nationality=ZAF],FY2020/21,persons,14,1,14
 AUS,aus-siv,main_applicants_approved [nationality=ZAF],FY2020/21,persons,17,1,17.0,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,17.6,vintage,o-5b155ff07d
 AUS,aus-siv,withdrawal_rate,FY2018/19,percent,19.7,1,19.7,actual,aus-dha-foi-211001119-2021,Department of Home Affairs (Freedom of Information disclosure log),2021,41.5,revision,o-377c7f9afb
 AUS,aus-siv,withdrawal_rate,FY2018/19,percent,33.7,1,33.7,actual,aus-dha-foi-200800701-2020,Department of Home Affairs (Freedom of Information disclosure log),2020,41.5,revision,o-370c157938
+BHR,bhr-golden-residency,long_term_residence_issued,2022-02/2022-06,persons,1800,1,1800.0,claim,bhr-gdn-2000-benefit-2022,Gulf Daily News,2022-06-06,10.0,revision,o-69e77202f1
+BHR,bhr-golden-residency,long_term_residence_issued,2022-02/2022-06,persons,2000,1,2000.0,reported,bhr-gdn-2000-benefit-2022,Gulf Daily News,2022-06-06,10.0,revision,o-c37a9690fb
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-RJ],2024,BRL,125.2,million,125200000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,24.3,conflict,o-547a8a3437
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-RJ],2024,BRL,165452931,1,165452931.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,24.3,conflict,o-b178b8c145
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate;region=BR-SP],2024,BRL,56.4,million,56400000.0,reported,bra-agenciagov-imoveis-2024,Agência Gov (via Ministério da Justiça e Segurança Pública),2024-12-03,15.1,conflict,o-c5b1304df2
@@ -579,10 +581,15 @@ COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,3,1,3.0,projection,co
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,projection,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-af83db0cb7
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,projection,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-5341330f0c
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,actual,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef
+COM,com-ecp,cbi_revenue_missing,2008-2017,USD,100,million,100000000.0,reported,com-reuters-2018-06-29,Reuters,2018-06-29,89.7,conflict,o-2f16c2be90
+COM,com-ecp,cbi_revenue_missing,2008-2017,USD,971,million,971000000.0,estimate,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,89.7,conflict,o-91e6840169
 COM,com-ecp,passports_issued,2008-2017,passports,47950,1,47950.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,0.1,conflict,o-2f5a85790a
+COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-france24-2018-04-10,France 24 (AFP),2018-04-10,0.1,conflict,o-ea73a83bb4
 COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-reuters-2018-03-23,Reuters,2018-03-23,0.1,conflict,o-e5f6e475d8
 CYP,cyp-cip,cases_meeting_condition [category=property_contract_still_unregistered],2022-01-31,persons,1914,1,1914.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,1.2,same_source,o-788368241f
 CYP,cyp-cip,cases_meeting_condition [category=property_contract_still_unregistered],2022-01-31,persons,1938,1,1938.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,1.2,same_source,o-a0af8a5867
+CYP,cyp-cip,cbi_inflows_pct_gdp,2017,percent_of_gdp,2.5,1,2.5,estimate,intl-eprs-cbi-rbi-2018,European Parliamentary Research Service (Ex-Post Evaluation Unit and European Added Value Unit),2018-10,51.9,conflict,o-2025144d5d
+CYP,cyp-cip,cbi_inflows_pct_gdp,2017,percent_of_gdp,5.2,1,5.2,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,51.9,conflict,o-5e1306e359
 CYP,cyp-cip,main_applicants_approved,2015,persons,336,1,336.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.6,conflict,o-87feb0d8cf
 CYP,cyp-cip,main_applicants_approved,2015,persons,338,1,338.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.6,conflict,o-1783670291
 CYP,cyp-cip,main_applicants_approved,2016,persons,443,1,443.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.9,conflict,o-d054baca9e
@@ -591,6 +598,8 @@ CYP,cyp-cip,main_applicants_approved,2018,persons,578,1,578.0,actual,cyp-inquiry
 CYP,cyp-cip,main_applicants_approved,2018,persons,582,1,582.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.7,conflict,o-ed1ce90d00
 CYP,cyp-cip,main_applicants_approved,2019,persons,576,1,576.0,actual,cyp-inquiry-cip-2021,"Republic of Cyprus, Inquiry Committee appointed by the Attorney General (published by the Press and Information Office)",2021-06-07,0.3,conflict,o-4d2afb0784
 CYP,cyp-cip,main_applicants_approved,2019,persons,578,1,578.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,0.3,conflict,o-4aa1dcf6ca
+CYP,cyp-cip,persons_naturalised [applicant=main_and_family],2013/2018-03,persons,3300,1,3300.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,1.1,same_source,o-6c07427be2
+CYP,cyp-cip,persons_naturalised [applicant=main_and_family],2013/2018-03,persons,3336,1,3336.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,1.1,same_source,o-263cf7f905
 CYP,cyp-cip,rbi_investment_total [route=real_estate;category=property_contract_still_unregistered],2022-01-31,EUR,3.5,billion,3500000000.0,estimate,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,11.3,revision,o-8045a81c5d
 CYP,cyp-cip,rbi_investment_total [route=real_estate;category=property_contract_still_unregistered],2022-01-31,EUR,3947847393,1,3947847393.0,actual,cyp-audit-cip-2022,Audit Office of the Republic of Cyprus,2022-08-22,11.3,revision,o-72c34dc78f
 DMA,dma-cbi,applications_rejected,2023,applications,180,1,180.0,reported,intl-ec-com-2024-571,European Commission,2024-12-06,14.3,same_source,o-74c55bada9
@@ -753,6 +762,7 @@ DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,491.0,million,491000000.0,projectio
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,568900000,1,568900000.0,projection,dma-mof-estimates-2023-24,"Ministry of Finance, Commonwealth of Dominica",2023-07,64.6,vintage,o-dcdc24a0fe
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,568900000,1,568900000.0,projection,dma-mof-estimates-2023-24-final,"Ministry of Finance, Commonwealth of Dominica",2023,64.6,vintage,o-846d0afeab
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,569.9,million,569900000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,64.6,vintage,o-de4c14115b
+DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,605,million,605000000.0,claim,dma-caribbean360-2026-08,Caribbean360,2026-08-11,64.6,vintage,o-40e7102c81
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,635.0,million,635000000.0,budget,dma-budget-address-2025-26,"Government of the Commonwealth of Dominica, Ministry of Finance",2025,64.6,vintage,o-f7eb5fdfc3
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,635000000,1,635000000.0,budget,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,64.6,vintage,o-660d5a3d9f
 DMA,dma-cbi,cbi_fiscal_revenue,FY2025/26,XCD,852600000,1,852600000.0,projection,dma-mof-estimates-2024-25,"Ministry of Finance, Commonwealth of Dominica",2024-07,64.6,vintage,o-8ad255f883
@@ -764,16 +774,18 @@ DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,317.3,million,317300000.0,projectio
 DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,324.8,million,324800000.0,projection,dma-imf-art4-2023,International Monetary Fund,2023-07-05,47.7,vintage,o-82832358f5
 DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,342.9,million,342900000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,47.7,vintage,o-55f61c4803
 DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,444.6,million,444600000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,47.7,vintage,o-136855372b
+DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,514.9,million,514900000.0,budget,dma-caribbean360-2026-08,Caribbean360,2026-08-11,47.7,vintage,o-424557458e
 DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,572000000,1,572000000.0,projection,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,47.7,vintage,o-c81daf0275
 DMA,dma-cbi,cbi_fiscal_revenue,FY2026/27,XCD,601700000,1,601700000.0,projection,dma-mof-estimates-2024-25,"Ministry of Finance, Commonwealth of Dominica",2024-07,47.7,vintage,o-bbb5cd0862
 DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,USD,123.4,million,123400000.0,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,7.6,vintage,o-a7861a5f9a
 DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,USD,133.2,million,133199999.99999999,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,7.6,vintage,o-de60ed36eb
 DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,USD,133.6,million,133600000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,7.6,vintage,o-1fd474adfb
-DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,333.1,million,333100000.0,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,27.1,vintage,o-82a2653499
-DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,340.1,million,340100000.0,projection,dma-imf-art4-2023,International Monetary Fund,2023-07-05,27.1,vintage,o-23ed3799f8
-DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,359.6,million,359600000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,27.1,vintage,o-474a55393d
-DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,360.8,million,360800000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,27.1,vintage,o-5bef9cd6a4
-DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,457000000,1,457000000.0,projection,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,27.1,vintage,o-4b08d55d08
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,333.1,million,333100000.0,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,29.8,vintage,o-82a2653499
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,340.1,million,340100000.0,projection,dma-imf-art4-2023,International Monetary Fund,2023-07-05,29.8,vintage,o-23ed3799f8
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,359.6,million,359600000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,29.8,vintage,o-474a55393d
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,360.8,million,360800000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,29.8,vintage,o-5bef9cd6a4
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,457000000,1,457000000.0,projection,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,29.8,vintage,o-4b08d55d08
+DMA,dma-cbi,cbi_fiscal_revenue,FY2027/28,XCD,474.8,million,474800000.0,projection,dma-caribbean360-2026-08,Caribbean360,2026-08-11,29.8,vintage,o-88b7130202
 DMA,dma-cbi,cbi_fiscal_revenue,FY2028/29,USD,129.2,million,129199999.99999999,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,7.8,vintage,o-c6d9ad641c
 DMA,dma-cbi,cbi_fiscal_revenue,FY2028/29,USD,139.3,million,139300000.0,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,7.8,vintage,o-aae89d9260
 DMA,dma-cbi,cbi_fiscal_revenue,FY2028/29,USD,140.1,million,140100000.0,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,7.8,vintage,o-2c73bbb901
@@ -1899,8 +1911,12 @@ ESP,esp-golden-visa,rbi_investment_total [route=real_estate],2013-09-30/2014-12-
 ESP,esp-golden-visa,rbi_investment_total [route=real_estate],2013-09-30/2014-12-31,EUR,369.7,million,369700000.0,actual,esp-meyss-informe-movilidad-2015,Ministerio de Empleo y Seguridad Social (Secretaría General de Inmigración y Emigración),2015-04,0.0,same_source,o-932e7a17c5
 ESP,esp-golden-visa,rbi_investment_total [route=real_estate],2013-09-30/2014-12-31,EUR,369.7,million,369700000.0,actual,esp-meyss-informe-movilidad-2015,Ministerio de Empleo y Seguridad Social (Secretaría General de Inmigración y Emigración),2015-04,0.0,same_source,o-556d60b8db
 ESP,esp-golden-visa,rbi_investment_total [route=real_estate],2013-09-30/2014-12-31,EUR,369766625,1,369766625.0,actual,esp-meyss-informe-movilidad-2015,Ministerio de Empleo y Seguridad Social (Secretaría General de Inmigración y Emigración),2015-04,0.0,same_source,o-77b94bd9ff
+ESP,esp-golden-visa,residence_permits_issued [applicant=main_and_family],2013/2018-04,persons,24755,1,24755.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-8042bd133e
+ESP,esp-golden-visa,residence_permits_issued [applicant=main_and_family],2013/2018-04,persons,24800,1,24800.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-475fbc702b
 GBR,gbr-tier1-investor,consultation_responses [category=individuals],2013-10-18/2013-11-29,submissions,10,1,10.0,actual,gbr-mac-tier1-investor-2014,Migration Advisory Committee,2014-02,16.7,same_source,o-7a21bc3b53
 GBR,gbr-tier1-investor,consultation_responses [category=individuals],2013-10-18/2013-11-29,submissions,12,1,12.0,actual,gbr-mac-tier1-investor-2014,Migration Advisory Committee,2014-02,16.7,same_source,o-869c717142
+GBR,gbr-tier1-investor,residence_permits_issued [applicant=main_and_family],2008/2018-03,persons,10400,1,10400.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.4,same_source,o-23a0d6970a
+GBR,gbr-tier1-investor,residence_permits_issued [applicant=main_and_family],2008/2018-03,persons,10445,1,10445.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.4,same_source,o-715b592627
 GRC,grc-golden-visa,applications_approved_by_filing_year,2018,applications,1933,1,1933.0,actual,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,0.4,revision,o-03d2cf2c91
 GRC,grc-golden-visa,applications_approved_by_filing_year,2018,applications,1935,1,1935.0,actual,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,0.4,revision,o-29d441b89d
 GRC,grc-golden-visa,applications_approved_by_filing_year,2018,applications,1940,1,1940.0,actual,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,0.4,revision,o-988f9f292e
@@ -2060,6 +2076,7 @@ GRC,grc-golden-visa,applications_received,2024,applications,9289,1,9289.0,provis
 GRC,grc-golden-visa,applications_received,2024,applications,9289,1,9289.0,provisional,grc-mma-legal-migration-2024-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,1.1,conflict,o-02d04f48d6
 GRC,grc-golden-visa,applications_received,2024,applications,9372,1,9372.0,actual,grc-mma-legal-migration-2026-08,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,1.1,conflict,o-48af4ae18d
 GRC,grc-golden-visa,applications_received,2024,applications,9372,1,9372.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,1.1,conflict,o-08e0c3b4c2
+GRC,grc-golden-visa,applications_received,2024,applications,9382,1,9382.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,1.1,conflict,o-7db02e3fe9
 GRC,grc-golden-visa,applications_received,2024,applications,9391,1,9391.0,provisional,grc-mma-legal-migration-2025-12,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,1.1,conflict,o-0ad44eb6f4
 GRC,grc-golden-visa,applications_received,2024,applications,9391,1,9391.0,provisional,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,1.1,conflict,o-41e75a3d04
 GRC,grc-golden-visa,applications_received,2024-12,applications,1137,1,1137.0,provisional,grc-mma-legal-migration-2024-12,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2025-01,9.9,revision,o-84adb933cb
@@ -2246,6 +2263,8 @@ GRC,grc-golden-visa,applications_withdrawn_by_filing_year [permit_type=renewal],
 GRC,grc-golden-visa,applications_withdrawn_by_filing_year [permit_type=renewal],2023,applications,4,1,4.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,50.0,revision,o-4329371f51
 GRC,grc-golden-visa,applications_withdrawn_by_filing_year [permit_type=renewal],2024,applications,2,1,2.0,provisional,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,50.0,revision,o-eb0a67be02
 GRC,grc-golden-visa,applications_withdrawn_by_filing_year [permit_type=renewal],2024,applications,4,1,4.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,50.0,revision,o-bf410f79c3
+GRC,grc-golden-visa,main_applicants_approved,2021-12,permits,123,1,123.0,actual,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,10.2,conflict,o-f757f1fa5a
+GRC,grc-golden-visa,main_applicants_approved,2021-12,permits,137,1,137.0,reported,grc-imidaily-2022-01-16,Investment Migration Insider (IMI Daily),2022-01-16,10.2,conflict,o-4ee1e7b87e
 GRC,grc-golden-visa,main_applicants_approved,2022-12,permits,202,1,202.0,actual,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,23.8,revision,o-5a83b1811e
 GRC,grc-golden-visa,main_applicants_approved,2022-12,permits,265,1,265.0,actual,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,23.8,revision,o-6d1fe33cec
 GRC,grc-golden-visa,main_applicants_approved,2023-12,permits,135,1,135.0,actual,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,61.3,revision,o-a066991248
@@ -2260,6 +2279,10 @@ GRC,grc-golden-visa,main_applicants_approved,2025-11,permits,722,1,722.0,actual,
 GRC,grc-golden-visa,main_applicants_approved,2025-11,permits,725,1,725.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,0.4,revision,o-87d13e5fd4
 GRC,grc-golden-visa,main_applicants_approved,2025-12,permits,828,1,828.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,15.0,revision,o-53abeb7690
 GRC,grc-golden-visa,main_applicants_approved,2025-12,permits,974,1,974.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,15.0,revision,o-0d2fe3ebca
+GRC,grc-golden-visa,main_applicants_approved,2026-03,permits,1238,1,1238.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,0.1,conflict,o-0324450043
+GRC,grc-golden-visa,main_applicants_approved,2026-03,permits,1239,1,1239.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,0.1,conflict,o-30f9b9729e
+GRC,grc-golden-visa,main_applicants_approved,2026-05,permits,599,1,599.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,27.4,conflict,o-9e61d1e78b
+GRC,grc-golden-visa,main_applicants_approved,2026-05,permits,825,1,825.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,27.4,conflict,o-d481d7e775
 GRC,grc-golden-visa,residence_permits_issued,2022,permits,2767,1,2767.0,actual,grc-mma-legal-migration-2022-12,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,2.6,revision,o-71f08972fa
 GRC,grc-golden-visa,residence_permits_issued,2022,permits,2841,1,2841.0,actual,grc-mma-legal-migration-2023-12,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,2.6,revision,o-6c6654c6c7
 GRC,grc-golden-visa,residence_permits_issued,2022-12,permits,260,1,260.0,actual,grc-mma-legal-migration-2022-12,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,23.1,revision,o-3eb7b87263
@@ -2295,6 +2318,15 @@ GRC,grc-golden-visa,residence_permits_issued,2025-12,permits,959,1,959.0,actual,
 GRC,grc-golden-visa,residence_permits_issued,2025-12,permits,959,1,959.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,16.1,revision,o-bc1c6d0ee8
 GRC,grc-golden-visa,residence_permits_issued,2025-12,permits,1143,1,1143.0,actual,grc-mma-legal-migration-2026-08,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,16.1,revision,o-824b8b10ed
 GRC,grc-golden-visa,residence_permits_issued,2025-12,permits,1143,1,1143.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,16.1,revision,o-402f27a2c3
+GRC,grc-golden-visa,residence_permits_issued,2026-03,permits,914,1,914.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,36.8,same_source,o-4d826423e2
+GRC,grc-golden-visa,residence_permits_issued,2026-03,permits,1444,1,1444.0,actual,grc-mma-legal-migration-2026-08,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,36.8,same_source,o-d9b37d84b2
+GRC,grc-golden-visa,residence_permits_issued,2026-03,permits,1444,1,1444.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,36.8,same_source,o-5af043f8b1
+GRC,grc-golden-visa,residence_permits_issued,2026-03,permits,1446,1,1446.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,36.8,same_source,o-f25f7c0261
+GRC,grc-golden-visa,residence_permits_issued,2026-05,permits,659,1,659.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,32.8,conflict,o-96ea5afaee
+GRC,grc-golden-visa,residence_permits_issued,2026-05,permits,980,1,980.0,actual,grc-mma-legal-migration-2026-08,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,32.8,conflict,o-7df9f204f2
+GRC,grc-golden-visa,residence_permits_issued,2026-05,permits,980,1,980.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,32.8,conflict,o-f336c9e7ae
+GRC,grc-golden-visa,residence_permits_issued [applicant=main_and_family],2013/2018-07-27,persons,7500,1,7500.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.9,same_source,o-04561d5a90
+GRC,grc-golden-visa,residence_permits_issued [applicant=main_and_family],2013/2018-07-27,persons,7565,1,7565.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.9,same_source,o-76c7008671
 GRC,grc-golden-visa,residence_permits_renewed,2022-12,permits,58,1,58.0,actual,grc-mma-legal-migration-2022-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2023-02,20.5,revision,o-f2e16a2d31
 GRC,grc-golden-visa,residence_permits_renewed,2022-12,permits,73,1,73.0,actual,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,20.5,revision,o-eec2490f3e
 GRC,grc-golden-visa,residence_permits_renewed,2023-12,permits,37,1,37.0,actual,grc-mma-legal-migration-2023-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2024-01,66.4,revision,o-6ba893063d
@@ -2303,6 +2335,10 @@ GRC,grc-golden-visa,residence_permits_renewed,2024-12,permits,84,1,84.0,actual,g
 GRC,grc-golden-visa,residence_permits_renewed,2024-12,permits,140,1,140.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,40.0,revision,o-17e1de50fb
 GRC,grc-golden-visa,residence_permits_renewed,2025-12,permits,131,1,131.0,actual,grc-mma-legal-migration-2025-12-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-01,22.5,revision,o-6c69fbd79b
 GRC,grc-golden-visa,residence_permits_renewed,2025-12,permits,169,1,169.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,22.5,revision,o-64c6364f4e
+GRC,grc-golden-visa,residence_permits_renewed,2026-03,permits,206,1,206.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,0.5,conflict,o-b0973f03b5
+GRC,grc-golden-visa,residence_permits_renewed,2026-03,permits,207,1,207.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,0.5,conflict,o-b5b2a2c2e6
+GRC,grc-golden-visa,residence_permits_renewed,2026-05,permits,60,1,60.0,reported,grc-movingto-2026-07-10,Movingto,2026-07-10,61.3,conflict,o-52417d68c7
+GRC,grc-golden-visa,residence_permits_renewed,2026-05,permits,155,1,155.0,actual,grc-mma-legal-migration-2026-08-annexb,Υπουργείο Μετανάστευσης και Ασύλου (Ministry of Migration and Asylum),2026-09,61.3,conflict,o-b01050aa0d
 GRD,grd-cbi,applications_received,2023-04,applications,145,1,145.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,17.6,revision,o-ac05a0bd56
 GRD,grd-cbi,applications_received,2023-04,applications,176,1,176.0,provisional,grd-mof-cbistats-2023q2-v1,"Government of Grenada, Ministry of Finance",2023-08,17.6,revision,o-ff9ca72a6a
 GRD,grd-cbi,applications_received,2023-Q2,applications,501,1,501.0,actual,grd-mof-cbistats-2023q2-v2,"Government of Grenada, Ministry of Finance",2024,5.8,revision,o-69b3c58a43
@@ -2369,6 +2405,7 @@ GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,22700527,1,22700527.0,projection,grd-mof
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,27285252,1,27285252.0,projection,grd-mof-estimates-2022,"Ministry of Finance, Government of Grenada",2021-12,99.1,same_source,o-44009822b7
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,240461920,1,240461920.0,budget,grd-mof-estimates-2023,"Government of Grenada, Ministry of Finance",2022-12,99.1,same_source,o-327f7a123b
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,240461920,1,240461920.0,budget,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,99.1,same_source,o-e2d8f1bcb9
+GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,240461920,1,240461920.0,budget,grd-nowgrenada-2022-12,NOW Grenada,2022-12-08,99.1,same_source,o-3d32620166
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,375269871,1,375269871.0,provisional,grd-mof-estimates-2024,"Government of Grenada, Ministry of Finance",2023-12,99.1,same_source,o-bb1ffff518
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,actual,grd-imf-art4-2024,International Monetary Fund,2025-02,99.1,same_source,o-6de65b6a26
 GRD,grd-cbi,cbi_fiscal_revenue,2023,XCD,381.6,million,381600000.0,actual,grd-mof-estimates-2025,"Government of Grenada, Ministry of Finance",2025-03,99.1,same_source,o-c872eeb775
@@ -3856,18 +3893,26 @@ HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2025-04-30,HKD,37,billion,37000
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,55636,million,55636000000.0,actual,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-658d3ca1b1
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,55636,million,55636000000.0,actual,hkg-investhk-pr-new-cies-two-year-2026-appendix,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-60e27deb32
 HKG,hkg-new-cies,rbi_investment_total,2024-03-01/2026-02-28,HKD,95,billion,95000000000.0,projection,hkg-investhk-pr-new-cies-two-year-2026,"Invest Hong Kong (InvestHK), Hong Kong SAR Government",2026-03-02,41.4,vintage,o-a62bbc3afe
+HUN,hun-residency-bond,applicant_share [nationality=CHN],2013-2017,percent,75,1,75.0,estimate,intl-eprs-eava-cbi-rbi-2021,European Parliamentary Research Service (European Added Value Unit),2021-10,9.6,conflict,o-39b4ce67c3
+HUN,hun-residency-bond,applicant_share [nationality=CHN],2013-2017,percent,83,1,83.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,9.6,conflict,o-819dd66384
+HUN,hun-residency-bond,rbi_bond_excess_cost,2013-2017,EUR,66.4,million,66400000.00000001,estimate,hun-ti-kfib-lmak-2018,Transparency International Magyarország; Költségvetési Felelősség Intézet Budapest (KFIB),2018-10,65.4,conflict,o-ceea28df4b
+HUN,hun-residency-bond,rbi_bond_excess_cost,2013-2017,EUR,192,million,192000000.0,estimate,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,65.4,conflict,o-60d2de5184
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19838,1,19838.0,reported,hun-444-revocations-2018,444.hu,2018-12-06,0.2,conflict,o-e43b14fe23
 HUN,hun-residency-bond,residence_permits_issued,2013-2017,persons,19885,1,19885.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.2,conflict,o-68ed04f55c
 HUN,hun-residency-bond,residence_permits_issued [applicant=investor],2013-2017,persons,6538,1,6538.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.7,same_source,o-b0596cc007
 HUN,hun-residency-bond,residence_permits_issued [applicant=investor],2013-2017,persons,6585,1,6585.0,reported,hun-index-bmh-2017-12,Index.hu,2017-12-07,0.7,same_source,o-c425108d6a
+HUN,hun-residency-bond,residence_permits_issued [applicant=main_and_family],2013-2017,persons,19800,1,19800.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-5e51ca048a
+HUN,hun-residency-bond,residence_permits_issued [applicant=main_and_family],2013-2017,persons,19838,1,19838.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-bef5d6a2b7
 INTL,,cbi_rbi_investment,2008-2018,EUR,9217474822,1,9217474822.0,estimate,intl-eprs-cbi-rbi-2018,European Parliamentary Research Service (Ex-Post Evaluation Unit and European Added Value Unit),2018-10,63.1,conflict,o-61c62d8ad2
 INTL,,cbi_rbi_investment,2008-2018,EUR,25,billion,25000000000.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,63.1,conflict,o-6a03ef445c
 INTL,,cbi_rbi_investment,2011-2019,EUR,21374,million,21374000000.0,estimate,intl-eprs-eava-cbi-rbi-2021,European Parliamentary Research Service (European Added Value Unit),2021-10,2.0,same_source,o-2e08c8b720
 INTL,,cbi_rbi_investment,2011-2019,EUR,21.4,billion,21400000000.0,reported,intl-ep-res-2022-0065,"European Parliament (Official Journal C 347, 9.9.2022, p. 97)",2022-03-09,2.0,same_source,o-f495fd1d6a
 INTL,,cbi_rbi_investment,2011-2019,EUR,21.4,billion,21400000000.0,reported,intl-fatf-oecd-cbi-rbi-2023,Financial Action Task Force and OECD,2023-11,2.0,same_source,o-ae5f01590e
+INTL,,cbi_rbi_investment,2011-2019,EUR,21.4,billion,21400000000.0,reported,tur-kronos-2026-08-08,Kronos Haber,2026-08-08,2.0,same_source,o-f8cc6f3b27
 INTL,,cbi_rbi_investment,2011-2019,EUR,21.8,billion,21800000000.0,estimate,intl-eprs-eava-cbi-rbi-2021,European Parliamentary Research Service (European Added Value Unit),2021-10,2.0,same_source,o-037b592efa
 INTL,,cbi_rbi_persons,2011-2019,persons,132000,1,132000.0,reported,intl-ep-res-2022-0065,"European Parliament (Official Journal C 347, 9.9.2022, p. 97)",2022-03-09,0.1,conflict,o-5e60027a86
 INTL,,cbi_rbi_persons,2011-2019,persons,132000,1,132000.0,reported,intl-fatf-oecd-cbi-rbi-2023,Financial Action Task Force and OECD,2023-11,0.1,conflict,o-c36e44e076
+INTL,,cbi_rbi_persons,2011-2019,persons,132000,1,132000.0,reported,tur-kronos-2026-08-08,Kronos Haber,2026-08-08,0.1,conflict,o-fbe71d93e6
 INTL,,cbi_rbi_persons,2011-2019,persons,132143,1,132143.0,estimate,intl-eprs-eava-cbi-rbi-2021,European Parliamentary Research Service (European Added Value Unit),2021-10,0.1,conflict,o-1380deb08d
 INTL,,passports_issued,to 2025,passports,107000,1,107000.0,estimate,intl-ec-com-2025-792,European Commission,2025-12-19,0.6,revision,o-46f18788cc
 INTL,,passports_issued,to 2025,passports,107625,1,107625.0,estimate,intl-ec-swd-2025-429,European Commission,2025-12-19,0.6,revision,o-f2f94fd50a
@@ -4844,10 +4889,11 @@ LCA,lca-cbi,cbi_programme_costs [category=agent_promoter_commissions],FY2017/18,
 LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1119162,1,1119162.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,9.4,revision,o-8d4a56ecc7
 LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1235750,1,1235750.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,9.4,revision,o-ce178d2b8a
 LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2022/23,XCD,1235.75,thousand,1235750.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,9.4,revision,o-1807a7ff8f
-LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,680447,1,680447.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,revision,o-5e30951f6d
-LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,680447,1,680447.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,revision,o-402ac43332
-LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,1120027,1,1120027.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,39.2,revision,o-d0771e0ca2
-LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,1120.03,thousand,1120030.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,39.2,revision,o-061920518e
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,680447,1,680447.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,conflict,o-5e30951f6d
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,680447,1,680447.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.2,conflict,o-402ac43332
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,1.1,million,1100000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,39.2,conflict,o-83ea5b00e2
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,1120027,1,1120027.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,39.2,conflict,o-d0771e0ca2
+LCA,lca-cbi,cbi_programme_costs [category=business_travel],FY2023/24,XCD,1120.03,thousand,1120030.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,39.2,conflict,o-061920518e
 LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,400000,1,400000.0,actual,lca-mof-estimates-2017-18,"Department of Finance, Government of Saint Lucia",2017-04,20.1,revision,o-37195ed645
 LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,500000,1,500000.0,budget,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,20.1,revision,o-f3eafea263
 LCA,lca-cbi,cbi_programme_costs [category=capital_project_274],FY2015/16,XCD,500715,1,500715.0,estimate,lca-mof-estimates-2016-17,"Department of Finance, Government of Saint Lucia",2016-04,20.1,revision,o-4f7004b54d
@@ -4859,8 +4905,9 @@ LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2017/18,XCD,14782492,
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2021/22,XCD,23629192,1,23629192.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-497960b6c3
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2021/22,XCD,23629192,1,23629192.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-48f1524731
 LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2021/22,XCD,23639192,1,23639192.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-8af4e68481
-LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777686,1,33777686.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-5310c8ce09
-LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777687,1,33777687.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-4db95723c9
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777686,1,33777686.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.1,conflict,o-5310c8ce09
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33777687,1,33777687.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,conflict,o-4db95723c9
+LCA,lca-cbi,cbi_programme_costs [category=ciu_programme],FY2022/23,XCD,33.8,million,33800000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.1,conflict,o-1bddc3851c
 LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872329,1,1872329.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-2cd7c8c21a
 LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872329,1,1872329.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,0.0,same_source,o-6db91b9f8c
 LCA,lca-cbi,cbi_programme_costs [category=due_diligence],FY2018/19,XCD,1872330,1,1872330.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-447b202830
@@ -4913,11 +4960,20 @@ LCA,lca-cbi,cbi_programme_costs [category=opex_communication_it],FY2020/21,XCD,1
 LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2020/21,XCD,188087,1,188087.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-6639a89867
 LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2020/21,XCD,188791,1,188791.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,revision,o-be7168c3a3
 LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2020/21,XCD,188791,1,188791.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,revision,o-59512abf79
-LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234158,1,234158.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-f3f9c5f2da
-LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234159,1,234159.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-d065fd723c
-LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814042,1,814042.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-857493ba75
-LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814043,1,814043.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.0,revision,o-b53d2db330
-LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814043,1,814043.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.0,revision,o-88da9d994b
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234000,1,234000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.1,conflict,o-5d0c0bb942
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234158,1,234158.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.1,conflict,o-f3f9c5f2da
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2022/23,XCD,234159,1,234159.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,conflict,o-d065fd723c
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814000,1,814000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.0,conflict,o-27c92f6c3b
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814042,1,814042.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,conflict,o-857493ba75
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814043,1,814043.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.0,conflict,o-b53d2db330
+LCA,lca-cbi,cbi_programme_costs [category=opex_depreciation],FY2023/24,XCD,814043,1,814043.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.0,conflict,o-88da9d994b
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2022/23,XCD,46000,1,46000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.0,conflict,o-4a6d5f4084
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2022/23,XCD,46014,1,46014.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,conflict,o-38b379f8b7
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2022/23,XCD,46014,1,46014.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,conflict,o-868d74a9c6
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2023/24,XCD,325797,1,325797.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,conflict,o-60c12d112a
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2023/24,XCD,325797,1,325797.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.1,conflict,o-927448d7a0
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2023/24,XCD,325797,1,325797.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.1,conflict,o-3f8b217a0b
+LCA,lca-cbi,cbi_programme_costs [category=opex_fx_loss],FY2023/24,XCD,326000,1,326000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.1,conflict,o-2cfd9dd21a
 LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2017/18,XCD,105386,1,105386.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,1.0,revision,o-461151db6e
 LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2017/18,XCD,106498,1,106498.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,1.0,revision,o-18d33b1ef7
 LCA,lca-cbi,cbi_programme_costs [category=opex_office_supplies],FY2019/20,XCD,50872,1,50872.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,31.8,revision,o-99e023cf6e
@@ -4957,6 +5013,7 @@ LCA,lca-cbi,cbi_transfers_to_government,FY2022/23,XCD,11268541,1,11268541.0,actu
 LCA,lca-cbi,cbi_transfers_to_government,FY2022/23,XCD,41371397,1,41371397.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,72.8,revision,o-b58cf5842f
 LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,58619887,1,58619887.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-5784c86ceb
 LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,58619887,1,58619887.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,8.6,same_source,o-8e2a4e727e
+LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,64.1,million,64099999.99999999,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,8.6,same_source,o-2350b6f818
 LCA,lca-cbi,cbi_transfers_to_government,FY2023/24,XCD,64108843,1,64108843.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.6,same_source,o-f64fba28e1
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,86,million,86000000.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.4,same_source,o-6bd2b15c2e
 LCA,lca-cbi,cbi_transfers_to_government,FY2024/25,XCD,86150190,1,86150190.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,39.4,same_source,o-6eb79d2e1a
@@ -5013,8 +5070,12 @@ LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals]
 LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals],2023-03-31,XCD,28066505,1,28066505.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-e7129dc609
 LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals],2023-03-31,XCD,28066.51,thousand,28066510.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-2bc5aebeec
 LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals],2023-03-31,XCD,28067000,1,28067000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-4ea64b3636
-LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2023-03-31,XCD,756561,1,756561.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,revision,o-78138343f9
-LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2023-03-31,XCD,757000,1,757000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.1,revision,o-1c688d6d47
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2023-03-31,XCD,756561,1,756561.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,6.6,conflict,o-78138343f9
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2023-03-31,XCD,757000,1,757000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,6.6,conflict,o-1c688d6d47
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2023-03-31,XCD,810000,1,810000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,6.6,conflict,o-8f543b0a79
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2024-03-31,XCD,7306265,1,7306265.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,8.7,conflict,o-479d982da4
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2024-03-31,XCD,7306265,1,7306265.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,8.7,conflict,o-2de2dbf84d
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_receivable],2024-03-31,XCD,8,million,8000000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,8.7,conflict,o-3d8034ac7e
 LCA,lca-cbi,cbi_unit_financial_position [category=accrued_agent_promoter_commissions],2018-03-31,XCD,538650,1,538650.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,77.2,revision,o-1867c83061
 LCA,lca-cbi,cbi_unit_financial_position [category=accrued_agent_promoter_commissions],2018-03-31,XCD,2362500,1,2362500.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,77.2,revision,o-5f272e8c9c
 LCA,lca-cbi,cbi_unit_financial_position [category=accrued_expenses_subtotal],2018-03-31,XCD,4251716,1,4251716.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,46.4,revision,o-d20366171c
@@ -5031,6 +5092,7 @@ LCA,lca-cbi,cbi_unit_financial_position [category=cash],2023-03-31,XCD,71939431,
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2024-03-31,XCD,137754.26,thousand,137754260.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,5.6,same_source,o-8d6d40a627
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2024-03-31,XCD,137754264,1,137754264.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,5.6,same_source,o-d6d0cecde9
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2024-03-31,XCD,137754264,1,137754264.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,5.6,same_source,o-8dca04516c
+LCA,lca-cbi,cbi_unit_financial_position [category=cash],2024-03-31,XCD,137.8,million,137800000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,5.6,same_source,o-5853ad21c0
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2024-03-31,XCD,146,million,146000000.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,5.6,same_source,o-9d5f39268b
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2025-03-31,XCD,259886785,1,259886785.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.4,same_source,o-7528d6ec4e
 LCA,lca-cbi,cbi_unit_financial_position [category=cash],2025-03-31,XCD,261,million,261000000.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.4,same_source,o-71b5b2b6c8
@@ -5112,8 +5174,9 @@ LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities],2023-03-31,
 LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities],2023-03-31,XCD,35709273,1,35709273.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.0,revision,o-224bb518fc
 LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities_and_equity],2018-03-31,XCD,11886647,1,11886647.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,26.3,revision,o-38b672a92b
 LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities_and_equity],2018-03-31,XCD,16117547,1,16117547.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,26.3,revision,o-d167c995a9
-LCA,lca-cbi,cbi_unit_financial_position [category=working_capital_ratio],2023-03-31,ratio,2.05,1,2.05,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,4.7,revision,o-a7f8476951
-LCA,lca-cbi,cbi_unit_financial_position [category=working_capital_ratio],2023-03-31,ratio,2.15,1,2.15,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,4.7,revision,o-8243f00b28
+LCA,lca-cbi,cbi_unit_financial_position [category=working_capital_ratio],2023-03-31,ratio,2.05,1,2.05,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,4.7,conflict,o-a7f8476951
+LCA,lca-cbi,cbi_unit_financial_position [category=working_capital_ratio],2023-03-31,ratio,2.15,1,2.15,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,4.7,conflict,o-8243f00b28
+LCA,lca-cbi,cbi_unit_financial_position [category=working_capital_ratio],2023-03-31,ratio,2.15,1,2.15,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,4.7,conflict,o-402b9dd8ad
 LCA,lca-cbi,cbi_unit_net_income [category=overall_deficit],FY2015/16,XCD,579,thousand,579000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,31.5,vintage,o-ddd9718165
 LCA,lca-cbi,cbi_unit_net_income [category=overall_deficit],FY2015/16,XCD,845,thousand,845000.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,31.5,vintage,o-19de9288cf
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5148336,1,5148336.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,9.6,revision,o-c726b91695
@@ -5121,6 +5184,7 @@ LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5693736,1,56937
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2021/22,XCD,12290751,1,12290751.0,budget,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,55.7,vintage,o-4cb34e5ae1
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2021/22,XCD,27734390,1,27734390.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,55.7,vintage,o-a25b7ec9c3
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2023/24,XCD,89.9,million,89900000.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,same_source,o-63cafc3d53
+LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2023/24,XCD,89.9,million,89900000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,0.1,same_source,o-4286498d50
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2023/24,XCD,89977912,1,89977912.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,0.1,same_source,o-78599b9f3a
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2023/24,XCD,89977912,1,89977912.0,actual,lca-ciu-ar-2024-25,"Citizenship by Investment Unit (CIU), Saint Lucia",2026,0.1,same_source,o-53979b484e
 LCA,lca-cbi,cbi_unit_revenue,FY2015/16,XCD,269634,1,269634.0,actual,lca-ciu-ar-2016-17,"Citizenship by Investment Unit (CIU), Saint Lucia",2017,52.7,revision,o-9a27301ed8
@@ -5162,10 +5226,13 @@ LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2020/21,XCD,1221750,1,122
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,254814,1,254814.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,41.7,same_source,o-b015d31925
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,269515,1,269515.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,41.7,same_source,o-931881f77b
 LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2021/22,XCD,437194,1,437194.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,41.7,same_source,o-cae66f55b0
-LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,305700,1,305700.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,47.0,revision,o-2abdc3c42a
-LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,576885,1,576885.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,47.0,revision,o-9c405ff7f8
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,305700,1,305700.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,47.0,conflict,o-2abdc3c42a
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,576885,1,576885.0,actual,lca-ciu-ar-2023-24,"Citizenship by Investment Unit (CIU), Saint Lucia",2025,47.0,conflict,o-9c405ff7f8
+LCA,lca-cbi,cbi_unit_revenue [category=other_income],FY2022/23,XCD,577000,1,577000.0,reported,lca-imidaily-2026-04,IMI Daily,2026-04-12,47.0,conflict,o-9c2f461f6f
 LCA,lca-cbi,processing_time,FY2019/20,days,56,1,56.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,11.1,revision,o-493145de8f
 LCA,lca-cbi,processing_time,FY2019/20,days,63,1,63.0,actual,lca-ciu-ar-2019-20,"Citizenship by Investment Unit (CIU), Saint Lucia",2020,11.1,revision,o-abd64df78f
+LVA,lva-investor-residence,residence_permits_issued [applicant=main_and_family],2010-2017,persons,17300,1,17300.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-5baa30d36f
+LVA,lva-investor-residence,residence_permits_issued [applicant=main_and_family],2010-2017,persons,17342,1,17342.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.2,same_source,o-8a6bc4a57d
 MLT,,cbi_applicant_donations,2022,EUR,322385,1,322385.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.2,same_source,o-48fbce57f3
 MLT,,cbi_applicant_donations,2022,EUR,322885,1,322885.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.2,same_source,o-dc5a8d00f8
 MLT,,cbi_transfers_to_government [category=national_development_fund],2015/2024,EUR,786139822,1,786139822.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,0.0,same_source,o-f7f9249405
@@ -5207,6 +5274,24 @@ MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,appli
 MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,applications,107,1,107.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,32.7,revision,o-d987e2751f
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1150300000,1,1150300000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-620ae228d7
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1153415534.34,1,1153415534.34,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-7e6056d02c
+MLT,mlt-iip,cbi_contributions,2015,EUR,50,million,50000000.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,53.1,conflict,o-c8c43e57a7
+MLT,mlt-iip,cbi_contributions,2015,EUR,106525000,1,106525000.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,53.1,conflict,o-30d8a11d80
+MLT,mlt-iip,cbi_contributions,2015,EUR,106525000,1,106525000.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,53.1,conflict,o-b974b669c9
+MLT,mlt-iip,cbi_contributions,2015,EUR,106525000,1,106525000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,53.1,conflict,o-db170a5149
+MLT,mlt-iip,cbi_contributions,2015,EUR,106525000,1,106525000.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,53.1,conflict,o-1023128b2a
+MLT,mlt-iip,cbi_contributions,2015,EUR,106525000,1,106525000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,53.1,conflict,o-dedcb2bde7
+MLT,mlt-iip,cbi_contributions,2016,EUR,172,million,172000000.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,38.6,conflict,o-7c9010f0fe
+MLT,mlt-iip,cbi_contributions,2016,EUR,279925000,1,279925000.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,38.6,conflict,o-ae411c0294
+MLT,mlt-iip,cbi_contributions,2016,EUR,279925000,1,279925000.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,38.6,conflict,o-eb8cd44776
+MLT,mlt-iip,cbi_contributions,2016,EUR,279925000,1,279925000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,38.6,conflict,o-335999daf5
+MLT,mlt-iip,cbi_contributions,2016,EUR,279925000,1,279925000.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,38.6,conflict,o-2cff4cc3be
+MLT,mlt-iip,cbi_contributions,2016,EUR,279925000,1,279925000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,38.6,conflict,o-2d475e4dbf
+MLT,mlt-iip,cbi_contributions,2017,EUR,194725000,1,194725000.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,15.3,vintage,o-1fd605eeae
+MLT,mlt-iip,cbi_contributions,2017,EUR,194725000,1,194725000.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,15.3,vintage,o-4051bfaf2c
+MLT,mlt-iip,cbi_contributions,2017,EUR,194725000,1,194725000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,15.3,vintage,o-4d033eeca9
+MLT,mlt-iip,cbi_contributions,2017,EUR,194725000,1,194725000.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,15.3,vintage,o-5b9e6adcf8
+MLT,mlt-iip,cbi_contributions,2017,EUR,194725000,1,194725000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,15.3,vintage,o-37eae0bcd1
+MLT,mlt-iip,cbi_contributions,2017,EUR,230,million,230000000.0,projection,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,15.3,vintage,o-19fc33a16a
 MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105506520,1,105506520.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-d93c4b94ed
 MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105.9,million,105900000.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-9480e23c85
 MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,43,1,43.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.3,revision,o-de1ef6af3d
@@ -5214,6 +5299,8 @@ MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,44,1,44.0,actual,mlt-orgc
 MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,134,1,134.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.2,revision,o-d2841cf6a8
 MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,137,1,137.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.2,revision,o-cd5c0e38c6
 MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,137,1,137.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,2.2,revision,o-f5e0f0f7cb
+MLT,mlt-iip,persons_naturalised [applicant=main_and_family],2015-06/2017-06,persons,2027,1,2027.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,15.5,same_source,o-ebe3874a1d
+MLT,mlt-iip,persons_naturalised [applicant=main_and_family],2015-06/2017-06,persons,2400,1,2400.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,15.5,same_source,o-9bb9291872
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate;region=vittoriosa],2016,properties,0,1,0.0,actual,mlt-orgcem-ar-2020,Office of the Regulator (Malta),,100.0,revision,o-9c807a5f21
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate;region=vittoriosa],2016,properties,0,1,0.0,actual,mlt-orgcem-ar-2021,Office of the Regulator (Malta),,100.0,revision,o-9c2a6a5dbe
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate;region=vittoriosa],2016,properties,1,1,1.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,100.0,revision,o-cb71b11226
@@ -5265,6 +5352,8 @@ MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,26733
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,27501884.88,1,27501884.88,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.8,revision,o-2d716ff90a
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2017-06,EUR,85873164.71,1,85873164.71,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-a3a3d86b9d
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2017-06,EUR,86024299.71,1,86024299.71,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,0.2,revision,o-cce430ac2a
+MLT,mlt-iip,visa_free_destinations,2018,countries,157,1,157.0,reported,mlt-occrp-daphne-2018,OCCRP (The Daphne Project),2018-04-18,13.7,conflict,o-8151ca6eaa
+MLT,mlt-iip,visa_free_destinations,2018,countries,182,1,182.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,13.7,conflict,o-e3736a60e2
 MLT,mlt-mec,applications_rejected [category=vetted_by_regulator],2023,applications,11,1,11.0,actual,mlt-orgcem-ar-2023,Office of the Regulator (Malta),2025-04,26.7,revision,o-132fcbd3df
 MLT,mlt-mec,applications_rejected [category=vetted_by_regulator],2023,applications,15,1,15.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,26.7,revision,o-1d0dcf7663
 MLT,mlt-mec,cbi_applicant_donations,2022,EUR,150000,1,150000.0,actual,mlt-orgcem-ar-2024,Office of the Regulator (Malta),2026-04,0.1,revision,o-ae11fce628
@@ -5275,6 +5364,7 @@ MLT,mlt-mec,cbi_transfers_to_government [category=national_development_fund],202
 MLT,mlt-mec,cbi_transfers_to_government [category=national_development_fund],2024,EUR,93.6,million,93600000.0,actual,mlt-ndsf-ar-2025,National Development and Social Fund (Malta),2026-09,2.4,conflict,o-4797cb4c26
 MNE,mne-cbi,applications_received,2019-2022,applications,556,1,556.0,reported,mne-ec-report-2023,European Commission,2023-11-08,50.0,conflict,o-5735176102
 MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-mediterannews-2026-09-11,MediteranNews,2026-09-11,50.0,conflict,o-9f4399fce9
+MNE,mne-cbi,applications_received,2019-2022,applications,1113,1,1113.0,reported,mne-vijesti-2026-06-20,Forbes Crna Gora (Vijesti),2026-06-20,50.0,conflict,o-3389b0d443
 MNE,mne-cbi,cbi_transfers_to_government,2023-01-13,EUR,32999849,1,32999849.0,reported,mne-vijesti-2026-06-20,Forbes Crna Gora (Vijesti),2026-06-20,0.0,conflict,o-5d59355856
 MNE,mne-cbi,cbi_transfers_to_government,2023-01-13,EUR,32999849.80,1,32999849.8,actual,mne-mirn-info-cbi-2026-07,"Ministarstvo regionalno-investicionog razvoja i saradnje sa nevladinim organizacijama (Government of Montenegro), data from the Investment Agency of Montenegro",2026,0.0,conflict,o-5302178df6
 MNE,mne-cbi,cbi_transfers_to_government,2023-01-13,EUR,32999849.80,1,32999849.8,actual,mne-mirn-info-cbi-2026-09,"Ministarstvo regionalno-investicionog razvoja i saradnje sa nevladinim organizacijama (Government of Montenegro), data from the Investment Agency of Montenegro",2026,0.0,conflict,o-9d4cf6e072
@@ -5661,6 +5751,8 @@ PRT,prt-golden-visa,dependants_approved,2013,persons,563,1,563.0,actual,prt-sef-
 PRT,prt-golden-visa,dependants_approved,2013,persons,576,1,576.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,2.3,revision,o-5338f7145f
 PRT,prt-golden-visa,main_applicants_approved,2013,persons,476,1,476.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-216c826b75
 PRT,prt-golden-visa,main_applicants_approved,2013,persons,494,1,494.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.6,revision,o-088bc5096a
+PRT,prt-golden-visa,main_applicants_approved,2023,persons,2091,1,2091.0,reported,prt-eco-gv-record-2026,ECO,2026-09-25,27.9,conflict,o-67bcf25acf
+PRT,prt-golden-visa,main_applicants_approved,2023,persons,2901,1,2901.0,actual,prt-aima-rma-2023,"Agência para a Integração, Migrações e Asilo (AIMA, I. P.)",2024-09,27.9,conflict,o-ca006089cc
 PRT,prt-golden-visa,main_applicants_approved [route=real_estate],2013,persons,446,1,446.0,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.9,revision,o-02f8ec3ef7
 PRT,prt-golden-visa,main_applicants_approved [route=real_estate],2013,persons,464,1,464.0,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,3.9,revision,o-7c7d5b62ac
 PRT,prt-golden-visa,rbi_investment_total,2012-10/2023-09,EUR,6451,million,6451000000.0,reported,prt-eco-gv-record-2026,ECO,2026-09-25,11.9,conflict,o-3acb79ae70
@@ -5672,6 +5764,8 @@ PRT,prt-golden-visa,rbi_investment_total,2017,EUR,844088897.77,1,844088897.77,ac
 PRT,prt-golden-visa,rbi_investment_total,2017,EUR,844088897.77,1,844088897.77,actual,prt-sef-rifa-2017,Serviço de Estrangeiros e Fronteiras (SEF),2018,24.1,conflict,o-279ef20681
 PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,269775097.81,1,269775097.81,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-d4f1b39044
 PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,270361097.81,1,270361097.81,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-133478ef7d
+PRT,prt-golden-visa,residence_permits_issued [applicant=main_and_family],2012-10/2018-08,persons,17500,1,17500.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.1,same_source,o-f3885795b3
+PRT,prt-golden-visa,residence_permits_issued [applicant=main_and_family],2012-10/2018-08,persons,17521,1,17521.0,reported,intl-ti-gw-european-getaway-2018,Transparency International and Global Witness,2018-10-10,0.1,same_source,o-e0411e0cf9
 SGP,sgp-gip,main_applicants_approved,2020-2022,persons,60,1,60.0,actual,sgp-edb-gip-mr-2023,Singapore Economic Development Board (EDB),2023-03-02,70.0,conflict,o-045f904816
 SGP,sgp-gip,main_applicants_approved,2020-2022,persons,200,1,200.0,actual,sgp-parl-oa-gip-2023,Parliament of Singapore (Official Report / Hansard),2023-02-23,70.0,conflict,o-71a555b579
 SGP,sgp-gip,rbi_jobs_created,2011-2022,jobs,24000,1,24000.0,estimate,sgp-parl-oa-gip-2023,Parliament of Singapore (Official Report / Hansard),2023-02-23,2.8,conflict,o-96bf846137
@@ -5964,10 +6058,11 @@ VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,4.2,1,4.2,projection,
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-f6fa4a82d8
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,2.5,1,2.5,projection,vut-imf-art4-2024,International Monetary Fund,2024-09,41.9,vintage,o-ccfc43f51f
 VUT,vut-cbi,cbi_fiscal_revenue_pct_gdp,2029,percent_of_gdp,4.3,1,4.3,projection,vut-imf-art4-2025,International Monetary Fund,2025-09,41.9,vintage,o-eddb6850c5
-VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,30.6,1,30.6,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,7.3,vintage,o-61c113b91f
-VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,7.3,vintage,o-e1e6e05a88
-VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,actual,vut-imf-art4-2023,International Monetary Fund,2023-03,7.3,vintage,o-be686e2176
-VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,actual,vut-imf-art4-2024,International Monetary Fund,2024-09,7.3,vintage,o-234de258f1
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,30.6,1,30.6,budget,vut-mfem-ca-revenue-2020,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2020,21.4,conflict,o-61c113b91f
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,21.4,conflict,o-e1e6e05a88
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,actual,vut-imf-art4-2023,International Monetary Fund,2023-03,21.4,conflict,o-be686e2176
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,33,1,33.0,actual,vut-imf-art4-2024,International Monetary Fund,2024-09,21.4,conflict,o-234de258f1
+VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2020,percent,42,1,42.0,reported,vut-guardian-2021-07,The Guardian,2021-07-15,21.4,conflict,o-9f99206149
 VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,30.6,1,30.6,budget,vut-mfem-ca-revenue-2021,"Ministry of Finance and Economic Management, Department of Finance and Treasury",2021,7.3,vintage,o-5d48e5c1dc
 VUT,vut-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,33,1,33.0,reported,intl-ec-com-2024-366,European Commission,2024-05-31,7.3,vintage,o-7008f08211
 VUT,vut-cbi,cbi_programme_costs [category=citizenship_commission_appropriation],2026,VUV,77.0,million,77000000.0,budget,vut-mfem-budget-2025-v1,"Government of the Republic of Vanuatu, Ministry of Finance and Economic Management",2024,6.1,vintage,o-dc6521344b
