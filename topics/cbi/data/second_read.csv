@@ -17026,3 +17026,63 @@ o-d980ee90c4,27,,1,Σύνολο Αιτητών που πολιτογραφήθη
 o-5c72380b32,164,,1,largest country (redacted name),PDF p. 492,[redacted] υπήκοοι (164),high,Text says 258 persons naturalised up to 2013; OCR twice agrees on 164,claude-sonnet-5,2026-10-10,1,no
 o-e99efcc070,35,,1,"former USSR republic, first listed",PDF p. 492,"πρώην δημοκρατίες της ΕΣΣΔ όπως [redacted] (35),",medium,"Names redacted (black boxes). An earlier OCR gave 55, repeated reads at 500 dpi give 35. Taken as first listed item",claude-sonnet-5,2026-10-10,1,no
 o-a9c6ecb0e7,9,,1,"former USSR republic, third listed",PDF p. 492,"[redacted] (35), [redacted] (14), [redacted] (9), ...",medium,"Names redacted; second line shows (14) then (9) after black boxes; third listed item taken as (9). Small print, OCR repeated reads agree",claude-sonnet-5,2026-10-10,1,no
+o-4490f6c751,12.3,,1,Years since admission 6,Table F-1 Investors,"No EI, SE or II 12.3",high,,claude-sonnet-5,2026-10-10,1,no
+o-a1b2ee8e77,61.7,,1,Years since admission 15,Table F-2 Investors,Investment income 61.7,high,,claude-sonnet-5,2026-10-10,1,no
+o-a5d54bfb55,84.9,,1,Years since admission 1,Table C-1 INs,1996 ... 84.9,high,,claude-sonnet-5,2026-10-10,1,no
+o-2f12be173b,21.1,,1,Years since admission 1,Table F-1 Investors,EI and II 21.1,high,,claude-sonnet-5,2026-10-10,1,no
+o-c9104f11fb,0.7,,1,Years since admission 3,Table F-1 Investors,"EI, SE, and II 0.7",high,,claude-sonnet-5,2026-10-10,1,no
+o-3108714347,2.9,,1,Years since admission 6,Table F-1 Investors,SE only 2.9,high,,claude-sonnet-5,2026-10-10,1,no
+o-53ac2a5a0b,46.6,,1,Years since admission 11,Table F-1 Investors,II only 46.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-df28e7a2c3,18.7,,1,Years since admission 7,Table F-1 Investors,EI and II 18.7,high,,claude-sonnet-5,2026-10-10,1,no
+o-696ffa3e25,100,,1,Years since admission 0,Table F-1 Investors,Total 100,high,,claude-sonnet-5,2026-10-10,1,no
+o-1134c93fa6,63.8,,1,Years since admission 10,Table C-1 INs,2000 ... 63.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-4701bf3bb6,0.7,,1,Years since admission 12,Table F-1 Investors,"EI, SE, and II 0.7",high,,claude-sonnet-5,2026-10-10,1,no
+o-00dc294781,56.4,,1,Years since admission 14,Table C-1 INs,1996 ... 56.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-8140f6614c,$5.21,,million,2006-2007,Table 6.1,IN IN $5.21 $5.97 n.a. $12.63 $6.68 $6.92,high,Table 6.1 in $million; IN row,claude-sonnet-5,2026-10-10,1,no
+o-43b5e38dbc,10.3,,1,Years since admission 15,Table F-1 Investors,EI only 10.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-e646180514,57.6,,1,Years since admission 13,Table C-1 INs,1998 ... 57.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-38c027ccf4,72.4,,1,Years since admission 0,Table C-1 INs,2000 ... 72.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-a0bd72fb93,64.8,,1,Years since admission 10,Table C-1 INs,1998 ... 64.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-315712cb83,71.7,,1,Years since admission 8,Table C-1 INs,1996 ... 71.7,high,,claude-sonnet-5,2026-10-10,1,no
+o-797479ab8c,80.0,,1,Years since admission 4,Table C-1 INs,2000 ... 80.0,high,,claude-sonnet-5,2026-10-10,1,no
+o-b25dd1ee42,80.0,,1,Years since admission 2,Table C-1 INs,2004 ... 80.0,high,,claude-sonnet-5,2026-10-10,1,no
+o-c9af4b8dd9,54.3,,1,Years since admission 15,Table C-1 INs,1996 ... 54.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-80f9376d65,46.3,,1,Years since admission 13,Table F-1 Investors,II only 46.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-b8f8387c29,61.3,,1,Years since admission 12,Table C-1 INs,1999 ... 61.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-347d3ac065,17.2,,1,Years since admission 9,Table F-1 Investors,"No EI, SE or II 17.2",high,,claude-sonnet-5,2026-10-10,1,no
+o-4ae3d168a3,9.1,,1,Years since admission 10,Table F-1 Investors,EI only 9.1,high,,claude-sonnet-5,2026-10-10,1,no
+o-7ac2f79b3f,100,,1,Years since admission 10,Table F-1 Investors,Total 100,high,,claude-sonnet-5,2026-10-10,1,no
+o-c9e6aa9ddf,79.4,,1,Years since admission 5,Table C-1 INs,2001 ... 79.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-67c0de1b3b,79.1,,1,Years since admission 1,Table C-1 INs,1997 ... 79.1,high,,claude-sonnet-5,2026-10-10,1,no
+o-7ca07bda4b,74.8,,1,Years since admission 6,Table C-1 INs,1999 ... 74.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-4e65f5d3fb,85.3,,1,Years since admission 3,Table C-1 INs,1996 ... 85.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-983a25f36d,0.3,,1,Years since admission 10,Table F-1 Investors,EI and SE 0.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-c28522f1c4,56.60%,,1,Average % by class,Table 6.1,IN ... 56.60%,high,column headed 'Average % by class',claude-sonnet-5,2026-10-10,1,no
+o-a41dbfd7b2,100,,1,Years since admission 6,Table F-1 Investors,Total 100,high,,claude-sonnet-5,2026-10-10,1,no
+o-6e508de0a0,0.3,,1,Years since admission 1,Table F-1 Investors,EI and SE 0.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-4b0e2e3b19,48.8,,1,Years since admission 0,Table F-1 Investors,II only 48.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-0f40a9d4af,79.3,,1,Years since admission 6,Table C-1 INs,1996 ... 79.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-26ad6f7177,62.4,,1,Years since admission 0,Table C-1 INs,2008 ... 62.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-fbcb391556,86.2,,1,Years since admission 2,Table C-1 INs,1996 ... 86.2,high,,claude-sonnet-5,2026-10-10,1,no
+o-b550770d83,0.4,,1,Years since admission 7,Table F-1 Investors,EI and SE 0.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-cc46a7ab43,495,,1,As a Frequency of those surveyed (n2 = 850),Table D-1,"Investor 10180 82,1% 10156 82.1% 495 58.2%",high,,claude-sonnet-5,2026-10-10,1,no
+o-8072d63587,3.5,,1,Years since admission 13,Table F-1 Investors,SE only 3.5,high,,claude-sonnet-5,2026-10-10,1,no
+o-c35890fd82,10.6,,1,Years since admission 15,Table F-2 Investors,Self-employment income 10.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-086f7e90e7,18.5,,1,Years since admission 10,Table F-1 Investors,"No EI, SE or II 18.5",high,,claude-sonnet-5,2026-10-10,1,no
+o-270017c11e,46.8,,1,Years since admission 12,Table F-1 Investors,II only 46.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-a359b69c16,77.1,,1,Years since admission 5,Table C-1 INs,2000 ... 77.1,high,,claude-sonnet-5,2026-10-10,1,no
+o-384df8aebb,$6.68,,million,2010-2011,Table 6.1,IN IN $5.21 $5.97 n.a. $12.63 $6.68 $6.92,high,Table 6.1 in $million; IN row,claude-sonnet-5,2026-10-10,1,no
+o-84008dd5bc,84.6,,1,Years since admission 3,Table C-1 INs,2001 ... 84.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-3b325f1467,0.7,,1,Years since admission 11,Table F-1 Investors,"EI, SE, and II 0.7",high,,claude-sonnet-5,2026-10-10,1,no
+o-7ef8fe3405,73.8,,1,Years since admission 6,Table C-1 INs,2004 ... 73.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-63f738ee9c,18,,1,Years since admission 9,Table F-1 Investors,EI and II 18,high,,claude-sonnet-5,2026-10-10,1,no
+o-a188c53407,78.5,,1,Years since admission 4,Table C-1 INs,2006 ... 78.5,high,,claude-sonnet-5,2026-10-10,1,no
+o-cb2cbc434d,85.8,,1,Years since admission 4,Table C-1 INs,2002 ... 85.8,high,,claude-sonnet-5,2026-10-10,1,no
+o-4514cc0a19,2.6,,1,Years since admission 3,Table F-1 Investors,SE only 2.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-709609269f,81.0,,1,Years since admission 1,Table C-1 INs,2000 ... 81.0,high,,claude-sonnet-5,2026-10-10,1,no
+o-0dbd196413,0.9,,1,Years since admission 4,Table F-1 Investors,"EI, SE, and II 0.9",high,,claude-sonnet-5,2026-10-10,1,no
+o-70377194ae,14.7,,1,Years since admission 12,Table F-1 Investors,EI and II 14.7,high,,claude-sonnet-5,2026-10-10,1,no
+o-97e1599e66,76.3,,1,Years since admission 5,Table C-1 INs,2004 ... 76.3,high,,claude-sonnet-5,2026-10-10,1,no
+o-0630a5b18e,60.0,,1,Years since admission 11,Table C-1 INs,1998 ... 60.0,high,,claude-sonnet-5,2026-10-10,1,no
+o-fcf71766dc,65.6,,1,Years since admission 0,Table C-1 INs,2005 ... 65.6,high,,claude-sonnet-5,2026-10-10,1,no
+o-9ca5c2a344,79.2,,1,Years since admission 5,Table C-1 INs,1998 ... 79.2,high,,claude-sonnet-5,2026-10-10,1,no
