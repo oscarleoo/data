@@ -30,17 +30,18 @@ They did not record every table in every document they stored. On 8 October
 not been extracted, while the page said "every number we could find". That was
 wrong. This ledger makes the gaps visible.
 
-## Where we are (as of 2026-10-10)
+## Where we are (as of 2026-10-10, evening)
 
-- Sources: 1,434, of which 1,258 have a stored copy (9 duplicate sources were merged on 9-10 October).
-- Stored documents reviewed against their full contents: **1,258 of 1,258** (1,150 complete, 91 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
+- Sources: 1,438, of which 1,262 have a stored copy. Data: 127,919 numbers, 4,490 rules, 1,207 events.
+- Stored documents reviewed against their full contents: **1,262 of 1,262** (1,202 complete, 43 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
 - Sources with no stored copy: 176. They stay `not_reviewed` until a copy is fetched.
-- The review was done document by document between 8 and 9 October 2026; the log is in `../cbi/reports/overnight-2026-10-08.md`.
+- The review was done document by document between 8 and 10 October 2026; logs: `../cbi/reports/overnight-2026-10-08.md` and `../cbi/reports/corrections-2026-10-09.md`.
 
 What this does and doesn't mean:
 
-- Every number has a location and a verbatim quote, and each is checked against the stored copy. Of 120,629 quoted rows (numbers, rules, events) in the last full check: 86,388 match word for word and 17,681 as a table row; 3,124 spreadsheet rows match cell for cell (row and column); 8,687 were confirmed by a blind second reading and 239 by eye; 3,948 are calculated figures (decision 1) whose recipe was recalculated independently. None is unconfirmed; 1 cites a stored file that turned out to be a different document, 1 document has no readable text, and 560 come from sources we don't store. Rows added after the last full check are checked as they are merged.
-- A blind second reading by a different model covers 16,968 of 115,191 numbers (every number whose quote could not be matched automatically, plus samples of the rest) (55,270 of the 115,191 are zeros). Every difference it found is ruled (`data/second_read_resolutions.csv`).
+- Every number has a location and a verbatim quote, and each is checked against the stored copy. Of 130,532 quoted rows (numbers, rules, events) in the last full check (10 October): 92,113 match word for word and 19,716 as a table row; 3,131 spreadsheet rows match cell for cell; 10,777 were confirmed by a blind second reading and 245 by eye; 3,989 are calculated figures (decision 1) whose recipe was recalculated independently. None is unconfirmed; 1 document has no readable text and 560 rows come from sources we don't store. Rows added after that check were checked as they were merged.
+- Limit of the quote check: for scanned documents the stored text is itself OCR, so a quote that matches it confirms the wording but not every digit. 5,060 numbers are confirmed only that way (mostly Antigua contribution lines, which are almost all 100,000 or 125,000 and add up to the printed totals in most reports, and Thai membership cells, checked against row totals). Reading every payment line of the Antigua reports blind found and corrected 9 misread amounts that a text match had passed.
+- A blind second reading by a different model covers 23,005 of 127,919 numbers: every number whose quote could not be matched automatically, every Antigua payment line, every image or chart label, plus samples of the rest. Every difference is ruled (`data/second_read_resolutions.csv`); where the first reading was wrong it was corrected through `data/corrections.csv`.
 - `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` column says exactly what (charts without printed values, unreadable scans, items waiting for a decision on scope).
 - Documents we don't store are not reviewed, so the dataset says nothing about what they contain.
 
