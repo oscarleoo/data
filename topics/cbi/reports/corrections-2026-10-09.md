@@ -89,3 +89,17 @@ eye per pass, then either improve the checker for spreadsheet rows or record che
   q056 settled by decision 14 (keep both dates / both accounts); q024, q034, q036, q046 moved to three new
   indicators (programme_migrants_counted, cbi_agent_commission_outflows_pct_gdp, fee_change_pct) and a new programme
   (tca-home-owner-permit). The Grenada IMF figure is now stored as printed, -4.5. No items from this run remain open.
+
+## Round 2 (2026-10-10)
+
+14 follow-up items, drafted by one reader and checked blind by a second: 13 fixed, 1 found correct (St Kitts
+excluded-nationalities event). Highlights: Malta 2025 NDSF row no longer attributed to one programme; Bermuda bond
+removal sentence back in the quote; "rabat" unified as rabat_malta; 363 stale notes on Malta zero cells updated;
+Irish planned social housing moved to a new indicator `cbi_funded_housing_units_planned`; EB-5 quotes show the minus
+sign; two Cambodian quotes corrected ("billion" as printed); new rows: St Kitts accelerated fee for a dependant over
+18 (US$37,500, settled from the digit shapes), St Kitts CIU 2023 appropriation (labels swapped in print, settled
+against the 2022 and 2024 volumes), Bermuda real estate $14.3 million (unit inferred, decision 4). Left: 179 rows
+from the Malta 2020 report carry the same stale zero-cell sentence.
+
+Also merged: complete copies of the Qatar law, the Egypt FAQ page 2 and the Canadian evaluation (342 numbers, 12
+rules, 1 event); the Panama decree was never truncated (the earlier ledger note was wrong).

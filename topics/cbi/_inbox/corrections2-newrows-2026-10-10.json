@@ -1,0 +1,139 @@
+{
+ "slug": "corrections2-newrows-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "New rows from the second corrections run (decision 12: drafted by one reader, confirmed blind by a second): St Kitts accelerated fee for a dependant over 18 (US$37,500), St Kitts CIU 2023 appropriation (labels swapped in print), Bermuda real-estate investment $14.3 million (unit inferred).",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "KNA",
+   "program_id": "kna-cbi",
+   "indicator": "cbi_programme_costs",
+   "breakdown": "category=ciu_programme_compensation",
+   "period": "2023",
+   "period_basis": "calendar_year",
+   "value": "1901",
+   "value_high": "",
+   "reading": "digits",
+   "unit": "XCD",
+   "unit_basis": "printed",
+   "scale": "thousand",
+   "status": "budget",
+   "source_id": "kna-mof-estimates-2023-v1",
+   "location": "PDF p. 30, Office of the Prime Minister, Expenditures 2023 by category, row printed as \"05042 - Manage Humans Resources Dept\" (CIU figures; labels swapped in print), column \"Compensation of employees\"",
+   "quote": "05042 - Manage Humans Resources Dept 1,901 0 0 72,044 0 0 73,945",
+   "notes": "Federal Government of St. Kitts only (excludes the Nevis Island Administration). EC$. Appropriation for the programme '05041 - Manage the Citizenship by Investment Unit' under the Office of the Prime Minister (E.05 Manage the Affairs of the Federation), expenditures by category, in thousands. Column 'Compensation of employees'. Budget for 2023. Label swap: this volume prints these figures on the row labelled '05042 - Manage Humans Resources Dept' and prints the Human Resources figures (4,297 / grants 7,076 / 1,071 / 12,444) on the row labelled '05041 - Manage Citizenship by Investment'. The figures are taken as the CIU's because the 2024 Estimates (PDF p. 34) reprint the 2023 Main Estimates as CIU 73,945 and Human Resources 12,444, and in the 2022 and 2024 volumes the CIU row has the 72,044 goods-and-services line and Human Resources the 7,076 grants line.",
+   "superseded_by": "",
+   "added_date": "2026-10-10",
+   "added_by": "corrections-2026-10-10 (r12)"
+  },
+  {
+   "jurisdiction": "KNA",
+   "program_id": "kna-cbi",
+   "indicator": "cbi_programme_costs",
+   "breakdown": "category=ciu_programme_goods_services",
+   "period": "2023",
+   "period_basis": "calendar_year",
+   "value": "72044",
+   "value_high": "",
+   "reading": "digits",
+   "unit": "XCD",
+   "unit_basis": "printed",
+   "scale": "thousand",
+   "status": "budget",
+   "source_id": "kna-mof-estimates-2023-v1",
+   "location": "PDF p. 30, Office of the Prime Minister, Expenditures 2023 by category, row printed as \"05042 - Manage Humans Resources Dept\" (CIU figures; labels swapped in print), column \"Use of Goods and Services\"",
+   "quote": "05042 - Manage Humans Resources Dept 1,901 0 0 72,044 0 0 73,945",
+   "notes": "Federal Government of St. Kitts only (excludes the Nevis Island Administration). EC$. Appropriation for the programme '05041 - Manage the Citizenship by Investment Unit' under the Office of the Prime Minister (E.05 Manage the Affairs of the Federation), expenditures by category, in thousands. Column 'Use of Goods and Services'. Budget for 2023. Label swap: this volume prints these figures on the row labelled '05042 - Manage Humans Resources Dept' and prints the Human Resources figures (4,297 / grants 7,076 / 1,071 / 12,444) on the row labelled '05041 - Manage Citizenship by Investment'. The figures are taken as the CIU's because the 2024 Estimates (PDF p. 34) reprint the 2023 Main Estimates as CIU 73,945 and Human Resources 12,444, and in the 2022 and 2024 volumes the CIU row has the 72,044 goods-and-services line and Human Resources the 7,076 grants line.",
+   "superseded_by": "",
+   "added_date": "2026-10-10",
+   "added_by": "corrections-2026-10-10 (r12)"
+  },
+  {
+   "jurisdiction": "KNA",
+   "program_id": "kna-cbi",
+   "indicator": "cbi_programme_costs",
+   "breakdown": "category=ciu_programme",
+   "period": "2023",
+   "period_basis": "calendar_year",
+   "value": "73945",
+   "value_high": "",
+   "reading": "digits",
+   "unit": "XCD",
+   "unit_basis": "printed",
+   "scale": "thousand",
+   "status": "budget",
+   "source_id": "kna-mof-estimates-2023-v1",
+   "location": "PDF p. 30, Office of the Prime Minister, Expenditures 2023 by category, row printed as \"05042 - Manage Humans Resources Dept\" (CIU figures; labels swapped in print), column \"Total\"",
+   "quote": "05042 - Manage Humans Resources Dept 1,901 0 0 72,044 0 0 73,945",
+   "notes": "Federal Government of St. Kitts only (excludes the Nevis Island Administration). EC$. Appropriation for the programme '05041 - Manage the Citizenship by Investment Unit' under the Office of the Prime Minister (E.05 Manage the Affairs of the Federation), expenditures by category, in thousands. Total for the programme. Budget for 2023. Label swap: this volume prints these figures on the row labelled '05042 - Manage Humans Resources Dept' and prints the Human Resources figures (4,297 / grants 7,076 / 1,071 / 12,444) on the row labelled '05041 - Manage Citizenship by Investment'. The figures are taken as the CIU's because the 2024 Estimates (PDF p. 34) reprint the 2023 Main Estimates as CIU 73,945 and Human Resources 12,444, and in the 2022 and 2024 volumes the CIU row has the 72,044 goods-and-services line and Human Resources the 7,076 grants line.",
+   "superseded_by": "",
+   "added_date": "2026-10-10",
+   "added_by": "corrections-2026-10-10 (r12)"
+  },
+  {
+   "jurisdiction": "BMU",
+   "program_id": "bmu-eirc",
+   "indicator": "rbi_investment_total",
+   "breakdown": "route=real_estate",
+   "period": "2021-03-01/2021-11-24",
+   "period_basis": "cumulative",
+   "value": "14.3",
+   "value_high": "",
+   "reading": "digits",
+   "unit": "BMD",
+   "unit_basis": "inferred",
+   "scale": "million",
+   "status": "reported",
+   "source_id": "bmu-mel-eic-update-2021",
+   "location": "para 2",
+   "quote": "the total investment of EIC holders in Bermuda is over 39.5 million dollars ($39,541,923.94), which includes $14.3 injected into the economy from real estate purchases made this year",
+   "notes": "Printed as \"$14.3\" with no unit word. Scale million inferred from the same sentence: the figure is part of (\"which includes\") the total of \"over 39.5 million dollars ($39,541,923.94)\", written the same way with one decimal; read as dollars or thousands it would be a negligible share of that total. Currency: printed with \"$\" only; Bermuda dollar assumed, as for the other Bermuda rows (the EIRC policy states amounts in BD$, at par with the US dollar). Real estate purchases by EIC holders \"made this year\"; the programme launched on 1 March 2021, so the period is taken as launch to the date of the statement (24 Nov 2021). Later statements give real estate cumulatively: over $94 million by July 2022 (bmu-parl-ms-eic-2022), $113.4 million by Feb 2023. Ministry figure; not audited.",
+   "superseded_by": "",
+   "added_date": "2026-10-10",
+   "added_by": "corrections-2026-10-10 (r13)"
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "kna-cbi",
+   "route": "fee_application",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "37500",
+   "currency": "USD",
+   "applies_to": "dependant child or other dependant over 18, accelerated application",
+   "source_id": "kna-ciu-address-2022-12",
+   "location": "PDF p. 5 (OCR), Accelerated CBI application",
+   "quote": "US$37,500 — Dependant child/other dependant over 18",
+   "notes": "Scanned document (no text layer). The embedded page image is 1000x1414 px (300 ppi), so renderings above 300 dpi only enlarge it. Line crops of the native image OCR as \"US$37,500\" (1x, 3x, 6x, psm 6/7, digits-only); whole-page OCR at 600 dpi and psm 4 gave \"US$87,500\". Pixel check settles it: the second digit has no left-hand strokes, exactly like the 3 in \"US$32,500\" two lines up, while every 8 on the page (\"18\") is closed on the left. Note the wording differs from the standard-fee line (\"Dependant child/other qualified dependant over 18\").",
+   "restates": ""
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [
+  {
+   "indicator": "cbi_funded_housing_units_planned",
+   "name": "Homes planned in approved programme projects",
+   "definition": "Dwellings that approved programme projects plan to build, as set out in the approved business plans or project approvals, counted when the project is approved. Not homes built, under construction or handed over (those go in cbi_funded_housing_units). Breakdown category= for the type of housing (e.g. social_housing).",
+   "unit_kind": "count",
+   "notes": ""
+  }
+ ],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "kna-mof-estimates-2023-v1",
+   "status": "complete",
+   "contains": "St Kitts Estimates 2023, Volume I: recurrent expenditure by programme incl. the CIU appropriation (labels of the CIU and Human Resources rows swapped in print on p. 30; resolved against the 2022 and 2024 volumes).",
+   "to_do": ""
+  },
+  {
+   "source_id": "bmu-mel-eic-update-2021",
+   "status": "complete",
+   "contains": "Bermuda Economic Investment Certificate update, November 2021: EIC holders, total investment, real-estate share ($14.3, recorded as million with the unit inferred).",
+   "to_do": ""
+  }
+ ]
+}
