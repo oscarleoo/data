@@ -4613,14 +4613,8 @@ MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,appli
 MLT,mlt-iip,applications_rejected [category=vetted_by_regulator],FY2018/19,applications,107,1,107.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,32.7,revision,o-3514af1fae
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1150300000,1,1150300000.0,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-620ae228d7
 MLT,mlt-iip,cbi_contributions,2014/2022,EUR,1153415534.34,1,1153415534.34,actual,mlt-orgcem-ar-2022,Office of the Regulator (Malta),2025-02,0.3,same_source,o-7e6056d02c
-MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,106855199,1,106855199.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,38.9,revision,o-2692267ec8
-MLT,mlt-iip,cbi_transfers_to_government,2014/2017-06,EUR,174855645,1,174855645.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,38.9,revision,o-be509a300e
-MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2014/2017-06,EUR,249328799,1,249328799.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,39.0,revision,o-d3bf577ce7
-MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2014/2017-06,EUR,408404349,1,408404349.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,39.0,revision,o-31b306f1bf
 MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105506520,1,105506520.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-d93c4b94ed
 MLT,mlt-iip,cbi_transfers_to_government [category=national_development_fund],2019,EUR,105.9,million,105900000.0,actual,mlt-ndsf-ar-2020,National Development and Social Fund (Malta),,0.4,same_source,o-9480e23c85
-MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,23701500,1,23701500.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,33.3,revision,o-de79029029
-MLT,mlt-iip,cbi_unit_revenue,2014/2017-06,EUR,35529000,1,35529000.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,33.3,revision,o-2a46f45767
 MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,43,1,43.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.3,revision,o-de1ef6af3d
 MLT,mlt-iip,main_applicants_approved,FY2014/15,persons,44,1,44.0,actual,mlt-orgcem-ar-2015,Office of the Regulator (Malta),2015-10,2.3,revision,o-5c37eb542a
 MLT,mlt-iip,main_applicants_approved,FY2015/16,persons,134,1,134.0,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.2,revision,o-d2841cf6a8
@@ -4652,8 +4646,6 @@ MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2016/17,prop
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2016/17,properties,340,1,340.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,2.1,revision,o-640ab9b48e
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2017/18,properties,237,1,237.0,actual,mlt-orgcem-ar-2019,Office of the Regulator (Malta),,1.7,revision,o-3a854b24cd
 MLT,mlt-iip,properties_acquired_for_cbi [route=real_estate_lease],FY2017/18,properties,241,1,241.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,1.7,revision,o-ceca14f6e0
-MLT,mlt-iip,rbi_intermediary_income,2014/2017-06,EUR,19054000,1,19054000.0,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,33.8,revision,o-ef1b2f84b5
-MLT,mlt-iip,rbi_intermediary_income,2014/2017-06,EUR,28800000,1,28800000.0,actual,mlt-orgcem-ar-2018,Office of the Regulator (Malta),,33.8,revision,o-19f997d6b7
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,26733764.73,1,26733764.73,actual,mlt-orgcem-ar-2016,Office of the Regulator (Malta),,2.8,revision,o-d650082040
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2016-06,EUR,27501884.88,1,27501884.88,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,2.8,revision,o-2d716ff90a
 MLT,mlt-iip,rbi_investment_total [route=government_bonds],2014/2017-06,EUR,85873164.71,1,85873164.71,actual,mlt-orgcem-ar-2017,Office of the Regulator (Malta),,0.2,revision,o-a3a3d86b9d

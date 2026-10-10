@@ -143,7 +143,7 @@ defendant, if published), `summary` (plain words), `sanctions_amount`
 ### `events.csv`: the timeline
 
 `event_id`, `date`, `date_precision`, `jurisdiction`, `program_id`,
-`category` (`launch`, `rule_change`, `legal`, `award`, `scandal`, `closure`,
+`category` (`launch`, `legal_basis`, `rule_change`, `legal`, `award`, `scandal`, `closure`,
 `context`), `title`, `description`, `source_id`, `location`, `quote`, `countries`.
 
 An event done by several countries together is recorded once, `jurisdiction` `INTL`, with `countries` listing the

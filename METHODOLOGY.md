@@ -319,6 +319,28 @@ timeline, and keeping only some copies (as the data did) makes it look as if onl
 Kitts and Nevis) deleted, and their region events list the countries. To do: fill `countries` for the other 45
 CBI region events.
 
+### 14. When a programme started (decided 2026-10-10)
+
+**Question.** Programmes often rest on an older general law (North Macedonia's 1992 citizenship law allows
+naturalisation for "special economic interest") and only later get rules that make investing the route (the 2005
+decree). And sources sometimes disagree about the start (Grenada 1997: "enabled" per the US State Department, "made
+more attractive" per an agent's blog). Which date is the start?
+
+**Decision.** Keep both.
+- `launched` is the first official text that makes investing a route to citizenship or residence; the event gets
+  category `launch`.
+- `legal_basis` (new column in programs) is the date of an earlier law the programme rests on, if there is one; its
+  event gets category `legal_basis`. Pages show both ("launched 2005, legal basis from 1992").
+- When sources disagree about the start, each account is its own event, side by side; `launched` follows the
+  higher-ranked source (decision 9), and the programme's notes mention the other account.
+
+**Why.** Both dates are true and answer different questions (since when has it been possible in law; since when has
+there been a programme). Picking one silently would hide the other.
+
+**Applied (2026-10-10).** North Macedonia: launched 2005-02-10, legal basis 1992-11-03. Grenada (1997-2001 scheme):
+launch event from the State Department report added; the blog's account kept as a separate event. To do: check the
+other programmes' launch dates against this rule and fill `legal_basis` where an older law exists.
+
 ## Open questions
 
 None at the moment.

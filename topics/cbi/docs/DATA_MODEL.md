@@ -104,7 +104,7 @@ only what reaches the government, or only fees. Each is its own indicator.
 
 ### `programs.csv`: the programs
 
-`program_id`, `jurisdiction`, `name`, `kind` (`citizenship`, `residency`),
+`program_id`, `jurisdiction`, `name`, `kind` (`citizenship`, `residency`), `launched` and `legal_basis` (METHODOLOGY.md decision 14),
 `launched`, `ended`, `status`, `notes`, `source_ids`.
 
 `ended` is the last day new applications were accepted. `status` is `active`,
@@ -122,7 +122,7 @@ One row per route and period of validity: `program_id`, `route`
 ### `events.csv`: the timeline
 
 `event_id`, `date`, `date_precision` (`day`, `month`, `year`), `jurisdiction`,
-`program_id`, `category` (`launch`, `price_change`, `rule_change`,
+`program_id`, `category` (`launch`, `legal_basis`, `price_change`, `rule_change`,
 `visa_access`, `legal`, `scandal`, `closure`, `context`), `title`,
 `description`, `source_id`, `location`, `quote`, `countries`.
 

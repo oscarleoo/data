@@ -85,3 +85,7 @@ eye per pass, then either improve the checker for spreadsheet rows or record che
 - q089 resolved: the Grenada Fees page archived 29 June 2015 is stored (`grd-cbiunit-web-fees-2015`), the
   government-fee rule cites it, and its 7 other fees are extracted. Blind second reader: 7 confirm; the application
   fee's "per application" was an inference, so the row now says the page prints no unit.
+- Oscar's answers (2026-10-10): q016 applied (Malta 2018 period to June 2018; sums shown above check out); q055 and
+  q056 settled by decision 14 (keep both dates / both accounts); q024, q034, q036, q046 moved to three new
+  indicators (programme_migrants_counted, cbi_agent_commission_outflows_pct_gdp, fee_change_pct) and a new programme
+  (tca-home-owner-permit). The Grenada IMF figure is now stored as printed, -4.5. No items from this run remain open.

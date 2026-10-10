@@ -1,0 +1,62 @@
+{
+ "slug": "decisions-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "Applies Oscar's 2026-10-10 answers: Turks and Caicos Home Owner's Permit as its own programme; three new indicators for figures that were misfiled; the State Department's account of Grenada's 1997 start kept beside the industry account.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [],
+ "events": [
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "jurisdiction": "GRD",
+   "program_id": "grd-ecp",
+   "category": "launch",
+   "title": "Citizenship Amendment Act 1997 lets foreigners buy Grenadian citizenship",
+   "description": "US State Department account (March 2001): the 1997 amendment 'enables' foreign nationals to buy citizenship (about US$40,000 for a family of five, no residence requirement); about 300 economic citizenships issued. An industry account says instead that the 1997 Act made an existing scheme 'more attractive' (event e-49afbb2f54).",
+   "source_id": "intl-usdos-incsr-2000",
+   "location": "Grenada country section, para 3",
+   "quote": "The Grenada Citizenship Amendment Act of 1997 enables foreign nationals to purchase citizenship for a family of five for approximately US $40,000."
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "tca-home-owner-permit",
+   "jurisdiction": "TCA",
+   "name": "Turks and Caicos Islands Home Owner's Permit (Immigration Regulations regs 33-37)",
+   "kind": "residency",
+   "launched": "",
+   "legal_basis": "",
+   "ended": "",
+   "status": "",
+   "notes": "Permit for owners of a home worth at least US$300,000 (reg 33(3)), valid 5 years (reg 34(2)), fee US$1,500 (Schedule 7). Separate from the investor residence permit (reg 24, condition B). Launch date not stated in the stored regulations (revised edition 2021); status not stated beyond that edition.",
+   "source_ids": "tca-imm-ord-rev-2021"
+  }
+ ],
+ "new_indicators": [
+  {
+   "indicator": "programme_migrants_counted",
+   "name": "Programme migrants counted in a study",
+   "definition": "Number of programme immigrants (or applicants) counted in a study population, such as tax records or survey respondents; usually the 'out of' number behind printed percentages. category= names the group. Printed by the source, never calculated by us.",
+   "unit_kind": "count",
+   "notes": ""
+  },
+  {
+   "indicator": "cbi_agent_commission_outflows_pct_gdp",
+   "name": "Agent commissions paid abroad, share of GDP",
+   "definition": "Estimated outflows of commissions paid to programme agents abroad, as a percentage of GDP, as given by the source (usually an IMF staff adjustment). Stored with the source's sign: an outflow printed as -4.5 is stored as -4.5.",
+   "unit_kind": "share",
+   "notes": ""
+  },
+  {
+   "indicator": "fee_change_pct",
+   "name": "Change in programme fees, percent",
+   "definition": "Change in a programme's government fees in percent, as set or estimated by the authority (e.g. in a fee rule's impact analysis). Negative = decrease. category= says which fee or average.",
+   "unit_kind": "share",
+   "notes": ""
+  }
+ ],
+ "gaps": [],
+ "leads": [],
+ "ledger": []
+}
