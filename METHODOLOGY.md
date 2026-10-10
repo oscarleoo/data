@@ -316,8 +316,9 @@ country the document names. Each of those countries' pages shows it. No per-coun
 timeline, and keeping only some copies (as the data did) makes it look as if only those countries took part.
 
 **Applied (2026-10-10).** Column `countries` in both topics. The three country copies (Grenada, Dominica, Saint
-Kitts and Nevis) deleted, and their region events list the countries. To do: fill `countries` for the other 45
-CBI region events.
+Kitts and Nevis) deleted, and their region events list the countries. Of the other 44 region events, 32 now list
+their countries (drafted and checked blind against the documents); 12 stay empty because the document names no
+country, the text is addressed to all member states, or the source isn't stored.
 
 ### 14. When a programme started (decided 2026-10-10)
 
@@ -338,8 +339,12 @@ more attractive" per an agent's blog). Which date is the start?
 there been a programme). Picking one silently would hide the other.
 
 **Applied (2026-10-10).** North Macedonia: launched 2005-02-10, legal basis 1992-11-03. Grenada (1997-2001 scheme):
-launch event from the State Department report added; the blog's account kept as a separate event. To do: check the
-other programmes' launch dates against this rule and fill `legal_basis` where an older law exists.
+launch event from the State Department report added; the blog's account kept as a separate event. All 129 programmes
+then checked against the rule: 37 proposed fixes, of which 33 confirmed by a blind second reader and applied (launch
+dates for Egypt, Malta IIP, Nauru, Panama, Papua New Guinea, Vanuatu, Bahrain, Argentina, Australia; legal basis for
+Dominica, Ireland, Malta, Panama, Qatar, Turkey, the US Gold Card, Vanuatu; 17 launch or legal-basis events added);
+the rest left for a person, mostly because the founding law isn't stored. Open: whether `launched` is the publication
+or the in-force date, and the law's date or the day applications opened (asked 2026-10-10).
 
 ## Open questions
 
