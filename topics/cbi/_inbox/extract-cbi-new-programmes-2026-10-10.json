@@ -1,0 +1,736 @@
+{
+ "slug": "extract-cbi-new-programmes-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "Five programmes added under METHODOLOGY decision 15 (UAE green residence for investors and partners, UAE retiree residence with property or deposit, Sierra Leone GO-FOR-GOLD, Prince Edward Island investor stream, France exceptional economic contribution residence), with rules and launch or legal-basis events from stored documents. Existing rows with an empty program_id are assigned in program_id_assignments (rules) and other_assignments (observations, events); ordinary naturalisation rows stay without a programme and are listed in context_rows. The UAE property-owner residence on AED 10,000 monthly income (Res. 65/2022 art. 53) is out of scope and not added.",
+ "sources": [],
+ "observations": [
+  {
+   "jurisdiction": "SLE",
+   "program_id": "sle-go-for-gold",
+   "indicator": "processing_time",
+   "breakdown": "stage=due_diligence",
+   "period": "2025-11-01",
+   "period_basis": "as_of_date",
+   "value": "2",
+   "value_high": "",
+   "reading": "approximate",
+   "unit": "weeks",
+   "unit_basis": "printed",
+   "scale": "1",
+   "status": "claim",
+   "source_id": "sle-gfg-update-2025",
+   "location": "p. 8, FAQ 5 (also p. 5: 'typically within two weeks')",
+   "quote": "Approximately two weeks per application",
+   "notes": "Time for the due-diligence report per application as stated by the promoters; not an official figure."
+  }
+ ],
+ "program_terms": [
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "permit_validity",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "green residence holder (all green categories, including investors and partners): residence without a sponsor or employer, renewable for equal periods on the same conditions",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 16, art. 38(2)",
+   "quote": "يُخول تصريح الإقامة الخضراء لصاحبه حق الإقامة بدون ضامن/ صاحب عمل في الدولة لمدة (5) خمس سنوات قابلة للتجديد",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "business",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "",
+   "currency": "",
+   "applies_to": "investor or partner in a commercial project: value of the investment or partnership at the ratios set by a decision of the ICP chairman; capital in several licences is added up",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 17, art. 41(2)",
+   "quote": "إثبات قيمة الاستثمار أو الشراكة وفقاً للنسب التي يصدر بتحديدها قرار من الرئيس",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer). No amount is printed: the regulation leaves the ratios to a decision of the ICP chairman (also art. 33(2)(a) and 39(2)(a): partner in a commercial licence 'with a participation ratio set by a decision of the chairman'), which is not stored. Other conditions (art. 41(1), (3)): ICP approval under an investor classification system set by the chairman, and local approval and licence."
+  },
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "entry_visa_validity",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "entry visa for work issued to green residence applicants (investor or partner in a commercial licence): stay while the residence permit is processed",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 14, art. 33 (with item 2(a))",
+   "quote": "تأشيرة دخول للعمل تتيح لحاملها البقاء في الدولة لمدة (60) ستين يوماً من تاريخ الدخول",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "absence_limit",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "",
+   "currency": "",
+   "applies_to": "investors holding valid residence permits: exempt from the rule voiding a permit after more than 180 days abroad",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 23, art. 60(9) (with art. 59 on p. 22)",
+   "quote": "المستثمرون الحاصلون على تصاريح إقامة سارية المفعول",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer). Art. 60(9) names 'investors holding valid residence permits' without limiting it to golden residence; the same clause is also filed under are-golden-visa (t-c49578319e)."
+  },
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "permit_validity",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "investor or partner establishing or participating in commercial activities (green residence)",
+   "source_id": "are-wam-exec-regs-2022",
+   "location": "para \"Green Residence for Investor or Partner\"",
+   "quote": "providing 5-year residency for investors establishing or participating in commercial activities",
+   "notes": "Cabinet summary of the executive regulation approved 18 Apr 2022 (in force 90 days after publication; 3 Oct 2022 per Res. 65/2022 art. 80). No amount is given; requirements are approval and proof of the investment and local approval."
+  },
+  {
+   "program_id": "are-green-residence-investor",
+   "route": "permit_validity",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "years",
+   "applies_to": "previous investor or partner residence permit, replaced by the green residence",
+   "source_id": "are-wam-exec-regs-2022",
+   "location": "para \"Green Residence for Investor or Partner\"",
+   "quote": "It replaces the previous residence that was valid for 2 years only.",
+   "notes": "Rule of the earlier investor residence as described by WAM (18 Apr 2022); its start date is not given. It ended when the green residence took effect (Res. 65/2022 in force 3 Oct 2022), but the article itself gives no end date, so valid_to is left empty."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "permit_validity",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "5",
+   "currency": "years",
+   "applies_to": "retired foreigner: residence without a sponsor or host, renewable on the same conditions (exception to the 2-year standard in art. 38)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 51",
+   "quote": "تصريح إقامة للأجنبي المتقاعد بدون ضامن/ مستضيف لمدة (5) خمس سنوات قابلة للتجديد",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "real_estate",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "1000000",
+   "currency": "AED",
+   "applies_to": "retired foreigner owning one or more UAE properties (purchase or market value, valued by the competent authority of the emirate)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(2)(a)",
+   "quote": "لا تقل قيمة عقاره أو مجموع قيمة عقاراته عن (1,000,000) مليون درهم",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer). Alternatives in art. 52(2): this property, a deposit of the same amount, or an annual income of AED 240,000."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "real_estate",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "1000000",
+   "currency": "AED",
+   "applies_to": "retired foreigner with a mortgaged property: amount of the mortgage already paid off at the time of application",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF pp. 20-21, art. 52(3)",
+   "quote": "ألا تقل القيمة المسددة لفك الرهن من القيمة الإجمالية للرهن عن (1,000,000) مليون",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer). The sentence ends on p. 21 ('درهم وقت تقديم طلب الحصول على الإقامة')."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "bank_deposit",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "1000000",
+   "currency": "AED",
+   "applies_to": "retired foreigner with a financial deposit inside or outside the UAE (to be moved to a UAE financial institution)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(2)(a)",
+   "quote": "أو أن تكون لديه وديعة مالية لا تقل قيمتها عن (1,000,000) مليون درهم داخل الدولة أو خارجها",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "investment_deadline",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "deposit held outside the UAE must be moved to a UAE financial institution within this time from the issue of the permit (not required if the deposit amount is invested in the UAE)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(2)(a)",
+   "quote": "شريطة نقلها وإيداعها في أي مؤسسة مالية في الدولة خلال (60) ستين يوماً من تاريخ إصدار الإقامة",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "minimum_age",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "55",
+   "currency": "years",
+   "applies_to": "retired foreigner aged at least 55 (alternative: at least 15 years of service before retirement)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(1)",
+   "quote": "أو أن يكون قد أتم (55) خمساً وخمسين سنة ميلادية من عمره",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "retiree_service_years",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "15",
+   "currency": "years",
+   "applies_to": "years of service before retirement, in or outside the UAE (alternative: age 55)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(1)",
+   "quote": "ألا تقل مدة خدمة الأجنبي قبل إحالته للتقاعد عن (15) خمس عشر عاماً سواء داخل الدولة أو خارجها",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "income_requirement",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "240000",
+   "currency": "AED per year",
+   "applies_to": "retired foreigner: fixed annual income from inside or outside the UAE, instead of property or deposit (bank statement for the last 6 months)",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, art. 52(2)(b)",
+   "quote": "ألا يقل الدخل السنوي الثابت للمتقاعد عن (240,000) مئتين وأربعين ألف درهم",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer). Income option of the same permit, not an investment: under METHODOLOGY decision 15 an income route alone is out of scope; recorded because it is one of the permit's printed alternatives. It must not set a headline price."
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "route": "entry_visa_validity",
+   "valid_from": "2022-10-03",
+   "valid_to": "",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "entry visa for residence without work issued to retired foreigners: stay while the residence permit is processed",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 15, art. 34(3)",
+   "quote": "تأشيرة دخول للإقامة بدون عمل تتيح لحاملها البقاء في الدولة لمدة (60) ستين يوماً من تاريخ الدخول",
+   "notes": "Main text of Cabinet Resolution 65/2022 (executive regulation of Federal Decree-Law 29/2021), issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). The stored PDF is a consolidated text (it includes art. 77 bis on 'blue residence', added later), so the wording may include later amendments; amendment dates not shown. Quote retyped from the page (text layer has broken Arabic glyphs; checked against the OCR text and the normalised text layer)."
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "route": "processing_time_max",
+   "valid_from": "2025-01-15",
+   "valid_to": "",
+   "min_amount": "60",
+   "currency": "days",
+   "applies_to": "Heritage Naturalization for people of African ancestry",
+   "source_id": "sle-telegraph-2025",
+   "location": "Key Features, Heritage Naturalization",
+   "quote": "Citizenship within 60 days for individuals of African ancestry, with an investment of $100,000.",
+   "notes": "Promotional text credited to Imperial-Citizenship and published by the Sierra Leone Telegraph (15 Jan 2025); no official price schedule found."
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "route": "gold_purchase_offset_max",
+   "valid_from": "2025-01-15",
+   "valid_to": "",
+   "min_amount": "20",
+   "currency": "kg",
+   "applies_to": "GFG Club members: discounted gold bullion purchases over five years",
+   "source_id": "sle-telegraph-2025",
+   "location": "Exclusive Benefits for Participants",
+   "quote": "Discounted gold bullion purchases (2% below market rate) of up to 20kg over five years.",
+   "notes": "Promotional text credited to Imperial-Citizenship and published by the Sierra Leone Telegraph (15 Jan 2025); no official price schedule found."
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "route": "gold_purchase_discount",
+   "valid_from": "2025-01-15",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "percent below market rate",
+   "applies_to": "GFG Club members: discount on gold bullion purchases (up to 20 kg over five years)",
+   "source_id": "sle-telegraph-2025",
+   "location": "Exclusive Benefits for Participants",
+   "quote": "Discounted gold bullion purchases (2% below market rate) of up to 20kg over five years.",
+   "notes": "Promotional text credited to Imperial-Citizenship and published by the Sierra Leone Telegraph (15 Jan 2025); no official price schedule found."
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "route": "gold_purchase_discount",
+   "valid_from": "2025-11-01",
+   "valid_to": "",
+   "min_amount": "2",
+   "currency": "percent below market rate",
+   "applies_to": "participants offsetting programme fees through gold purchases (up to 20 kg over five years)",
+   "source_id": "sle-gfg-update-2025",
+   "location": "p. 5, Pricing, Escrow Security & Timelines",
+   "quote": "Applicants can also offset program fees via gold purchases of up to 20 kg over five years at a 2 % discount to market.",
+   "notes": "Promoters' material (GO-FOR-GOLD program update, 1 Nov 2025); not confirmed by a government publication. valid_from is the document date. Also on p. 12, item H (after the citizenship or PR grant)."
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "route": "fee_due_diligence",
+   "valid_from": "2025-11-01",
+   "valid_to": "",
+   "min_amount": "10000",
+   "currency": "USD",
+   "applies_to": "family of 6 to 10 applicants",
+   "source_id": "sle-gfg-update-2025",
+   "location": "p. 4, table after \"This means:\"",
+   "quote": "Family of 6 to 10 USD 10,000",
+   "notes": "Promoters' material (GO-FOR-GOLD program update, 1 Nov 2025); not confirmed by a government publication. valid_from is the document date. Worked example of the USD 5,000 per 5 applicants rule on p. 3 (t-9f870c4e79); families of up to 5 pay USD 5,000 (same as that rule), families of 11 or more add USD 900 per extra applicant."
+  },
+  {
+   "program_id": "can-pei-pnp-investor",
+   "route": "annual_quota",
+   "valid_from": "2014-01",
+   "valid_to": "2014-12",
+   "min_amount": "400",
+   "currency": "places",
+   "applies_to": "Prince Edward Island Nominee Program investor route, places during 2014",
+   "source_id": "gbr-mac-tier1-investor-2014",
+   "location": "PDF p. 72 (printed p. 66), para 4.36",
+   "quote": "opened in January 2014, with a limit of 400 places during 2014",
+   "notes": "UK Migration Advisory Committee, para 4.36, citing the agent website 'Investor Visa Canada' (2014); the MAC adds that no further details were available. Secondary source for a Canadian route (decision 9); no Prince Edward Island document is stored."
+  },
+  {
+   "program_id": "can-pei-pnp-investor",
+   "route": "net_worth_requirement",
+   "valid_from": "2014-01",
+   "valid_to": "",
+   "min_amount": "600000",
+   "currency": "CAD",
+   "applies_to": "investor (also management expertise and intent to reside in Prince Edward Island)",
+   "source_id": "gbr-mac-tier1-investor-2014",
+   "location": "PDF p. 72 (printed p. 66), para 4.36",
+   "quote": "requires that an investor has a minimum net worth of Can $600,000",
+   "notes": "UK Migration Advisory Committee, para 4.36, citing the agent website 'Investor Visa Canada' (2014); the MAC adds that no further details were available. Secondary source for a Canadian route (decision 9); no Prince Edward Island document is stored. valid_from is the opening month given in the same paragraph."
+  },
+  {
+   "program_id": "can-pei-pnp-investor",
+   "route": "business",
+   "valid_from": "2014-01",
+   "valid_to": "",
+   "min_amount": "150000",
+   "currency": "CAD",
+   "applies_to": "investor: investment in a qualifying business",
+   "source_id": "gbr-mac-tier1-investor-2014",
+   "location": "PDF p. 72 (printed p. 66), para 4.36",
+   "quote": "invests Can $150,000 in a qualifying business",
+   "notes": "UK Migration Advisory Committee, para 4.36, citing the agent website 'Investor Visa Canada' (2014); the MAC adds that no further details were available. Secondary source for a Canadian route (decision 9); no Prince Edward Island document is stored. valid_from is the opening month given in the same paragraph."
+  }
+ ],
+ "events": [
+  {
+   "date": "2022-10-03",
+   "date_precision": "day",
+   "jurisdiction": "ARE",
+   "program_id": "are-green-residence-investor",
+   "category": "launch",
+   "title": "Green residence for investors and partners takes effect (Cabinet Resolution 65/2022)",
+   "description": "The executive regulation of Decree-Law 29/2021 creates a five-year green residence, without a sponsor, for foreigners coming to the UAE as investors or partners in a commercial project (arts. 38(2) and 41); the amount is left to a decision of the ICP chairman. Issued 12 Jul 2022, in force 3 Oct 2022 (art. 80).",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 17, art. 41; PDF p. 28, art. 80",
+   "quote": "للهيئة أن تمنح الإقامة الخضراء للأجنبي القادم إلى الدولة للإقامة مستثمراً أو شريكاً في مشروع تجاري",
+   "countries": ""
+  },
+  {
+   "date": "2022-04-18",
+   "date_precision": "day",
+   "jurisdiction": "ARE",
+   "program_id": "are-green-residence-investor",
+   "category": "rule_change",
+   "title": "Cabinet approves five-year green residence for investors or partners, replacing a two-year permit",
+   "description": "WAM reports Cabinet approval of the executive regulation: a new five-year green residence for investors establishing or participating in commercial activities replaces an investor residence valid for two years; requirements are approval and proof of the investment and local approval. In force 90 days after publication.",
+   "source_id": "are-wam-exec-regs-2022",
+   "location": "para \"Green Residence for Investor or Partner\"",
+   "quote": "This residence permit is introduced to encourage investment, providing 5-year residency for investors establishing or participating in commercial activities.",
+   "countries": ""
+  },
+  {
+   "date": "2022-10-03",
+   "date_precision": "day",
+   "jurisdiction": "ARE",
+   "program_id": "are-retiree-residence",
+   "category": "launch",
+   "title": "Five-year residence for retirees with AED 1 million in property or deposit takes effect (Cabinet Resolution 65/2022)",
+   "description": "Arts. 51-52 of the executive regulation allow a five-year renewable residence without a sponsor for retired foreigners (15 years of service or age 55) who own UAE property or hold a deposit of at least AED 1,000,000, or have an annual income of at least AED 240,000. Issued 12 Jul 2022, in force 3 Oct 2022 (art. 80). Whether an earlier retiree permit existed is not shown in a stored document.",
+   "source_id": "are-cabinet-res-65-2022",
+   "location": "PDF p. 20, arts. 51-52; PDF p. 28, art. 80",
+   "quote": "للهيئة أن تصدر تصريح إقامة للأجنبي المتقاعد بدون ضامن/ مستضيف لمدة (5) خمس سنوات قابلة للتجديد",
+   "countries": ""
+  },
+  {
+   "date": "2025-01",
+   "date_precision": "month",
+   "jurisdiction": "SLE",
+   "program_id": "sle-go-for-gold",
+   "category": "launch",
+   "title": "GO-FOR-GOLD launched in January 2025 (promoters' account)",
+   "description": "The promoters' programme update dates the launch of GO-FOR-GOLD to January 2025, as part of the President's plan to attract foreign direct investment before 2028. The press release in the Immigration Department's name dates the residency programme's launch to December 2024 (separate event).",
+   "source_id": "sle-gfg-update-2025",
+   "location": "p. 1, \"A Presidential Vision to Attract Foreign Direct Investment\"",
+   "quote": "Launched in January 2025 the GO-FOR-GOLD program forms part of a broader vision to attract meaningful foreign direct investment (FDI)",
+   "countries": ""
+  },
+  {
+   "date": "1973",
+   "date_precision": "year",
+   "jurisdiction": "SLE",
+   "program_id": "sle-go-for-gold",
+   "category": "legal_basis",
+   "title": "Citizenship Act 1973, s. 27A: the President may cause any person to be registered as a citizen (promoters' account)",
+   "description": "The promoters say grants of citizenship under GO-FOR-GOLD rest on s. 27A of the Sierra Leone Citizenship Act 1973, which they quote as preserving the President's right to register any person as a citizen, and quote the Chief Immigration Officer calling this the operative legal basis pending amendment of the Act. The Act itself is not stored and s. 27A was not read.",
+   "source_id": "sle-gfg-update-2025",
+   "location": "p. 1; p. 7, FAQ 2",
+   "quote": "nothing in this Act shall affect the right of the President to cause any person to be registered as a citizen of Sierra Leone.",
+   "countries": ""
+  },
+  {
+   "date": "2025-01",
+   "date_precision": "month",
+   "jurisdiction": "SLE",
+   "program_id": "sle-go-for-gold",
+   "category": "launch",
+   "title": "Sierra Leone fast-track citizenship scheme introduced in January 2025 (TechCabal)",
+   "description": "TechCabal reports that Sierra Leone introduced a USD 140,000 fast-track scheme in January 2025 (bare \"$\" in a press article).",
+   "source_id": "intl-techcabal-africa-cbi-2026",
+   "location": "Sierra Leone sentence",
+   "quote": "introduced a $140,000 fast-track scheme in January 2025",
+   "countries": ""
+  },
+  {
+   "date": "2014-01",
+   "date_precision": "month",
+   "jurisdiction": "CAN",
+   "program_id": "can-pei-pnp-investor",
+   "category": "launch",
+   "title": "Prince Edward Island investor route opens with 400 places for 2014 (as reported by the UK MAC)",
+   "description": "The UK Migration Advisory Committee reports that a separate route for investing in Prince Edward Island opened in January 2014 with 400 places for 2014 (C$600,000 net worth, C$150,000 investment in a qualifying business, management expertise, intent to reside), citing an agent website. No Canadian document is stored.",
+   "source_id": "gbr-mac-tier1-investor-2014",
+   "location": "PDF p. 72 (printed p. 66), para 4.36",
+   "quote": "opened in January 2014, with a limit of 400 places during 2014",
+   "countries": ""
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "jurisdiction": "FRA",
+   "program_id": "fra-exceptional-contribution",
+   "category": "launch",
+   "title": "France's EUR 10 million investor residence listed with inception year 2013 (IMF)",
+   "description": "IMF Table 1 lists a French residency programme with inception year 2013 and minimum investment EUR 10 million (residency requirement N.A., citizenship qualifying period 5 years); para 5 says France recently introduced a new residency programme. Transparency International (2018) instead dates a French scheme to 2009, citing Decree No 2009-1114 (not recorded as an event because its row mixes in the passeport talent).",
+   "source_id": "intl-imf-wp-15-93",
+   "location": "PDF p. 6 (printed p. 5), Table 1 'Selected Economic Citizenship/Residency Programs Worldwide'",
+   "quote": "France 2013 EUR 10 million N.A 5 years",
+   "countries": ""
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "are-green-residence-investor",
+   "jurisdiction": "ARE",
+   "name": "UAE green residence for investors and partners (الإقامة الخضراء للمستثمر أو الشريك; Cabinet Resolution 65/2022 art. 41)",
+   "kind": "residency",
+   "launched": "2022-10-03",
+   "legal_basis": "",
+   "ended": "",
+   "status": "",
+   "notes": "Five-year residence permit, renewable, without a sponsor or employer, for a foreigner who comes to the UAE as an investor or partner in a commercial project (Cabinet Resolution 65/2022, the executive regulation of Federal Decree-Law 29/2021, arts. 33(2), 38(2), 39(2) and 41; issued 12 Jul 2022, in force 3 Oct 2022). Conditions: the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP) approves the investment under an investor classification system set by its chairman; the investment or partnership must reach the ratios set by a decision of the chairman (capital held in several licences is added up); and the local authority approves and licenses the activity. The regulation prints no amount and the chairman's decision is not stored, so no price is recorded. Holders may sponsor first-degree relatives, and their parents may be included. The government news agency WAM (18 Apr 2022) says it replaces an earlier investor residence valid for 2 years only; that earlier permit's start and terms are not in a stored document. launched is the in-force date of Res. 65/2022. Current status not confirmed: the stored consolidated text (date of consolidation not shown) still contains art. 41. No counts of green residence permits for investors were found.",
+   "source_ids": "are-cabinet-res-65-2022;are-wam-exec-regs-2022"
+  },
+  {
+   "program_id": "are-retiree-residence",
+   "jurisdiction": "ARE",
+   "name": "UAE residence for retired foreigners with property or deposit (تصريح إقامة الأجنبي المتقاعد; Cabinet Resolution 65/2022 arts. 51-52)",
+   "kind": "residency",
+   "launched": "2022-10-03",
+   "legal_basis": "",
+   "ended": "",
+   "status": "",
+   "notes": "Five-year renewable residence without a sponsor for a retired foreigner who worked at least 15 years before retiring (in or outside the UAE) or is at least 55, and who owns UAE property worth at least AED 1,000,000 (purchase or market value, as valued by the emirate's competent authority; mortgaged property counts if at least AED 1,000,000 of the mortgage has been paid off) or holds a deposit of at least AED 1,000,000, moved to a UAE financial institution within 60 days of the permit unless invested in the UAE (Cabinet Resolution 65/2022 arts. 34(3), 46, 51-52; in force 3 Oct 2022). The same article also accepts a fixed annual income of at least AED 240,000 instead of property or deposit; that option rests on income and is recorded only as one of this permit's rules (METHODOLOGY decision 15). No stored document shows whether a retiree permit existed before this regulation, so launched (the regulation's in-force date) may be later than the first retiree permit. Out of scope and not recorded: the separate residence for property owners on a monthly income of AED 10,000 with no property minimum (art. 53; decision 15). Current status not confirmed beyond the stored consolidated text. No counts found.",
+   "source_ids": "are-cabinet-res-65-2022"
+  },
+  {
+   "program_id": "sle-go-for-gold",
+   "jurisdiction": "SLE",
+   "name": "Sierra Leone GO-FOR-GOLD programme (permanent residency through gold purchase and programme fees; special naturalisation of investors)",
+   "kind": "citizenship",
+   "launched": "2024-12",
+   "legal_basis": "1973",
+   "ended": "",
+   "status": "",
+   "notes": "Run by the Sierra Leone Immigration Department with private promoters. By the promoters' account it has two parts: permanent residency through a gold bullion purchase and programme fees, and 'special naturalisation' of investors, with a company and a corporate bank account included. A press release in the Immigration Department's name (2 Jan 2025; the copy was found only on an industry site and gives a private press contact) says the GO-FOR-GOLD residency programme was launched in December 2024, and announces arrangements to naturalise high-net-worth investors and people of Sierra Leonean heritage; it gives no amounts and no legal basis. launched follows that press release; the promoters (Nov 2025) and TechCabal (2026) date the launch to January 2025. Promoters and press give USD 140,000 for the main applicant (fast-track citizenship in about 90 days), USD 100,000 on a heritage route for people of African ancestry (Jan 2025), USD 10,000-20,000 per dependant, a +1 business partner at USD 30,000 or USD 85,000 (the Nov 2025 update contradicts itself), and due-diligence fees. The promoters say citizenship is granted under the President's power in s. 27A of the Citizenship Act 1973 (legal_basis; the Act itself is not stored), that 13 families were naturalised in a six-month pilot, and that an amendment to the Act and a Citizenship (Special Naturalization) Regulation 2025 are pending; none of this was found in an official publication. Ordinary naturalisation needs 8 years' residence (15 for applicants not of Negro African descent). Current status not confirmed by a government source (the promoters said in Nov 2025 that it was active).",
+   "source_ids": "sle-slid-pr-2025;sle-telegraph-2025;sle-gfg-update-2025;intl-techcabal-africa-cbi-2026"
+  },
+  {
+   "program_id": "can-pei-pnp-investor",
+   "jurisdiction": "CAN",
+   "name": "Canada Prince Edward Island Provincial Nominee Program, investor stream",
+   "kind": "residency",
+   "launched": "2014-01",
+   "legal_basis": "",
+   "ended": "",
+   "status": "",
+   "notes": "Provincial nomination route (leading to Canadian permanent residence) for people who invest in Prince Edward Island. According to the UK Migration Advisory Committee (Feb 2014, citing the agent website Investor Visa Canada), it opened in January 2014 with 400 places for 2014 and required net worth of at least C$600,000, management expertise, an investment of C$150,000 in a qualifying business and an intention to live in the province; the MAC adds that no further details were available and that the route resembles an entrepreneur route more than a passive investor route. No Prince Edward Island or federal document on the stream is stored, so whether January 2014 was its first opening, its later terms and its current status are not confirmed. No counts found: the stored IRCC provincial nominee tables give Prince Edward Island totals for all nominee streams together, and the 2014 CIC evaluation's Prince Edward Island figures concern the federal Immigrant Investor Program (can-iip).",
+   "source_ids": "gbr-mac-tier1-investor-2014"
+  },
+  {
+   "program_id": "fra-exceptional-contribution",
+   "jurisdiction": "FRA",
+   "name": "France residence card for an exceptional economic contribution (carte de résident pour contribution économique exceptionnelle)",
+   "kind": "residency",
+   "launched": "2013",
+   "legal_basis": "",
+   "ended": "",
+   "status": "",
+   "notes": "Residence for a foreigner making a long-term, non-speculative investment of at least EUR 10 million in commercial or industrial assets in France, as listed in comparison tables by the UK Migration Advisory Committee (Feb 2014; residence requirement 183 days a year) and the IMF (2015 working paper and Vanuatu Article IV; inception year 2013). Neither table names the card; the name comes from Transparency International's 2018 report, which cites Decree No 2009-1114 of 11 September 2009 on the carte de résident for an exceptional economic contribution and dates a French residence-by-investment scheme to 2009 (amended 2016), but its table row describes the EUR 300,000 passeport talent (fra-passeport-talent-investor), so that 2009 date is not recorded as a launch event. launched follows the IMF table (2013); the decree and the law behind the card are not stored, and the two dates disagree. The 5-year citizenship qualifying period in the MAC and IMF tables is France's ordinary naturalisation period and is kept as a context row without a programme. Current status and counts not found.",
+   "source_ids": "intl-imf-wp-15-93;gbr-mac-tier1-investor-2014;vut-imf-art4-2015;intl-ti-gw-european-getaway-2018"
+  }
+ ],
+ "new_indicators": [],
+ "program_id_assignments": [
+  {
+   "term_id": "t-388ec8c68e",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-1352fe94d1",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-6267e27594",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-ab41a63f25",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-4c033cd49f",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-6f265a3da6",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-9f870c4e79",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-4d20d5ad1f",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-d4795efe3c",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-71777dec91",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-7a0e833709",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-b9e25e1d52",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-8b08cf558e",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-37ba2aac0f",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD rule (fee, price, dependant, gold offset or processing time) from Sierra Leone promoters' or press material describing the GO-FOR-GOLD programme."
+  },
+  {
+   "term_id": "t-831cac8508",
+   "program_id": "fra-exceptional-contribution",
+   "note": "IMF WP 15/93 Table 1, row France under 'Residency Programs': EUR 10 million minimum investment, inception 2013. Matches the EUR 10 million long-term investment route in the MAC table; not the EUR 300,000 passeport talent."
+  },
+  {
+   "term_id": "t-74f6fcf62f",
+   "program_id": "fra-exceptional-contribution",
+   "note": "MAC Table 4.2 row France: EUR 10 million long-term, non-speculative investment in commercial or industrial assets."
+  },
+  {
+   "term_id": "t-403972f06b",
+   "program_id": "fra-exceptional-contribution",
+   "note": "MAC Table 4.2 row France, column 'Residence requirements' (183 days p.a.) of the same EUR 10 million route; the table note says residence requirements relate to qualifying for settlement."
+  },
+  {
+   "term_id": "t-3982f79c5b",
+   "program_id": "fra-exceptional-contribution",
+   "note": "Vanuatu Article IV 2015, Appendix III Table 1 (copy of the IMF WP table), row France, EUR 10 million."
+  }
+ ],
+ "other_assignments": [
+  {
+   "table": "observations",
+   "id": "o-aadbaef3f3",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD figure from promoters' or press material; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "observations",
+   "id": "o-99f402a132",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD figure from promoters' or press material; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "observations",
+   "id": "o-10b1b7eb7d",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD figure from promoters' or press material; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "observations",
+   "id": "o-e06a0655f2",
+   "program_id": "sle-go-for-gold",
+   "note": "GO-FOR-GOLD figure from promoters' or press material; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "events",
+   "id": "e-4dd81b8559",
+   "program_id": "sle-go-for-gold",
+   "note": "Event about GO-FOR-GOLD; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "events",
+   "id": "e-4473a659ed",
+   "program_id": "sle-go-for-gold",
+   "note": "Event about GO-FOR-GOLD; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "events",
+   "id": "e-53461ee375",
+   "program_id": "sle-go-for-gold",
+   "note": "Event about GO-FOR-GOLD; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "events",
+   "id": "e-1397c43ec2",
+   "program_id": "sle-go-for-gold",
+   "note": "Event about GO-FOR-GOLD; filed with an empty program_id only because no programme row existed."
+  },
+  {
+   "table": "events",
+   "id": "e-b395990e35",
+   "program_id": "sle-go-for-gold",
+   "note": "Event about GO-FOR-GOLD; filed with an empty program_id only because no programme row existed."
+  }
+ ],
+ "context_rows": [
+  {
+   "table": "program_terms",
+   "id": "t-f0b2c48954",
+   "note": "Sierra Leone ordinary naturalisation: 8 years' residence (the route GO-FOR-GOLD is presented as an alternative to); general citizenship law, no programme."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-5879de7186",
+   "note": "France, IMF Table 1 copied in the Vanuatu 2015 Article IV: 5-year citizenship qualifying period; note 3/ says it includes the period for permanent residence; this is France's general naturalisation period, not a rule of the EUR 10 million route."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-191a50ab53",
+   "note": "France, MAC Table 4.2: 5-year citizenship qualifying period; general naturalisation period, not specific to the EUR 10 million route."
+  },
+  {
+   "table": "program_terms",
+   "id": "t-69da86ba35",
+   "note": "France, IMF WP 15/93 Table 1: 5-year citizenship qualifying period (note 3/: includes the permanent-residence qualifying period under residency programmes); general naturalisation law, so no programme."
+  },
+  {
+   "table": "events",
+   "id": "e-7b601b762e",
+   "note": "Sierra Leone resumes ordinary naturalisation from 1 Oct 2024 (8 years' residence); general citizenship law, left without a programme."
+  }
+ ],
+ "gaps": [
+  "UAE: the ICP chairman's decision setting the investment or partnership ratios for green residence (Res. 65/2022 art. 41(2)) is not stored, so no amount exists in the data.",
+  "UAE: no stored document shows the earlier 2-year investor residence or any retiree permit before Res. 65/2022, so both launched dates are the 2022 regulation's in-force date.",
+  "Sierra Leone: s. 27A of the Citizenship Act 1973 and any GO-FOR-GOLD regulation are not stored; every price comes from promoters or press.",
+  "Prince Edward Island: no provincial or federal document on the investor stream is stored; everything rests on one MAC paragraph citing an agent site.",
+  "France: Decree No 2009-1114 and the law creating the carte de résident pour contribution économique exceptionnelle are not stored; launched 2013 (IMF) and 2009 (Transparency International's citation) disagree."
+ ],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "are-cabinet-res-65-2022",
+   "status": "complete",
+   "contains": "Cabinet Resolution 65/2022, executive regulation of Decree-Law 29/2021 (39 pages, Arabic; consolidated text that also mentions a later 'blue residence' annex, art. 77 bis, not included). Main text: visa and entry-permit types; residence permits (2 years standard; 5-year green residence for investors/partners, skilled workers with AED 15,000 salary, freelancers with AED 360,000 income; remote work USD 3,500 a month; retirees with AED 1 million property or deposit or AED 240,000 income, 5 years; property owners, AED 10,000 monthly income); family sponsorship (children to 25); 180-day absence rule with investors exempt; fines; repeal of Res. 8/2021; in force 3 Oct 2022. Annex on golden residence (pp. 29-39). Golden investor terms recorded earlier. Now recorded: green residence for investors and partners (are-green-residence-investor: 5-year validity art. 38(2), investment at ratios set by the ICP chairman with no amount art. 41(2), 60-day entry visa art. 33, investor exemption from the absence rule art. 60(9), launch event) and retiree residence (are-retiree-residence: 5 years art. 51; AED 1,000,000 property, mortgaged property paid off, or deposit; 60 days to move the deposit; age 55 or 15 years' service; AED 240,000 income option; 60-day entry visa art. 34(3); launch event). Out of scope (METHODOLOGY decision 15, routes resting on salary or income): skilled-worker and freelancer green residence, remote work, the property-owner residence of art. 53 (AED 10,000 monthly income, no property minimum); entrepreneur, talent, scientist, professional and student golden categories as before.",
+   "to_do": ""
+  },
+  {
+   "source_id": "are-wam-exec-regs-2022",
+   "status": "complete",
+   "contains": "WAM, 18 Apr 2022: Cabinet approves the executive regulation of the entry and residence decree-law: 10-year golden residence (investor terms and event recorded earlier); 5-year green residence for skilled employees (AED 15,000), freelancers (AED 360,000) and investors/partners (replacing a 2-year permit); visit visas; grace periods; in force 90 days after publication. Now recorded for are-green-residence-investor: 5-year validity, the replaced 2-year permit, and the approval event (no amount given). Skilled-employee and freelancer tracks are salary or income routes, out of scope (decision 15); entrepreneur, talent and visa criteria out of scope.",
+   "to_do": ""
+  },
+  {
+   "source_id": "intl-imf-wp-15-93",
+   "status": "complete",
+   "contains": "IMF Working Paper WP/15/93 (2015), 'Too Much of a Good Thing? Prudent Management of Inflows under Economic Citizenship Programs': ECP inflows and fiscal data (Box 1, tables, Box 5), Box 2 statistics and buffers, recorded earlier. France Table 1 row decided: EUR 10 million (t-831cac8508) assigned to fra-exceptional-contribution, with a launch event for the inception year 2013; the 5-year citizenship qualifying period (t-69da86ba35) is general naturalisation law, kept as a context row without a programme. Box 3 drawdown percentages are illustrative policy parameters, not programme figures.",
+   "to_do": ""
+  },
+  {
+   "source_id": "gbr-mac-tier1-investor-2014",
+   "status": "partial",
+   "contains": "UK Migration Advisory Committee, 'Tier 1 (Investor) route: investment thresholds and economic benefits' (Feb 2014). UK route statistics, economic estimates, UK and other countries' terms (Tables 4.1-4.3) and other countries' volumes recorded earlier. Now recorded: Prince Edward Island Nominee Program investor stream (para 4.36: opened Jan 2014, 400 places in 2014, C$600,000 net worth, C$150,000 investment) as can-pei-pnp-investor with a launch event; France Table 4.2 row assigned (EUR 10 million and 183 days to fra-exceptional-contribution; 5-year citizenship period kept as a context row).",
+   "to_do": "(1) Figures 2.1-2.6 (quarterly visas, ages, in-country grants) are charts without printed values. (2) 'within 30 minutes of release' (para 4.29, time taken to fill the Canadian quota) not recorded: no indicator for the time a quota takes to fill."
+  },
+  {
+   "source_id": "vut-imf-art4-2015",
+   "status": "partial",
+   "contains": "IMF 2015 Article IV and RCF/RFI request (post-Cyclone Pam): HKPR and CIIP revenue, Appendix III on economic citizenship (Table 1 of 24 programmes; HKPR and CIIP terms), recorded earlier. Now: Table 1 row France, EUR 10 million (t-3982f79c5b) assigned to fra-exceptional-contribution; the 5-year qualifying period (t-5879de7186) kept as a context row (general naturalisation law).",
+   "to_do": "Figure 1 (PDF p. 45, HKPR government revenue 2011-2014, percent of GDP) is a bar chart with no printed values; nothing can be quoted from it."
+  },
+  {
+   "source_id": "intl-techcabal-africa-cbi-2026",
+   "status": "partial",
+   "contains": "Excerpt (CRAI republication) of TechCabal 14 Feb 2026: São Tomé, Egypt, Sierra Leone, Botswana, Nigeria (recorded earlier). Now: the Sierra Leone USD 140,000 fast-track rule (t-b9e25e1d52) assigned to sle-go-for-gold and its 'introduced in January 2025' added as a launch account. Global industry estimates and the undated St Kitts revenue share not extracted (as before).",
+   "to_do": "Copy is an excerpt with '[…]' cuts; the full TechCabal article (https://techcabal.com/2026/02/14/more-african-countries-are-selling-citizenship/) is not stored and may hold more figures."
+  },
+  {
+   "source_id": "sle-gfg-update-2025",
+   "status": "complete",
+   "contains": "GO-FOR-GOLD program update (1 Nov 2025, 12 pp., promoters' material). Recorded earlier: 13 families naturalised in a six-month pilot under s. 27A, pending amendment and regulation, CIO's 21 Oct 2025 confirmation, fee table, due-diligence fees, PR special dependants, gold offset up to 20 kg, target timelines. Now: all its rules, claims and events assigned to sle-go-for-gold; added the 'Launched in January 2025' launch account, the s. 27A Citizenship Act 1973 legal-basis event, the 2% gold discount, the USD 10,000 due-diligence fee for families of 6-10 (p. 4 table), and due diligence taking about two weeks. Not extracted: the due-diligence firm's own track record (2,000+ cases, 15% high-risk rate; not about the programme), the 2028 and 2039 national targets.",
+   "to_do": ""
+  },
+  {
+   "source_id": "sle-telegraph-2025",
+   "status": "complete",
+   "contains": "Sierra Leone Telegraph (15 Jan 2025, text credited to Imperial-Citizenship): GO-FOR-GOLD fast-track citizenship $140,000 (90 days), heritage route $100,000 (60 days), $10,000 per dependant, ordinary naturalisation 8 years (context row), GFG Club gold bullion discount (2%, up to 20 kg over five years), 66 visa-free destinations, residence rights in 15 ECOWAS countries. Rules and the visa claim now assigned to sle-go-for-gold; added the heritage route's 60 days and the gold discount and 20 kg limit. The 15 ECOWAS countries is a general ECOWAS citizenship benefit, not a programme figure: not extracted.",
+   "to_do": ""
+  },
+  {
+   "source_id": "sle-slid-pr-2025",
+   "status": "complete",
+   "contains": "Two-page press release in the name of the Sierra Leone Immigration Department, 2 Jan 2025 (copy distributed via an industry site; authorised 'SLID / CIO / 23-12-24'): announces arrangements to naturalise high-net-worth foreign investors and people of Sierra Leonean heritage; lists the launch of the GO-FOR-GOLD residency programme in December 2024. No amounts, legal basis or counts. Both events now assigned to sle-go-for-gold; the December 2024 launch sets the programme's launched date.",
+   "to_do": ""
+  }
+ ]
+}
