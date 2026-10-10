@@ -390,6 +390,16 @@ general naturalisation law (the ordinary waiting period) are kept as context row
 **Applied (2026-10-10).** Added: Sierra Leone GO-FOR-GOLD; Panama forestry, agrarian, small-business, City of
 Knowledge, call-centre, processing-zone and Panama-Pacifico investor categories; UAE green residence for investors
 and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence; Panama film-industry investor.
+**Refined (2026-10-10, after reviewing 42 programmes found by a search for uncovered countries):**
+- Routes that require running or managing a business (business-manager, self-employment, entrepreneur permits) are
+  in only if a minimum investment by itself qualifies the applicant; otherwise out.
+- Thresholds on a company's money (capital, assets) rather than the applicant's are out, as is mere proof of funds held
+  anywhere.
+- Buying property is in even without a minimum price (it is a purchase).
+- Investor routes whose amount the law leaves to a later decision are in (amount recorded as unset).
+Already in the data but out of scope by these tests: Croatia's business residence (investment plus employees and
+salary). Its rows are kept, the programme is marked out of scope, and pages don't show it.
+
 Already in the data but out of scope by this test: Mauritius's residence permit for retired non-citizens (an income
 transfer, not an investment). Its rows are kept, the programme is marked out of scope, and pages don't show it. Left out
 until a stored document shows it requires an investment: Panama's "Inversionista o Empresario" (341 approvals 2010-2021).
