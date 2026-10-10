@@ -301,3 +301,16 @@ o-ba7d2ee6b5,mlt-orgcem-ar-2019,first_correct,"The row is the column that prints
 o-47632e1ce4,mlt-orgcem-ar-2017,first_correct,"Bar label reads 53 on the page image (PDF p. 11, rendered at 200 dpi, checked by eye); the twelve stored months add up to the printed 962, the second reader's values would give 960.",claude (page image),2026-10-10
 o-3e4090facd,mlt-orgcem-ar-2017,first_correct,"Bar label reads 66 on the page image (PDF p. 11, rendered at 200 dpi, checked by eye); the twelve stored months add up to the printed 962, the second reader's values would give 960.",claude (page image),2026-10-10
 o-1dfcb9a56f,bra-obmigra-relatorio-anual-2025,first_correct,"Tabela 12, 2024: the printed total 362,610,096 minus Nordeste 67,611,441 and Demais Regioes 44,627,286 leaves 250,371,369 for Sudeste, the first reading; the second reading (250,311,369, OCR) would leave the regions 60,000 short of the printed total.",claude (sum check),2026-10-10
+o-d7527b096c,gbr-mac-tier1-investor-2014,first_correct,"Same value: printed '7,010*', the asterisk is a footnote marker.",claude (page text),2026-10-10
+o-1f002fd2fe,hkg-legco-lcq6-inward-investment-2025,first_correct,"Same value: printed as the word 'three' (weeks), stored as 3 with reading words/approximate.",claude (page text),2026-10-10
+o-782d9f3c42,intl-eprs-cbi-rbi-2018,first_correct,Same value: the font prints the decimal point as a space ('0 02' = 0.02); stored with unit_basis guessed as noted.,claude (page text),2026-10-10
+o-842525547b,intl-eprs-cbi-rbi-2018,first_correct,Same value: decimal point printed as a space ('52 41' = 52.41).,claude (page text),2026-10-10
+o-37b068bdf6,intl-eprs-cbi-rbi-2018,first_correct,Same value: decimal point printed as a space ('64 73' = 64.73).,claude (page text),2026-10-10
+o-b5801f3f0d,intl-eprs-cbi-rbi-2018,first_correct,Same value: decimal point printed as a space ('640 41' = 640.41).,claude (page text),2026-10-10
+o-854c9d9be4,kna-imf-art4-2025,first_correct,"Same figure: 'over 50 percent decline' stored as -50 (a decline, read as a bound).",claude (page text),2026-10-10
+o-926346d2ca,kna-imf-art4-2025,first_correct,Same figure: a 60 percent drop stored as -60 (decline).,claude (page text),2026-10-10
+o-7415eb27bc,kna-imf-cr-14-49,first_correct,"Same figure: printed in words 'almost three times', stored as 3 with reading words/approximate.",claude (page text),2026-10-10
+o-fd55cc3c97,lca-ciu-ar-2021-22,first_correct,"Same value: printed in brackets (14,701), a negative amount.",claude (page text),2026-10-10
+o-39aa2ceecc,lca-ciu-ar-2022-23,first_correct,"Same value: printed in brackets (154), a negative amount.",claude (page text),2026-10-10
+o-d14a453fc3,usa-fr-eb5-integrity-nprm-2026,first_correct,"First reading right: the row is the printed range ($38.80 million to $85.39 million, value and value_high); the second reader gave the midpoint ($62.06 million) from the same sentence.",claude (page text),2026-10-10
+o-a45a59928f,usa-fr-eb5-integrity-nprm-2026,first_correct,"First reading right: the row is the private cost to visited entities, printed '$971,309 to $2,052,410' (PDF p. 80); the second reader took the preceding sentence's government cost ($91,746 to $628,222).",claude (page text),2026-10-10

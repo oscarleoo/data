@@ -301,8 +301,12 @@ reversible.
 
 **Applied to CBI (2026-10-09).** 108 queued problems. 79 fixed (5 of them in part), 18 found correct, 1 rejected by
 the second reader, 8 left for a person, 2 fixed earlier. 749 lines in `corrections.csv`, including 9 duplicate
-sources merged. Item-by-item outcome: `topics/cbi/reports/corrections-2026-10-09.md`. Whistleblowing: about 400
-suggested corrections still to run.
+sources merged. Item-by-item outcome: `topics/cbi/reports/corrections-2026-10-09.md`. A second CBI round (14 items) followed on
+2026-10-10: 13 fixed. Whistleblowing (2026-10-10): 482 changes suggested by extraction passes, each checked blind:
+435 confirmed and applied; the other 47 redrafted with every unsupported phrase removed (mostly labels the orders
+don't print: "insider", "outsider", "former employee", "reduced", "criminal", or filled-in redactions), checked
+blind again and applied (5 with the second reader's exact correction); 2 kept as they were (a "more than $1
+million" sanctions floor is not an amount collected).
 
 ### 13. One event, several countries (decided 2026-10-10)
 

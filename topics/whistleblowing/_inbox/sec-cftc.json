@@ -21180,7 +21180,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award; at least one other application in the same order was denied. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21216,7 +21216,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award; at least one other application in the same order was denied. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21306,7 +21306,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21315,7 +21315,7 @@
    "source_id": "usa-cftc-wb-orders-list-2026",
    "location": "whistleblower.gov/orders table, row '24-WB-12'",
    "quote": "No. 24-WB-12 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted",
-   "notes": "Order No. 24-WB-12 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day; result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.govhttps://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-12.pdf"
+   "notes": "Order No. 24-WB-12 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-12.pdf The linked press-release title announces four orders together; no amount is given for this order."
   },
   {
    "jurisdiction": "USA",
@@ -21324,7 +21324,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award; at least one other application in the same order was denied. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21333,7 +21333,7 @@
    "source_id": "usa-cftc-wb-orders-list-2026",
    "location": "whistleblower.gov/orders table, row '24-WB-11'",
    "quote": "No. 24-WB-11 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted; Denied",
-   "notes": "Order No. 24-WB-11 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day; result 'Granted; Denied'; released 09/23/2024; PDF https://www.whistleblower.govhttps://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-11.pdf"
+   "notes": "Order No. 24-WB-11 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted; Denied'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-11.pdf The linked press-release title announces four orders together; no amount is given for this order."
   },
   {
    "jurisdiction": "USA",
@@ -21342,7 +21342,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21351,7 +21351,7 @@
    "source_id": "usa-cftc-wb-orders-list-2026",
    "location": "whistleblower.gov/orders table, row '24-WB-10'",
    "quote": "No. 24-WB-10 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day | 2024-09-23 | Granted",
-   "notes": "Order No. 24-WB-10 CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day; result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.govhttps://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-10.pdf"
+   "notes": "Order No. 24-WB-10 (linked press release title: \"CFTC Announces Four Orders Granting Whistleblower Awards – Marking the Most in a Single Day\"); result 'Granted'; released 09/23/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-09/No.%2024-WB-10.pdf The linked press-release title announces four orders together; no amount is given for this order."
   },
   {
    "jurisdiction": "USA",
@@ -21378,7 +21378,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award; at least one other application in the same order was denied. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21387,7 +21387,7 @@
    "source_id": "usa-cftc-wb-orders-list-2026",
    "location": "whistleblower.gov/orders table, row '24-WB-03'",
    "quote": "No. 24-WB-03 | 2024-01-04 | Granted; Denied",
-   "notes": "Order No. 24-WB-03; result 'Granted; Denied'; released 01/05/2024; PDF https://www.whistleblower.govhttps://www.whistleblower.gov/sites/whistleblower/files/2024-01/No.%2024-WB-03.pdf"
+   "notes": "Order No. 24-WB-03; result 'Granted; Denied'; released 01/05/2024; PDF https://www.whistleblower.gov/sites/whistleblower/files/2024-01/No.%2024-WB-03.pdf"
   },
   {
    "jurisdiction": "USA",
@@ -21432,7 +21432,7 @@
    "date_precision": "day",
    "whistleblower": "",
    "target": "",
-   "summary": "CFTC Final Order/Award Determination granting an award (amount not listed; see redacted order).",
+   "summary": "CFTC Final Order/Award Determination granting an award; at least one other application in the same order was denied. Amount not given in the list.",
    "sanctions_amount": "",
    "award_amount": "",
    "award_pct": "",
@@ -21441,7 +21441,7 @@
    "source_id": "usa-cftc-wb-orders-list-2026",
    "location": "whistleblower.gov/orders table, row '21-WB-05'",
    "quote": "No. 21-WB-05 | 2021-04-30 | Granted; Denied",
-   "notes": "Order No. 21-WB-05; result 'Granted; Denied'; released 05/03/2021; PDF https://www.whistleblower.govhttps://www.whistleblower.gov/sites/whistleblower/files/2021-05/No.%2021-WB-05.pdf"
+   "notes": "Order No. 21-WB-05; result 'Granted; Denied'; released 05/03/2021; PDF https://www.whistleblower.gov/sites/whistleblower/files/2021-05/No.%2021-WB-05.pdf"
   },
   {
    "jurisdiction": "USA",

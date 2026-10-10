@@ -281,6 +281,8 @@ BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,283
 BRA,bra-investor-residence,rbi_investment_total [route=real_estate],2024,BRL,362610096,1,362610096.0,actual,bra-obmigra-relatorio-anual-2025,Observatório das Migrações Internacionais (OBMigra) / Ministério da Justiça e Segurança Pública,2026,21.9,conflict,o-77b7f9d20c
 CAN,can-iip,applicant_share [applicant=main;category=main_income_investment_year1],1995-2010,percent,64.5,1,64.5,actual,can-cic-eval-bip-2014-rest,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.6,revision,o-51ad673fc4
 CAN,can-iip,applicant_share [applicant=main;category=main_income_investment_year1],1995-2010,percent,64.9,1,64.9,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,0.6,revision,o-fdf4e54a5c
+CAN,can-iip,applications_received,2011,applications,700,1,700.0,reported,gbr-mac-tier1-investor-2014,Migration Advisory Committee,2014-02,76.3,conflict,o-a8a9a85324
+CAN,can-iip,applications_received,2011,applications,2950,1,2950.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,76.3,conflict,o-872c533256
 CAN,can-iip,processing_cost_per_application,FY2006/07-FY2011/12,CAD,1958,1,1958.0,actual,can-cic-eval-bip-2014-rest,"Citizenship and Immigration Canada, Evaluation Division",2014-06,1.3,same_source,o-54e1df83a5
 CAN,can-iip,processing_cost_per_application,FY2006/07-FY2011/12,CAD,1984,1,1984.0,actual,can-cic-eval-bip-2014-rest,"Citizenship and Immigration Canada, Evaluation Division",2014-06,1.3,same_source,o-0d2cdb9cec
 CAN,can-iip,processing_time [category=80pct_of_cases],2007,months,32,1,32.0,actual,can-cic-eval-bip-2014,"Citizenship and Immigration Canada, Evaluation Division",2014-06,5.9,same_source,o-2a0468d1fe
@@ -3634,13 +3636,14 @@ IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,87.0,conflict,o-1857f43628
 IRL,irl-iip,rbi_investment_total,2016,EUR,18750000,1,18750000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,87.0,conflict,o-26c3973f44
 IRL,irl-iip,rbi_investment_total,2016,EUR,144300000,1,144300000.0,actual,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,87.0,conflict,o-78549707cb
-IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,3.7,revision,o-bf3c25d8db
-IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,3.7,revision,o-9381540ac4
-IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,3.7,revision,o-54a7a09e10
-IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,3.7,revision,o-f2fa160e5d
-IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,3.7,revision,o-b9f4c2d20d
-IRL,irl-iip,rbi_investment_total,2017,EUR,253700000,1,253700000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,3.7,revision,o-f64c5b1afe
-IRL,irl-iip,rbi_investment_total,2017,EUR,291,million,291000000.0,projection,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,3.7,revision,o-9efb5e242c
+IRL,irl-iip,rbi_investment_total,2017,EUR,52.41,million,52410000.0,estimate,intl-eprs-cbi-rbi-2018,European Parliamentary Research Service (Ex-Post Evaluation Unit and European Added Value Unit),2018-10,79.3,conflict,o-842525547b
+IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,79.3,conflict,o-bf3c25d8db
+IRL,irl-iip,rbi_investment_total,2017,EUR,244200000,1,244200000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,79.3,conflict,o-9381540ac4
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,79.3,conflict,o-54a7a09e10
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-02-28,Houses of the Oireachtas,2023-02-28,79.3,conflict,o-f2fa160e5d
+IRL,irl-iip,rbi_investment_total,2017,EUR,250700000,1,250700000.0,provisional,irl-oir-wa-2023-06-20,Houses of the Oireachtas,2023-06-20,79.3,conflict,o-b9f4c2d20d
+IRL,irl-iip,rbi_investment_total,2017,EUR,253700000,1,253700000.0,provisional,irl-oir-wa-2022-05-04,Houses of the Oireachtas,2022-05-04,79.3,conflict,o-f64c5b1afe
+IRL,irl-iip,rbi_investment_total,2017,EUR,291,million,291000000.0,projection,irl-doj-iip-interim-eval,Department of Justice and Equality (IGEES unit),2017-08,79.3,conflict,o-9efb5e242c
 IRL,irl-iip,rbi_investment_total,2018,EUR,128750000,1,128750000.0,provisional,irl-oir-wa-2025-07-29,Houses of the Oireachtas,2025-07-29,7.9,revision,o-7df9203c62
 IRL,irl-iip,rbi_investment_total,2018,EUR,128850000,1,128850000.0,provisional,irl-oir-wa-2026-03-18,Houses of the Oireachtas,2026-03-18,7.9,revision,o-b5a8118ba0
 IRL,irl-iip,rbi_investment_total,2018,EUR,138750000,1,138750000.0,provisional,irl-oir-wa-2022-10-18,Houses of the Oireachtas,2022-10-18,7.9,revision,o-ee0e1da3cd
@@ -4529,9 +4532,10 @@ LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XC
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2021/22,XCD,5373732,1,5373732.0,estimate,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-d0cbcf01f2
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2024/25,XCD,0,1,0.0,budget,lca-mof-estimates-2024-25,"Department of Finance, Government of Saint Lucia",2024-04,100.0,vintage,o-f3bfddc782
 LCA,lca-cbi,cbi_transfers_to_government [category=cip_unit_surplus],FY2024/25,XCD,2000000,1,2000000.0,projection,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,100.0,vintage,o-124ae1432e
-LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13737689.86,1,13737689.86,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,revision,o-b5e766437f
-LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992,1,13797992.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-aa2d7cce50
-LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992.19,1,13797992.19,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,revision,o-a5fb2b3d2d
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13737689.86,1,13737689.86,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-b5e766437f
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992,1,13797992.0,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,same_source,o-aa2d7cce50
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992,1,13797992.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-081d657ac4
+LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2020/21,XCD,13797992.19,1,13797992.19,actual,lca-ciu-ar-2020-21,"Citizenship by Investment Unit (CIU), Saint Lucia",2021,0.4,same_source,o-a5fb2b3d2d
 LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2021/22,XCD,6818600,1,6818600.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-d9e3698561
 LCA,lca-cbi,cbi_transfers_to_government [category=ciu_surplus_transfer],FY2021/22,XCD,6848531,1,6848531.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.4,same_source,o-87a9a01861
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_contribution],FY2021/22,XCD,35000000,1,35000000.0,budget,lca-mof-estimates-2022-23,"Department of Finance, Government of Saint Lucia",2022-04,1.4,vintage,o-a2b8216135
@@ -4548,6 +4552,32 @@ LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,X
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,same_source,o-ffe5b5a91c
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570522,1,60570522.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,same_source,o-de2578109c
 LCA,lca-cbi,cbi_transfers_to_government [category=nef_net_donations],FY2018/19,XCD,60570523,1,60570523.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,0.0,same_source,o-75196850fb
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals],2022-03-31,XCD,7465000,1,7465000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-fa414129cc
+LCA,lca-cbi,cbi_unit_financial_position [category=accounts_payable_and_accruals],2022-03-31,XCD,7465141,1,7465141.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-b323389536
+LCA,lca-cbi,cbi_unit_financial_position [category=cash],2022-03-31,XCD,37114000,1,37114000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-cb8a49d389
+LCA,lca-cbi,cbi_unit_financial_position [category=cash],2022-03-31,XCD,37114034,1,37114034.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-6bbc8b94c8
+LCA,lca-cbi,cbi_unit_financial_position [category=cash_increase],FY2022/23,XCD,34825397,1,34825397.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,same_source,o-623d901aa1
+LCA,lca-cbi,cbi_unit_financial_position [category=cash_increase],FY2022/23,XCD,34826,thousand,34826000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,same_source,o-cf80160bcc
+LCA,lca-cbi,cbi_unit_financial_position [category=deferred_income_government_grants],2022-03-31,XCD,186000,1,186000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-589132f19f
+LCA,lca-cbi,cbi_unit_financial_position [category=deferred_income_government_grants],2022-03-31,XCD,186001,1,186001.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-5909bb3367
+LCA,lca-cbi,cbi_unit_financial_position [category=deferred_income_licence_fees],2022-03-31,XCD,671880,1,671880.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-7b649d2fd9
+LCA,lca-cbi,cbi_unit_financial_position [category=deferred_income_licence_fees],2022-03-31,XCD,672000,1,672000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-f2ec7046ec
+LCA,lca-cbi,cbi_unit_financial_position [category=lease_payable_current],2022-03-31,XCD,154000,1,154000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.2,revision,o-a2996757ef
+LCA,lca-cbi,cbi_unit_financial_position [category=lease_payable_current],2022-03-31,XCD,154378,1,154378.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.2,revision,o-300b711402
+LCA,lca-cbi,cbi_unit_financial_position [category=lease_payable_non_current],2022-03-31,XCD,210000,1,210000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.1,revision,o-861f235651
+LCA,lca-cbi,cbi_unit_financial_position [category=lease_payable_non_current],2022-03-31,XCD,210184,1,210184.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.1,revision,o-74980814aa
+LCA,lca-cbi,cbi_unit_financial_position [category=prepayments],2022-03-31,XCD,73000,1,73000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.6,revision,o-f37d585001
+LCA,lca-cbi,cbi_unit_financial_position [category=prepayments],2022-03-31,XCD,73411,1,73411.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.6,revision,o-e4bdd2b01b
+LCA,lca-cbi,cbi_unit_financial_position [category=property_plant_equipment],2022-03-31,XCD,474000,1,474000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-9b288be54a
+LCA,lca-cbi,cbi_unit_financial_position [category=property_plant_equipment],2022-03-31,XCD,474213,1,474213.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-f1678c7737
+LCA,lca-cbi,cbi_unit_financial_position [category=provision_vat_payable],2022-03-31,XCD,2996000,1,2996000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-86c588f4f6
+LCA,lca-cbi,cbi_unit_financial_position [category=provision_vat_payable],2022-03-31,XCD,2996468,1,2996468.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-1538d212ab
+LCA,lca-cbi,cbi_unit_financial_position [category=total_assets],2022-03-31,XCD,37850000,1,37850000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-82df78d502
+LCA,lca-cbi,cbi_unit_financial_position [category=total_assets],2022-03-31,XCD,37850658,1,37850658.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-814cc1711e
+LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities],2022-03-31,XCD,11683000,1,11683000.0,actual,lca-ciu-ar-2022-23,"Citizenship by Investment Unit (CIU), Saint Lucia",2023-08,0.0,revision,o-6a4ee72a98
+LCA,lca-cbi,cbi_unit_financial_position [category=total_liabilities],2022-03-31,XCD,11684052,1,11684052.0,actual,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,0.0,revision,o-fe3dbb3d0e
+LCA,lca-cbi,cbi_unit_net_income [category=overall_deficit],FY2015/16,XCD,579,thousand,579000.0,actual,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,31.5,vintage,o-ddd9718165
+LCA,lca-cbi,cbi_unit_net_income [category=overall_deficit],FY2015/16,XCD,845,thousand,845000.0,budget,lca-ciu-ar-2015-16,"Citizenship by Investment Unit (CIU), Saint Lucia",2016,31.5,vintage,o-19de9288cf
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5148336,1,5148336.0,actual,lca-ciu-ar-2018-19,"Citizenship by Investment Unit (CIU), Saint Lucia",2019,9.6,revision,o-c726b91695
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2017/18,XCD,5693736,1,5693736.0,actual,lca-ciu-ar-2017-18,"Citizenship by Investment Unit (CIU), Saint Lucia",2018,9.6,revision,o-eb4655c097
 LCA,lca-cbi,cbi_unit_net_income [category=surplus],FY2021/22,XCD,12290751,1,12290751.0,budget,lca-ciu-ar-2021-22,"Citizenship by Investment Unit (CIU), Saint Lucia",2022,55.7,vintage,o-4cb34e5ae1
@@ -5039,6 +5069,9 @@ PRT,prt-golden-visa,rbi_investment_total,2012-10/2023-09,EUR,6451,million,645100
 PRT,prt-golden-visa,rbi_investment_total,2012-10/2023-09,EUR,7318438201.77,1,7318438201.77,actual,prt-sef-ari-map-2012-2023-09,Serviço de Estrangeiros e Fronteiras (SEF),2023-10,11.9,conflict,o-3d8e2e13e5
 PRT,prt-golden-visa,rbi_investment_total,2013,EUR,304002774.99,1,304002774.99,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-70a8c7243c
 PRT,prt-golden-visa,rbi_investment_total,2013,EUR,304588774.99,1,304588774.99,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-f9995ae042
+PRT,prt-golden-visa,rbi_investment_total,2017,EUR,640.41,million,640410000.0,estimate,intl-eprs-cbi-rbi-2018,European Parliamentary Research Service (Ex-Post Evaluation Unit and European Added Value Unit),2018-10,24.1,conflict,o-b5801f3f0d
+PRT,prt-golden-visa,rbi_investment_total,2017,EUR,844088897.77,1,844088897.77,actual,prt-sef-ari-map-2017,Serviço de Estrangeiros e Fronteiras (SEF),2018,24.1,conflict,o-47ed3d8116
+PRT,prt-golden-visa,rbi_investment_total,2017,EUR,844088897.77,1,844088897.77,actual,prt-sef-rifa-2017,Serviço de Estrangeiros e Fronteiras (SEF),2018,24.1,conflict,o-279ef20681
 PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,269775097.81,1,269775097.81,actual,prt-sef-ari-map-2012-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-d4f1b39044
 PRT,prt-golden-visa,rbi_investment_total [route=real_estate],2013,EUR,270361097.81,1,270361097.81,actual,prt-sef-rifa-2013,Serviço de Estrangeiros e Fronteiras (SEF),2014,0.2,revision,o-133478ef7d
 SGP,sgp-gip,main_applicants_approved,2020-2022,persons,60,1,60.0,actual,sgp-edb-gip-mr-2023,Singapore Economic Development Board (EDB),2023-03-02,70.0,conflict,o-045f904816
