@@ -1,0 +1,106 @@
+{
+ "slug": "extract-cbi-pan-film-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "Adds Panama's film and audiovisual industry investor residence (DE 320 of 2008, arts. 217-219: permanent residence for investing more than B/.150,000 in the film industry) as a programme under decision 15, with its investment rule, the art. 315 special-policies fees, a launch event (decision 14) and a legal-basis event for Ley 36 of 2007. The category has no row in any stored SNM residence table (2010-2021 to 2026-08), so no counts are added.",
+ "sources": [],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "pan-film-industry-investor",
+   "route": "business_investment",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "150000",
+   "currency": "PAB",
+   "applies_to": "applicant; investment in the film industry, in a company authorised under the special regime of Ley 36 of 2007; permanent residence",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 55, art. 217",
+   "quote": "Podrá solicitar este permiso el extranjero que invierta en la Industria Cinematográfica, un monto superior a ciento cincuenta mil balboas (B/.150,000.00)",
+   "notes": "The text says 'superior a' (more than) B/.150,000, so the threshold is strictly above the amount stored. Funds must come from abroad (bank letter, art. 218(2)); the company's existence and authorisation under Ley 36 of 2007 are certified by the Technical Secretariat of the Panama Film Commission (art. 218(1)); the investment is proven with at least two of: registered purchase or lease of the company's premises, invoices with an inventory by a certified public accountant, or customs clearances of imported goods (art. 218(3)). Permanent residence 'por políticas especiales' (Título IV, Cap. II, Sec. 8ª); art. 219 lists an extra document (tax clearance of company and applicant) 'para solicitar permanencia'. No amount per dependant is set for this category. Later amendments not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender)."
+  },
+  {
+   "program_id": "pan-film-industry-investor",
+   "route": "fee_processing",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "250",
+   "currency": "PAB",
+   "applies_to": "applicant; permanent residence 'por políticas especiales'; application for the migration category (payment per application)",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 2. Por políticas especiales', column 'PAGO POR SOLICITUD DE CATEGORÍA MIGRATORIA'",
+   "quote": "2. POR POLÍTICAS ESPECIALES -------- B/.250.00 -------- -------- B/.100.00",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for special policies, which include the film and audiovisual industry investor (Título IV, Cap. II, Sec. 8ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit (none printed), guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender)."
+  },
+  {
+   "program_id": "pan-film-industry-investor",
+   "route": "fee_permit",
+   "valid_from": "2008-08-13",
+   "valid_to": "",
+   "min_amount": "100",
+   "currency": "PAB",
+   "applies_to": "applicant; permanent residence 'por políticas especiales'; residence card",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 72, art. 315, fee table, row 'Permisos de residentes permanentes 2. Por políticas especiales', column 'CARNÉ'",
+   "quote": "2. POR POLÍTICAS ESPECIALES -------- B/.250.00 -------- -------- B/.100.00",
+   "notes": "General SNM fee table (art. 315) for all permanent residence permits for special policies, which include the film and audiovisual industry investor (Título IV, Cap. II, Sec. 8ª); not specific to this route. Columns in order: services fee (none), application fee B/.250, repatriation deposit (none printed), guarantee deposit (none), card B/.100. Whether the amounts were later changed was not checked. B/. = balboa, Panama's currency, at par with the US dollar (which circulates as legal tender)."
+  }
+ ],
+ "events": [
+  {
+   "date": "2008-08-13",
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "program_id": "pan-film-industry-investor",
+   "category": "launch",
+   "title": "Migration regulation sets film industry investor residence (more than B/.150,000)",
+   "description": "Decreto Ejecutivo 320 of 8 Aug 2008 (Gaceta 26104, 13 Aug 2008), the regulation of the 2008 migration law, which states it takes effect on 26 August 2008. Arts. 217-219 set a permanent permit for foreigners investing more than B/.150,000 from abroad in the film industry, in a company authorised under the special regime of Ley 36 of 2007.",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 55, art. 217",
+   "quote": "Podrá solicitar este permiso el extranjero que invierta en la Industria Cinematográfica, un monto superior a ciento cincuenta mil balboas (B/.150,000.00)",
+   "countries": ""
+  },
+  {
+   "date": "2007",
+   "date_precision": "year",
+   "jurisdiction": "PAN",
+   "program_id": "pan-film-industry-investor",
+   "category": "legal_basis",
+   "title": "Film industry special regime (Ley 36 of 2007) cited as the basis of the film investor permit",
+   "description": "DE 320 of 2008 requires the investor's company to be authorised under the special regime of Ley 36 of 2007, the film and audiovisual industry law (not stored); the same regulation governs the temporary permits of foreign film company staff by Ley 36 of 2007 (art. 106). Whether that law already gave investors residence is not known from stored documents. Year only: the law's exact date is not printed.",
+   "source_id": "pan-go-de320-2008",
+   "location": "p. 55, art. 218(1)(b)",
+   "quote": "Que la empresa se encuentra autorizada bajo el régimen especial establecido en la Ley de No.36 de 2007",
+   "countries": ""
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "pan-film-industry-investor",
+   "jurisdiction": "PAN",
+   "name": "Panama residence as film and audiovisual industry investor (Inversionista de la Industria Cinematográfica y Audiovisual)",
+   "kind": "residency",
+   "launched": "2008-08-13",
+   "legal_basis": "2007",
+   "ended": "",
+   "status": "",
+   "notes": "Permanent residence for foreigners who invest more than B/.150,000 from abroad in the film industry, in a company authorised under the special regime of Ley 36 of 2007 (not stored), certified by the Panama Film Commission (DE 320 of 2008, arts. 217-219); no amount per dependant is set. Fees are the general art. 315 rates for permanent permits for special policies (B/.250 application, B/.100 card). The category has no row in the stored SNM residence tables 2010-2026 (only 'Empleados de Empresas Cinematográficas', staff permits, which are out of scope). Current status and amendments after 2008 not checked.",
+   "source_ids": "pan-go-de320-2008"
+  }
+ ],
+ "new_indicators": [],
+ "gaps": [
+  "No approval counts: the film investor category is not printed in any stored SNM residence table (pan-snm-residencia-2010-2021, -2022, -2023, -2024, -2025, -2026-08); it may be inside 'Otras categorías' or have had no applicants. Not recorded as zero, because the tables print no row for it.",
+  "Ley 36 of 2007 (film industry special regime) is not stored, so whether it already gave investors residence before DE 320 is unknown."
+ ],
+ "leads": [
+  "Ley 36 of 2007 (Panama film and audiovisual industry law), Gaceta Oficial; would settle the legal basis and any earlier investor residence."
+ ],
+ "ledger": [
+  {
+   "source_id": "pan-go-de320-2008",
+   "status": "partial",
+   "contains": "Gaceta Oficial 26104 (13 Aug 2008), 89 pages with a text layer. Out of scope: DE 25 of 2007 on an agricultural trust programme (pp. 1-10), Resolution 47/08 and land-title edicts at the end. Main content: Decreto Ejecutivo 320 of 8 Aug 2008, the regulation of the migration law (Decreto Ley 3 of 2008): visas, temporary and permanent residence categories, fees and sanctions. In scope and in tables: Solvencia Económica Propia (arts. 191-195) and macro-enterprise investor (arts. 185-190) with dependant amounts, employees and art. 315 fees; agrarian investor (arts. 95-97), forestry investor temporary (arts. 100-102) and permanent (arts. 180-182), Panamá-Pacífico investor (arts. 206-207), export processing zone investor (art. 211) and call-centre investor (art. 214), with the art. 315 fee rows that apply to each, launch events for five categories and legal-basis events for four (Ley 25 of 1992, DE 97 of 2002, Ley 41 of 2004, Decreto Ley 6 of 1999); City of Knowledge businessperson or executive subcategory (arts. 108, 113; no investment amount, legal-basis event only). Added in pass extract-cbi-pan-film-2026-10-10: film and audiovisual industry investor (arts. 217-219: more than B/.150,000, funds from abroad, company under Ley 36 of 2007; art. 315 permanent special-policies fees B/.250 and B/.100), its launch event and a legal-basis event for Ley 36 of 2007. Out of scope: pensioners, Rentista Retirado (arts. 196-197, income from deposits; decision 15), film company staff permits (arts. 106-107), the short-stay visa for traders and investors under special laws (arts. 54-55; a visa, not residence), workers' minimum salaries, visa fees. No statistics.",
+   "to_do": "The art. 315 fee row for temporary permits 'por políticas especiales' (which would cover the City of Knowledge businessperson permit) is garbled in the layout and was not tabled."
+  }
+ ]
+}
