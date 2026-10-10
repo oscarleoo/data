@@ -4560,6 +4560,10 @@ KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,10.0,1,10.0,projectio
 KNA,kna-cbi,cbi_fiscal_revenue_pct_gdp,2028,percent_of_gdp,10,1,10.0,projection,kna-imf-pr-2024,International Monetary Fund,2024-05-15,10.0,vintage,o-9beb5a2f85
 KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,54.9,1,54.9,provisional,kna-mof-budget-address-2023,"Government of St. Kitts and Nevis, Ministry of Finance",2022-12,3.7,conflict,o-8219163366
 KNA,kna-cbi,cbi_fiscal_revenue_pct_revenue,2021,percent,57,1,57.0,actual,kna-audit-report-2021,St. Kitts and Nevis National Audit Office,2022-12,3.7,conflict,o-328dd2acc9
+KNA,kna-cbi,cbi_option_financed_spending [category=hurricane_relief_programme],2020,XCD,3,million,3000000.0,budget,kna-audit-report-2020,St. Kitts and Nevis National Audit Office,2021-12,62.5,vintage,o-63d10d1c9e
+KNA,kna-cbi,cbi_option_financed_spending [category=hurricane_relief_programme],2020,XCD,8,million,8000000.0,actual,kna-audit-report-2020,St. Kitts and Nevis National Audit Office,2021-12,62.5,vintage,o-e151c26999
+KNA,kna-cbi,cbi_option_financed_spending [category=hurricane_relief_programme],2022,XCD,991,thousand,991000.0,budget,kna-audit-report-2022,St. Kitts and Nevis National Audit Office,2023,50.4,vintage,o-1579250ecd
+KNA,kna-cbi,cbi_option_financed_spending [category=hurricane_relief_programme],2022,XCD,2,million,2000000.0,actual,kna-audit-report-2022,St. Kitts and Nevis National Audit Office,2023,50.4,vintage,o-baf25b9ff2
 KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2019,XCD,25.8,million,25800000.0,actual,kna-imf-art4-2023,International Monetary Fund,2023-03,10.4,revision,o-ef70500f1e
 KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2019,XCD,28.8,million,28800000.0,actual,kna-imf-art4-2021,International Monetary Fund,2021-10,10.4,revision,o-e48017b3e3
 KNA,kna-cbi,cbi_programme_costs [category=due_diligence],2020,XCD,8.6,million,8600000.0,estimate,kna-imf-art4-2021,International Monetary Fund,2021-10,67.5,revision,o-18510c8f5d
