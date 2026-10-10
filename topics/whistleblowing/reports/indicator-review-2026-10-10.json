@@ -1,0 +1,762 @@
+[
+ {
+  "indicator": "amounts_alleged",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money (underreported income, unpaid tax or similar) that whistleblowers allege in the claims a programme received in a period, as tallied by the source. Unverified allegations only: excludes amounts assessed (taxes_assessed_attributable) or collected (collections_attributable). Breakdown item= says what was alleged.",
+  "kind": "money",
+  "rows": 2,
+  "reason": "Distinct stage (allegation) from assessment and collection; nothing else measures it."
+ },
+ {
+  "indicator": "amounts_identified_attributable",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money other than tax (damage to the state, civil claims filed) that investigations based on whistleblower information identified or claimed, whether or not recovered or granted. Excludes tax identified (taxes_assessed_attributable), sanctions ordered (sanctions_ordered) and money collected (collections_attributable). Breakdown item= says which.",
+  "kind": "money",
+  "rows": 4,
+  "reason": "Non-tax damage identified is not a tax assessment nor a sanction ordered; kept as the companion of taxes_assessed_attributable."
+ },
+ {
+  "indicator": "award_appeals_filed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Challenges of award determinations (denials or amounts) filed in a period or to date: appeals to a court or appeal body, or internal requests for reconsideration of a preliminary determination (item=reconsideration_requests). Unit says appeals or requests. Excludes the decisions themselves.",
+  "kind": "count",
+  "rows": 2,
+  "reason": "Kept; definition widened to include requests for reconsideration, which one row (SEC, o-78f2700663) already records with item=reconsideration_requests."
+ },
+ {
+  "indicator": "award_applications_admitted",
+  "action": "merge",
+  "target": "award_claims_received",
+  "row_changes": "breakdown add stage=admitted",
+  "definition": "Reward applications an authority formally admitted for consideration (Hungarian GVH 'befogadott kérelem').",
+  "kind": "count",
+  "rows": 3,
+  "reason": "A stage of the same flow of award applications; the proposer itself suggested a breakdown. stage=admitted keeps admitted applications apart from all applications received."
+ },
+ {
+  "indicator": "award_applications_received",
+  "action": "merge",
+  "target": "award_claims_received",
+  "row_changes": "",
+  "definition": "Applications for a reward filed by whistleblowers in a period (Korea, Lithuania, Slovakia, FinCEN).",
+  "kind": "count",
+  "rows": 35,
+  "reason": "Same concept as award_claims_received (applications for an award, distinct from tips); unit applications already says what is counted."
+ },
+ {
+  "indicator": "award_average",
+  "action": "rename",
+  "target": "award_size",
+  "row_changes": "none on its own rows (indicator id only)",
+  "definition": "Size of a single award as printed by the source: the average award per approved application, rewarded case or award (default, or stat=average), or the highest or lowest single award in a period (stat=highest, stat=lowest). Excludes totals paid (awards_paid_amount) and awards as a share of recoveries (award_rate_average).",
+  "kind": "money",
+  "rows": 20,
+  "reason": "Absorbs the 20 highest/lowest single-reward rows (US wildlife rewards) that were filed under awards_paid_amount, a total. With extremes in it, the old id 'award_average' would mislead."
+ },
+ {
+  "indicator": "award_claims_denied",
+  "action": "merge",
+  "target": "claims_closed",
+  "row_changes": "breakdown add reason=denied",
+  "definition": "Award claims or applications finally denied or rejected in a period.",
+  "kind": "count",
+  "rows": 52,
+  "reason": "A denial is one way a claim closes; claims_closed already carries closure reasons (reason=award_paid, reason=claim_denied_...). reason=denied keeps these rows apart from all closures. Rows that already name a denial ground under category= keep it."
+ },
+ {
+  "indicator": "award_claims_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 85 misfiled row(s) to tips_received [IRS claims are tips]: o-f309380f14, o-a0a8f4ec1e, o-9c9a34ea85, o-083bfcde77, o-3c2b18c39f, o-0be850222a, o-67f01d9818, o-fef525c737, o-bd88cc07c4, o-ec7ba7e1db, o-3f1b6084da, o-ad1135163b, o-f0a976e6a5, o-c14772f01c, o-5633bef190, o-1528960192, o-6971b1504e, o-b4f6da502e, o-b64344a249, o-f66a2b2014, o-b3c378c1ce, o-9244075812, o-bb8a17e6dd, o-df8d53ecd0, o-1c988aa17c, o-7afc4c4a47, o-28cae66f9d, o-8c2a54c577, o-7b1f247491, o-5ed56e1f25, o-1653a20521, o-38bfb63493, o-571a42978c, o-52f810867e, o-8aaf1c5b61, o-65aac45f23, o-bcd8861fed, o-77d5e99c4a, o-2c7d8c1236, o-10e9daf339, o-51097a18ee, o-b785424593, o-1c7738f821, o-8c27b39df2, o-f47bf4b3d2, o-58807770eb, o-790b2dd02f, o-cc0c77ee9c, o-a2b99e564a, o-31e817da38, o-909698d917, o-136d65220d, o-415c27e9f4, o-40937d2b9c, o-e05196b8cf, o-d3d4e6554d, o-ae2d40d015, o-f3156b68f5, o-5e48407e79, o-18155560ff, o-c401786153, o-76a48f5d4f, o-af41cab3d8, o-28e356e148, o-e5eb3fd1bc, o-f6fa5148dc, o-0482fea14a, o-25aec366a5, o-1f6773746e, o-332c4eb585, o-f1910e69e3, o-edb63e7668, o-943125c708, o-4493c5ae5b, o-23d53805b4, o-43661e5190, o-64563aa6de, o-675f4255ff, o-4c771a64f2, o-b339541020, o-a8bd54cccc, o-082fad4f71, o-3f3019659e, o-d1a5ac4a54, o-4dcd73bb07",
+  "definition": "Applications for a whistleblower award (e.g. SEC/CFTC/NHTSA Form WB-APP, Korean reward applications, Lithuanian and Slovak reward requests) received in a period, as the source counts them; stage=admitted for applications formally admitted (Hungary). Unit says claims or applications; breakdown outcome= splits received applications by what became of them. Excludes tips (tips_received): where a programme has no separate award application (IRS Form 211 claims), its claims are tips.",
+  "kind": "count",
+  "rows": 156,
+  "reason": "Kept as the award-application stage, absorbing award_applications_received and award_applications_admitted. The 85 IRS rows (TIGTA/GAO counts of Form 211 claims received) are the same concept as the IRS claims already in tips_received from the annual reports, so they move there."
+ },
+ {
+  "indicator": "award_rate_average",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Rewards paid as a percentage of the money recovered or collected on which they were based (reward-eligible amount), over a period, as printed by the source; value_high for a printed range. Excludes the size of single awards (award_size).",
+  "kind": "share",
+  "rows": 83,
+  "reason": "Distinct concept (award as % of proceeds)."
+ },
+ {
+  "indicator": "awards_accrued",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Whistleblower awards a programme has recognised but not yet paid at a date or in a period: liabilities for awards, probable or contingent award claims accrued, awards finalised in accounts payable, obligated but not disbursed, preliminarily determined, or the estimated range of possible future payments (status estimate). Breakdown item= says which. Excludes awards paid (awards_paid_amount).",
+  "kind": "money",
+  "rows": 45,
+  "reason": "Distinct (accrual before payment); definition lists the items the rows actually hold."
+ },
+ {
+  "indicator": "awards_paid_amount",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 20 misfiled row(s) to award_size [single-award extreme in a total]: o-c936f02580, o-695348b88a, o-929d7bbfab, o-fcad43cd00, o-1beb768273, o-7549c1ee85, o-f33b201904, o-40199b5e0b, o-b6caecc2d2, o-2a078556d6, o-e97adc3c78, o-e5e7e41af9, o-3b400fc866, o-eb879cfef6, o-bcc0347109, o-a6d16b8113, o-7bd2097232, o-d4b5fdc84f, o-379f07e549, o-3cfd786211; move 4 misfiled row(s) to awards_share [percentage in a count/money indicator]: o-4efbf8c11b, o-6ffb31a0be, o-59fb221324, o-35bfb60548; flag, not moved: 4 misfiled row(s) (right indicator: none) [hypothetical award forgone on FBAR penalties (GAO), never paid; no fitting indicator; left for a person (status estimate, or remove)]: o-0d526826ba, o-4b84710c6a, o-e2f2da1506, o-970c094939",
+  "definition": "Money paid or awarded to whistleblowers as rewards in a period or to date, including False Claims Act relator shares; notes say where the source counts awards made rather than paid. Includes, as items for reconciliation, amounts before sequestration and the amount withheld by sequestration (item=before_sequestration, item=sequestration_reduction). Excludes awards accrued but unpaid (awards_accrued), relief payments for damages (relief_paid) and the size of single awards (award_size).",
+  "kind": "money",
+  "rows": 709,
+  "reason": "Kept; absorbs relator_share_awards (same concept for qui tam programmes). Mixed rows moved out: 20 highest/lowest single rewards to award_size, 4 percentage shares to awards_share. Four rows (o-0d526826ba, o-4b84710c6a, o-e2f2da1506, o-970c094939) are GAO's hypothetical awards forgone on FBAR penalties, never paid: they do not fit any indicator and are left for a person (status estimate, or remove)."
+ },
+ {
+  "indicator": "awards_paid_count",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 27 misfiled row(s) to awards_share [percentage in a count/money indicator]: o-5ea54401b4, o-02c1345111, o-2d3b7b6a4b, o-66c38f7820, o-e139a9b498, o-00610ef3b0, o-669e0a768f, o-689e3931ed, o-0765692bbf, o-d9654cf49d, o-9224a4fb5b, o-5944506ce0, o-d7d4b736f5, o-59fe156a0a, o-d851f26ad3, o-7a0829b757, o-deb082a34a, o-ca04ee3e0d, o-8ca66a83c6, o-77c6547535, o-546a864a7d, o-0ea0799f05, o-85006e05d6, o-848d422a93, o-7e171b161b, o-2a888c143e, o-fb2b0f5711",
+  "definition": "Number of awards paid or made in a period or to date (notes say whether paid or determined). The unit says what is counted when the source counts something else per award: orders granting awards, covered or related actions, agreements or matters with awards, claims tied to paid awards. Excludes distinct persons (individuals_awarded) and percentages (awards_share).",
+  "kind": "count",
+  "rows": 679,
+  "reason": "Kept; 27 percentage rows moved to awards_share."
+ },
+ {
+  "indicator": "awards_reduced",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Awards whose percentage a programme reduced in a period because of a negative factor (unreasonable reporting delay, culpability, interference with internal reporting); breakdown item= gives the reason, unit says whether awards, whistleblowers (persons) or matters.",
+  "kind": "count",
+  "rows": 11,
+  "reason": "Distinct; nothing else counts reductions."
+ },
+ {
+  "indicator": "cases_handled",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 7 misfiled row(s) to tips_share [percentage in a count/money indicator]: o-7f22d16e62, o-7da24c1dc5, o-4b7c232321, o-ffe80d80cd, o-407afdddf3, o-220b1df1ec, o-2a711094f5",
+  "definition": "Cases, files or matters a whistleblower protection authority dealt with in a period, as the source counts them; breakdown scope= (within or outside its competence), type=, retaliation= or unit= says which. Excludes percentages (tips_share, stage=handled).",
+  "kind": "count",
+  "rows": 47,
+  "reason": "Kept; 7 percentage rows moved to tips_share with stage=handled."
+ },
+ {
+  "indicator": "claimants_barred",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Individuals a programme permanently barred from applying for awards in a period (e.g. SEC bar after frivolous award claims).",
+  "kind": "count",
+  "rows": 3,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "claims_closed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 163 misfiled row(s) to tips_share [percentage in a count/money indicator]: o-5e4562068e, o-9fdf573d9d, o-368d9cb937, o-6cc4b5818e, o-c37e1025da, o-046b06eec0, o-62b69aae75, o-5de9b49c02, o-bbb990c17b, o-e5b530e0aa, o-4f7c4e892f, o-751ca220e4, o-5abb32d186, o-6e40682ed7, o-3102cf268e, o-d27c98bf3b, o-d1f453f330, o-a4aca6733a, o-7df47c21fc, o-302978bf45, o-1766ac8f76, o-bada0491cf, o-fe33512c8b, o-f6c0623cad, o-4abc3a2bc5, o-023d0bdcbd, o-79cda7276a, o-1d19706969, o-6e3f74be0e, o-7d9e9290dd, o-31092fc478, o-21c60c2e4f, o-3311ddbf8f, o-2c656b5f67, o-b83156aecd, o-93fd5e889f, o-8936ca5f86, o-c3f2f58f4e, o-0d754a6960, o-4cad5e9364, o-d83494aa63, o-358fd2294d, o-2f1de70bca, o-456e556fda, o-9e16cb3c6a, o-4fcf53068f, o-a2adc5a712, o-c98861d74e, o-57044c93a7, o-16de5edc32, o-b6744bcc98, o-25bbfadcd4, o-2413c8145f, o-d577eb3aa7, o-623e3ad79d, o-9850f33b97, o-fa972fa2a4, o-4f03773715, o-10e98133bf, o-3d7615d074, o-6278cc6982, o-ea05e03853, o-be54ad4e34, o-f6b3eb6063, o-23f0135fe8, o-0de21ccd4d, o-4e38b601cf, o-d112b76004, o-1b532ce33d, o-914a107afd, o-fd05a5b183, o-1648685bbb, o-98bab04706, o-1c4770a9a1, o-2f52617806, o-4f708fe9ca, o-953055bf57, o-8483a7d538, o-93bdd338ca, o-1c2f2bfd31, o-e7252fc954, o-c6cdb468e7, o-81ded0a82e, o-76c8faa152, o-e6d2276a98, o-3e6d31136a, o-8035349d5f, o-16adcfba50, o-1d107c77c3, o-faf53d5d79, o-0f880ef85e, o-eabbabea34, o-510b10dc2d, o-1fff5203d5, o-85ead125a3, o-2d5b721392, o-572b5d6d01, o-69014cdaca, o-3e8dc60faf, o-296bffb001, o-447b4ad253, o-939cf7efcc, o-ee09db71ea, o-b64edf4129, o-8bb67e5851, o-8452d1c574, o-fa960e5f54, o-2350db866b, o-ef546ea84e, o-d08f0702de, o-4ec65d2951, o-875b4ce732, o-348c4d9046, o-233328584f, o-a78097f611, o-f354afb0a0, o-26cc717d6b, o-294bc8acab, o-ab8e4e53e2, o-c4e52c50a9, o-9eb377935d, o-0c84f59ea5, o-d633632bf0, o-2ce9ed97aa, o-2c485119a1, o-adae6019bb, o-946ba9a843, o-fdfb0cf64c, o-f0281027a6, o-6597999193, o-d8589e4f73, o-bc1fb7b2ee, o-bbc5387944, o-61ba10828c, o-5cb6f7ba63, o-d62838e19a, o-4b38ca7e64, o-074ad823e4, o-f4824163e1, o-b495486a52, o-b4c3b47cfa, o-90a366a468, o-4acbdeb78c, o-1b3ba1cbd1, o-effecce7f1, o-70789b8549, o-e8d1fea775, o-5c65c3f9de, o-d248ec3f10, o-1e71f61c54, o-66b546e228, o-77f4604bd4, o-31af569b33, o-9c1281a715, o-3ef163d594, o-51f9b78b1b, o-7d07dad380, o-3507ff9606, o-c40294a8bf, o-eb168da1be, o-681777f5f3, o-7f79f96958, o-7d51490946",
+  "definition": "Tips, reports, claims or award applications a programme closed or decided in a period, for any reason (award, denial, rejection, transfer, no action), as the source counts them. Unit says reports, claims, applications or orders; breakdown reason= or outcome= gives the ground (reason=denied for final denials of award claims), item= the disposal. Excludes percentages (tips_share, stage=closed).",
+  "kind": "count",
+  "rows": 2114,
+  "reason": "Kept; absorbs award_claims_denied (reason=denied). 163 percentage rows (IRS shares of closures by reason, etc.) moved to tips_share with stage=closed."
+ },
+ {
+  "indicator": "claims_open",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 7 misfiled row(s) to tips_share [percentage in a count/money indicator]: o-4d8ead1d8a, o-60844d65a3, o-0a2b1bfa5a, o-40d6250829, o-a224df1954, o-d8dbf80acc, o-b4db66556a",
+  "definition": "Tips, claims, submissions or award applications still open (not closed) at a date, as the source counts them (unit says claims, submissions, taxpayers, persons, reports or applications); breakdown item=, step= or stage= for where they sit. Excludes percentages (tips_share, stage=open) and how long they have been there (claims_time_in_status).",
+  "kind": "count",
+  "rows": 775,
+  "reason": "Kept; 7 percentage rows moved to tips_share with stage=open."
+ },
+ {
+  "indicator": "claims_processed_step",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Claims (or examination modules tied to claims) that a programme, or a unit working for it, completed or moved through a named processing step in a period, e.g. classified for tax potential or moved to suspense in a backlog cleanup; breakdown item= names the step.",
+  "kind": "count",
+  "rows": 11,
+  "reason": "Kept, but vague: it groups one-off audit counts (a 2015 backlog cleanup, SB/SE classification, an audit population of 18,820 examination modules) that share only 'claims at a step'. Few rows (11); revisit if more arrive."
+ },
+ {
+  "indicator": "claims_referred_to_exam",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 122 misfiled row(s) to tips_share [percentage in a count indicator]: o-0b86d9cf2c, o-5a5ad55126, o-308d85ce74, o-71a66928f7, o-2b1b1e0d54, o-bcb946f19a, o-4c802d440c, o-6b4778c252, o-10ffb5be3e, o-ed2ba8b2e6, o-640847494a, o-02e8a35bc4, o-6bd780c89d, o-ec8f857824, o-8a55ba7ff2, o-a923f8d823, o-d311caf153, o-b4f4f51b01, o-a94e769f03, o-e916c27adb, o-2181b9c89d, o-75b0286d03, o-945f7d1143, o-b81f36e698, o-8c05fb9482, o-6862382419, o-5f1878ecdd, o-0840a3f109, o-1dabbb3f8d, o-226adf398b, o-6b77307a53, o-5c7ffd83d6, o-9ea883b956, o-a2d56df80f, o-925670d313, o-78d5faf4f8, o-0a7b3136b9, o-00b606963c, o-bd6f14b113, o-049235c400, o-271fcebdff, o-67f240710a, o-d573565e55, o-f82ae3228b, o-8701afba9c, o-5f479acff2, o-368ffcbd46, o-125eef0120, o-f38bfec748, o-01d6652c75, o-bbc74dea27, o-62206af896, o-541ae20ba0, o-9347e69093, o-1a2498a1dd, o-c9eb6d6399, o-fdf840ba4c, o-7c44467c0f, o-25aa225d0e, o-5826fe2ed5, o-8bc99bbe97, o-75907ed118, o-ac215ca663, o-f05d5993d1, o-aec42c1074, o-ecc7fda0b0, o-68c550a529, o-334e9b32f8, o-a04df45d92, o-0d59d75471, o-43e775ffcb, o-b3d5d68dea, o-2e3a6ebe1c, o-52d8234159, o-41d0f900f1, o-0a56b01b06, o-1b0ef10acb, o-60bc6c2f8d, o-6909543097, o-c3e3bdcc19, o-5fd7c8e9ba, o-1c109e9078, o-5ed272947d, o-8dd9e84407, o-3350190923, o-c9fc80c7a5, o-73745f6059, o-b158c9d4d2, o-eba194832a, o-a2fa462cc8, o-a248abeb01, o-d169def828, o-e50dea9c6c, o-debecb7549, o-1984c768f7, o-76ed53b910, o-acffb18d1c, o-449612ed6e, o-401637a1ec, o-6a4098d7b6, o-d58b850b3e, o-0d79a13b44, o-6fba8e7d39, o-0573c2ece0, o-89692118c0, o-094cb5c8a7, o-5dff0c4f62, o-faa17ab905, o-47a48c6a0f, o-265ee8f906, o-8a1a7514b6, o-5329401d10, o-e6122a1615, o-d5ed0c809e, o-cd8c2d81ee, o-4ea9a2d43b, o-33457268bd, o-4efa3fc767, o-df12a05c49, o-2cc2ebdf28, o-a47fddfe44, o-23324d99df; flag, not moved: 4 misfiled row(s) (right indicator: notices_to_whistleblowers) [IRS TFA referral notices, exact duplicates of notices_to_whistleblowers rows from the same tables (o-c000400226, o-d1eb6b7fe9, o-414b81320c, o-dafe0fae06); delete rather than move; left for a person]: o-b52e05ecf8, o-05660abfe3, o-026665b057, o-db5a5a12cf",
+  "definition": "Tips, reports or claims that the programme sent to field examination, investigation or another competent body in a period (including criminal complaints or forwarded cases), as the source counts them; breakdown outcome= splits referred reports by what the investigation found (substantiated, unsubstantiated, under investigation, other action), agency= by where they went. Excludes percentages (tips_share) and notices telling whistleblowers about a referral (notices_to_whistleblowers).",
+  "kind": "count",
+  "rows": 665,
+  "reason": "Kept with a wider definition matching its rows (Korean and Slovak referrals and their outcomes, SEC matters opened from tips). 122 percentage rows moved to tips_share. Four rows (o-b52e05ecf8, o-05660abfe3, o-026665b057, o-db5a5a12cf) are IRS Taxpayer First Act referral notices and exact duplicates of notices_to_whistleblowers rows from the same tables (o-c000400226, o-d1eb6b7fe9, o-414b81320c, o-dafe0fae06): misfiled; moving them would duplicate, so they are left for a person (delete)."
+ },
+ {
+  "indicator": "claims_time_in_status",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "For claims still open at a date, the average, longest or shortest time they have spent in their current processing status (breakdown item= or step= gives the status, stat= the measure), in the unit printed. Not the time from claim to award (processing_time).",
+  "kind": "duration",
+  "rows": 147,
+  "reason": "Kept; receives the 33 'longest days in current status' rows (TIGTA 2015 snapshot) that were filed under processing_time."
+ },
+ {
+  "indicator": "collections_attributable",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 2 misfiled row(s) to recoveries_share [percentage in a count/money indicator]: o-df4f201f7d, o-9f59613162",
+  "definition": "Money the government collected or recovered (taxes, penalties, sanctions, settlements and judgments, reclaimed public funds) in cases brought or prompted by a whistleblower, in a period or to date; for the False Claims Act, settlements and judgments in qui tam cases (breakdown intervention=, agency=). Excludes amounts merely assessed, ordered or alleged, recoveries in cases not started by a whistleblower (recoveries_non_whistleblower_cases), and percentages (recoveries_share).",
+  "kind": "money",
+  "rows": 414,
+  "reason": "Kept; absorbs recoveries_whistleblower_cases (same concept, money recovered thanks to whistleblowers, named differently for qui tam). 2 percentage rows moved to recoveries_share."
+ },
+ {
+  "indicator": "compliance_inspections",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Inspections by a whistleblower authority of employers' compliance with whistleblower law (internal reporting systems, treatment of whistleblowers) in a period; breakdown status= or outcome=.",
+  "kind": "count",
+  "rows": 5,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "confidentiality_reviews",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Requests to produce or share enforcement documents that a whistleblower office reviewed in a period to protect whistleblower confidentiality; breakdown requester= (enforcement_litigation, other_agencies) and scope= (all, involving_whistleblowers, identifying_information).",
+  "kind": "count",
+  "rows": 50,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "employer_consent_requests",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Employer requests for a whistleblower authority's consent to a labour-law act (dismissal, other measure) against a protected whistleblower, received or decided in a period; breakdown act=, status= or outcome=.",
+  "kind": "count",
+  "rows": 17,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "employer_fines_imposed",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 24 misfiled row(s) to protection_enforcement_actions [count of fines in a money indicator]: o-003af0ae7d, o-091d4d8927, o-157e2c36e7, o-89f1a57432, o-e4a4d15ab5, o-2a3694c994, o-3486376046, o-1b582f1b5c, o-861444b321, o-828df59f55, o-acc60cbb03, o-28e968d785, o-331c316925, o-7c5771bf15, o-1a47c0deaf, o-d9a16b43f3, o-e1bc3f4317, o-bf299dcaa0, o-ecaf1d7b7c, o-1b9e26829d, o-0b64f3a952, o-ae183d7bf1, o-42de610003, o-e3fcb97343",
+  "definition": "Amount of fines or civil penalties imposed in a period by an authority on employers, firms or persons for breaching whistleblower-protection rules (identity protection, retaliation, impeding reporting such as SEC Rule 21F-17, internal reporting duties); breakdown item= names the target or the rule. Money only: the number of fines is in protection_enforcement_actions.",
+  "kind": "money",
+  "rows": 51,
+  "reason": "Kept as money only; 24 rows counting fines (unit fines) moved to protection_enforcement_actions, which counts such actions. Definition widened to cover the SEC Rule 21F-17 penalties it already holds."
+ },
+ {
+  "indicator": "enforcement_matters",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Cases or matters opened, closed or pending in a period at the agency or division that enforces a whistleblower reward law, counting all its cases, whistleblower-initiated or not; breakdown item= opened, closed, pending (or another status the source names).",
+  "kind": "count",
+  "rows": 34,
+  "reason": "Distinct (all matters of an enforcing unit)."
+ },
+ {
+  "indicator": "enforcement_share_whistleblower",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of an agency's enforcement matters or open investigations that involve or originate with whistleblowers, as the source states it; breakdown item= for the base.",
+  "kind": "share",
+  "rows": 2,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "enquiries_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 18 misfiled row(s) to tips_share [percentage in a count/money indicator]: o-81297b2ac3, o-651e0e2e7f, o-83f8da0fdf, o-9e22a43e5e, o-2857b248b6, o-b8ffae7804, o-71529433a0, o-8ab3d50d7b, o-5425fa919b, o-ca70f9202b, o-2acdfec413, o-36101dfcc5, o-2b668a28fa, o-1b716548cb, o-a5c4ee6b40, o-c0e9974780, o-116d0af550, o-bdec334cc5",
+  "definition": "Contacts with a whistleblower authority or programme that are not tips: counselling and guidance requests, helpline calls, emails, chat registrations, in a period (unit says consultations, calls, emails or persons; breakdown channel=; stat= for a monthly average or extreme). Excludes tips and reports (tips_received) and percentages (tips_share, stage=enquiry).",
+  "kind": "count",
+  "rows": 443,
+  "reason": "Kept; 18 percentage rows (Korean counselling by channel) moved to tips_share with stage=enquiry."
+ },
+ {
+  "indicator": "exam_assessment_per_hour",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Tax assessed (net of refunds) per hour worked on closed examinations associated with whistleblower claims, in a period, as computed by the source; breakdown function= gives the examination programme.",
+  "kind": "rate",
+  "rows": 25,
+  "reason": "Distinct; a money-per-hour rate."
+ },
+ {
+  "indicator": "exam_no_change_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of closed examinations (or examination modules) associated with whistleblower claims that closed with no additional tax assessed, in a period; breakdown function= gives the examination programme.",
+  "kind": "share",
+  "rows": 20,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "exchequer_yield_forecast",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Official forecast of the extra net tax revenue a reward measure is expected to bring in a future year (e.g. a costing certified by a fiscal council). Always status projection. Excludes money actually collected (collections_attributable).",
+  "kind": "money",
+  "rows": 6,
+  "reason": "Distinct (a policy costing, not an outturn)."
+ },
+ {
+  "indicator": "fca_non_qui_tam_matters_opened",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "New False Claims Act matters opened by the government itself (referrals and investigations not started by a whistleblower suit) in a period, as counted by the DOJ Civil Division ('New matters - non qui tam'); breakdown agency=. Context for qui tam suits, which are counted in tips_received.",
+  "kind": "count",
+  "rows": 470,
+  "reason": "Distinct context series (government-initiated matters)."
+ },
+ {
+  "indicator": "fund_balance",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Balance of a dedicated fund or account that pays awards (e.g. SEC Investor Protection Fund, CFTC Customer Protection Fund) at a date; breakdown item= when the source gives a specific balance line (total assets, net position, separate account), agency= for multi-agency programmes.",
+  "kind": "money",
+  "rows": 68,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "fund_deposits",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money deposited into or credited to a dedicated reward fund in a period (collected sanctions, released sequestration); breakdown item= for a named deposit.",
+  "kind": "money",
+  "rows": 43,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "fund_earnings",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Earnings on investments of a dedicated reward fund in a period.",
+  "kind": "money",
+  "rows": 31,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "fund_other_payments",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money paid, incurred, transferred or sequestered from a dedicated reward fund in a period for anything other than awards (customer education, administrative expenses, Inspector General, sequestration, transfers); breakdown item= says which and whether paid or unpaid. Excludes awards (awards_paid_amount).",
+  "kind": "money",
+  "rows": 77,
+  "reason": "Kept; definition names sequestration and transfers, which the rows already hold."
+ },
+ {
+  "indicator": "individuals_awarded",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 49 misfiled row(s) to awards_share [percentage in a count/money indicator]: o-42cf790f1e, o-d7d7924903, o-2e2e38824c, o-25895583d0, o-0f83c4220d, o-8aef91aabf, o-01eaa4beb3, o-c8a4aee75e, o-d79878d3a9, o-2015aaf8a7, o-3e52cd220f, o-bd5899dd28, o-2cbd719112, o-02d2c576a9, o-50c85f0443, o-e926c5d494, o-193ca8405e, o-662b2e0a1b, o-9f3ff6476d, o-2fe277b419, o-f6dbef61c6, o-64c4a49dc4, o-e780d19716, o-8f3d24b955, o-44641b9104, o-b7ed085ded, o-fe605e7016, o-9414308820, o-4686b447ec, o-e636893e6d, o-fb84bbe99e, o-9582ba08ce, o-0044009fd1, o-bff16342e3, o-9a471528b9, o-f34f905bb9, o-688809fc33, o-f643200ee3, o-4cb5162aa3, o-2f4d9d83d0, o-2c2142766d, o-95e66ce474, o-e663a9d5b9, o-bcf63bcd20, o-b5108fdb65, o-95b8c41fb0, o-7f7dd80fb1, o-b95c996c05, o-e97d97b4ee",
+  "definition": "Number of distinct persons who received an award (money, or a state honour where item=state_honours) in a period or to date; breakdown item= for a subgroup. Excludes the number of awards (awards_paid_count) and percentages (awards_share, measure=recipients).",
+  "kind": "count",
+  "rows": 147,
+  "reason": "Kept; 49 percentage rows moved to awards_share. Korean state honours are non-monetary recognition; item=state_honours keeps them apart."
+ },
+ {
+  "indicator": "informant_contracts",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Reward contracts an agency has signed with informants (cumulative or in a period), where a reward requires a contract (Canada CRA OTIP).",
+  "kind": "count",
+  "rows": 4,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "investigations_opened",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Investigations or proceedings an authority opened (or prepared to open) in a period on information from whistleblowers or informants; breakdown item= says which channel or type.",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "investigations_refused",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Decisions in a period not to open an investigation or proceeding on information from whistleblowers; breakdown item= type of investigation.",
+  "kind": "count",
+  "rows": 6,
+  "reason": "Distinct (refusals, the counterpart of investigations_opened)."
+ },
+ {
+  "indicator": "max_award_presumption_rate",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of eligible award determinations in which an agency applied its presumption of the statutory maximum award, in a period, as printed by the source.",
+  "kind": "share",
+  "rows": 5,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "notices_of_covered_action",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Notices of Covered Action a programme posts in a period or to date: enforcement actions whose sanctions pass the award threshold, opening a window for award claims (SEC, CFTC, NHTSA).",
+  "kind": "count",
+  "rows": 32,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "notices_to_whistleblowers",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 6 misfiled row(s) to timeliness_share [percentage in a count/money indicator]: o-87ae6428b5, o-a4dbc823c5, o-e141baef5b, o-cb43903a4a, o-e03e75a6f7, o-a18be1cad8",
+  "definition": "Notices or letters a programme sent to whistleblowers about their claim in a period (e.g. IRS Taxpayer First Act notices: referral for audit, payment of tax, status and stage letters; late payment notifications), breakdown item= says which, delay= for lateness; also claims with whistleblower requests for a status letter (item=status_and_stage_requests_..., unit claims). Excludes the share sent on time (timeliness_share).",
+  "kind": "count",
+  "rows": 40,
+  "reason": "Kept; 6 'percent timely' rows moved to timeliness_share."
+ },
+ {
+  "indicator": "preliminary_award_letters",
+  "action": "merge",
+  "target": "preliminary_determinations",
+  "row_changes": "breakdown add item=preliminary_award_recommendation_letters",
+  "definition": "Preliminary award recommendation letters (IRS PARLs) issued in a period.",
+  "kind": "count",
+  "rows": 1,
+  "reason": "A PARL is the IRS form of a preliminary determination on an award claim; item=preliminary_award_recommendation_letters keeps the IRS letters apart."
+ },
+ {
+  "indicator": "preliminary_determinations",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Preliminary decisions a programme issued on award claims in a period, before the final order, as the source counts them (unit determinations, claims or letters); breakdown item= says which: award_recommended, denial_recommended, preliminary_summary_dispositions, preliminary_award_recommendation_letters (IRS PARLs) or all. Excludes final orders (claims_closed).",
+  "kind": "count",
+  "rows": 6,
+  "reason": "Kept; absorbs preliminary_award_letters."
+ },
+ {
+  "indicator": "processing_time",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 2 misfiled row(s) to timeliness_share [percentage in a count/money indicator]: o-31a8877d1e, o-19badc1d72; move 33 misfiled row(s) to claims_time_in_status [time in current status of open claims]: o-b1bce6f94f, o-cc46ca2e43, o-6ab5fac4b0, o-ccca796a42, o-ae64cddafd, o-c465bb9b30, o-4e574720e9, o-7929b4660f, o-b6e0f0fd29, o-1b876efbcd, o-f76da16c62, o-475cb0afc9, o-dd98b9604c, o-07f9803851, o-dc4088825e, o-0d9716ef60, o-56139afcf0, o-e30b3a9e61, o-ca06cb3465, o-ddeeb3be40, o-5db06f709f, o-ee51a83df9, o-cdeb0dbeb1, o-103b328a22, o-3feda1bfe7, o-6099fff06e, o-ffba36be40, o-140dc766b7, o-014ba52acf, o-236ffe7ae7, o-95d02f55a7, o-4840b8c7a4, o-853c7c4099",
+  "definition": "Time a programme takes to handle claims, in the unit printed (days, months or years; value_high for a range): from receipt to award decision, payment or closure, or for one stage (item= or step= names the stage, reason= the closure reason); stat= for average (default), typical, shortest, longest or maximum. Statements of typical duration in guidance are status as given. Excludes the time open claims have spent in their current status (claims_time_in_status) and the share processed within a target (timeliness_share). Never converted.",
+  "kind": "duration",
+  "rows": 313,
+  "reason": "Kept with a definition covering stage times, which most rows are. Moved out: 33 'longest days in current status' rows to claims_time_in_status, 2 percentage rows to timeliness_share."
+ },
+ {
+  "indicator": "programme_operating_cost",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money spent or expected to be spent on administering a whistleblower programme (staff, IT, outreach) in a period, excluding the awards themselves; status budget or projection for plans and estimates.",
+  "kind": "money",
+  "rows": 4,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "programme_staff",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "People working in a whistleblower or award office at a date, or its authorised or needed staffing level, as the source counts them (unit persons or FTE); breakdown item= says which (unit, role, start/end of year).",
+  "kind": "count",
+  "rows": 80,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "protected_status_granted",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 2 misfiled row(s) to protection_share [percentage in a count/money indicator]: o-eb558dfbf8, o-1a7b61bdad",
+  "definition": "Whistleblowers (or statuses) granted formal protected status in a period (e.g. Slovak 'status chráneného oznamovateľa'); breakdown granted_by= or assisted_by=. Excludes percentages (protection_share).",
+  "kind": "count",
+  "rows": 15,
+  "reason": "Kept; 2 percentage rows moved to protection_share."
+ },
+ {
+  "indicator": "protection_enforcement_actions",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Enforcement actions or sanctions (actions, proceedings, fines) an authority brought or imposed in a period or to date for breaching whistleblower protections: impeding reporting (e.g. SEC Rule 21F-17), retaliation, breaching a whistleblower's identity protection, failing internal-reporting duties; breakdown item= gives the breach. Unit says actions or fines. The amounts are in employer_fines_imposed.",
+  "kind": "count",
+  "rows": 22,
+  "reason": "Kept; receives the 24 rows counting fines (Korea identity-protection fines, Slovakia) from employer_fines_imposed, which is money."
+ },
+ {
+  "indicator": "protection_requests",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 10 misfiled row(s) to protection_share [percentage in a count/money indicator]: o-f093d0bced, o-657490fd56, o-9bfc9484ed, o-c4d0320efa, o-701798c0e0, o-2ebdd56fe2, o-633ea63479, o-7cd5f37cd1, o-74377c057f, o-caddb79339",
+  "definition": "Requests by whistleblowers (or witnesses) for a protective measure (guarantee of position, physical protection, confidentiality, suspension of an employer's act, protected status) received or handled in a period; breakdown measure= and outcome=. Unit requests (or an annual average, unit 'requests per year'). Excludes acceptance rates (protection_share).",
+  "kind": "count",
+  "rows": 1327,
+  "reason": "Kept; 10 percentage rows (acceptance rates) moved to protection_share."
+ },
+ {
+  "indicator": "protection_support_provided",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Whistleblowers given support by an authority in a period: psychological or career support, state-guaranteed legal aid (measure=secondary_legal_aid), or relief payments for costs and damages (measure=relief_payment, unit cases); unit=sessions for sessions held. The money paid as relief is in relief_paid.",
+  "kind": "count",
+  "rows": 8,
+  "reason": "Kept; receives the 4 rows counting relief payments from relief_paid, which is money."
+ },
+ {
+  "indicator": "protective_measures_taken",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Protective measures an authority took for whistleblowers in a period on its own initiative (e.g. preventive measures before any retaliation), as the source counts them; breakdown item=. Excludes measures requested by whistleblowers (protection_requests).",
+  "kind": "count",
+  "rows": 10,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "public_awareness",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of the public that knows of a whistleblower protection or reward system, from a survey, as printed by the source.",
+  "kind": "share",
+  "rows": 12,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "qui_tam_suits_filed",
+  "action": "merge",
+  "target": "tips_received",
+  "row_changes": "",
+  "definition": "New False Claims Act (or similar) lawsuits filed by whistleblowers (relators) in a period.",
+  "kind": "count",
+  "rows": 497,
+  "reason": "A qui tam suit is how a whistleblower submits information to a False Claims Act programme; DOJ counts them as qui tam matters received. Same concept as tips_received; unit cases and the programme id keep them identifiable."
+ },
+ {
+  "indicator": "recoveries_non_whistleblower_cases",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money recovered (settlements and judgments) under a whistleblower reward law in cases that did not start with a whistleblower (qui tam) suit, in a period; breakdown agency=. Context for collections_attributable. Series break at FY2020 (U.S. Attorneys' Offices matters added).",
+  "kind": "money",
+  "rows": 469,
+  "reason": "Distinct context series."
+ },
+ {
+  "indicator": "recoveries_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of a money total (all recoveries under a law, or proceeds collected in whistleblower cases) in a period that falls in a category (industry, agency, origin such as category=qui_tam, legal basis, time slice), as printed by the source.",
+  "kind": "share",
+  "rows": 9,
+  "reason": "Kept with a wider definition; receives 2 percentage rows from collections_attributable and 1 from recoveries_whistleblower_cases (category=qui_tam)."
+ },
+ {
+  "indicator": "recoveries_state_incentive",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money from Medicaid false-claims recoveries that a US state keeps instead of returning it to the federal government because its own false claims act qualifies under section 1909 of the Social Security Act, in a period.",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "recoveries_total",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "All money recovered by the government under a whistleblower reward law in a period (settlements and judgments), whistleblower cases or not; breakdown agency=, category=, recipient=.",
+  "kind": "money",
+  "rows": 659,
+  "reason": "Distinct (total, of which collections_attributable and recoveries_non_whistleblower_cases are the parts for the False Claims Act)."
+ },
+ {
+  "indicator": "recoveries_whistleblower_cases",
+  "action": "merge",
+  "target": "collections_attributable",
+  "row_changes": "move 1 misfiled row(s) to recoveries_share [percentage in a count/money indicator]: o-1d48a17697",
+  "definition": "Money recovered in cases brought or prompted by a whistleblower (qui tam), in a period.",
+  "kind": "money",
+  "rows": 1440,
+  "reason": "Same concept as collections_attributable (money recovered thanks to whistleblowers); only the programme differs, and the programme id carries that. Its one percentage row goes to recoveries_share."
+ },
+ {
+  "indicator": "relator_share_awards",
+  "action": "merge",
+  "target": "awards_paid_amount",
+  "row_changes": "",
+  "definition": "Money paid or awarded to relators as their share of qui tam recoveries in a period.",
+  "kind": "money",
+  "rows": 1434,
+  "reason": "Same concept as awards_paid_amount (money paid to whistleblowers as rewards); the programme id says it is a False Claims Act relator share."
+ },
+ {
+  "indicator": "relief_paid",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 4 misfiled row(s) to protection_support_provided [count in a money indicator]: o-328d3b6721, o-499bf851c6, o-a8147a1f61, o-0e321d36d0",
+  "definition": "Money paid to whistleblowers to reimburse costs or damages caused by reporting (medical, relocation, litigation, lost wages); not a reward. Money only: the number of payments is in protection_support_provided (measure=relief_payment).",
+  "kind": "money",
+  "rows": 9,
+  "reason": "Kept as money; 4 count rows moved to protection_support_provided."
+ },
+ {
+  "indicator": "respondents_sanctioned",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 3 misfiled row(s) to awards_share [percentage in a count/money indicator]: o-c0e164bc14, o-66c16eda43, o-06f6cc1b62",
+  "definition": "Respondents (persons, organisations) against whom enforcement action was taken in matters where whistleblower information contributed, in a period or to date, as the source counts them; breakdown item= for the action (indicted, disciplined, warned, fined). Excludes percentages (awards_share, measure=respondents).",
+  "kind": "count",
+  "rows": 248,
+  "reason": "Kept; 3 percentage rows moved to awards_share."
+ },
+ {
+  "indicator": "reward_funds_authorized",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Money a law authorises or appropriates for paying whistleblower or informant rewards in a period (always status budget).",
+  "kind": "money",
+  "rows": 3,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "sanctions_ordered",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Monetary sanctions (fines, disgorgement, additional charges, civil claims granted) ordered, not necessarily collected, in enforcement actions that used whistleblower information; breakdown item= for a component. Excludes money collected (collections_attributable).",
+  "kind": "money",
+  "rows": 62,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "settlements_judgments_count",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of settlements and judgments (resolved matters) a programme obtained in a period, whistleblower cases or not; breakdown category= for a subset.",
+  "kind": "count",
+  "rows": 13,
+  "reason": "Distinct."
+ },
+ {
+  "indicator": "supplemental_tips_per_tip",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Average number of supplemental submissions filed per original tip that was supplemented, as printed by the source.",
+  "kind": "rate",
+  "rows": 6,
+  "reason": "Distinct (a per-tip ratio)."
+ },
+ {
+  "indicator": "taxes_assessed_attributable",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Additional tax assessed or identified as owing in cases using whistleblowers' information, whether or not collected; breakdown item=, function=.",
+  "kind": "money",
+  "rows": 32,
+  "reason": "Distinct (assessment, not collection)."
+ },
+ {
+  "indicator": "tip_share",
+  "action": "merge",
+  "target": "tips_share",
+  "row_changes": "",
+  "definition": "Share of tips with a stated feature (FinCEN Table 4).",
+  "kind": "share",
+  "rows": 16,
+  "reason": "Same concept and name, one letter apart; item= already says the feature."
+ },
+ {
+  "indicator": "tip_source_countries",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Number of countries from which a programme received tips in a period or to date (unit countries).",
+  "kind": "count",
+  "rows": 22,
+  "reason": "Kept; receives one CFTC row (o-fb76ee1130, 64 countries) filed under tips_received."
+ },
+ {
+  "indicator": "tips_received",
+  "action": "keep",
+  "target": "",
+  "row_changes": "move 62 misfiled row(s) to tips_share [percentage in a count/money indicator]: o-648b866991, o-13afd91bd1, o-d04ac2712a, o-efd3f4c767, o-e39f0335b4, o-f9d800bd33, o-80eb221810, o-f9b7b58691, o-4bf3d071fd, o-088ea91d5a, o-45ea622910, o-ef14ae7eb8, o-242ae61e91, o-2dc8c20f5b, o-3ae5f89b9f, o-538ba9cdd5, o-cf21495300, o-6fa43b65f8, o-cf2654a6ac, o-8e10d85425, o-9ffcce404d, o-326e7bbf3d, o-4f3b023cdd, o-cf368ebd7c, o-c5513a6cc1, o-e2215b096e, o-8e81cb1128, o-5a30fa58d6, o-93f88bf0b7, o-c6fa35140a, o-26e23402d8, o-4bb3e53699, o-a4ac256872, o-6b04c855a6, o-17cb97b0df, o-f1d5addfec, o-933ff92fb7, o-61912805cd, o-9fc1b2edda, o-5e56fea5b3, o-0012664689, o-4777db4f17, o-6b99e82931, o-138c971cb5, o-8c95a0394d, o-abf4d31b99, o-c7bf780eb8, o-90b2fc1992, o-4cd055114f, o-b98a654271, o-43490241bc, o-b1d6a18c5e, o-5305cb4559, o-75fcd35cf2, o-3a544ef670, o-969c14ffef, o-2cb6b28241, o-5faf93195f, o-ca0a23620f, o-576211f517, o-3a265502ad, o-9a70243a34; move 1 misfiled row(s) to tip_source_countries [count of countries]: o-fb76ee1130",
+  "definition": "Tips, reports, submissions or claims whistleblowers filed with a programme in a period, as the source counts them; unit says what is counted: tips, reports, submissions, claims (IRS Form 211 claims), taxpayers named, cases (False Claims Act qui tam suits), or persons (distinct whistleblowers filing), and 'reports per month' for a printed monthly average. Breakdown category=, country=, region= etc. Excludes award applications (award_claims_received), enquiries (enquiries_received) and percentages (tips_share).",
+  "kind": "count",
+  "rows": 3919,
+  "reason": "Kept as the single 'submissions received' indicator; absorbs qui_tam_suits_filed and whistleblowers_filing and the IRS claims filed under award_claims_received. 62 percentage rows moved to tips_share; one count of countries moved to tip_source_countries."
+ },
+ {
+  "indicator": "tips_share",
+  "action": "keep",
+  "target": "",
+  "row_changes": "",
+  "definition": "Percentage of the enquiries, tips, reports, claims or cases a programme or whistleblower authority received or dealt with that have one feature or outcome, as printed by the source. The base is tips received unless stage= says otherwise (enquiry, handled, referred, open, closed); breakdown item=, category=, country=, outcome=, reason= etc. names the feature. Printed by the source, never calculated by us.",
+  "kind": "share",
+  "rows": 80,
+  "reason": "Kept as the share indicator for the tip and claim pipeline (as applicant_share in CBI); absorbs tip_share and the percentage rows from tips_received, claims_closed, claims_open, claims_referred_to_exam, cases_handled and enquiries_received."
+ },
+ {
+  "indicator": "whistleblowers_filing",
+  "action": "merge",
+  "target": "tips_received",
+  "row_changes": "",
+  "definition": "Distinct whistleblowers who filed submissions or award claims with a programme.",
+  "kind": "count",
+  "rows": 18,
+  "reason": "tips_received already counts filers with unit persons (757 rows); unit persons keeps these apart."
+ },
+ {
+  "indicator": "awards_share",
+  "action": "new",
+  "target": "",
+  "row_changes": "receives the percentage rows listed under the indicators they came from",
+  "definition": "Percentage of a programme's awards (measure=count), award money (measure=amount), award recipients (measure=recipients) or respondents in award cases (measure=respondents), in a period or to date, that have one feature (legal basis, reduced for delay, anonymous tip, reported internally first, foreign, individuals); breakdown item= or subsection= names the feature. Printed by the source, never calculated by us.",
+  "kind": "share",
+  "rows": 83,
+  "reason": "New. Percentages were filed in count and money indicators (awards_paid_count, awards_paid_amount, individuals_awarded, respondents_sanctioned), mixing kinds; one share indicator for awards, as tips_share is for tips."
+ },
+ {
+  "indicator": "protection_share",
+  "action": "new",
+  "target": "",
+  "row_changes": "receives the percentage rows listed under the indicators they came from",
+  "definition": "Percentage of whistleblower protection requests (default) or protected statuses granted (stage=status_granted) that have one outcome or feature: acceptance rate (outcome=acceptance_rate), granting body (granted_by=). Printed by the source.",
+  "kind": "share",
+  "rows": 12,
+  "reason": "New. Acceptance rates and shares were filed in protection_requests and protected_status_granted, which are counts."
+ },
+ {
+  "indicator": "timeliness_share",
+  "action": "new",
+  "target": "",
+  "row_changes": "receives the percentage rows listed under the indicators they came from",
+  "definition": "Percentage of claims processed, or notices to whistleblowers issued, within a statutory or internal time limit in a period; breakdown item= names the step or notice (stat=timely). Printed by the source.",
+  "kind": "share",
+  "rows": 8,
+  "reason": "New. Shares meeting a deadline were filed in processing_time (a duration) and notices_to_whistleblowers (a count)."
+ }
+]

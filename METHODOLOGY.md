@@ -281,7 +281,15 @@ as breakdown keys (`applicant=`, `permit_type=`, `measure=goal`...), no values c
 `processing_time` (days, weeks, months as printed; goals marked `measure=goal`), one `residence_permits_valid`
 (investor and family permits as `applicant=`), one `applicant_share`. The review map is in
 `topics/cbi/reports/indicator-review-2026-10-09.json`. Rows the review found misfiled (e.g. bond counts in a money
-indicator) are queued as corrections to existing data. Whistleblowing indicators: not yet reviewed.
+indicator) are queued as corrections to existing data.
+
+**Applied to whistleblowing (2026-10-10).** All 73 indicators reviewed: 63 kept with plain definitions and kinds, 9
+merged, 1 renamed, 3 added, leaving 67 (map: `topics/whistleblowing/reports/indicator-review-2026-10-10.json`).
+3,515 rows moved by merges and renames, with breakdown keys keeping the distinctions (no new disagreements appeared).
+485 percentages filed in count or money indicators moved to share indicators (each checked: unit percent). 167 other
+misfiled rows (IRS claims, longest days in status, counts of fines, single highest awards) go through the decision 12
+check before moving. The review needs a decision on the three large False Claims Act merges (relator shares into
+awards paid, qui tam recoveries into collections attributable, qui tam suits into tips received): applied, reversible.
 
 ### 12. Correcting existing data (decided 2026-10-09)
 

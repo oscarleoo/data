@@ -1,0 +1,36 @@
+{
+ "slug": "indicator-review",
+ "researched_on": "2026-10-10",
+ "summary": "New indicator ids from the whistleblowing indicator review (decision 11).",
+ "observations": [],
+ "new_indicators": [
+  {
+   "indicator": "awards_share",
+   "name": "Awards share",
+   "definition": "Percentage of a programme's awards (measure=count), award money (measure=amount), award recipients (measure=recipients) or respondents in award cases (measure=respondents), in a period or to date, that have one feature (legal basis, reduced for delay, anonymous tip, reported internally first, foreign, individuals); breakdown item= or subsection= names the feature. Printed by the source, never calculated by us.",
+   "unit_kind": "share",
+   "notes": "Created by the indicator review (decision 11)."
+  },
+  {
+   "indicator": "protection_share",
+   "name": "Protection share",
+   "definition": "Percentage of whistleblower protection requests (default) or protected statuses granted (stage=status_granted) that have one outcome or feature: acceptance rate (outcome=acceptance_rate), granting body (granted_by=). Printed by the source.",
+   "unit_kind": "share",
+   "notes": "Created by the indicator review (decision 11)."
+  },
+  {
+   "indicator": "timeliness_share",
+   "name": "On-time share",
+   "definition": "Percentage of claims processed, or notices to whistleblowers issued, within a statutory or internal time limit in a period; breakdown item= names the step or notice (stat=timely). Printed by the source.",
+   "unit_kind": "share",
+   "notes": "Created by the indicator review (decision 11)."
+  },
+  {
+   "indicator": "award_size",
+   "name": "Award size",
+   "definition": "Size of a single award as printed by the source: the average award per approved application, rewarded case or award (default, or stat=average), or the highest or lowest single award in a period (stat=highest, stat=lowest). Excludes totals paid (awards_paid_amount) and awards as a share of recoveries (award_rate_average).",
+   "unit_kind": "money",
+   "notes": "Created by the indicator review (decision 11)."
+  }
+ ]
+}
