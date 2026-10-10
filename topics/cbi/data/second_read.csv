@@ -18691,3 +18691,63 @@ o-8740e14ce9,71,,1,Grand Total,PDF p. 1,row 39 Antiguan And Barbudan: 71,medium,
 o-0e82dc7073,65,,1,Grand Total,PDF p. 1,row 40 Republic of South Africa: 65,medium,"Cells read in the row (4,3,19,18,8,2,1) add to 55, printed total is 65 (first digit 6, blurry; table is sorted descending and neighbours are 71 and 65).",claude-sonnet-5,2026-10-10,1,no
 o-e6f911cc1e,55,,1,Grand Total,PDF p. 1,row 44 Finland: 55,medium,"Cells read in the row (1,1,30,17,3,2) add to 54, printed total is 55.",claude-sonnet-5,2026-10-10,1,no
 o-b257b144ff,15,,1,Grand Total,PDF p. 2,row 62 Lietuvos Respublikos: 15,medium,"Cells read in the row (1 under Platinum, 6,6,6 under ESE/EEA/EFE) add to 19, printed total is 15; total digits clear at high zoom. Page is PDF p. 2.",claude-sonnet-5,2026-10-10,1,no
+o-e5b7910cb4,$0.87,,million,,PDF p. 85,$0.87,high,,claude-sonnet-5,2026-10-10,1,no
+o-90261e346c,$0.71,,million,,PDF p. 85,$0.71,high,,claude-sonnet-5,2026-10-10,1,no
+o-28421f5b41,$2.44,,million,,PDF p. 86,$2.44,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-f5b1744d6e,$0.86,,million,,PDF p. 86,$0.86,high,,claude-sonnet-5,2026-10-10,1,no
+o-39ce538afb,$2.34,,million,,PDF p. 86,$2.34,high,,claude-sonnet-5,2026-10-10,1,no
+o-4d78d2a533,$6.85,,million,,PDF p. 86,$6.85,high,,claude-sonnet-5,2026-10-10,1,no
+o-88c0c27c50,$1.84,,million,,PDF p. 84,$1.84,high,,claude-sonnet-5,2026-10-10,1,no
+o-4f520abc74,$9.51,,million,,PDF p. 86,$9.51,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-02f015784b,$1.87,,million,,PDF p. 83,$1.87,high,,claude-sonnet-5,2026-10-10,1,no
+o-79dd62d279,$5.62,,million,,PDF p. 85,$5.62,high,,claude-sonnet-5,2026-10-10,1,no
+o-8f05ffc13c,$34.92,,million,,PDF p. 84,$34.92,high,,claude-sonnet-5,2026-10-10,1,no
+o-23a962f0cc,$38.54,,million,,PDF p. 84,$38.54,high,,claude-sonnet-5,2026-10-10,1,no
+o-c02cce7037,$2.71,,million,,PDF p. 85,$2.71,high,,claude-sonnet-5,2026-10-10,1,no
+o-9a503a665f,$12.39,,million,,PDF p. 85,$12.39,high,,claude-sonnet-5,2026-10-10,1,no
+o-171a235fe2,$1.87,,million,,PDF p. 83,$1.87,high,,claude-sonnet-5,2026-10-10,1,no
+o-122001b13a,$1.48,,million,,PDF p. 85,$1.48,high,,claude-sonnet-5,2026-10-10,1,no
+o-65ee0d3e1b,$8.70,,million,,PDF p. 83,$8.70,high,,claude-sonnet-5,2026-10-10,1,no
+o-d71e289905,$0.82,,million,,PDF p. 84,$0.82,high,,claude-sonnet-5,2026-10-10,1,no
+o-f0f49b10d8,$41.32,,million,,PDF p. 86,$41.32,high,,claude-sonnet-5,2026-10-10,1,no
+o-a34093ef24,$13.71,,million,,PDF p. 86,$13.71,high,,claude-sonnet-5,2026-10-10,1,no
+o-c00f881290,$0.74,,million,,PDF p. 85,$0.74,high,,claude-sonnet-5,2026-10-10,1,no
+o-517ecaa7eb,$7.78,,million,,PDF p. 85,$7.78,high,,claude-sonnet-5,2026-10-10,1,no
+o-dc7f3a5e24,$0.91,,million,,PDF p. 83,$0.91,high,,claude-sonnet-5,2026-10-10,1,no
+o-acd62c88f8,$1.53,,million,,PDF p. 86,$1.53,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-11d5943ea2,$33.93,,million,,PDF p. 84,$33.93,high,,claude-sonnet-5,2026-10-10,1,no
+o-95e15e15fa,$13.95,,million,,PDF p. 85,$13.95,high,,claude-sonnet-5,2026-10-10,1,no
+o-06ac7f3f0c,$1.99,,million,,PDF p. 86,$1.99,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-8986dae109,$59.80,,million,,PDF p. 85,$59.80,high,,claude-sonnet-5,2026-10-10,1,no
+o-190a6baabd,$1.09,,million,,PDF p. 86,$1.09,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-a2b50c737e,$47.75,,million,,PDF p. 86,$47.75,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-7db38b73a3,$87.36,,million,,PDF p. 85,$87.36,high,,claude-sonnet-5,2026-10-10,1,no
+o-fb7dc54dac,$0.81,,million,,PDF p. 84,$0.81,high,,claude-sonnet-5,2026-10-10,1,no
+o-51653ede52,$3.66,,million,,PDF p. 85,$3.66,high,,claude-sonnet-5,2026-10-10,1,no
+o-9885e2fd8d,$12.58,,million,,PDF p. 84,$12.58,high,,claude-sonnet-5,2026-10-10,1,no
+o-d6802d9ed1,$64.40,,million,,PDF p. 86,$64.40,high,,claude-sonnet-5,2026-10-10,1,no
+o-58b0aa319d,$1.25,,million,,PDF p. 86,$1.25,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-936eb9990e,$57.33,,million,,PDF p. 85,$57.33,high,,claude-sonnet-5,2026-10-10,1,no
+o-de7db3a5b6,$9.31,,million,,PDF p. 83,$9.31,high,,claude-sonnet-5,2026-10-10,1,no
+o-bd21b5314e,$66.77,,million,,PDF p. 86,$66.77,high,,claude-sonnet-5,2026-10-10,1,no
+o-8d7bb0ca45,$1.09,,million,,PDF p. 86,$1.09,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-d4a947ff2c,$1.06,,million,,PDF p. 84,$1.06,high,,claude-sonnet-5,2026-10-10,1,no
+o-4408952847,$46.80,,million,,PDF p. 85,$46.80,high,,claude-sonnet-5,2026-10-10,1,no
+o-995706725d,$26.49,,million,,PDF p. 86,$26.49,high,,claude-sonnet-5,2026-10-10,1,no
+o-704d7ad6f8,$0.79,,million,,PDF p. 84,$0.79,high,,claude-sonnet-5,2026-10-10,1,no
+o-75dd5768d1,$8.84,,million,,PDF p. 87,$8.84,high,,claude-sonnet-5,2026-10-10,1,no
+o-2df11342d7,$73.30,,million,,PDF p. 84,$73.30,high,,claude-sonnet-5,2026-10-10,1,no
+o-eca721ad53,$0.48,,million,,PDF p. 84,$0.48,high,,claude-sonnet-5,2026-10-10,1,no
+o-02d8d56c0f,$13.81,,million,,PDF p. 86,$13.81,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-5fa41afafd,$1.34,,million,,PDF p. 83,$1.34,high,,claude-sonnet-5,2026-10-10,1,no
+o-95de78f35c,$1.58,,million,,PDF p. 86,$1.58,high,,claude-sonnet-5,2026-10-10,1,no
+o-c926254315,$24.87,,million,,PDF p. 83,$24.87,high,,claude-sonnet-5,2026-10-10,1,no
+o-9955c9c0a3,$55.95,,million,,PDF p. 86,$55.95,high,,claude-sonnet-5,2026-10-10,1,no
+o-2bcb73306f,$58.63,,million,,PDF p. 85,$58.63,high,,claude-sonnet-5,2026-10-10,1,no
+o-d35753ca4b,$0.00,,million,,PDF p. 84,$0.00,high,,claude-sonnet-5,2026-10-10,1,no
+o-4882475d19,$0.96,,million,,PDF p. 86,$0.96,high,,claude-sonnet-5,2026-10-10,1,no
+o-685b889c79,$1.350,,million,,PDF p. 85,$1.350,medium,"Printed '$1.350' (three decimals) in the FY2033 row; the Site visits cell in the same row prints $1.10, which does not add to the printed total $81.90 (1.99 would), so the row has a printing irregularity.",claude-sonnet-5,2026-10-10,1,no
+o-453babe5fb,$1.57,,million,,PDF p. 85,$1.57,high,,claude-sonnet-5,2026-10-10,1,no
+o-f46d8de31e,$1.17,,million,,PDF p. 86,$1.17,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-4abdbde9eb,$0.91,,million,,PDF p. 86,$0.91,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
+o-5a2070aabd,$1.00,,million,,PDF p. 84,$1.00,high,,claude-sonnet-5,2026-10-10,1,no
