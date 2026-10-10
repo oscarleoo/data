@@ -18102,3 +18102,592 @@ o-42c5bea077,2,,1,agents,PDF p. 17,The next 2 successful Agents in the group had
 o-5869608bdd,16,,1,cases,PDF p. 22,the Agency has reported 16 cases,high,Suspicion of money laundering reported to FIAU,claude-sonnet-5,2026-10-10,1,no
 o-2cfecd5368,25,,1,agents,PDF p. 17,25 different Agents were engaged by the Main Applicants,high,,claude-sonnet-5,2026-10-10,1,no
 o-41da60edaa,119,,1,Number of Donations,PDF p. 52,"2023 119 €1,083,125",high,,claude-sonnet-5,2026-10-10,1,no
+o-d1651f89e7,16.6%,,1,"% row, column 354 CBI Administrative Expenses",PDF p. 8,"354 CBI Administrative Expenses ... 101,714,030 | 16.6%",high,"Image table rotated; % row at bottom, object 354 band; total 101,714,030",claude-sonnet-5,2026-10-10,1,no
+o-8ca61f1553,+220%,,1,"Economic impact per year chart, change label 2012-13",PDF p. 29,€1.2 +220% €3.7,high,,claude-sonnet-5,2026-10-10,1,no
+o-1818992634,+63%,,1,"Economic impact per year chart, change label 2013-14",PDF p. 29,€3.7 +63% €6.0,high,,claude-sonnet-5,2026-10-10,1,no
+o-69013f1c3f,+169%,,1,"Economic impact per year chart, change label 2014-15",PDF p. 29,€6.0 +169% €16.2,high,,claude-sonnet-5,2026-10-10,1,no
+o-11da03d595,+291%,,1,"Economic impact per year chart, change label 2015-16",PDF p. 29,€16.2 +291% €63.5,high,,claude-sonnet-5,2026-10-10,1,no
+o-bfdd03d0ee,-3%,,1,"Economic impact per year chart, change label 2016-17 (red arrow)",PDF p. 29,€63.5 -3% €61.4,high,,claude-sonnet-5,2026-10-10,1,no
+o-c58515ed61,+15%,,1,"Economic impact per year chart, change label 2017-18",PDF p. 29,€61.4 +15% €70.9,high,,claude-sonnet-5,2026-10-10,1,no
+o-bc80a7bfe6,3.7,,million,2013 bar,PDF p. 29,€3.7,high,printed as €3.7 (millions),claude-sonnet-5,2026-10-10,1,no
+o-dcbb0cda72,11%,,1,Business services slice,PDF p. 28,Business services 11%,high,,claude-sonnet-5,2026-10-10,1,no
+o-5f289b0518,12%,,1,Finance slice,PDF p. 28,Finance 12%,high,,claude-sonnet-5,2026-10-10,1,no
+o-cb95736bc0,20%,,1,"Leisure, culture & tourism slice",PDF p. 28,"Leisure, culture & tourism 20%",high,,claude-sonnet-5,2026-10-10,1,no
+o-a44ef854b7,29%,,1,Construction slice,PDF p. 28,Construction 29%,high,,claude-sonnet-5,2026-10-10,1,no
+o-818cf9847a,29%,,1,Health & Social Work slice,PDF p. 28,Health & Social Work 29%,high,,claude-sonnet-5,2026-10-10,1,no
+o-4c1761b7df,30%,,1,"IIP composition pie, Health & Social Work",PDF p. 27,Health & Social Work 30%,high,,claude-sonnet-5,2026-10-10,1,no
+o-33667c90d7,30%,,1,"IIP composition pie, Construction",PDF p. 27,Construction 30%,high,,claude-sonnet-5,2026-10-10,1,no
+o-6cb32ae7c6,20%,,1,"IIP composition pie, Leisure, Culture & Tourism",PDF p. 27,"Leisure, Culture & Tourism 20%",high,,claude-sonnet-5,2026-10-10,1,no
+o-d7b8161bc8,11%,,1,"IIP composition pie, Finance",PDF p. 27,Finance 11%,high,,claude-sonnet-5,2026-10-10,1,no
+o-05517e1e63,9%,,1,"IIP composition pie, Business Services",PDF p. 27,Business Services 9%,high,,claude-sonnet-5,2026-10-10,1,no
+o-4d651e9207,"2,258",,1,text,PDF p. 15,"may have led to the creation of 2,258 full time jobs, representing 69% of total jobs",high,,claude-sonnet-5,2026-10-10,1,no
+o-e23d808278,69%,,1,text,PDF p. 15,"2,258 full time jobs, representing 69% of total jobs",high,,claude-sonnet-5,2026-10-10,1,no
+o-2126d03efc,30%,,1,Recommendations text,PDF p. 20,30% of all IIP projects relate to construction,high,,claude-sonnet-5,2026-10-10,1,no
+o-6d240e4100,86%,,1,"Investment Options pie, Donations",PDF p. 6,DONATIONS 86%,high,,claude-sonnet-5,2026-10-10,1,no
+o-0c554197c7,14%,,1,"Investment Options pie, Bonds",PDF p. 6,BONDS 14%,high,,claude-sonnet-5,2026-10-10,1,no
+o-ee41d1e856,0%,,1,"Investment Options pie, Real Estate",PDF p. 6,REAL ESTATE 0%,high,,claude-sonnet-5,2026-10-10,1,no
+o-425911e23e,8%,,1,"Region pie, Asia",PDF p. 6,ASIA 8%,high,,claude-sonnet-5,2026-10-10,1,no
+o-e16534d9e8,68%,,1,"Region pie, MENA",PDF p. 6,MENA 68%,high,,claude-sonnet-5,2026-10-10,1,no
+o-8f9e7417ef,9%,,1,"Region pie, Russia",PDF p. 6,RUSSIA 9%,high,,claude-sonnet-5,2026-10-10,1,no
+o-4dd1a7e8bb,3%,,1,"Region pie, European Union",PDF p. 6,EUROPEAN UNION 3%,high,,claude-sonnet-5,2026-10-10,1,no
+o-c32fefa38b,6%,,1,"Region pie, Rest of Africa",PDF p. 6,REST OF AFRICA 6%,high,,claude-sonnet-5,2026-10-10,1,no
+o-6b1154c980,6%,,1,"Region pie, USA",PDF p. 6,USA 6%,high,,claude-sonnet-5,2026-10-10,1,no
+o-881bd1a636,6,,1,bar label by country of birth,PDF p. 6,LEBANON 6,high,,claude-sonnet-5,2026-10-10,1,no
+o-6a3b270cad,5,,1,bar label by country of birth,PDF p. 6,IRAN 5,high,,claude-sonnet-5,2026-10-10,1,no
+o-cc9ea35fc1,4,,1,bar label by country of birth,PDF p. 6,IRAQ 4,high,,claude-sonnet-5,2026-10-10,1,no
+o-4f7c4a38de,3,,1,bar label by country of birth,PDF p. 6,USA 3,high,,claude-sonnet-5,2026-10-10,1,no
+o-740e8a581d,2,,1,bar label by country of birth,PDF p. 6,SAUDI ARABIA 2,high,,claude-sonnet-5,2026-10-10,1,no
+o-dfeb83325d,2,,1,bar label by country of birth,PDF p. 6,CHINA 2,high,,claude-sonnet-5,2026-10-10,1,no
+o-3209f1df36,2,,1,bar label by country of birth,PDF p. 6,EGYPT 2,high,,claude-sonnet-5,2026-10-10,1,no
+o-bc6e42eb53,1,,1,bar label by country of birth,PDF p. 6,UKRAINE 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-9d54debb32,1,,1,bar label by country of birth,PDF p. 6,BULGARIA 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-899885e98a,1,,1,bar label by country of birth,PDF p. 6,ISRAEL 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-5ab1cac59e,1,,1,bar label by country of birth,PDF p. 6,ITALY 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-50c6a09181,1,,1,bar label by country of birth,PDF p. 6,JORDAN 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-9f6be214de,1,,1,bar label by country of birth,PDF p. 6,MALAYSIA 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-7536327c4e,1,,1,bar label by country of birth,PDF p. 6,MOROCCO 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-7885afcf42,1,,1,bar label by country of birth,PDF p. 6,PAKISTAN 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-ec83f5d048,1,,1,bar label by country of birth,PDF p. 6,RUSSIA 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-2dc37e0ca5,1,,1,bar label by country of birth,PDF p. 6,SOUTH AFRICA 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-6e51773836,1,,1,bar label by country of birth,PDF p. 6,SYRIA 1,high,,claude-sonnet-5,2026-10-10,1,no
+o-90c86d8277,1,,1,text,PDF p. 5,granted one (1) licence for an authorised agent,high,,claude-sonnet-5,2026-10-10,1,no
+o-efc8dbdcd5,9,,1,text,PDF p. 5,taking the total number of authorised agents to nine (9),high,,claude-sonnet-5,2026-10-10,1,no
+o-b78b7ed212,4,,1,1st Qtr (FY Apr-Mar so Apr-Jun 2016),PDF p. 11,1st Qtr 4,high,,claude-sonnet-5,2026-10-10,1,no
+o-82ec779147,10,,1,2nd Qtr,PDF p. 11,2nd Qtr 10,high,,claude-sonnet-5,2026-10-10,1,no
+o-c6fc86e513,2,,1,3rd Qtr,PDF p. 11,3rd Qtr 2,high,,claude-sonnet-5,2026-10-10,1,no
+o-ee94be59a0,20,,1,4th Qtr,PDF p. 11,4th Qtr 20,high,"1+2+... slices 4+10+2+20=36, matches text",claude-sonnet-5,2026-10-10,1,no
+o-a586619238,"$70,000.00",,1,1st Qtr,PDF p. 12,"$70,000.00",high,,claude-sonnet-5,2026-10-10,1,no
+o-44ad45bff8,"$120,000.00",,1,2nd Qtr,PDF p. 12,"$120,000.00",high,,claude-sonnet-5,2026-10-10,1,no
+o-d4f8da3ae9,"$25,000.00",,1,3rd Qtr,PDF p. 12,"$25,000.00",medium,"dark label on dark slice, zoomed crop",claude-sonnet-5,2026-10-10,1,no
+o-1da9929128,"$220,000.00",,1,4th Qtr,PDF p. 12,"$220,000.00",high,,claude-sonnet-5,2026-10-10,1,no
+o-0a071abbb3,350,,1,EXPECTED EMPLOYMENT,PDF p. 7,park_hyatt_saint_lucia 350,high,,claude-sonnet-5,2026-10-10,1,no
+o-98bbc310a5,297,,1,EXPECTED EMPLOYMENT,PDF p. 7,sunset_bay_resort_raffles_portalese_beach 297,high,,claude-sonnet-5,2026-10-10,1,no
+o-dbf94331e0,420,,1,EXPECTED EMPLOYMENT,PDF p. 7,the_regis_at_fond_bay 420,high,,claude-sonnet-5,2026-10-10,1,no
+o-b32717a7a0,200,,1,EXPECTED EMPLOYMENT,PDF p. 7,the_ridge_boutique_property 200,high,,claude-sonnet-5,2026-10-10,1,no
+o-c81802ba5a,160,,1,EXPECTED ROOM STOCK,PDF p. 7,park_hyatt_saint_lucia 160,high,,claude-sonnet-5,2026-10-10,1,no
+o-0dadab5eb7,120,,1,EXPECTED ROOM STOCK,PDF p. 7,sunset_bay_resort_raffles_portalese_beach 120,high,,claude-sonnet-5,2026-10-10,1,no
+o-e18edede2b,120,,1,EXPECTED ROOM STOCK,PDF p. 7,the_regis_at_fond_bay 120,high,,claude-sonnet-5,2026-10-10,1,no
+o-e917cd3853,70,,1,EXPECTED ROOM STOCK,PDF p. 7,the_ridge_boutique_property 70,high,,claude-sonnet-5,2026-10-10,1,no
+o-b0f298ae9f,"168,000,000",,1,GROSS DEVELOPMENT COST (USD),PDF p. 7,"park_hyatt_saint_lucia 168,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-bdd7e94b42,"16,800,000",,1,OWNER'S EQUITY (FDI) (USD),PDF p. 7,"park_hyatt_saint_lucia 16,800,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-0d7de23208,"151,200,000",,1,CIP FUNDING (USD),PDF p. 7,"park_hyatt_saint_lucia 151,200,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-20c4fb3f94,"220,200,000",,1,GROSS DEVELOPMENT COST (USD),PDF p. 7,"sunset_bay_resort_raffles_portalese_beach 220,200,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-8e79c24424,"66,000,000",,1,OWNER'S EQUITY (FDI) (USD),PDF p. 7,"sunset_bay_resort_raffles_portalese_beach 66,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-61cc9b44a5,"154,200,000",,1,CIP FUNDING (USD),PDF p. 7,"sunset_bay_resort_raffles_portalese_beach 154,200,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-bfd1712ba6,"108,000,000",,1,GROSS DEVELOPMENT COST (USD),PDF p. 7,"the_regis_at_fond_bay 108,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-acead55361,"64,800,000",,1,OWNER'S EQUITY (FDI) (USD),PDF p. 7,"the_regis_at_fond_bay 64,800,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-ca986c3316,"43,200,000",,1,CIP FUNDING (USD),PDF p. 7,"the_regis_at_fond_bay 43,200,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-ab0af08e35,"52,000,000",,1,GROSS DEVELOPMENT COST (USD),PDF p. 7,"the_ridge_boutique_property 52,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-a6f93949b8,"24,000,000",,1,OWNER'S EQUITY (FDI) (USD),PDF p. 7,"the_ridge_boutique_property 24,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-1e3940470e,"28,000,000",,1,CIP FUNDING (USD),PDF p. 7,"the_ridge_boutique_property 28,000,000",high,,claude-sonnet-5,2026-10-10,1,no
+o-6fda383582,"$376,600,000.00",,1,CIP Funding slice,PDF p. 8,"CIP Funding, $376,600,000.00, 69%",high,,claude-sonnet-5,2026-10-10,1,no
+o-56cce97d09,"$171,600,000.00",,1,FDI slice,PDF p. 8,"FDI, $171,600,000.00, 31%",high,,claude-sonnet-5,2026-10-10,1,no
+o-7e4738801a,31%,,1,FDI slice (owner equity share),PDF p. 8,"FDI, $171,600,000.00, 31%; CIP Funding 69%",medium,row definition not stated; FDI/owner equity share given. CIP funding share is 69%,claude-sonnet-5,2026-10-10,1,no
+o-011ab490ac,"(879,128)",,1,March 31 -2016,PDF p. 17,"Surplus/(Deficit) (879,128)",high,header says $('000) but text says deficit of EC$879k so figures are in units; deficit shown in brackets,claude-sonnet-5,2026-10-10,1,no
+o-ef988a55f6,"352,195",,1,March 31-2017,PDF p. 17,"Surplus/(Deficit) 352,195",high,"header says $('000) but text says EC$352K; arithmetic checks (2,116,512-1,764,317)",claude-sonnet-5,2026-10-10,1,no
+o-d42abd74ea,1.00,,1,text,PDF p. 21,A working capital ratio of 1.00 was achieved for the period.,high,,claude-sonnet-5,2026-10-10,1,no
+o-1b50ec1173,10.4,,thousand,text,PDF p. 21,Fixed assets acquired in the period amounted to EC$10.4k,high,,claude-sonnet-5,2026-10-10,1,no
+o-a9e26728a8,4,,thousand,text,PDF p. 21,Computers and IT Infrastructure being EC$4K,high,,claude-sonnet-5,2026-10-10,1,no
+o-27331da92e,8,,1,2016/17 (orange bar),PDF p. 17,8,medium,bar chart label; legend orange=2016/17,claude-sonnet-5,2026-10-10,1,no
+o-1d3e7fc46c,5,,1,2017/18 (blue bar),PDF p. 17,5,medium,bar chart label; legend blue=2017/18,claude-sonnet-5,2026-10-10,1,no
+o-077ae6993c,"1,304,876",,1,"March 31, 2017",PDF p. 27,"1,304,876",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-6d288845de,"13,376",,1,"March 31, 2017",PDF p. 27,"13,376",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-5291086655,"1,318,252",,1,"March 31, 2017",PDF p. 27,"1,318,252",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-36611a89e2,"606,580",,1,"March 31, 2017",PDF p. 27,"606,580",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-c2e213a105,"12,792",,1,"March 31, 2017",PDF p. 27,"12,792",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-d1213a6d8e,"619,372",,1,"March 31, 2017",PDF p. 27,"619,372",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-2e3f912173,"1,937,624",,1,"March 31, 2017",PDF p. 27,"1,937,624",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-6e87648870,"954,234",,1,"March 31, 2017",PDF p. 27,"954,234",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-1e2670c59c,"364,450",,1,"March 31, 2017",PDF p. 27,"364,450",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-b61a843bb6,"1,318,684",,1,"March 31, 2017",PDF p. 27,"1,318,684",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-e18f59e2d0,"445,500",,1,"March 31, 2017",PDF p. 27,"445,500",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-894318c339,"700,373",,1,"March 31, 2017",PDF p. 27,"700,373",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-780cc84c4f,"1,145,873",,1,"March 31, 2017",PDF p. 27,"1,145,873",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-b159e3250c,"2,464,557",,1,"March 31, 2017",PDF p. 27,"2,464,557",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-558506873a,"(526,933)",,1,"March 31, 2017",PDF p. 27,"(526,933)",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-2ea6d77771,"(526,933)",,1,"March 31, 2017",PDF p. 27,"(526,933)",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-64ef20b171,"1,937,624",,1,"March 31, 2017",PDF p. 27,"1,937,624",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-ee4b1bbe80,"11,467,394",,1,"March 31, 2018",PDF p. 27,"11,467,394",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-87970a847f,"4,244,250",,1,"March 31, 2018",PDF p. 27,"4,244,250",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-5c4b0f7a55,"15,711,644",,1,"March 31, 2018",PDF p. 27,"15,711,644",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-750e15c289,"399,785",,1,"March 31, 2018",PDF p. 27,"399,785",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-14fbd3e405,"6,118",,1,"March 31, 2018",PDF p. 27,"6,118",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-75306735b7,"405,903",,1,"March 31, 2018",PDF p. 27,"405,903",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-64f7b877f8,"16,117,547",,1,"March 31, 2018",PDF p. 27,"16,117,547",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-badf0efcb0,"9,533,309",,1,"March 31, 2018",PDF p. 27,"9,533,309",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-4734a23978,"696,279",,1,"March 31, 2018",PDF p. 27,"696,279",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-cc77bee715,"10,229,588",,1,"March 31, 2018",PDF p. 27,"10,229,588",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-ca1e3c7220,"283,500",,1,"March 31, 2018",PDF p. 27,"283,500",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-37c21f0384,"437,656",,1,"March 31, 2018",PDF p. 27,"437,656",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-3719eb04c6,"721,156",,1,"March 31, 2018",PDF p. 27,"721,156",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-2e0ad07ff7,"10,950,744",,1,"March 31, 2018",PDF p. 27,"10,950,744",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-44c0006ba7,"5,166,803",,1,"March 31, 2018",PDF p. 27,"5,166,803",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-4394abccb1,"5,166,803",,1,"March 31, 2018",PDF p. 27,"5,166,803",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-d167c995a9,"16,117,547",,1,"March 31, 2018",PDF p. 27,"16,117,547",high,"image page, OCR plus crop check; subtotals consistent (e.g. 15,711,644+405,903=16,117,547)",claude-sonnet-5,2026-10-10,1,no
+o-35c96f2ea7,-,,1,"March 31, 2018",PDF p. 40,Directors stipends  -  600,high,printed as dash (nil) for 2018; 600 is 2017,claude-sonnet-5,2026-10-10,1,no
+o-f4aa44fcc5,"1,109,846",,1,"March 31, 2018",PDF p. 42,"1,109,846",high,"total line under Directors stipends 124,100 and Salaries 985,746",claude-sonnet-5,2026-10-10,1,no
+o-a25466c8d2,"706,916",,1,"March 31, 2017",PDF p. 30,"Increase in accounts payable and accruals 8,579,075 706,916",high,,claude-sonnet-5,2026-10-10,1,no
+o-aa955d13d6,"405,233",,1,"March 31, 2017",PDF p. 30,"Cash and cash equivalents - beginning of year 1,304,876 405,233",high,,claude-sonnet-5,2026-10-10,1,no
+o-5eb54afc16,"11,467,394",,1,"March 31, 2018",PDF p. 30,"Cash and cash equivalents - end of year 11,467,394 1,304,876",high,,claude-sonnet-5,2026-10-10,1,no
+o-44c9d42419,"3,039,995",,1,"March 31, 2019",PDF p. 34,"3,039,995 4,251,716",high,unlabelled subtotal under Accrued expenses,claude-sonnet-5,2026-10-10,1,no
+o-3bd8e095c6,"13,350",,1,"Restated March 31, 2018",PDF p. 21,"Prepayments 24,569 13,350",high,,claude-sonnet-5,2026-10-10,1,no
+o-c0a1f8ef69,"3,817,244",,1,"March 31, 2019",PDF p. 21,"3,817,244 6,544,088",high,unlabelled subtotal of current liabilities,claude-sonnet-5,2026-10-10,1,no
+o-b64f5457f7,"(3,685,500)",,1,Effect on 2018,PDF p. 39,"Decrease in programme costs (3,685,500)",high,,claude-sonnet-5,2026-10-10,1,no
+o-e28d065cb3,"60,029",,1,"Computer Equipment, closing NBV at March 31, 2019",PDF p. 32,"Closing net book value - 128,757 60,029 188,786",high,,claude-sonnet-5,2026-10-10,1,no
+o-6821c15c91,4,,1,map label,PDF p. 22,map label 4 on CAN,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-68d6e2f612,30,,1,map label,PDF p. 22,map label 30 on USA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-47e362d35b,1,,1,map label,PDF p. 22,map label 1 on FRA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-77e673a3bd,1,,1,map label,PDF p. 22,map label 1 on DEU,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-5fe88f7b4c,17,,1,map label,PDF p. 22,map label 17 on RUS,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-63e8dbe33a,129,,1,map label,PDF p. 22,map label 129 on CHN,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-a6c7eef329,2,,1,map label,PDF p. 22,map label 2 on AFG,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-85015f3472,9,,1,map label,PDF p. 22,map label 9 on IND,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-e4f370dff3,3,,1,map label,PDF p. 22,map label 3 on DZA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-df82fd9a45,4,,1,map label,PDF p. 22,map label 4 on EGY,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-0d86b15057,2,,1,map label,PDF p. 22,map label 2 on SAU,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-a755530ebe,48,,1,map label,PDF p. 22,map label 48 on NGA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-68cfb265ff,1,,1,map label,PDF p. 22,map label 1 on ETH,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-b55fbd462c,1,,1,map label,PDF p. 22,map label 1 on COD,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-c47c1a7ec4,4,,1,map label,PDF p. 22,map label 4 on ZAF,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-8d11cab3a9,1,,1,map label,PDF p. 22,map label 1 on BRA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-aed6043c67,4,,1,map label,PDF p. 20,map label 4 on CAN,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-6dcd311b12,40,,1,map label,PDF p. 20,map label 40 on USA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-6c71530738,1,,1,map label,PDF p. 20,map label 1 on SWE,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-9dfc99421c,27,,1,map label,PDF p. 20,map label 27 on RUS,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-6aec9bfa05,156,,1,map label,PDF p. 20,map label 156 on CHN,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-2c54f183bb,9,,1,map label,PDF p. 20,map label 9 on AFG,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-9f14042938,11,,1,map label,PDF p. 20,map label 11 on IND,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-cd568e5fe8,3,,1,map label,PDF p. 20,map label 3 on DZA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-4e6d9702cc,1,,1,map label,PDF p. 20,map label 1 on LBY,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-2524993a91,3,,1,map label,PDF p. 20,map label 3 on EGY,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-514b20843e,1,,1,map label,PDF p. 20,map label 1 on SAU,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-66399cb52f,1,,1,map label,PDF p. 20,map label 1 on ETH,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-66f96198fd,1,,1,map label,PDF p. 20,map label 1 on COD,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-35b6424318,1,,1,map label,PDF p. 20,map label 1 on BRA,high,read from map label by viewing crop,claude-sonnet-5,2026-10-10,1,no
+o-1ae8a0b731,100%,,1,attendance,PDF p. 8,100% ... [board member] (Chairman),medium,"Roles not printed beside graphic; [board member] is named Chairman on p. 4 and sits in the 100% group ([board member], [board member], [board member]).",claude-sonnet-5,2026-10-10,1,no
+o-c07c3780ae,100%,,1,attendance,PDF p. 8,"100%: [board member], [board member], [board member]; 88%: [board member], [board member]",low,"Page prints only two groups (100% three members, 88% two members) with names, no director numbering. Assigned in print order after the Chairman: director_1 [board member] 100, director_2 [board member] 100, director_3 [board member] 88, director_4 [board member] 88. Mapping of numbers to director_N is a guess.",claude-sonnet-5,2026-10-10,1,no
+o-4f5b8011fe,100%,,1,attendance,PDF p. 8,"100%: [board member], [board member], [board member]; 88%: [board member], [board member]",low,"Page prints only two groups (100% three members, 88% two members) with names, no director numbering. Assigned in print order after the Chairman: director_1 [board member] 100, director_2 [board member] 100, director_3 [board member] 88, director_4 [board member] 88. Mapping of numbers to director_N is a guess.",claude-sonnet-5,2026-10-10,1,no
+o-683ad5a165,88%,,1,attendance,PDF p. 8,"100%: [board member], [board member], [board member]; 88%: [board member], [board member]",low,"Page prints only two groups (100% three members, 88% two members) with names, no director numbering. Assigned in print order after the Chairman: director_1 [board member] 100, director_2 [board member] 100, director_3 [board member] 88, director_4 [board member] 88. Mapping of numbers to director_N is a guess.",claude-sonnet-5,2026-10-10,1,no
+o-389a2248b2,88%,,1,attendance,PDF p. 8,"100%: [board member], [board member], [board member]; 88%: [board member], [board member]",low,"Page prints only two groups (100% three members, 88% two members) with names, no director numbering. Assigned in print order after the Chairman: director_1 [board member] 100, director_2 [board member] 100, director_3 [board member] 88, director_4 [board member] 88. Mapping of numbers to director_N is a guess.",claude-sonnet-5,2026-10-10,1,no
+o-dc4690957f,"133,000",,1,2020,PDF p. 55,"key_management_directors_stipend 133,000",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-040e7cc756,"813,481",,1,2020,PDF p. 55,"key_management_salaries_benefits 813,481",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-f81a39c505,"946,481",,1,2020,PDF p. 55,"key_management_compensation_total 946,481",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-8988480c64,"142,000",,1,2021,PDF p. 55,"key_management_directors_stipend 142,000",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-505ff94037,"1,011,427",,1,2021,PDF p. 55,"key_management_salaries_benefits 1,011,427",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-0c3313d924,"1,153,427",,1,2021,PDF p. 55,"key_management_compensation_total 1,153,427",high,OCR of scan; sum checks,claude-sonnet-5,2026-10-10,1,no
+o-04dfe6286d,"216,164",,1,2020,PDF p. 40,"depreciation 216,164",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-ebed3ce930,"5,505",,1,2020,PDF p. 40,"interest_expense_addback 5,505",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-910622adf2,"(441,295)",,1,2020,PDF p. 40,"operating_income_before_working_capital_changes (441,295)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-ea35b728a2,"(293,894)",,1,2020,PDF p. 40,"change_accounts_receivable_prepayments (293,894)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-c9835f271d,"(356,225)",,1,2020,PDF p. 40,"change_accounts_payable_accruals (356,225)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-2d1eb4a8b7,"18,427",,1,2020,PDF p. 40,"change_deferred_income_licence_fees 18,427",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-874d214514,"(14,701)",,1,2020,PDF p. 40,"change_deferred_income_government_grants (14,701)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-b8303fff72,-,,1,2020,PDF p. 40,change_provision_vat_payable -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-8222d96116,"(162,000)",,1,2020,PDF p. 40,"change_deposits (162,000)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-3f2f01b250,"(1,249,688)",,1,2020,PDF p. 40,"cash_generated_from_operations (1,249,688)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-89faeeb018,"(5,505)",,1,2020,PDF p. 40,"interest_paid (5,505)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-bb9effe092,"(1,255,193)",,1,2020,PDF p. 40,"net_cash_operating (1,255,193)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-240925232a,"(14,445)",,1,2020,PDF p. 40,"purchase_ppe (14,445)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-c9f7d99394,"4,109",,1,2020,PDF p. 40,"proceeds_disposal_ppe 4,109",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-6a3af442e5,"(10,336)",,1,2020,PDF p. 40,"net_cash_investing (10,336)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-395b9ce695,"(157,498)",,1,2020,PDF p. 40,"lease_payments (157,498)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-e9f5e7f054,"(3,000,000)",,1,2020,PDF p. 40,"distribution_to_government (3,000,000)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-072d065935,"(3,157,498)",,1,2020,PDF p. 40,"net_cash_financing (3,157,498)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-c73eca9de1,"(4,423,027)",,1,2020,PDF p. 40,"net_increase_in_cash (4,423,027)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-0a955e2c31,"11,399,916",,1,2020,PDF p. 40,"cash_beginning_of_year 11,399,916",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-8fd201bd5d,"6,976,889",,1,2020,PDF p. 40,"cash_end_of_year 6,976,889",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-efb8e4852f,"188,791",,1,2021,PDF p. 40,"depreciation 188,791",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-3e2c86ba63,"17,094",,1,2021,PDF p. 40,"interest_expense_addback 17,094",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-359d12ac57,"15,660,948",,1,2021,PDF p. 40,"operating_income_before_working_capital_changes 15,660,948",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-a822387922,"(119,776)",,1,2021,PDF p. 40,"change_accounts_receivable_prepayments (119,776)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-19fb9f5abb,"2,226,573",,1,2021,PDF p. 40,"change_accounts_payable_accruals 2,226,573",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-577725d3fc,"187,415",,1,2021,PDF p. 40,"change_deferred_income_licence_fees 187,415",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-eea52510c6,"(14,701)",,1,2021,PDF p. 40,"change_deferred_income_government_grants (14,701)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-85ba9e95b3,"1,181,046",,1,2021,PDF p. 40,"change_provision_vat_payable 1,181,046",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-0e6bd571e2,"(121,500)",,1,2021,PDF p. 40,"change_deposits (121,500)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-5c71022484,"19,000,005",,1,2021,PDF p. 40,"cash_generated_from_operations 19,000,005",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-9d4a619e11,"(17,094)",,1,2021,PDF p. 40,"interest_paid (17,094)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-60f5fb5950,"18,982,911",,1,2021,PDF p. 40,"net_cash_operating 18,982,911",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-4fb91f609e,"(9,684)",,1,2021,PDF p. 40,"purchase_ppe (9,684)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-bad15c5009,-,,1,2021,PDF p. 40,proceeds_disposal_ppe -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-6abb9f864f,"(9,684)",,1,2021,PDF p. 40,"net_cash_investing (9,684)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-148cc97342,"(148,713)",,1,2021,PDF p. 40,"lease_payments (148,713)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-2e97a5ce3b,"(13,797,992)",,1,2021,PDF p. 40,"distribution_to_government (13,797,992)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-a1128c6b24,"(13,946,705)",,1,2021,PDF p. 40,"net_cash_financing (13,946,705)",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-33494dc815,"5,026,522",,1,2021,PDF p. 40,"net_increase_in_cash 5,026,522",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-1abef1c9ef,"6,976,889",,1,2021,PDF p. 40,"cash_beginning_of_year 6,976,889",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-c997ef6181,"12,003,411",,1,2021,PDF p. 40,"cash_end_of_year 12,003,411",high,OCR of scan; subtotals check,claude-sonnet-5,2026-10-10,1,no
+o-8466596ea6,"7,286,640",,1,"2020 column, At beginning of year",PDF p. 39,"Net assets 7,286,640",high,"OCR of scan; 2019-03-31 value is the 2020 column ""At beginning of year""",claude-sonnet-5,2026-10-10,1,no
+o-5a0b386544,"1,061,275",,1,Total,PDF p. 49,"ppe_cost 1,061,275",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-c8f7e099ea,"(872,489)",,1,Total,PDF p. 49,"ppe_accumulated_depreciation (872,489)",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-527b017e88,"188,786",,1,Total,PDF p. 49,"property_plant_equipment 188,786",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-d4624c4efa,-,,1,column,PDF p. 49,ppe_net_book_value_leasehold_improvements -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-947f263991,"128,757",,1,Total,PDF p. 49,"ppe_net_book_value_furniture 128,757",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-1be0e32b75,"60,029",,1,Total,PDF p. 49,"ppe_net_book_value_computer_equipment 60,029",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-03b164f3dd,-,,1,column,PDF p. 49,ppe_net_book_value_right_of_use_office -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-23a5c5f36d,"608,449",,1,"2020 column, At beginning of year",PDF p. 50,"At beginning of year 608,449",high,2019-03-31 balance = opening balance of 2020 column,claude-sonnet-5,2026-10-10,1,no
+o-4de196f299,"230,104",,1,"2020 column, At beginning of year",PDF p. 50,"At beginning of year 230,104",high,2019-03-31 balance = opening balance of 2020 column,claude-sonnet-5,2026-10-10,1,no
+o-741e9f0ce7,"6,976,889",,1,2020,PDF p. 37,"cash 6,976,889",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-e2f12c1778,"57,541",,1,2020,PDF p. 37,"accounts_receivable 57,541",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-06e8d8da51,"153,356",,1,2020,PDF p. 37,"prepayments 153,356",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-912858ca83,"7,187,786",,1,2020,PDF p. 37,"current_assets_total 7,187,786",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-5ea7ba6e7c,"363,676",,1,2020,PDF p. 37,"property_plant_equipment 363,676",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-407acd96ee,"107,566",,1,2020,PDF p. 37,"prepayments_non_current 107,566",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-00639b3430,"471,242",,1,2020,PDF p. 37,"non_current_assets_total 471,242",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-03c41ec9c2,"7,659,028",,1,2020,PDF p. 37,"total_assets 7,659,028",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-12d4099f9a,"2,852,570",,1,2020,PDF p. 37,"accounts_payable_and_accruals 2,852,570",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-2c2f6ce238,"626,876",,1,2020,PDF p. 37,"deferred_income_licence_fees 626,876",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-136ab061bc,"148,713",,1,2020,PDF p. 37,"lease_payable_current 148,713",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-98247223b4,-,,1,2020,PDF p. 37,provision_vat_payable -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-dd3679f23a,"3,628,159",,1,2020,PDF p. 37,"current_liabilities_total 3,628,159",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-d3e74d2471,"215,403",,1,2020,PDF p. 37,"deferred_income_government_grants 215,403",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-ccf5f0e8b3,"121,500",,1,2020,PDF p. 37,"deposits 121,500",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-9c5aa0f683,"70,290",,1,2020,PDF p. 37,"lease_payable_non_current 70,290",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-9c68dbc22a,"407,193",,1,2020,PDF p. 37,"non_current_liabilities_total 407,193",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-c7c1c1a8a6,"4,035,352",,1,2020,PDF p. 37,"total_liabilities 4,035,352",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-a386e4709a,"3,623,676",,1,2020,PDF p. 37,"accumulated_surplus 3,623,676",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-894a761827,"3,623,676",,1,2020,PDF p. 37,"total_equity 3,623,676",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-ab49e224a0,"7,659,028",,1,2020,PDF p. 37,"total_liabilities_and_equity 7,659,028",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-f00ee9d2ae,"3,623,676",,1,2020,PDF p. 39,"Net assets 3,623,676",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-9b3f04fbae,"1,000",,1,2020,PDF p. 48,"cash_on_hand 1,000",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-70cc9f2c0f,"6,975,889",,1,2020,PDF p. 48,"cash_at_bank 6,975,889",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-64f43288d2,-,,1,2020,PDF p. 48,prepaid_advertising -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-069cf49801,"137,812",,1,2020,PDF p. 48,"prepaid_registration_subscription_fees 137,812",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-683ed2704d,"15,544",,1,2020,PDF p. 48,"prepaid_rent 15,544",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-7dbc4ce5d7,"107,566",,1,2020,PDF p. 48,"prepaid_website_development_non_current 107,566",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-3efbb5c1b9,"1,427,055",,1,Total,PDF p. 49,"ppe_cost 1,427,055",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-d557883489,"(1,063,379)",,1,Total,PDF p. 49,"ppe_accumulated_depreciation (1,063,379)",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-8656e9dd2d,-,,1,column,PDF p. 49,ppe_net_book_value_leasehold_improvements -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-ac29097314,"109,839",,1,Total,PDF p. 49,"ppe_net_book_value_furniture 109,839",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-761d0fe2a6,"27,936",,1,Total,PDF p. 49,"ppe_net_book_value_computer_equipment 27,936",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-729c19dd4a,"225,901",,1,Total,PDF p. 49,"ppe_net_book_value_right_of_use_office 225,901",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-8368f10b93,"300,952",,1,2020,PDF p. 50,"accounts_payable 300,952",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-a7a530c8df,-,,1,2020,PDF p. 50,nef_contributions_in_trust_payable -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-5d016dd978,"553,500",,1,2020,PDF p. 50,"qualifying_investment_advance_payments 553,500",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-5e912f06a1,"190,023",,1,2020,PDF p. 50,"staff_gratuity 190,023",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-2079a18f8e,-,,1,2020,PDF p. 50,agent_licence_fees_advance_payments -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-73b55ff090,"4,000",,1,2020,PDF p. 50,"other_payables 4,000",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-8e3b431af0,"698,932",,1,2020,PDF p. 50,"contributions_in_trust_due_to_government 698,932",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-84984a7d96,"1,747,407",,1,2020,PDF p. 50,"payables_subtotal 1,747,407",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-3e4f9b0098,"422,550",,1,2020,PDF p. 50,"accrued_agent_promoter_commissions 422,550",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-74a75b620c,"562,950",,1,2020,PDF p. 50,"accrued_due_diligence_services 562,950",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-9277195b76,"41,712",,1,2020,PDF p. 50,"accrued_staff_vacation 41,712",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-2e41b8bee9,"31,000",,1,2020,PDF p. 50,"accrued_audit_fees 31,000",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-48a451f79f,-,,1,2020,PDF p. 50,accrued_marketing_agent_commissions -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-9ad5a137ae,"12,685",,1,2020,PDF p. 50,"accrued_utilities 12,685",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-18765d7040,"34,266",,1,2020,PDF p. 50,"accrued_other 34,266",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-fc6c2af9f7,"1,105,163",,1,2020,PDF p. 50,"accrued_expenses_subtotal 1,105,163",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-698cc0c85c,"219,003",,1,2020,PDF p. 51,"lease_payable_total 219,003",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-1a74463bd0,"12,003,411",,1,2021,PDF p. 37,"cash 12,003,411",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-1498e493ad,"11,035",,1,2021,PDF p. 37,"accounts_receivable 11,035",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-d0a0c1bbf7,"427,204",,1,2021,PDF p. 37,"prepayments 427,204",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-4f5e218a08,"12,441,650",,1,2021,PDF p. 37,"current_assets_total 12,441,650",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-1a697f4d2a,"184,569",,1,2021,PDF p. 37,"property_plant_equipment 184,569",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-6f012f5662,-,,1,2021,PDF p. 37,prepayments_non_current -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-e2a14e6af3,"184,569",,1,2021,PDF p. 37,"non_current_assets_total 184,569",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-635234f15b,"12,626,219",,1,2021,PDF p. 37,"total_assets 12,626,219",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-ae9d72c406,"5,079,143",,1,2021,PDF p. 37,"accounts_payable_and_accruals 5,079,143",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-11db98a96f,"814,291",,1,2021,PDF p. 37,"deferred_income_licence_fees 814,291",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-dadfed05a0,"70,290",,1,2021,PDF p. 37,"lease_payable_current 70,290",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-3691138a8b,"1,181,046",,1,2021,PDF p. 37,"provision_vat_payable 1,181,046",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-67f56dd942,"7,144,770",,1,2021,PDF p. 37,"current_liabilities_total 7,144,770",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-9d78c13407,"200,702",,1,2021,PDF p. 37,"deferred_income_government_grants 200,702",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-241b3cccbb,-,,1,2021,PDF p. 37,deposits -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-bba0389f1d,-,,1,2021,PDF p. 37,lease_payable_non_current -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-1d1cc8e3ba,"200,702",,1,2021,PDF p. 37,"non_current_liabilities_total 200,702",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-0dfe699d31,"7,345,472",,1,2021,PDF p. 37,"total_liabilities 7,345,472",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-f9ce774a59,"5,280,747",,1,2021,PDF p. 37,"accumulated_surplus 5,280,747",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-059523cc22,"5,280,747",,1,2021,PDF p. 37,"total_equity 5,280,747",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-cfb6ec74e0,"12,626,219",,1,2021,PDF p. 37,"total_liabilities_and_equity 12,626,219",high,OCR of scan; totals check,claude-sonnet-5,2026-10-10,1,no
+o-7347d70232,"5,280,747",,1,2021,PDF p. 39,"Net assets 5,280,747",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-0b96995e2c,"1,000",,1,2021,PDF p. 48,"cash_on_hand 1,000",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-a588c1d6b0,"12,002,411",,1,2021,PDF p. 48,"cash_at_bank 12,002,411",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-d9c80eebef,"363,271",,1,2021,PDF p. 48,"prepaid_advertising 363,271",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-aa86ff7fda,"48,389",,1,2021,PDF p. 48,"prepaid_registration_subscription_fees 48,389",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-c63ed0f1c0,"15,544",,1,2021,PDF p. 48,"prepaid_rent 15,544",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-43374a1512,-,,1,2021,PDF p. 48,prepaid_website_development_non_current -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-04defa5640,"1,432,925",,1,Total,PDF p. 49,"ppe_cost 1,432,925",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-39e6c841fc,"(1,248,356)",,1,Total,PDF p. 49,"ppe_accumulated_depreciation (1,248,356)",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-0a8cc32ec9,-,,1,column,PDF p. 49,ppe_net_book_value_leasehold_improvements -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-3c2a6c4feb,"90,921",,1,Total,PDF p. 49,"ppe_net_book_value_furniture 90,921",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-e436211ddd,"18,347",,1,Total,PDF p. 49,"ppe_net_book_value_computer_equipment 18,347",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-5ab09414b6,"75,301",,1,Total,PDF p. 49,"ppe_net_book_value_right_of_use_office 75,301",high,Total column of Note 7; OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-e2aab155b6,"940,731",,1,2021,PDF p. 50,"accounts_payable 940,731",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-e3613b7a55,"637,200",,1,2021,PDF p. 50,"nef_contributions_in_trust_payable 637,200",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-85bc5106d3,"364,500",,1,2021,PDF p. 50,"qualifying_investment_advance_payments 364,500",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-2856087e68,"92,694",,1,2021,PDF p. 50,"staff_gratuity 92,694",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-44080bb701,"27,000",,1,2021,PDF p. 50,"agent_licence_fees_advance_payments 27,000",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-6ddd38c867,"16,591",,1,2021,PDF p. 50,"other_payables 16,591",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-710c051617,-,,1,2021,PDF p. 50,contributions_in_trust_due_to_government -,high,printed as a dash (nil) in the table; OCR of scanned page,claude-sonnet-5,2026-10-10,1,no
+o-1528f1624e,"2,078,716",,1,2021,PDF p. 50,"payables_subtotal 2,078,716",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-7094cac0c7,"1,471,500",,1,2021,PDF p. 50,"accrued_agent_promoter_commissions 1,471,500",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-c4e9f1c365,"1,356,750",,1,2021,PDF p. 50,"accrued_due_diligence_services 1,356,750",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-293ddb2156,"97,277",,1,2021,PDF p. 50,"accrued_staff_vacation 97,277",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-6fe028dcbf,"32,381",,1,2021,PDF p. 50,"accrued_audit_fees 32,381",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-684e103e4d,"27,000",,1,2021,PDF p. 50,"accrued_marketing_agent_commissions 27,000",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-974fc4c34b,"11,919",,1,2021,PDF p. 50,"accrued_utilities 11,919",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-d251019e7b,"3,600",,1,2021,PDF p. 50,"accrued_other 3,600",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-840809db12,"3,000,427",,1,2021,PDF p. 50,"accrued_expenses_subtotal 3,000,427",high,OCR of scan; subtotal checks,claude-sonnet-5,2026-10-10,1,no
+o-ac94694cbd,"70,290",,1,2021,PDF p. 51,"lease_payable_total 70,290",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-c07eca9490,"82,904",,1,2021,PDF p. 52,"lease_payments_due_within_1_year 82,904",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-0203f73566,"82,904",,1,2021,PDF p. 52,"lease_payments_due_total 82,904",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-adfe556ac5,"(12,614)",,1,2021,PDF p. 52,"lease_finance_charges_total (12,614)",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-7a3bfab5a2,"70,290",,1,2021,PDF p. 52,"lease_payments_present_value_total 70,290",high,OCR of scan,claude-sonnet-5,2026-10-10,1,no
+o-5f252b13b2,"390,946",,1,FY2019/20,PDF p. 49,"ppe_additions 390,946",high,"Total column, as printed in parentheses where a deduction",claude-sonnet-5,2026-10-10,1,no
+o-a6b4cbec36,"(4,109)",,1,FY2019/20,PDF p. 49,"ppe_disposals (4,109)",high,"Total column, as printed in parentheses where a deduction",claude-sonnet-5,2026-10-10,1,no
+o-cde4a565c4,"(211,947)",,1,FY2019/20,PDF p. 49,"ppe_depreciation_charge (211,947)",high,"Total column, as printed in parentheses where a deduction",claude-sonnet-5,2026-10-10,1,no
+o-ff37497cee,"1,086,409",,1,2020,PDF p. 50,"deferred_licence_fees_received 1,086,409",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-96203866c2,"(459,533)",,1,2020,PDF p. 50,"deferred_licence_fees_recognised_current_year (459,533)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-249cd01634,"(608,449)",,1,2020,PDF p. 50,"deferred_licence_fees_recognised_prior_balance (608,449)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-4a0950d145,"(14,701)",,1,2020,PDF p. 50,"deferred_government_grants_recognised (14,701)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-71169d1cf3,"9,684",,1,FY2020/21,PDF p. 49,"ppe_additions 9,684",high,"Total column, as printed in parentheses where a deduction",claude-sonnet-5,2026-10-10,1,no
+o-ddb758a91d,"(188,791)",,1,FY2020/21,PDF p. 49,"ppe_depreciation_charge (188,791)",high,"Total column, as printed in parentheses where a deduction",claude-sonnet-5,2026-10-10,1,no
+o-1b6288c552,"1,324,596",,1,2021,PDF p. 50,"deferred_licence_fees_received 1,324,596",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-d965e444cb,"(510,305)",,1,2021,PDF p. 50,"deferred_licence_fees_recognised_current_year (510,305)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-f466831352,"(626,876)",,1,2021,PDF p. 50,"deferred_licence_fees_recognised_prior_balance (626,876)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-817257c07b,"(14,701)",,1,2021,PDF p. 50,"deferred_government_grants_recognised (14,701)",high,Note 9 roll-forward,claude-sonnet-5,2026-10-10,1,no
+o-ee685e7d89,3.3,,million,narrative,PDF p. 32,Total liabilities increased by XCD$3.3 million or 82%,high,,claude-sonnet-5,2026-10-10,1,no
+o-a95fd1d091,"1,657,071",,1,narrative,PDF p. 32,"Total Shareholders’ equity increased by 46% or XCD$1,657,071",high,,claude-sonnet-5,2026-10-10,1,no
+o-3b207214a4,65%,,1,narrative,PDF p. 32,Total assets grew by XCD$4.96 million or 65%,high,,claude-sonnet-5,2026-10-10,1,no
+o-53d330337a,46%,,1,narrative,PDF p. 32,Total Shareholders’ equity increased by 46%,high,,claude-sonnet-5,2026-10-10,1,no
+o-7e902c3254,1.74,,1,narrative,PDF p. 32,The working capital ratio is at 1.74,high,,claude-sonnet-5,2026-10-10,1,no
+o-fc09449607,101,,1,Qt 1 granted,PDF p. 24,bar label 101,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-36a2e623ea,70,,1,Qt 2 granted,PDF p. 24,bar label 70,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-01decc8e70,130,,1,Qt 3 granted,PDF p. 24,bar label 130,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-797ffd2165,132,,1,Qt 4 granted,PDF p. 24,bar label 132,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-3b344425b1,130,,1,Qt 1 received,PDF p. 23,bar label 130,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-e93ed84774,170,,1,Qt 2 received,PDF p. 23,bar label 170,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-b70bbfb524,157,,1,Qt 3 received,PDF p. 23,bar label 157,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-8b92a3e19a,126,,1,Qt 4 received,PDF p. 23,bar label 126,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-397970cd50,0,,1,Qt 1 denied,PDF p. 24,bar label 0,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-01836ba70a,3,,1,Qt 2 denied,PDF p. 24,bar label 3,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-c1850c21bb,4,,1,Qt 3 denied,PDF p. 24,bar label 4,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-8bd796a467,2,,1,Qt 4 denied,PDF p. 24,bar label 2,high,chart bar label read from page image crop,claude-sonnet-5,2026-10-10,1,no
+o-20833cb52d,10,,1,map label,PDF p. 25,CAN label 10,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-33661e6385,52,,1,map label,PDF p. 25,USA label 52,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-3b9b876ff3,1,,1,map label,PDF p. 25,BRA label 1,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-68cf10db27,1,,1,map label,PDF p. 25,ARG label 1,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-46d67b6a2e,1,,1,map label,PDF p. 25,SWE label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-167796e616,3,,1,map label,PDF p. 25,FIN label 3,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-d8055d0ee5,1,,1,map label,PDF p. 25,DEU label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-74236f961e,1,,1,map label,PDF p. 25,FRA label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-1b10f58e19,1,,1,map label,PDF p. 25,ESP label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-0bfb157968,2,,1,map label,PDF p. 25,UKR label 2,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-8214681dd9,20,,1,map label,PDF p. 25,RUS label 20,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-8a3d730257,1,,1,map label,PDF p. 25,KAZ label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-73fb78df2b,6,,1,map label,PDF p. 25,TUR label 6,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-18b1603de4,5,,1,map label,PDF p. 25,MAR label 5,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-df1829b6fa,3,,1,map label,PDF p. 25,DZA label 3,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-8129701939,2,,1,map label,PDF p. 25,LBY label 2,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-daf5a0a6d0,15,,1,map label,PDF p. 25,EGY label 15,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-3c61f34f07,1,,1,map label,PDF p. 25,SDN label 1,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-50cfcc771d,3,,1,map label,PDF p. 25,SAU label 3,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-8db84863f3,3,,1,map label,PDF p. 25,IRN label 3,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-111b455b11,1,,1,map label,PDF p. 25,AFG label 1,medium,map label read from embedded image; country attribution by position,claude-sonnet-5,2026-10-10,1,no
+o-9d21b1e3cd,13,,1,map label,PDF p. 25,IND label 13,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-e29d9cd039,161,,1,map label,PDF p. 25,CHN label 161,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-1c61ce15b5,1,,1,map label,PDF p. 25,MMR label 1,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-5f6183f888,53,,1,map label,PDF p. 25,NGA label 53,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-6083c32900,4,,1,map label,PDF p. 25,ZAF label 4,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-a2cd53150c,5,,1,map label,PDF p. 25,AUS label 5,high,map label read from embedded image,claude-sonnet-5,2026-10-10,1,no
+o-c434801c81,"71,939,431",,1,2023,PDF p. 39,"Statement of Financial Position 71,939,431",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-85da87f383,"810,190",,1,2023,PDF p. 39,"Statement of Financial Position 810,190",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-066303228c,"72,749,621",,1,2023,PDF p. 39,"Statement of Financial Position 72,749,621",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-3dc03c3d79,"685,537",,1,2023,PDF p. 39,"Statement of Financial Position 685,537",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-c1cb62bf7f,"73,435,158",,1,2023,PDF p. 39,"Statement of Financial Position 73,435,158",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-e7129dc609,"28,066,505",,1,2023,PDF p. 39,"Statement of Financial Position 28,066,505",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-1b62b2268d,"1,600,753",,1,2023,PDF p. 39,"Statement of Financial Position 1,600,753",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-aecacd3b5e,"142,894",,1,2023,PDF p. 39,"Statement of Financial Position 142,894",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-ca7407917f,"5,660,531",,1,2023,PDF p. 39,"Statement of Financial Position 5,660,531",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-16a2749814,"35,470,683",,1,2023,PDF p. 39,"Statement of Financial Position 35,470,683",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-ccbd4f156c,"171,300",,1,2023,PDF p. 39,"Statement of Financial Position 171,300",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-906e8c3279,"67,290",,1,2023,PDF p. 39,"Statement of Financial Position 67,290",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-b6f89dfbc2,,,1,2023,PDF p. 39,,low,no printed non-current liabilities subtotal on the statement; only the two lines and Total liabilities; not added up,claude-sonnet-5,2026-10-10,1,no
+o-224bb518fc,"35,709,273",,1,2023,PDF p. 39,"Statement of Financial Position 35,709,273",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-eb42ba28cc,"37,725,885",,1,2023,PDF p. 39,"Statement of Financial Position 37,725,885",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-1073a6cdf0,"37,725,885",,1,2023,PDF p. 39,"Statement of Financial Position 37,725,885",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-a8338cc321,"73,435,158",,1,2023,PDF p. 39,"Statement of Financial Position 73,435,158",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-d6d0cecde9,"137,754,264",,1,2024,PDF p. 39,"Statement of Financial Position 137,754,264",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-128d55c9d2,"7,967,462",,1,2024,PDF p. 39,"Statement of Financial Position 7,967,462",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-899f9c0dec,"145,721,726",,1,2024,PDF p. 39,"Statement of Financial Position 145,721,726",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-275ba7175f,"5,720,252",,1,2024,PDF p. 39,"Statement of Financial Position 5,720,252",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-918086ce9d,"151,441,978",,1,2024,PDF p. 39,"Statement of Financial Position 151,441,978",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-883c01d6cc,"64,352,722",,1,2024,PDF p. 39,"Statement of Financial Position 64,352,722",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-b436c7b360,"806,215",,1,2024,PDF p. 39,"Statement of Financial Position 806,215",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-39f69c90ed,"638,979",,1,2024,PDF p. 39,"Statement of Financial Position 638,979",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-090cafb032,"15,105,314",,1,2024,PDF p. 39,"Statement of Financial Position 15,105,314",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-83b1b0b354,"80,903,230",,1,2024,PDF p. 39,"Statement of Financial Position 80,903,230",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-915caf674a,"156,599",,1,2024,PDF p. 39,"Statement of Financial Position 156,599",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-d53c0381a6,"1,298,239",,1,2024,PDF p. 39,"Statement of Financial Position 1,298,239",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-d3a757ee6e,,,1,2024,PDF p. 39,,low,no printed non-current liabilities subtotal on the statement; only the two lines and Total liabilities; not added up,claude-sonnet-5,2026-10-10,1,no
+o-db4e8853be,"82,358,068",,1,2024,PDF p. 39,"Statement of Financial Position 82,358,068",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-8bb8c912fa,"69,083,910",,1,2024,PDF p. 39,"Statement of Financial Position 69,083,910",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-9cc1411b1b,"69,083,910",,1,2024,PDF p. 39,"Statement of Financial Position 69,083,910",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-6971080bd3,"151,441,978",,1,2024,PDF p. 39,"Statement of Financial Position 151,441,978",high,OCR of page; printed subtotals cross-check,claude-sonnet-5,2026-10-10,1,no
+o-e788e46a9c,347,,1,Chart 1.1 DD & Interview bar,PDF p. 34,347 ... DD & Interview,medium,chart label; text layer puts 347 above DD & Interview and 73 above Interview (bar alignment inferred from text layer),claude-sonnet-5,2026-10-10,1,no
+o-6d21229289,73,,1,Chart 1.1 Interview bar,PDF p. 34,73 ... Interview,medium,see above,claude-sonnet-5,2026-10-10,1,no
+o-28c5388316,"137,754,264",,1,2024,PDF p. 42,"Cash - end of year 137,754,264",high,2024 column; FY ended Mar 31 2024,claude-sonnet-5,2026-10-10,1,no
+o-907fe58990,-,,1,2024,PDF p. 53,"Advanced registration and subscription fees  -  39,469",high,"2024 column prints a dash (nil); 2023 is 39,469",claude-sonnet-5,2026-10-10,1,no
+o-5bf34a5cdb,"(154,378)",,1,2023,PDF p. 42,"Payment of lease payable (154,378)",high,2023 column; printed in brackets (outflow),claude-sonnet-5,2026-10-10,1,no
+o-bae8c6bb07,"634,500",,1,2024,PDF p. 55,"Authorised agents and promoters' commission 634,500",high,2024 column,claude-sonnet-5,2026-10-10,1,no
+o-3b52f0c207,"37,725,885",,1,2023 (end of year),PDF p. 41,"At the end of the year 69,083,910 37,725,885",high,2023 column end-of-year net assets; equals p.39 net assets 2023,claude-sonnet-5,2026-10-10,1,no
+o-8dca04516c,"137,754,264",,1,2024,PDF p. 37,"Cash 5 259,886,785 137,754,264",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-5f7d18293c,"7,967,462",,1,2024,PDF p. 37,"Accounts receivable and prepayments 6 622,430 7,967,462",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-b02e81077b,"145,721,726",,1,2024,PDF p. 37,"current assets subtotal 260,509,215 145,721,726",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-5ec0147d9b,"5,720,252",,1,2024,PDF p. 37,"Property and equipment 7 5,778,448 5,720,252",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-42ea5c05c0,"151,441,978",,1,2024,PDF p. 37,"Total assets 266,287,663 151,441,978",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-742893085d,"64,352,722",,1,2024,PDF p. 37,"Accounts payable and accruals 8 106,594,172 64,352,722",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-9885c5b092,"806,215",,1,2024,PDF p. 37,"Deferred income - License fees 9 702,008 806,215",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-d98dac2eb0,"638,979",,1,2024,PDF p. 37,"Lease payable 10 57,013 638,979",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-39c351f9ad,"15,105,314",,1,2024,PDF p. 37,"Provision 11 29,221,736 15,105,314",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-7f59befe4a,"80,903,230",,1,2024,PDF p. 37,"current liabilities subtotal 136,574,929 80,903,230",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-d7ec5cc4e4,"156,599",,1,2024,PDF p. 37,"Deferred income - Government grants 9 - 156,599",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-1935bf7131,"1,298,239",,1,2024,PDF p. 37,"Leased payable 10 1,246,200 1,298,239",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-b86f013ebd,"1,454,838",,1,2024,PDF p. 37,"non-current liabilities subtotal 1,246,200 1,454,838",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-5688e0f36a,"82,358,068",,1,2024,PDF p. 37,"Total liabilities 137,821,129 82,358,068",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-28f82d9fa7,"69,083,910",,1,2024,PDF p. 37,"Accumulated surplus 128,466,534 69,083,910",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-837272f0eb,"69,083,910",,1,2024,PDF p. 37,"Total equity 128,466,534 69,083,910",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-9d3ca90fbb,"151,441,978",,1,2024,PDF p. 37,"Total liabilities and equity 266,287,663 151,441,978",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-7528d6ec4e,"259,886,785",,1,2025,PDF p. 37,"Cash 5 259,886,785 137,754,264",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-3ab9bccb54,"622,430",,1,2025,PDF p. 37,"Accounts receivable and prepayments 6 622,430 7,967,462",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-3274620149,"260,509,215",,1,2025,PDF p. 37,"current assets subtotal 260,509,215 145,721,726",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-dec6c7f406,"5,778,448",,1,2025,PDF p. 37,"Property and equipment 7 5,778,448 5,720,252",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-105f5828ee,"266,287,663",,1,2025,PDF p. 37,"Total assets 266,287,663 151,441,978",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-1b1ad90cd7,"106,594,172",,1,2025,PDF p. 37,"Accounts payable and accruals 8 106,594,172 64,352,722",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-3cf6ce777e,"702,008",,1,2025,PDF p. 37,"Deferred income - License fees 9 702,008 806,215",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-22b28b00e0,"57,013",,1,2025,PDF p. 37,"Lease payable 10 57,013 638,979",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-14cfab7f06,"29,221,736",,1,2025,PDF p. 37,"Provision 11 29,221,736 15,105,314",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-04ea561d6c,"136,574,929",,1,2025,PDF p. 37,"current liabilities subtotal 136,574,929 80,903,230",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-2c2200147c,-,,1,2025,PDF p. 37,"Deferred income - Government grants 9 - 156,599",high,Printed as a dash (nil) in 2025 column,claude-sonnet-5,2026-10-10,1,no
+o-21afbde7ae,"1,246,200",,1,2025,PDF p. 37,"Leased payable 10 1,246,200 1,298,239",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-61ce3e1d5e,"1,246,200",,1,2025,PDF p. 37,"non-current liabilities subtotal 1,246,200 1,454,838",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-182b8e032d,"137,821,129",,1,2025,PDF p. 37,"Total liabilities 137,821,129 82,358,068",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-89f5ba7815,"128,466,534",,1,2025,PDF p. 37,"Accumulated surplus 128,466,534 69,083,910",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-171897ebd6,"128,466,534",,1,2025,PDF p. 37,"Total equity 128,466,534 69,083,910",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-601e8c8915,"266,287,663",,1,2025,PDF p. 37,"Total liabilities and equity 266,287,663 151,441,978",high,OCR of p.37 image; subtotals and totals cross-checked,claude-sonnet-5,2026-10-10,1,no
+o-ba563a19de,35.17%,,1,% YoY,PDF p. 19,2021/22 583 433 9 442 35.17%,high,,claude-sonnet-5,2026-10-10,1,no
+o-7505ea3014,68%,,1,,PDF p. 22 (also p. 15),"Total liabilities: EC$138M, increased 68% (EC$55M) versus year 2024.",high,Printed as 'increased 68%',claude-sonnet-5,2026-10-10,1,no
+o-8246df355e,"42,241,451",,1,2025,PDF p. 40,"Increase in accounts payable and accruals 42,241,451 36,286,217",high,,claude-sonnet-5,2026-10-10,1,no
+o-012e1b3a36,"128,466,534",,1,2025,PDF p. 39,"At the end of the year 128,466,534 69,083,910",high,,claude-sonnet-5,2026-10-10,1,no
+o-c13227b5d1,"267,888",,1,Computer Equipment,PDF p. 52,"Closing net book value ... Computer Equipment 267,888 (As at March 31, 2024)",high,,claude-sonnet-5,2026-10-10,1,no
+o-98cfa7e971,P373.58 Million,,million,2015 (Target),PDF p. 92,SM 8 Net Operating Income: P373.58 Million,high,"Viewed crop of scanned table (rotated page); 2012-2016: P218, P280.05, P356.77, P373.58, P414.41 Million",claude-sonnet-5,2026-10-10,1,no
+o-c1c2766a29,"4,250",,1,2015 (Target),PDF p. 92,"SM 5 Net Enrollment: 2,573 3,076 3,956 4,250 5,100",high,Viewed crop,claude-sonnet-5,2026-10-10,1,no
+o-37f74f9909,96.00%,,1,2014 (Baseline),PDF p. 91,SM 4 Retention Rate: 95.95% 95.99% 96.00% >=97% >=97%,high,Viewed crop,claude-sonnet-5,2026-10-10,1,no
+o-7ca923f1ff,≥97%,,1,2015 (Target),PDF p. 91,95.95% 95.99% 96.00% ≥97% ≥97%,high,"Printed as a floor (97% and above); value is lower bound, no upper bound printed",claude-sonnet-5,2026-10-10,1,no
+o-bb4b309b75,"US$392,048.41",,1,,PDF p. 81,"interest earned from the visa deposits in the aggregate amount of US$392,048.41 valued at P15,534,362",high,"Printed in Note 8 text (stated in USD, peso value also printed)",claude-sonnet-5,2026-10-10,1,no
+o-5d7e81f26a,"10,552,498",,1,2016,PDF p. 80,"Visitorial fees 36,913,980 36,872,212; Allowance (26,361,482) (25,964,132); 10,552,498 10,908,080",medium,Column headers not captured by OCR; 2016 taken as first column; net = first column fees minus allowance (check),claude-sonnet-5,2026-10-10,1,no
+o-b41a3d4ce0,"(25,964,132)",,1,2015 (as restated),PDF p. 80,"Allowance for doubtful accounts-VF (26,361,482) (25,964,132)",medium,Printed in parentheses; second column assumed 2015 (column headers not captured by OCR),claude-sonnet-5,2026-10-10,1,no
+o-af475c1043,"36,913,980",,1,2016,PDF p. 80,"Visitorial fees (VF) 36,913,980 36,872,212",medium,First column assumed 2016,claude-sonnet-5,2026-10-10,1,no
+o-baea1cbdc8,US$ 1.124 million,,1,2016,PDF p. 82,"amounting to US$ 1.124 million and US$ 690,007 for 2016 and 2015, respectively",medium,"Text of Note 14; OCR of '690,007' partly garbled",claude-sonnet-5,2026-10-10,1,no
+o-cf1a70d1a9,99,,1,Bronze Membership,PDF p. 1,row 2 Japan: 99,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-f4b9299aa0,81,,1,Gold Membership,PDF p. 1,row 2 Japan: 81,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-8c7d26ba96,45,,1,Platinum Membership,PDF p. 1,row 2 Japan: 45,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-7db0cc4d86,14,,1,Diamond Membership,PDF p. 1,row 2 Japan: 14,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-c85133b0cd,659,,1,PLATINUM-ESE,PDF p. 1,row 2 Japan: 659,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-661a225993,624,,1,GOLD-EEA,PDF p. 1,row 2 Japan: 624,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-b144c51b7c,326,,1,GOLD-EFE,PDF p. 1,row 2 Japan: 326,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-c302e270d1,509,,1,DIAMOND-LT,PDF p. 1,row 2 Japan: 509,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-dbf3e57d0f,71,,1,PLATINUM-EFA,PDF p. 1,row 2 Japan: 71,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-59c1f4a817,8,,1,Elite Property Partnership,PDF p. 1,row 2 Japan: 8,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-5e855e546d,54,,1,DIAMOND-EUP,PDF p. 1,row 2 Japan: 54,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-fa9b05aaab,19,,1,PLATINUM-EPA,PDF p. 1,row 2 Japan: 19,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-8f351318af,20,,1,DIAMOND-EFP,PDF p. 1,row 2 Japan: 20,high,"Row cells add to the printed Grand Total (2,529).",claude-sonnet-5,2026-10-10,1,no
+o-90dd1ea30d,147,,1,Bronze Membership,PDF p. 1,row 3 United States of America: 147,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-668765e58f,121,,1,Gold Membership,PDF p. 1,row 3 United States of America: 121,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-e547f40d36,59,,1,Platinum Membership,PDF p. 1,row 3 United States of America: 59,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-57d39242a6,8,,1,Diamond Membership,PDF p. 1,row 3 United States of America: 8,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-87485524f5,1,,1,Reserve Membership,PDF p. 1,row 3 United States of America: 1,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-337773e33a,746,,1,PLATINUM-ESE,PDF p. 1,row 3 United States of America: 746,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-0e77a84ad2,711,,1,GOLD-EEA,PDF p. 1,row 3 United States of America: 711,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-818897d6cf,284,,1,GOLD-EFE,PDF p. 1,row 3 United States of America: 284,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-b9c758ab45,100,,1,DIAMOND-LT,PDF p. 1,row 3 United States of America: 100,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-1e4e382278,60,,1,PLATINUM-EFA,PDF p. 1,row 3 United States of America: 60,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-a1703e2476,11,,1,Elite Property Partnership,PDF p. 1,row 3 United States of America: 11,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-7a79e1f19a,21,,1,DIAMOND-EUP,PDF p. 1,row 3 United States of America: 21,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-bbe6bdffbc,19,,1,PLATINUM-EPA,PDF p. 1,row 3 United States of America: 19,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-afb79863d3,5,,1,DIAMOND-EFP,PDF p. 1,row 3 United States of America: 5,high,"Row cells add to the printed Grand Total (2,293).",claude-sonnet-5,2026-10-10,1,no
+o-26f4438d3e,92,,1,Bronze Membership,PDF p. 1,row 4 British: 92,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-8c4bee9281,69,,1,Gold Membership,PDF p. 1,row 4 British: 69,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-e38b03f4c5,41,,1,Platinum Membership,PDF p. 1,row 4 British: 41,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-3779066ea6,2,,1,Diamond Membership,PDF p. 1,row 4 British: 2,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-01e5093891,590,,1,PLATINUM-ESE,PDF p. 1,row 4 British: 590,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-ddeb0d8cfb,510,,1,GOLD-EEA,PDF p. 1,row 4 British: 510,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-21cf46bff4,146,,1,GOLD-EFE,PDF p. 1,row 4 British: 146,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-8ff3712f37,156,,1,DIAMOND-LT,PDF p. 1,row 4 British: 156,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-6c997d0110,37,,1,PLATINUM-EFA,PDF p. 1,row 4 British: 37,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-b36d8c1610,5,,1,Elite Property Partnership,PDF p. 1,row 4 British: 5,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-5cf4cbe351,10,,1,DIAMOND-EUP,PDF p. 1,row 4 British: 10,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-b363232044,15,,1,PLATINUM-EPA,PDF p. 1,row 4 British: 15,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-e4783cff0d,1,,1,DIAMOND-EFP,PDF p. 1,row 4 British: 1,high,"Row cells add to the printed Grand Total (1,674).",claude-sonnet-5,2026-10-10,1,no
+o-bbed02f26b,860,,1,Grand Total,PDF p. 1,row 11 Australian: 860,high,Sum of cells equals printed total.,claude-sonnet-5,2026-10-10,1,no
+o-58a49be426,54,,1,Bronze Membership,PDF p. 1,row 11 Australian: 54,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-828737b1ea,41,,1,Gold Membership,PDF p. 1,row 11 Australian: 41,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-8f7984ede7,31,,1,Platinum Membership,PDF p. 1,row 11 Australian: 31,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-16c1489ccb,6,,1,Diamond Membership,PDF p. 1,row 11 Australian: 6,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-1378d8c14c,273,,1,PLATINUM-ESE,PDF p. 1,row 11 Australian: 273,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-9d4623ff30,274,,1,GOLD-EEA,PDF p. 1,row 11 Australian: 274,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-a4379ad7aa,100,,1,GOLD-EFE,PDF p. 1,row 11 Australian: 100,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-5be61b4a03,43,,1,DIAMOND-LT,PDF p. 1,row 11 Australian: 43,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-23b1bde7f1,22,,1,PLATINUM-EFA,PDF p. 1,row 11 Australian: 22,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-b908d0c17d,1,,1,Elite Property Partnership,PDF p. 1,row 11 Australian: 1,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-578d3ff524,11,,1,DIAMOND-EUP,PDF p. 1,row 11 Australian: 11,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-bf8f087789,3,,1,PLATINUM-EPA,PDF p. 1,row 11 Australian: 3,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-3ff7e69d0c,1,,1,DIAMOND-EFP,PDF p. 1,row 11 Australian: 1,high,Row cells add to the printed Grand Total (860).,claude-sonnet-5,2026-10-10,1,no
+o-fba987d48a,107,,1,Bronze Membership,PDF p. 1,row 12 Myanmar: 107,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-e26bbc4ea6,75,,1,Gold Membership,PDF p. 1,row 12 Myanmar: 75,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-316584c151,87,,1,Platinum Membership,PDF p. 1,row 12 Myanmar: 87,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-2787ba49d0,16,,1,Diamond Membership,PDF p. 1,row 12 Myanmar: 16,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-0998bce082,4,,1,Reserve Membership,PDF p. 1,row 12 Myanmar: 4,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-a3baa33915,123,,1,PLATINUM-ESE,PDF p. 1,row 12 Myanmar: 123,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-885a5f9d6a,81,,1,GOLD-EEA,PDF p. 1,row 12 Myanmar: 81,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-f5d567d839,192,,1,GOLD-EFE,PDF p. 1,row 12 Myanmar: 192,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-b9ecf48fb2,23,,1,DIAMOND-LT,PDF p. 1,row 12 Myanmar: 23,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-4a740bf23f,29,,1,PLATINUM-EFA,PDF p. 1,row 12 Myanmar: 29,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-04af1a0269,11,,1,Elite Property Partnership,PDF p. 1,row 12 Myanmar: 11,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-15d9a3f683,7,,1,DIAMOND-EUP,PDF p. 1,row 12 Myanmar: 7,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-8f56821442,5,,1,PLATINUM-EPA,PDF p. 1,row 12 Myanmar: 5,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-f0e6ea66a9,11,,1,DIAMOND-EFP,PDF p. 1,row 12 Myanmar: 11,high,Row cells add to the printed Grand Total (771).,claude-sonnet-5,2026-10-10,1,no
+o-e56004cc6e,25,,1,Bronze Membership,PDF p. 1,row 17 Singapore: 25,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-24faa8f4f9,17,,1,Gold Membership,PDF p. 1,row 17 Singapore: 17,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-6129af3238,5,,1,Platinum Membership,PDF p. 1,row 17 Singapore: 5,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-04b1bb9c7c,1,,1,Diamond Membership,PDF p. 1,row 17 Singapore: 1,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-7631826e4e,1,,1,Reserve Membership,PDF p. 1,row 17 Singapore: 1,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-118d2c03cb,122,,1,PLATINUM-ESE,PDF p. 1,row 17 Singapore: 122,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-1c1717bfda,69,,1,GOLD-EEA,PDF p. 1,row 17 Singapore: 69,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-0e8008c4fe,43,,1,GOLD-EFE,PDF p. 1,row 17 Singapore: 43,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-5fb722f44f,72,,1,DIAMOND-LT,PDF p. 1,row 17 Singapore: 72,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-cae8199b72,25,,1,PLATINUM-EFA,PDF p. 1,row 17 Singapore: 25,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-7df8a6c41d,1,,1,Elite Property Partnership,PDF p. 1,row 17 Singapore: 1,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-f9ddb7ed81,4,,1,DIAMOND-EUP,PDF p. 1,row 17 Singapore: 4,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-6154e28ed4,7,,1,PLATINUM-EPA,PDF p. 1,row 17 Singapore: 7,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-bae4cfe872,1,,1,DIAMOND-EFP,PDF p. 1,row 17 Singapore: 1,high,Row cells add to the printed Grand Total (393).,claude-sonnet-5,2026-10-10,1,no
+o-6812a5cbc6,9,,1,Bronze Membership,PDF p. 1,row 22 St.Kitts and Nevis: 9,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-b538aaaba9,21,,1,Gold Membership,PDF p. 1,row 22 St.Kitts and Nevis: 21,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-9d0999d591,5,,1,Platinum Membership,PDF p. 1,row 22 St.Kitts and Nevis: 5,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-2958278841,1,,1,Diamond Membership,PDF p. 1,row 22 St.Kitts and Nevis: 1,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-3aa5651c39,101,,1,PLATINUM-ESE,PDF p. 1,row 22 St.Kitts and Nevis: 101,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-26a759ad42,46,,1,GOLD-EEA,PDF p. 1,row 22 St.Kitts and Nevis: 46,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-22ca26d091,12,,1,GOLD-EFE,PDF p. 1,row 22 St.Kitts and Nevis: 12,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-0dd47569e1,3,,1,DIAMOND-LT,PDF p. 1,row 22 St.Kitts and Nevis: 3,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-390a3070b1,6,,1,PLATINUM-EFA,PDF p. 1,row 22 St.Kitts and Nevis: 6,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-c47ecb6422,1,,1,Elite Property Partnership,PDF p. 1,row 22 St.Kitts and Nevis: 1,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-5d85f75565,6,,1,DIAMOND-EUP,PDF p. 1,row 22 St.Kitts and Nevis: 6,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-8ef8993a62,4,,1,PLATINUM-EPA,PDF p. 1,row 22 St.Kitts and Nevis: 4,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-1ff7d50843,5,,1,DIAMOND-EFP,PDF p. 1,row 22 St.Kitts and Nevis: 5,high,Row cells add to the printed Grand Total (220).,claude-sonnet-5,2026-10-10,1,no
+o-6325bf4f78,188,,1,Grand Total,PDF p. 1,row 24 Israeli: 188,high,Sum of cells equals printed total.,claude-sonnet-5,2026-10-10,1,no
+o-0fda460c99,25,,1,Bronze Membership,PDF p. 1,row 24 Israeli: 25,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-ce8578d074,17,,1,Gold Membership,PDF p. 1,row 24 Israeli: 17,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-a7947e816d,4,,1,Platinum Membership,PDF p. 1,row 24 Israeli: 4,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-d664aebf0b,49,,1,PLATINUM-ESE,PDF p. 1,row 24 Israeli: 49,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-3f1f23cb00,51,,1,GOLD-EEA,PDF p. 1,row 24 Israeli: 51,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-9bea0d2761,37,,1,GOLD-EFE,PDF p. 1,row 24 Israeli: 37,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-9f3717a81e,4,,1,DIAMOND-LT,PDF p. 1,row 24 Israeli: 4,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-6ed9421799,1,,1,Elite Property Partnership,PDF p. 1,row 24 Israeli: 1,high,Row cells add to the printed Grand Total (188).,claude-sonnet-5,2026-10-10,1,no
+o-d39f48f7e4,1,,1,Grand Total,PDF p. 3,"row 136 Congolaise: 1 (only filled cell, under PLATINUM-ESE; Grand Total 1)",high,"Only one filled cell in the row, in PLATINUM-ESE; equals Grand Total 1.",claude-sonnet-5,2026-10-10,1,no
+o-ec2b1599be,1,,1,PLATINUM-ESE,PDF p. 3,"row 136 Congolaise: 1 (only filled cell, under PLATINUM-ESE; Grand Total 1)",high,"Only one filled cell in the row, in PLATINUM-ESE; equals Grand Total 1.",claude-sonnet-5,2026-10-10,1,no
+o-95ad5404a9,496,,1,Grand Total,PDF p. 1,row 15 Switzerland: 496,medium,"Cells read in the row (9,18,4,241,106,56,33,8,3,8,5,3 and a 1 under Property Co-Project) add to 495, printed total is 496; total digits clear.",claude-sonnet-5,2026-10-10,1,no
+o-5c938b6464,92,,1,Grand Total,PDF p. 1,row 36 Danish: 92,medium,"Cells read in the row (4,3,36,21,16,3,4,1) add to 88, printed total is 92; total digits clear (checked at high zoom).",claude-sonnet-5,2026-10-10,1,no
+o-8740e14ce9,71,,1,Grand Total,PDF p. 1,row 39 Antiguan And Barbudan: 71,medium,"Cells read in the row add to about 66, printed total is 71; total digits clear and consistent with the descending sort of the table.",claude-sonnet-5,2026-10-10,1,no
+o-0e82dc7073,65,,1,Grand Total,PDF p. 1,row 40 Republic of South Africa: 65,medium,"Cells read in the row (4,3,19,18,8,2,1) add to 55, printed total is 65 (first digit 6, blurry; table is sorted descending and neighbours are 71 and 65).",claude-sonnet-5,2026-10-10,1,no
+o-e6f911cc1e,55,,1,Grand Total,PDF p. 1,row 44 Finland: 55,medium,"Cells read in the row (1,1,30,17,3,2) add to 54, printed total is 55.",claude-sonnet-5,2026-10-10,1,no
+o-b257b144ff,15,,1,Grand Total,PDF p. 2,row 62 Lietuvos Respublikos: 15,medium,"Cells read in the row (1 under Platinum, 6,6,6 under ESE/EEA/EFE) add to 19, printed total is 15; total digits clear at high zoom. Page is PDF p. 2.",claude-sonnet-5,2026-10-10,1,no

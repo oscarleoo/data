@@ -53,7 +53,7 @@ def readings(v):
     # strip the words, signs and units printed around a number, repeating until nothing changes
     # ("not less than HK$500 million", "~9.6%", "(2,147,203)", "P150M", "180 days", "$14.35 billions")
     steps = [
-        (r"^(fewer than|less than|more than|not less than|exceeding|over|about|around|approximately|nearly|~)\s*", ""),
+        (r"^(fewer than|less than|more than|not less than|at least|exceeding|over|about|around|approximately|nearly|~|\u2265|\u2264|>=|<=)\s*", ""),
         (r"^(us\$|ec\$|xcd\$|hk\$|a\$|c\$|\$|\u20ac|\u00a3|\u20b1|usd|eur|hkd|php)\s*", ""),
         (r"^p(?=\d)", ""),
         (r"\s*(\u20ac|eur|usd|\$)$", ""),
@@ -62,10 +62,12 @@ def readings(v):
         (r"(?<=\d)m$", ""),
         (r"^\((.*)\)$", r"\1"),
     ]
-    prev = None
+    prev, negative = None, False
     while prev != raw:
         prev = raw
         for pat, rep in steps:
+            if pat == r"^\((.*)\)$" and re.match(pat, raw.strip()):
+                negative = True  # accounts print a negative amount in brackets: (2,147,203)
             raw = re.sub(pat, rep, raw.strip())
     if raw in WORDS:
         return [float(WORDS[raw])]
@@ -80,7 +82,7 @@ def readings(v):
             out.append(float(cand))
         except ValueError:
             pass
-    return out
+    return out + [-x for x in out] if negative else out
 
 
 def number(v):
