@@ -33,7 +33,7 @@ wrong. This ledger makes the gaps visible.
 ## Where we are (as of 2026-10-10, evening)
 
 - Sources: 1,438, of which 1,262 have a stored copy. Data: 127,919 numbers, 4,490 rules, 1,207 events.
-- Stored documents reviewed against their full contents: **1,262 of 1,262** (1,202 complete, 43 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
+- Stored documents reviewed against their full contents: **1,262 of 1,262** (1,208 complete, 37 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
 - Sources with no stored copy: 176. They stay `not_reviewed` until a copy is fetched.
 - The review was done document by document between 8 and 10 October 2026; logs: `../cbi/reports/overnight-2026-10-08.md` and `../cbi/reports/corrections-2026-10-09.md`.
 

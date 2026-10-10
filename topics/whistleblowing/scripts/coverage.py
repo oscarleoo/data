@@ -49,7 +49,7 @@ def main():
     old = {r["source_id"]: r for r in read("extraction_status.csv")}
     # reviews recorded by extraction passes (_inbox/<slug>.json, "ledger"), oldest first so the latest wins;
     # a later hand edit in extraction_status.csv with a newer reviewed_on date is kept
-    for path in sorted((p for p in glob.glob(os.path.join(HERE, "_inbox", "*.json")) if os.path.basename(p) not in in_progress()), key=lambda p: json.load(open(p)).get("researched_on", "")):
+    for path in sorted((p for p in glob.glob(os.path.join(HERE, "_inbox", "*.json")) if os.path.basename(p) not in in_progress()), key=lambda p: (json.load(open(p)).get("researched_on", ""), os.path.getmtime(p))):  # same date: the file written last wins
         doc = json.load(open(path, encoding="utf-8"))
         slug = doc.get("slug") or os.path.basename(path)[:-5]
         for e in doc.get("ledger", []):
