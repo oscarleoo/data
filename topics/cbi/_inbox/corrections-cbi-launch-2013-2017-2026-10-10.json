@@ -1,0 +1,26 @@
+{
+ "slug": "corrections-cbi-launch-2013-2017",
+ "researched_on": "2026-10-10",
+ "summary": "Launch event for St Lucia from the founding Act, found by the launch-post fact check (decision 14: the day applications opened is its own event).",
+ "sources": [],
+ "observations": [],
+ "program_terms": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "events": [
+  {
+   "date": "2015-08-24",
+   "date_precision": "day",
+   "jurisdiction": "LCA",
+   "program_id": "lca-cbi",
+   "category": "launch",
+   "title": "Citizenship by Investment Act 2015 (No. 14 of 2015) dated 24 August 2015",
+   "description": "Founding Act of the St Lucia programme. The date is the one printed under the long title; the Act has no separate commencement section (METHODOLOGY decision 14: launched = in-force date, else the date the text gives). Assented 17 August 2015; regulations SI 89 of 2015 dated 2 October 2015; applications opened 1 January 2016 (separate event).",
+   "source_id": "lca-cbi-act-2015",
+   "location": "PDF p. 3, heading under the long title",
+   "quote": "[ 24th August, 2015 ]"
+  }
+ ]
+}
