@@ -251,9 +251,11 @@ without saying whether a whistleblower brought them. Record them as cases?
 **Decision.** Yes. Cases carry `whistleblower_link`: `stated` (the document ties the case to a whistleblower,
 relator or qui tam suit) or `not_stated`. Counts and "whistleblower cases" pages use only `stated`.
 
-**To do.** (a) Extract the settlements left out so far (about 60 in the DOJ False Claims Act releases, plus state
-reports such as Texas) as `not_stated` cases. (b) Later, check each `not_stated` case against court dockets or
-agency case pages and switch it to `stated` with that source.
+**Applied (2026-10-10).** 497 settlements added as `not_stated` cases from the DOJ False Claims Act year-end releases
+(FY2000-FY2025) and the Texas reports: many more than the 60 first counted, because earlier passes had marked most
+releases complete while leaving out settlements not tied to a whistleblower. Three California cases stored as
+`stated` by default corrected to `not_stated`. **To do:** check each `not_stated` case against court dockets or
+agency case pages and switch it to `stated` with that source where a relator is named.
 
 **Why.** Most False Claims Act money comes from whistleblower suits, so these settlements are part of the record,
 but counting them as whistleblower cases without evidence would inflate the figures.

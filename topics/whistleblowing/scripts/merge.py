@@ -220,6 +220,8 @@ def main():
     for c in read("corrections.csv"):
         name = c["table"] + ".csv"
         row = tables[name].get(c["id"])
+        if row is None and c["field"] == "_delete":
+            continue  # already removed (a table such as indicators.csv is seeded from its own last output)
         if row is None:
             sys.exit(f"corrections.csv: no {c['table']} row {c['id']}")
         if c["field"] == "_delete":
