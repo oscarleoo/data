@@ -1,0 +1,9 @@
+[
+ {
+  "qid": "c04",
+  "check": "reject",
+  "quote": "The Citizenship by Investment Unit recorded EC$402.2 million in revenue, a 67% increase from the prior year.",
+  "location": "PDF p. 7 (Chairman); audited 402,213,340 on PDF p. 38",
+  "comment": "Printed as plain digits with no hedge word; decision 2 reserves approximate for hedged figures (about, nearly). 348 other unhedged \"N.N million\" rows are digits. Audited figure agrees to 402.2 when rounded, so no error. Rounding alone does not make it approximate; if wanted this should be a methodology decision applied to all such rows, not this one row."
+ }
+]
