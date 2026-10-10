@@ -39,8 +39,8 @@ wrong. This ledger makes the gaps visible.
 
 What this does and doesn't mean:
 
-- Every number has a location and a verbatim quote. An automatic check looks for each quote in the stored copy: of 120,629 quoted rows (numbers, rules, events), 104,069 match (86,388 word for word, 17,681 as a table row), 986 more were confirmed by a second reading or by eye, and **15,012 are not matched**. Most of these are table rows rebuilt from spreadsheet cells, which the check handles poorly (4,777 from the zero passes, 3,124 from UK spreadsheets). They are not known to be wrong, but they are not verified either. 560 come from sources we don't store.
-- A blind second reading by a different model covers a sample, not every number: 9,157 of 115,191 numbers (55,270 of the 115,191 are zeros). Every difference it found is ruled (`data/second_read_resolutions.csv`).
+- Every number has a location and a verbatim quote, and each is checked against the stored copy. Of 120,629 quoted rows (numbers, rules, events): 86,388 match word for word and 17,681 as a table row; 3,124 spreadsheet rows match cell for cell (row and column); 8,687 were confirmed by a blind second reading and 110 by eye; 3,948 are calculated figures (decision 1) whose recipe was recalculated independently. **129 are not yet confirmed** (being checked by eye), and 560 come from sources we don't store.
+- A blind second reading by a different model covers 16,968 of 115,191 numbers (every number whose quote could not be matched automatically, plus samples of the rest) (55,270 of the 115,191 are zeros). Every difference it found is ruled (`data/second_read_resolutions.csv`).
 - `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` column says exactly what (charts without printed values, unreadable scans, items waiting for a decision on scope).
 - Documents we don't store are not reviewed, so the dataset says nothing about what they contain.
 

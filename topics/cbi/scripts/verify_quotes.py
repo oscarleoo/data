@@ -21,6 +21,9 @@ says "ocr" for those, since OCR can misread digits.
                 label) but a blind second reading confirmed the number itself
     no_copy     no stored copy of the source
     checked     someone compared the quote with the page by eye and it matches
+    cell        a spreadsheet row rebuilt from its cells: the row and the value under the named column match
+                (scripts/verify_cells.py)
+    derived     a figure calculated from raw records by a recipe (decision 1): no printed text to find
     wrong_copy  the stored file isn't the document the quote comes from
                 (data/quote_checks.csv says who, when, and what they saw)
 """
@@ -29,6 +32,8 @@ import os
 import re
 import subprocess
 import unicodedata
+
+import verify_cells
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(HERE, "data")
@@ -275,6 +280,11 @@ def main():
                     # a scanned page inside a PDF that has text on other pages
                     result = "found" if found(quote, ocr_text(raw)) else "loose"
                     text_from = "ocr"
+                elif table == "observations.csv" and verify_cells.derived(r):
+                    result = "derived"
+                elif table == "observations.csv" and verify_cells.cell(quote, r.get("location", ""), r.get("value", ""),
+                                                                      os.path.join(HERE, raw)):
+                    result = "cell"
                 elif r[idcol] in confirmed:
                     result = "read_twice"
                 else:
