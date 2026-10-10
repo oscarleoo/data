@@ -582,7 +582,7 @@ COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,projection,
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,4.5,1,4.5,projection,com-imf-art4-2012,International Monetary Fund,2013-02-08,76.7,same_source,o-5341330f0c
 COM,com-ecp,cbi_fiscal_revenue_pct_gdp,2012,percent_of_gdp,6,1,6.0,actual,com-imf-art4-2014,International Monetary Fund,2015-02-13,76.7,same_source,o-deab5f76ef
 COM,com-ecp,cbi_revenue_missing,2008-2017,USD,100,million,100000000.0,reported,com-reuters-2018-06-29,Reuters,2018-06-29,89.7,conflict,o-2f16c2be90
-COM,com-ecp,cbi_revenue_missing,2008-2017,USD,971,million,971000000.0,estimate,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,89.7,conflict,o-91e6840169
+COM,com-ecp,cbi_revenue_missing,2008-2017,USD,971,million,971000000.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,89.7,conflict,o-91e6840169
 COM,com-ecp,passports_issued,2008-2017,passports,47950,1,47950.0,reported,com-voa-2018-04-10,VOA Afrique (AFP),2018-04-10,0.1,conflict,o-2f5a85790a
 COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-france24-2018-04-10,France 24 (AFP),2018-04-10,0.1,conflict,o-ea73a83bb4
 COM,com-ecp,passports_issued,2008-2017,passports,48000,1,48000.0,reported,com-reuters-2018-03-23,Reuters,2018-03-23,0.1,conflict,o-e5f6e475d8
