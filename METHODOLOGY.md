@@ -360,6 +360,25 @@ Dominica, Ireland, Malta, Panama, Qatar, Turkey, the US Gold Card, Vanuatu; 17 l
 the rest left for a person, mostly because the founding law isn't stored. Open: whether `launched` is the publication
 or the in-force date, and the law's date or the day applications opened (asked 2026-10-10).
 
+### 15. Which programmes are in scope (decided 2026-10-10)
+
+**Question.** Stored documents describe routes the dataset had no programme for (Panama's forestry, agrarian and
+business investor categories, UAE green and retiree residence, Sierra Leone's GO-FOR-GOLD, Canada's Prince Edward
+Island investor stream, France's exceptional-contribution residence, UAE residence for property owners on an income).
+Which belong in the dataset?
+
+**Decision.** A route is in scope when putting money in — an investment, donation, property purchase or deposit — is
+what gets the applicant residence or citizenship. Routes that rest on income or a pension (Panama's Rentista
+Retirado, UAE residence for property owners on a monthly income with no property minimum) are out. Rows that state
+general naturalisation law (the ordinary waiting period) are kept as context rows without a programme.
+
+**Why.** It is the line the dataset already drew (retiree routes bought with property or deposits are in, as in
+Mauritius and the Philippines). Income routes would turn the dataset into one about residence visas in general.
+
+**Applied (2026-10-10).** Added: Sierra Leone GO-FOR-GOLD; Panama forestry, agrarian, small-business, City of
+Knowledge, call-centre, processing-zone and Panama-Pacifico investor categories; UAE green residence for investors
+and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence.
+
 ## Open questions
 
 None at the moment.
