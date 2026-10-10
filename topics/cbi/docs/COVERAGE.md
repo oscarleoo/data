@@ -30,10 +30,10 @@ They did not record every table in every document they stored. On 8 October
 not been extracted, while the page said "every number we could find". That was
 wrong. This ledger makes the gaps visible.
 
-## Where we are (as of 2026-10-10, evening)
+## Where we are (as of 2026-10-10, late)
 
-- Sources: 1,438, of which 1,433 have a stored copy (160 news and industry copies are kept locally for checking and not published, for copyright). Data: 129,029 numbers, 5,104 rules, 1,343 events.
-- Stored documents reviewed against their full contents: **1,433 of 1,433** (1,369 complete, 47 partial with a written to-do, 17 not applicable). Not yet reviewed: **0** stored documents.
+- Sources: 1,555, of which 1,550 have a stored copy (news and industry copies are kept locally for checking and not published, for copyright). Data: 129,251 numbers, 5,364 rules, 1,456 events; 174 programme ids (171 programmes in scope in 100 countries and territories, 2 marked out of scope, 1 umbrella id).
+- Stored documents reviewed: **1,550 of 1,550** (1,421 complete, 110 partial with a written to-do, 19 not applicable). The 50 founding laws added by the launch-date pass on 10 October were read for start dates and rules only and are marked partial until fully read.
 - Sources with no stored copy: 5. They couldn't be fetched (a CAPTCHA or bot check we don't bypass, a dead domain, a refused connection) and stay `not_reviewed`; their to-do says why.
 - The review was done document by document between 8 and 10 October 2026; logs: `../cbi/reports/overnight-2026-10-08.md` and `../cbi/reports/corrections-2026-10-09.md`.
 
