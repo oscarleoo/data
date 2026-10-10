@@ -18751,3 +18751,63 @@ o-453babe5fb,$1.57,,million,,PDF p. 85,$1.57,high,,claude-sonnet-5,2026-10-10,1,
 o-f46d8de31e,$1.17,,million,,PDF p. 86,$1.17,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
 o-4abdbde9eb,$0.91,,million,,PDF p. 86,$0.91,high,Mid-range 7% table rows sum about 0.1-0.2 above the printed totals (source rounding/inconsistency); cell read as printed.,claude-sonnet-5,2026-10-10,1,no
 o-5a2070aabd,$1.00,,million,,PDF p. 84,$1.00,high,,claude-sonnet-5,2026-10-10,1,no
+o-84ed34cd9a,6,,1,DIAMOND-LT,PDF p. 1,"row 28 Italiano, DIAMOND-LT: 6",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-edec6c6f19,12,,1,GOLD-EEA,PDF p. 1,"row 51 Czech Republic, GOLD-EEA: 12",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-b59e1d00ef,1,,1,PLATINUM-EPA,PDF p. 1,"row 51 Czech Republic, PLATINUM-EPA: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-d022e2c222,95,,1,GOLD-EEA,PDF p. 1,"row 19 Indian, GOLD-EEA: 95",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-b698629e12,8,,1,PLATINUM-EFA,PDF p. 1,"row 23 Malaysia, PLATINUM-EFA: 8",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-9f54b1ae6d,7,,1,DIAMOND-EUP,PDF p. 1,"row 8 Francaise, DIAMOND-EUP: 7",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-beb18c1ed2,33,,1,DIAMOND-LT,PDF p. 1,"row 15 Switzerland, DIAMOND-LT: 33",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-2fd0ef94bd,2,,1,DIAMOND-EFP,PDF p. 1,"row 19 Indian, DIAMOND-EFP: 2",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-2837ce56a3,2,,1,DIAMOND-EUP,PDF p. 1,"row 32 Osterreich, DIAMOND-EUP: 2",medium,"image-only table, read from enlarged crops. EUP column partly clipped in my first crop; confirmed in a second crop",claude-sonnet-5,2026-10-10,1,no
+o-649a00935d,1,,1,DIAMOND-LT,PDF p. 2,"row 103 Papua New Guinean, DIAMOND-LT: 1",high,"image-only table, read from enlarged crops. PNG is on PDF p. 2 (row 103), not p. 1",claude-sonnet-5,2026-10-10,1,no
+o-627163cccc,13,,1,DIAMOND-LT,PDF p. 1,"row 26 New Zealand, DIAMOND-LT: 13",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-cb3feb887d,1,,1,Gold Membership,PDF p. 1,"row 57 Slovenska republika, Gold Membership: 1",high,"image-only table, read from enlarged crops. row 57 is on p. 1",claude-sonnet-5,2026-10-10,1,no
+o-26965fd676,1,,1,Reserve Membership,PDF p. 1,"row 8 Francaise, Reserve Membership: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-a3b789be30,1,,1,GOLD-EEA,PDF p. 2,"row 67 Latvijas, GOLD-EEA: 1",high,"image-only table, read from enlarged crops. row 67 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-d5ec5ff109,1,,1,GOLD-EEA,PDF p. 2,"row 91 Republica Moldova, GOLD-EEA: 1",high,"image-only table, read from enlarged crops. row 91 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-6ad6b7fc61,2,,1,Gold Membership,PDF p. 2,"row 67 Latvijas, Gold Membership: 2",high,"image-only table, read from enlarged crops. row 67 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-0bfa309527,10,,1,Elite Property Partnership,PDF p. 1,"row 23 Malaysia, Elite Property Partnership: 10",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-f13fbaedef,1,,1,Gold Membership,PDF p. 2,"row 106 Kyrgyz Republic, Gold Membership: 1",high,"image-only table, read from enlarged crops. row 106 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-8a8f4adf76,39,,1,PLATINUM-ESE,PDF p. 1,"row 39 Antiguan And Barbudan, PLATINUM-ESE: 39",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-4ae9e501af,1,,1,Property Co-Project,PDF p. 1,"row 15 Switzerland, Property Co-Project: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-f85cdc392c,6,,1,PLATINUM-ESE,PDF p. 2,"row 62 Lietuvos Respublikos, PLATINUM-ESE: 6",high,"image-only table, read from enlarged crops. row 62 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-3913fccdc9,3,,1,PLATINUM-EFA,PDF p. 1,"row 58 Nepalese, PLATINUM-EFA: 3",medium,"image-only table, read from enlarged crops. digit glyph blurry; OCR text also gives 3",claude-sonnet-5,2026-10-10,1,no
+o-272b65465c,5,,1,Gold Membership,PDF p. 1,"row 26 New Zealand, Gold Membership: 5",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-75d6fec6f5,1,,1,GOLD-EEA,PDF p. 2,"row 112 Hrvatsko, GOLD-EEA: 1",high,"image-only table, read from enlarged crops. row 112 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-f50eb09899,3,,1,DIAMOND-LT,PDF p. 1,"row 32 Osterreich, DIAMOND-LT: 3",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-3df4526eb0,22,,1,Bronze Membership,PDF p. 1,"row 19 Indian, Bronze Membership: 22",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-e741aca95e,2,,1,Gold Membership,PDF p. 1,"row 52 Brasileiro, Gold Membership: 2",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-3c5ddc467c,118,,1,GOLD-EFE,PDF p. 1,"row 7 Deutsch, GOLD-EFE: 118",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-fde205c443,2,,1,PLATINUM-EFA,PDF p. 1,"row 47 Chinese(Macau), PLATINUM-EFA: 2",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-a9d90551c9,6,,1,DIAMOND-EUP,PDF p. 1,"row 19 Indian, DIAMOND-EUP: 6",medium,"image-only table, read from enlarged crops. EUP column partly clipped in first crop; OCR text also gives 6",claude-sonnet-5,2026-10-10,1,no
+o-fdc4fbcf60,4,,1,DIAMOND-EUP,PDF p. 1,"row 36 Danish, DIAMOND-EUP: 4",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-6bb575597d,50,,1,PLATINUM-ESE,PDF p. 1,"row 26 New Zealand, PLATINUM-ESE: 50",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-ebed26c12b,58,,1,PLATINUM-ESE,PDF p. 1,"row 32 Osterreich, PLATINUM-ESE: 58",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-e6dced7612,6,,1,GOLD-EEA,PDF p. 2,"row 62 Lietuvos Respublikos, GOLD-EEA: 6",high,"image-only table, read from enlarged crops. row 62 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-10f28cdedc,2,,1,Platinum Membership,PDF p. 2,"row 67 Latvijas, Platinum Membership: 2",high,"image-only table, read from enlarged crops. row 67 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-1676526eb4,10,,1,DIAMOND-LT,PDF p. 1,"row 23 Malaysia, DIAMOND-LT: 10",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-bfd1362f32,6,,1,GOLD-EFE,PDF p. 1,"row 49 Republic of Belarus, GOLD-EFE: 6",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-039148ec50,129,,1,GOLD-EEA,PDF p. 1,"row 9 Republic of Korea, GOLD-EEA: 129",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-f756ac0728,3,,1,GOLD-EEA,PDF p. 1,"row 46 Cypriot, GOLD-EEA: 3",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-34dddf2bd7,3,,1,PLATINUM-EFA,PDF p. 1,"row 19 Indian, PLATINUM-EFA: 3",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-19e7479642,3,,1,DIAMOND-EFP,PDF p. 1,"row 8 Francaise, DIAMOND-EFP: 3",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-78c3fe4d08,1,,1,DIAMOND-LT,PDF p. 1,"row 57 Slovenska republika, DIAMOND-LT: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-78f5dccd23,337,,1,PLATINUM-ESE,PDF p. 1,"row 8 Francaise, PLATINUM-ESE: 337",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-58e07102b4,1,,1,PLATINUM-EFA,PDF p. 1,"row 42 Polish, PLATINUM-EFA: 1",medium,"image-only table, read from enlarged crops. faint printed digit",claude-sonnet-5,2026-10-10,1,no
+o-cbf81a4470,1,,1,PLATINUM-EFA,PDF p. 1,"row 40 Republic of South Africa, PLATINUM-EFA: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-7db5c7fa4b,1,,1,DIAMOND-LT,PDF p. 2,"row 93 Georgia, DIAMOND-LT: 1",high,"image-only table, read from enlarged crops. row 93 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-d3b001fc83,8,,1,GOLD-EFE,PDF p. 1,"row 23 Malaysia, GOLD-EFE: 8",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-61edc076be,11,,1,Platinum Membership,PDF p. 1,"row 9 Republic of Korea, Platinum Membership: 11",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-e5251d60d6,1,,1,GOLD-EFE,PDF p. 2,"row 93 Georgia, GOLD-EFE: 1",high,"image-only table, read from enlarged crops. row 93 is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-28a945f940,1,,1,Diamond Membership,PDF p. 1,"row 8 Francaise, Diamond Membership: 1",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-48f2a30062,76,,1,PLATINUM-ESE,PDF p. 1,"row 21 Republic of Turkey, PLATINUM-ESE: 76",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-23c02a6cdc,11,,1,Gold Membership,PDF p. 1,"row 19 Indian, Gold Membership: 11",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-d824285f39,5,,1,GOLD-EEA,PDF p. 1,"row 47 Chinese(Macau), GOLD-EEA: 5",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-516ecef8a1,2,,1,PLATINUM-ESE,PDF p. 2,"row 85 Italian, PLATINUM-ESE: 2",high,"image-only table, read from enlarged crops. row 85 Italian is on PDF p. 2",claude-sonnet-5,2026-10-10,1,no
+o-ec479302ce,4,,1,Bronze Membership,PDF p. 1,"row 36 Danish, Bronze Membership: 4",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-f321d4e64b,5,,1,Gold Membership,PDF p. 1,"row 46 Cypriot, Gold Membership: 5",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-7bc010c495,3,,1,PLATINUM-EFA,PDF p. 1,"row 36 Danish, PLATINUM-EFA: 3",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-d2f29e4f1d,149,,1,PLATINUM-ESE,PDF p. 1,"row 18 Cambodian, PLATINUM-ESE: 149",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-a4a975fcf8,4,,1,GOLD-EFE,PDF p. 1,"row 39 Antiguan And Barbudan, GOLD-EFE: 4",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
+o-7a126f6168,5,,1,PLATINUM-ESE,PDF p. 1,"row 57 Slovenska republika, PLATINUM-ESE: 5",high,"image-only table, read from enlarged crops.",claude-sonnet-5,2026-10-10,1,no
