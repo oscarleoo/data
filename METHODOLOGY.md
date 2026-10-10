@@ -385,12 +385,13 @@ what gets the applicant residence or citizenship. Routes that rest on income or 
 Retirado, UAE residence for property owners on a monthly income with no property minimum) are out. Rows that state
 general naturalisation law (the ordinary waiting period) are kept as context rows without a programme.
 
-**Why.** It is the line the dataset already drew (retiree routes bought with property or deposits are in, as in
-Mauritius and the Philippines). Income routes would turn the dataset into one about residence visas in general.
+**Why.** It is the line the dataset already drew (retiree routes bought with a deposit are in, as in the Philippines). Income routes would turn the dataset into one about residence visas in general.
 
 **Applied (2026-10-10).** Added: Sierra Leone GO-FOR-GOLD; Panama forestry, agrarian, small-business, City of
 Knowledge, call-centre, processing-zone and Panama-Pacifico investor categories; UAE green residence for investors
-and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence; Panama film-industry investor. Left out
+and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence; Panama film-industry investor.
+Already in the data but out of scope by this test: Mauritius's residence permit for retired non-citizens (an income
+transfer, not an investment). Its rows are kept, the programme is marked out of scope, and pages don't show it. Left out
 until a stored document shows it requires an investment: Panama's "Inversionista o Empresario" (341 approvals 2010-2021).
 
 ### 16. Spending financed through a CBI option (decided 2026-10-10)
