@@ -29,7 +29,7 @@ COLUMNS = {
     "program_terms.csv": ["term_id", "program_id", "route", "valid_from", "valid_to", "min_amount",
                           "currency", "applies_to", "source_id", "location", "quote", "notes", "restates"],
     "events.csv": ["event_id", "date", "date_precision", "jurisdiction", "program_id", "category",
-                   "title", "description", "source_id", "location", "quote"],
+                   "title", "description", "source_id", "location", "quote", "countries"],
     "programs.csv": ["program_id", "jurisdiction", "name", "kind", "launched", "ended", "status",
                      "notes", "source_ids"],
     "indicators.csv": ["indicator", "name", "definition", "unit_kind", "notes"],

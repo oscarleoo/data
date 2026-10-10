@@ -144,7 +144,10 @@ defendant, if published), `summary` (plain words), `sanctions_amount`
 
 `event_id`, `date`, `date_precision`, `jurisdiction`, `program_id`,
 `category` (`launch`, `rule_change`, `legal`, `award`, `scandal`, `closure`,
-`context`), `title`, `description`, `source_id`, `location`, `quote`.
+`context`), `title`, `description`, `source_id`, `location`, `quote`, `countries`.
+
+An event done by several countries together is recorded once, `jurisdiction` `INTL`, with `countries` listing the
+ISO alpha-3 codes the document names; each country's page shows it (METHODOLOGY.md decision 13).
 
 ## Currency
 

@@ -124,7 +124,11 @@ One row per route and period of validity: `program_id`, `route`
 `event_id`, `date`, `date_precision` (`day`, `month`, `year`), `jurisdiction`,
 `program_id`, `category` (`launch`, `price_change`, `rule_change`,
 `visa_access`, `legal`, `scandal`, `closure`, `context`), `title`,
-`description`, `source_id`, `location`, `quote`.
+`description`, `source_id`, `location`, `quote`, `countries`.
+
+An event done by several countries together (a joint notification, a regional agreement) is recorded once, with
+`jurisdiction` `INTL` and `countries` listing the ISO alpha-3 codes the document names (`ATG;DMA;GRD;KNA;LCA`);
+each of those countries' pages shows it. No per-country copies (METHODOLOGY.md decision 13).
 
 ## Corrections
 

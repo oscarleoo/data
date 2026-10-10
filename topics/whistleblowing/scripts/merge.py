@@ -32,7 +32,7 @@ COLUMNS = {
                   "summary", "sanctions_amount", "award_amount", "award_pct", "currency", "outcome", "source_id",
                   "location", "quote", "notes", "whistleblower_link"],
     "events.csv": ["event_id", "date", "date_precision", "jurisdiction", "program_id", "category",
-                   "title", "description", "source_id", "location", "quote"],
+                   "title", "description", "source_id", "location", "quote", "countries"],
     "programs.csv": ["program_id", "jurisdiction", "name", "kind", "launched", "ended", "status",
                      "notes", "source_ids"],
     "indicators.csv": ["indicator", "name", "definition", "unit_kind", "notes"],

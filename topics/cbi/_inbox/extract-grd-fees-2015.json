@@ -1,0 +1,130 @@
+{
+ "slug": "extract-grd-fees-2015",
+ "researched_on": "2026-10-10",
+ "summary": "Stored the Grenada CBI Unit fees page archived 29 June 2015 (Wayback id_ capture) and extracted its fee schedule; the existing government-fee rule t-d11adc5896 quoted this page but cited a different stored page.",
+ "sources": [
+  {
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "title": "Grenada Citizenship by Investment Unit website: Fees (archived 29 June 2015)",
+   "publisher": "Government of Grenada (Citizenship by Investment Unit)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "GRD",
+   "published_date": "2015-06-29",
+   "accessed_date": "2026-10-10",
+   "url": "http://www.cbi.gov.gd/grenada-citizenship/application-fees/",
+   "archive_url": "https://web.archive.org/web/20150629230917/http://www.cbi.gov.gd:80/grenada-citizenship/application-fees/",
+   "raw_file": "raw/grd-cbiunit-web-fees-2015.html",
+   "sha256": "368a1e161958a5d93edd555f978399d84887c6f149001495f59900bae43bdc45",
+   "covers": "2015 fee schedule for the NTF contribution and real estate options: application, processing, due diligence and (real estate) government fees.",
+   "notes": "Archived web page; published_date is the capture date."
+  }
+ ],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "grd-cbi",
+   "route": "application_fee",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "1500",
+   "currency": "USD",
+   "applies_to": "same amount in every family-size column (single applicant to main applicant + more than 3 dependants), NTF contribution and real estate options",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"NTF Contribution\" and table \"Real Estate Option\" (same row in both)",
+   "quote": "Application Fee | $ 1,500.00 | $ 1,500.00 | $ 1,500.00 | $ 1,500.00",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date. The page prints the amount without a unit (not stated whether per application or per person); it is the same in every family-size column."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "processing_fee",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "1500",
+   "currency": "USD",
+   "applies_to": "per person: main applicant, spouse, dependants over 18 (and over 65)",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"Real Estate Option\"",
+   "quote": "Main Applicant, Spouse, Dependents over 18 and Dependents over 65 years old: U$S 1500 per person; Dependents under 18 years old: U$S 500 per person",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date. The NTF table prints the same amounts, worded 'per dependent'."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "processing_fee_dependant_under_18",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "500",
+   "currency": "USD",
+   "applies_to": "per dependant under 18",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"Real Estate Option\"",
+   "quote": "Main Applicant, Spouse, Dependents over 18 and Dependents over 65 years old: U$S 1500 per person; Dependents under 18 years old: U$S 500 per person",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date. The NTF table prints the same amounts, worded 'per dependent'."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "fee_due_diligence",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "5000",
+   "currency": "USD",
+   "applies_to": "per person: main applicant, spouse, dependants over 18",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"NTF Contribution\" and table \"Real Estate Option\" (same row in both)",
+   "quote": "Main Applicant, Spouse and Dependent over 18 years old U$S 5000 per person; Children 12-17: U$S 2000 per child; Children 0-11: no fee",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "fee_due_diligence_child_12_17",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "2000",
+   "currency": "USD",
+   "applies_to": "per child aged 12-17",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"NTF Contribution\" and table \"Real Estate Option\" (same row in both)",
+   "quote": "Main Applicant, Spouse and Dependent over 18 years old U$S 5000 per person; Children 12-17: U$S 2000 per child; Children 0-11: no fee",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "fee_due_diligence_child_0_11",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "0",
+   "currency": "USD",
+   "applies_to": "children aged 0-11",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"NTF Contribution\" and table \"Real Estate Option\" (same row in both)",
+   "quote": "Main Applicant, Spouse and Dependent over 18 years old U$S 5000 per person; Children 12-17: U$S 2000 per child; Children 0-11: no fee",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date. Printed as 'no fee'."
+  },
+  {
+   "program_id": "grd-cbi",
+   "route": "government_fee_real_estate_additional_dependant",
+   "valid_from": "2015-06",
+   "valid_to": "",
+   "min_amount": "25000",
+   "currency": "USD",
+   "applies_to": "each dependant beyond the main applicant and 3 dependants, real estate option",
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "location": "Fees page, table \"Real Estate Option\"",
+   "quote": "Main Applicant + more than 3 Dependents | ... | 1-4 people USD 50,000. Each additional dependant USD 25,000",
+   "notes": "As displayed on 29 June 2015 (archived copy); the page doesn't give a start date."
+  }
+ ],
+ "events": [],
+ "programs": [],
+ "new_indicators": [],
+ "gaps": [],
+ "leads": [],
+ "ledger": [
+  {
+   "source_id": "grd-cbiunit-web-fees-2015",
+   "status": "complete",
+   "contains": "Fee tables for the two investment options (NTF contribution; real estate) by family size: application fee, processing fee, due diligence fee, and the real estate government fee (US$50,000 for 1-4 people, US$25,000 per additional dependant). No NTF contribution amount on this page.",
+   "to_do": ""
+  }
+ ]
+}

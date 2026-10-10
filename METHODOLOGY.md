@@ -304,9 +304,21 @@ the second reader, 8 left for a person, 2 fixed earlier. 749 lines in `correctio
 sources merged. Item-by-item outcome: `topics/cbi/reports/corrections-2026-10-09.md`. Whistleblowing: about 400
 suggested corrections still to run.
 
+### 13. One event, several countries (decided 2026-10-10)
+
+**Question.** A document records something several countries did together (the five Eastern Caribbean programmes
+jointly notifying the European Commission, a regional agreement on a minimum price). One event, or one per country?
+
+**Decision.** One event, filed under the region (`jurisdiction` `INTL`), with a `countries` column listing every
+country the document names. Each of those countries' pages shows it. No per-country copies.
+
+**Why.** It is the most accurate record: one thing happened once. Copies per country double-count it on a combined
+timeline, and keeping only some copies (as the data did) makes it look as if only those countries took part.
+
+**Applied (2026-10-10).** Column `countries` in both topics. The three country copies (Grenada, Dominica, Saint
+Kitts and Nevis) deleted, and their region events list the countries. To do: fill `countries` for the other 45
+CBI region events.
+
 ## Open questions
 
-**A. One event, several countries.** When a document records something done by several countries together (the
-five Eastern Caribbean programmes notifying the European Commission), do we keep one region-wide event, or also a
-copy per country so each country's page shows it? Three such copies (Grenada, Dominica, Saint Kitts and Nevis) are
-kept for now.
+None at the moment.

@@ -77,3 +77,11 @@ up from 6,321. 8,836 of them are rows added by the overnight passes, mostly the 
 and the UK spreadsheets (3,124, extract-cbi-gbr1). These rows are not wrong as far as we know (many are table rows put
 back together from cells, which the checker matches poorly), but they are not verified either. To do: sample them by
 eye per pass, then either improve the checker for spreadsheet rows or record checks.
+
+## 2026-10-10 follow-ups
+
+- Decision 13 (one event per joint action): the Grenada, Dominica and Saint Kitts and Nevis country copies deleted;
+  their region events list the countries in the new `countries` column.
+- q089 resolved: the Grenada Fees page archived 29 June 2015 is stored (`grd-cbiunit-web-fees-2015`), the
+  government-fee rule cites it, and its 7 other fees are extracted. Blind second reader: 7 confirm; the application
+  fee's "per application" was an inference, so the row now says the page prints no unit.
