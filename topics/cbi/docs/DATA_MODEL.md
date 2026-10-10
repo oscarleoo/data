@@ -122,7 +122,7 @@ One row per route and period of validity: `program_id`, `route`
 ### `events.csv`: the timeline
 
 `event_id`, `date`, `date_precision` (`day`, `month`, `year`), `jurisdiction`,
-`program_id`, `category` (`launch`, `legal_basis`, `price_change`, `rule_change`,
+`program_id`, `category` (`launch`, `legal_basis`, `applications_open`, `price_change`, `rule_change`,
 `visa_access`, `legal`, `scandal`, `closure`, `context`), `title`,
 `description`, `source_id`, `location`, `quote`, `countries`.
 

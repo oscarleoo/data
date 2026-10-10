@@ -101,6 +101,9 @@ names (the decrees print no totals), and 6 whistleblowing rows (Hungary 2011 enq
 two Slovak counts made from descriptions; an SEC footnote taken as a yearly total; a CFTC sum of 1 + 23; an SEC
 ordinal count of awards stored as people).
 
+**Clarified (2026-10-10).** `approximate` is for figures the text itself hedges ("about", "around", "nearly", "some",
+"approximately", "close to", "roughly"). A rounded figure printed without a hedge word ("EC$402.2 million") is `digits`.
+
 ### 3. Derived figures from masked data (decided 2026-10-09)
 
 **Question.** Some statistics offices add random noise to record-level data so small counts can't identify
@@ -352,6 +355,16 @@ more attractive" per an agent's blog). Which date is the start?
 **Why.** Both dates are true and answer different questions (since when has it been possible in law; since when has
 there been a programme). Picking one silently would hide the other.
 
+**Added 2026-10-10 (Oscar left these to Claude's judgement):**
+- `launched` is the date the founding text comes into force; the publication date is used only when no in-force date
+  is stated (the notes say which).
+- A general clause allowing naturalisation for "special interest" (Austria 1965, North Macedonia 1992, Malta 2020) is
+  the `legal_basis`, not the launch.
+- The day applications opened (St Lucia, Hong Kong's New CIES) is its own event (category `applications_open`), beside
+  the launch.
+- An earlier scheme is its own programme when it had its own legal basis or a gap separates it from the current one
+  (Grenada 1997-2001); otherwise it is the same programme with a rule change.
+
 **Applied (2026-10-10).** North Macedonia: launched 2005-02-10, legal basis 1992-11-03. Grenada (1997-2001 scheme):
 launch event from the State Department report added; the blog's account kept as a separate event. All 129 programmes
 then checked against the rule: 37 proposed fixes, of which 33 confirmed by a blind second reader and applied (launch
@@ -377,7 +390,19 @@ Mauritius and the Philippines). Income routes would turn the dataset into one ab
 
 **Applied (2026-10-10).** Added: Sierra Leone GO-FOR-GOLD; Panama forestry, agrarian, small-business, City of
 Knowledge, call-centre, processing-zone and Panama-Pacifico investor categories; UAE green residence for investors
-and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence.
+and retiree residence; Prince Edward Island investor stream; France exceptional economic contribution residence; Panama film-industry investor. Left out
+until a stored document shows it requires an investment: Panama's "Inversionista o Empresario" (341 approvals 2010-2021).
+
+### 16. Spending financed through a CBI option (decided 2026-10-10)
+
+**Question.** St Kitts and Nevis audit reports show government capital spending on the Hurricane Relief Programme,
+which one CBI investment option financed (its proceeds were collected as unit revenue). Is that spending of CBI money?
+
+**Decision.** Record it as printed under its own indicator (spending on a programme financed through a CBI option),
+with a note that the report does not trace which money came from CBI. It is never added to "CBI spending" totals.
+
+**Why.** Extract everything, but claim no more than the source says: money is fungible, and the report links the
+programme to the option, not each dollar spent.
 
 ## Open questions
 
