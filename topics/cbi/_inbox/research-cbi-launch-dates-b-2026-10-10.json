@@ -1,0 +1,1550 @@
+{
+ "slug": "research-cbi-launch-dates-b-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "Launch dates (decision 14) for 25 investor residence/citizenship programmes (batch B), read in founding texts where obtainable. Launch dates found for 11 (DOM, ECU, HND, PER, SLV, ZAF, IND, MAC, TWN APR, KOR FDI, PHL SIRV); NIC, PRY, FJI and NPL have their founding texts recorded as events but launched left for a person (earlier versus later law); 10 remain gaps. The web-search quota ran out mid-session, which limited the Panama, Jordan, Seychelles, Mauritius and Taiwan HK/Macao searches.",
+ "sources": [
+  {
+   "source_id": "nic-gaceta-126-2011-ley-761",
+   "title": "La Gaceta, Diario Oficial No. 126 (7 de julio de 2011): Ley No. 761, Ley General de Migración y Extranjería (second part, arts. to 224)",
+   "publisher": "Asamblea Nacional de Nicaragua (La Gaceta, Diario Oficial; copy hosted by the Fundación Enrique Bolaños)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "NIC",
+   "published_date": "2011-07-07",
+   "accessed_date": "2026-10-10",
+   "url": "https://sajurin.enriquebolanos.org/docs/G-2011-07-07.pdf",
+   "archive_url": "",
+   "raw_file": "raw/nic-gaceta-126-2011-ley-761.pdf",
+   "covers": "Second half of Ley 761: derogations (art. 222, incl. Leyes 153 and 154 of 1993) and entry into force (art. 224, thirty days after publication).",
+   "notes": "Continuation of nic-gaceta-125-2011-ley-761. Text layer present; two-column layout interleaves with other gazette items."
+  },
+  {
+   "source_id": "nic-gaceta-80-1993-ley-153",
+   "title": "La Gaceta, Diario Oficial No. 80 (30 de abril de 1993): Ley No. 153, Ley de Migración",
+   "publisher": "Asamblea Nacional de Nicaragua (La Gaceta, Diario Oficial; copy hosted by the Fundación Enrique Bolaños)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "NIC",
+   "published_date": "1993-04-30",
+   "accessed_date": "2026-10-10",
+   "url": "https://sajurin.enriquebolanos.org/docs/G-1993-04-30.pdf",
+   "archive_url": "",
+   "raw_file": "raw/nic-gaceta-80-1993-ley-153.pdf",
+   "covers": "Ley 153 (1993): permanent-resident subcategory 'inmigrante con capital' (arts. 10, 14, 19-21), investment plan reviewed by the Ministry of Economy; in force thirty days after publication (art. 75); repeals the 1982 Ley de Migración (Decreto 1031).",
+   "notes": "Predecessor of Ley 761; repealed by Ley 761 art. 222. Scanned gazette with text layer."
+  },
+  {
+   "source_id": "ecu-ro-938-2017-lomh",
+   "title": "Registro Oficial Suplemento No. 938 (6 de febrero de 2017): Ley Orgánica de Movilidad Humana",
+   "publisher": "Asamblea Nacional del Ecuador (Registro Oficial; copy hosted by FAOLEX)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "ECU",
+   "published_date": "2017-02-06",
+   "accessed_date": "2026-10-10",
+   "url": "https://faolex.fao.org/docs/pdf/ecu195699.pdf",
+   "archive_url": "",
+   "raw_file": "raw/ecu-ro-938-2017-lomh.pdf",
+   "covers": "Founding law of the temporary residence categories, including 'Inversionista' (art. 60(4)); derogates the Ley de Extranjería and Ley de Migración; in force on publication (Disposición Final).",
+   "notes": "Official Registro Oficial supplement as published (32 pp)."
+  },
+  {
+   "source_id": "ecu-de-111-2017-reglamento-lomh",
+   "title": "Reglamento a la Ley Orgánica de Movilidad Humana (Decreto Ejecutivo 111, Registro Oficial Suplemento 55 de 10 de agosto de 2017), consolidated to 17 April 2018",
+   "publisher": "Presidencia de la República del Ecuador (Lexis Finder consolidation, hosted by FAOLEX)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "ECU",
+   "published_date": "2018-04-17",
+   "accessed_date": "2026-10-10",
+   "url": "https://faolex.fao.org/docs/pdf/ecu195705.pdf",
+   "archive_url": "",
+   "raw_file": "raw/ecu-de-111-2017-reglamento-lomh.pdf",
+   "covers": "Regulation of the LOMH: art. 35 sets the investor-category requirements (deposit of 730 days, real estate, shares or own business, in multiples of the unified basic wage).",
+   "notes": "Lexis consolidation 'Ultima modificación: 17-abr.-2018', not the original gazette; the amounts read may include amendments up to that date."
+  },
+  {
+   "source_id": "hnd-gaceta-30331-2004-ley-migracion",
+   "title": "La Gaceta No. 30,331 (3 de marzo de 2004): Decreto No. 208-2003, Ley de Migración y Extranjería",
+   "publisher": "Congreso Nacional de Honduras (La Gaceta, Diario Oficial; copy hosted by FAOLEX)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "HND",
+   "published_date": "2004-03-03",
+   "accessed_date": "2026-10-10",
+   "url": "https://faolex.fao.org/docs/pdf/hon203167.pdf",
+   "archive_url": "",
+   "raw_file": "raw/hnd-gaceta-30331-2004-ley-migracion.pdf",
+   "covers": "Founding law of the 'residente inversionista' category (arts. 31-35): investment of at least USD 50,000; in force sixty days after publication (art. 114); repeals Decreto 34 of 1970 (Ley de Población y Política Migratoria).",
+   "notes": "Scanned gazette with a rough OCR text layer (character errors in places)."
+  },
+  {
+   "source_id": "dom-ley-285-04-mip",
+   "title": "Ley General de Migración No. 285-04 (promulgada el 3 de agosto de 2004)",
+   "publisher": "Congreso Nacional, República Dominicana (copy published by the Ministerio de Interior y Policía)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "DOM",
+   "published_date": "2004-08-03",
+   "accessed_date": "2026-10-10",
+   "url": "https://mip.gob.do/wp-content/uploads/2026/02/Ley-No.285-04-Migracion.pdf",
+   "archive_url": "",
+   "raw_file": "raw/dom-ley-285-04-mip.pdf",
+   "covers": "Art. 33(2): investors who contribute their own assets are admitted as permanent residents, minimum amount to be set by regulation. No entry-into-force article; art. 154 repeals contrary laws.",
+   "notes": "Copy of the promulgated text (signature pages first, OCR text layer with character errors); it does not print the Gaceta Oficial number or date. The DGM's own copy (migracion.gob.do) sits behind a Cloudflare bot check and was not fetched."
+  },
+  {
+   "source_id": "dom-decreto-631-11",
+   "title": "Decreto No. 631-11, que aprueba el Reglamento de Aplicación de la Ley General de Migración No. 285-04 (19 de octubre de 2011)",
+   "publisher": "Presidencia de la República Dominicana (copy published by the Dirección General de Impuestos Internos)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "DOM",
+   "published_date": "2011-10-19",
+   "accessed_date": "2026-10-10",
+   "url": "https://dgii.gov.do/legislacion/reglamentos/Documents/2011/631-11.pdf",
+   "archive_url": "",
+   "raw_file": "raw/dom-decreto-631-11.pdf",
+   "covers": "Regulation: arts. 53-58 investor residence ('Programa de Permiso de Residencia a través de la Inversión'), minimum US$200,000; cites Ley 285-04 as published in Gaceta Oficial No. 10291 of 27 Aug 2004.",
+   "notes": "Scanned, no text layer; read by OCR (tesseract, spa), so quotes may differ slightly in characters. Date is the signing date; its own publication date was not found."
+  },
+  {
+   "source_id": "per-dl-703-1991",
+   "title": "Decreto Legislativo Nº 703: Promulgan la Ley de Extranjería (5 de noviembre de 1991), texto con modificaciones",
+   "publisher": "Superintendencia Nacional de Migraciones (Perú)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PER",
+   "published_date": "1991-11",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.migraciones.gob.pe/documentos/normalegal_10.pdf",
+   "archive_url": "",
+   "raw_file": "raw/per-dl-703-1991.pdf",
+   "covers": "Peru's 1991 Aliens Law (repealed by DL 1350 from 1 March 2017): migration statuses (art. 11), including 'Independiente' for those entering to make investments; in force on the 30th day after promulgation (art. 2).",
+   "notes": "Consolidated copy published by Migraciones with later amendments noted inline (e.g. Ley 28072 of 2003). The 'Independiente' status covers investors together with rentiers and self-employed professionals and sets no amount; there is no separate 'Inversionista' status in the law."
+  },
+  {
+   "source_id": "pry-ley-6984-2022",
+   "title": "Ley Nº 6984 De Migraciones (promulgada 17-10-2022, publicada 18-10-2022)",
+   "publisher": "Biblioteca y Archivo Central del Congreso Nacional del Paraguay (BACN)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PRY",
+   "published_date": "2022-10-18",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.bacn.gov.py/leyes-paraguayas/10973/ley-n-6984-de-migraciones",
+   "archive_url": "",
+   "raw_file": "raw/pry-ley-6984-2022.html",
+   "covers": "Full text of Paraguay's 2022 migration law as transcribed on the BACN law page, with the promulgation and publication dates. Art. 46: investors under Ley 4986/2013 (SUACE) exempt from temporary residence before permanent residence; art. 52(9): investor documents for permanent residence; art. 107 repeals Ley 978/1996.",
+   "notes": "HTML transcription on the Congress library page; the PDF of the law on the same site returned HTTP 403 and was not read. The law states no entry-into-force date (art. 108 only sets 180 days for regulations)."
+  },
+  {
+   "source_id": "pry-ley-978-1996",
+   "title": "Ley Nº 978 De Migraciones (promulgada 08-11-1996)",
+   "publisher": "Biblioteca y Archivo Central del Congreso Nacional del Paraguay (BACN)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PRY",
+   "published_date": "1996-11-08",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.bacn.gov.py/leyes-paraguayas/3211/ley-n-978-migraciones",
+   "archive_url": "",
+   "raw_file": "raw/pry-ley-978-1996.html",
+   "covers": "Full text of Paraguay's 1996 migration law (repealed 2022) as transcribed on the BACN law page: permanent residents may enter as investors (arts. 14, 18), immigrants with capital (art. 17).",
+   "notes": "BACN record gives the promulgation date only (08-11-1996); no publication or in-force date is stated on the page or in the text. Published date set to the promulgation date. Repeals Ley 470 of 1974 (not read)."
+  },
+  {
+   "source_id": "slv-do-5-2024-dl-918",
+   "title": "Diario Oficial No. 5, Tomo 442 (9 de enero de 2024): Decreto No. 918, Reforma a la Ley Especial de Migración y de Extranjería",
+   "publisher": "Imprenta Nacional de El Salvador (Diario Oficial)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "SLV",
+   "published_date": "2024-01-09",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.diariooficial.gob.sv/seleccion/31181",
+   "archive_url": "",
+   "raw_file": "raw/slv-do-5-2024-dl-918.pdf",
+   "covers": "Full issue of the official gazette of 9 Jan 2024; pp. 4-5 carry Decreto Legislativo No. 918 (20 Dec 2023), which adds naturalisation for investors and donors under government programmes (art. 156(5)) and enters into force eight days after publication (art. 2).",
+   "notes": "Pages 4-5 are scanned images without a text layer: the text of D.L. 918 was read by OCR (tesseract, Spanish; appended to the _text cache) and checked by eye against page 5. The online copy is watermarked 'Diario Oficial solo para consulta, no tiene validez legal'."
+  },
+  {
+   "source_id": "zaf-govza-immigration-act-page",
+   "title": "Immigration Act 13 of 2002 (document page: commencement and amendments)",
+   "publisher": "South African Government (gov.za)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "ZAF",
+   "published_date": "",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.gov.za/documents/immigration-act",
+   "archive_url": "",
+   "raw_file": "raw/zaf-govza-immigration-act-page.html",
+   "covers": "Government portal's record of the Immigration Act 2002: commencement dates by section (20 Feb, 26 Feb and 12 Mar 2003, per Gazette 24951 of 20 Feb 2003) and list of amending Acts.",
+   "notes": "Secondary official record: the commencement proclamation in Gazette 24951 itself was not obtained (SAFLII and the Southern African law library returned HTTP 403)."
+  },
+  {
+   "source_id": "fji-immig-regs-2007-consol",
+   "title": "Immigration Regulations 2007 (LN 5 of 2008), as amended; with Immigration Directions 1971 (LN 66 of 1971), as amended (consolidated subsidiary legislation, Service 20)",
+   "publisher": "Republic of Fiji (consolidated text; copy hosted by ecoi.net / Austrian Red Cross)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "FJI",
+   "published_date": "2025-04",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.ecoi.net/en/file/local/2123784/immigration_regulations_2007.pdf",
+   "archive_url": "",
+   "raw_file": "raw/fji-immig-regs-2007-consol.pdf",
+   "covers": "Investor permit (regs 39-41: criteria, conditions, 3-year and 7-year permits, $250,000 for the 7-year permit); commencement of the Regulations (4 Jan 2008) and amendment table; Immigration Directions 1971 para 4(1)(f) and 4(2) (7-year permit for capital of at least $250,000, inserted 1982, amended 1997).",
+   "notes": "Unofficial consolidation: PDF metadata names a DLA Piper author; the amendment table appears to come from a commercial loose-leaf service (Service 20). The official laws.gov.fj copy was not reached (section URL returned 404). Amounts printed as bare '$'."
+  },
+  {
+   "source_id": "ind-mha-ar-2017-18",
+   "title": "Annual Report 2017-18",
+   "publisher": "Ministry of Home Affairs, Government of India",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "IND",
+   "published_date": "2018-03",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.mha.gov.in/sites/default/files/AnnualReport_17_18.pdf",
+   "archive_url": "",
+   "raw_file": "raw/ind-mha-ar-2017-18.pdf",
+   "covers": "Chapter 13 (Foreigners, Freedom Fighters' Pension and Rehabilitation), para 13.5: MHA order of 17.10.2016 granting Permanent Residency Status to foreign investors and its conditions.",
+   "notes": "The ministry's own annual report describing its order; the order itself is not stored. PDF created 24 Mar 2018. The 2016-17 report has a similar paragraph but its text layer is mis-encoded."
+  },
+  {
+   "source_id": "npl-immigration-rules-2051",
+   "title": "अध्यागमन नियमावली, २०५१ (Immigration Rules, 2051 [1994]), as amended to the fifth amendment (2064)",
+   "publisher": "Nepal Law Commission (lawcommission.gov.np)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "NPL",
+   "published_date": "1994",
+   "accessed_date": "2026-10-10",
+   "url": "https://giwmscdnone.gov.np/media/pdf_upload/9.%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%97%E0%A4%AE%E0%A4%A8%20%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80%2C%20%E0%A5%A8%E0%A5%A6%E0%A5%AB%E0%A5%A7_0bltnf9.pdf",
+   "archive_url": "",
+   "raw_file": "raw/npl-immigration-rules-2051.pdf",
+   "covers": "Rule 1 (commencement), rule 11 (residential visa, including clause (घ): one-time investment of at least US$100,000 in Nepal's industrial business, as amended by the first amendment), amendment table with Gazette dates (Bikram Sambat).",
+   "notes": "Listed in the Law Commission's regulation volume 4A (internal administration). Gazette publication 2051-02-23 BS; the document's own footnote equates 2051-03-17 BS with 1 July 1994. The PDF text layer uses a broken Devanagari glyph mapping, so quotes were transcribed from the rendered page images and will not match pdftotext output verbatim."
+  },
+  {
+   "source_id": "mac-bo-dl-50-83-m",
+   "title": "Decreto-Lei n.º 50/83/M, de 17 de Dezembro: Estabelece medidas quanto à concessão, manutenção e renovação de autorização de residência em Portugal para os estrangeiros residentes em Macau",
+   "publisher": "Boletim Oficial de Macau, n.º 51/1983 (Imprensa Oficial)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "MAC",
+   "published_date": "1983-12-17",
+   "accessed_date": "2026-10-10",
+   "url": "https://bo.io.gov.mo/bo/i/83/51/declei50.asp",
+   "archive_url": "https://web.archive.org/web/20250716210440/https://bo.io.gov.mo/bo/i/83/51/declei50.asp",
+   "raw_file": "raw/mac-bo-dl-50-83-m.html",
+   "sha256": "fc5d4779f38b9a96b0fc5a4c98c0a0d09c1268b8683a53c75eb7ad084772c3aa",
+   "covers": "Full text: residence in Macau for non-Portuguese holders of capital investments recognised by the Governor as of particular interest (property, commercial or industrial establishment, company shareholding); amounts left to the Governor's despacho; in force 1 Jan 1984.",
+   "notes": "bo.io.gov.mo did not respond directly; copy taken from the Wayback Machine (2025 capture of the official BO page). Revoked by DL 3/84/M."
+  },
+  {
+   "source_id": "mac-bo-dl-3-84-m",
+   "title": "Decreto-Lei n.º 3/84/M, de 28 de Janeiro: Estabelece medidas quanto à concessão, manutenção e renovação de autorização de residência em Macau",
+   "publisher": "Boletim Oficial de Macau, n.º 5/1984 (Imprensa Oficial)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "MAC",
+   "published_date": "1984-01-28",
+   "accessed_date": "2026-10-10",
+   "url": "https://bo.io.gov.mo/bo/i/84/05/declei03.asp",
+   "archive_url": "https://web.archive.org/web/20250205130801/https://bo.io.gov.mo/bo/i/84/05/declei03.asp",
+   "raw_file": "raw/mac-bo-dl-3-84-m.html",
+   "sha256": "bf8a3ebcb443f69b2d22a6d464b3fc41f18822613e6d53a4e778e67ef3242bae",
+   "covers": "Full text: replaces DL 50/83/M with the same investor-residence regime (capital invested in undertakings recognised by the Governor as of particular interest), effective from 1 Jan 1984; revoked by DL 14/95/M from 1 Apr 1995.",
+   "notes": "bo.io.gov.mo did not respond directly; copy from the Wayback Machine. Page encoded windows-1252."
+  },
+  {
+   "source_id": "twn-moj-immigration-act-2007",
+   "title": "入出國及移民法 (Immigration Act), full text as revised 26 December 2007 (民國96年12月26日) - historical version",
+   "publisher": "Republic of China (Taiwan); Laws & Regulations Database of the Ministry of Justice",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "TWN",
+   "published_date": "2007-12-26",
+   "accessed_date": "2026-10-10",
+   "url": "https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=D0080132&lnndate=20071226&lser=001",
+   "archive_url": "",
+   "raw_file": "raw/twn-moj-immigration-act-2007.html",
+   "sha256": "4d6c95b685e7007caf8be0cc53cab7b3ebca1fde8ae1c4980fb8704897096d31",
+   "covers": "Art. 25(3): foreigners may apply for investment immigration; once approved and the investment made, permanent residence is granted. Art. 35 leaves investment targets and fund management to MOI rules.",
+   "notes": "Historical version page of the MOJ database. The 1999 original (lnndate=19990521) and 2002-2003 versions were also read: they contain no investment route to permanent residence for foreigners (only quota exemption for residence by investment, art. 21)."
+  },
+  {
+   "source_id": "twn-moj-immigration-act-history-2026",
+   "title": "入出國及移民法 沿革 (Immigration Act: amendment history)",
+   "publisher": "Republic of China (Taiwan); Laws & Regulations Database of the Ministry of Justice",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "TWN",
+   "published_date": "2023-06-28",
+   "accessed_date": "2026-10-10",
+   "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0080132",
+   "archive_url": "",
+   "raw_file": "raw/twn-moj-immigration-act-history-2026.html",
+   "sha256": "e37cce70cbcf0ca474fa3d130eb25e7df6616675deb7f966c7207565419c44e8",
+   "covers": "Promulgation and in-force dates of every version since 1999, including the 2007 full revision (in force 1 Aug 2008 by Executive Yuan order).",
+   "notes": "Database page as retrieved 2026-10-10."
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-2001",
+   "title": "香港澳門居民進入臺灣地區及居留定居許可辦法 (Regulations Governing Permits for Hong Kong and Macao Residents Entering the Taiwan Area and Setting up Residence or Registered Permanent Residence), version of 6 August 2001 (民國90年08月06日) - historical version",
+   "publisher": "Ministry of the Interior, Republic of China (Taiwan); text from the Laws & Regulations Database of the Ministry of Justice",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "TWN",
+   "published_date": "2001-08-06",
+   "accessed_date": "2026-10-10",
+   "url": "https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=Q0020008&lnndate=20010806&lser=001",
+   "archive_url": "",
+   "raw_file": "raw/twn-moi-hkmo-residence-regs-2001.html",
+   "sha256": "2656df813e5dd2f810e4f667e604d55766a0958be5781874da0558815af01c7c",
+   "covers": "Art. 16(1)(5): residence for HK/Macao residents with an investment of NT$5 million or more approved by the central authority; art. 16(1)(6): remitting NT$5 million and keeping it on deposit for a year.",
+   "notes": "Earliest version the database holds (it keeps historical texts only from April 2001). Per the amendment history, art. 16 was not amended in 2000 or 2001, so this wording dates from the full revision issued 31 May 1999; the 1997 original text was not obtained."
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-2014",
+   "title": "香港澳門居民進入臺灣地區及居留定居許可辦法, version of 10 June 2014 (民國103年06月10日) - historical version",
+   "publisher": "Ministry of the Interior, Republic of China (Taiwan); text from the Laws & Regulations Database of the Ministry of Justice",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "TWN",
+   "published_date": "2014-06-10",
+   "accessed_date": "2026-10-10",
+   "url": "https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=Q0020008&lnndate=20140610&lser=001",
+   "archive_url": "",
+   "raw_file": "raw/twn-moi-hkmo-residence-regs-2014.html",
+   "sha256": "06c0e63b3b9b83fb712394e9a3909f8e0236cb375c186a83c92cf64eb28150a9",
+   "covers": "Art. 17(1)(5) (renumbered in 2009): investment threshold raised to NT$6 million; deposit route no longer listed.",
+   "notes": "The 9 Dec 2013 version still reads NT$5 million and lists the deposit route (checked, not stored)."
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-history-2026",
+   "title": "香港澳門居民進入臺灣地區及居留定居許可辦法 沿革 (amendment history)",
+   "publisher": "Ministry of the Interior, Republic of China (Taiwan); text from the Laws & Regulations Database of the Ministry of Justice",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "TWN",
+   "published_date": "2022-06-13",
+   "accessed_date": "2026-10-10",
+   "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=Q0020008",
+   "archive_url": "",
+   "raw_file": "raw/twn-moi-hkmo-residence-regs-history-2026.html",
+   "sha256": "9f5dccabde7e6d5927d0b330c1984dfa65dfbc0c07e8d08c6e1d2f85fea5ba0f",
+   "covers": "Issuing orders and dates of all 20 versions since first issue on 30 June 1997.",
+   "notes": "Database page as retrieved 2026-10-10."
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2002",
+   "title": "출입국관리법시행령 [대통령령 제17579호, 2002. 4. 18., 일부개정; 시행 2002. 4. 18.]",
+   "publisher": "Ministry of Government Legislation, Republic of Korea (law.go.kr Open API)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "KOR",
+   "published_date": "2002-04-18",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=53190&type=XML",
+   "archive_url": "",
+   "raw_file": "raw/kor-moleg-immigration-decree-2002.xml",
+   "sha256": "6dff6bbd0e19b22c6e868718168a6fc6dd52a402e68e9827a85e23753d54d937",
+   "covers": "Annex 1: F-2 residence for those who invest at least an amount and period set by the Minister of Justice in a domestic business and keep running it; new F-5 permanent residence, including for such investors after 5 years in F-2 who created jobs. Reasons for amendment.",
+   "notes": "Historical version from the national law database API."
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2003",
+   "title": "출입국관리법시행령 [대통령령 제18097호, 2003. 9. 1., 일부개정; 시행 2003. 9. 1.]",
+   "publisher": "Ministry of Government Legislation, Republic of Korea (law.go.kr Open API)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "KOR",
+   "published_date": "2003-09-01",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=56538&type=XML",
+   "archive_url": "",
+   "raw_file": "raw/kor-moleg-immigration-decree-2003.xml",
+   "sha256": "3222e2e64b093c4526c500008b846f7c03bbaf769ae514b9dbe1467579fd3f5f",
+   "covers": "Annex 1: F-5 for a foreign investor of US$500,000 or more after 3 years in D-8 status who contributed to job creation; reasons for amendment (stay needed cut from 8 to 3 years).",
+   "notes": "Historical version from the national law database API."
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2005",
+   "title": "출입국관리법 시행령 [대통령령 제18934호, 2005. 7. 5., 일부개정; 시행 2005. 9. 25.]",
+   "publisher": "Ministry of Government Legislation, Republic of Korea (law.go.kr Open API)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "KOR",
+   "published_date": "2005-07-05",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=71321&type=XML",
+   "archive_url": "",
+   "raw_file": "raw/kor-moleg-immigration-decree-2005.xml",
+   "sha256": "f1db9e4129ac4d472a3c1feb44c83c160de72f4b2a283782c8745a04ccc09ec1",
+   "covers": "Annex 1: F-5 for a foreign investor of US$2 million employing 5 or more Koreans (replacing US$5 million), and US$500,000 + 3 years in D-8 + 3 Korean employees.",
+   "notes": "Historical version from the national law database API."
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2008",
+   "title": "출입국관리법 시행령 [대통령령 제20892호, 2008. 7. 3., 일부개정; 시행 2008. 7. 3.; F-5 다목 시행 2008. 9. 1.]",
+   "publisher": "Ministry of Government Legislation, Republic of Korea (law.go.kr Open API)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "KOR",
+   "published_date": "2008-07-03",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=87845&type=XML",
+   "archive_url": "",
+   "raw_file": "raw/kor-moleg-immigration-decree-2008.xml",
+   "sha256": "44d7c9cba2b8c91204936772764ef07a7dfc18c0972b8cf53f2cd74755d8b936",
+   "covers": "Annex 1 item 28-3(다): F-5 for a foreign investor under the Foreign Investment Promotion Act investing US$500,000 and employing 5 or more Koreans (from 1 Sep 2008).",
+   "notes": "Historical version from the national law database API."
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2011",
+   "title": "출입국관리법 시행령 [대통령령 제23274호, 2011. 11. 1., 일부개정; 시행 2011. 12. 15.]",
+   "publisher": "Ministry of Government Legislation, Republic of Korea (law.go.kr Open API)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "KOR",
+   "published_date": "2011-11-01",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=118387&type=XML",
+   "archive_url": "",
+   "raw_file": "raw/kor-moleg-immigration-decree-2011.xml",
+   "sha256": "1c893402541f8ab3071f106f332f75787973441d49207a64fc6216c12a7e2f17",
+   "covers": "Annex 1 item 27(라): F-2 for foreign investors of US$500,000 with 3 years in D-8, or US$300,000 employing 2 Koreans; reasons for amendment.",
+   "notes": "Historical version from the national law database API."
+  },
+  {
+   "source_id": "phl-eo-63-1986",
+   "title": "Executive Order No. 63, November 7, 1986: Granting Incentives to Foreign Investment in Tourist-Related Projects and Tourist Establishments and for Other Purposes",
+   "publisher": "The Lawphil Project (Arellano Law Foundation), text of the executive order of the President of the Philippines",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PHL",
+   "published_date": "1986-11-07",
+   "accessed_date": "2026-10-10",
+   "url": "https://lawphil.net/executive/execord/eo1986/eo_63_1986.html",
+   "archive_url": "",
+   "raw_file": "raw/phl-eo-63-1986.html",
+   "sha256": "fa9810abb37a1175e19dfe54fdff1dfd373cfc4d2910f30462f387d4fe3d74c4",
+   "covers": "Creates the Special Investor Resident Visa for aliens investing at least US$50,000 in tourist-related projects; takes effect immediately.",
+   "notes": "Transcription on Lawphil (not the Official Gazette, which refused automated access); Lawphil also hosts a scan of the signed order (pdf/eo_63_1986.pdf), not stored. Same order number as the 1993 sports-council EO 63, a different document."
+  },
+  {
+   "source_id": "phl-eo-226-1987",
+   "title": "Executive Order No. 226, July 16, 1987: The Omnibus Investments Code of 1987",
+   "publisher": "The Lawphil Project (Arellano Law Foundation), text of the executive order of the President of the Philippines",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PHL",
+   "published_date": "1987-07-16",
+   "accessed_date": "2026-10-10",
+   "url": "https://lawphil.net/executive/execord/eo1987/eo_226_1987.html",
+   "archive_url": "",
+   "raw_file": "raw/phl-eo-226-1987.html",
+   "sha256": "2e4b615fe7e021cf0308d5814a8484254d54a8a3c20834495098168b9dee11a4",
+   "covers": "Book V (arts. 74-75): Special Investors Resident Visa for aliens investing at least US$75,000 (US$50,000 under EO 63 and EO 1037); takes effect immediately upon approval.",
+   "notes": "Transcription on Lawphil; later amendments not checked."
+  }
+ ],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "hnd-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2004-05-02",
+   "valid_to": "",
+   "min_amount": "50000",
+   "currency": "USD",
+   "applies_to": "investor (residente inversionista)",
+   "source_id": "hnd-gaceta-30331-2004-ley-migracion",
+   "location": "PDF p. 8, art. 33(2)",
+   "quote": "La inversión será por un mínimo de CINCUENTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA ($50,000.00) o su equivalente en moneda nacional",
+   "notes": "Investment in any lawful economic activity, or in state or national financial-institution securities and bonds (art. 31). valid_from is the law's entry into force, counted by us (60 days after 3 Mar 2004).",
+   "restates": ""
+  },
+  {
+   "program_id": "dom-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2011-10-19",
+   "valid_to": "",
+   "min_amount": "200000",
+   "currency": "USD",
+   "applies_to": "investor",
+   "source_id": "dom-decreto-631-11",
+   "location": "PDF p. 27, art. 55 (OCR)",
+   "quote": "Doscientos Mil Dólares Norteamericanos (US$200,000.00) o su equivalente en moneda",
+   "notes": "Contribution under the Foreign Investment Law 16-95 or to the capital of a company; for designated investment projects the Executive sets the minimum. valid_from is the decree's signing date (publication date not found).",
+   "restates": ""
+  },
+  {
+   "program_id": "ecu-investor-residence",
+   "route": "bank_deposit",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "70",
+   "currency": "SBU",
+   "applies_to": "investor",
+   "source_id": "ecu-de-111-2017-reglamento-lomh",
+   "location": "p. 13, art. 35(a)",
+   "quote": "por un monto equivalente y no menor a setenta (70) salarios básicos unificados del trabajador en general",
+   "notes": "Deposit of at least 730 days. Amount in unified basic wages, not converted. Consolidated text to 17 Apr 2018: whether 70 was the August 2017 original is not checked; valid_from left empty. The current figure (100 SBU) is in ecu-mremh-visa-inversionista-2026.",
+   "restates": ""
+  },
+  {
+   "program_id": "ecu-investor-residence",
+   "route": "real_estate",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "80",
+   "currency": "SBU",
+   "applies_to": "investor",
+   "source_id": "ecu-de-111-2017-reglamento-lomh",
+   "location": "p. 13, art. 35(b)",
+   "quote": "cuya cuantía sea equivalente y no menor a ochenta (80) salarios básicos unificados",
+   "notes": "Registered property in Ecuador. Consolidated text to 17 Apr 2018; valid_from left empty.",
+   "restates": ""
+  },
+  {
+   "program_id": "ecu-investor-residence",
+   "route": "business_investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "70",
+   "currency": "SBU",
+   "applies_to": "investor",
+   "source_id": "ecu-de-111-2017-reglamento-lomh",
+   "location": "p. 13, art. 35(c)-(d)",
+   "quote": "por un monto equivalente y no menor a setenta (70) salarios básicos unificados, debidamente registradas en la Superintendencia de Compañías",
+   "notes": "Shares in an Ecuadorian company (c) or capital in own business (d), each at least 70 SBU. Consolidated text to 17 Apr 2018; valid_from left empty.",
+   "restates": ""
+  },
+  {
+   "program_id": "fji-investor-permit",
+   "route": "business_investment",
+   "valid_from": "2008-01-04",
+   "valid_to": "",
+   "min_amount": "250000",
+   "currency": "unspecified",
+   "applies_to": "7-year investor permit granted by the Minister (reg 41(2)-(3))",
+   "source_id": "fji-immig-regs-2007-consol",
+   "location": "PDF p. 16, reg 41(3)",
+   "quote": "the foreign investor undertakes to invest and maintain in a business an amount of not less than $250,000 or such other amount as the Minister may, from time to time, determine",
+   "notes": "Printed as bare '$' (decision 5); Fijian dollars likely but not stated. The 3-year permit granted by the Permanent Secretary (reg 41(1)) has no amount in the Regulations; the Ministry's current page gives $300,000 (t-52d1c9abac). valid_from is the commencement of the Regulations; the Minister may set another amount."
+  },
+  {
+   "program_id": "fji-investor-permit",
+   "route": "permit_validity",
+   "valid_from": "2008-01-04",
+   "valid_to": "",
+   "min_amount": "7",
+   "currency": "years",
+   "applies_to": "maximum term of an investor permit granted by the Minister (3 years if granted by the Permanent Secretary)",
+   "source_id": "fji-immig-regs-2007-consol",
+   "location": "PDF p. 16, reg 41(1)-(2)",
+   "quote": "the Minister may grant an investor permit for a period not exceeding 7 years beginning on the date of grant of the permit",
+   "notes": "Maximum, not minimum. Reg 41(1): up to 3 years when granted by the Permanent Secretary."
+  },
+  {
+   "program_id": "fji-investor-permit",
+   "route": "business_investment",
+   "valid_from": "1997-01-17",
+   "valid_to": "",
+   "min_amount": "250000",
+   "currency": "unspecified",
+   "applies_to": "7-year permit to enter and reside under Immigration Directions 1971 para 4(2) (predecessor rule)",
+   "source_id": "fji-immig-regs-2007-consol",
+   "location": "PDF p. 25, Immigration Directions 1971, para 4(2)",
+   "quote": "permits to enter and reside or to reside or to work in Fiji for a period of 7 years may be granted to persons who undertake to introduce into, and maintain in, a business, trade or undertaking approved by the Minister capital or assets amounting to not less than $250,000",
+   "notes": "Para 4(2) was inserted by LN 40 of 1982 (effective 7 May 1982) and amended by LN 9 of 1996 (effective 17 Jan 1997); the printed text is as amended, so the amount is dated from 17 Jan 1997 and the 1982 amount is unknown. Bare '$'. The Directions are still printed in the 2025 consolidation; whether they remain in force alongside the 2007 Regulations is not stated."
+  },
+  {
+   "program_id": "ind-investor-prs",
+   "route": "business_investment",
+   "valid_from": "2016-10-17",
+   "valid_to": "",
+   "min_amount": "100000000",
+   "currency": "INR",
+   "applies_to": "to be brought within 18 months under the FDI route",
+   "source_id": "ind-mha-ar-2017-18",
+   "location": "PDF p. 249 (printed p. 244), para 13.5",
+   "quote": "making an investment of minimum `10 crore to be brought within 18 months or `25 crore to be brought within 36 months under FDI route",
+   "notes": "Printed as '10 crore' with the rupee sign rendered as a backtick in the text layer; recorded in rupees (1 crore = 10,000,000) as in t-a7fa4842fc. Same rule as the Cabinet release; valid_from is the date of the MHA order."
+  },
+  {
+   "program_id": "ind-investor-prs",
+   "route": "business_investment",
+   "valid_from": "2016-10-17",
+   "valid_to": "",
+   "min_amount": "250000000",
+   "currency": "INR",
+   "applies_to": "to be brought within 36 months under the FDI route",
+   "source_id": "ind-mha-ar-2017-18",
+   "location": "PDF p. 249 (printed p. 244), para 13.5",
+   "quote": "making an investment of minimum `10 crore to be brought within 18 months or `25 crore to be brought within 36 months under FDI route",
+   "notes": "Printed as '25 crore'; recorded in rupees. valid_from is the date of the MHA order."
+  },
+  {
+   "program_id": "ind-investor-prs",
+   "route": "employment",
+   "valid_from": "2016-10-17",
+   "valid_to": "",
+   "min_amount": "20",
+   "currency": "persons",
+   "applies_to": "resident Indians employed every financial year",
+   "source_id": "ind-mha-ar-2017-18",
+   "location": "PDF p. 249 (printed p. 244), para 13.5",
+   "quote": "resulting in employment for at least 20 resident Indians in every financial year",
+   "notes": ""
+  },
+  {
+   "program_id": "npl-investor-residential-visa",
+   "route": "business_investment",
+   "valid_from": "2001",
+   "valid_to": "",
+   "min_amount": "100000",
+   "currency": "USD",
+   "applies_to": "one-time investment in Nepal's industrial business (rule 11(1)(घ))",
+   "source_id": "npl-immigration-rules-2051",
+   "location": "PDF p. 10, rule 11(1)(घ) and footnote",
+   "quote": "नेपालको औद्योगिक व्यवसायमा कम्तिमा एकलाख अमेरिकी डलर वा सो बराबरको परिवत्र्य विदेशी मुद्रा एकैपटक लगानी गर्ने व्यक्ति",
+   "notes": "'एकलाख' = one lakh = 100,000; 'or the equivalent in convertible foreign currency'. The footnote says the clause was amended by the first amendment (Gazette 2058-02-22 BS, i.e. 2001 by the document's own date anchor); valid_from is that year. Quote transcribed from the page image (text layer mis-encoded)."
+  },
+  {
+   "program_id": "twn-hkmo-investment-residence",
+   "route": "business_investment",
+   "valid_from": "1999-05-31",
+   "valid_to": "2014-06-09",
+   "min_amount": "5000000",
+   "currency": "TWD",
+   "applies_to": "Hong Kong or Macao resident (spouse and minor children may join)",
+   "source_id": "twn-moi-hkmo-residence-regs-2001",
+   "location": "Art. 16(1)(5)",
+   "quote": "在臺灣地區有新台幣五百萬元以上之投資",
+   "notes": "Investment approved by the central competent authority. valid_from is the 1999 full revision (the 2001 text is the earliest read; art. 16 unchanged since 1999 per the amendment history); valid_to is the day before the 2014 amendment. Printed as 新台幣 (New Taiwan dollars)."
+  },
+  {
+   "program_id": "twn-hkmo-investment-residence",
+   "route": "deposit",
+   "valid_from": "1999-05-31",
+   "valid_to": "2014-06-09",
+   "min_amount": "5000000",
+   "currency": "TWD",
+   "applies_to": "Hong Kong or Macao resident (spouse and minor children may join)",
+   "source_id": "twn-moi-hkmo-residence-regs-2001",
+   "location": "Art. 16(1)(6)",
+   "quote": "匯入等值新台幣五百萬元以上，並存款滿一年，附有外匯銀行證明者",
+   "notes": "Remitted funds equivalent to NT$5 million kept on deposit for one year, certified by a foreign-exchange bank. Dates as for the investment route; not listed in the 2014 version."
+  },
+  {
+   "program_id": "twn-hkmo-investment-residence",
+   "route": "business_investment",
+   "valid_from": "2014-06-10",
+   "valid_to": "",
+   "min_amount": "6000000",
+   "currency": "TWD",
+   "applies_to": "Hong Kong or Macao resident (spouse and minor children may join)",
+   "source_id": "twn-moi-hkmo-residence-regs-2014",
+   "location": "Art. 17(1)(5)",
+   "quote": "在臺灣地區有新臺幣六百萬元以上之投資",
+   "notes": "Investment approved by the central competent authority; same amount in art. 16(1)(5) of the current (2022) text."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2003-09-01",
+   "valid_to": "",
+   "min_amount": "500000",
+   "currency": "USD",
+   "applies_to": "foreign investor, permanent residence (F-5) after 3 years in D-8 status, with job creation",
+   "source_id": "kor-moleg-immigration-decree-2003",
+   "location": "Annex 1 item 28-3(나); reasons for amendment item 마",
+   "quote": "미국화폐 50만불 이상을 투자한 외국인이 영주자격을 취득하기 위하여 필요한 체류기간을 8년에서 3년으로 단축하여",
+   "notes": "Printed as 미화/미국화폐 (US currency). By 2005 the item also required 3 Korean employees; replaced in the 2008 revision by the US$500,000 + 5 employees item. valid_to not established."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2005-09-25",
+   "valid_to": "2008-07-02",
+   "min_amount": "2000000",
+   "currency": "USD",
+   "applies_to": "foreign investor employing 5 or more Koreans, permanent residence (F-5)",
+   "source_id": "kor-moleg-immigration-decree-2005",
+   "location": "Reasons for amendment, item 라",
+   "quote": "미화 200만불 이상을 투자하고 대한민국의 국민을 5인 이상 고용한 자",
+   "notes": "Replaced an earlier US$5 million item. Not in the 3 Jul 2008 revision of the F-5 list (valid_to is the day before)."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2008-09-01",
+   "valid_to": "",
+   "min_amount": "500000",
+   "currency": "USD",
+   "applies_to": "foreign investor under the Foreign Investment Promotion Act employing 5 or more Koreans, permanent residence (F-5)",
+   "source_id": "kor-moleg-immigration-decree-2008",
+   "location": "Annex 1 item 28-3(다); 부칙",
+   "quote": "「외국인투자촉진법」에 따라 미화 50만 달러 이상을 투자한 외국인투자가로서 5명 이상의 국민을 고용하고 있는 자",
+   "notes": "Still in the current decree (annex 1-3 item 3)."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2011-12-15",
+   "valid_to": "",
+   "min_amount": "500000",
+   "currency": "USD",
+   "applies_to": "foreign investor, residence (F-2) after 3 years in corporate-investor (D-8) status",
+   "source_id": "kor-moleg-immigration-decree-2011",
+   "location": "Reasons for amendment, item 나",
+   "quote": "미화 50만 달러 이상 투자한 외국인으로서 기업투자(D-8) 체류자격으로 3년 이상 체류하고 있거나",
+   "notes": "Still in the current decree (annex 1-2 item 24(라)1))."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "route": "business_investment",
+   "valid_from": "2011-12-15",
+   "valid_to": "",
+   "min_amount": "300000",
+   "currency": "USD",
+   "applies_to": "foreign investor employing 2 or more Koreans, residence (F-2)",
+   "source_id": "kor-moleg-immigration-decree-2011",
+   "location": "Reasons for amendment, item 나",
+   "quote": "미화 30만 달러 이상 투자하고 국민을 2명 이상 고용하고 있는 외국인에게도 거주(F-2) 체류자격을 부여할 수 있도록",
+   "notes": "Still in the current decree (annex 1-2 item 24(라)3))."
+  },
+  {
+   "program_id": "phl-sirv",
+   "route": "business_investment",
+   "valid_from": "1986-11-07",
+   "valid_to": "",
+   "min_amount": "50000",
+   "currency": "USD",
+   "applies_to": "alien investing in a tourist-related project or tourist establishment (spouse and unmarried minor children included)",
+   "source_id": "phl-eo-63-1986",
+   "location": "Sec. 1",
+   "quote": "Any alien who invests the amount of at least US$50,000.00 in a tourist- related project or in any tourist establishment",
+   "notes": "Investment remitted in acceptable foreign currency; tourist projects as determined by the inter-agency Committee. EO 226 (1987) keeps US$50,000 for aliens under EO 63. Later status not checked."
+  },
+  {
+   "program_id": "phl-sirv",
+   "route": "business_investment",
+   "valid_from": "1987-07-16",
+   "valid_to": "",
+   "min_amount": "75000",
+   "currency": "USD",
+   "applies_to": "any alien investor",
+   "source_id": "phl-eo-226-1987",
+   "location": "Book V, art. 74(4)",
+   "quote": "He is willing and able to invest the amount of at least US$75,000.00 in the Philippines",
+   "notes": "Amount must be remitted in acceptable foreign currency. The current consular page (phl-dfa-nypcg-sirv) also gives US$75,000."
+  }
+ ],
+ "events": [
+  {
+   "date": "2004-08-27",
+   "date_precision": "day",
+   "jurisdiction": "DOM",
+   "program_id": "dom-investor-residence",
+   "category": "launch",
+   "title": "Dominican General Migration Law 285-04 published, making investors a permanent-resident category",
+   "description": "Ley 285-04 art. 33(2) admits as permanent residents investors who contribute their own assets to activities of interest to the country, with the minimum amount to be set by regulation. The law states no entry-into-force date, so this is the publication date (Gaceta Oficial No. 10291, 27 Aug 2004) as cited in Decreto 631-11; the law was promulgated on 3 Aug 2004 (dom-ley-285-04-mip). Whether the earlier migration law (Ley 95 of 1939) had an investor category was not checked.",
+   "source_id": "dom-decreto-631-11",
+   "location": "PDF p. 1, VISTA clauses (OCR)",
+   "quote": "VISTA: La Ley General de Migración, No. 285-04, del 15 de agosto del 2004, Gaceta Oficial No. 10291, de 27 de agosto del 2004",
+   "countries": ""
+  },
+  {
+   "date": "2011-10-19",
+   "date_precision": "day",
+   "jurisdiction": "DOM",
+   "program_id": "dom-investor-residence",
+   "category": "rule_change",
+   "title": "Migration regulation (Decreto 631-11) sets a US$200,000 minimum for residence by investment",
+   "description": "Decreto 631-11 creates the 'Programa de Permiso de Residencia a través de la Inversión' run by the DGM with the CEI-RD (art. 53) and sets the minimum investment at US$200,000, or an amount set by the Executive for designated investment projects (art. 55). Date is the signing date; publication date not found.",
+   "source_id": "dom-decreto-631-11",
+   "location": "PDF p. 26-27, arts. 53 and 55; p. 72 signature (OCR)",
+   "quote": "Doscientos Mil Dólares Norteamericanos (US$200,000.00) o su equivalente en moneda",
+   "countries": ""
+  },
+  {
+   "date": "2017-02-06",
+   "date_precision": "day",
+   "jurisdiction": "ECU",
+   "program_id": "ecu-investor-residence",
+   "category": "launch",
+   "title": "Ecuador's Organic Law on Human Mobility creates the investor temporary residence, in force on publication",
+   "description": "Art. 60(4) of the Ley Orgánica de Movilidad Humana lists 'Inversionista' among the two-year temporary residence categories; the Disposición Final puts the law in force on publication in the Registro Oficial (Suplemento 938, 6 Feb 2017). It repeals the Ley de Extranjería and Ley de Migración, whose investor immigrant categories (if any) were not read and are not treated as this programme.",
+   "source_id": "ecu-ro-938-2017-lomh",
+   "location": "PDF p. 12, art. 60(4); p. 31, Disposición Final",
+   "quote": "La presente Ley entrará en vigencia a partir de su publicación en el Registro Oficial.",
+   "countries": ""
+  },
+  {
+   "date": "2004-05-02",
+   "date_precision": "day",
+   "jurisdiction": "HND",
+   "program_id": "hnd-investor-residence",
+   "category": "launch",
+   "title": "Honduras Migration and Aliens Law (Decreto 208-2003) enters into force, creating investor residence",
+   "description": "Arts. 31-33 of the Ley de Migración y Extranjería let foreigners who invest at least USD 50,000 in a lawful activity, or in state and national-bank securities, acquire 'residente inversionista' status. Art. 114 puts the law in force sixty days after publication in La Gaceta No. 30,331 of 3 Mar 2004; 2 May 2004 is counted by us. It repeals Decreto 34 of 1970 (Ley de Población y Política Migratoria), which was not read, so whether an investor category existed earlier is not known.",
+   "source_id": "hnd-gaceta-30331-2004-ley-migracion",
+   "location": "PDF p. 19, art. 114; p. 1 masthead; pp. 7-8, arts. 31-33",
+   "quote": "Esta Ley entrará en vigencia sesenta (60) días después de su publicación en el Diario Oficial \"La Gaceta\".",
+   "countries": ""
+  },
+  {
+   "date": "1993-04-30",
+   "date_precision": "day",
+   "jurisdiction": "NIC",
+   "program_id": "nic-investor-residence",
+   "category": "launch",
+   "title": "Nicaragua's 1993 Migration Law (Ley 153) already has an 'immigrant with capital' residence",
+   "description": "Ley 153 (La Gaceta No. 80, 30 Apr 1993; in force thirty days after publication, art. 75) lists 'inmigrantes con capital' as a permanent-resident subcategory: a foreigner bringing own assets for activity in any sector, with an investment plan reviewed by the Ministry of Economy, or investing in public securities (arts. 10, 14, 19-21). No amount is set. Ley 761 (2011) repealed it (art. 222) and continued investor residence. Recorded beside the Ley 761 events; whether the programme's launch is 1993 (or earlier: Ley 153 itself repeals the 1982 Ley de Migración, Decreto 1031, not read) or 2011 is left to a person. Launch per METHODOLOGY decision 14 (first official text with an investor category); date is the Gaceta publication date, no in-force date read; the 1982 law was not read.",
+   "source_id": "nic-gaceta-80-1993-ley-153",
+   "location": "PDF p. 2, arts. 10 and 14; p. 8, art. 75",
+   "quote": "El inmigrante con capital es aquel extranjero que aporta sus propios bienes para realizar actividades en cualquier sector de la economía nacional.",
+   "countries": ""
+  },
+  {
+   "date": "2011-08",
+   "date_precision": "month",
+   "jurisdiction": "NIC",
+   "program_id": "nic-investor-residence",
+   "category": "rule_change",
+   "title": "Nicaragua's Ley 761 enters into force, replacing the 1993 migration and aliens laws",
+   "description": "Art. 224 of Ley 761 puts it in force thirty days after publication in La Gaceta; the law was published in Nos. 125 and 126 of 6 and 7 July 2011, so it took effect on 5 or 6 Aug 2011 (counted by us; month given because publication spans two issues). Art. 222 repeals Ley 153 (Migración) and Ley 154 (Extranjería) of 1993. Category rule_change rather than launch because investor residence already existed under Ley 153 (see the 1993 event); a person should decide.",
+   "source_id": "nic-gaceta-126-2011-ley-761",
+   "location": "PDF p. 12, arts. 222 and 224",
+   "quote": "La presente Ley entrará en vigencia treinta días después de su publicación en La Gaceta, Diario Oficial.",
+   "countries": ""
+  },
+  {
+   "date": "2017-03-01",
+   "date_precision": "day",
+   "jurisdiction": "PER",
+   "program_id": "per-investor-residence",
+   "category": "launch",
+   "title": "Peru's migration law creates the 'Inversionista' residence status (in force 1 March 2017)",
+   "description": "Decreto Legislativo 1350 (El Peruano, 7 Jan 2017), art. 29.2(f), creates the 'Inversionista' residence status for a foreigner who establishes, develops or manages lawful investments, leaving the amount to the regulation; the decree and its regulation enter into force on 1 March 2017. Its first text naming a dedicated investor residence status: the 1991 Ley de Extranjería (DL 703, repealed by DL 1350) only had a broader 'Independiente' status covering investors, rentiers and self-employed professionals (separate context event). Reclassifies as the launch the existing rule_change event of the same day.",
+   "source_id": "per-dl-1350-2017",
+   "location": "Primera Disposición Complementaria Final (Vigencia); art. 29.2(f)",
+   "quote": "El presente Decreto Legislativo y su reglamento entran en vigencia el 1 de marzo de 2017",
+   "countries": ""
+  },
+  {
+   "date": "1991-11-05",
+   "date_precision": "day",
+   "jurisdiction": "PER",
+   "program_id": "per-investor-residence",
+   "category": "legal_basis",
+   "title": "Peru's 1991 Aliens Law includes investors in the 'Independiente' migration status",
+   "description": "Decreto Legislativo 703 (Ley de Extranjería), given on 5 Nov 1991 and in force on the 30th day after promulgation (art. 2), lists among migration statuses (art. 11(n)) 'Independiente' for those entering to make investments, live off their income or practise a profession independently (rentiers moved to a separate status in 2003). No amount in the law. Recorded as context, not as the launch: it is a general status, not a dedicated investor route, and DL 1350 (2017) replaced rather than built on it. An investor sub-category with a US$30,000 investment reportedly existed under D.S. 003-2012-IN (not read).",
+   "source_id": "per-dl-703-1991",
+   "location": "art. 11(n); art. 2 of the promulgating decree; signature block",
+   "quote": "INDEPENDIENTE. Aquellos que ingresan al país para realizar inversiones, usufructuar de su renta o ejercer su profesión en forma independiente.",
+   "countries": ""
+  },
+  {
+   "date": "1996-11-08",
+   "date_precision": "day",
+   "jurisdiction": "PRY",
+   "program_id": "pry-investor-residence",
+   "category": "launch",
+   "title": "Paraguay's 1996 migration law admits investors as permanent residents",
+   "description": "Ley 978/1996 De Migraciones (promulgated 8 Nov 1996) lets permanent residents enter as investors (art. 14(2)), defined as foreigners making investments or transfers of financial and technological resources for areas set by the authorities (art. 18), alongside 'immigrants with capital' (art. 17). No amount in the law. Date is the promulgation date from the Congress library record; no publication or in-force date is given. Possibly the start of investor permanent residence in Paraguay; the 1974 law it repealed (Ley 470) was not read. Launch per METHODOLOGY decision 14 (first official text making investors permanent residents); the date is the one the law gives (no separate in-force date read).",
+   "source_id": "pry-ley-978-1996",
+   "location": "arts. 14 and 18; BACN record header (Fecha de Promulgación)",
+   "quote": "Serán considerados inversores los extranjeros que realicen inversiones y/o transferencia de recursos financieros y tecnológicos para el desarrollo de aquellas áreas o actividades que determinen las autoridades competentes.",
+   "countries": ""
+  },
+  {
+   "date": "2022-10-18",
+   "date_precision": "day",
+   "jurisdiction": "PRY",
+   "program_id": "pry-investor-residence",
+   "category": "rule_change",
+   "title": "Paraguay's 2022 migration law lets SUACE investors go straight to permanent residence",
+   "description": "Ley 6984/2022 De Migraciones (promulgated 17 Oct 2022, published 18 Oct 2022 per the Congress library record) exempts foreigners who prove investments under Ley 4986/2013 (SUACE) from the temporary-residence stage required before permanent residence (art. 46), and repeals Ley 978/1996 (art. 107). The law states no entry-into-force date; the date is the publication date.",
+   "source_id": "pry-ley-6984-2022",
+   "location": "art. 46 (Residencia Temporal), last paragraph; art. 107; BACN record header (Fecha de Publicación)",
+   "quote": "Quedan exceptuados del cumplimiento de la residencia temporal como trámite previo a la obtención de la residencia permanente, aquellos extranjeros que puedan demostrar fehacientemente la realización de inversiones en la República del Paraguay",
+   "countries": ""
+  },
+  {
+   "date": "2024-01-17",
+   "date_precision": "day",
+   "jurisdiction": "SLV",
+   "program_id": "slv-investor-naturalisation",
+   "category": "launch",
+   "title": "El Salvador's naturalisation route for investors and donors enters into force (D.L. 918)",
+   "description": "Decreto Legislativo 918 of 20 Dec 2023, published in Diario Oficial No. 5, Tomo 442, on 9 Jan 2024, adds art. 156(5) to the Ley Especial de Migración y de Extranjería: foreigners who meet the requirements of government programmes for attracting investors or donors who inject capital in legal tender or through sustainable investment projects may apply for naturalisation. Art. 2: in force eight days after publication, i.e. 17 Jan 2024 (counted by us). The considerations refer to donations in bitcoin.",
+   "source_id": "slv-do-5-2024-dl-918",
+   "location": "p. 5, Art. 1 (new art. 156(5)) and Art. 2 (scanned page; read by OCR and checked by eye)",
+   "quote": "El presente decreto entrará en vigencia ocho días después de su publicación en el Diario Oficial.",
+   "countries": ""
+  },
+  {
+   "date": "2003-03-12",
+   "date_precision": "day",
+   "jurisdiction": "ZAF",
+   "program_id": "zaf-business-visa-investor",
+   "category": "launch",
+   "title": "South Africa's Immigration Act 2002 comes into force, creating the business permit for investors",
+   "description": "The government portal records that the Immigration Act 13 of 2002 came into force on 12 March 2003 for all sections other than ss. 4, 7, 37 and 52 (Gazette 24951 of 20 Feb 2003); this covers s. 15 (business permit for a foreigner investing the prescribed financial or capital contribution) and s. 27(c) (permanent residence on the same basis). The proclamation itself was not read. Any business or investor permit under the earlier Aliens Control Act 1991 would be a separate scheme with its own legal basis (not researched).",
+   "source_id": "zaf-govza-immigration-act-page",
+   "location": "Commencement section of the page",
+   "quote": "12 March 2003 , all other sections except Section 37 (Gazette 24951 of 20 February 2003)",
+   "countries": ""
+  },
+  {
+   "date": "2016-10-17",
+   "date_precision": "day",
+   "jurisdiction": "IND",
+   "program_id": "ind-investor-prs",
+   "category": "launch",
+   "title": "Home Ministry order grants Permanent Residency Status to foreign investors",
+   "description": "The Ministry of Home Affairs' Annual Report 2017-18 dates the order granting PRS to foreign investors (except Pakistani nationals or third-country nationals of Pakistani origin) to 17 Oct 2016: Rs 10 crore within 18 months or Rs 25 crore within 36 months under the FDI route, employment for at least 20 resident Indians each financial year, 10 years with multiple entry, extendable by 10. The order itself is not stored and no separate in-force date is given, so the order date is used. The Cabinet approval of 31 Aug 2016 is a separate context event.",
+   "source_id": "ind-mha-ar-2017-18",
+   "location": "PDF p. 249 (printed p. 244), para 13.5",
+   "quote": "The Ministry of Home Affairs, vide its order dated 17.10.2016 has approved grant of Permanent Residency Status (PRS) to foreign investors",
+   "countries": ""
+  },
+  {
+   "date": "2008-01-04",
+   "date_precision": "day",
+   "jurisdiction": "FJI",
+   "program_id": "fji-investor-permit",
+   "category": "rule_change",
+   "title": "Fiji's Immigration Regulations 2007 commence, creating the investor permit (regs 39-41)",
+   "description": "The Immigration Regulations 2007 (LN 5 of 2008), made under the Immigration Act 2003, commenced on 4 Jan 2008. Reg 39 lets the Permanent Secretary grant an investor permit to a foreign investor (or its representative) holding a Foreign Investment Certificate under the Foreign Investment Act 1999; reg 41 allows up to 3 years (Permanent Secretary) or up to 7 years (Minister, if at least $250,000 is invested). Recorded as rule_change, not launch: the 7-year permit for $250,000 continues para 4(2) of the Immigration Directions 1971 (see the 1982 event). Commencement date from the consolidation's amendment table.",
+   "source_id": "fji-immig-regs-2007-consol",
+   "location": "PDF p. 1, Table of Amendments; PDF pp. 15-16, regs 39-41",
+   "quote": "Immigration Regulations 2007 (LN 5 of 2008) commenced on 4 January 2008",
+   "countries": ""
+  },
+  {
+   "date": "1982-05-07",
+   "date_precision": "day",
+   "jurisdiction": "FJI",
+   "program_id": "fji-investor-permit",
+   "category": "launch",
+   "title": "Fiji adds a 7-year residence permit for investors of capital (Immigration Directions 1971, para 4(2))",
+   "description": "Para 4(2) of the Immigration Directions 1971, inserted by LN 40 of 1982 with effect from 7 May 1982, allows 7-year permits to enter and reside for persons who undertake to introduce and maintain capital or assets in a business approved by the Minister; as amended by LN 9 of 1996 (effective 17 Jan 1997) the amount is at least $250,000 (the 1982 amount is not shown). Para 4(1)(f) of the same Directions already allowed 3-year permits for people establishing a business or introducing adequate capital, but that subparagraph was amended in 1982 and 1984, so its 1971 wording is not known. Whether this is the start of the investor permit or a predecessor scheme is left for a person (see gaps). Launch per METHODOLOGY decision 14: effective date of LN 40 of 1982 as given in the amendment history of an unofficial consolidated copy; an earlier 1971 provision is possible but not read.",
+   "source_id": "fji-immig-regs-2007-consol",
+   "location": "PDF p. 25, Immigration Directions 1971, para 4(2) and amendment note",
+   "quote": "[subpara (2) insrt LN 40 of 1982 para 2, effective 7 May 1982; am LN 9 of 1996 para 2, effective 17 January 1997]",
+   "countries": ""
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "jurisdiction": "NPL",
+   "program_id": "npl-investor-residential-visa",
+   "category": "context",
+   "title": "Nepal's Immigration Rules 2051 create the residential visa (rule 11)",
+   "description": "The Immigration Rules 2051, made under s. 18 of the Immigration Act 2049, were published in the Nepal Gazette on 2051-02-23 BS (1994; the document equates 2051-03-17 BS with 1 July 1994) and, apart from rules 29 and 39, commenced immediately (rule 1(2)). Rule 11 (residential visa) carries no amendment note, so it is in the original text; its clause (घ), now the investor ground, is marked 'amended by the first amendment', so the original wording of (घ) (and whether it already concerned investment) is not known. Recorded as context; launched left for a person.",
+   "source_id": "npl-immigration-rules-2051",
+   "location": "PDF p. 1, header and rule 1(2)",
+   "quote": "नेपाल राजपत्रमा प्रकाशित मिति २०५१।०२।२३",
+   "countries": ""
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "jurisdiction": "NPL",
+   "program_id": "npl-investor-residential-visa",
+   "category": "rule_change",
+   "title": "Nepal sets the residential-visa investor ground at US$100,000 in industry (first amendment of the Immigration Rules)",
+   "description": "Rule 11(1)(घ) of the Immigration Rules 2051, as amended by the Immigration (First Amendment) Rules 2058 (Gazette 2058-02-22 BS; 2001 by the document's own date anchor), gives a residential visa to a person who invests at least US$100,000, or the equivalent in convertible foreign currency, at one time in Nepal's industrial business. The year is converted from the Bikram Sambat date; quote transcribed from the page image.",
+   "source_id": "npl-immigration-rules-2051",
+   "location": "PDF p. 10, rule 11(1)(घ) and footnote; PDF p. 1, amendment table",
+   "quote": "कम्तिमा एकलाख अमेरिकी डलर वा सो बराबरको परिवत्र्य विदेशी मुद्रा एकैपटक लगानी गर्ने व्यक्ति",
+   "countries": ""
+  },
+  {
+   "date": "1984-01-01",
+   "date_precision": "day",
+   "jurisdiction": "MAC",
+   "program_id": "mac-investor-residence",
+   "category": "launch",
+   "title": "Macau decree on residence for holders of capital investments (DL 50/83/M) comes into force",
+   "description": "DL 50/83/M of 17 Dec 1983 lets non-Portuguese holders of capital investments recognised by the Governor as of particular interest (property in Macau, a commercial or industrial establishment, a shareholding in a Macau company) obtain authorisation to reside in Macau, with spouse and up to six family members; amounts set by the Governor's despacho; permits one year, renewable. Art. 16 puts it in force on 1 Jan 1984.",
+   "source_id": "mac-bo-dl-50-83-m",
+   "location": "Art. 1(1) and art. 16",
+   "quote": "O presente diploma entra em vigor em 1 de Janeiro de 1984.",
+   "countries": ""
+  },
+  {
+   "date": "1984-01-28",
+   "date_precision": "day",
+   "jurisdiction": "MAC",
+   "program_id": "mac-investor-residence",
+   "category": "rule_change",
+   "title": "Macau replaces DL 50/83/M with DL 3/84/M, effective from 1 January 1984",
+   "description": "DL 3/84/M (BO n.º 5, 28 Jan 1984) revokes DL 50/83/M, whose wording did not match the legislative intent, and re-enacts the investor-residence regime: residence for non-Portuguese holders of capital applied in undertakings recognised by the Governor as of particular interest. Art. 16 gives it effect from 1 Jan 1984. Revoked by DL 14/95/M from 1 Apr 1995.",
+   "source_id": "mac-bo-dl-3-84-m",
+   "location": "Art. 1(1) and art. 16",
+   "quote": "O presente diploma produz efeitos desde 1 de Janeiro de 1984",
+   "countries": ""
+  },
+  {
+   "date": "2008-08-01",
+   "date_precision": "day",
+   "jurisdiction": "TWN",
+   "program_id": "twn-apr-investment",
+   "category": "launch",
+   "title": "Taiwan's revised Immigration Act brings in permanent residence for investment immigrants",
+   "description": "The full revision of the Immigration Act promulgated 26 Dec 2007 (art. 25(3)) lets foreigners apply to the immigration agency for investment immigration; once approved and the investment made, permanent residence is granted. The Executive Yuan fixed its entry into force at 1 Aug 2008. The 1999 Act and its 2002-2003 amendments had no such route.",
+   "source_id": "twn-moj-immigration-act-history-2026",
+   "location": "Item 5 (2007 full revision)",
+   "quote": "令修正公布全文 97 條；施行日期，由行政院定之 ... 自九十七年八月一日施行",
+   "countries": ""
+  },
+  {
+   "date": "2007-12-26",
+   "date_precision": "day",
+   "jurisdiction": "TWN",
+   "program_id": "twn-apr-investment",
+   "category": "rule_change",
+   "title": "Taiwan promulgates the revised Immigration Act with an investment-immigration route to permanent residence",
+   "description": "Art. 25(3) of the revised Act (promulgated 26 Dec 2007, in force 1 Aug 2008): foreigners may apply for investment immigration and, once approved and the investment made, are granted permanent residence. Recorded for the text itself; the launch is dated to the entry into force.",
+   "source_id": "twn-moj-immigration-act-2007",
+   "location": "Art. 25, para. 3",
+   "quote": "外國人得向入出國及移民署申請在我國投資移民，經審核許可且實行投資",
+   "countries": ""
+  },
+  {
+   "date": "1999-05-31",
+   "date_precision": "day",
+   "jurisdiction": "TWN",
+   "program_id": "twn-hkmo-investment-residence",
+   "category": "rule_change",
+   "title": "Hong Kong and Macao residence regulations (full revision) list investment of NT$5 million as a ground for residence",
+   "description": "The earliest text found: art. 16(1)(5) of the regulations as they stood on 6 Aug 2001 gives residence to a Hong Kong or Macao resident with an investment in Taiwan of NT$5 million or more approved by the central authority, and art. 16(1)(6) to one who remits NT$5 million and keeps it on deposit for a year. Art. 16 was not amended in 2000 or 2001 (amendment history), so the wording dates from the full revision issued 31 May 1999 (dated by us from the history). Whether the original regulations of 30 June 1997 already had it is not known; launch left empty.",
+   "source_id": "twn-moi-hkmo-residence-regs-2001",
+   "location": "Art. 16(1)(5)",
+   "quote": "在臺灣地區有新台幣五百萬元以上之投資，經中央目的事業主管機關",
+   "countries": ""
+  },
+  {
+   "date": "2014-06-10",
+   "date_precision": "day",
+   "jurisdiction": "TWN",
+   "program_id": "twn-hkmo-investment-residence",
+   "category": "price_change",
+   "title": "Taiwan raises the investment threshold for Hong Kong and Macao residents to NT$6 million",
+   "description": "The 10 Jun 2014 amendment of art. 17 (the investment ground, renumbered in the 2009 revision) raises it to NT$6 million and drops the NT$5 million deposit route; the 9 Dec 2013 version still read NT$5 million.",
+   "source_id": "twn-moi-hkmo-residence-regs-2014",
+   "location": "Art. 17(1)(5)",
+   "quote": "在臺灣地區有新臺幣六百萬元以上之投資，經中央目的事業主管機關",
+   "countries": ""
+  },
+  {
+   "date": "2002-04-18",
+   "date_precision": "day",
+   "jurisdiction": "KOR",
+   "program_id": "kor-fdi-investor-residence",
+   "category": "launch",
+   "title": "Korea gives residence (F-2) to investors and creates permanent residence (F-5)",
+   "description": "Presidential Decree No. 17579 (promulgated and in force 18 Apr 2002) amends annex 1 of the Immigration Act Enforcement Decree: F-2 residence for a person who invests at least an amount and period set by the Minister of Justice in a domestic business and keeps running it, and new F-5 permanent residence, including for such investors after 5 years in F-2 who created jobs for Koreans. The amount was left to the Minister and is not in the decree.",
+   "source_id": "kor-moleg-immigration-decree-2002",
+   "location": "Annex 1 item 27 (F-2); 부칙 제1조; reasons for amendment",
+   "quote": "장기체류외국인 및 투자외국인중 일정한 자격을 갖춘 자에 대하여 영주자격을 부여할 수 있도록 하고",
+   "countries": ""
+  },
+  {
+   "date": "2003-09-01",
+   "date_precision": "day",
+   "jurisdiction": "KOR",
+   "program_id": "kor-fdi-investor-residence",
+   "category": "rule_change",
+   "title": "Korea: investors of US$500,000 may get permanent residence after 3 years instead of 8",
+   "description": "Presidential Decree No. 18097 (in force on promulgation, 1 Sep 2003): F-5 for a foreign investor of US$500,000 or more who has stayed 3 years in corporate-investor (D-8) status and contributed to job creation.",
+   "source_id": "kor-moleg-immigration-decree-2003",
+   "location": "Reasons for amendment, item 마; annex 1 item 28-3",
+   "quote": "미국화폐 50만불 이상을 투자한 외국인이 영주자격을 취득하기 위하여 필요한 체류기간을 8년에서 3년으로 단축하여",
+   "countries": ""
+  },
+  {
+   "date": "2005-09-25",
+   "date_precision": "day",
+   "jurisdiction": "KOR",
+   "program_id": "kor-fdi-investor-residence",
+   "category": "rule_change",
+   "title": "Korea lowers the direct permanent-residence investment from US$5 million to US$2 million with 5 Korean employees",
+   "description": "Presidential Decree No. 18934 (5 Jul 2005, in force 25 Sep 2005): F-5 for a foreign investor of US$2 million employing 5 or more Koreans, replacing the earlier US$5 million item.",
+   "source_id": "kor-moleg-immigration-decree-2005",
+   "location": "Reasons for amendment, item 라; 부칙 ①",
+   "quote": "미화 200만불 이상을 투자하고 대한민국의 국민을 5인 이상 고용한 자",
+   "countries": ""
+  },
+  {
+   "date": "2008-09-01",
+   "date_precision": "day",
+   "jurisdiction": "KOR",
+   "program_id": "kor-fdi-investor-residence",
+   "category": "rule_change",
+   "title": "Korea: permanent residence for foreign investors of US$500,000 employing 5 Koreans",
+   "description": "Presidential Decree No. 20892 (3 Jul 2008): annex 1 item 28-3(다), in force 1 Sep 2008, gives F-5 to a foreign investor under the Foreign Investment Promotion Act who invested US$500,000 or more and employs 5 or more Koreans (the current item 3 of annex 1-3 in substance).",
+   "source_id": "kor-moleg-immigration-decree-2008",
+   "location": "부칙",
+   "quote": "제28호의3 영주(F-5)란 다목의 개정규정은 2008년 9월 1일부터 시행한다",
+   "countries": ""
+  },
+  {
+   "date": "2011-12-15",
+   "date_precision": "day",
+   "jurisdiction": "KOR",
+   "program_id": "kor-fdi-investor-residence",
+   "category": "rule_change",
+   "title": "Korea: residence (F-2) for investors of US$500,000 after 3 years in D-8, or US$300,000 with 2 Korean employees",
+   "description": "Presidential Decree No. 23274 (1 Nov 2011, in force 15 Dec 2011) adds annex 1 item 27(라): F-2 for foreign investors under the Foreign Investment Promotion Act who invested US$500,000 and stayed 3 years in D-8, or invested US$300,000 and employ 2 or more Koreans.",
+   "source_id": "kor-moleg-immigration-decree-2011",
+   "location": "Reasons for amendment, item 나; 부칙 제1조",
+   "quote": "미화 30만 달러 이상 투자하고 국민을 2명 이상 고용하고 있는 외국인에게도 거주(F-2) 체류자격을 부여할 수 있도록",
+   "countries": ""
+  },
+  {
+   "date": "1986-11-07",
+   "date_precision": "day",
+   "jurisdiction": "PHL",
+   "program_id": "phl-sirv",
+   "category": "launch",
+   "title": "Philippines creates the Special Investor Resident Visa (Executive Order 63)",
+   "description": "EO 63 of 7 Nov 1986 grants a multiple-entry special investor resident visa to an alien investing at least US$50,000 in a tourist-related project or establishment, with spouse and unmarried minor children, for as long as the investment subsists (visits at least twice a year, 7 days each). It takes effect immediately (no other in-force date stated; the order is dated 7 Nov 1986).",
+   "source_id": "phl-eo-63-1986",
+   "location": "Secs. 1, 2(a) and 6",
+   "quote": "Special Investor Resident Visa. The investor, his wife and unmarried minor children shall be permitted to enter and reside in the Philippines as special investor residents for as long as the investment subsists",
+   "countries": ""
+  },
+  {
+   "date": "1987-07-16",
+   "date_precision": "day",
+   "jurisdiction": "PHL",
+   "program_id": "phl-sirv",
+   "category": "rule_change",
+   "title": "Omnibus Investments Code opens the Special Investors Resident Visa to any investment of US$75,000",
+   "description": "EO 226 (Omnibus Investments Code, 16 Jul 1987, in force upon approval), Book V arts. 74-75: a Special Investors Resident Visa for any alien who invests at least US$75,000 in the Philippines (US$50,000 for those under EO 63 and EO 1037), valid while the investment subsists.",
+   "source_id": "phl-eo-226-1987",
+   "location": "Book V, art. 74(4); art. 86",
+   "quote": "He is willing and able to invest the amount of at least US$75,000.00 in the Philippines",
+   "countries": ""
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "dom-investor-residence",
+   "launched": "2004-08-27",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "ecu-investor-residence",
+   "launched": "2017-02-06",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "hnd-investor-residence",
+   "launched": "2004-05-02",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "per-investor-residence",
+   "launched": "2017-03-01",
+   "legal_basis": "1991-11-05"
+  },
+  {
+   "program_id": "slv-investor-naturalisation",
+   "launched": "2024-01-17"
+  },
+  {
+   "program_id": "zaf-business-visa-investor",
+   "launched": "2003-03-12"
+  },
+  {
+   "program_id": "ind-investor-prs",
+   "launched": "2016-10-17"
+  },
+  {
+   "program_id": "mac-investor-residence",
+   "launched": "1984-01-01"
+  },
+  {
+   "program_id": "twn-apr-investment",
+   "launched": "2008-08-01"
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "launched": "2002-04-18"
+  },
+  {
+   "program_id": "phl-sirv",
+   "launched": "1986-11-07"
+  },
+  {
+   "program_id": "nic-investor-residence",
+   "launched": "1993-04-30"
+  },
+  {
+   "program_id": "pry-investor-residence",
+   "launched": "1996-11-08"
+  },
+  {
+   "program_id": "fji-investor-permit",
+   "launched": "1982-05-07"
+  }
+ ],
+ "new_indicators": [],
+ "gaps": [
+  "nic-investor-residence: launched left for a person. Ley 761 (in force Aug 2011, counted) continues an 'inmigrante con capital' residence that Ley 153 already had in 1993 (read, stored), which in turn repealed the 1982 Ley de Migración (Decreto 1031, not read). Under decision 14 the 1993 text could be an earlier programme with its own legal basis or the start of this one.",
+  "dom-investor-residence: launched uses the publication date 27 Aug 2004 as cited in Decreto 631-11 (law states no in-force date); the 1939 Ley 95 on migration was not read, and the DGM site (migracion.gob.do) is behind a Cloudflare bot check.",
+  "hnd-investor-residence: in-force date 2 May 2004 counted from 'sixty days after publication'; the repealed Decreto 34 of 1970 was not read.",
+  "ecu-investor-residence: the repealed Ley de Extranjería (investor immigrant categories) was not read; the regulation stored is a 2018 consolidation, so the original 2017 amounts are not confirmed.",
+  "pan-ciudad-saber-investor: no date. Stored DE 320 (2008) art. 108-113 sets the City of Knowledge 'empresario o ejecutivo' permit with no investment amount; Decreto Ley 6 of 1999 could not be fetched (web search budget exhausted; DuckDuckGo/Bing fallback returned bot pages). Scope under decision 15 still doubtful.",
+  "pan-small-business-investor: no date. No stored or found text sets the category; DE 320 (2008) has no such section and names no repealed rules; pre-2008 Panamanian migration rules (Decreto Ley 16 of 1960 and its regulations) not found (search budget exhausted).",
+  "pry-investor-residence: launched left for a person. Read Ley 6984/2022 (published 18 Oct 2022, no in-force date stated; art. 46 gives SUACE investors direct permanent residence) and Ley 978/1996 (promulgated 8 Nov 1996; already admitted investors as permanent residents, arts. 14 and 18). Whether the programme starts in 1996 (investor permanent residence) or 2022 (direct route for SUACE certificate holders) is a judgement call; Ley 470/1974 (repealed by Ley 978) was not read, and Ley 978 has no publication/in-force date in the record. The OAS copy of Ley 978 was behind a Cloudflare check and the BACN PDF of Ley 6984 returned 403 (HTML transcriptions used instead).",
+  "zmb-investor-permit: not dated. The ZDA Act 2006 commencement statutory instrument was not found (ZambiaLII returns 403); the ZDA Act repealed the Investment Act (Cap. 385, 1993), which may already have tied an investment to a residence or self-employment permit, not read. The 1965 Immigration and Deportation Act (Cap. 123, parliament.gov.zm copy) was checked: it has a self-employment permit but no investor's permit. Note: parliament.gov.zm lists a Zambia Development Agency Act 2022 and an Immigration Control Act 2026, which may have replaced both Acts (status not checked).",
+  "zwe-investor-residence-permit: not dated. Immigration Regulations 1998 (SI 195/1998) not obtained (ZimLII returns 403; Veritas has the Act consolidations of 2002/2006 without a file link, and SI 55/2026 only amends border posts). No official text giving the start of the investor residence permit found.",
+  "per-investor-residence: launched 2017-03-01 follows decision 14 (first text with a dedicated investor residence status). A person may prefer the 1991 'Independiente' status (DL 703) or the D.S. 003-2012-IN investor sub-category (not read) as the start. DL 1236 of 2015 also had an 'Inversionista' status but, per secondary summaries, only entered into force on regulation, which never came before DL 1350 repealed it (not read). The existing rule_change event of 2017-03-01 duplicates the new launch event and could be removed via corrections.",
+  "zaf-business-visa-investor: launched 2003-03-12 rests on the gov.za portal's commencement record, not on Gazette 24951 itself (not obtained). Aliens Control Act 1991 business/investor permits not researched.",
+  "Web search budget for the session ran out mid-task (200/200); later lookups used curl on official sites only.",
+  "fji-investor-permit: launched left empty. The investor permit of the Immigration Regulations 2007 (commenced 4 Jan 2008, LN 5 of 2008) continues the 7-year, $250,000 capital permit of para 4(2) of the Immigration Directions 1971, inserted with effect from 7 May 1982 (LN 40 of 1982); para 4(1)(f) of the 1971 Directions also allowed business/capital permits, but its original 1971 wording is not shown (amended 1982, 1984). Proposed for a person: 2008-01-04 if the 2007 permit counts as its own programme (different Act: Immigration Act 2003 vs 1971), otherwise 1982-05-07 or possibly 1971-05-21 (Directions commencement) if the original 4(1)(f) already covered capital. Only an unofficial consolidation (ecoi.net, DLA Piper metadata) was read; laws.gov.fj section URL returned 404.",
+  "npl-investor-residential-visa: launched left empty. Rule 11 (residential visa) is in the original Immigration Rules 2051 (published 2051-02-23 BS, 1994, in force immediately), but clause (घ), now the US$100,000 investor ground, was amended by the first amendment (2058-02-22 BS, 2001), and the original wording of (घ) was not found. If the original (घ) was an investment ground, launched = 1994 (year; exact AD day not converted); otherwise 2001. Searched the Law Commission's regulation volumes (only the current consolidated version is online) and the Department of Immigration site (no rules files).",
+  "mus-property-residence: launched left empty. The consolidated Immigration Act (to 2009) shows s. 5 amended by s. 13(a) of Act 20 of 2002 w.e.f. 1 Sep 2002 (and ss. 5A, 6, 6A, 7 by the same Act), which is the likely origin of resident status for Integrated Resort Scheme owners (s. 5(1)(g)), but the consolidation does not say what each amendment did, and Act 20 of 2002 (probably the Finance Act 2002) could not be obtained: not on mra.mu's Finance Act list (starts 2015), not found via National Assembly or Ecolex/FAOLEX. The Investment Promotion Act consolidation (FAOLEX) shows IRS certificates existed before 1 Oct 2006 but gives no start date. The Investment Promotion (Integrated Resort Scheme) Regulations 2002 were not found.",
+  "jor-property-residence: launched left empty. Stored texts: JIC sheet (Jan 2021) already describes the 5-year property residence (JOD 200,000); Cabinet decision 3657 (13 Sep 2021) amended it; the investors' committee was formed by Cabinet decision 5995 of 19 Aug 2019 (cited in the 2025 mechanism). The Cabinet decision that first created the property route was not found (web search budget exhausted before a Prime Ministry/Gazette search could be done).",
+  "mys-sarawak-mm2h: launched left empty. Stored guide (2025) and news item (2024) give no start year; the Sarawak ministry's site (S-MM2H pages, ministry history page 91) has no programme history. No official text dating the programme's creation was found.",
+  "syc-eden-island-residence: launched left empty. Stored Immigration Department texts (fee schedule 2020, 2013 quick guide to the Immigration rules, which says an Eden Island residence gives eligibility for a residence permit) give no legal basis or start date. SeyLII search returned HTTP 403 (not bypassed). No official text found.",
+  "vut-1990s: launched left empty. The IMF (2015) says only that there were attempts 'in the 1990s' to set up passport-selling schemes and that 300 passports were sold in 1996-1997; the GlobalCit Oceania report (2020) adds the 1998 Ombudsman report on diplomatic passports. Neither names a scheme, a law or a start year, and no Vanuatu legal text (e.g. a 1990s Citizenship Act amendment) was read.",
+  "twn-hkmo-investment-residence: launch not dated. The investment ground (NT$5 million) is in the earliest text the MOJ database holds (6 Aug 2001; art. 16 unchanged since the 31 May 1999 full revision), but the original regulations of 30 June 1997 (Interior Ministry order (86)台內警字第8680202號) were not obtained: the database keeps historical texts only from April 2001, and the web-search budget ran out before the 1997 Interior Ministry or Executive Yuan gazette could be traced."
+ ],
+ "leads": [
+  "Panama Gaceta Oficial (gacetaoficial.gob.pa) for Decreto Ley 6 of 1999 (Ciudad del Saber) and pre-2008 migration decrees creating 'Inversionista de Pequeña Empresa'.",
+  "Dominican Ley 95 of 1939 (Migración) and Reglamento 279 of 1939, cited in Ley 285-04 art. 150, for any earlier investor category.",
+  "Honduras Decreto 34 of 1970 (Ley de Población y Política Migratoria) for an earlier investor category.",
+  "Ecuador Ley de Extranjería (codification 2004) for 'inmigrante inversionista' categories under art. 9.",
+  "Original Registro Oficial Suplemento 55 (10 Aug 2017) with the LOMH regulation: https://servicios.inclusion.gob.ec/Lotaip_Mies/phocadownload/08_ago_2017/literal_a2_base_legal/ (server did not respond).",
+  "South Africa: Proclamation in Government Gazette 24951 of 20 Feb 2003 (Immigration Act commencement); SAFLII consolidated Act https://www.saflii.org/za/legis/consol_act/ia2002138/ (403 to curl).",
+  "Zambia: Zambia Development Agency Act 2022 and Immigration Control Act 2026 on parliament.gov.zm (search node 13008 for the 2026 Act) may change the investor's permit; Investment Act 1993 (Cap. 385).",
+  "Paraguay: Ley 978/1996 PDF on BACN (https://www.bacn.gov.py/leyes-paraguayas/3211/ley-n-978-migraciones, 'Descargar Archivo') for the Gaceta publication date; Ley 470/1974.",
+  "Peru: D.S. 003-2012-IN and DL 1236 (El Peruano, 26 Sep 2015) for the earlier investor sub-category.",
+  "MUS: Act 20 of 2002 (s. 13 amends the Immigration Act w.e.f. 1 Sep 2002) and the Investment Promotion (Integrated Resort Scheme) Regulations 2002: Government Gazette of Mauritius 2002, or the Attorney General's / Supreme Court legislation databases.",
+  "FJI: official consolidated Immigration Regulations 2007 and Immigration Directions 1971 on laws.gov.fj; LN 40 of 1982 and LN 9 of 1996 (amounts before 1997).",
+  "NPL: Immigration (First Amendment) Rules 2058 in the Nepal Gazette 2058-02-22 BS, or an older Law Commission print of the 2051 rules, to see the original clause (घ).",
+  "IND: the MHA order of 17.10.2016 itself (Foreigners Division) and the Visa Manual chapter on PRS; MHA Annual Report 2016-17 has a similar paragraph (text layer mis-encoded; OCR needed).",
+  "JOR: Prime Ministry (pm.gov.jo) Cabinet news 2018-2019 on residence for property buyers; Jordan Investment Commission archived conditions sheets before 2021.",
+  "SYC: Immigration Decree regulations / Eden Island scheme notices on SeyLII (blocked, 403) or the Seychelles Gazette.",
+  "TWN HKMO: the 30 June 1997 original of 香港澳門居民進入臺灣地區及居留定居許可辦法 (內政部(86)台內警字第8680202號令) - try the 內政部公報 / 行政院公報 for July 1997 or the Mainland Affairs Council archive, to see whether the investment ground was there from the start (likely, but unread).",
+  "PHL SIRV: the Official Gazette copy of EO 63 (1986) and EO 226 (1987) (officialgazette.gov.ph returned 403 to curl); Lawphil also has a scan of the signed EO 63 at https://lawphil.net/executive/execord/eo1986/pdf/eo_63_1986.pdf.",
+  "KOR: the Minister of Justice notice that set the F-2 investment amount after the 18 Apr 2002 decree, and the decree version that first set the US$5 million direct F-5 item (between Sep 2003 and Aug 2004)."
+ ],
+ "programme_ledger": [
+  {
+   "program_id": "dom-investor-residence",
+   "searched": "Ley 285-04 (MIP copy, DGII copy link), Decreto 631-11 (DGII scan, OCR), DGM site (blocked)",
+   "outcome": "launched 2004-08-27 (publication; law has no in-force clause); rule_change 2011-10-19 US$200,000"
+  },
+  {
+   "program_id": "ecu-investor-residence",
+   "searched": "LOMH RO Supl. 938 (FAOLEX), Reglamento DE 111 consolidated (FAOLEX)",
+   "outcome": "launched 2017-02-06 (in force on publication); 3 terms in SBU"
+  },
+  {
+   "program_id": "hnd-investor-residence",
+   "searched": "Ley de Migración y Extranjería, La Gaceta 30,331 (FAOLEX; INM link returned non-PDF)",
+   "outcome": "launched 2004-05-02 (counted, 60 days after 3 Mar 2004); USD 50,000 term"
+  },
+  {
+   "program_id": "nic-investor-residence",
+   "searched": "Ley 761 Gaceta 126 (2nd part), Ley 153 Gaceta 80 of 1993; Ley 154 Gaceta 81 downloaded and skimmed only",
+   "outcome": "events recorded (1993 context, 2011-08 rule_change); launched left for a person"
+  },
+  {
+   "program_id": "pan-ciudad-saber-investor",
+   "searched": "stored DE 320 (2008) arts. 108-113; attempted Decreto Ley 6/1999",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "pan-small-business-investor",
+   "searched": "stored Panama texts (only SNM statistics mention the category)",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "per-investor-residence",
+   "read": "per-dl-1350-2017 (stored; vigencia clause and art. 29.2(f)); per-dl-703-1991 (downloaded, full text)",
+   "outcome": "launched 2017-03-01; DL 703 recorded as context"
+  },
+  {
+   "program_id": "pry-investor-residence",
+   "read": "pry-ley-6984-2022 and pry-ley-978-1996 (BACN HTML full texts); stored MIC guide and news",
+   "outcome": "two events; launched left for a person"
+  },
+  {
+   "program_id": "slv-investor-naturalisation",
+   "read": "slv-do-5-2024-dl-918 (Diario Oficial 9 Jan 2024, pp. 4-5 OCR + visual check); stored consolidated law footnote",
+   "outcome": "launched 2024-01-17 (in force 8 days after publication, counted by us)"
+  },
+  {
+   "program_id": "zaf-business-visa-investor",
+   "read": "stored Act (s. 55 commencement by proclamation); gov.za document page (commencement dates)",
+   "outcome": "launched 2003-03-12 from the government portal record"
+  },
+  {
+   "program_id": "zmb-investor-permit",
+   "read": "stored ZDA Act 2006 (commencement by SI, s. 1) and Immigration Act 2010; Cap. 123 consolidation from parliament.gov.zm (not stored; no investor permit)",
+   "outcome": "not dated; gap"
+  },
+  {
+   "program_id": "zwe-investor-residence-permit",
+   "read": "stored Immigration Department page; Veritas search (SI 55/2026 only)",
+   "outcome": "not dated; gap"
+  },
+  {
+   "program_id": "fji-investor-permit",
+   "searched": "stored fji-immig-investor-permit-2026; web: laws.gov.fj (404), ecoi.net consolidation (read in full for regs 39-41 and Directions 1971)",
+   "outcome": "events 1982-05-07 and 2008-01-04, three terms; launched left for a person"
+  },
+  {
+   "program_id": "ind-investor-prs",
+   "searched": "stored ind-pmo-prs-cabinet-2016; MHA site (visa manual pages 404), MHA annual reports 2016-17, 2017-18, 2018-19",
+   "outcome": "launched 2016-10-17 from MHA Annual Report 2017-18 (order date; order itself not stored); three terms"
+  },
+  {
+   "program_id": "jor-property-residence",
+   "searched": "stored jor-jic-conditions-2021, jor-pm-cabinet-bases-2021, jor-moin-bases-2023, jor-moi-brochure-2025, jor-moin-mechanism-4375-2025",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "mus-property-residence",
+   "searched": "stored consolidated Immigration Act, Finance Acts 2015-2025, EDB guidelines and annual report; web: MRA legislation list, National Assembly, Ecolex/FAOLEX (Investment Promotion Act consolidation read for IRS)",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "mys-sarawak-mm2h",
+   "searched": "stored guide 2025 and news 2024; Sarawak MTCP site pages 91, 260-264",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "npl-investor-residential-visa",
+   "searched": "stored embassy page; Law Commission regulation volumes (found and read Immigration Rules 2051, pp. 1, 9-10 from page images); Department of Immigration site",
+   "outcome": "events 1994 (context) and 2001 (rule_change), one term; launched left for a person"
+  },
+  {
+   "program_id": "syc-eden-island-residence",
+   "searched": "stored ICS fee schedule 2020, quick guide 2013, other ICS forms; SeyLII (403)",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "vut-1990s",
+   "searched": "stored vut-imf-art4-2015 (Box), intl-eui-globalcit-oceania-2020",
+   "outcome": "gap"
+  },
+  {
+   "program_id": "mac-investor-residence",
+   "searched": "Stored DL 14/95/M (refers to applications pending under DL 3/84/M); Wayback CDX of bo.io.gov.mo (site itself unreachable) for DL 3/84/M and its predecessor DL 50/83/M; read both in full.",
+   "outcome": "launched 1984-01-01 (DL 50/83/M in force 1 Jan 1984; DL 3/84/M replaced it with effect from the same day). Amounts were set by despacho, not in the decrees, so no terms."
+  },
+  {
+   "program_id": "twn-apr-investment",
+   "searched": "MOJ database: Immigration Act history page; full texts of versions 1999-05-21, 2002-05-29, 2002-07-10, 2003-02-06, 2007-12-26.",
+   "outcome": "launched 2008-08-01 (in force date of the 2007 full revision that added art. 25(3)); 1999-2003 texts have no investment route to permanent residence. No amounts in the Act (set by NIA guidelines, already stored)."
+  },
+  {
+   "program_id": "twn-hkmo-investment-residence",
+   "searched": "MOJ database: regulations history page; versions 2001-08-06, 2002-03-06, 2004-11-22, 2006-12-22, 2009-02-25, 2010-09-07, 2012-01-16, 2013-08-02, 2013-12-09, 2014-06-10, 2015-07-13, 2018-02-06, 2021-08-20; pre-2001 versions not in the database. Also checked the HK-Macao Relations Act (no investment ground; left to the regulations).",
+   "outcome": "launched left empty (1997 original not read); events for the earliest text found (1999 wording) and the 2014 rise to NT$6 million; three terms."
+  },
+  {
+   "program_id": "kor-fdi-investor-residence",
+   "searched": "law.go.kr Open API history list of the Immigration Act Enforcement Decree; scanned all 64 versions 1966-2012 for investor F-2/F-5 items; read 2001-07-17, 2002-04-18, 2002-11-06, 2003-09-01, 2004-08-17, 2005-09-25, 2008-03-22, 2008-07-03, 2010-11-15, 2011-12-15 versions.",
+   "outcome": "launched 2002-04-18 (first investor route to F-2 and F-5; amount left to the Minister). Rule changes 2003, 2005, 2008, 2011 recorded with amounts."
+  },
+  {
+   "program_id": "phl-sirv",
+   "searched": "Lawphil EO indexes 1986-2000; EO 63 (1993, wrong document), EO 63 (1986), EO 226 (1987), EO 1037 (1985, retirement parks, not SIRV). Official Gazette and BOI returned 403.",
+   "outcome": "launched 1986-11-07 (EO 63, effective immediately); EO 226 Book V (1987) generalised it at US$75,000. Text from Lawphil, not the Gazette."
+  }
+ ],
+ "ledger": [
+  {
+   "source_id": "nic-gaceta-126-2011-ley-761",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "nic-gaceta-80-1993-ley-153",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "ecu-ro-938-2017-lomh",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "ecu-de-111-2017-reglamento-lomh",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 3 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "hnd-gaceta-30331-2004-ley-migracion",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "dom-ley-285-04-mip",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "dom-decreto-631-11",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "per-dl-703-1991",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "pry-ley-6984-2022",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "pry-ley-978-1996",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "slv-do-5-2024-dl-918",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "zaf-govza-immigration-act-page",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "fji-immig-regs-2007-consol",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 3 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "ind-mha-ar-2017-18",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 3 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "npl-immigration-rules-2051",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "mac-bo-dl-50-83-m",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "mac-bo-dl-3-84-m",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "twn-moj-immigration-act-2007",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "twn-moj-immigration-act-history-2026",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-2001",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-2014",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "twn-moi-hkmo-residence-regs-history-2026",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2002",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2003",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2005",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2008",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "kor-moleg-immigration-decree-2011",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "phl-eo-63-1986",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "phl-eo-226-1987",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  }
+ ]
+}

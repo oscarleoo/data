@@ -1,0 +1,1395 @@
+{
+ "slug": "research-cbi-launch-dates-a-2026-10-10",
+ "researched_on": "2026-10-10",
+ "summary": "Launch dates for 22 investment-migration programmes (batch A) under METHODOLOGY decision 14. Dated from founding texts: aus-business-skills-investor, blr-investor-residence, che-wealthy-residence-permit, cym-cdi, cym-pim-residency, geo-property-residence, fra-passeport-talent-investor (government circular; JO blocked), ltu-investor-residence, mne-property-residence (application date). Year-only from secondary or indirect accounts: aze (2009), bgr (2005, EC), blz (1995, IMF), est (2009, EC), che-lump-sum-taxation (1862, Federal Council message). Legal basis only: cyp-golden-visa (1972). Left blank: aut-special-interest (by design), brb-serp, can-qc-investor, col-investor-visa, cri-inversionista, cuw-investor-permit, tca-home-owner-permit.",
+ "sources": [
+  {
+   "source_id": "aus-leg-sr-2002-348",
+   "title": "Migration Amendment Regulations 2002 (No. 10), Statutory Rules 2002 No. 348",
+   "publisher": "Commonwealth of Australia (Federal Register of Legislation)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "AUS",
+   "published_date": "2002-12-19",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.legislation.gov.au/F2002B00355/asmade",
+   "archive_url": "",
+   "raw_file": "raw/aus-leg-sr-2002-348.pdf",
+   "covers": "Amending regulations made 19 Dec 2002; Schedule 2 (in force 1 March 2003) inserts the provisional business skills visas incl. Subclass 162 Investor (Provisional), 165 State/Territory Sponsored Investor (Provisional), and the residence subclasses 891/893.",
+   "notes": "Authorised version registered 26/02/2022 (scan with text layer); the text layer misreads some figures ('AUDI 500 000' = AUD1 500 000, 'AUDI 125 000' = AUD1 125 000). Downloaded via the legislation.gov.au API."
+  },
+  {
+   "source_id": "blr-etalon-law-105z-original",
+   "title": "Закон Республики Беларусь от 4 января 2010 г. № 105-З «О правовом положении иностранных граждан и лиц без гражданства в Республике Беларусь» (исходный текст)",
+   "publisher": "National Centre of Legislation and Legal Information of the Republic of Belarus (etalonline.by)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "BLR",
+   "published_date": "2010-01-20",
+   "accessed_date": "2026-10-10",
+   "url": "https://etalonline.by/document/?regnum=h11000105&date=original",
+   "archive_url": "",
+   "raw_file": "raw/blr-etalon-law-105z-original.html",
+   "covers": "Original (as adopted) text of the 2010 Law on the Legal Status of Foreign Citizens, incl. art. 53 (permanent residence, investor ground EUR 150,000) and art. 76 (entry into force).",
+   "notes": "Retrieved with the 'date=original' parameter; the text differs from the current edition (7-year residence ground, EUR 150,000 investor ground), consistent with the 'Исходный текст' edition listed on the page."
+  },
+  {
+   "source_id": "blr-pravo-105z-card",
+   "title": "Информация о документе: Закон Республики Беларусь от 4 января 2010 г. № 105-З (Национальный реестр, карточка)",
+   "publisher": "National Legal Internet Portal of the Republic of Belarus (pravo.by)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "BLR",
+   "published_date": "",
+   "accessed_date": "2026-10-10",
+   "url": "https://pravo.by/document/?guid=3961&p0=H11000105",
+   "archive_url": "",
+   "raw_file": "raw/blr-pravo-105z-card.html",
+   "covers": "Registry card of Law 105-З: registration 2/1657, official publication 20 Jan 2010, entry into force 21.07.2010, list of amending laws.",
+   "notes": "Official registry metadata."
+  },
+  {
+   "source_id": "aze-sms-news-2009-08-19",
+   "title": "Amendments to the Decision №102 of the Cabinet of Ministers of Azerbaijan Republic dated June 30, 2009 have been made with the Decision №126 of the Cabinet of Ministers dated August 18, 2009",
+   "publisher": "State Migration Service of the Republic of Azerbaijan",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "AZE",
+   "published_date": "2009-08-19",
+   "accessed_date": "2026-10-10",
+   "url": "https://migration.gov.az/en/news_detail/8304",
+   "archive_url": "",
+   "raw_file": "raw/aze-sms-news-2009-08-19.html",
+   "covers": "News item: Cabinet Decision 102 of 30 June 2009 approved the temporary-residence regulations and defined the investment and deposit amounts that ground temporary residence; Decision 126 of 18 Aug 2009 set them at AZN 500,000 and AZN 50,000.",
+   "notes": "Government news summary, not the decision itself; the decisions' texts (refworld copy) are behind a bot check and were not read."
+  },
+  {
+   "source_id": "che-fedlex-vzae-2008",
+   "title": "Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) vom 24. Oktober 2007, SR 142.201, version in force on 1 January 2008",
+   "publisher": "Swiss Confederation (fedlex)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CHE",
+   "published_date": "2008-01-01",
+   "accessed_date": "2026-10-10",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20080101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2007-759-20080101-de-pdf-a.pdf",
+   "archive_url": "",
+   "raw_file": "raw/che-fedlex-vzae-2008.pdf",
+   "covers": "Original text of the ordinance: art. 32(1)(c) residence permits for substantial cantonal fiscal interests; art. 92 entry into force 1 Jan 2008",
+   "notes": "Consolidated version 'Stand am 1. Januar 2008' (first version), not the AS publication."
+  },
+  {
+   "source_id": "che-fedlex-bvo-2007",
+   "title": "Verordnung über die Begrenzung der Zahl der Ausländer (BVO) vom 6. Oktober 1986, SR 823.21, version of 12 December 2006 (applicable 1 January 2007)",
+   "publisher": "Swiss Confederation (fedlex)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CHE",
+   "published_date": "2006-12-12",
+   "accessed_date": "2026-10-10",
+   "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1791_1791_1791/20070101/de/pdf-a/fedlex-data-admin-ch-eli-cc-1986-1791_1791_1791-20070101-de-pdf-a.pdf",
+   "archive_url": "",
+   "raw_file": "raw/che-fedlex-bvo-2007.pdf",
+   "covers": "Last consolidated text of the predecessor ordinance (repealed by VZAE from 1 Jan 2008): chapter 3 on non-working foreigners (arts. 31-37); no explicit fiscal-interest ground",
+   "notes": "Used to check whether a fiscal-interest residence ground existed before the VZAE: it did not in explicit form; only art. 36 'wichtige Gründe' for other non-working foreigners."
+  },
+  {
+   "source_id": "cym-imm-amend-law-2010",
+   "title": "The Immigration (Amendment) Law, 2010 (Law 15 of 2010)",
+   "publisher": "Cayman Islands Government (Extraordinary Gazette No. 27, Supplement No. 1, 13 May 2010)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYM",
+   "published_date": "2010-05-13",
+   "accessed_date": "2026-10-10",
+   "url": "https://caymanlawschool.ky/n0c-storage/legislation2/immigration_amendment_law_2010.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cym-imm-amend-law-2010.pdf",
+   "covers": "Inserts sections 37A and 37B (Certificate of Direct Investment) into the Immigration Law (2009 Revision); passed 28 April 2010, assented 7 May 2010, published 13 May 2010.",
+   "notes": "Gazette copy hosted by the Cayman Islands Law School. No commencement clause in the text; the publication date is used as the start."
+  },
+  {
+   "source_id": "cym-imm-amend2-regs-2010",
+   "title": "The Immigration (Amendment) (No. 2) Regulations, 2010",
+   "publisher": "Cayman Islands Government (Extraordinary Gazette No. 28, Supplement No. 1, 19 May 2010)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYM",
+   "published_date": "2010-05-19",
+   "accessed_date": "2026-10-10",
+   "url": "https://caymanlawschool.ky/n0c-storage/legislation2/immigration_amendment_no-_2_regulations_2010.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cym-imm-amend2-regs-2010.pdf",
+   "covers": "First financial requirements and fees for the Certificate of Direct Investment (new reg 14A): net worth of six million dollars and investment of two million four hundred thousand dollars; made in Cabinet 11 May 2010.",
+   "notes": "Amounts in 'dollars' (Cayman Islands dollars, the currency of the regulations' fee schedule). No commencement clause; publication date used as valid_from."
+  },
+  {
+   "source_id": "cym-imm-amend2-law-2006",
+   "title": "The Immigration (Amendment) (No. 2) Law, 2006 (Law 35 of 2006)",
+   "publisher": "Cayman Islands Government (Extraordinary Gazette No. 27, Supplement No. 1, 21 December 2006)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYM",
+   "published_date": "2006-12-21",
+   "accessed_date": "2026-10-10",
+   "url": "https://caymanlawschool.ky/n0c-storage/legislation2/immigration_amendment_no-_2_law_2006.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cym-imm-amend2-law-2006.pdf",
+   "covers": "Replaces section 33 (Residential Certificate for Retirees) with the Residency Certificate for Persons of Independent Means, repeals the Residential Certificate for Entrepreneurs and Investors (ss. 35-36); passed 20 December 2006, assented 21 December 2006.",
+   "notes": "Refers to certificates under s. 33 'granted between 1st January, 2004 and the commencement of the new Law'; its own commencement date is not stated in the text."
+  },
+  {
+   "source_id": "cym-imm-law-2006rev",
+   "title": "Immigration Law (2006 Revision)",
+   "publisher": "Cayman Islands Government (Gazette No. 14, Supplement No. 6, 10 July 2006)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYM",
+   "published_date": "2006-07-10",
+   "accessed_date": "2026-10-10",
+   "url": "https://caymanlawschool.ky/n0c-storage/legislation2/immigration_law_2006_revision.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cym-imm-law-2006rev.pdf",
+   "covers": "Consolidated text of the Immigration Law, 2003 (Law 34 of 2003, enacted 16 December 2003) with Laws 13 of 2005 and 3 of 2006: s. 33 Residential Certificate for Retirees (25 years, investment in real estate), s. 35 Residential Certificate for Entrepreneurs and Investors.",
+   "notes": "Consolidation, not the original 2003 enactment; transitional provisions refer to 1 January 2004 as the changeover date from the earlier law."
+  },
+  {
+   "source_id": "cym-imm-regs-2004",
+   "title": "The Immigration Regulations, 2004",
+   "publisher": "Cayman Islands Government (Extraordinary Gazette No. 16, Supplement No. 1, 13 May 2004)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYM",
+   "published_date": "2004-05-13",
+   "accessed_date": "2026-10-10",
+   "url": "https://caymanlawschool.ky/n0c-storage/legislation2/immigration_regulations_2004.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cym-imm-regs-2004.pdf",
+   "covers": "Financial standing for the Residential Certificate for Retirees (reg 14) and for Entrepreneurs and Investors (reg 15); fees (First Schedule, in CI$). In effect from 18 May 2004.",
+   "notes": "Original regulations under the Immigration Law, 2003."
+  },
+  {
+   "source_id": "cyp-kdp-242-1972",
+   "title": "Οι περί Αλλοδαπών και Μεταναστεύσεως Κανονισμοί του 1972 (Κ.Δ.Π. 242/72) (Aliens and Immigration Regulations 1972)",
+   "publisher": "Republic of Cyprus, Official Gazette No. 980, Third Appendix, Part I, 22 December 1972 (copy hosted by CyLaw)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "CYP",
+   "published_date": "1972-12-22",
+   "accessed_date": "2026-10-10",
+   "url": "http://www.cylaw.org/KDP/data/1972_1_242.pdf",
+   "archive_url": "",
+   "raw_file": "raw/cyp-kdp-242-1972.pdf",
+   "covers": "Original Aliens and Immigration Regulations; Regulation 6(2) lets the Minister grant an immigration permit (permanent residence) to a person outside the Regulation 5 categories. Basis of Cyprus's fast-track investor permanent residence.",
+   "notes": "Scanned 1972 gazette; the text layer has OCR errors in places. No in-force date stated; publication date used."
+  },
+  {
+   "source_id": "geo-matsne-law-3602-2015",
+   "title": "Law of Georgia No 3602-რს of 8 May 2015 on amendments to the Law of Georgia on the Legal Status of Aliens and Stateless Persons (Georgian original text)",
+   "publisher": "Legislative Herald of Georgia (matsne.gov.ge)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "GEO",
+   "published_date": "2015-05-15",
+   "accessed_date": "2026-10-10",
+   "url": "https://matsne.gov.ge/ka/document/download/2841058/0/ge/pdf",
+   "archive_url": "",
+   "raw_file": "raw/geo-matsne-law-3602-2015.pdf",
+   "covers": "The amending law itself: adds art. 15 subpara. 'k' (rendered 'j' in the English consolidated text), a short-term residence permit for owners of non-agricultural real property worth over USD 35,000, the D5 immigration visa, the 1-year permit term (art. 16(3^1)); art. 3 on entry into force.",
+   "notes": "Georgian only (no English PDF of the amending law served). Signed Kutaisi, 8 May 2015, N3602-რს. Publication date 15/05/2015 is printed on the matsne page (geo-matsne-law-3602-2015-page) and in the history notes of the consolidated texts."
+  },
+  {
+   "source_id": "geo-matsne-law-3602-2015-page",
+   "title": "Matsne record page of Law of Georgia No 3602-რს of 8 May 2015 (metadata and text)",
+   "publisher": "Legislative Herald of Georgia (matsne.gov.ge)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "GEO",
+   "published_date": "2015-05-15",
+   "accessed_date": "2026-10-10",
+   "url": "https://matsne.gov.ge/ka/document/view/2841058",
+   "archive_url": "",
+   "raw_file": "raw/geo-matsne-law-3602-2015-page.html",
+   "covers": "Official record: adopted 08/05/2015 by Parliament, published on the website 15/05/2015, registration code 010120000.05.001.017715; full text of the law.",
+   "notes": ""
+  },
+  {
+   "source_id": "geo-matsne-aliens-law-2015-03",
+   "title": "Law of Georgia on the Legal Status of Aliens and Stateless Persons, consolidated version of 20/03/2015 (English)",
+   "publisher": "Legislative Herald of Georgia (matsne.gov.ge)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "GEO",
+   "published_date": "2015-03-20",
+   "accessed_date": "2026-10-10",
+   "url": "https://matsne.gov.ge/en/document/download/2278806/4/en/pdf",
+   "archive_url": "",
+   "raw_file": "raw/geo-matsne-aliens-law-2015-03.pdf",
+   "covers": "Consolidated text up to Law No 3344 of 20 March 2015, the version just before Law No 3602: art. 15 lists residence permit types a)-i) with no real-property ground.",
+   "notes": "Kept as evidence that the property ground did not exist before Law No 3602."
+  },
+  {
+   "source_id": "fra-an-ta683-2016",
+   "title": "Projet de loi relatif au droit des étrangers en France (Texte définitif), Texte adopté n° 683, 18 février 2016",
+   "publisher": "Assemblée nationale",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "FRA",
+   "published_date": "2016-02-18",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.assemblee-nationale.fr/14/pdf/ta/ta0683.pdf",
+   "archive_url": "",
+   "raw_file": "raw/fra-an-ta683-2016.pdf",
+   "covers": "Final text adopted by Parliament (the 'petite loi'), promulgated as loi n° 2016-274 of 7 March 2016: art. 17 creates L. 313-20 'passeport talent' incl. 7° investor; art. 67 entry into force.",
+   "notes": "Not the Journal officiel text: Legifrance returned a bot-check page (HTTP 403, 'Just a moment...') and was not bypassed. The petite loi is the text as finally adopted; article numbering of the promulgated law not verified against the JORF."
+  },
+  {
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "title": "Annexe à la circulaire d'application de la loi du 7 mars 2016 : mesures applicables au 1er novembre 2016 et 1er janvier 2017",
+   "publisher": "French government (application circular to prefects; issuing ministry not printed in the annex)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "FRA",
+   "published_date": "2016-11",
+   "accessed_date": "2026-10-10",
+   "url": "https://www.lemediasocial.fr/hulkStatic/EL/ELI/2025/05/f325e405d-869b-4e6f-90d5-86be118e3fdc/sharp_/ANX/circulaire-nov-2016-fl-7cb5b89f-0e28-7a80-1bc4-6732ec088707.pdf",
+   "archive_url": "",
+   "raw_file": "raw/fra-mi-circ-loi-2016-annexe.pdf",
+   "covers": "Instructions to prefectures on provisions of the law of 7 March 2016 in force from 1 November 2016: multi-year card, passeport talent categories incl. 'Investisseur économique' (7° of L. 313-20, R. 313-63/64): EUR 300,000 direct investment, 30% capital, jobs within four years, card up to four years.",
+   "notes": "Copy hosted by a commercial legal publisher (Le Media Social); PDF metadata title '20161031 - Annexe générale', created 7 Nov 2016. The circular's covering letter (with NOR and signatory) was not found. Décret n° 2016-1456 of 28 Oct 2016, which fixes the date, is cited here but was not read (Legifrance blocked)."
+  },
+  {
+   "source_id": "ltu-seimas-aliens-law-2004",
+   "title": "Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties, 2004 m. balandžio 29 d. Nr. IX-2206 (original text)",
+   "publisher": "Seimas of the Republic of Lithuania (e-seimas.lrs.lt)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "LTU",
+   "published_date": "2004-04-30",
+   "accessed_date": "2026-10-10",
+   "url": "https://e-seimas.lrs.lt/rs/legalact/TAD/TAIS.232378/format/MSO2010_DOCX/",
+   "archive_url": "",
+   "raw_file": "raw/ltu-seimas-aliens-law-2004.docx",
+   "covers": "Original 2004 text of the Law on the Legal Status of Aliens: art. 40(1)(5) temporary residence for lawful activity; art. 45(1)(1) for a foreigner who registers a company as owner or co-owner of at least 10% of capital or votes; permit for one year.",
+   "notes": "Original version as adopted (Valstybės žinios 2004, Nr. 73-2539). No minimum investment amount in the 2004 wording."
+  },
+  {
+   "source_id": "ltu-seimas-aliens-law-2004-page",
+   "title": "e-seimas record page of Law No IX-2206 on the Legal Status of Aliens (metadata)",
+   "publisher": "Seimas of the Republic of Lithuania (e-seimas.lrs.lt)",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "LTU",
+   "published_date": "2004-04-30",
+   "accessed_date": "2026-10-10",
+   "url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.232378",
+   "archive_url": "",
+   "raw_file": "raw/ltu-seimas-aliens-law-2004-page.html",
+   "covers": "Official metadata: adopted 2004-04-29, in force 2004-04-30, published Valstybės žinios 2004-04-30, Nr. 73-2539.",
+   "notes": ""
+  },
+  {
+   "source_id": "mne-skupstina-aliens-law-2014",
+   "title": "Zakon o strancima (Skupština Crne Gore, 16. decembar 2014), with promulgation decree of 19.12.2014",
+   "publisher": "Parliament of Montenegro",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "MNE",
+   "published_date": "2014-12-19",
+   "accessed_date": "2026-10-10",
+   "url": "https://zakoni.skupstina.me/zakoni/web/dokumenta/zakoni-i-drugi-akti/562/491-3733-24-3-14-1-20.PDF",
+   "archive_url": "",
+   "raw_file": "raw/mne-skupstina-aliens-law-2014.pdf",
+   "covers": "Adopted 2014 Law on Foreigners (later Sl. list CG 56/14): art. 37(1)(8) and art. 54 temporary residence for disposing of rights to real property owned in Montenegro (1-year permit; Government to set value conditions); art. 144 repeals the 2008 Law on Foreigners; art. 145 entry into force and application from 1 April 2015.",
+   "notes": "Scanned PDF, OCR text has character errors (quotes are verbatim OCR). Službeni list publication itself not stored, so the in-force date (eighth day after publication) cannot be computed from stored documents."
+  },
+  {
+   "source_id": "mne-gov-aliens-bill-2014",
+   "title": "Predlog zakona o strancima, with explanatory memorandum (Vlada Crne Gore, 10 September 2014)",
+   "publisher": "Government of Montenegro (filed with the Parliament of Montenegro)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "MNE",
+   "published_date": "2014-09-10",
+   "accessed_date": "2026-10-10",
+   "url": "https://zakoni.skupstina.me/zakoni/web/dokumenta/zakoni-i-drugi-akti/562/491-3158-24-3-14-1.pdf",
+   "archive_url": "",
+   "raw_file": "raw/mne-gov-aliens-bill-2014.pdf",
+   "covers": "Government bill for the 2014 Law on Foreigners; the explanatory memorandum states that art. 54 (residence for real property of a certain value) is new.",
+   "notes": "Scanned, OCR with errors."
+  }
+ ],
+ "observations": [],
+ "program_terms": [
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "government_bonds",
+   "valid_from": "2003-03-01",
+   "valid_to": "2012-07-01",
+   "min_amount": "1500000",
+   "currency": "AUD",
+   "applies_to": "Subclass 162 Investor (Provisional): designated investment (state/territory security) in the name of the applicant or applicant and spouse",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 162.222(1)",
+   "quote": "162.222           (1) The applicant has made a designated investment of an\n                  amount of AUDI 500 000",
+   "notes": "Text layer reads 'AUDI 500 000' (OCR of AUD1 500 000). Designated investment = a security specified by the Minister under reg. 5.19A (cl. 162.111). valid_to = BIIP replacement date already in programs.csv."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "government_bonds",
+   "valid_from": "2003-03-01",
+   "valid_to": "2012-07-01",
+   "min_amount": "750000",
+   "currency": "AUD",
+   "applies_to": "Subclass 165 State/Territory Sponsored Investor (Provisional): designated investment in the sponsoring state or territory",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 165.222(1)",
+   "quote": "amount of AUD750 000, in the name of the applicant or in",
+   "notes": ""
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "net_assets",
+   "valid_from": "2003-03-01",
+   "valid_to": "",
+   "min_amount": "2250000",
+   "currency": "AUD",
+   "applies_to": "Subclass 162: net business and personal assets of applicant/spouse throughout the 2 fiscal years before applying",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 162.212(3)",
+   "quote": "AUD2 250 000.",
+   "notes": "Eligibility requirement, not an investment amount."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "net_assets",
+   "valid_from": "2003-03-01",
+   "valid_to": "",
+   "min_amount": "1125000",
+   "currency": "AUD",
+   "applies_to": "Subclass 165: net business and personal assets of applicant/spouse throughout the 2 fiscal years before applying",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 165.212(3)",
+   "quote": "AUDI 125 000.",
+   "notes": "Text layer reads 'AUDI 125 000' (OCR of AUD1 125 000). Eligibility requirement, not an investment amount."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "managed_investments",
+   "valid_from": "2003-03-01",
+   "valid_to": "",
+   "min_amount": "1500000",
+   "currency": "AUD",
+   "applies_to": "Subclass 162: eligible investments managed in at least 1 of the 5 fiscal years before applying (alternative to managing a qualifying business)",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 162.212(2)(b)",
+   "quote": "the total net value of which was at least AUDI 500 000.",
+   "notes": "OCR 'AUDI 500 000' = AUD1 500 000. Experience requirement."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "managed_investments",
+   "valid_from": "2003-03-01",
+   "valid_to": "",
+   "min_amount": "750000",
+   "currency": "AUD",
+   "applies_to": "Subclass 165: eligible investments managed in at least 1 of the 5 fiscal years before applying (alternative to managing a qualifying business)",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 165.212(2)(b)",
+   "quote": "the total net value of which was at least AUD750 000.",
+   "notes": "Experience requirement."
+  },
+  {
+   "program_id": "aus-business-skills-investor",
+   "route": "age_limit",
+   "valid_from": "2003-03-01",
+   "valid_to": "",
+   "min_amount": "45",
+   "currency": "years",
+   "applies_to": "Subclass 162: applicant must be less than this age",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "Sch. 2, cl. 162.214",
+   "quote": "162.214           The applicant is less than 45 years old.",
+   "notes": "Maximum (exclusive), not a minimum."
+  },
+  {
+   "program_id": "blr-investor-residence",
+   "route": "investment",
+   "valid_from": "2010-07-21",
+   "valid_to": "",
+   "min_amount": "150000",
+   "currency": "EUR",
+   "applies_to": "permanent residence permit, foreign investor (original text of Law 105-З)",
+   "source_id": "blr-etalon-law-105z-original",
+   "location": "art. 53, part 1",
+   "quote": "вложившими инвестиции в размере не менее ста пятидесяти тысяч евро",
+   "notes": "Amount written in words. valid_to unknown: later replaced by fifteen thousand base units (amending law not identified in this pass)."
+  },
+  {
+   "program_id": "aze-investor-residence",
+   "route": "investment",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "500000",
+   "currency": "AZN",
+   "applies_to": "temporary residence (Cabinet Decision 126 of 18 Aug 2009 amending Decision 102)",
+   "source_id": "aze-sms-news-2009-08-19",
+   "location": "news item of 19.08.2009, second paragraph",
+   "quote": "determined in the amount of 500.000 AZN",
+   "notes": "Reported by the State Migration Service; decision dated 18 Aug 2009, in-force date not stated."
+  },
+  {
+   "program_id": "aze-investor-residence",
+   "route": "bank_deposit",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "50000",
+   "currency": "AZN",
+   "applies_to": "temporary residence: deposit at an Azerbaijani bank (Cabinet Decision 126 of 18 Aug 2009 amending Decision 102)",
+   "source_id": "aze-sms-news-2009-08-19",
+   "location": "news item of 19.08.2009, second paragraph",
+   "quote": "deposit amount at any of Azerbaijan banks in the amount of 50.000 AZN",
+   "notes": "Reported by the State Migration Service; decision dated 18 Aug 2009, in-force date not stated."
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "net_worth_requirement",
+   "valid_from": "2010-05-19",
+   "valid_to": "",
+   "min_amount": "6000000",
+   "currency": "KYD",
+   "applies_to": "main applicant (personal net worth)",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 3, reg 2 (new reg 14A(a))",
+   "quote": "that he has a personal net worth of at least six million dollars; and",
+   "notes": "Printed as 'dollars' in words; Cayman Islands dollars as in the regulations' fee schedule. Requirement removed by the Immigration (Amendment) Law 2012 (from 5 June 2012). Publication date used as valid_from (no commencement clause)."
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "business",
+   "valid_from": "2010-05-19",
+   "valid_to": "",
+   "min_amount": "2400000",
+   "currency": "KYD",
+   "applies_to": "main applicant: investment in an employment-generating business",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 3, reg 2 (new reg 14A(b))",
+   "quote": "sum of at least two million four hundred thousand dollars in an employment generating business",
+   "notes": "First CDI investment threshold; later one million dollars (2014 Revision, reg 14A). Publication date used as valid_from."
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "fee_application",
+   "valid_from": "2010-05-19",
+   "valid_to": "",
+   "min_amount": "1000",
+   "currency": "KYD",
+   "applies_to": "application for a Certificate of Direct Investment",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 3, reg 3 (First Schedule)",
+   "quote": "Application for Certificate of Direct 1,000 Investment",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "fee_certificate",
+   "valid_from": "2010-05-19",
+   "valid_to": "",
+   "min_amount": "20000",
+   "currency": "KYD",
+   "applies_to": "per certificate (issue fee)",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 3, reg 3 (First Schedule)",
+   "quote": "Issue of Certificate of Direct Investment 20,000",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "fee_dependant_annual",
+   "valid_from": "2010-05-19",
+   "valid_to": "",
+   "min_amount": "1000",
+   "currency": "KYD per year",
+   "applies_to": "annual fee per dependant of the holder",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 4, reg 3 (First Schedule)",
+   "quote": "In respect of residence in the Islands of the 1,000 per dependant per",
+   "notes": "Fee line reads '1,000 per dependant per annum' across two lines of the schedule ('annum' on the next line)."
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "permit_validity",
+   "valid_from": "2010-05-13",
+   "valid_to": "",
+   "min_amount": "25",
+   "currency": "years",
+   "applies_to": "Certificate of Direct Investment, renewable at the Chief Immigration Officer's discretion",
+   "source_id": "cym-imm-amend-law-2010",
+   "location": "PDF p. 5, s. 4 (new s. 37A(3))",
+   "quote": "issue a Certificate of Direct Investment valid for twenty-five years",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-cdi",
+   "route": "physical_presence",
+   "valid_from": "2010-05-13",
+   "valid_to": "",
+   "min_amount": "90",
+   "currency": "days per calendar year",
+   "applies_to": "holder (declaration with each fee payment; revocation ground under s. 37B(d))",
+   "source_id": "cym-imm-amend-law-2010",
+   "location": "PDF p. 7, s. 4 (new s. 37A(11)(d))",
+   "quote": "a minimum of ninety days in aggregate in the preceding calendar year",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "income_requirement",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "150000",
+   "currency": "KYD per year",
+   "applies_to": "main applicant residing in Grand Cayman (Residential Certificate for Retirees)",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 9, reg 14(a)(i)",
+   "quote": "amount of CI$150,000, without the need to engage in",
+   "notes": "Immigration Regulations, 2004, in effect from 18 May 2004."
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "real_estate_and_investment",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "750000",
+   "currency": "KYD",
+   "applies_to": "main applicant residing in Grand Cayman: total local investment, of which at least CI$250,000 in developed real estate",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 10, reg 14(a)(ii)",
+   "quote": "that he has invested the sum of CI$750,000 in Grand",
+   "notes": "Quote continues: 'Cayman of which at least CI$250,000 must be in developed real estate'."
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "income_requirement",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "75000",
+   "currency": "KYD per year",
+   "applies_to": "main applicant residing in Cayman Brac or Little Cayman (Residential Certificate for Retirees)",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 10, reg 14(b)(i)",
+   "quote": "amount of CI$75,000 without the need to engage in",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "real_estate_and_investment",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "250000",
+   "currency": "KYD",
+   "applies_to": "main applicant residing in Cayman Brac or Little Cayman: total local investment, of which at least CI$125,000 in developed residential real estate",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 10, reg 14(b)(ii)",
+   "quote": "that he has invested the sum of CI$250,000 locally of which",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "fee_application",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "250",
+   "currency": "KYD",
+   "applies_to": "application for a Residential Certificate for Retirees",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 18, First Schedule (fees in CI$)",
+   "quote": "Application for Residential Certificate for Retirees 250",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "fee_certificate",
+   "valid_from": "2004-05-18",
+   "valid_to": "",
+   "min_amount": "15000",
+   "currency": "KYD",
+   "applies_to": "grant of a Residential Certificate for Retirees",
+   "source_id": "cym-imm-regs-2004",
+   "location": "PDF p. 18, First Schedule (fees in CI$)",
+   "quote": "Grant of Residential Certificate for Retirees 15,000",
+   "notes": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "minimum_age",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "55",
+   "currency": "years",
+   "applies_to": "applicant for a Residential Certificate for Retirees (or lower at the Board's discretion); dropped by Law 35 of 2006",
+   "source_id": "cym-imm-law-2006rev",
+   "location": "PDF p. 31, s. 33(1)(a)",
+   "quote": "has attained the age of fifty-five years or, at the discretion of the Board, a lower age;",
+   "notes": "Consolidated 2006 Revision of the 2003 Law, so valid_from left empty; the provision dates from the 2003 Law."
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "permit_validity",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "25",
+   "currency": "years",
+   "applies_to": "Residential Certificate for Retirees, renewable at the Chief Immigration Officer's discretion",
+   "source_id": "cym-imm-law-2006rev",
+   "location": "PDF p. 31, s. 33(2)",
+   "quote": "Certificate for Retirees, without the right to work, valid for twenty-five years",
+   "notes": "Consolidated 2006 Revision, so valid_from left empty."
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "route": "physical_presence",
+   "valid_from": "",
+   "valid_to": "",
+   "min_amount": "30",
+   "currency": "days per 365 days",
+   "applies_to": "holder of a Residential Certificate for Retirees (revocation ground)",
+   "source_id": "cym-imm-law-2006rev",
+   "location": "PDF p. 32, s. 34(b)",
+   "quote": "he was not resident in the Islands for a period of thirty days in any period of three hundred and sixty-five days.",
+   "notes": "Consolidated 2006 Revision, so valid_from left empty."
+  },
+  {
+   "program_id": "geo-property-residence",
+   "route": "real_estate",
+   "valid_from": "2015-05-15",
+   "valid_to": "2019-06-04",
+   "min_amount": "35000",
+   "currency": "USD",
+   "applies_to": "owner of non-agricultural real property and family members; market value above the amount, set by a certified assessor",
+   "source_id": "geo-matsne-law-3602-2015",
+   "location": "art. 1(9), new art. 15 subpara. 'k', PDF p. 6",
+   "quote": "აღემატება 35000 აშშ დოლარის ეკვივალენტს ლარში, და მისი ოჯახის წევრებზე",
+   "notes": "Founding text. valid_to as in the existing term from the consolidated text (day before the 2019 amendment's publication)."
+  },
+  {
+   "program_id": "geo-property-residence",
+   "route": "permit_validity",
+   "valid_from": "2015-05-15",
+   "valid_to": "",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "short-term residence permit for real-property owners",
+   "source_id": "geo-matsne-law-3602-2015",
+   "location": "art. 1(10), new art. 16(3^1), PDF p. 6",
+   "quote": "ნებართვა უცხოელზე შეიძლება გაიცეს 1 წლის ვადით",
+   "notes": "The permit ends when ownership of the property ends."
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "route": "business",
+   "valid_from": "2016-11-01",
+   "valid_to": "",
+   "min_amount": "300000",
+   "currency": "EUR",
+   "applies_to": "investor, personally or through a company he runs or holds at least 30% of; tangible or intangible fixed assets; must create or save jobs (or commit to within four years)",
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "location": "PDF p. 33, 'Investisseur économique (7° de l’article L. 313-20 et articles R. 313-63 et R. 313-64)'",
+   "quote": "détient au moins 30% du capital investir ou s’engager à investir 300 000€ (immobilisation corporelle ou incorporelle)",
+   "notes": "Government circular describing the rules from 1 Nov 2016; portfolio investment excluded."
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "route": "minimum_ownership_share",
+   "valid_from": "2016-11-01",
+   "valid_to": "",
+   "min_amount": "30",
+   "currency": "percent (minimum ownership)",
+   "applies_to": "investor investing through a company",
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "location": "PDF p. 33, 'Investisseur économique'",
+   "quote": "par l’intermédiaire d’une société qu’il dirige ou dont il détient au moins 30% du capital",
+   "notes": "Alternative: the company is one he runs."
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "route": "permit_validity",
+   "valid_from": "2016-11-01",
+   "valid_to": "",
+   "min_amount": "4",
+   "currency": "years",
+   "applies_to": "investor passeport talent card (maximum; normally issued for four years)",
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "location": "PDF p. 33, 'Investisseur économique'",
+   "quote": "dans la limite d’une durée maximale de quatre ans",
+   "notes": ""
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "route": "job_creation_deadline",
+   "valid_from": "2016-11-01",
+   "valid_to": "",
+   "min_amount": "4",
+   "currency": "years",
+   "applies_to": "investor: commitment to create or save jobs",
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "location": "PDF p. 33, 'Investisseur économique'",
+   "quote": "s’engager à créer ou sauvegarder de l’emploi dans les quatre années qui suivent l’investissement",
+   "notes": ""
+  },
+  {
+   "program_id": "ltu-investor-residence",
+   "route": "minimum_ownership_share",
+   "valid_from": "2004-04-30",
+   "valid_to": "",
+   "min_amount": "10",
+   "currency": "percent (minimum ownership)",
+   "applies_to": "foreigner registering a company as owner or co-owner (2004 wording, no minimum investment)",
+   "source_id": "ltu-seimas-aliens-law-2004",
+   "location": "art. 45(1)(1)",
+   "quote": "kaip savininkas arba bendraturtis, kuriam priklauso ne mažiau kaip 10 procentų įmonės įstatinio kapitalo ar balsavimo teisių dalis",
+   "notes": "Original 2004 text; replaced by later amendments (date not established)."
+  },
+  {
+   "program_id": "ltu-investor-residence",
+   "route": "permit_validity",
+   "valid_from": "2004-04-30",
+   "valid_to": "",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "temporary residence permit for lawful activity (2004 wording)",
+   "source_id": "ltu-seimas-aliens-law-2004",
+   "location": "art. 45(2)",
+   "quote": "leidimas laikinai gyventi išduodamas vieneriems metams",
+   "notes": "Two years in the current text."
+  },
+  {
+   "program_id": "mne-property-residence",
+   "route": "permit_validity",
+   "valid_from": "2015-04-01",
+   "valid_to": "",
+   "min_amount": "1",
+   "currency": "years",
+   "applies_to": "temporary residence permit for disposing of rights to real property",
+   "source_id": "mne-skupstina-aliens-law-2014",
+   "location": "art. 54(2), PDF p. 16",
+   "quote": "Dozvola iz stava 1 ovog Olana izdaje se sa rokom va2enja od jedne godine.",
+   "notes": "Verbatim OCR. Art. 54(3): value conditions to be set by Government decree (Sl. list CG 61/15, repealed 2016)."
+  }
+ ],
+ "events": [
+  {
+   "date": "2003-03-01",
+   "date_precision": "day",
+   "jurisdiction": "AUS",
+   "program_id": "aus-business-skills-investor",
+   "category": "launch",
+   "title": "Investor (Provisional) subclass 162 and State/Territory Sponsored Investor subclass 165 visas commence",
+   "description": "Schedule 2 of the Migration Amendment Regulations 2002 (No. 10) (SR 2002 No. 348, made 19 Dec 2002) inserts Subclass 162 Investor (Provisional) and Subclass 165 State/Territory Sponsored Investor (Provisional), with a 'designated investment' of AUD1,500,000 (162) or AUD750,000 (165) and the residence subclasses that follow; in force 1 March 2003. The 1992 'first version of the Business Skills programme' (FOI release) is kept as a separate, earlier account of the wider programme; whether a pre-2003 investment-linked visa should count as this programme's start was not checked.",
+   "source_id": "aus-leg-sr-2002-348",
+   "location": "reg. 2 (Commencement), p. 2",
+   "quote": "on 1 March 2003 — regulation 4 and Schedule 2.",
+   "countries": ""
+  },
+  {
+   "date": "2010-07-21",
+   "date_precision": "day",
+   "jurisdiction": "BLR",
+   "program_id": "blr-investor-residence",
+   "category": "launch",
+   "title": "Belarus law in force with a permanent-residence ground for foreign investors (EUR 150,000)",
+   "description": "Law No. 105-З of 4 January 2010 (published 20 January 2010) lists among grounds for a permanent residence permit foreign investors who invested at least EUR 150,000 in Belarus (art. 53, original text); the law entered into force six months after publication, on 21 July 2010 per the National Register card. The predecessor law of 3 June 1993 (repealed by art. 75) was not read, so an earlier investor ground cannot be excluded.",
+   "source_id": "blr-pravo-105z-card",
+   "location": "registry card, 'Дата вступления в силу'",
+   "quote": "Дата вступления в силу\n21.07.2010",
+   "countries": ""
+  },
+  {
+   "date": "2010-01-04",
+   "date_precision": "day",
+   "jurisdiction": "BLR",
+   "program_id": "blr-investor-residence",
+   "category": "rule_change",
+   "title": "Original text of Belarus Law 105-З: permanent residence for investors of at least EUR 150,000",
+   "description": "Original art. 53 of Law 105-З: permanent residence permit for foreign investors who invested at least EUR 150,000; later replaced by fifteen thousand base units (amending law not identified). Law dated 4 Jan 2010; in force 21 Jul 2010 (art. 76: six months after publication).",
+   "source_id": "blr-etalon-law-105z-original",
+   "location": "art. 53, part 1, ninth indent",
+   "quote": "являются иностранными инвесторами, вложившими инвестиции в размере не менее ста пятидесяти тысяч евро в объекты инвестиционной деятельности на территории Республики Беларусь;",
+   "countries": ""
+  },
+  {
+   "date": "2009-06-30",
+   "date_precision": "day",
+   "jurisdiction": "AZE",
+   "program_id": "aze-investor-residence",
+   "category": "launch",
+   "title": "Azerbaijan Cabinet Decision 102 sets the investment amount that grounds temporary residence",
+   "description": "The State Migration Service reports that Cabinet of Ministers Decision 102 of 30 June 2009 approved the regulations on temporary residence permits and defined the investment amount in the economy (and bank deposit amount) that grounds a temporary residence permit; Decision 126 of 18 August 2009 set them at AZN 500,000 and AZN 50,000. Date is the decision's date (in-force date not stated); the decision text was not read (refworld copy behind a bot check). The decision implemented a law of 24 June 2008 amending legislative acts, which may have created the investment ground (not read). Predates the 2013 Migration Code.",
+   "source_id": "aze-sms-news-2009-08-19",
+   "location": "news item of 19.08.2009, first paragraph",
+   "quote": "on defining of the investment amount put in the economy of the Republic of Azerbaijan and deposit amount at Azerbaijan banks giving base on granting permission for temporary residence",
+   "countries": ""
+  },
+  {
+   "date": "2009-08-18",
+   "date_precision": "day",
+   "jurisdiction": "AZE",
+   "program_id": "aze-investor-residence",
+   "category": "price_change",
+   "title": "Azerbaijan sets the temporary-residence investment at AZN 500,000 and deposit at AZN 50,000",
+   "description": "Cabinet Decision 126 of 18 August 2009 amends Decision 102: investment in the economy AZN 500,000; deposit in an Azerbaijani bank AZN 50,000 (as reported by the State Migration Service). In-force date not stated.",
+   "source_id": "aze-sms-news-2009-08-19",
+   "location": "news item of 19.08.2009, second paragraph",
+   "quote": "investment amount put in the economy of the Republic of Azerbaijan is determined in the amount of 500.000 AZN and deposit amount at any of Azerbaijan banks in the amount of 50.000 AZN",
+   "countries": ""
+  },
+  {
+   "date": "2008-01-01",
+   "date_precision": "day",
+   "jurisdiction": "CHE",
+   "program_id": "che-wealthy-residence-permit",
+   "category": "launch",
+   "title": "VZAE names substantial cantonal fiscal interests as a ground for residence permits",
+   "description": "The ordinance of 24 October 2007 (in force 1 January 2008, with the Foreign Nationals Act, art. 30(1)(b)) lets cantons grant a short-stay or residence permit to protect important public interests, listing 'substantial cantonal fiscal interests' (art. 32(1)(c)); this is the ground used for wealthy non-working non-EU/EFTA nationals. The predecessor ordinance (BVO 1986, version 2006) had no explicit fiscal ground, only art. 36 'important reasons' for other non-working foreigners. In-force date from art. 92.",
+   "source_id": "che-fedlex-vzae-2008",
+   "location": "art. 32(1)(c) (PDF p. 11); art. 92",
+   "quote": "erhebliche kantonale fiskalische Interessen;",
+   "countries": ""
+  },
+  {
+   "date": "1986-11-01",
+   "date_precision": "day",
+   "jurisdiction": "CHE",
+   "program_id": "che-wealthy-residence-permit",
+   "category": "context",
+   "title": "BVO 1986: residence for other non-working foreigners only 'when important reasons require'",
+   "description": "Before the VZAE, the Ordinance on Limiting the Number of Foreigners (in force 1 November 1986, art. 59) allowed residence permits for non-working foreigners other than pupils, patients, retirees and foster children only 'wenn wichtige Gründe es gebieten' (art. 36), with no explicit fiscal-interest ground; cantons could set stricter conditions (art. 37). Read in the version of 12 December 2006. Whether cantons used art. 36 for wealthy foreigners is not stated in the text.",
+   "source_id": "che-fedlex-bvo-2007",
+   "location": "art. 36 (3. Kapitel: Nichterwerbstätige Ausländer); art. 59",
+   "quote": "werden, wenn wichtige Gründe es gebieten.",
+   "countries": ""
+  },
+  {
+   "date": "1995-01-01",
+   "date_precision": "day",
+   "jurisdiction": "CHE",
+   "program_id": "che-lump-sum-taxation",
+   "category": "rule_change",
+   "title": "Federal Direct Tax Act with lump-sum taxation (art. 14) enters into force",
+   "description": "The DBG of 14 December 1990, which wrote lump-sum taxation into federal law (art. 14), entered into force on 1 January 1995 (date of entry into force printed at the end of the consolidated act). Complements the existing 1990-12-14 adoption event.",
+   "source_id": "che-fedlex-dbg-2026",
+   "location": "end of the act, after Fünfter Titel: Referendum und Inkrafttreten (art. 222)",
+   "quote": "Datum des Inkrafttretens: 1. Januar 1995",
+   "countries": ""
+  },
+  {
+   "date": "2010-05-13",
+   "date_precision": "day",
+   "jurisdiction": "CYM",
+   "program_id": "cym-cdi",
+   "category": "launch",
+   "title": "Cayman Islands creates the Certificate of Direct Investment (Law 15 of 2010)",
+   "description": "The Immigration (Amendment) Law, 2010 inserts sections 37A and 37B: a 25-year certificate to reside and work in a licensed employment-generating business in which the holder has invested the prescribed amount. Passed 28 April 2010, assented 7 May 2010, published in Extraordinary Gazette No. 27 of 13 May 2010; the text states no commencement date, so the publication date is used.",
+   "source_id": "cym-imm-amend-law-2010",
+   "location": "PDF p. 5, s. 4 (new s. 37A(3))",
+   "quote": "issue a Certificate of Direct Investment valid for twenty-five years",
+   "countries": ""
+  },
+  {
+   "date": "2010-05-19",
+   "date_precision": "day",
+   "jurisdiction": "CYM",
+   "program_id": "cym-cdi",
+   "category": "rule_change",
+   "title": "First Certificate of Direct Investment requirements: six million dollars net worth, 2.4 million invested",
+   "description": "The Immigration (Amendment) (No. 2) Regulations, 2010 (made 11 May 2010, published 19 May 2010) insert reg 14A: personal net worth of at least six million dollars and an investment of at least two million four hundred thousand dollars in an employment-generating business; issue fee 20,000. The net worth requirement was deleted in 2012 and the investment later set at one million dollars.",
+   "source_id": "cym-imm-amend2-regs-2010",
+   "location": "PDF p. 3, reg 2 (new reg 14A)",
+   "quote": "sum of at least two million four hundred thousand dollars in an employment generating business",
+   "countries": ""
+  },
+  {
+   "date": "2004-01-01",
+   "date_precision": "day",
+   "jurisdiction": "CYM",
+   "program_id": "cym-pim-residency",
+   "category": "launch",
+   "title": "Cayman 25-year residential certificate for persons of independent means available from 1 January 2004",
+   "description": "Section 33 of the Immigration Law, 2003 (Law 34 of 2003) created a 25-year Residential Certificate for Retirees for persons of independent means who invest a prescribed sum in developed residential real estate and other local investments. Law 35 of 2006 renamed it the Residency Certificate for Persons of Independent Means and treats certificates under s. 33 as granted from 1 January 2004. The original 2003 enactment and its commencement clause were not read; the date is the one Law 35 of 2006 gives for the first grants (also the changeover date in the 2006 Revision's transitional provisions). The amounts were prescribed by the Immigration Regulations, 2004, in effect from 18 May 2004.",
+   "source_id": "cym-imm-amend2-law-2006",
+   "location": "PDF p. 24, s. 24 (new s. 35(2)(a))",
+   "quote": "granted between 1st January, 2004 and the commencement of the new Law",
+   "countries": ""
+  },
+  {
+   "date": "2006-12-21",
+   "date_precision": "day",
+   "jurisdiction": "CYM",
+   "program_id": "cym-pim-residency",
+   "category": "rule_change",
+   "title": "Retirees' certificate becomes the Residency Certificate for Persons of Independent Means; minimum age 55 dropped",
+   "description": "Law 35 of 2006 repeals and replaces s. 33: any person of independent means aged 18 or over may apply for the 25-year Residency Certificate for Persons of Independent Means (previously age 55, or lower at the Board's discretion, and no dependants under 16). It also repeals the separate Residential Certificate for Entrepreneurs and Investors. Date is the publication date (Extraordinary Gazette No. 27 of 21 December 2006, also the day of assent); the commencement date is not stated in the text.",
+   "source_id": "cym-imm-amend2-law-2006",
+   "location": "PDF p. 22, s. 22 (new s. 33(2))",
+   "quote": "valid for twenty-five years and renewable thereafter at the discretion of the Chief Immigration Officer",
+   "countries": ""
+  },
+  {
+   "date": "1972-12-22",
+   "date_precision": "day",
+   "jurisdiction": "CYP",
+   "program_id": "cyp-golden-visa",
+   "category": "legal_basis",
+   "title": "Cyprus Aliens and Immigration Regulations: Regulation 6(2) discretion to grant an immigration permit",
+   "description": "Regulation 6(2) of the Aliens and Immigration Regulations 1972 (K.D.P. 242/72) lets the Minister grant an immigration permit to a migrant who does not belong to any Regulation 5 category, if he sees fit and the migration does not harm the inhabitants. The fast-track investor permanent residence is issued under this regulation (2023 criteria, para 1.1). Date is the gazette publication date; no in-force date is stated.",
+   "source_id": "cyp-kdp-242-1972",
+   "location": "PDF p. 4-5 (gazette pp. 742-743), reg 6(2)",
+   "quote": "δέν ανήκει εις μίαν τών έν τω κανονισμώ 5 εκτιθεμένων κατηγοριών,",
+   "countries": ""
+  },
+  {
+   "date": "2015-05-15",
+   "date_precision": "day",
+   "jurisdiction": "GEO",
+   "program_id": "geo-property-residence",
+   "category": "launch",
+   "title": "Georgia's residence permit for owners of real property (USD 35,000) takes effect",
+   "description": "Law No 3602 of 8 May 2015 adds to art. 15 of the Law on the Legal Status of Aliens a short-term residence permit for owners of non-agricultural real property worth over USD 35,000 (and a D5 visa). Art. 3(1) puts the law into force on publication, except provisions unrelated to this permit; publication on the matsne website was 15/05/2015 (geo-matsne-law-3602-2015-page). The consolidated version of 20/03/2015 (geo-matsne-aliens-law-2015-03) has no such ground. Legal basis: the 2014 Law, in force 1 September 2014.",
+   "source_id": "geo-matsne-law-3602-2015",
+   "location": "art. 3(1), PDF p. 8 (in force); art. 1(9), PDF p. 6 (the new subparagraph)",
+   "quote": "საქართველოს კანონის 70-ე მუხლის მე-2 პუნქტის „ა“ ქვეპუნქტისა, ამოქმედდეს გამოქვეყნებისთანავე.",
+   "countries": ""
+  },
+  {
+   "date": "2016-11-01",
+   "date_precision": "day",
+   "jurisdiction": "FRA",
+   "program_id": "fra-passeport-talent-investor",
+   "category": "launch",
+   "title": "France's 'passeport talent' card, incl. the economic investor category, takes effect",
+   "description": "The multi-year residence cards created by art. 17 of the law of 7 March 2016 (L. 313-17 to L. 313-24, incl. the passeport talent for a foreigner making a direct economic investment, 7° of L. 313-20) enter into force on 1 November 2016. Art. 67 II of the law set entry into force at a date fixed by Conseil d'Etat decree, at the latest 1 November 2016 (fra-an-ta683-2016); this government circular annex gives the date. The decree itself (n° 2016-1456 of 28 Oct 2016) was not read.",
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "location": "PDF p. 26, section 1.3.2.1 'Entrée en vigueur du nouveau dispositif'",
+   "quote": "La carte de séjour pluriannuelle, qui entre en vigueur au 1er novembre 2016, s’appliquera aux dossiers pour lesquels aucune décision n’aura été prise à cette date.",
+   "countries": ""
+  },
+  {
+   "date": "2016-02-18",
+   "date_precision": "day",
+   "jurisdiction": "FRA",
+   "program_id": "fra-passeport-talent-investor",
+   "category": "legal",
+   "title": "Parliament adopts the law creating the 'passeport talent' (incl. investors); in force by 1 Nov 2016 at the latest",
+   "description": "Final text of the bill on the rights of foreigners (promulgated as loi n° 2016-274 of 7 March 2016). Art. 17 creates L. 313-20, whose 7° grants the passeport talent card to a foreigner who makes a direct economic investment in France; art. 67 II puts art. 17 into force at a date set by decree, at the latest 1 November 2016.",
+   "source_id": "fra-an-ta683-2016",
+   "location": "p. 1 (date); art. 17, L. 313-20 7°, PDF p. 17; art. 67 II, PDF p. 63",
+   "quote": "entrent en vigueur à compter d’une date fixée par décret en Conseil d’État, et au plus tard le 1er novembre 2016.",
+   "countries": ""
+  },
+  {
+   "date": "2004-04-30",
+   "date_precision": "day",
+   "jurisdiction": "LTU",
+   "program_id": "ltu-investor-residence",
+   "category": "launch",
+   "title": "Lithuania's Law on the Legal Status of Aliens takes effect, with residence for foreign company owners",
+   "description": "Law No IX-2206 of 29 April 2004, in force 30 April 2004, art. 45(1)(1): temporary residence (one year) for a foreigner who registers a company in Lithuania as owner or co-owner of at least 10% of its capital or votes, where his presence is necessary for the company. No minimum investment in the 2004 wording; the EUR amounts (EUR 14,000/28,000; EUR 260,000 route) came by later amendments (XII-2609 of 2016 and earlier, pre-2014 amendments not identified). Matches the Commission's dating of the Lithuanian scheme to 2004.",
+   "source_id": "ltu-seimas-aliens-law-2004-page",
+   "location": "e-seimas record header ('Įsigalioja')",
+   "quote": "Įsigalioja 2004-04-30",
+   "countries": ""
+  },
+  {
+   "date": "2014-09-10",
+   "date_precision": "day",
+   "jurisdiction": "MNE",
+   "program_id": "mne-property-residence",
+   "category": "context",
+   "title": "Government bill: residence for owners of real property is a new ground",
+   "description": "The Government's explanatory memorandum to the 2014 Law on Foreigners states that art. 54, allowing temporary residence for use of real property of a certain value owned in Montenegro, is a novelty of the bill.",
+   "source_id": "mne-gov-aliens-bill-2014",
+   "location": "Obrazloženje, PDF p. 51",
+   "quote": "elanom 54, kao novina Predlogom zakona, predvidena je moguenost odobravanja privremenog boravka strancu radi korigeenja nepolcretnosti, odredene vrijednosti, koju stranac posjeduje u Cmoj Gori",
+   "countries": ""
+  },
+  {
+   "date": "2015-04-01",
+   "date_precision": "day",
+   "jurisdiction": "MNE",
+   "program_id": "mne-property-residence",
+   "category": "launch",
+   "title": "Montenegro's 2014 Law on Foreigners applies, with residence for owners of real property",
+   "description": "The Law on Foreigners adopted 16 December 2014 (Sl. list CG 56/14) provides temporary residence for disposing of rights to real property owned in Montenegro (art. 37(1)(8), art. 54; one-year permit; the Government to set value conditions). Art. 145: in force on the eighth day after publication in the Službeni list, applied from 1 April 2015 (when the 2008 Law on Foreigners ceased, art. 144). The publication date is not in stored documents, so the stated application date is used.",
+   "source_id": "mne-skupstina-aliens-law-2014",
+   "location": "art. 145, PDF p. 48; art. 54, PDF p. 16",
+   "quote": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Sluibenom listu Crne Gore\", a prinnjenjivate se od 1. aprila 2015. godine.",
+   "countries": ""
+  },
+  {
+   "date": "2014-12-16",
+   "date_precision": "day",
+   "jurisdiction": "MNE",
+   "program_id": "mne-property-residence",
+   "category": "legal",
+   "title": "Parliament adopts the Law on Foreigners with a real-property residence ground",
+   "description": "Promulgation decree of 19.12.2014: the Parliament adopted the Law on Foreigners on 16 December 2014.",
+   "source_id": "mne-skupstina-aliens-law-2014",
+   "location": "Ukaz, PDF p. 1",
+   "quote": "2014. godini, dana 16. decembra 2014. godine.",
+   "countries": ""
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "aus-business-skills-investor",
+   "launched": "2003-03-01",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "blr-investor-residence",
+   "launched": "2010-07-21",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "aze-investor-residence",
+   "launched": "2009",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "bgr-investor-residence",
+   "launched": "2005",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "blz-ecp",
+   "launched": "1995",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "che-wealthy-residence-permit",
+   "launched": "2008-01-01",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "che-lump-sum-taxation",
+   "launched": "1862",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "cym-cdi",
+   "launched": "2010-05-13",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "launched": "2004-01-01",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "cyp-golden-visa",
+   "launched": "",
+   "legal_basis": "1972-12-22"
+  },
+  {
+   "program_id": "est-business-residence",
+   "launched": "2009",
+   "legal_basis": ""
+  },
+  {
+   "program_id": "geo-property-residence",
+   "launched": "2015-05-15",
+   "legal_basis": "2014-09-01"
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "launched": "2016-11-01"
+  },
+  {
+   "program_id": "ltu-investor-residence",
+   "launched": "2004-04-30"
+  },
+  {
+   "program_id": "mne-property-residence",
+   "launched": "2015-04-01"
+  }
+ ],
+ "new_indicators": [],
+ "gaps": [
+  "aut-special-interest: no launch. The stored texts (RIS § 10(6) StbG 2026, parliamentary answers 8483/AB 2011, 9520/AB 2022, 1617/AB 2018, BGBl. II 39/2014) show only the 1965 special-interest clause (legal_basis) and a 2014 procedural regulation; no later official text makes investing the route, and investment is not named in § 10(6). launched stays empty by design (decision 14).",
+  "bgr-investor-residence: founding text not found. The stored consolidated Law on Foreigners (lex.bg 2026) shows art. 25(1) item 6 was amended by ДВ бр. 11/2005 and 36/2009 (so item 6 existed before 2005, possibly with different content); the 1998 original (ДВ 153/1998) and the 2005 amending law (ДВ 11/2005) could not be retrieved (dv.parliament.bg needs an interactive search form; web search budget for the session exhausted). launched = 2005 rests only on the European Commission's year (intl-ec-swd-2019-5, existing event). Note: IMF tables (vut-imf-art4-2015) list 'Bulgaria 2009 EUR 500,000', another account not added here.",
+  "blz-ecp: no legal text found. The Belize Nationality Act (economic citizen provisions) was not retrievable (belizelaw.org unreachable); launched = 1995 rests only on the IMF Working Paper 15/93 table ('Belize 1995-2002', sources: press reports and country authorities), existing launch event e from intl-imf-wp-15-93. US INCSR 2000/2001 confirm sales in 2000-2001 but give no start.",
+  "aze-investor-residence: Cabinet Decision 102 (30 Jun 2009) and Decision 126 (18 Aug 2009) texts not read: the refworld/UNHCR copies are behind a Cloudflare/MirrorWeb bot check (not bypassed); e-qanun.az not located. The 24 June 2008 law amending legislative acts (which Decision 102 implemented) may have introduced the investment ground; not read. launched given as year 2009 only (decision date known, in-force date not).",
+  "blr-investor-residence: the predecessor Law of 3 June 1993 'On the legal status of foreign citizens and stateless persons' (and its 2005 amendment), repealed by Law 105-З art. 75, was not read; if it already had an investor ground, launch would be earlier. The amending law that replaced EUR 150,000 by 15,000 base units was not identified.",
+  "aus-business-skills-investor: whether a pre-2003 investment visa (before the provisional subclass 162/165 structure of 1 March 2003) counts as this programme's start was not checked; the 1992 Business Skills launch event (FOI release) remains as an account of the wider programme.",
+  "brb-serp: stored texts (Immigration Department SEP page 2026; Business Barbados article by LEX Caribbean 2025) give no start date; the article says 'The SERP programme is governed by policy not specific enabling legislation', so there is no founding text, only a policy under s.13(3) Immigration Act Cap. 190. No Barbados Gazette notice, budget speech or Cabinet statement introducing the SERP was found (web search budget for the session was exhausted mid-pass, so Barbados budget speeches 2008-2010 were not searched). launched left blank.",
+  "can-qc-investor: no Quebec founding text read. Stored CIC evaluation (2014) dates the FEDERAL investor class to 1986 ('the IN class was only established in 1986'), not Quebec's own programme. Only agent sites (immigration.ca, cila.co) say Quebec's programme was created in 1986: leads only. The Quebec Gazette archive on publicationsduquebec.gouv.qc.ca found only later amendments (1997, 2000, 2005) and a 2000 decree on the business-aid programme financed by investor funds; the 1980s amendment to the Règlement sur la sélection des ressortissants étrangers (R.R.Q. 1981, c. M-23.1, r.2) adding the investor category was not found. launched left blank.",
+  "col-investor-visa: the resident-investor visa predates the oldest stored text (Res. 6045/2017). Read: Decreto 2107 de 2001 (Diario Oficial 44.576, 8 Oct 2001; Cancillería normograma), art. 90 'DE LA VISA DE RESIDENTE INVERSIONISTA'; it repealed Decreto 2371 of 27 Dec 1996, whose partial Cancillería extract (pr004) also has 'RESIDENTE INVERSIONISTA' (arts. 146-147). So the route existed by 1996 and the founding text is older still; not found (search budget exhausted). The real-estate route's origin (before 2017) not established either. Not stored, since neither is the founding text. launched left blank.",
+  "cri-inversionista: the investor category predates the stored 2012 Reglamento de Extranjería and Ley 8764 (2009); its founding text (likely under the earlier migration law or the pensionados/rentistas incentive regime) was not found. Ley 9996 (stored) has no history. SCIJ (pgrweb.go.cr) search pages are not reachable by plain URL, and the session's web search budget was exhausted. launched left blank.",
+  "che-lump-sum-taxation: neither the 1862 Vaud text nor the 1934 federal text (BBl 2011 6021 says 'der Bund seit 1934'; most likely the federal crisis levy decree) was found or read; the 1995 DBG PDF version is not in the fedlex filestore (HTML only).",
+  "cuw-investor-permit: the 2014 decree (stored) repeals a Ministerial Decree of 3 August 2009 no. 3672/MJ'09, which is the likely founding text; not found on immigrationcur.org (only the 2014 decree in Dutch and English is published, per the Wayback index of its uploads). Whether an even earlier Netherlands Antilles scheme existed was not checked. launched left empty.",
+  "cyp-golden-visa: legal basis found (Regulation 6(2), 1972). No founding text for the investor fast-track found: the 2023 criteria (fourth revision, 2 May 2023) do not say when the policy was first adopted, but accept resale contracts lodged before 07/05/2013, which suggests the scheme existed by 2013 and conflicts with the European Commission's 2016 (existing year event). The Audit Office special report (Nov 2023), which likely gives the history, is behind an Azure WAF JavaScript bot check on gov.cy/audit and was not read. launched left empty rather than following the doubtful 2016.",
+  "est-business-residence: launched set to the European Commission's year 2009 (secondary; event already stored). The founding text was not read: the Aliens Act passed 09.12.2009 is in force from 01.10.2010 (stored consolidated text, header), and residence permits for enterprise also existed under the 1993 Aliens Act; Riigi Teataja's site is a JavaScript application, so earlier versions (and the origin of the EUR 65,000 / EUR 16,000 thresholds, possibly the amendment in force 01.07.2012) could not be retrieved. If the Commission's 2009 is the 2009 Act's adoption, the in-force date under decision 14 would be 2010-10-01; a person should check.",
+  "tca-home-owner-permit: earliest text read is the Immigration Regulations (L.N. 28/2016, in force 1 April 2016, as revised 2021), regs 33-37. Whether a Home Owner's Permit existed under the pre-2016 Immigration Ordinance was not established (the 2012 government statement on the immigration law lists only the investor residence permit; gov.tc law library not navigable; no archived gov.tc page found). launched left empty; web search budget was exhausted during this pass.",
+  "fra-passeport-talent-investor: the Journal officiel text of loi n° 2016-274 and décret n° 2016-1456 (which fixes 1 Nov 2016) could not be read: Legifrance served a bot-check page (HTTP 403 'Just a moment...'), not bypassed. Used the Assemblée nationale final adopted text (TA 683) and the government's application-circular annex instead. Whether the pre-2016 'compétences et talents' card (abrogated 2016) already served investors was not checked.",
+  "ltu-investor-residence: when minimum investment amounts were first written into art. 45(1)(1) is not established: the 2026 consolidated text lists amendments only from 2014 (TAR), and the e-seimas list of historical consolidated versions loads by script and was not retrieved. The EUR 14,000/28,000 wording and the EUR 260,000 route date from Law XII-2609 (published 2016-09-19); an earlier LTL amount (EPRS lists LTL 50,000) was not traced to a text.",
+  "mne-property-residence: Službeni list CG 56/14 (publication date of the 2014 Law on Foreigners) not retrieved, so the in-force date (eighth day after publication) is not computable; launched uses the stated application date 1 April 2015. The 2008 Law on Foreigners (Sl. list CG 82/08) was not read, but the Government's 2014 memorandum calls the property ground new.",
+  "Session note: the 200-search WebSearch budget ran out partway through this pass; Barbados, Colombia, Costa Rica, Bulgaria, Belize, Curaçao and Turks and Caicos searches were cut short (WebFetch/curl only after that)."
+ ],
+ "leads": [
+  "AZE: Cabinet Decision 102 of 30 June 2009 (English) on refworld: https://www.refworld.org/docid/548eb0d14.html (bot check).",
+  "BGR: ДВ бр. 11 от 1.2.2005 (amendment of the Law on Foreigners) on dv.parliament.bg; ДВ бр. 153/1998 original text.",
+  "BLR: etalonline.by edition switcher for h11000105 lists all editions with entry-into-force dates; the 15,000 base-unit wording can be dated by checking editions (2014-07-12, 2016-05-03, ...).",
+  "Quebec: Gazette officielle du Québec 1986-1988 (BAnQ numérique) for the décret amending the Règlement sur la sélection des ressortissants étrangers to add 'investisseur'; Vérificateur général du Québec reports on the Programme des immigrants investisseurs.",
+  "Colombia: Decreto 2371 de 1996 full text (https://cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/decreto_2371_1996_pr004.pdf is part 4 only) and the decree it replaced; Decreto 2107 de 2001 https://cancilleria.gov.co/normograma/compilacion/docs/decreto_2107_2001.htm",
+  "Costa Rica: Ley General de Migración y Extranjería No. 7033 (1986) and Ley 8487 (2006) on SCIJ, for the first 'inversionista' residence category.",
+  "Switzerland: Bundesratsbeschluss über die Erhebung einer eidgenössischen Krisenabgabe (1934) for the federal lump-sum provision; Bernasconi (1983) 'Die Pauschalbesteuerung' cited by BBl 2011 6021 fn. 1.",
+  "Barbados: budget speeches and Barbados Immigration Department notices introducing the Special Entry and Reside Permit.",
+  "Cayman Islands: the Immigration Law, 2003 also created a 'Residential Certificate for Entrepreneurs and Investors' (s. 35; regs 2004 reg 15: CI$1,000,000 net worth, CI$150,000 income and CI$500,000 invested in a business employing ten Caymanians; Brac/Little Cayman half), repealed by Law 35 of 2006 (ss. 35-36 substituted). Under decision 14 it is a separate earlier programme (2004-2006, then a gap until the 2010 CDI). Texts stored: raw/cym-imm-law-2006rev.pdf (s. 35), raw/cym-imm-regs-2004.pdf (reg 15), raw/cym-imm-amend2-law-2006.pdf (repeal).",
+  "Original Immigration Law, 2003 (Law 34 of 2003, enacted 16 Dec 2003) with its commencement clause: not on caymanlawschool.ky under the expected file names; would confirm the 1 January 2004 start of cym-pim-residency.",
+  "Cyprus Audit Office special report 'Κανονιστικός έλεγχος προγράμματος ταχείας χορήγησης άδειας μετανάστευσης...' (9 Nov 2023), gov.cy/audit (bot check).",
+  "Curaçao Ministerial Decree of 3 August 2009 no. 3672/MJ'09 (investor admission), possibly in the Afkondigingsblad or archived Toelatingsorganisatie pages.",
+  "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032164264 (loi 2016-274, JORF) and décret n° 2016-1456 du 28 octobre 2016 (blocked by bot check)",
+  "Službeni list CG 56/2014 (Montenegro), for the publication date of the Law on Foreigners",
+  "e-seimas historical consolidated versions of Law IX-2206 (TAIS.232378, 'Suvestinių redakcijų sąrašas') for the first EUR/LTL investment amount in art. 45(1)(1)"
+ ],
+ "programme_ledger": [
+  {
+   "program_id": "aus-business-skills-investor",
+   "documents_reviewed": "aus-dha-foi-160600956-2016 (stored); aus-dha-immi-repealed-160-165-2026 (stored); aus-dha-biip-review-findings-2020 (stored); Migration Amendment Regulations 2002 (No. 10) (new, read: commencement, Sch. 2 subclasses 162/165)",
+   "outcome": "launched 2003-03-01 (in-force date of SR 2002 No. 348 Sch. 2); 7 terms"
+  },
+  {
+   "program_id": "aut-special-interest",
+   "documents_reviewed": "aut-parl-ab-8483-2011, aut-ris-stbg-s10-2026, aut-bgbl-ii-2014-39 (stored notes/events)",
+   "outcome": "no launch by design; legal_basis 1965 unchanged"
+  },
+  {
+   "program_id": "aze-investor-residence",
+   "documents_reviewed": "aze-sms-migration-code-en (stored, endnotes not in text); SMS news 19.08.2009 (new, read in full)",
+   "outcome": "launch event 2009-06-30 (decision date); launched year 2009; 2 terms"
+  },
+  {
+   "program_id": "bgr-investor-residence",
+   "documents_reviewed": "bgr-lex-zchrb-2026 (stored, art. 25 amendment notes); MFA copy of the law (no history); EC SWD 2019 (existing event)",
+   "outcome": "launched 2005 from EC year only; founding text not found"
+  },
+  {
+   "program_id": "blr-investor-residence",
+   "documents_reviewed": "blr-etalon-law-105z-consol (stored); Law 105-З original text (new, read art. 53, 76); pravo.by registry card (new)",
+   "outcome": "launched 2010-07-21 (in-force per registry card); 1 term"
+  },
+  {
+   "program_id": "blz-ecp",
+   "documents_reviewed": "intl-imf-wp-15-93, intl-usdos-incsr-2000/2001, intl-globalcit-caribbean-2020 (stored)",
+   "outcome": "launched 1995 from IMF year only; no legal text"
+  },
+  {
+   "program_id": "brb-serp",
+   "documents_reviewed": "brb-imm-sep-page-2026; brb-bizbarbados-serp-2025; intl-oecd-cbi-rbi-2018 (event only)",
+   "outcome": "no date: policy-based permit, no enabling legislation; gap"
+  },
+  {
+   "program_id": "can-qc-investor",
+   "documents_reviewed": "can-cic-eval-bip-2014 (+rest); can-mifi-air-riq-2023; can-iq-access-iip-2026; can-goq-riq-draft-2018; Quebec Gazette 2000F/34327 (not stored); agent pages as leads",
+   "outcome": "no date: Quebec founding text not found; federal 1986 date is for the federal class only; gap"
+  },
+  {
+   "program_id": "che-lump-sum-taxation",
+   "documents_reviewed": "che-bbl-2011-6021 (Entstehungsgeschichte, p. 6023); che-fedlex-dbg-2026 (art. 14, art. 222); che-fedlex-dbg-2016",
+   "outcome": "launched 1862 (year) on the existing launch event e-40b0dda1ce (BBl: Vaud offered it to non-working foreigners); 1995-01-01 DBG in-force event added; no legal_basis"
+  },
+  {
+   "program_id": "che-wealthy-residence-permit",
+   "documents_reviewed": "che-fedlex-vzae-2026; che-fedlex-vzae-2008 (new); che-fedlex-bvo-2007 (new)",
+   "outcome": "launched 2008-01-01 (VZAE art. 32(1)(c), in force per art. 92); predecessor BVO had no explicit fiscal ground (context event)"
+  },
+  {
+   "program_id": "col-investor-visa",
+   "documents_reviewed": "col-mre-res-6045-2017; col-mre-res-5477-2022; Decreto 2107/2001 and Decreto 2371/1996 extract (Cancillería normograma, not stored)",
+   "outcome": "no date: route exists by 1996, founding text older and not found; gap"
+  },
+  {
+   "program_id": "cri-inversionista",
+   "documents_reviewed": "cri-tse-reglamento-extranjeria-2012; cri-gaceta-ley9996-2021",
+   "outcome": "no date: founding text before Ley 8764 not found; gap"
+  },
+  {
+   "program_id": "cym-cdi",
+   "documents_reviewed": "cym-imm-amend-law-2010 (new, full), cym-imm-amend2-regs-2010 (new, full), cym-imm-amend-law-2012, cym-imm-regs-2014rev, Immigration Law 2014 Revision (history list, not stored)",
+   "outcome": "launched 2010-05-13 (publication; no commencement clause); 7 terms from the founding texts"
+  },
+  {
+   "program_id": "cym-pim-residency",
+   "documents_reviewed": "cym-imm-law-2006rev (new; ss. 33-35, transitional s. 103), cym-imm-amend2-law-2006 (new; ss. 22-24), cym-imm-regs-2004 (new; regs 1, 14-15, First Schedule), Immigration Law 2003 Revision (1992 Law consolidated; no such certificate), Immigration Law 2009 Revision (not stored)",
+   "outcome": "launched 2004-01-01 (date given by Law 35 of 2006 for first grants; original 2003 Law not read); 2006 rename event; 8 terms"
+  },
+  {
+   "program_id": "cyp-golden-visa",
+   "documents_reviewed": "cyp-crmd-rp-criteria-2023, cyp-moi-rp-criteria-2023, cyp-moi-rp-audit-response-2023, cyp-audit-rp-announcement-2023, intl-ec-swd-2019-5, cyp-kdp-242-1972 (new; reg 6)",
+   "outcome": "legal_basis 1972-12-22; launched not established (gap)"
+  },
+  {
+   "program_id": "est-business-residence",
+   "documents_reviewed": "est-rt-aliens-act-en-2026 (header and ss. 191-197), intl-ec-swd-2019-5",
+   "outcome": "launched 2009 (EC year, secondary); founding text not retrieved"
+  },
+  {
+   "program_id": "cuw-investor-permit",
+   "documents_reviewed": "cuw-mj-investors-permit-2014-eng; immigrationcur.org and Wayback index of its uploads",
+   "outcome": "not dated (2009 decree not found)"
+  },
+  {
+   "program_id": "tca-home-owner-permit",
+   "documents_reviewed": "tca-imm-ord-rev-2021 (history table, regs 33-37), tca-rtc-imm-law-2012, tca-misick-prc-2013, tca-dcn-prc-investment-process",
+   "outcome": "not dated (pre-2016 status unknown)"
+  },
+  {
+   "program_id": "geo-property-residence",
+   "documents_reviewed": "geo-matsne-law-3602-2015 (full), geo-matsne-law-3602-2015-page, geo-matsne-aliens-law-2015-03 (art. 15), consolidated versions 1-3 of 2014-2015 (not stored; none has the ground), stored geo-matsne-aliens-law-2014 / -2015-05 / -consol-2026",
+   "outcome": "launched 2015-05-15 (in force on publication; publication 15/05/2015). Programme notes ('launched left empty: Law No 3602 itself is not stored') are now stale."
+  },
+  {
+   "program_id": "fra-passeport-talent-investor",
+   "documents_reviewed": "fra-an-ta683-2016 (art. 17, art. 67), fra-mi-circ-loi-2016-annexe (sections 1.3.1-1.3.2), stored fra-anef-passeport-talent-investisseur",
+   "outcome": "launched 2016-11-01 from government circular plus law's art. 67; decree not read."
+  },
+  {
+   "program_id": "ltu-investor-residence",
+   "documents_reviewed": "ltu-seimas-aliens-law-2004 (arts. 40, 45, full text skimmed), ltu-seimas-aliens-law-2004-page, stored ltu-seimas-aliens-law-2026 (art. 45 and amendments list)",
+   "outcome": "launched 2004-04-30 (in force), resting on the 2004 company-owner ground (10% share, no amount); judgement call, see gaps."
+  },
+  {
+   "program_id": "mne-property-residence",
+   "documents_reviewed": "mne-skupstina-aliens-law-2014 (arts. 37, 54, 138-145), mne-gov-aliens-bill-2014 (memorandum), stored mne-skupstina-aliens-amend-2016 / -2025",
+   "outcome": "launched 2015-04-01 (application date; in-force date not computable). Programme notes ('origin before 2015 not established') are now stale."
+  }
+ ],
+ "ledger": [
+  {
+   "source_id": "aus-leg-sr-2002-348",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 7 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "blr-etalon-law-105z-original",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "blr-pravo-105z-card",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "aze-sms-news-2009-08-19",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "che-fedlex-vzae-2008",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "che-fedlex-bvo-2007",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cym-imm-amend-law-2010",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cym-imm-amend2-regs-2010",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 5 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cym-imm-amend2-law-2006",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cym-imm-law-2006rev",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 3 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cym-imm-regs-2004",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 6 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "cyp-kdp-242-1972",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "geo-matsne-law-3602-2015",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "geo-matsne-law-3602-2015-page",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "geo-matsne-aliens-law-2015-03",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "fra-an-ta683-2016",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "fra-mi-circ-loi-2016-annexe",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 4 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "ltu-seimas-aliens-law-2004",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 0 events, 2 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "ltu-seimas-aliens-law-2004-page",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "mne-skupstina-aliens-law-2014",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 2 events, 1 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  },
+  {
+   "source_id": "mne-gov-aliens-bill-2014",
+   "status": "partial",
+   "contains": "read for the programme's start date and minimum amounts: 1 events, 0 rules, 0 numbers recorded",
+   "to_do": "full read for any other in-scope numbers, rules or events not yet done"
+  }
+ ]
+}
