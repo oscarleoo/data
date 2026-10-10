@@ -18045,3 +18045,60 @@ o-8a12b45782,"100,000.00",,1,Investment Contribution,PDF p. 19,"29-Jun-24 South 
 o-6f6d500c81,"100,000.00",,1,Investment Contribution,PDF p. 16,"26-Jun-24 Canada 4 NDF 100,000.00",high,"Scan, read from page-image crop; located by date and nationality at the stated line",claude-sonnet-5,2026-10-10,1,no
 o-ea88fb9039,"100,000.00",,1,Investment Contribution,PDF p. 17,"26-Jun-24 Cyprus 4 NDF 100,000.00",high,"Scan, read from page-image crop; located by date and nationality at the stated line",claude-sonnet-5,2026-10-10,1,no
 o-06359496d6,"100,000.00",,1,Investment Contribution,PDF p. 15,"22-Jun-24 Canada 4 NDF 100,000.00",high,"Scan, read from page-image crop; located by date and nationality at the stated line",claude-sonnet-5,2026-10-10,1,no
+o-b412d174d6,ninety,,1,approved (text),PDF p. 28,Around ninety applications for Accredited Persons were approved by IM-IIP,medium,"Printed in words with ""Around""; no table",claude-sonnet-5,2026-10-10,1,no
+o-dbdf7ce77e,seventeen,,1,sample (text),PDF p. 28,the Regulator analysed a sample of seventeen applications,high,Printed in words,claude-sonnet-5,2026-10-10,1,no
+o-be13641a65,"1,000",,million,text,PDF p. 21,"bringing to Malta €1,000 million to be invested in children",low,"Only figure on page: Government aim of EUR 1,000 million, not an actual paid total",claude-sonnet-5,2026-10-10,1,no
+o-05a0b71b86,+17.5,,1,% Increase,PDF p. 13,Other 28 24.6 +17.5,high,table,claude-sonnet-5,2026-10-10,1,no
+o-61dca36c46,24.6,,1,%,PDF p. 13,Other 28 24.6 +17.5,high,,claude-sonnet-5,2026-10-10,1,no
+o-6b3ebc946c,-14.6,,1,% Increase,PDF p. 13,"Financial, Advisory & Audit 49 43.0 -14.6",high,"Row is ""Financial, Advisory & Audit"" (separate row from ""+ Law Firm"" at -6.0)",claude-sonnet-5,2026-10-10,1,no
+o-6884b90acb,115,,1,total accredited persons,PDF p. 13,total number of accredited persons has risen by a further thirty two (32) new registrations to a total of one hundred and fifteen (115),high,para 32; para 34 not the source,claude-sonnet-5,2026-10-10,1,no
+o-50b6a12faf,35.3,,1,increase,PDF p. 13,represent an increase of 35.3% over last year’s numbers,high,para 32,claude-sonnet-5,2026-10-10,1,no
+o-5ff80cf993,20,,1,sample,PDF p. 32,sample of around 20% of those main applicants who were issued with a Letter of Approval,high,"""around 20%""",claude-sonnet-5,2026-10-10,1,no
+o-2fc4d649a8,7,,1,agents deregistered,PDF p. 20,7 Agents were reported as deregistered during the same period,high,,claude-sonnet-5,2026-10-10,1,no
+o-5d6f280833,9.8,,1,% of target,PDF p. 13,brings the total to 177 which constitutes 9.8% of the pre-established target,high,Share of pre-established naturalisation target (cap),claude-sonnet-5,2026-10-10,1,no
+o-058fb8be57,13,,1,cases,PDF p. 43,from the 13 cases which are being analysed,high,,claude-sonnet-5,2026-10-10,1,no
+o-fe26438879,11,,1,cases leased,PDF p. 43,11 (85%) leased their premises whereas only 2 (15%) purchased,high,,claude-sonnet-5,2026-10-10,1,no
+o-7e5e71a926,55,,1,%,PDF p. 41,the remaining 55% being processed after 180 days,high,,claude-sonnet-5,2026-10-10,1,no
+o-b388adf8ea,40,,1,%,PDF p. 41,40% being processed within 2 months of the deadline,medium,"Printed as ""within 2 months of the deadline"" (deadline 120 days), mapped to 121-180 days",claude-sonnet-5,2026-10-10,1,no
+o-4dac297b8b,60,,1,%,PDF p. 26,60% of applications which had been approved during the period in question (July 2016-June 2017) were vetted,high,,claude-sonnet-5,2026-10-10,1,no
+o-123bf998b6,9,,1,increase,PDF p. 19,an increase of 9 when compared with the amount registered a year before,high,141 now vs 132 before,claude-sonnet-5,2026-10-10,1,no
+o-2a4404807f,25,,1,%,PDF p. 26,checked an additional 25% of those applications which were originally approved during the previous reporting period,high,,claude-sonnet-5,2026-10-10,1,no
+o-c5d0f86840,59,,1,%,PDF p. 26,thus increasing the total amount of vetted applications ... from 34% to 59%,high,,claude-sonnet-5,2026-10-10,1,no
+o-dc22fa8341,45,,1,%,PDF p. 27,"applications approved ... between July 2016 and June 2017, 45% of applications were vetted once whereas 15% were vetted twice",high,,claude-sonnet-5,2026-10-10,1,no
+o-c12853fdde,38,,1,%,PDF p. 26,percentage of rejected applications vetted ... (45%) ... compared with ... previous year (38%),high,38% is the previous-year (FY2015/16) value,claude-sonnet-5,2026-10-10,1,no
+o-4ceefc10a9,66,,1,%,PDF p. 47,in the case of 66% of vetted applications it was noted that extensions ... were either issued late ... or not issued at all,high,,claude-sonnet-5,2026-10-10,1,no
+o-e4dc22a83a,14,,1,%,PDF p. 36,14% of the payments were not made on time,medium,Printed as second payment not made within 20 days; row says final payment - doc describes the second payment,claude-sonnet-5,2026-10-10,1,no
+o-c238b3886c,115,,1,purchased properties,PDF p. 20,"Globally ... purchased property (115) totals €110,302,233.31",medium,Purchased properties since launch = 115; leased properties are 718 separately. Row route=real_estate taken as purchased,claude-sonnet-5,2026-10-10,1,no
+o-1575d456f0,25,,1,%,PDF p. 33,the remaining 13% (of approved applications) and 25% (of rejected/withdrawn applications) are earmarked to be checked,medium,25% is share of rejected/withdrawn still to be vetted (table shows 75% vetted),claude-sonnet-5,2026-10-10,1,no
+o-012c78d6b7,46.3,,1,%,PDF p. 16,833 successful main applicants ... constitutes 46.3% of the indicated pre-established target,high,,claude-sonnet-5,2026-10-10,1,no
+o-022d728532,0,,1,no cases,PDF p. 22,There were also no cases (since 2013) of persons deprived of Maltese Citizenship,medium,"Printed as ""no cases""; value 0 is the reading of that",claude-sonnet-5,2026-10-10,1,no
+o-39f0c49733,1,,1,FREQUENCY OF DONATIONS (1 TIME),PDF p. 24,1 TIME 19 19 ... Fritz Grimm*,high,Listed under 1 TIME in Table B,claude-sonnet-5,2026-10-10,1,no
+o-98030b1c9a,100,,1,approval rate,PDF p. 29,the most successful approval rate (100%) pertains to those agents who presented fewer applications,medium,17 agents had all applicants approved; 100% printed as the rate,claude-sonnet-5,2026-10-10,1,no
+o-7860c4547b,1,,1,FREQUENCY OF DONATIONS (1 TIME),PDF p. 24,1 TIME 19 19 ... Skychair Trust,high,,claude-sonnet-5,2026-10-10,1,no
+o-c0f1469a53,1,,1,NUMBER OF ENTITIES INVOLVED,PDF p. 24,6 TIMES 1 6 Id-Dar tal-Providenza.,high,,claude-sonnet-5,2026-10-10,1,no
+o-a455d198c2,1,,1,FREQUENCY OF DONATIONS (1 TIME),PDF p. 23,1 TIME 21 21 ... Richmond Foundation,high,Table A,claude-sonnet-5,2026-10-10,1,no
+o-3ad67a0588,6,,1,FREQUENCY OF DONATIONS (6 TIMES),PDF p. 23,6 TIMES 2 12 Natalis Notabilis; Victoria Hotspurs Football Club.,high,Table A,claude-sonnet-5,2026-10-10,1,no
+o-8e18eaf5df,7,,1,agents,PDF p. 12,11 Agents failed to have any of their applications approved ... 7 of these Agents submitted only 1 application,high,,claude-sonnet-5,2026-10-10,1,no
+o-5093ffb90d,16,,1,requests,PDF p. 20,the Regulator received a total of 16 requests for a review of the Minister’s decision,high,grand total since launch 69,claude-sonnet-5,2026-10-10,1,no
+o-ce02be8c97,47,,1,agents,PDF p. 12,47 different Agents were engaged by the Main Applicants,high,,claude-sonnet-5,2026-10-10,1,no
+o-d188ecd3e2,36,,1,cases,PDF p. 18,reported 11 such cases and collaborated on 36 others,high,,claude-sonnet-5,2026-10-10,1,no
+o-663b5c0046,15,,1,agents,PDF p. 12,18 Agents managed to achieve a 100% approval rate - 15 of these submitted only 1 application,high,,claude-sonnet-5,2026-10-10,1,no
+o-c760616f79,70,,1,%,PDF p. 17,no issues were identified from the due diligence reports in 70% of the applications,high,,claude-sonnet-5,2026-10-10,1,no
+o-78728c2904,2,,1,requests,PDF p. 52,"the afore-mentioned 2 requests for the Regulator’s review, were still being dealt with",high,"""2 pending requests""",claude-sonnet-5,2026-10-10,1,no
+o-eddac35a5e,11,,1,agents,PDF p. 16,it transpired that 11 different Agents were engaged by the Main Applicants,high,GCES section,claude-sonnet-5,2026-10-10,1,no
+o-d9d82d859d,11,,1,agents,PDF p. 43,"there were 11 Agents whose applications ended up all being rejected, either refused or withdrawn",high,"all rejected/withdrawn, i.e. none approved",claude-sonnet-5,2026-10-10,1,no
+o-d55618cf13,3.33,,1,%,PDF p. 38,the lowest recipients of such donation (of which there were 4) each benefitted from 3.33% of the global amount,high,,claude-sonnet-5,2026-10-10,1,no
+o-86c87805a2,1,,1,complaints,PDF p. 24,the Regulator received 1 Complaint to the Minister’s,high,,claude-sonnet-5,2026-10-10,1,no
+o-bc56e58d64,2,,1,agents,PDF p. 16,2 other Agents submitted 2 applications each,high,GCES section,claude-sonnet-5,2026-10-10,1,no
+o-7923385e5f,100,,1,approval rate,PDF p. 44,the most successful approval rate (100%) pertains to those Agents who presented fewer applications,medium,9 Agents had all applications approved,claude-sonnet-5,2026-10-10,1,no
+o-721ad0b000,1,,1,agents,PDF p. 44,13 Agents whose applications ended up all being rejected ... All of the 13 agents submitted only 1 application each except one who submitted 3,medium,"""except one"" = 1 agent; ""refused or withdrawn"", none approved",claude-sonnet-5,2026-10-10,1,no
+o-b03475a937,5,,1,agents,PDF p. 44,9 Agents whose applications were all approved. 5 of these Agents submitted only 1 application,high,,claude-sonnet-5,2026-10-10,1,no
+o-d6f3ecef97,1,,1,agents,PDF p. 14,1 particular Agent topped the group with 15 successfully processed applications ... 1 withdrawn,medium,Printed on PDF p. 14-15 as one agent with 15 approved and 1 withdrawn,claude-sonnet-5,2026-10-10,1,no
+o-5d2a7f4554,1,,1,entities,PDF p. 40,two that received 10 and 19 donations in total in 2023,medium,Printed as two entities received 10 and 19 donations; the one with 19 = 1 entity,claude-sonnet-5,2026-10-10,1,no
+o-8c85e568bf,2,,1,entities,PDF p. 40,2 Entities/Organisations (i.e. Richmond Foundation and Puttinu Cares) having received donations in respect of the year 2023 both under the,high,p. 68 not checked for number; p. 40 gives it,claude-sonnet-5,2026-10-10,1,no
+o-8300a7e2ad,1,,1,agents,PDF p. 58,"7 of these applications were submitted by only 1 agent, representing 64%",high,Count of agents; that agent had 7 applications,claude-sonnet-5,2026-10-10,1,no
+o-030332fa8e,"€1,518,5000",,1,Total for 2024,PDF p. 88,"Total Administrative Fees €1,518,500 N/A* €1,518,5000",medium,"Total column misprinted with extra zero (""€1,518,5000""); GCES column and sum show €1,518,500",claude-sonnet-5,2026-10-10,1,no
+o-42c5bea077,2,,1,agents,PDF p. 17,The next 2 successful Agents in the group had 9 successfully processed applications each,high,,claude-sonnet-5,2026-10-10,1,no
+o-5869608bdd,16,,1,cases,PDF p. 22,the Agency has reported 16 cases,high,Suspicion of money laundering reported to FIAU,claude-sonnet-5,2026-10-10,1,no
+o-2cfecd5368,25,,1,agents,PDF p. 17,25 different Agents were engaged by the Main Applicants,high,,claude-sonnet-5,2026-10-10,1,no
+o-41da60edaa,119,,1,Number of Donations,PDF p. 52,"2023 119 €1,083,125",high,,claude-sonnet-5,2026-10-10,1,no
