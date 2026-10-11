@@ -2,8 +2,12 @@ WARN   source bgr-economy-2022-02-17: media source without an archive link
 WARN   source bgr-economy-2022-03-25: media source without an archive link
 WARN   source bhs-rtc-accelerated-2011: media source without an archive link
 WARN   source blr-interfax-2024-01-19: media source without an archive link
+WARN   source eth-addisfortune-golden-visa-2026: media source without an archive link
+WARN   source eth-bantugazette-visa-framework-2026: media source without an archive link
 WARN   source grc-gtp-2025-02-13: media source without an archive link
 WARN   source intl-techcabal-africa-cbi-2026: media source without an archive link
+WARN   source kaz-astanatimes-investor-visa-2025: media source without an archive link
+WARN   source kaz-mybuh-investor-visa-2025: media source without an archive link
 WARN   source khm-b2b-citizenship-2021: media source without an archive link
 WARN   source mhl-mvariety-2002-05-30: media source without an archive link
 WARN   source mlt-pq-camilleri-2025-02: official document without a stored copy
@@ -14,5 +18,7 @@ WARN   source sau-arabnews-first-batch-2019: media source without an archive lin
 WARN   source sau-prc-portal: official document without a stored copy
 WARN   source slv-cointelegraph-freedomvisa-2023-12: media source without an archive link
 WARN   source srb-paragraf-aliens-law-consol: industry source without an archive link
+WARN   source uzb-gazeta-golden-visa-2025-04: media source without an archive link
+WARN   source uzb-gazeta-golden-visa-2025-05: media source without an archive link
 WARN   source wsm-observer-2025-10-26: media source without an archive link
 WARN   source zwe-herald-investment-residence-guidelines: media source without an archive link

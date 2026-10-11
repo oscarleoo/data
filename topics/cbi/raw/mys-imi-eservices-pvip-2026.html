@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>e-Services</title>
+        <link rel="icon" href="/eservices/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+        <!-- CSS -->
+        <!-- Bootstrap CSS  -->
+        <link href="/eservices/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+      <!--<link href="/eservices/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />-->
+      <!--<link rel="stylesheet" type="text/css" href="/eservices/plugins/cubeportfolio/css/cubeportfolio.min.css">-->
+        <link href="/eservices/css/nivo-lightbox.css" rel="stylesheet" />
+        <link href="/eservices/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+        <link href="/eservices/css/owl.carousel.css" rel="stylesheet" media="screen" />
+        <link href="/eservices/css/owl.theme.css" rel="stylesheet" media="screen" />
+        <link href="/eservices/css/animate.css" rel="stylesheet" />
+        <link href="/eservices/css/style.css" rel="stylesheet">
+        <link rel="stylesheet" href="/eservices/css/bootstrap.css" type="text/css" media="screen" />
+
+
+        <!-- JS File -->
+        <script src="/eservices/js/jquery.min.js"></script>	 
+        <script src="/eservices/js/bootstrap.min.js"></script>
+        <script src="/eservices/js/jquery.easing.min.js"></script>
+        <script src="/eservices/js/wow.min.js"></script>
+        <script src="/eservices/js/jquery.scrollTo.js"></script>
+        <script src="/eservices/js/jquery.appear.js"></script>
+        <script src="/eservices/js/stellar.js"></script>
+        <!--<script src="/eservices/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>-->
+        <script src="/eservices/js/owl.carousel.min.js"></script>
+        <script src="/eservices/js/nivo-lightbox.min.js"></script>
+        <script src="/eservices/js/custom.js"></script>
+        <script type="text/javascript" src="/eservices/js/clock.min.js"></script>
+        <link rel="stylesheet" href="/eservices/css/datepicker.min.css" />
+        <!--<link rel="stylesheet" href="/eservices/css/datepicker3.min.css" />-->
+        <!--<link rel="stylesheet" href="/eservices/css/datetimepicker.css" />-->
+        <script src="/eservices/js/bootstrap-datepicker.min.js"></script>
+        <!--<script src="/eservices/js/moment.min.js"></script>-->
+        <!--<script src="/eservices/js/bootstrap-datetimepicker.min.js"></script>-->
+        <link rel="stylesheet" type="text/css" href="/eservices/css/dataTables.css" />
+        <script src="/eservices/js/dataTables.bootstrap.min.js"></script>
+        <script src="/eservices/js/jquery.dataTables.min.js"></script>
+        <script src="/eservices/js/formatCurrency.js"></script>
+        <script type="text/javascript" src="/eservices/js/jquery.blockUI.js"></script>
+        <script type="text/javascript" src="/eservices/js/BaseCommon.js?v=3"></script>
+        <script type="text/javascript" src="/eservices/js/validation.js"></script>
+
+        <script type="text/javascript">
+            $(function () {
+                $("#clock").clock();
+            });
+
+
+
+            function validateNumber(elmnt, content) {
+                //if it is character, then remove it..
+                if (isNaN(content)) {
+                    elmnt.value = removeNonNumeric(content);
+                    return;
+                }
+            }
+
+            function convert(val) {
+                var amaun = CurrencyFormatted(val);
+                amaun = CommaFormatted(amaun);
+                return amaun;
+            }
+
+            function removeNonNumeric(strString)
+            {
+                var strValidCharacters = "1234567890+-";
+                var strReturn = "";
+                var strBuffer = "";
+                var intIndex = 0;
+                // Loop through the string
+                for (intIndex = 0; intIndex < strString.length; intIndex++)
+                {
+                    strBuffer = strString.substr(intIndex, 1);
+                    // Is this a number
+                    if (strValidCharacters.indexOf(strBuffer) > -1)
+                    {
+                        strReturn += strBuffer;
+                    }
+                }
+                return strReturn;
+            }
+
+            $(document).ready(function () {
+                $("ul#nav li").attr("onclick", "return true");
+                $('form').submit(function () {
+                });
+
+                $('.uppercase').each(function () {
+                    $(this).blur(function () {
+                        $(this).val($(this).val().toUpperCase());
+                    });
+                });
+
+            });
+
+
+
+        </script>
+        
+        
+        <link rel="icon" href="/eservices/images/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <!-- boxed bg -->
+        <link id="bodybg" href="/eservices/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+        <!-- template skin -->
+        <link id="t-colors" href="/eservices/color/default.css" rel="stylesheet" />
+    </head>
+
+    <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+        <img src="/eservices/images/ajax-loader.gif" id="displayBox" style="display: none"/>
+        <div id="wrapper">
+
+            <!-- Start Header Section -->          
+
+
+            <!-- Start Navigation Section -->
+            <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+                <div class="top-area top-padding" style="background-color: white !important; background-image: url('img/new/bg2.png');background-repeat: repeat-x;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6">
+                                <div>
+                                    <input type="hidden" name="hdCurrLang" id="hdCurrLang" value="ms">
+                                    <div style="float:left"> <img src="/eservices/img/new/jata.png" width="80px" height="auto" alt="" class="img-responsive"></div>
+                                    <div style="float:left; margin-left: 10px;"><img src="/eservices/img/new/jim.png" width="80px" height="auto" alt="" class="img-responsive"></div>
+                                    <div style="float:left; margin-left: 10px;"><img src="/eservices/img/new/headerText.png" width="240px" height="auto" alt="" class="img-responsive"></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <p class="bold text-right">                    
+                                    <span id="clock" style="color: black"></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-menu">
+                    <div class="container navigation" >
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                                <i class="glyphicon glyphicon-list"></i>
+                            </button>
+                            <a class="navbar-brand" href="index.html">
+                                <!--<img src="/eservices/img/logo.png" alt="" width="50" height="56" />-->
+                            </a>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-left navbar-main-collapse" >
+                                <ul class="nav navbar-nav">
+                                    <li class="active"><a href="/eservices/main"><span class="glyphicon glyphicon-home">&nbsp;</span>Utama</a></li>
+                                    <li class="active"><a href="/eservices/main?logMasuk"><span class="glyphicon glyphicon-list">&nbsp;</span>Log Masuk</a></li>
+                                </ul>
+                            </div>
+                            <!-- /.navbar-collapse -->
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!-- /.container -->
+
+        <footer>
+            <!-- Section: intro -->
+            <section id="intro" class="intro">                
+                <div class="intro-content">
+                         
+        <img src="/eservices/img/new/header.jpg" width="100%" height="10%" class="img-responsive" >
+        <form method="post" action="/eservices/main;jsessionid=E67B15ABA8F965C9B721403B133FB009.worker203"><br>
+            <br>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="welcome-text-2">
+                        <div class="content-section">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div>
+                                                    <div>
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner8.png" width="247" height="150" >
+                                                        </center>
+                                                    </div>
+                                                    <div> 
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">PVIP</p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/PVIP_INTRODUCTION.png">Introduction</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/TERMS__CONDITIONS.pdf">Terms & Condition</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/GARIS_PANDUAN_PERMOHONAN_EJEN_PVIP.pdf">Guidelines for Agencies Application</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/BORANG_PELANTIKAN_EJEN.pdf">Agency Application Form</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/SENARAI_SEMAK_PENDAFTARAN_EJEN_PVIP_MALAYSIA.pdf">Checklist</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/SURAT_AKU_JANJI_OLEH_PENGARAH_SYARIKAT.pdf">Undertaking Letter</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?logMasuk">Registration / Login</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myPVip?inquiryApp">Inquiry Applicant Status</a></p>
+										
+                                                        <!--comment for CR2024vvvv1 OP66298-->
+                                                        <!--end comment for CR2024vvvv1 OP66298-->
+                                                        <!--used for CR2024vvvv1 OP66298-->
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myPVip?requestPinAgcy">PIN Request for New Agency</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myPVip?newAgcyQuota">New Agency Registration</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myPVip?inquiryAgency">Inquiry Agency Status <br/>/ Update Agency</a></p>
+                                                        <!--end used for CR2024vvvv1 OP66298-->
+                                                        <!--p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/sistemPortalMM2H_UserManual.pdf">User Manual</a></p-->
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/UserManualSistemPVIP_Agency.pdf">User Manual</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/FAQ_PVIP.pdf">FAQ</a></p>
+                                                        <!--<p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/public">Authorised Malaysia PVIP Agencies</a></p>-->
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/AUTHORISED_MALAYSIA_PREMIUM_VISA_PROGRAMME_AGENCIES.pdf">Authorised Malaysia PVIP Agencies</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner2.jpg" >
+                                                        </center>
+                                                    </div>
+                                                    <div >
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">MyOnline Residence Pass (Other Categories)</p>
+                                                        <!--<p style="text-align:center; font-size:12px;"><a href="/eservices/main?residenPass" class="toggle-loading">Pass Residence Online Application Registration/Pendaftaran Permohonan RP  Online</a></p>-->
+                                                        <p style="text-align:center; font-size:12px; "><a href="/eservices/myResidentPass?semakStatusPage" class="toggle-loading">Inquiry of Application Status for RP (Other Categories)/ Semakan Status Permohonan RP (Lain Lain Kategori)</a></p>                                                             
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner3.jpg" >
+                                                        </center></div>
+                                                    <div>
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">MyOnline Passport</p>
+                                                        <span><b><a href="https://www.imi.gov.my/index.php/faq_bkpjim/bahagian-keselamatan-pasport/" style="color:red" target="_blank">FAQ</a></b></span>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/PanduanMyOnlinePassport.pdf">Panduan Permohonan Online - Online Application Guideline</a></p>
+                                                        <!--<p style="text-align:center; font-size:12px;"><a href="/eservices/myPasport?semakPMA" class="toggle-loading">Semak Kelayakan Permohonan - Check Application Eligibility</a></p>-->
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPasport?passportPMA" class="toggle-loading">Permohonan Pasport - Application for the renewal of passport</a></p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPasport?pertanyaanStatusPMA" class="toggle-loading">Pertanyaan Status Permohonan - Inquiry of the application status</a></p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="https://imigresen-online.imi.gov.my/myimms/passport?semakPassport" class="toggle-loading">Pertanyaan Status Bayaran MyOnline Pasport - Inquiry of the MyOnline Pasport Payment Status</a></p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPasport?reuploadPhotoPMA" class="toggle-loading">Muat Naik Semula Gambar - Photo Re-upload</a></p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPasport?reuploadSupDocsPMA" class="toggle-loading">Muat Naik Semula Dokumen Sokongan - Support Documents Re-upload</a></p>                                               
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner4.jpg" >
+                                                        </center></div>
+                                                    <div >
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">MyOnline Foreign Maid/Foreign Worker</p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?pra" class="toggle-loading">Inquiry Application Status for Foreign Maid/Foreign Worker</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>				
+                                        </div>
+                                    </div>
+                                </div> <!-- /.row -->
+                                <div class="row">
+<!--                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner5.jpg" >
+                                                        </center></div>
+                                                    <div >  
+
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">eMM2H@JIM</p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myMm2h?intro">Introduction to MM2H</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/myMm2h?termsCondition" class="toggle-loading">Terms & Condition</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?logMasuk">Registration / Login</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/sistemPortalMM2H_UserManual.pdf">User Manual</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/sistemPortalMM2H_FAQ.pdf">FAQ</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>-->
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner6.jpg" width="247" height="150">
+                                                        </center>
+                                                    </div>
+                                                    <div >  
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">ePLSI</p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?introEplsi">Introduction</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?termsConditionEplsi" class="toggle-loading">Terms & Condition</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a target="_blank" href="/eservices/doc/UserManualSistemPortal_ePLSI.pdf">User Manual</a></p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/main?logMasuk">Registration / Login</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight; " >
+                                                <div>
+                                                    <div>
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner1.jpg" >
+                                                        </center>
+                                                    </div>
+                                                    <div>
+                                                        <!--<p style=" margin-top: 20px; font-size:20px; text-align:center;">MyOnline Permit</p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPermit?termSyaratPmt" class="toggle-loading">Terma &amp; Syarat / Terms &amp; Conditions</a></p>
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/mainPermit?showForm">Pendaftaran ID Pengguna / Log Masuk <br> User ID Registration / Log In</a></p>-->
+                                                        <p style="text-align:center; font-size:12px;"><a href="/eservices/myPermit?semakStatusPermit" class="toggle-loading">Pertanyaan Status Permohonan / Inquiry of Application Status</a></p>
+                                                        <!--<p style="text-align:center; font-size:12px;"><a href="/eservices/myPermit?semakanCetakBorang" class="toggle-loading">Print Application Form for Entry Permit &amp; SPT</a></p>-->
+                                                        <!--<p style="text-align:center; font-size:12px;"><a href="/eservices/doc/UserManualSistemPortal_PMT.pdf" class="toggle-loading">Manual Pengguna / User Manual</a></p>-->
+                                                    </div>
+                                                </div>
+                                            </div>				
+
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3"> 
+                                        <div class="form-wrapper">
+                                            <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s" align="center" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInRight;" >
+                                                <div >
+                                                    <div >
+                                                        <center class="homebg">
+                                                            <img src="/eservices/img/new/banner7.jpg" width="247" height="150">
+                                                        </center>
+                                                    </div>
+                                                    <div >  
+                                                        <p style=" margin-top: 20px; font-size:20px; text-align:center;">ePASS</p>
+                                                        <p style="text-align:center; font-size:12px;"> <a href="/eservices/checkEpassValid?semakan">Semakan Maklumat ePass</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- /.row -->
+                </div><!-- /.row -->
+            </div> <!-- /.container -->
+            <!-- End Copyright Section -->
+            <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+            <div style="display: none;"><input type="hidden" name="_sourcePage" value="QVPDL_n8aptEj2R5Q5DkaJtc2c2fIaPUBqCB-Uksle4=" /><input type="hidden" name="__fp" value="kUEy32puN14=" /></div></form><br>
+                </div>
+            </section>
+        </footer>
+        <!-- End Navigation Section --> 
+        <div class="sub-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="wow fadeInLeft">
+                            <div class="text-left">
+                                <p ><strong>MyIMMs - eServices | &copy; Jabatan Imigresen Malaysia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keperluan Laman Web | Pelayar yang disyorkan : Firefox 30+,Safari 7+, Internet Explorer 11+</strong></p>                                  
+                            </div>
+                            <div class="text-right">
+                                <p><strong><br></strong></p>                            
+                            </div>
+                        </div>
+                    </div>
+                </div>	
+            </div>
+        </div>
+        <!-- End Copyright Section -->
+        <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    </body>
+    <div class="modal" id="deleteModal">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Validation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure want to Log Out?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/eservices/logout" class="btn btn-primary" style="width:100px;">Yes</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="No" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+    <div class="modal" id="deleteModalPmt">
+        <form data-toggle="validator" role="form">
+            <div class="modal-dialog" style="border: 1px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">
+                            <div>Validation</div>
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        Anda pasti untuk Log Keluar?
+                    </div>
+                    <div class="modal-footer">
+
+                        <a href="/eservices/logoutPmt" class="btn btn-primary" style="width:100px;">Yes</a>&nbsp;
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="No" id="cancelBtn" style="width:100px;"/>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </form>
+    </div>
+</html>
+

@@ -395,7 +395,7 @@ and retiree residence; Prince Edward Island investor stream; France exceptional 
   in only if a minimum investment by itself qualifies the applicant; otherwise out.
 - Thresholds on a company's money (capital, assets) rather than the applicant's are out, as is mere proof of funds held
   anywhere.
-- Buying property is in even without a minimum price (it is a purchase).
+- Buying property is in even without a minimum price (it is a purchase). Narrowed by decision 18: a minimum value or fixed payment is needed.
 - Investor routes whose amount the law leaves to a later decision are in (amount recorded as unset).
 Already in the data but out of scope by these tests: Croatia's business residence (investment plus employees and
 salary). Its rows are kept, the programme is marked out of scope, and pages don't show it.
@@ -414,6 +414,54 @@ with a note that the report does not trace which money came from CBI. It is neve
 
 **Why.** Extract everything, but claim no more than the source says: money is fungible, and the report links the
 programme to the option, not each dollar spent.
+
+### 17. Contents that can never be extracted (decided 2026-10-11)
+
+**Question.** Some documents hold things in scope that no amount of work will get out: a chart with no printed values,
+a page missing from the only copy, text behind a paywall or bot check we don't get around, digits too blurred to read.
+The coverage ledger marked these documents `partial`, the same as documents with work still to do. How do we tell the
+two apart?
+
+**Decision.** The document stays `partial`, and its `to_do` starts with the words "Not extractable:" followed by what
+and why. If something extractable is also left, it is listed first and the "Not extractable:" part follows. Values are
+never estimated from a chart's bar heights or a picture (decision 2). Coverage summaries count the two kinds
+separately.
+
+**Why.** "Partial" must keep meaning that something in scope is missing, so nothing is presented as complete when it
+isn't. But a reader, and the next extraction pass, need to know which gaps are work left and which are limits of the
+sources.
+
+**Applied (2026-10-11).** Of 1,681 stored documents, 30 are partial: 29 only for things that can't be extracted
+(mostly charts without printed values, missing pages and paywalls) and 1 with an optional extra calculation left (more
+cross-tabulations from the Australian pivot workbook, which prints none of them).
+
+### 18. Two products from one dataset, and a tighter scope (decided 2026-10-11)
+
+**Question.** The dataset grew from citizenship by investment into investment migration in general: 44 citizenship
+programmes, 146 residence programmes, and about 26,000 numbers about immigration in general (Canada's and New Zealand's
+full residence tables) or context (St Kitts sugar). Some routes in scope are ordinary rules for foreigners who own a home,
+with no price. Should the dataset be split, and where is the edge?
+
+**Decision.**
+- One dataset, published as two products: citizenship by investment and residence by investment, each with its own page,
+  counts and download, built from the same tables (`programs.kind`). Sources, the coverage ledger, corrections and checks
+  stay shared, because many documents cover both and residence often leads to citizenship.
+- A route is in scope when a set investment or payment is what gets the applicant residence or citizenship: a minimum
+  amount, or a fixed payment, printed in law or official guidance (or left by law to a later decision that sets one).
+  Owning a home with no minimum value (Albania, Belarus, Serbia) is out: it is a general rule for property owners, not
+  something sold. Tax residence without a residence permit (Uruguay) is out. A residence permit granted for paying a set
+  tax (Swiss lump-sum taxation) stays in, since a fixed payment is the reason for the permit. This narrows decision 15's
+  "buying property is in even without a minimum price".
+- Numbers about immigration in general, and context figures, are kept (decision "extract everything") but carry no
+  programme, and pages and counts leave them out.
+
+**Why.** Readers of a page called citizenship by investment should not count golden visas as passports, and the residence
+side is a real subject of its own. One set of tables keeps every fix in one place. A price, or a set payment, is what makes
+a route something a country sells.
+
+**Applied (2026-10-11).** Out of scope (rows kept, not shown): alb-property-residence, blr-property-residence,
+srb-property-residence, ury-tax-residence-investment. Programmes whose minimum is set by a decision not yet stored stay in
+with the amount unset (Turkey property residence since November 2024).
 
 ## Open questions
 

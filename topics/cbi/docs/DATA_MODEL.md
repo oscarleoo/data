@@ -153,6 +153,22 @@ every jurisdiction, indicator and period where sources give different values,
 side by side with their statuses. Differences are expected; they are data, not
 errors to be cleaned away.
 
+## Checks
+
+- `data/second_read.csv`: a blind second reading of numbers. A second reader (a different AI model) is given each
+  number's document, location, measure and period, but not the value, and reads it. `scripts/second_read.py` compares
+  the two readings and writes `reports/second_read.csv`.
+- `data/second_read_terms.csv`: the same for rules (minimum amounts, fees, periods): what the second reader read, the
+  comparison, and, where they differed, the ruling after a third look at the page.
+- `data/second_read_resolutions.csv`: the ruling on every number where the two readings differed (`first_correct`,
+  `second_correct`, `both_in_document`). Where the first reading was wrong it was fixed through `corrections.csv`.
+
+## Recurring publications
+
+`data/recurring.csv` lists every report series the dataset depends on (half-year programme reports, yearly visa
+tables, monthly statistics, budgets, IMF reports), with the newest edition we store and when the next one is due.
+`scripts/due.py` lists the ones that are due; `docs/UPDATES.md` describes the routine.
+
 ## Research inbox
 
 New research lands in `_inbox/` as JSON (see `RESEARCH_FORMAT.md`), is checked,

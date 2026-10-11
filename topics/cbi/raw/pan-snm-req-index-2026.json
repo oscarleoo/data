@@ -1,0 +1,283 @@
+[
+ {
+  "category_id": 111,
+  "documents": [
+   {
+    "id": 2302,
+    "date": "2025-09-13T17:06:11",
+    "modified": "2025-09-13T17:09:18",
+    "slug": "solvencia-economica-por-inversion-mixta",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE POR RAZONES DE SOLVENCIA ECONOMICA PROPIA POR INVERSIÓN MIXTA - DEPÓSITO A PLAZO FIJO Y BIENES INMUEBLES\"> SOLVENCIA ECONÓMICA POR INVERSIÓN MIXTA </a>"
+    }
+   },
+   {
+    "id": 2298,
+    "date": "2025-09-13T17:02:55",
+    "modified": "2025-09-13T17:09:26",
+    "slug": "solvencia-economica-de-bienes-inmuebles",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE POR RAZONES DE SOLVENCIA ECONOMICA PROPIA POR INVERSIÓN DE BIENES INMUEBLES\"> SOLVENCIA ECONÓMICA DE BIENES INMUEBLES </a>"
+    }
+   },
+   {
+    "id": 2276,
+    "date": "2025-09-13T16:54:03",
+    "modified": "2025-09-13T17:03:30",
+    "slug": "solvencia-econonica-de-deosito-a-plazo-fijo",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE POR RAZONES DE SOLVENCIA ECONOMICA PROPIA POR APERTURA DE DEPOSITO A PLAZO FIJO\"> SOLVENCIA ECONÓNICA DE DEPÓSITO A PLAZO FIJO </a>"
+    }
+   },
+   {
+    "id": 2273,
+    "date": "2025-09-13T16:49:26",
+    "modified": "2025-09-13T16:49:27",
+    "slug": "inversionista-macro-empresa",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO PROVISIONAL DE RESIDENTE PERMANENTE POR RAZONES DE INVERSIONISTA DE LA MACRO-EMPRESA\"> INVERSIONISTA MACRO EMPRESA </a>"
+    }
+   },
+   {
+    "id": 2269,
+    "date": "2025-09-13T16:40:59",
+    "modified": "2025-09-13T16:40:59",
+    "slug": "inversion-forestal",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO PROVISIONAL DE RESIDENTE PERMAMENTE POR RAZONES DE INVERSIÓN FORESTAL\"> INVERSIÓN FORESTAL </a>"
+    }
+   }
+  ]
+ },
+ {
+  "category_id": 112,
+  "documents": [
+   {
+    "id": 2422,
+    "date": "2025-09-15T13:29:12",
+    "modified": "2025-09-15T13:30:11",
+    "slug": "a-3",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE EN CALIDAD DE INVERSIONISTA DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL\">INVERSIONISTA DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL </a>"
+    }
+   },
+   {
+    "id": 2418,
+    "date": "2025-09-15T13:26:38",
+    "modified": "2025-09-15T13:35:41",
+    "slug": "a-2",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE POR POLÍTICAS ESPECIALES INVERSIONISTA DE CENTROS DE LLAMADAS PARA USO COMERCIAL (CALL CENTER) PARA LA EXPORTACIÓN\">INVERSIONISTA DE CALL CENTER DE EXPORTACIÓN </a>"
+    }
+   },
+   {
+    "id": 2400,
+    "date": "2025-09-15T13:25:00",
+    "modified": "2025-09-15T13:36:08",
+    "slug": "permiso-de-trabajadrores-del-area-panama-pacifico",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE TRABAJADORES DEL ÁREA PANAMÁ-PACÍFICO, DENTRO DEL 10% DE LOS TRABAJADORES ORDINARIOS DE UNA EMPRESA, DEL DESARROLLADOR U OPERADOR\">PERMISO DE TRABAJADORES DEL ÁREA PANAMÁ PACIFICO </a>"
+    }
+   },
+   {
+    "id": 2414,
+    "date": "2025-09-15T13:23:30",
+    "modified": "2025-09-15T13:24:44",
+    "slug": "a",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE PERMANENTE POR POLÍTICAS ESPECIALES INVERSIONISTA EN ZONAS PROCESADORAS PARA LA EXPORTACIÓN\">INVERSIONISTA DE ZONA PROCESADORA DE EXPORTACIÓN </a>"
+    }
+   },
+   {
+    "id": 2390,
+    "date": "2025-09-15T13:19:00",
+    "modified": "2025-09-15T13:19:00",
+    "slug": "inversionista-del-area-economica-especial-panama-pacifico",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO PROVISIONAL DE RESIDENTE PERMANENTE POR RAZONES DE INVERSIONISTA DEL ÁREA ECONÓMICA ESPECIAL DE PANAMÁ PACÍFICO \">INVERSIONISTA DEL ÁREA ECONÓMICA ESPECIAL PANAMÁ PACÍFICO </a>"
+    }
+   },
+   {
+    "id": 2310,
+    "date": "2025-09-13T17:11:23",
+    "modified": "2025-09-15T13:15:52",
+    "slug": "jubilado-pensionado",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA JUBILDADO PENSIONADO\"> JUBILADO PENSIONADO </a>"
+    }
+   },
+   {
+    "id": 2305,
+    "date": "2025-09-13T17:09:03",
+    "modified": "2025-09-13T17:09:03",
+    "slug": "rentista-retirado",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA RENTISTA RETIRADO\"> RENTISTA RETIRADO </a>"
+    }
+   }
+  ]
+ },
+ {
+  "category_id": 119,
+  "documents": [
+   {
+    "id": 2533,
+    "date": "2025-09-15T14:36:14",
+    "modified": "2025-09-15T14:37:40",
+    "slug": "b-6",
+    "title": {
+     "rendered": "<a  title=\"PERMISO TEMPORAL POR RAZONES DE INVERSIÓN FORESTAL\">INVERSIÓN FORESTAL </a>"
+    }
+   },
+   {
+    "id": 2530,
+    "date": "2025-09-15T14:35:21",
+    "modified": "2025-09-15T14:37:49",
+    "slug": "a-12",
+    "title": {
+     "rendered": "<a  title=\"PERMISO TEMPORAL POR RAZONES DE INVERSION AGRARIA\">INVERSION AGRARIA </a>"
+    }
+   }
+  ]
+ },
+ {
+  "category_id": 120,
+  "documents": [
+   {
+    "id": 2655,
+    "date": "2025-09-15T16:06:56",
+    "modified": "2025-09-15T16:31:10",
+    "slug": "e-3",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO PARA EL PERSONAL DESIGNADO POR EL GOBIERNO DE ESTADOS UNIDOS DE AMÉRICA PARA PARTICIPAR EN EL PROGRAMA DE AVIACIÓN, EN FUNCIÓN DE LA CARTA DE ACUERDO CARSI/MERIDA Y LOS MIEMBROS DE SU PERSONAL, ASÍ COMO DEL PERSONAL CONTRATADO POR LOS ESTADOS UNIDOS DE AMÉRICA\">ACUERDO CARSI/MERIDA </a>"
+    }
+   },
+   {
+    "id": 2652,
+    "date": "2025-09-15T15:59:13",
+    "modified": "2025-09-15T16:16:55",
+    "slug": "d-7",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE TEMPORAL EN CALIDAD DE PERSONAL CONTRATADO POR SEDES DE EMPRESAS MULTINACIONALES\">PERSONAL CONTRATADO POR SEDES DE EMPRESAS MULTINACIONALES </a>"
+    }
+   },
+   {
+    "id": 2649,
+    "date": "2025-09-15T15:58:40",
+    "modified": "2025-09-15T18:46:49",
+    "slug": "c-8",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE PERSONAL CONTRATADO COMO EJECUTIVOS DE COMPAÑÍAS INTERNACIONALES, CUYAS FUNCIONES SURTEN EFECTOS EN EL EXTRANJERO \">PERSONAL CONTRATADO COMO EJECUTIVOS DE COMPANIAS INTERNACIONALES </a>"
+    }
+   },
+   {
+    "id": 2646,
+    "date": "2025-09-15T15:57:51",
+    "modified": "2025-09-15T19:02:20",
+    "slug": "b-12",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE PERSONAL CONTRATADO EN PUESTOS DE CONFIANZA, EJECUTIVOS EXPERTOS Y/O TÉCNICOS EN EMPRESAS DE CENTROS DE LLAMADAS DE USO COMERCIAL PARA LA EXPORTACIÓN (CALL CENTER) \">CONTRATADO EN PUESTOS DE CONFIANZA EN EMPRESAS DE CENTROS DE LLAMADAS </a>"
+    }
+   },
+   {
+    "id": 2643,
+    "date": "2025-09-15T15:57:13",
+    "modified": "2025-09-15T19:03:11",
+    "slug": "a-20",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE TRABAJADOR CONTRATADO EN PUESTO DE CONFIANZA, EJECUTIVOS EXPERTOS Y/O TÉCNICOS EN EMPRESAS DENTRO DE ZONAS FRANCAS\">CONTRATADO EN PUESTO DE CONFIANZA EN EMPRESA ZONA FRANCA </a>"
+    }
+   },
+   {
+    "id": 2638,
+    "date": "2025-09-15T15:51:27",
+    "modified": "2025-09-15T19:03:28",
+    "slug": "a-19",
+    "title": {
+     "rendered": "<a  title=\"PERMISO DE TRABAJADORES DEL ÁREA PANAMÁ PACÍFICO OTORGADA AL PERSONAL DENTRO DEL 10% DE LOS TRABAJADORES ORDINARIOS DE UNA EMPRESA, DEL DESARROLLADOR U OPERADOR\">TRABAJADORES DEL AREA PANAMA PACIFICO </a>"
+    }
+   },
+   {
+    "id": 2627,
+    "date": "2025-09-15T15:34:33",
+    "modified": "2025-09-15T18:54:46",
+    "slug": "d-6",
+    "title": {
+     "rendered": "<a  title=\"PERSONAL CONTRATADO DENTRO DEL AREA PANAMÁ PACÍFICO, PARA LABORAR COMO PERSONAL ESPECIALIZADO EN ASPECTOS TÉCNICOS O EN ASUNTOS PROPIOS DE LA GESTIÓN DE LA ADMINISTRACIÓN EN UN PORCENTAJE NO EXCEDA DEL QUINCE (15%) DE TRABAJADORES ORDINARIO.\">PERMISO DE TRABAJADORES DEL AREA PANAMA PACIFICO </a>"
+    }
+   },
+   {
+    "id": 2624,
+    "date": "2025-09-15T15:33:24",
+    "modified": "2025-09-15T18:44:35",
+    "slug": "c-7",
+    "title": {
+     "rendered": "<a  title=\"PERMISO TEMPORAL EN CALIDAD DE ESTUDIANTE DE LA FUNDACIÓN CIUDAD DEL SABER\">ESTUDIANTE DE LA FUNDACIÓN CIUDAD DEL SABER </a>"
+    }
+   },
+   {
+    "id": 2621,
+    "date": "2025-09-15T15:31:11",
+    "modified": "2025-09-15T15:44:55",
+    "slug": "b-11",
+    "title": {
+     "rendered": "<a  title=\"PERMISO DE RESIDENTE TEMPORAL EN CALIDAD DE EMPLEADO DE EMPRESA BAJO CONTRATO CON LA ACP\">EXTRANJERO CONTRATADO POR LA AUTORIDAD DEL CANAL DE PANAMÁ </a>"
+    }
+   },
+   {
+    "id": 2618,
+    "date": "2025-09-15T15:30:32",
+    "modified": "2025-09-15T15:43:01",
+    "slug": "a-18",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO TEMPORAL EN CALIDAD DE ESTUDIANTE DE LA FUNDACIÓN CIUDAD DEL SABER\">ESTUDIANTE DE LA FUNDACION CIUDAD DEL SABER </a>"
+    }
+   },
+   {
+    "id": 2604,
+    "date": "2025-09-15T15:23:43",
+    "modified": "2025-09-15T15:27:45",
+    "slug": "e-2",
+    "title": {
+     "rendered": "<a  title=\"PERMISO TEMPORAL EN CALIDAD DE TÉCNICO DE LA FUNDACIÓN CIUDAD DEL SABER\">TÉCNICO DE LA FUNDACIÓN CIUDAD DEL SABER </a>"
+    }
+   },
+   {
+    "id": 2601,
+    "date": "2025-09-15T15:22:35",
+    "modified": "2025-09-15T15:27:16",
+    "slug": "d-5",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO TEMPORAL EN CALIDAD DE EMPRESARIO O EJECUTIVO DE LA FUNDACIÓN CIUDAD DEL SABER\">EMPRESARIO O EJECUTIVO DE LA FUNDACION CIUDAD DEL SABER </a>"
+    }
+   },
+   {
+    "id": 2598,
+    "date": "2025-09-15T15:21:39",
+    "modified": "2025-09-15T18:24:59",
+    "slug": "c-6",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO TEMPORAL EN CALIDAD DE DOCENTE DE LA FUNDACIÓN CIUDAD DEL SABER\">DOCENTE DE LA FUNDACIÓN CIUDAD DEL SABER </a>"
+    }
+   },
+   {
+    "id": 2595,
+    "date": "2025-09-15T15:20:18",
+    "modified": "2025-09-15T15:25:15",
+    "slug": "b-10",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO TEMPORAL EN CALIDAD INVESTIGADOR DE LA FUNDACIÓN CIUDAD DEL SABER\"> INVESTIGADOR DE LA FUNDACION CIUDAD DEL SABER</a>"
+    }
+   },
+   {
+    "id": 2592,
+    "date": "2025-09-15T15:16:11",
+    "modified": "2025-09-15T15:24:31",
+    "slug": "a-17",
+    "title": {
+     "rendered": "<a  title=\"REQUISITOS PARA SOLICITAR PERMISO DE RESIDENTE TEMPORAL EN CALIDAD DE PERSONAL EXTRANJERO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL\">EXTRANJERO CONTRATADO EMPRESA INDUSTRIA CINEMATOGRAFICA Y AUDIOVISUAL </a>"
+    }
+   }
+  ]
+ }
+]

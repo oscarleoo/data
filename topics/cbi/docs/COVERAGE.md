@@ -30,19 +30,20 @@ They did not record every table in every document they stored. On 8 October
 not been extracted, while the page said "every number we could find". That was
 wrong. This ledger makes the gaps visible.
 
-## Where we are (as of 2026-10-10, late)
+## Where we are (as of 2026-10-11, evening)
 
-- Sources: 1,555, of which 1,550 have a stored copy (news and industry copies are kept locally for checking and not published, for copyright). Data: 129,251 numbers, 5,364 rules, 1,456 events; 174 programme ids (171 programmes in scope in 100 countries and territories, 2 marked out of scope, 1 umbrella id).
-- Stored documents reviewed: **1,550 of 1,550** (1,421 complete, 110 partial with a written to-do, 19 not applicable). The 50 founding laws added by the launch-date pass on 10 October were read for start dates and rules only and are marked partial until fully read.
-- Sources with no stored copy: 5. They couldn't be fetched (a CAPTCHA or bot check we don't bypass, a dead domain, a refused connection) and stay `not_reviewed`; their to-do says why.
-- The review was done document by document between 8 and 10 October 2026; logs: `../cbi/reports/overnight-2026-10-08.md` and `../cbi/reports/corrections-2026-10-09.md`.
+- Sources: 1,686, of which 1,681 have a stored copy (news and industry copies are kept locally for checking and not published). Data: 133,546 numbers, 6,563 rules, 1,604 events; 186 programmes in scope (44 citizenship, 142 residence) in 107 countries and territories. Programmes marked out of scope (METHODOLOGY decisions 15 and 18) are kept and not shown.
+- Stored documents reviewed: **1,681 of 1,681** (1,615 complete, 36 not applicable, 30 partial). Of the 30 partial documents, 29 are partial only for things that can never be extracted (to_do starts "Not extractable:", METHODOLOGY decision 17: charts without printed values, pages missing from the only copy, paywalls, unreadable scans), and 1 has an optional extra calculation left.
+- Sources with no stored copy: 5 (a CAPTCHA or bot check we don't get around, a dead site, a refused connection). They stay `not_reviewed`.
+- Quote check (11 October, 141,713 quoted rows): 100,209 match the document word for word, 21,476 as a table row, 3,131 cell for cell in spreadsheets; 12,573 rows whose quote isn't verbatim were confirmed by a blind second reading and 327 by eye on the page; 3,989 are calculated figures (decision 1) whose recipe was recalculated. 7 rows come from sources we don't store and 1 document has no readable text.
+- Blind second reading: **40,036 of 133,546 numbers** (30%): all headline totals without a split, the top three in every nationality, route and category table, every newsletter number, every number whose quote couldn't be matched, and samples of the rest. 39,036 agreed at once; the other 1,000 were ruled after a third look at the page (`data/second_read_resolutions.csv`). **4,639 rules** (minimum amounts, fees, periods) were read the same way (`data/second_read_terms.csv`). Where the first reading was wrong it was corrected through `data/corrections.csv`.
+- Limit: for scanned documents the stored text is itself OCR, so a matching quote confirms the wording but not every digit; the second reading covers the scans the checks lean on, not all of them.
+- Recurring publications: `data/recurring.csv` lists 87 report series and when each is due; `docs/UPDATES.md` describes the routine.
 
 What this does and doesn't mean:
 
-- Every number has a location and a verbatim quote, and each is checked against the stored copy. Of 130,532 quoted rows (numbers, rules, events) in the last full check (10 October): 92,113 match word for word and 19,716 as a table row; 3,131 spreadsheet rows match cell for cell; 10,777 were confirmed by a blind second reading and 245 by eye; 3,989 are calculated figures (decision 1) whose recipe was recalculated independently. None is unconfirmed; 1 document has no readable text and 560 rows come from sources we don't store. Rows added after that check were checked as they were merged.
-- Limit of the quote check: for scanned documents the stored text is itself OCR, so a quote that matches it confirms the wording but not every digit. 5,060 numbers are confirmed only that way (mostly Antigua contribution lines, which are almost all 100,000 or 125,000 and add up to the printed totals in most reports, and Thai membership cells, checked against row totals). Reading every payment line of the Antigua reports blind found and corrected 9 misread amounts that a text match had passed.
-- A blind second reading by a different model covers 23,459 of 129,029 numbers: every number whose quote could not be matched automatically, every Antigua payment line, every image or chart label, plus samples of the rest. Every difference is ruled (`data/second_read_resolutions.csv`); where the first reading was wrong it was corrected through `data/corrections.csv`.
-- `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` column says exactly what (charts without printed values, unreadable scans, items waiting for a decision on scope).
+- `complete` means everything in scope was extracted. `partial` documents still hold things we didn't extract; the `to_do` says what.
+- The dataset holds every programme we found, not every programme in the world. Leads still open are in `docs/GAPS.md` and the research inbox files.
 - Documents we don't store are not reviewed, so the dataset says nothing about what they contain.
 
 ## What happens next

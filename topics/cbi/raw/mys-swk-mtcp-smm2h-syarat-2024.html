@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- jQuery 3.5.1 -->
+<script src="/module/web/web/js/jquery.min.js"></script>
+
+<!-- Bootstrap 3.3.7 -->
+<link rel="stylesheet" href="/module/web/web/theme/default/bootstrap.min.css">
+<script src="/module/web/web/js/bootstrap.min.js"></script>
+
+<!-- FontAwesome 4.2 -->
+<link rel="stylesheet" href="/module/web/web/theme/default/font-awesome.min.css">
+
+<!-- jQuery UI -->
+<link rel="stylesheet" href="/module/web/web/theme/default/jquery-ui.css">
+<script src="/module/web/web/js/jquery-ui.js"></script>
+
+<!-- Moment JS -->
+<script src="/module/web/web/js/moment.min.js"></script>
+<script src="/module/web/web/js/moment-with-locales.min.js"></script>
+
+<!-- Owl Carousel 2.3.4 -->
+<link rel="stylesheet" href="/module/web/web/theme/default/owl.carousel.min.css">
+<script src="/module/web/web/js/owl.carousel.min.js"></script>
+
+<!-- Evo Calendar -->
+<link rel="stylesheet" href="/module/web/web/theme/default/evo-calendar.min.css">
+<script src="/module/web/web/js/evo-calendar.min.js"></script>
+
+<!-- Mark.js -->
+<script src="/module/web/web/js/jquery.mark.min.js"></script>
+
+<!-- Chart.js -->
+<script src="/module/web/web/js/chart.min.js"></script>
+
+<!-- Splide JS -->
+<link rel="stylesheet" href="/module/web/web/theme/default/splide.min.css">
+<script src="/module/web/web/js/splide.min.js"></script>
+
+
+<SCRIPT LANGUAGE="javascript" TYPE="text/javascript" SRC="https://mtcp.sarawak.gov.my/moonlight/js/min/moonlight.js"></SCRIPT><script src="https://mtcp.sarawak.gov.my/web/web/js/module.js"></script><link rel="stylesheet" type="text/css" href="https://mtcp.sarawak.gov.my/web/web/default/share.css" /><script type="text/javascript" language="javascript">
+/* All Javascript that need to print by PHP put here. Pure Javascript put in web/js/module.js */
+lbl_field_required='This field is compulsory.';/*For validate_form() function.*/
+lbl_ajax_error='Fail to load required records, please contact administrator if the problem is persistent.';/*For validate_form() function.*/
+</script>
+
+<meta name="description" content="Official website of Ministry of Tourism, Creative Industry and Performing Arts Sarawak<quillbot-extension-portal></quillbot-extension-portal>">
+<meta name="keywords" content="mtcp">
+
+<html>
+	<head>
+		<!-- <link rel="stylesheet" type="text/css" href="http://10.18.4.76/projects/dynamicweb/engine/v10/branches/module/web/web/theme/default/share.css"> -->
+		<link rel="SHORTCUT ICON" href="/web/attachment/show/?docid=NjNXTC92VXNHYXdOZkRCYUFCb1R5dz09OjpHQXOkaf6xr9lBfLZnqXBR">
+		<title>
+			News - Ministry of Tourism, Creative Industry & Performing Arts Sarawak		</title>
+	</head>
+	<body class="hold-transition" onLoad="if (window.runOnLoad){runOnLoad()}">
+		 
+  
+ <div id='divAjaxError' class='nowLoading' style="display:none" >
+	<table width=100% cellpadding=1 cellspacing=0 border=0>
+	<tr>
+		<td align="right"><img alt='icon' src='https://mtcp.sarawak.gov.my/k/warning.gif' border='0' style='vertical-align:middle;'  /></td>
+		<td><strong>AJAX Error</strong><br/>Sorry, failed to load required information. Please contact your system administrator.</td>
+		<td width=1% valign=top>
+			<a href="javascript:hideItSimple('divAjaxError')">
+				<img alt='icon' src='https://mtcp.sarawak.gov.my/k/close.png' border='0' style='vertical-align:middle;'  />			</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=3 align=right valugb=bottom>
+			<a href="javascript:hideItSimple('divAjaxError')">Close</a>
+		</td>
+	</tr>
+	</table>
+</div>
+
+<!-- Ajax loader -->
+<div id='divLoading' class='nowLoading' style="display:none" >
+	<div class="ajaxDivLoader">
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+	</div>
+</div>
+
+<style>
+	.nowLoading {
+		color: #333;
+		display: none;
+		position: absolute;
+		top: 30%;
+		left: 35%;
+		width: 240px;
+		height: 95px;
+		padding: 10px;
+		border: 1px solid #D1CAA3;
+		background-color: #F9F2AA;
+		text-align: center;
+		overflow: auto;
+		z-index:8080;
+		filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135,Strength=5), alpha(opacity=90);
+		-moz-opacity: .09;
+		opacity: .90;
+	}
+
+    .ajaxDivLoader{
+        position: relative;
+        z-index: 9999;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        /* background: rgba(0, 0, 0, 0.3); */
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        justify-content: center;
+		height:350px;
+    }
+
+    .ajaxDivLoader span {
+        display: block;
+        width: 15px;
+        height: 30px;
+        margin-right: 10px;
+        border-radius: 5px;
+        animation-name: redirect-ajaxDivLoader;
+        animation-duration: 0.4s;
+        animation-direction: alternate;
+        animation-iteration-count: infinite;
+        animation-timing-function: cubic-bezier(.19, .97, 1, 1);
+    }
+
+            .ajaxDivLoader span:nth-of-type(1) {
+            background: #a5f299;
+        }
+        .ajaxDivLoader span:nth-of-type(2) {
+            animation-delay: 0.2s;
+            background: #93f284;
+        }
+        .ajaxDivLoader span:nth-of-type(3) {
+            animation-delay: 0.3s;
+            background: #51e63c;
+        }
+        .ajaxDivLoader span:nth-of-type(4) {
+            animation-delay: 0.4s;
+            background: #3cce30;
+        }
+        .ajaxDivLoader span:nth-of-type(5) {
+            animation-delay: 0.5s;
+            background: #23bf2c;
+        }
+        .ajaxDivLoader span:nth-of-type(6) {
+            animation-delay: 0.6s;
+            background: #07a420;
+        }
+    
+    /* .ajaxDivLoader span:nth-of-type(1) {
+        background: #fba2a2;
+    }
+    .ajaxDivLoader span:nth-of-type(2) {
+        animation-delay: 0.2s;
+        background: #ff7979;
+    }
+    .ajaxDivLoader span:nth-of-type(3) {
+        animation-delay: 0.3s;
+        background:#ed6464;
+    }
+    .ajaxDivLoader span:nth-of-type(4) {
+        animation-delay: 0.4s;
+        background:#ed4343;
+    }
+    .ajaxDivLoader span:nth-of-type(5) {
+        animation-delay: 0.5s;
+        background:#e92323;
+    }
+    .ajaxDivLoader span:nth-of-type(6) {
+        animation-delay: 0.6s;
+        background:#eb0000;
+    } */
+
+    @keyframes redirect-ajaxDivLoader {
+        0% {
+            height: 30px;
+        }
+        100% {
+            height: 150px;
+        }
+    }
+</style>
+
+<!-- Full page loader -->
+<div class="full-page-loader" style="display:none;">
+    <div class="loader">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<style>
+    .full-page-loader .loader{
+        position: fixed;
+        z-index: 9999;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.3);
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .full-page-loader .loader span {
+        display: block;
+        width: 15px;
+        height: 30px;
+        margin-right: 10px;
+        border-radius: 5px;
+        animation-name: redirect-loader;
+        animation-duration: 0.4s;
+        animation-direction: alternate;
+        animation-iteration-count: infinite;
+        animation-timing-function: cubic-bezier(.19, .97, 1, 1);
+    }
+    
+            .full-page-loader .loader span:nth-of-type(1) {
+            background: #a5f299;
+        }
+        .full-page-loader .loader span:nth-of-type(2) {
+            animation-delay: 0.2s;
+            background: #93f284;
+        }
+        .full-page-loader .loader span:nth-of-type(3) {
+            animation-delay: 0.3s;
+            background: #51e63c;
+        }
+        .full-page-loader .loader span:nth-of-type(4) {
+            animation-delay: 0.4s;
+            background: #3cce30;
+        }
+        .full-page-loader .loader span:nth-of-type(5) {
+            animation-delay: 0.5s;
+            background: #23bf2c;
+        }
+        .full-page-loader .loader span:nth-of-type(6) {
+            animation-delay: 0.6s;
+            background: #07a420;
+        }
+    
+    /* .full-page-loader .loader span:nth-of-type(1) {
+        background: #fba2a2;
+    }
+    .full-page-loader .loader span:nth-of-type(2) {
+        animation-delay: 0.2s;
+        background: #ff7979;
+    }
+    .full-page-loader .loader span:nth-of-type(3) {
+        animation-delay: 0.3s;
+        background:#ed6464;
+    }
+    .full-page-loader .loader span:nth-of-type(4) {
+        animation-delay: 0.4s;
+        background:#ed4343;
+    }
+    .full-page-loader .loader span:nth-of-type(5) {
+        animation-delay: 0.5s;
+        background:#e92323;
+    }
+    .full-page-loader .loader span:nth-of-type(6) {
+        animation-delay: 0.6s;
+        background:#eb0000;
+    } */
+
+    @keyframes redirect-loader {
+        0% {
+            height: 30px;
+        }
+        100% {
+            height: 150px;
+        }
+    }
+</style>		
+		<div class="wrapper">
+			
+            			
+			<div class="content-wrapper">
+				<style>
+	</style>
+
+
+<div class="template_theme_detect" data-template="template3_">
+	<h1 style="display: none;"></h1>
+	<form splwpk-feedback-form = "splwpk-feedback-form"><input type='hidden' name='moonlight_token_13926' value='189LGG'/></form>
+	<a href="/web/subpage/staffcontact_view/5" style="display:none;" splwpk-publicising = "splwpk-publicising" timestamp="2026-10-12 00:25:51" ></a>
+
+	<div id="template3_header">
+		<header>
+
+			<div id="template3-header-wrapper" class="small-left-right">
+
+				<div class="topheader">
+					<div class="second-box" style="float:left;">	
+						<div class="login-button" style="float: left;">	
+														
+						</div>	
+						
+						<div class="lang-switch" splwpk-multilang="splwpk-multilang">			
+							<select id="lang" name="lang" onchange="javascript:window.location.href = '/web/share/set_lang/'+this.value;">
+																<option value="en"
+								 selected 								>
+								EN								</option>
+																<option value="bm"
+																>
+								BM								</option>
+															</select>					
+							<label class="switch">
+								<input class="toggle-me" type="checkbox">
+								<span class="slider round"></span>
+							</label>
+						</div>
+					</div>
+
+					<!-- Search Form -->
+					<div class="forms-content">
+						<!--form class="is-search-form " action="#" method="get" role="search"-->
+						<form splwpk-search-function="splwpk-search-function" splwpk-advanced-search-function="splwpk-advanced-search-function" class="is-search-form " id="searchform" action="/web/subpage/search_result_gs/" method="POST" role="search"><input type='hidden' name='moonlight_token_13926' value='189LGG'/>
+							<input type="search" name="search_value" value="" class="is-search-input fill_inited" placeholder="Type To Search" autocomplete="off">
+							<button type="submit" class="is-search-submit"><span class="glyphicon glyphicon-search"></span></button>
+						</form>
+					</div>
+					<!-- Search Form End -->
+
+					<!--div id="swkid_plugin" style="float:left;"></div-->
+										<div id="spass_plugin" style="float:left;"></div>
+									</div>
+		
+				<div class="secondary-header">
+					<div class="row" style="margin-top:1%;">
+						<div class="col-md-3" splwpk-w3c="splwpk-w3c">
+							<img alt="image" class="normal logo" src="/web/attachment/show/?docid=T1J3ZWRVeXN0bHV0VVcxWDVtakdYQT09Ojoq0SkblOEQ6ZIwnnC97sYi">
+							<img alt="image" class="dark logo" src="/web/attachment/show/?docid=TW1CNFQ2NVg1cWkrRVh1L0JYR2ZzZz09Ojp1g8rxY4ldYXDa5CdEdMW4">
+						</div>
+						
+						<div class="col-md-9" style="display: flex;justify-content: end;">				
+							<nav class="navbar navbar-expand main-nav">
+
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+									<span class="navbar-toggler-icon">☰</span>
+								</button>
+
+								<div class="collapse navbar-collapse" id="navbarNavDropdown">					
+									<!-- 29.9.2020 Close Button -->
+									<button class="closenav navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+										<span class="navbar-toggler-icon">X</span>
+									</button>	
+									<!-- 29.9.2020 End Close Button -->						
+									<ul class="navbar-nav" id="primary-nav">
+										<li class="nav-item dropdown menu-0"><a class="nav-link" target="_self" href="https://mtcp.sarawak.gov.my/web/home/index/"  timestamp='2026-10-12 00:25:51' >Home</a></li><li class="nav-item dropdown menu-1"><a class="nav-link dropdown-toggle" data-toggle="dropdown"  timestamp='2026-10-12 00:25:51' >Ministry's Profile<span class="caret"></span></a><ul class="dropdown-menu drop-1"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/91"  timestamp='2026-10-12 00:25:51' >History &amp; Background Ministry</a></li><li class="dropdown-submenu sub-2 template_3"><a class="submenu">Organisation<span class="caret"></span></a><ul class="dropdown-menu drop-2"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/232"  timestamp='2026-10-12 00:25:51' >The Honourable Minister and Deputy Ministers</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/239"  timestamp='2026-10-12 00:25:51' >Organisation Chart</a></li></ul></li><li class="dropdown-submenu sub-2 template_3"><a class="submenu">Strategic<span class="caret"></span></a><ul class="dropdown-menu drop-2"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/52"  timestamp='2026-10-12 00:25:51' >Vision and Mission</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/85"  timestamp='2026-10-12 00:25:51' >Objectives</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/238"  timestamp='2026-10-12 00:25:51' >Client Charter</a></li></ul></li><li class="dropdown-submenu sub-2 template_3"><a class="submenu">Policy<span class="caret"></span></a><ul class="dropdown-menu drop-2"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/257"  timestamp='2026-10-12 00:25:51' >Anti Bribery Management Policy</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/264"  timestamp='2026-10-12 00:25:51' >Garis Panduan Pengurusan Projek Pembangunan Prasarana</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/268" splwpk-privacy-policy=splwpk-privacy-policy timestamp='2026-10-12 00:25:51' >Whistle Blower Policy</a></li></ul></li></ul></li><li class="nav-item dropdown menu-2"><a class="nav-link dropdown-toggle" data-toggle="dropdown" splwpk-online-services=splwpk-online-services timestamp='2026-10-12 00:25:51' >Our Services<span class="caret"></span></a><ul class="dropdown-menu drop-1"><li class="dropdown-submenu sub-2 template_3"><a class="submenu">Grant Application<span class="caret"></span></a><ul class="dropdown-menu drop-2"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/250"  timestamp='2026-10-12 00:25:51' >Tourism Event Grant</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/249"  timestamp='2026-10-12 00:25:51' >Tourism Research Grant</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/252"  timestamp='2026-10-12 00:25:51' >Sarawak Heritage and Arts Facilitation Fund</a></li></ul></li><li class="dropdown-submenu sub-2 template_3"><a class="submenu">Sarawak-Malaysia My Second Home (S-MM2H) Programme<span class="caret"></span></a><ul class="dropdown-menu drop-2"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/261"  timestamp='2026-10-12 00:25:51' >Licensing Requirements</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/262"  timestamp='2026-10-12 00:25:51' >Application Requirements</a></li></ul></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/242"  timestamp='2026-10-12 00:25:51' >Kuching Metro Electric City Bus</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/260"  timestamp='2026-10-12 00:25:51' >Feedback &amp; Complaints</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/267" splwpk-procurement=splwpk-procurement timestamp='2026-10-12 00:25:51' >Tender</a></li></ul></li><li class="nav-item dropdown menu-3"><a class="nav-link dropdown-toggle" data-toggle="dropdown"  timestamp='2026-10-12 00:25:51' >Resources<span class="caret"></span></a><ul class="dropdown-menu drop-1"><li><a target="_blank" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/263" splwpk-publication=splwpk-publication timestamp='2026-10-12 00:25:51' >Calendar of Tourism Events 2026</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/200" splwpk-publication=splwpk-publication timestamp='2026-10-12 00:25:51' >Sarawak Tourism Quick Facts</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/258"  timestamp='2026-10-12 00:25:51' >Sarawak Visitor Arrivals</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/233" splwpk-publicising=splwpk-publicising timestamp='2026-10-12 00:25:51' >Homestay Clusters in Sarawak</a></li><li><a target="_blank" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/243"  timestamp='2026-10-12 00:25:51' >Journal of Responsible Tourism Management</a></li></ul></li><li class="nav-item dropdown menu-4"><a class="nav-link dropdown-toggle" data-toggle="dropdown"  timestamp='2026-10-12 00:25:51' >Media Centre<span class="caret"></span></a><ul class="dropdown-menu drop-1"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/news_list/"  timestamp='2026-10-12 00:25:51' >News</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/photo_gallery_list"  timestamp='2026-10-12 00:25:51' >Photo Gallery</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/publication_list/"  timestamp='2026-10-12 00:25:51' >Publication</a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/newspaper_cutting_list"  timestamp='2026-10-12 00:25:51' >Newspaper Cutting</a></li></ul></li><li class="nav-item dropdown menu-5"><a class="nav-link dropdown-toggle" data-toggle="dropdown"  timestamp='2026-10-12 00:25:51' >Contact Us<span class="caret"></span></a><ul class="dropdown-menu drop-1"><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/94"  timestamp='2026-10-12 00:25:51' >Ministry Address and Office Location </a></li><li><a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/staffcontact_view/5"  timestamp='2026-10-12 00:25:51' >Staff Directory</a></li></ul></li><li class="nav-item dropdown menu-6"><a class="nav-link" target="_self" href=""  timestamp='2026-10-12 00:25:51' ></a></li>									</ul>
+								</div>
+								
+							</nav>					
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		</header>
+	</div>
+</div>
+
+<style>
+	#template3_header #swkid_plugin.before-login{
+		margin-top:7px;
+	}
+
+	#template3_header .navbar-nav{
+		display:flex;
+		text-align: center;
+	}
+
+	#template3_header .login-button{
+		margin: 2px 0 0 0!important;
+	}
+
+	#template3_header .secondary-header.sticky{
+		z-index: 100;
+	}
+
+	#template3_header .logo {
+   	 	width: 250px;
+	}
+
+	#template3_header .switch {
+   	 	margin: 3px 10px;
+	}
+
+	#template3_header .lang-switch {
+   	 	margin-left: 15px;
+		margin-top: 3px;
+	}
+
+	.seg_icon {
+	    width: auto;
+	    height: 32px;
+	    width: 32px;
+	}
+	
+	/*  */
+
+	@media (max-width: 991px) {
+
+		#template3_header .forms-content{
+			width:100%;
+		}
+		#template3_header form.is-search-form{
+			margin: 0;
+		}	
+
+		#template3_header .topheader{
+			width: 100%;
+		}
+
+		#template3_header #swkid_plugin.after-login div{
+			justify-content: end;
+			width: 100%;
+		}
+
+		#template3_header #swkid_plugin.after-login{
+			z-index: 1000 !important;
+			position: relative;
+			float: unset !important;
+			top: -69px;
+		}
+
+		#template3_header .mm-menu{
+			display: none !important;
+		}
+
+		#template3_header .navbar-nav{
+			display:block;
+		}
+	}
+
+	@media (max-width: 768px) {
+		#template3_header .second-box{
+			// margin-top:10px;
+		}
+
+		#template3_header .register-box{
+			margin-right:150px;
+			margin-left: 15px;
+		}
+
+		#template3-header-wrapper .secondary-header{
+			top: 110px;
+		}
+
+		#template3_header .forms-content{
+			margin-top: 5px;
+		}
+
+	}
+
+	@media (max-width: 576px) {
+		#template3_header .register-box{
+			margin-right:unset;
+		}
+
+		/* #template3_header select#lang {
+			margin-top:3px;
+		} */
+
+		#template3_header .login-button button {
+			margin-bottom:5px;
+		}
+
+		
+		#template3_header #swkid_plugin.before-login .swkid-wrapper{
+			padding: 0;
+		}
+
+		#template3_header #swkid_plugin.before-login .swkid-hidden-xs{
+			display: flex !important;
+		}
+	}
+</style>
+
+<script src="https://sarawakid.sarawak.gov.my/web/share/swkid_plugin/?lang=en"></script> 
+
+<script type="text/javascript">
+
+$(function() {
+	$('#primary-nav').moreMenu();
+});
+
+$(function() {
+  	// $('.submenu').click(function() { // when a .dropdow-submenu .submenu is clicked
+	// 	$('.submenu').not(this).parent().removeClass('active')
+	// 	$(this).parent().toggleClass('active')
+	// })
+
+	$('.dropdown-submenu.sub-2.template_3 .submenu').click(function() { // when a .dropdow-submenu .submenu is clicked
+		$('.dropdown-submenu.sub-2.template_3 .submenu').not(this).parent().removeClass('active')
+		$(this).parent().toggleClass('active')
+	})
+
+	// $('.dropdown-submenu.sub-3.template_3 .submenu').click(function() { // when a .dropdow-submenu .submenu is clicked
+	// 	// $('.submenu').not(this).parent().removeClass('active')
+	// 	if($(this).next().css("display") == 'none'){
+	// 		$(this).parent().addClass('active')
+	// 	}else if($(this).next().css("display") == 'block'){
+	// 		$(this).parent().removeClass('active')
+	// 	}
+	// })
+
+	// $('.dropdown-submenu.sub-4.template_3 .submenu').click(function() { // when a .dropdow-submenu .submenu is clicked
+	// 	// $('.submenu').not(this).parent().removeClass('active')
+	// 	if($(this).next().css("display") == 'none'){
+	// 		$(this).parent().addClass('active')
+	// 	}else if($(this).next().css("display") == 'block'){
+	// 		$(this).parent().removeClass('active')
+	// 	}
+	// })
+})
+
+swkid_sso_init({ 
+		client_id:'mtcp_dweb10_web',
+		// state:'',
+		state:'305401791735051',
+		response_type:'code',
+		redirect_uri:'https://mtcp.sarawak.gov.my/web/home/index/',
+		logout_redirect_uri:'https://mtcp.sarawak.gov.my/web/home/member_logout/',
+		logout_uri:'https://mtcp.sarawak.gov.my/web/home/index/',
+		overwrite_login_function:'',		
+		// style:'icon-text-old',
+		// style:'icon-only',
+		// style:'text-only',
+		// style:'icon-full-text',
+		style:'icon-text',
+		// style:'logo-full-text',
+		// profile_listing_style:'simple',
+		//profile_listing_style:'details',
+		profile_listing_style:'seg',
+		myworkspace_newtab:'off',
+		payment_newtab:'off',
+		// profile_listing_email:'on',
+		// profile_listing_email:'off',
+		icon_width:'35',
+		position:'top-right',
+		misc_param:'test12344123!)@))%(!&%)(*$#)^Y%)!($&)!@(#*)!@&)%!<>?M}{:||test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123test12344123',
+		// hide_header:'on',
+		// hide_login_extra_link:'on',
+		permission:'on',
+		// sub_login_app_name:'Testing APP',
+		login_method:'swkid_login',
+		// login_method:'swknet_login',
+		force_login_btn:'off',
+		servicelisting_uri: "https://mtcp.sarawak.gov.my/web/subpage/display_nature_list/"
+	});
+
+	function swkid_callback(swkid_response){
+		var short_name = swkid_response['usr_short_name'];
+		var login_by = swkid_response['login_by'];
+		var swkid_login_status = swkid_response['swkid_login_status'];
+		
+		if(swkid_login_status=='before_swkid_login'){
+			/*Do your thing when Sarawak ID is not login, in this case, this function will force logout your website*/
+			// alert('walao, belum login');
+
+			$('#swkid_plugin').addClass('before-login');
+			$('#swkid_plugin').removeClass('after-login');
+		}else{
+			/*Do your thing when Sarawak ID is login, in this case do nothing since your website already login*/
+			// alert('walao, dah login');
+			$('#swkid_plugin').addClass('after-login');
+			$('#swkid_plugin').removeClass('before-login');
+		}
+	}
+
+$(window).on("scroll", function() {
+	if($(window).scrollTop()) {
+		$('.secondary-header').addClass('sticky');
+	}else {
+		$('.secondary-header').removeClass('sticky');
+	}	
+})
+</script>
+
+<div id="top" class="thetop">
+	<div class="container" style="width:100%; padding:0;">
+			<div class="">
+																															
+																									<img alt="" class="header-image" src="/web/attachment/show/?docid=M25XMTlGOE0zSVVMT29OY1Z3S2JTQT09OjrcW9SuABaKz2LHL-e8o0rI">
+																																													
+							<div class="container">
+					<div class="top-page">
+						<div class="page_title">
+							<h2>News</h2>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+
+<div class="template_theme_detect" data-template="template_subpage_">
+	<div class="template_subpage_view" id="subpage_news_view">
+		<div class="adicontainer">
+			
+			<div class="pageheader">
+				<div class="adirow">
+					<div class="adicol-1">
+		
+					</div>
+				</div>
+			</div>
+			
+			<input type="hidden" class="text" name="id" id="id" value="17" >			
+			<div class="container">
+				&nbsp;
+				<div class="section1">
+				<div class="adirow" style="justify-content: end;">
+					<div class="adicol-12">
+							<div class="section-content list-content-back">
+																	<a href="https://mtcp.sarawak.gov.my/web/subpage/news_list/" class="back-to-listing"><< Back to Listing</a>
+															</div>
+						</div>
+					</div>
+					<!--div class="adirow"-->
+															<div class="adicol-1">
+										<div class="section-content box">
+											<div class="list-title"><h1>S-MM2H: Syarat mohon ditambah baik, keperluan pelesenan baharu ejen berkuat kuasa 1 Jan 2025</h1></div>
+											<div class="list-sub"><h5>Posted on 31 Oct 2024</h5></div>
+																							<div class="list-sub"><h5>Source of News: Utusan Borneo</h5></div>
+																						<!-- <div class="list-content">
+												<img src="https://mtcp.sarawak.gov.my/web/attachment/show/?docid=czFFYlN1YnJDMVNlN2JtS0h5b3F3Zz09OjpbsNBICzlLHE-WdWkXXudK" alt="">
+											</div> -->
+											<div class="list-content">KUCHING: Syarat permohonan untuk Program Malaysia Rumah Keduaku, Sarawak (S-MM2H) telah ditambah baik, dengan pelaksanaan keperluan pelesenan baharu untuk ejen akan berkuat kuasa pada 1 Januari 2025.<br />
+<br />
+Menteri Pelancongan, Industri Kreatif dan Seni Persembahan Dato Sri Abdul Karim Rahman Hamzah berkata, inisiatif itu terhasil selepas kementeriannya diberi kuasa oleh Kementerian Pelancongan, Seni dan Budaya Malaysia (MOTAC) untuk menyelia lesen perniagaan pelancongan tempatan bagi program S-MM2H di bawah Akta Industri Pelancongan 1992 (Akta 482).<br />
+<br />
+&quot;Kementerian seterusnya melaksanakan bengkel dengan ahli jawatankuasa panel S-MM2H untuk berbincang dan memuktamadkan keperluan terkini bagi permohonan program dan garis panduan permohonan pelesenan membabitkan ejen S-MM2H, dengan perbincangan turut diadakan bersama semua ejen pada 5 September lalu.<br />
+<br />
+&quot;Selepas itu, kementerian saya mengemukakan penambahbaikan keperluan SMM2H dan pelesenan baharu ejen kepada kabinet untuk kelulusan; dan ia telah diluluskan oleh kabinet bertarikh 24 Oktober 2024,&quot; ujarnya.&nbsp;<br />
+<br />
+Beliau berkata demikian pada sidang media selepas mempengerusikan Mesyuarat Jawatankuasa Program MM2H Sarawak di Bangunan Baitulmakmur II di Petra Jaya di sini, hari ini.<br />
+<br />
+Hadir sama Timbalan Setiausaha Kerajaan Negeri Datu Hii Chang Kee.<br />
+<br />
+Abdul Karim berkata, antara syarat yang ditambah baik ialah program S-MM2H terbuka kepada rakyat semua negara yang mempunyai hubungan diplomatik dengan Malaysia dan mestilah berumur 30 tahun tahun dan ke atas; dan pemohon dikehendaki membayar yuran pemprosesan sekali sahaja sebanyak RM5,000 (tidak dikembalikan) kepada Kementerian Pelancongan, Industri Kreatif dan Seni Persembahan Sarawak (MTCP).<br />
+<br />
+Abdul Karim yang juga Menteri Belia, Sukan dan Pembangunan Usahawan menambah, pemohon mesti membuka akaun Simpanan Tetap dengan mana-mana bank tempatan di Sarawak sebagai sebahagian daripada keperluan syarat tersebut.<br />
+<br />
+&quot;Jumlah yang diperlukan ialah RM500,000 untuk setiap permohonan termasuk pasangan dan tanggungan.<br />
+<br />
+&quot;Selain itu, bukti pendapatan pencen, pendapatan luar pesisir dan dana simpanan selama tiga bulan diperlukan sebagai bukti keupayaan kewangan untuk menyara diri semasa tinggal di Sarawak,&quot; katanya.&nbsp;<br />
+<br />
+Mengenai keperluan pelesenan baharu untuk ejen S-MM2H, beliau berkata antara lain ejen mesti terdiri daripada syarikat sendirian berhad yang diperbadankan di bawah Akta Syarikat 2016 (Akta 777) dan hendaklah mematuhi syarat modal berbayar diterbitkan sebanyak RM100,000.<br />
+<br />
+&quot;Pemegang saham hendaklah 100 peratus warganegara Malaysia dan warga berasal Sarawak dan entiti pemilikan Sarawak.<br />
+<br />
+&quot;Warganegara asing tidak dibenarkan untuk menjadi ahli lembaga pengarah; dan ahli lembaga pengarah hendaklah 100 peratus warganegara Malaysia dengan minimum 51 peratus warga berasal Sarawak,&quot; jelasnya.&nbsp;<br />
+<br />
+Tambah Abdul Karim, penambahbaikan dan keperluan pelesenan baharu untuk ejen S-MM2H merupakan pencapaian penting bagi MTCP, susulan ia membolehkan pihaknya meningkatkan peranan Pusat Sehenti S-MM2H bukan sahaja dalam memproses permohonan, tetapi juga melesenkan ejen S-MM2H.<br />
+<br />
+Untuk maklumat lanjut mengenai syarat-syarat permohonan lain dan keperluan pelesenan baharu bagi ejen, sila layari laman web kementerian di <a href="https://mtcp.sarawak.gov.my">https://mtcp.sarawak.gov.my</a>.&nbsp;<br />
+<br />
+Pautan:&nbsp;<a href="https://www.utusanborneo.com.my/2024/10/31/s-mm2h-syarat-mohon-ditambah-baik-keperluan-pelesenan-baharu-ejen-berkuat-kuasa-1-jan">https://www.utusanborneo.com.my/2024/10/31/s-mm2h-syarat-mohon-ditambah-baik-keperluan-pelesenan-baharu-ejen-berkuat-kuasa-1-jan</a></div>
+										</div>
+									</div>
+											<!--/div-->	
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<br><br>
+<script type="text/javascript" language="javascript">
+$(document).ready(function(){
+	setTimeout(	$('.search .adirow').addClass('visible'),5000);
+});
+</script>	
+<div class="template_theme_detect" data-template="template_subpage_">	
+	<div id="template_subpage_useful_link" class="all-logos grey quicks row all-small">
+			
+			<div class="container small-bottom">
+									<div class="col-md-12">			
+						<h3 class="subtitle">Useful Links</h3>
+					</div>
+							</div>	
+			
+			<div class="col-md-12 align-center bg">			
+				
+				<div class="container small-bottom">
+				
+					<div class="subpage_myCarousel16 carousel carousel-fade carousel-showothers slide" id="subpage-useful-link-carousel-tilenav16" data-interval="false">
+						
+						<div class="carousel-inner">
+																								<div class="item active">
+																		<a class="uqlinks" href="https://talikhidmat.sarawak.gov.my/talikhidmat/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=TVZoUFQ2c0ZxWGtjdnFtdXphaXltZz09OjpTccb0KjJWFC5EbM7DzMdX">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="http://www.tourism.gov.my/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=R296WEgrb3VXMGxBc0x0em5wSEt0dz09Ojpvb_eF68K0jsRgUdtdND-Y">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="http://businesseventssarawak.com/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=a0RhQUtUOW9ZZk9zNFJBaXMveXA0QT09OjqictdnKUXSktz5bgAiF-_Y">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://museum.sarawak.gov.my/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=c3N4VFF6SHhBTFExcWVjY0xDSUhJQT09OjpeG-zUxSVHWMhdP9oYrKzK">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://mtcp.sarawak.gov.my/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=L1c1dlZoY2p6VVdtcFBZMGt1SHk1Zz09Ojr4TT2X3KPTG9gaycCznEGt">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://www.facebook.com/pages/category/Art-Gallery/Sarawak-Craft-Council-1451926315065539/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=eXdBb2ZpbUkyVHphbEs0eEZSdFFoZz09OjqWHmoZitqwUBQhOyzFlqXq">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://sarawaktourism.com/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=R3JTNWJZaWM5eDQwT1NBNWM4YVhDZz09Ojo0Ywl8MeZ9LDQL2bgq_3QS">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://cactus.sarawak.gov.my/cactus/" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=NjJyaHBmbHlhQ0R4Q05YRzVMZlh2QT09OjqE2yw3-VQk7Ovosm3a_O2_">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://fim2.sarawak.gov.my/login.php" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=S1hYdlEvU1ZHZTVNNHdHWDVISzRBdz09OjqIq43EyPiG8pVtQTPe3LaE">
+																							</div>
+										</a>
+									</div>
+																								<div class="item">
+																		<a class="uqlinks" href="https://scs-gems.sarawak.gov.my/initLoginESS" target="_blank">
+											<div class="qicons">
+																									<img alt="" src="/web/attachment/show/?docid=a2lwYmlQK3ZDUmtGVXM4eUxFMFJQZz09Ojr7BDULUvtvUkKWbrpK8FeW">
+																							</div>
+										</a>
+									</div>
+													</div>
+						
+							<a class="left carousel-control" href="#subpage-useful-link-carousel-tilenav16" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+							<a class="right carousel-control" href="#subpage-useful-link-carousel-tilenav16" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+					</div>	
+
+				</div>
+
+			</div>
+	</div>
+</div>
+
+<script>
+	var v_id = '16';
+	var slider_speed = ('5' * 1000);
+	$('.subpage_myCarousel' + v_id).carousel({
+		interval: slider_speed
+	});
+
+	var showothers_item = '.subpage_myCarousel' + v_id + '.carousel-showothers .item';
+	$(showothers_item).each(function(){
+		var itemToClone = $(this);
+
+		for (var i=1;i<4;i++) { /* for the 4 in a row function */
+		itemToClone = itemToClone.next();
+
+		// wrap around if at end of item collection
+		if (!itemToClone.length) {
+			itemToClone = $(this).siblings(':first');
+		}
+
+		// grab item, clone, add marker class, add to collection
+		itemToClone.children(':first-child').clone()
+			.addClass("cloneditem-"+(i))
+			.appendTo($(this));
+		}
+	});
+
+</script>
+
+
+<style>
+    	#template3_footer footer{
+		background: url(/module/web/web/theme/default/res/template3/footer.jpg) no-repeat left center;
+		background-size: cover;
+	}
+	</style>	
+
+<div class="template_theme_detect" data-template="template3_">
+<div id="template3_footer">
+	<!-- FOOTER -->
+
+	<footer>
+		<div class="row small-top-bottom">
+			<div class="container">
+				<div class="col-md-4 small-left-right cop">
+					<p class="cp">&copy; Ministry of Tourism, Creative Industry &amp; Performing Arts Sarawak<quillbot-extension-portal></quillbot-extension-portal>					<br>
+					Last Updated On 09 Oct 2026					</p>
+					Monday - Thursday<br />
+8:00am to 1:00pm &amp; 2:00pm to 5:00pm<br />
+<br />
+Friday<br />
+8:00am to 11:45am &amp; 2:15pm to 5:00pm<br />
+<br />
+Saturday, Sunday &amp; Public Holiday<br />
+Counter Closed<quillbot-extension-portal></quillbot-extension-portal>				</div>
+								
+				<div class="col-md-4 small-left-right links">
+					<div class="row footer-logo-row">
+						<div class="all-logo">
+								<a href="https://premier.sarawak.gov.my" target="_blank">
+									<img alt="image" src="/module/web/web/theme/default/res/default_icons/cm_default.png">
+								</a>		
+						</div>	
+						<div class="all-logo">
+								<a href="https://sarawak.gov.my" target="_blank">
+									<img alt="image" src="/module/web/web/theme/default/res/default_icons/sarawak_hornbill_default.png">
+								</a>
+						</div>	
+						<div class="all-logo">
+								<a href="https://www.malaysia.gov.my" target="_blank">
+									<img alt="image" src="/module/web/web/theme/default/res/default_icons/federal_logo_default.png">
+								</a>
+						</div>
+					</div>	
+					
+					<div class="finfo">
+						<p>MINISTRY OF TOURISM, CREATIVE INDUSTRY &amp; PERFORMING ARTS SARAWAK.<br />
+LEVEL 16, RIGHT WING, BANGUNAN BAITULMAKMUR II,<br />
+MEDAN RAYA, PETRA JAYA,<br />
+93050 KUCHING, SARAWAK.</p>
+
+<p>TEL: 082-442 226<br />
+FAX: 082-442 216<br />
+E-MAIL: mtcp@sarawak.gov.my</p>
+
+<p><quillbot-extension-portal></quillbot-extension-portal></p>
+					</div>			
+				</div>
+				
+				<div class="col-md-4 small-left-right sub-newsletter">
+					<form id="subscribe_form" method="POST" action="/web/subpage/newsletter_subscription_form/"><input type='hidden' name='moonlight_token_13926' value='189LGG'/>	
+						<label>Subscribe Newsletter</label>
+						<input type="text" id="subscriber_email" placeholder=" Your Email" name="subscriber_email">
+
+						<input type="submit" id="subscribe_submit_btn" value="Subscribe">
+					</form>
+					
+					<div class="b-links">
+						<div><a href="https://gamma.malaysia.gov.my/appdetails/914" splwpk-mobile-apps="splwpk-mobile-apps">Sarawak Gov App</a></div>
+						<div class="gamma">
+							<img alt="image" src="/module/web/web/theme/default/res/default_icons/sarawak_flag.png">
+							<img alt="image" src="/module/web/web/theme/default/res/default_icons/gamma_qr.png">
+						</div>
+					</div>
+				</div>		
+			</div>
+			
+			<div class="container f-btm">
+								<div class="col-md-8 small-left-right b-links">
+																										<a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/32"  >Security Privacy</a>
+																																							<a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/31" splwpk-privacy-policy="splwpk-privacy-policy" timestamp='2026-10-12 00:25:51'>Privacy Policy</a>
+																																							<a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/webpage_view/231"  >Terms &amp; Conditions</a>
+																																							<a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/talikhidmat_form" splwpk-feedback-form="splwpk-feedback-form" timestamp='2026-10-12 00:25:51'>Complaint &amp; Feedback</a>
+																																							<a target="_self" href="https://mtcp.sarawak.gov.my/web/subpage/sitemap" splwpk-sitemap="splwpk-sitemap" timestamp='2026-10-12 00:25:51'>Site Map</a>
+																						</div>
+				
+				<div class="col-md-4 small-left-right social">					
+					<div class="visitor">Visitor Counter: <span>13426265</span></div>					
+				</div>
+			</div>
+		</div>
+		
+	</footer>
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-angle-up" aria-hidden="true"></i></button>
+	
+	<!-- Custom Side Menu to show Mobile QR code -->			
+	<div class="custom_section_right">
+
+				
+					<div class="hotline" id="esidemenu">
+				<a href="javascript:void(0);" class="side-label sidemenuhover">		
+					<img alt="image" class="sidemenu-icon" src=""><span class="slideout"><span>Scan for Mobile</span>
+				</a>
+				<div class="side-content">
+					<img alt="image" src="/../moonlight/plugin/phpqrcode/moonlight_qrcode.php?
+						data=https://mtcp.sarawak.gov.my/web/home/index/">				</div>
+			</div>
+		
+				
+				
+				<div class="calendar">
+		  <!-- Trigger the modal with a button -->
+		  <a class="sidemenuhover" data-toggle="modal" data-target="#CalendarModal17"><img alt="image" class="sidemenu-icon" src="">
+		  <span class="slideout">Calendar</span></a>
+
+		  <!-- Modal -->
+		  <div class="modal fade" id="CalendarModal17" role="dialog">
+			<div class="modal-dialog">
+			
+			  <!-- Modal content-->
+			  <div class="modal-content">
+				<div class="modal-body">
+				  <div class="calendar" id="calendar17"></div>
+				  <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+				</div>
+			  </div>
+			  
+			</div>
+		  </div>		
+		</div>
+		
+				
+				
+									<div class="poll">
+				<!-- Trigger the modal with a button -->
+				<a class="sidemenuhover" data-toggle="modal" data-target="#PollModal17"  splwpk-online-e-participation="splwpk-online-e-participation" timestamp="2025-05-27 15:11:37"><img alt="image" class="sidemenu-icon" src="">
+				<span class="slideout">Polls</span>
+				</a>
+
+				<!-- Modal -->
+				<div class="modal fade" id="PollModal17" role="dialog">
+					<div class="modal-dialog">
+					
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-body">
+						<h5 style="margin-bottom:20px;">Poll</h5>
+					
+													<div style="padding:150px;">
+								<h5>Sorry, no poll available at the moment... &#128148;</h5>
+							</div>
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+						</div>
+					</div>
+					
+					</div>
+				</div>
+				
+				</div>
+					
+				
+				
+				<div class="pop-announcements">
+		<!-- Trigger the modal with a button -->
+		  <a class="sidemenuhover" data-toggle="modal" data-target="#AnnouncementModal17"><img alt="image" class="sidemenu-icon" src="">
+		  <span class="slideout">Announcement</span>
+		  </a>
+
+		  <!-- Modal -->
+		  <div class="modal fade" id="AnnouncementModal17" role="dialog">
+			<div class="modal-dialog">
+			
+			  <!-- Modal content-->
+			  <div class="modal-content">
+				<div class="modal-body sidemenu-announcement"  timestamp="2022-11-04 10:19:51">
+									<h5>SISTEM PENGURUSAN ANTIRASUAH</h5>
+					<div class="img-empty"><img alt="image" src="/web/attachment/show/?docid=YjgwdmJpc2puQ0xHbk1MOFZrQTBTUT09Ojqb2ofd9jvWKUfZgAOevoub"></div>
+				  	<div timestamp=""><strong><a href="https://mtcp.sarawak.gov.my/web/attachment/show/?docid=TnNNRWdiR0tPT2MwSU1YZFNIMjhXZz09Ojqzc3OQjCfs1jcTDETOUBvr">SISTEM PENGURUSAN ANTIRASUAH</a><br />
+<br />
+(MS ISO 37001:2025)</strong></div>
+									
+					<button type="button" class="close" data-dismiss="modal">&times;</button> 
+				</div>
+			  </div>
+			  
+			</div>
+		  </div>
+		
+		</div>
+
+				
+				
+					<div class="slinks">
+			<a class="sidelinks sidemenuhover" target="_blank" href="https://www.facebook.com/MTCPSWK/"  timestamp="2026-10-12 00:25:51">
+				 
+					<img alt="image" class="sidemenu-icon" src="/module/admin/web/theme/default/res/default_icons/fb-icon-green.png">
+								<span class="slideout">Facebook</span>
+			</a>
+		</div>
+				
+				
+					<div class="slinks">
+			<a class="sidelinks sidemenuhover" target="_blank" href="https://youtu.be/KIQueYmDWEQ?si=JPJHA3ldcUX0CP9O"  timestamp="2026-10-12 00:25:51">
+				 
+					<img alt="image" class="sidemenu-icon" src="/module/admin/web/theme/default/res/default_icons/yt-icon-green.png">
+								<span class="slideout">Youtube</span>
+			</a>
+		</div>
+				
+				
+					<div class="slinks">
+			<a class="sidelinks sidemenuhover" target="_blank" href="https://mtcp.sarawak.gov.my/web/subpage/sitemap/" splwpk-sitemap="splwpk-sitemap" timestamp="2026-10-12 00:25:51">
+									<img alt="image" class="sidemenu-icon" src="/module/admin/web/theme/default/res/default_icons/directory.png">
+								<span class="slideout">Sitemap</span>
+			</a>
+		</div>
+				
+		
+	</div>
+	<!-- Custom Side Menu to show Mobile QR code End -->
+	</div>
+</div>	
+  </body>
+  
+<script>
+	$(document).ready(function(e){
+		var id = '17';
+		var footer_calendar = '#calendar' + id;
+		var current_lang = 'en';
+		// console.log(current_lang)
+		// console.log(footer_calendar)
+
+		var v_event_json_encoded = JSON.parse('false');
+		// console.log(v_event_json_encoded)
+
+		if(v_event_json_encoded != '' && v_event_json_encoded != false){
+			var v_events = [];
+			v_event_json_encoded.forEach((i)=>{
+				var v_event_start_date = moment(i.event_start_date).format("M/D/YYYY");
+				var v_event_end_date = moment(i.event_end_date).format("M/D/YYYY");
+				var v_event_start_date_standard_format = moment(i.event_start_date).format("D MMM YYYY");
+				var v_event_end_date_standard_format = moment(i.event_end_date).format("D MMM YYYY");
+				var v_event_id = parseInt(i.id);
+				var v_event_title = i.kwd_title;
+				var v_color = 'green';
+				var v_event_date_text = 'Event Date';
+				// console.log(v_event_start_date)
+				v_events.push({
+					id: v_event_id,
+					name: v_event_title, 
+					date: [v_event_start_date, v_event_end_date],
+					color: v_color,
+					type: "event",
+					description: v_event_date_text + ": " + v_event_start_date_standard_format + " - " + v_event_end_date_standard_format
+				});
+			})
+
+			// console.log(v_events)
+
+			$(footer_calendar).evoCalendar({
+				"calendarEvents": v_events,
+				'selectDate':  moment(),
+				'language': current_lang
+			});
+
+
+			$(footer_calendar).on('selectEvent', function(event, activeEvent) {
+				// console.log(activeEvent.id)
+				window.location.href = "/web/subpage/event_view/" + activeEvent.id;
+			});
+
+			$(footer_calendar).on('selectDate', function(event, activeEvent) {
+				$(footer_calendar).evoCalendar('toggleEventList',true);
+			});
+		}else{
+			$(footer_calendar).evoCalendar({'language': current_lang});
+
+			$(footer_calendar).on('selectDate', function(event, activeEvent) {
+				$(footer_calendar).evoCalendar('toggleEventList',true);
+			});
+		}
+	});
+
+	vGlobalPollId="";
+	vGlobalQid="";
+	function setPollId(vPollId, vQid){
+		window.vGlobalPollID = vPollId;
+		window.vGlobalQid = vQid;
+	}
+
+	function submitPoll_sidemenu(form){
+		// alert('Your vote has been submitted');
+		// console.log(form.id)
+
+		var option_checked = false;
+		$("#" + form.id + " input[type=radio]").each(function(){
+			// console.log($(this));
+			if($(this).is(":checked")){
+				option_checked = true;
+			}
+		});
+
+		var ques_cookie = getCookie('poll_'+ form.id);
+		if(option_checked == true && ques_cookie == ''){
+			alert('Your vote has been submitted');
+			$("#" + form.id).submit();
+		}else if(ques_cookie != '' ){
+			alert('You\'ve voted for this poll, please come again after a week.');
+		}else if(option_checked != true ){
+			alert('Please select an option to vote');
+		}
+
+		// v_url = 'https://mtcp.sarawak.gov.my/web/subpage/poll_result/';
+		// window.location.href = v_url+'&id=' + vGlobalPollID;
+	}
+
+	var v_id = '17';
+	var subscribe_form = '#subscribe_form' + v_id;
+	$('#subscribe_submit_btn'+ v_id).click(function(e) {
+		e.preventDefault();
+		var email = $('#subscriber_email').val();
+		if(email == ''){
+			alert('Please enter your Email');
+		}else{
+			var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+			if(!re.test(email)) {
+				alert("Please enter valid Email.");
+				return false;
+			}else{
+				$(subscribe_form).submit();
+			}
+		}
+		return false;
+	});
+</script>			</div>
+			
+			<footer class="main-footer">
+							</footer>
+		</div>
+		
+		<SCRIPT LANGUAGE="javascript" TYPE="text/javascript" SRC="https://mtcp.sarawak.gov.my//moonlight/plugin/shortcut/shortcuts.js"></SCRIPT><SCRIPT LANGUAGE="javascript" TYPE="text/javascript">j_lbl_field_required="This field is required.";</SCRIPT>	</body>
+</html>
+
+<!-- purpose is for mobile login view  -->
+<div class="modal fade" id="login_modal">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="padding:5px 5px;">
+                <span aria-hidden="true">&times;</span>
+            </button>
+			<div id="modal_body_login"></div>
+		</div>
+	</div>
+</div>
+
+<script src="https://mtcp.sarawak.gov.my/web/web/js/custom.js"></script>
+<script>
+	$(document).ready(function () {
+		init_color_theme('green','/');	});
+
+	function open_login_modal(){
+		console.log('fsfd');
+		var url = "https://mtcp.sarawak.gov.my/web/share/login/"+'?view=mobile';
+		makeGETRequest( url, 'modal_body_login');
+	}
+</script>
+
+<script>
+	// show loader when page redirect
+	window.onbeforeunload = function (event) {
+		$('.full-page-loader').show();
+	};
+</script>
+
+
+
+
+<script src="https://sarawakpass.sarawak.gov.my/swkpass_plugin.js"></script>
+<script language="javascript">
+
+
+window.addEventListener('load',()=>{
+	swkpassAvatarDropDownItemAppend({
+			'my_payment':{
+				'icon':'https://service.sarawak.gov.my/web/module/web/web/theme/web/res/icon_svg/icon_payment.svg',
+				'label':'Payment',
+				'link': 'https://service.sarawak.gov.my/web/pub/public/enq_n_pay/?l=en'
+			},
+			'my_service':{
+				'icon':'https://service.sarawak.gov.my/web/module/web/web/theme/web/res/icon_svg/icon_service.svg',
+				'label':'Services',
+				'link': 'https://sarawak.gov.my/web/home/p_display_nature_list/16/?lang=en'
+			}
+		});
+	
+	swkpassInit({
+		client_id: 'mtcp_dweb10_web',
+		state: '1791735951',
+		redirect_uri: 'https://mtcp.sarawak.gov.my/web/home/index/?oauth2_auth%26spass',
+		position: 'top_right',//top_left,top_right,bottom_left,bottom_right
+		lang: 'en', //en,bm
+		main_elem_id: 'spass_plugin', //the main element id that the button will be populate
+		//ui_mode: 'login_button', //login_button,avatar_dropdown
+		ui_mode: 'login_button', //login_button,avatar_dropdown
+		///user_full_name: '',
+		user_full_name: '',
+		///user_name: '',
+		user_name: '',
+		// overwrite_login_function: 'spass_overlap_login',
+		logout_redirect_uri: 'https://mtcp.sarawak.gov.my/web/home/member_logout/',
+		corp_name: '',
+		corp_profile_uri: '',
+		corp_profile_redirect_uri: '',
+	});
+
+});	
+
+</script>
