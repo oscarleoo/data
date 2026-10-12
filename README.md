@@ -11,7 +11,8 @@ caveats.
 
 | topic | what |
 |---|---|
-| [topics/cbi](topics/cbi) | Citizenship and residence by investment in the Eastern Caribbean, Malta, Greece and Turkey: every number with its source, page, quote and status (actual, estimate, budget…), plus programme terms and a timeline |
+| [topics/cbi](topics/cbi) | Citizenship and residence by investment worldwide: programmes, prices and rules over time, applications, approvals, money raised, buyers by nationality and a timeline. Every number with its source, page, quote and status |
+| [topics/whistleblowing](topics/whistleblowing) | Whistleblower reward programmes: awards, cases and the rules behind them, sourced the same way |
 
 ## Other files
 
