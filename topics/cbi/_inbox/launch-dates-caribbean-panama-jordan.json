@@ -1,0 +1,226 @@
+{
+ "slug": "launch-dates-caribbean-panama-jordan",
+ "researched_on": "2026-10-14",
+ "summary": "Start dates for four residence programmes. Curaçao: the investor scheme goes back to a Ministerial Decree of 3 August 2009, known only because the 2014 decree repeals it, with its content from an estate agent. Turks and Caicos: the Home Owner's Permit is absent from the 2009 consolidated law and first appears in the 2015 Ordinance and 2016 Regulations, in force 1 April 2016. Panama City of Knowledge: no investment-route text exists; the legal basis is Decreto Ley 6 of 10 February 1998 (published 12 February 1998), not 1999 as DE 320 says. Jordan: property-for-residence began with a cabinet decision announced on 19 February 2018 (permanent residence, JD 200,000 held 10 years; reported), amended on 12 November 2018 to five-year residence (official Petra report).",
+ "sources": [
+  {
+   "source_id": "tca-imm-ord-rev-2009",
+   "title": "Immigration Ordinance, Chapter 5.01, and Subsidiary Legislation (Revised Edition, law as at 31 August 2009)",
+   "publisher": "Government of the Turks and Caicos Islands, Law Revision Commissioner (Regional Law Revision Centre); copy hosted by the law firm TCI Attorneys",
+   "author": "Attorney General's Chambers, TCI",
+   "source_type": "legislation",
+   "jurisdiction": "TCA",
+   "published_date": "2009",
+   "accessed_date": "2026-10-14",
+   "url": "https://www.tciattorneys.com/wp-content/uploads/2018/09/5.01-Immigration-Ordinance.pdf",
+   "archive_url": "",
+   "raw_file": "raw/tca-imm-ord-rev-2009.pdf",
+   "sha256": "ccaf448dee0879dfc99ed615bfc5e4bff2335cdbe97982d2e762da317a305076",
+   "covers": "Consolidated Immigration Ordinance 1992 (Ordinance 13 of 1992, amended to 2004) and Immigration Regulations (L.N. 42/1992, amended to L.N. 10/2009), law as at 31 August 2009. Residence permits are in Schedule 3.",
+   "notes": "Official revised edition (Crown copyright), but the copy is hosted on a law firm's website, not a government site. It has no Home Owner's Permit: the words 'home owner' do not occur. The only residence permit is the general Residence Permit (Schedule 3), for which the applicant must own, rent or have the use of a house, condominium or apartment, so it is not an investment route. Amendments made between August 2009 and the 2015 Ordinance were not all read."
+  },
+  {
+   "source_id": "pan-go-dl6-1998",
+   "title": "Decreto Ley No. 6 de 10 de febrero de 1998, por el cual se aprueba el contrato entre el Estado y la Fundación Ciudad del Saber para el establecimiento y desarrollo de la Ciudad del Saber (text)",
+   "publisher": "Órgano Ejecutivo Nacional, República de Panamá (Gaceta Oficial 23480); transcription hosted by the Georgia Tech Panama Logistics Innovation & Research Center",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PAN",
+   "published_date": "1998-02-12",
+   "accessed_date": "2026-10-14",
+   "url": "https://logistics.gatech.pa/wp-content/uploads/2023/04/ley6_de1998_cds.pdf",
+   "archive_url": "",
+   "raw_file": "raw/pan-go-dl6-1998.pdf",
+   "sha256": "72d8f548c28638e64851bd12d0347a617ab5be5291ff99ada94c52fb1ccbaae9",
+   "covers": "Full text of the decree-law approving the State-Foundation contract for the City of Knowledge, including clause Sexta (special visas for foreign staff) and art. 2 (in force on promulgation).",
+   "notes": "A retyped copy, not the Gaceta scan; the date and gazette number are confirmed by the LEGISPAN record (pan-legispan-dl6-1998). Clause Sexta gives special visas to foreign staff coming to help develop the project, 'especially' researchers, educators, technicians and students, with a contract or similar link to the Foundation. It says nothing about investors or an investment amount. The 2008 regulation (DE 320, art. 108) cites it as 'Decreto Ley 6 de 1999'; the decree-law itself is dated 1998."
+  },
+  {
+   "source_id": "pan-legispan-dl6-1998",
+   "title": "LEGISPAN record: Decreto Ley 6 de 1998 (10-02-1998), Gaceta Oficial 23480",
+   "publisher": "Asamblea Legislativa, República de Panamá (LEGISPAN), via Justia Panamá",
+   "author": "",
+   "source_type": "legislation",
+   "jurisdiction": "PAN",
+   "published_date": "1998-02-12",
+   "accessed_date": "2026-10-14",
+   "url": "https://docs.panama.justia.com/federales/decretos-leyes/6-de-1998-feb-12-1998.pdf",
+   "archive_url": "",
+   "raw_file": "raw/pan-legispan-dl6-1998.pdf",
+   "sha256": "5c6c6d5e70392852e0f751d1535bd33762257feabbaef291374ec19892baa774",
+   "covers": "Cover record of the National Assembly's legislation database for Decreto Ley 6 of 1998: date 10-02-1998, issued by the Cabinet Council, Gaceta Oficial 23480 published 12-02-1998.",
+   "notes": "Only the cover page has a text layer; the gazette pages behind it are scanned images."
+  },
+  {
+   "source_id": "jor-petra-cabinet-bases-2018",
+   "title": "مجلس الوزراء يوافق على تعديل أسس منح الجنسية للمستثمرين (Cabinet approves amended bases for granting citizenship to investors)",
+   "publisher": "Jordan News Agency (Petra)",
+   "author": "",
+   "source_type": "government",
+   "jurisdiction": "JOR",
+   "published_date": "2018-11-12",
+   "accessed_date": "2026-10-14",
+   "url": "https://petra.gov.jo/Include/InnerPage.jsp?ID=82546&lang=ar&name=news",
+   "archive_url": "",
+   "raw_file": "raw/jor-petra-cabinet-bases-2018.html",
+   "sha256": "8df44445d1fcd0ba78079b128027658efef64d20c0f4b9d43a16856107897cd9",
+   "covers": "Report of the cabinet session of Monday 12 November 2018 amending the bases for granting investors citizenship, including clause 2: five-year residence for buying property worth at least JD 200,000, held five years.",
+   "notes": "State news agency. The page is timestamped 2018/11/12 20:43 but the dateline reads '13 November' and refers to the session 'yesterday Monday' (12 November 2018 was a Monday). The text calls these amended bases and says the family gets 'citizenship or permanent residence' 'as stated previously', so an earlier version with permanent residence existed."
+  },
+  {
+   "source_id": "jor-addustour-momani-2018",
+   "title": "المومني: منح المستثمرين الجنسية الأردنية أو الإقامة الدائمة بشروط (Momani: investors to be granted Jordanian citizenship or permanent residence on conditions)",
+   "publisher": "Addustour (Jordanian daily), with Petra",
+   "author": "Hamdan Al-Haj",
+   "source_type": "media",
+   "jurisdiction": "JOR",
+   "published_date": "2018-02-19",
+   "accessed_date": "2026-10-14",
+   "url": "https://www.addustour.com/articles/998465",
+   "archive_url": "",
+   "raw_file": "",
+   "sha256": "",
+   "covers": "Government spokesman Mohammad Momani announces cabinet approval of citizenship or permanent residence for investors, including permanent residence for owning property worth at least JD 200,000 held 10 years.",
+   "notes": "News article, not stored (link only). Posted Monday 19 February 2018 at 22:51; says the press conference was held 'yesterday evening, Monday', which reads like print-edition wording for 20 February. The day of the cabinet decision itself is not given. Other outlets (elwatannews, ajnet, almowaten) carry the same terms."
+  },
+  {
+   "source_id": "cuw-remax-investors-permit-2014",
+   "title": "Investors Permit (introduction and changes compared with the old scheme)",
+   "publisher": "RE/MAX BonBini (real estate agency, Curaçao)",
+   "author": "",
+   "source_type": "industry",
+   "jurisdiction": "CUW",
+   "published_date": "2014-10",
+   "accessed_date": "2026-10-14",
+   "url": "https://www.realestate-curacao.com/en/information/investor-permit-for-curacao.html",
+   "archive_url": "",
+   "raw_file": "",
+   "sha256": "",
+   "covers": "Explains the Investors Permit 2014 and how it differs from the 'old scheme from August 2009': under the old scheme, a business investment or property purchase of NAF 650,000 gave a one-year permit, renewed automatically.",
+   "notes": "Estate agent page, not stored (link only). Dated 'Curaçao, October 2014' within the text. The English is machine-translated and garbled in places. It is the only source found that describes what the 2009 decree contained."
+  }
+ ],
+ "observations": [],
+ "program_terms": [],
+ "events": [
+  {
+   "date": "2009-08-03",
+   "date_precision": "day",
+   "jurisdiction": "CUW",
+   "program_id": "cuw-investor-permit",
+   "category": "launch",
+   "title": "Ministerial Decree of 3 August 2009 (no. 3672/MJ'09), the earlier investor residence rules repealed in 2014",
+   "description": "The 2014 investor-permit decree says it replaces 'the current regulations' for high net worth investors and repeals the Ministerial Decree of 3 August 2009 no. 3672/MJ'09. The 2009 decree itself was not found or read. Its in-force and publication dates are unknown, so this uses the date of the decree. What it contained comes only from an estate agent's page (cuw-remax-investors-permit-2014): a business or property investment of NAF 650,000 gave a one-year permit, renewed automatically. In 2009 Curaçao was still part of the Netherlands Antilles (until 10 October 2010), and 'MJ' is presumably the Antillean Minister of Justice. Whether the 2009 decree also covered the other islands, and whether an even earlier investor policy existed, is not known. The 2014 guidelines (in force 1 October 2014) are a rule change to the same scheme with no gap.",
+   "source_id": "cuw-mj-investors-permit-2014-eng",
+   "location": "PDF p. 2, art. 2 (recital on p. 1)",
+   "quote": "The Ministerial Decree of 3 August 2009 no. 3672/MJ’09 is repealed.",
+   "countries": ""
+  },
+  {
+   "date": "2009-08",
+   "date_precision": "month",
+   "jurisdiction": "CUW",
+   "program_id": "cuw-investor-permit",
+   "category": "launch",
+   "title": "Estate agent describes the 'old scheme from August 2009': NAF 650,000 investment for a one-year permit (reported)",
+   "description": "An industry source (RE/MAX BonBini, October 2014) says the 2014 Investors Permit replaced an investor scheme from August 2009, under which a business investment or property purchase of NAF 650,000 gave a one-year temporary residence permit, renewed automatically. Kept as a separate account because it is the only source on what the 2009 decree contained.",
+   "source_id": "cuw-remax-investors-permit-2014",
+   "location": "'Investors Permit introduction' paragraph",
+   "quote": "The old scheme from August 2009 was thus allayed.",
+   "countries": ""
+  },
+  {
+   "date": "2016-04-01",
+   "date_precision": "day",
+   "jurisdiction": "TCA",
+   "program_id": "tca-home-owner-permit",
+   "category": "launch",
+   "title": "Home Owner's Permit comes into force with the Immigration Ordinance 2015 and Immigration Regulations 2016",
+   "description": "The Immigration Ordinance (Ordinance 19 of 2015) and Immigration Regulations (L.N. 28/2016) came into force on 1 April 2016. They create the Home Owner's Permit: s. 31 of the Ordinance, and regs 33-37, which require a home bought or built for at least US$300,000. The previous law, consolidated as at 31 August 2009 (tca-imm-ord-rev-2009), has no Home Owner's Permit. Its only residence permit needed the applicant to own, rent or have the use of a home, so it was not an investment route. A government statement on the 2012 amendments lists a new investor residence permit but no home-owner permit. Not every amendment made between August 2009 and 2015 was read, so a home-owner permit created between 2010 and 2015 cannot be fully ruled out.",
+   "source_id": "tca-imm-ord-rev-2021",
+   "location": "p. 1 (list of consolidated laws); Regulations reg. 33(3), PDF p. 89",
+   "quote": "Legal Notice 28/2016 .. in force 1 April 2016",
+   "countries": ""
+  },
+  {
+   "date": "1998-02-12",
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "program_id": "pan-ciudad-saber-investor",
+   "category": "legal_basis",
+   "title": "Decreto Ley 6 of 10 February 1998 (City of Knowledge contract) promulgated, with special visas for foreign staff of the project",
+   "description": "The decree-law approving the contract between the State and the City of Knowledge Foundation takes effect on promulgation. The National Assembly's LEGISPAN record gives publication in Gaceta Oficial 23480 on 12 February 1998, and that date is used here. Clause Sexta grants special visas to foreign staff who come to help develop the project, 'especially' researchers, educators and technicians, their spouses and children, and students, if they have a contract or similar link with the Foundation. It sets no investment amount and does not name investors or businesspeople. The 2008 regulation (DE 320, art. 108) cites this law as 'Decreto Ley 6 de 1999'. The existing 1999 legal-basis event follows that citation, and this event gives the law's own date.",
+   "source_id": "pan-go-dl6-1998",
+   "location": "p. 4, clause Sexta; p. 5, art. 2",
+   "quote": "ARTICULO 2.- Esta ley entrará en vigencia a partir de La fecha de promulgación.",
+   "countries": ""
+  },
+  {
+   "date": "1998-02-12",
+   "date_precision": "day",
+   "jurisdiction": "PAN",
+   "program_id": "pan-ciudad-saber-investor",
+   "category": "legal_basis",
+   "title": "LEGISPAN record: Decreto Ley 6 of 1998 published in Gaceta Oficial 23480 on 12 February 1998",
+   "description": "The National Assembly's legislation database records Decreto Ley 6, dated 10 February 1998 and issued by the Cabinet Council, as published in Gaceta Oficial 23480 on 12 February 1998. This confirms the date and gazette for the City of Knowledge law that DE 320 cites as being of 1999.",
+   "source_id": "pan-legispan-dl6-1998",
+   "location": "cover record",
+   "quote": "Gaceta Oficial: 23480                 Publicada el: 12-02-1998",
+   "countries": ""
+  },
+  {
+   "date": "2018-02-19",
+   "date_precision": "day",
+   "jurisdiction": "JOR",
+   "program_id": "jor-property-residence",
+   "category": "launch",
+   "title": "Cabinet approves permanent residence for investors owning property worth at least JD 200,000 held 10 years (reported)",
+   "description": "The government spokesman announced at a press conference on Monday 19 February 2018 that the cabinet had approved granting investors citizenship or permanent residence. Permanent residence required owning property worth at least JD 200,000, held for 10 years without disposing of it, with a cap of 500 investors. This is a news report (Addustour, with Petra). The cabinet decision itself was not found, and its exact date is not stated. On 12 November 2018 the cabinet amended these bases (jor-petra-cabinet-bases-2018, an official report): permanent residence became five-year residence, and the holding period became five years. That is a rule change to the same scheme with no gap. No earlier property-for-residence route was found.",
+   "source_id": "jor-addustour-momani-2018",
+   "location": "paragraph 3",
+   "quote": "شرط منح الإقامة الدائمة للمستثمرين يتمثل بامتلاك عقار لا تقل قيمته عن 200 ألف دينار والاحتفاظ به 10 سنوات دون التصرف به",
+   "countries": ""
+  }
+ ],
+ "programs": [
+  {
+   "program_id": "cuw-investor-permit",
+   "launched": "2009-08-03",
+   "source_ids": "cuw-mj-investors-permit-2014-eng;cuw-remax-investors-permit-2014"
+  },
+  {
+   "program_id": "tca-home-owner-permit",
+   "launched": "2016-04-01",
+   "source_ids": "tca-imm-ord-rev-2021;tca-imm-ord-rev-2009"
+  },
+  {
+   "program_id": "pan-ciudad-saber-investor",
+   "legal_basis": "1998-02-12",
+   "source_ids": "pan-go-dl6-1998;pan-legispan-dl6-1998"
+  },
+  {
+   "program_id": "jor-property-residence",
+   "launched": "2018-02-19",
+   "source_ids": "jor-addustour-momani-2018;jor-petra-cabinet-bases-2018"
+  }
+ ],
+ "new_indicators": [],
+ "gaps": [
+  "CUW: the Ministerial Decree of 3 August 2009 no. 3672/MJ'09 was not found: not online, and searches in Dutch and English turned up nothing. Its in-force date, publication (Curaçao Courant or Antillean Publicatieblad) and content are unread. Its content comes only from an estate agent's page. Whether any investor admission policy existed before 2009 was not checked.",
+  "CUW: the immigration service's page dates the 2014 permit's introduction to 6 September 2014, but the decree is dated 26 September 2014 (already recorded). This was not resolved.",
+  "TCA: the Immigration Ordinance 2015 as enacted, and the amendments to the 1992 Ordinance and Regulations between August 2009 and 2015, were not all read. Only the 2012 package was checked, through a government statement, and the October 2013 fee revision through a news report. A home-owner permit created between 2010 and 2015 is therefore not fully ruled out. refworld.org, which may hold older TCI texts, was behind a Cloudflare check (download blocked; not tried further).",
+  "PAN: no text was found that makes investing the route for the City of Knowledge category. DL 6 of 1998 covers staff, and DE 320 of 2008 (art. 113) covers 'empresario o ejecutivo' with no investment amount. Only the SNM statistics call it 'Inversionista o Empresario'. Launch stays empty, and the scope question under decision 15 stands. When the businessperson subcategory first appeared (DE 320 of 2008, or something earlier under the 1960 migration law) was not checked.",
+  "PAN: the Gaceta Oficial scan of GO 23480 was not downloaded. The stored full text is a retyped copy hosted by Georgia Tech Panama, with date and gazette confirmed by LEGISPAN.",
+  "JOR: the February 2018 cabinet decision itself, and an official (Petra or pm.gov.jo) report of it, were not found. The launch date rests on a news report of the spokesman's press conference. The cabinet session date may be a day or two earlier than 19 February 2018. The Jordan Times articles on the 2018 decisions returned 403 (download blocked; not tried further).",
+  "JOR: whether any property-based residence route existed before 2018, for example under the Residence and Foreigners' Affairs Law, was not checked."
+ ],
+ "leads": [
+  "JOR: Jordan Times, 'Gov't sets conditions to grant nationality, permanent residency to investors' (likely February 2018): https://jordantimes.com/news/local/gov%E2%80%99t-sets-conditions-grant-nationality-permanent-residency-investors (403 to curl, download blocked)",
+  "JOR: Jordan Times, 'Gov't amends conditions to grant nationality, permanent residency to investors': https://jordantimes.com/news/local/govt-amends-conditions-grant-nationality-permanent-residency-investors (403, download blocked)",
+  "JOR: Petra's February 2018 report of the Momani press conference: not located. Petra's archive (petra.gov.jo/Include/InnerPage.jsp?ID=...) has 2018 items around ID 82546 (November 2018), so the February item would be at a lower ID.",
+  "JOR: the November 2018 amendment (five-year residence, five-year hold) is in raw/jor-petra-cabinet-bases-2018.html and could be recorded as a rule_change event. It was left out here because this pass was limited to launch, legal_basis and applications_open events.",
+  "CUW: Curaçao Courant / Publicatieblad Nederlandse Antillen 2009, and the Immigratiedienst (Toelatingsorganisatie) archive, for Ministerial Decree no. 3672/MJ'09. Also Antilliaans Dagblad / Amigoe archives for August-September 2009.",
+  "TCA: Immigration Ordinance 2015 (Ordinance 19 of 2015) and Immigration (Amendment) Ordinance 33 of 2015 as enacted, from the TCI Gazette or the AG's Chambers. Also any Immigration (Amendment) Regulations from 2010-2015.",
+  "PAN: Gaceta Oficial 23480 (12 February 1998) scan on gacetaoficial.gob.pa, to replace the retyped copy."
+ ]
+}

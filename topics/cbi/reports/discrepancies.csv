@@ -961,7 +961,21 @@ DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2028/29,percent_of_gdp,15.7,1,15.7,proj
 DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2029/30,percent_of_gdp,14.5,1,14.5,projection,dma-imf-art4-2024,International Monetary Fund,2024-06-27,7.6,vintage,o-d611bd1e0b
 DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2029/30,percent_of_gdp,15.7,1,15.7,projection,dma-imf-art4-2025,International Monetary Fund,2025-06-12,7.6,vintage,o-7039f6e901
 DMA,dma-cbi,cbi_fiscal_revenue_pct_gdp,FY2029/30,percent_of_gdp,15.7,1,15.7,projection,dma-imf-art4-2026,International Monetary Fund,2026-06-02,7.6,vintage,o-62da7fd7a6
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2016/17,percent,36,1,36.0,budget,dma-mof-estimates-2016-17,"Ministry of Finance, Commonwealth of Dominica",2016-07,35.5,vintage,o-7f80f59476
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2016/17,percent,55.8,1,55.8,derived,dma-mof-estimates-2018-19,"Ministry of Finance, Commonwealth of Dominica",2018-07,35.5,vintage,o-f1769dd008
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2017/18,percent,47.3,1,47.3,derived,dma-mof-estimates-2019-20,"Ministry of Finance, Commonwealth of Dominica",2019-07,7.3,vintage,o-f8d074980b
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2017/18,percent,51,1,51.0,budget,dma-mof-estimates-2017-18,"Ministry of Finance, Commonwealth of Dominica",2017-07,7.3,vintage,o-0c4518d7b8
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2018/19,percent,31.3,1,31.3,derived,dma-mof-estimates-2020-21,"Ministry of Finance, Commonwealth of Dominica",2020-07,39.8,vintage,o-9143ffe4c9
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2018/19,percent,52,1,52.0,budget,dma-mof-estimates-2018-19,"Ministry of Finance, Commonwealth of Dominica",2018-07,39.8,vintage,o-47dcad794f
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2019/20,percent,31.7,1,31.7,derived,dma-mof-estimates-2021-22,"Ministry of Finance, Commonwealth of Dominica",2021-07,37.8,vintage,o-88cc845bd9
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2019/20,percent,51,1,51.0,budget,dma-mof-estimates-2019-20,"Ministry of Finance, Commonwealth of Dominica",2019-07,37.8,vintage,o-9a0f4c35f4
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2022/23,percent,55,1,55.0,budget,dma-mof-estimates-2022-23,"Ministry of Finance, Commonwealth of Dominica",2022-07,8.2,vintage,o-cef34a988b
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2022/23,percent,59.9,1,59.9,derived,dma-mof-estimates-2024-25,"Ministry of Finance, Commonwealth of Dominica",2024-07,8.2,vintage,o-58b2b6d482
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2023/24,percent,58,1,58.0,budget,dma-mof-estimates-2023-24,"Ministry of Finance, Commonwealth of Dominica",2023-07,1.4,vintage,o-9d4dec9e04
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2023/24,percent,58,1,58.0,budget,dma-mof-estimates-2023-24-final,"Ministry of Finance, Commonwealth of Dominica",2023,1.4,vintage,o-0328ccf0fe
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2023/24,percent,58.8,1,58.8,derived,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,1.4,vintage,o-30b2439a1c
 DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2024/25,percent,58,1,58.0,provisional,dma-budget-address-2025-26,"Government of the Commonwealth of Dominica, Ministry of Finance",2025,7.9,vintage,o-16a6fa7032
+DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2024/25,percent,58.9,1,58.9,derived,dma-mof-estimates-2026-27,"Ministry of Finance, Commonwealth of Dominica",2026-07,7.9,vintage,o-4d82c639ac
 DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2024/25,percent,63,1,63.0,budget,dma-mof-estimates-2024-25,"Ministry of Finance, Commonwealth of Dominica",2024-07,7.9,vintage,o-bd06399995
 DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2025/26,percent,56.7,1,56.7,claim,dma-caribbean360-2026-08,Caribbean360,2026-08-11,2.2,vintage,o-77a2292a15
 DMA,dma-cbi,cbi_fiscal_revenue_pct_revenue,FY2025/26,percent,58,1,58.0,budget,dma-mof-estimates-2025-26,"Ministry of Finance, Commonwealth of Dominica",2025-07,2.2,vintage,o-8b2eda541a

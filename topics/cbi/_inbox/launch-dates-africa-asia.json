@@ -1,0 +1,207 @@
+{
+  "slug": "launch-dates-africa-asia",
+  "researched_on": "2026-10-14",
+  "summary": "Start dates for four Africa/Asia residence programmes. Zambia: the Investment Act 1993 (in force 8 Sep 1993) first tied a USD 250,000 investment to a residence permit; the 1991 Act it replaced has no such clause. Nepal: the 1994 Immigration Rules already had an investor residential visa (US$1 million, cut to US$100,000 in 2001). Mauritius and Zimbabwe remain undated: no founding text found; Zimbabwe's investor residence route is documented as operating by September 1999, Mauritius's IRS is reported (industry) as introduced in 2002.",
+  "sources": [
+    {
+      "source_id": "zmb-act-39-1993-investment",
+      "title": "Investment Act, 1993 (Act No. 39 of 1993), as published in the Government Gazette",
+      "publisher": "Government of Zambia (scan hosted by Laws.Africa Commons)",
+      "author": "",
+      "source_type": "legislation",
+      "jurisdiction": "ZMB",
+      "published_date": "1993-08-26",
+      "accessed_date": "2026-10-14",
+      "url": "https://commons.laws.africa/akn/zm/act/1993/39/media/publication/zm-act-1993-39-publication-document.pdf",
+      "archive_url": "",
+      "raw_file": "raw/zmb-act-39-1993-investment.pdf",
+      "sha256": "21bbcd8e136a06ad77b16e544d343f091fef897e8e205996f0822371ba327263",
+      "covers": "Original text of the Investment Act 1993: date of assent 26 Aug 1993, date in brackets under the long title 8 Sep 1993; s. 30 entitles an investor of at least USD 250,000 employing at least ten persons to a self employment permit or resident permit.",
+      "notes": "Scan of the original gazette print (22 pages, OCR text layer with errors; quotes checked against the OCR and the ZambiaLII consolidation). Repealed the Investment Act 1991; itself repealed by the Zambia Development Agency Act 2006."
+    },
+    {
+      "source_id": "zmb-zambialii-investment-act-1993",
+      "title": "Investment Act, 1993 (Chapter 385), legislation as at 27 March 1997",
+      "publisher": "ZambiaLII / Laws.Africa",
+      "author": "",
+      "source_type": "legislation",
+      "jurisdiction": "ZMB",
+      "published_date": "2025-06-10",
+      "accessed_date": "2026-10-14",
+      "url": "https://media.zambialii.org/media/legislation/43336/source_file/37067d6d43c490aa/1993-39.pdf",
+      "archive_url": "",
+      "raw_file": "raw/zmb-zambialii-investment-act-1993.pdf",
+      "sha256": "7aeabdfe79a8b93e23aa02b4cb97efafb7c2d6bd290d2be3072e999492a1825b",
+      "covers": "Consolidated Cap. 385 (Ministry of Legal Affairs revision up to date at 31 Dec 1996, amendments to 27 Mar 1997): states the Act commenced on 8 September 1993; s. 30 unchanged (no amendment note).",
+      "notes": "PDF created 10 June 2025 by Laws.Africa; not the latest version (a 1 April 1998 version exists). The ZambiaLII HTML pages are behind a bot check; this media file downloaded directly."
+    },
+    {
+      "source_id": "zmb-act-19-1991-investment",
+      "title": "Investment Act, 1991 (Act No. 19 of 1991), as published in the Government Gazette",
+      "publisher": "Government of Zambia (scan hosted by Laws.Africa Commons)",
+      "author": "",
+      "source_type": "legislation",
+      "jurisdiction": "ZMB",
+      "published_date": "1991-08-08",
+      "accessed_date": "2026-10-14",
+      "url": "https://commons.laws.africa/akn/zm/act/1991/19/media/publication/zm-act-1991-19-publication-document.pdf",
+      "archive_url": "",
+      "raw_file": "raw/zmb-act-19-1991-investment.pdf",
+      "sha256": "a7c58b84947c89b2bae784ffc07684a9a7c465cb53f51a97a5c478fbf5007801",
+      "covers": "Predecessor of the 1993 Act (assent 8 Aug 1991; 6 Sep 1991 under the long title). Read to check for an investment-linked residence provision: none found in Parts IV (incentives) or elsewhere in the OCR text.",
+      "notes": "Poor OCR; the check rests on reading the incentive sections (31-38) and searching for immigration/permit/resident terms. Repealed the Investment Act 1986 (Act No. 5 of 1986), whose full text was not obtained."
+    },
+    {
+      "source_id": "npl-refworld-immigration-rules-1994",
+      "title": "Nepal: Immigration Rules, 1994 (unofficial English translation, as amended in 1996)",
+      "publisher": "National Legislative Bodies / National Authorities, via UNHCR Refworld (translation by Nepal Press Digest)",
+      "author": "",
+      "source_type": "legislation",
+      "jurisdiction": "NPL",
+      "published_date": "1994",
+      "accessed_date": "2026-10-14",
+      "url": "https://www.refworld.org/docid/3ae6b4f713.html",
+      "archive_url": "http://web.archive.org/web/20180131000319/http://www.refworld.org/docid/3ae6b4f713.html",
+      "raw_file": "raw/local/npl-refworld-immigration-rules-1994.html",
+      "sha256": "47c6107381431e7549cc5382ddea0b1ec4f61290a61170ed1c7e3f79bb0faafa",
+      "covers": "Full text of the 1994 Immigration Rules as amended by the Immigration (First Amendment) Rules 1996 (Nepal Rajapatra 14 Oct 1996); rule 1(2) commencement; rule 11(1)(d) residential visa for persons investing at least one million US dollars in industrial enterprises.",
+      "notes": "Unofficial translated consolidation. Live Refworld page is behind a Cloudflare check; the stored copy is the Wayback Machine capture of 31 Jan 2018. Only Schedules 9 and 13 are marked as amended in 1996, so rule 11 reads as originally made. Note: this translation calls the 1996 amendment the \"First Amendment\", while the Law Commission text (npl-immigration-rules-2051) lists the 2058 (2001) amendment as the first."
+    },
+    {
+      "source_id": "zwe-zic-web-residence-permits-1999",
+      "title": "Zimbabwe Investment Center - Additional Information for Investors (Residence Permits)",
+      "publisher": "Zimbabwe Investment Centre",
+      "author": "",
+      "source_type": "government",
+      "jurisdiction": "ZWE",
+      "published_date": "1999",
+      "accessed_date": "2026-10-14",
+      "url": "http://www.zic.co.zw/zicinfo.htm",
+      "archive_url": "http://web.archive.org/web/19990910180017/http://www.zic.co.zw:80/zicinfo.htm",
+      "raw_file": "raw/zwe-zic-web-residence-permits-1999.html",
+      "sha256": "7782e6218d5f4d40fc3d61ccff7930af7087d21452b7a2b8dd405648cede7438",
+      "covers": "Earliest archived statement found of investor residence criteria: US$1,000,000 in a ZIC-approved project for permanent residence; US$300,000 sole venture for a three-year residence permit; US$100,000 for professionals.",
+      "notes": "Wayback capture of 10 Sep 1999 (earliest capture of this page). Shows the route existed by then; it gives no start date or legal basis."
+    },
+    {
+      "source_id": "zwe-zic-investment-guide-2005",
+      "title": "Comprehensive Investment Guide to Zimbabwe 2005",
+      "publisher": "Zimbabwe Investment Centre",
+      "author": "",
+      "source_type": "government",
+      "jurisdiction": "ZWE",
+      "published_date": "2005",
+      "accessed_date": "2026-10-14",
+      "url": "https://www.assecaa.org/images/informations/English/Investment_laws/Zimbabwe_investment_gudie.pdf",
+      "archive_url": "",
+      "raw_file": "raw/zwe-zic-investment-guide-2005.pdf",
+      "sha256": "9f3b2d491d4a1abff97acba70716d3ff059227c5c04585f28ae435fcce5042a1",
+      "covers": "Same investor residence tiers as the 1999 web page (US$1 million permanent residence; US$300,000 sole venture and US$100,000 professional or joint venture for three-year permits).",
+      "notes": "Hosted by ASSECAA (association of African economic and social councils), not by the Zimbabwe government; cover dated 2005. No start date."
+    },
+    {
+      "source_id": "mus-sovereign-irs-residency-2018",
+      "title": "Mauritius Residency through property investment",
+      "publisher": "The Sovereign Group",
+      "author": "",
+      "source_type": "industry",
+      "jurisdiction": "MUS",
+      "published_date": "2018-10-24",
+      "accessed_date": "2026-10-14",
+      "url": "https://www.sovereigngroup.com/news/mauritius-residency-through-property-investment/",
+      "archive_url": "",
+      "raw_file": "",
+      "sha256": "",
+      "covers": "Says the Integrated Resort Scheme was introduced in 2002; no legal text cited.",
+      "notes": "Industry (corporate services firm) article, not stored. Used only because no official text dating the IRS or its residence provision was found."
+    }
+  ],
+  "observations": [],
+  "program_terms": [],
+  "events": [
+    {
+      "date": "1993-09-08",
+      "date_precision": "day",
+      "jurisdiction": "ZMB",
+      "program_id": "zmb-investor-permit",
+      "category": "launch",
+      "title": "Investment Act 1993 entitles investors of USD 250,000 to a self employment or resident permit",
+      "description": "Section 30(1) of the Investment Act 1993 (Act No. 39 of 1993) provides that, notwithstanding the Immigration and Deportation Act, an investor who invests at least two hundred and fifty thousand US dollars and employs at least ten persons is entitled to a self employment permit or resident permit. Date of assent 26 Aug 1993; the Act commenced on 8 Sep 1993 (date in brackets under the long title of the gazette print; the ZambiaLII consolidation states \"Commenced on 8 September 1993\"). This is the earliest text found tying an investment to a Zambian residence permit: the Investment Act 1991 it repealed has no such provision. The entitlement continued in s. 65 of the Zambia Development Agency Act 2006 (which repealed the 1993 Act) and, from 2010, as the investor's permit of the Immigration and Deportation Act 2010 s. 29; launch taken as the first text of this chain.",
+      "source_id": "zmb-act-39-1993-investment",
+      "location": "PDF p. 1 (date of assent, commencement date); PDF p. 11, s. 30(1) (Act p. 293)",
+      "quote": "shall be entitled to a self employment permit or resident permit"
+    },
+    {
+      "date": "1993-09-08",
+      "date_precision": "day",
+      "jurisdiction": "ZMB",
+      "program_id": "zmb-investor-permit",
+      "category": "launch",
+      "title": "Investment Act 1993 commenced on 8 September 1993 (consolidated text)",
+      "description": "The ZambiaLII/Laws.Africa consolidation of Cap. 385 states the commencement date of the Investment Act 1993 and prints s. 30(1) without any amendment note (same wording as the gazette print: USD 250,000 and a minimum of ten persons, entitled to a self employment permit or resident permit).",
+      "source_id": "zmb-zambialii-investment-act-1993",
+      "location": "PDF p. 4 (header); PDF p. 11, s. 30",
+      "quote": "Commenced on 8 September 1993"
+    },
+    {
+      "date": "1994",
+      "date_precision": "year",
+      "jurisdiction": "NPL",
+      "program_id": "npl-investor-residential-visa",
+      "category": "launch",
+      "title": "Immigration Rules 1994 create a residential visa for investors of at least US$1 million in industry",
+      "description": "Rule 11(1)(d) of the Immigration Rules 2051 (1994), made under s. 18 of the Immigration Act 2049 (1992), grants a residential visa to persons who invest at least one million US dollars in a lump sum in the industrial enterprises of Nepal. Rule 1(2): apart from rules 29 and 39, the rules came into force at once, i.e. on publication; the Law Commission text (npl-immigration-rules-2051) gives the Nepal Gazette date as 2051-02-23 BS, in 1994 (the exact Gregorian day was not found in a document, so year precision). Rule 11 carries no amendment mark in this translation as amended to 1996, so this is the original wording. The Immigration (First Amendment) Rules 2058 (2001) later lowered the amount to US$100,000 (existing rule_change event). Wording from an unofficial translation.",
+      "source_id": "npl-refworld-immigration-rules-1994",
+      "location": "Rule 11(1)(d); commencement rule 1(2); comments (amendment history)",
+      "quote": "(d) Persons who invest at least one million US dollars in the lump sum in the industrial enterprises of Nepal."
+    },
+    {
+      "date": "2002",
+      "date_precision": "year",
+      "jurisdiction": "MUS",
+      "program_id": "mus-property-residence",
+      "category": "launch",
+      "title": "Integrated Resort Scheme introduced in 2002 (reported)",
+      "description": "An industry article says the Government of Mauritius introduced the Integrated Resort Scheme in 2002 to open the property market to foreign buyers on a restricted basis. It cites no legal text and does not say when IRS buyers first got resident status. Officially, the Immigration Act consolidation (to 2011) only shows that s. 5 (where IRS owners are listed as residents) was amended by s. 13(a) of Act 20 of 2002 with effect from 1 Sep 2002, without saying what the amendment did. Recorded as reported; launched left empty pending the 2002 regulations or Act 20 of 2002.",
+      "source_id": "mus-sovereign-irs-residency-2018",
+      "location": "section \"IRS scheme\", paragraph 1",
+      "quote": "The IRS was introduced by the government of Mauritius in 2002 to open the property market to foreign buyers on a restricted basis"
+    }
+  ],
+  "programs": [
+    {
+      "program_id": "zmb-investor-permit",
+      "launched": "1993-09-08",
+      "source_ids": "zmb-act-11-2006-zda;zmb-act-17-2022-zda;zmb-act-18-2010-immigration;zmb-act-18-2022-itbd;zmb-act-19-1991-investment;zmb-act-39-1993-investment;zmb-doi-fees-2026;zmb-doi-fees-notice-2024;zmb-doi-permit-types-2026;zmb-doi-permits-guide-2017;zmb-si-113-2021-immigration-fees;zmb-zambialii-immigration-act-2025;zmb-zambialii-investment-act-1993"
+    },
+    {
+      "program_id": "npl-investor-residential-visa",
+      "launched": "1994",
+      "source_ids": "npl-embassy-muscat-visa-2026;npl-immigration-rules-2051;npl-refworld-immigration-rules-1994"
+    },
+    {
+      "program_id": "zwe-investor-residence-permit",
+      "source_ids": "zwe-herald-investment-residence-guidelines;zwe-immigration-fees-2025;zwe-immigration-investor-residence-permit;zwe-immigration-permits-2025;zwe-zic-investment-guide-2005;zwe-zic-web-residence-permits-1999"
+    },
+    {
+      "program_id": "mus-property-residence",
+      "source_ids": "mus-boi-irs-guidelines-2007;mus-boi-web-reds-2007;mus-edb-guidelines-irs-res-pds-2024;mus-fa-2015;mus-fa-2020;mus-fa-2021;mus-fa-2023;mus-gn-69-2024-edb-fees;mus-immigration-act-2022;mus-immigration-act-consol-2011;mus-sovereign-irs-residency-2018"
+    }
+  ],
+  "new_indicators": [],
+  "gaps": [
+    "zmb-investor-permit: the Investment Act 1986 (Act No. 5 of 1986), repealed by the 1991 Act, was not read in full (the Laws.Africa scan obtained has only 5 pages and stops early), so a pre-1991 investment-linked permit is not ruled out. The Investment Act 1991 was read (OCR, poor quality) and has no immigration or residence provision.",
+    "zmb-investor-permit: in the 1993 Act s. 30 requires a minimum of ten employees; the ZDA Act 2006 s. 65(1) as printed says two hundred. The 2006 commencement instrument is still not stored.",
+    "npl-investor-residential-visa: the exact Gregorian date of the 1994 Gazette (2051-02-23 BS) is not stated in any document read; launched is year-only. Whether an investor residence route existed before the 1994 Rules (under rules made before the Immigration Act 2049) was not checked.",
+    "npl-investor-residential-visa: the existing 2001 rule_change event says the first amendment \"sets\" US$100,000; the 1994 translation shows it was a cut from US$1 million. A price_change wording fix should be considered (not done here: only launch events in scope). The two texts also number the amendments differently (1996 \"First Amendment\" in the translation vs 2058 BS first amendment in the Law Commission list).",
+    "npl-investor-residential-visa: the launch rests on an unofficial English translation (Nepal Press Digest, via Refworld); the original 1994 Nepali gazette text was not obtained.",
+    "zwe-investor-residence-permit: no launch found. The Immigration Regulations 1998 (SI 195/1998; consolidated to 2005 on Refworld, PDF not archived, live site behind a bot check; ZimLII behind a bot check) and any earlier regulations under the Immigration Act 1979 were not read. The earliest evidence found is the Zimbabwe Investment Centre website captured 10 Sep 1999 (stored), which lists the investor residence tiers (US$1 million permanent residence, US$300,000 three-year permit) without a date or legal basis; the ZIC 2005 guide repeats them.",
+    "mus-property-residence: still undated. Act 20 of 2002 (amended Immigration Act ss. 5, 5A, 6, 6A, 7, 10A with effect from 1 Sep 2002) and the original IRS regulations (reported as 2002) were not found: MRA hosts Finance Acts only from 2007, the Supreme Court and Attorney General databases returned nothing for 2002 through curl, FAOLEX/UNCTAD copies were either other Acts or blocked (403). Only an industry article dates the IRS (2002); it is recorded as a reported launch event but launched is left empty."
+  ],
+  "leads": [
+    "Zambia Investment Act 1986 (Act No. 5 of 1986): full gazette scan; Laws.Africa commons path for 1986/4 holds a partial scan (https://commons.laws.africa/akn/zm/act/1986/4/media/publication/zm-act-1986-4-publication-document.pdf).",
+    "Zimbabwe Immigration Regulations 1998, consolidated to 2005 (Veritas transcript): https://www.refworld.org/docid/4c47092f2.html (Cloudflare; PDF https://www.refworld.org/pdfid/4c47092f2.pdf not archived) and https://zimlii.org/akn/zw/act/si/1998/195 (bot check). Earlier ZIC pages on the Wayback Machine (zic.co.zw, captures from Dec 1998; investing.htm 1 Oct 1999) may help narrow the date.",
+    "Mauritius: Act 20 of 2002 and the Investment Promotion (Integrated Resort Scheme) Regulations 2002 from the Government Printer / Government Gazette of Mauritius 2002; Hansard of the 2002 Finance Bill debate (mauritiusassembly.govmu.org).",
+    "Nepal: Nepal Gazette of 2051-02-23 BS (1994) for the original Nepali text of rule 11 and a Gregorian date; Nepal Recorder (Nepal Press Digest) vol. 18 (1994)."
+  ]
+}

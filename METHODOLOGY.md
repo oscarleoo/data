@@ -46,7 +46,7 @@ records. Do such figures belong in the dataset?
 - Status `derived`. Never `actual` or any other status reserved for printed figures.
 - Only simple sums or counts of one official source's own records, as the source publishes them (rows of its
   data sheet, records in its pivot table). No estimates, rates, shares, averages, currency conversions or
-  combining of different sources.
+  combining of different sources. (One exception for shares of two figures printed in the same column: decision 19.)
 - Every derived number carries its recipe: the file, the sheet or table, and the exact filters or rows that
   were summed, so anyone can repeat it. The recipe is written in `notes`, starting with `Recipe:`.
 - Before a derived number enters the data, a second, independent calculation from the raw file must give the
@@ -462,6 +462,29 @@ a route something a country sells.
 **Applied (2026-10-11).** Out of scope (rows kept, not shown): alb-property-residence, blr-property-residence,
 srb-property-residence, ury-tax-residence-investment. Programmes whose minimum is set by a decision not yet stored stay in
 with the amount unset (Turkey property residence since November 2024).
+
+### 19. Shares calculated from two printed figures (decided 2026-10-14)
+
+**Question.** Some sources print a part and its total side by side but not the share. Dominica's budget books print
+the actual CBI revenue and the actual total recurrent revenue in the same column of the same table; the share they
+print is only the planned one. Decision 1 rules out shares calculated by us. Should this kind be allowed?
+
+**Decision.** Yes, narrowly, as an exception to decision 1's "no shares":
+
+- Only a share of two figures printed in the same table and the same column of one source, the part being included
+  in the total. No combining of sources, years or columns, no estimates, averages or currency conversions.
+- Both figures are stored as printed rows of their own, so the share can be checked against them.
+- Status `derived`, with a `Recipe:` in `notes` naming both figures and the arithmetic; rounded to one decimal.
+- A second, independent reading of both figures from the source must give the same share before it enters the data.
+- Pages show it as "calculated by us from official records", like any derived figure.
+
+**Why.** The planned share and the actual share can differ a lot (Dominica 2016/17: 36% planned, 55.8% actual), and
+readers need the actual one. Dividing two printed numbers from one column is plain and anyone can repeat it from the
+page; keeping both numbers in the data makes the check one step.
+
+**Applied (2026-10-14).** Dominica: 12 actual shares of recurrent revenue (FY2011/12, FY2014/15 to FY2024/25), with
+12 printed totals of recurrent revenue (new indicator `government_recurrent_revenue`, a context figure). FY2012/13 and
+FY2013/14 are missing because the 2014/15 and 2015/16 books are not stored.
 
 ## Open questions
 
